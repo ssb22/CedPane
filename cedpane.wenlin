@@ -64131,3 +64131,13 @@ pinyin Suōluó
 characters 梭罗[-羅]
 serial-number CedPane12825
 definition Thoreau
+*** 
+pinyin tōngpèifú
+characters 通配符
+serial-number CedPane12827
+definition <comp.> wildcard character
+*** 
+pinyin yùnsuànfú
+characters 运算符[運--]
+serial-number CedPane12828
+definition <comp.> operator (in an expression)
