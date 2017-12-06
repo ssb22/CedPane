@@ -20165,7 +20165,7 @@ definition (rare word) persistent and with eagerness
 pinyin Hēngshì
 characters 亨氏
 serial-number CedPane4032
-definition Heinz
+definition Heinz (brand)
 *** 
 pinyin héngshī
 characters 横尸[橫屍]
@@ -46345,7 +46345,7 @@ definition Swindon
 pinyin Sīwò'ěr
 characters 斯沃尔[--爾]
 serial-number CedPane9269
-definition (name)
+definition Schwoerer
 *** 
 pinyin sīwù
 characters 私务[-務]
@@ -64416,3 +64416,8 @@ pinyin Tōnglè
 characters 通勒
 serial-number CedPane12884
 definition Tüngler
+*** 
+pinyin Hǎiyīncí
+characters 海因茨
+serial-number CedPane12885
+definition Heinz (name)
