@@ -43852,7 +43852,7 @@ characters 圣书[聖書]
 serial-number CedPane8770
 definition Bible (Japanese version)
 *** 
-pinyin shēngsǐ yōuguān de wèntí
+pinyin shēngsǐ-yōuguān de wèntí
 characters 生死攸关的问题[---關-問題]
 serial-number CedPane8771
 definition matter of life and death
@@ -64796,3 +64796,8 @@ pinyin hūnsú
 characters 婚俗
 serial-number CedPane12960
 definition wedding customs
+*** 
+pinyin shēngsǐ-yōuguān de shì
+characters 生死攸关的事[---關--]
+serial-number CedPane12963
+definition life-and-death matter
