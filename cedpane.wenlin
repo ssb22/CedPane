@@ -634,13 +634,8 @@ definition Edroux
 *** 
 pinyin Āidéméng
 characters 埃德蒙
-serial-number CedPane126
-definition Edmond
-*** 
-pinyin Āidéméng
-characters 埃德蒙
 serial-number CedPane127
-definition Edmund
+definition Edmund; Edmond
 *** 
 pinyin Āidéméngdùn
 characters 埃德蒙顿[---頓]
@@ -1129,18 +1124,8 @@ definition Alisabel
 *** 
 pinyin Āilìsī
 characters 埃利斯
-serial-number CedPane225
-definition Ellice
-*** 
-pinyin Āilìsī
-characters 埃利斯
 serial-number CedPane226
-definition Ellis
-*** 
-pinyin Āilìsī
-characters 埃利斯
-serial-number CedPane227
-definition Elis
+definition Ellis; Elis; Ellice
 *** 
 pinyin Āilìsī
 characters 埃莉丝[--絲]
@@ -3420,12 +3405,7 @@ definition Azazel
 pinyin Āsè
 characters 阿瑟
 serial-number CedPane683
-definition Arthur
-*** 
-pinyin Āsè
-characters 阿瑟
-serial-number CedPane684
-definition Aczel
+definition Arthur; Aczel
 *** 
 pinyin Āsèbàijiāng
 characters 阿塞拜疆
@@ -4804,11 +4784,6 @@ definition Bartha
 *** 
 pinyin Báogāfàngē
 characters 薄伽梵歌
-serial-number CedPane960
-definition Bhagavad
-*** 
-pinyin Báogāfàngē
-characters 薄伽梵歌
 serial-number CedPane961
 definition Bhagavad Gita (Hindu holy book, lit. Bhagavad song)
 *** 
@@ -5352,11 +5327,6 @@ pinyin Bèi'ěrqíxī
 characters 贝尔齐希[貝爾齊-]
 serial-number CedPane1069
 definition Belzig
-*** 
-pinyin Bèi'ěrtǎ
-characters 贝尔塔[貝爾-]
-serial-number CedPane1070
-definition Bertha
 *** 
 pinyin Bèi'ěrtǎ
 characters 贝尔塔[貝爾-]
@@ -12791,12 +12761,7 @@ definition Timothy (modern)
 pinyin Dìmǔ
 characters 蒂姆
 serial-number CedPane2556
-definition Tim
-*** 
-pinyin Dìmǔ
-characters 蒂姆
-serial-number CedPane2557
-definition Timm
+definition Tim; Timm
 *** 
 pinyin Dímùlán
 characters 迪穆兰[--蘭]
@@ -18411,13 +18376,8 @@ definition Jasper (place in Alberta)
 *** 
 pinyin Gǔsītǎfū
 characters 古斯塔夫
-serial-number CedPane3680
-definition Gustaw
-*** 
-pinyin Gǔsītǎfū
-characters 古斯塔夫
 serial-number CedPane3681
-definition Gustav
+definition Gustav; Gustaw
 *** 
 pinyin Gǔsītǎwò
 characters 古斯塔沃
@@ -22021,11 +21981,6 @@ characters 迦密人
 serial-number CedPane4401
 definition Carmelite
 *** 
-pinyin Jiāmìrén
-characters 迦密人
-serial-number CedPane4402
-definition person of Carmel
-*** 
 pinyin Jiǎmǐsēn
 characters 贾米森[賈--]
 serial-number CedPane4403
@@ -25555,13 +25510,8 @@ definition Karachi
 *** 
 pinyin Kǎlāsī
 characters 卡拉斯
-serial-number CedPane5108
-definition Calas
-*** 
-pinyin Kǎlāsī
-characters 卡拉斯
 serial-number CedPane5109
-definition Callas
+definition Callas; Calas
 *** 
 pinyin Kǎlāsījīlìyà
 characters 卡拉斯基利亚[-----亞]
@@ -26692,17 +26642,7 @@ definition Kleinknecht
 pinyin Kèlākè
 characters 克拉克
 serial-number CedPane5335
-definition Clark
-*** 
-pinyin Kèlākè
-characters 克拉克
-serial-number CedPane5336
-definition Clarke (Adam)
-*** 
-pinyin Kèlākè
-characters 克拉克
-serial-number CedPane5337
-definition Kraker
+definition Clark; Kraker
 *** 
 pinyin Kèlālā
 characters 克拉拉
@@ -26956,13 +26896,8 @@ definition Christiane
 *** 
 pinyin Kèlǐsīdìnà
 characters 克里斯蒂娜
-serial-number CedPane5388
-definition Christina
-*** 
-pinyin Kèlǐsīdìnà
-characters 克里斯蒂娜
 serial-number CedPane5389
-definition Kristina
+definition Kristina; Christina
 *** 
 pinyin Kèlìsīdìnà
 characters 克莉斯蒂娜
@@ -31374,13 +31309,8 @@ definition Lunde
 *** 
 pinyin Lúndé'ěr
 characters 伦德尔[倫-爾]
-serial-number CedPane6271
-definition Rendle Short
-*** 
-pinyin Lúndé'ěr
-characters 伦德尔[倫-爾]
 serial-number CedPane6272
-definition Rendell
+definition Rendell; Rendle
 *** 
 pinyin Lúndù
 characters 伦杜[倫-]
@@ -32960,12 +32890,7 @@ definition McClintock (and Strong)
 pinyin Màikèmǐlún
 characters 麦克米伦[麥--倫]
 serial-number CedPane6588
-definition Macmillan
-*** 
-pinyin Màikèmǐlún
-characters 麦克米伦[麥--倫]
-serial-number CedPane6589
-definition McMillen
+definition Macmillan; McMillen
 *** 
 pinyin Màikènàmǎlā
 characters 麦克纳马拉[麥-納馬-]
@@ -33004,13 +32929,8 @@ definition sold (to come) here
 *** 
 pinyin Màiluó'āi
 characters 麦罗埃[麥羅-]
-serial-number CedPane6597
-definition Meroë
-*** 
-pinyin Màiluó'āi
-characters 麦罗埃[麥羅-]
 serial-number CedPane6598
-definition Mero
+definition Mero; Meroë
 *** 
 pinyin mǎimài shèngzhí
 characters 买卖圣职[買賣聖職]
@@ -33145,12 +33065,7 @@ definition Makarios
 pinyin Mǎkě
 characters 马可[馬-]
 serial-number CedPane6625
-definition Mark (person)
-*** 
-pinyin Mǎkě
-characters 马可[馬-]
-serial-number CedPane6626
-definition Marco (Polo)
+definition Mark (person); Marco (Polo)
 *** 
 pinyin Mǎkèbó
 characters 马克白[馬--]
@@ -38774,13 +38689,8 @@ definition Parnach
 *** 
 pinyin pàndào
 characters 叛道
-serial-number CedPane7751
-definition apostasy
-*** 
-pinyin pàndào
-characters 叛道
 serial-number CedPane7752
-definition apostate (used as an adjective; lit. leaving the way)
+definition apostate (used as an adjective; lit. leaving the way); apostasy
 *** 
 pinyin pàndàozhě
 characters 叛道者
@@ -39105,12 +39015,7 @@ definition Pereira
 pinyin Pèiléisī
 characters 佩雷斯
 serial-number CedPane7817
-definition Pérez
-*** 
-pinyin Pèiléisī
-characters 佩雷斯
-serial-number CedPane7818
-definition Perez (modern)
+definition Perez (modern); Pérez
 *** 
 pinyin Péilì
 characters 培利
@@ -39932,7 +39837,7 @@ definition pour cement; pour concrete pathways
 pinyin pútao
 characters 葡萄
 serial-number CedPane7982
-definition grapes
+definition grapes; vine
 *** 
 pinyin pútaobǐng
 characters 葡萄饼[--餅]
@@ -40201,13 +40106,8 @@ definition Joanna (modern)
 *** 
 pinyin Qiáo'ānnī
 characters 乔安妮[喬--]
-serial-number CedPane8036
-definition Joanie
-*** 
-pinyin Qiáo'ānnī
-characters 乔安妮[喬--]
 serial-number CedPane8037
-definition Joanne
+definition Joanne; Joanie
 *** 
 pinyin Qiáobān
 characters 乔班[喬-]
@@ -40227,12 +40127,7 @@ definition Jordan (modern name)
 pinyin Qiáodí
 characters 乔迪[喬-]
 serial-number CedPane8041
-definition Joby
-*** 
-pinyin Qiáodí
-characters 乔迪[喬-]
-serial-number CedPane8042
-definition Geordie (given name)
+definition Joby; Geordie (given name)
 *** 
 pinyin Qiáo'ēn
 characters 乔恩[喬-]
@@ -40241,13 +40136,8 @@ definition Jon
 *** 
 pinyin Qiáo'ěr
 characters 乔尔[喬爾]
-serial-number CedPane8044
-definition Joel (modern)
-*** 
-pinyin Qiáo'ěr
-characters 乔尔[喬爾]
 serial-number CedPane8045
-definition Joe
+definition Joe; Joel (modern)
 *** 
 pinyin Qiáo'ěrdì
 characters 乔尔蒂[喬爾-]
@@ -43646,11 +43536,6 @@ characters 生鸡蛋[-雞-]
 serial-number CedPane8724
 definition raw eggs
 *** 
-pinyin Shèngjīng chāoběn
-characters 圣经抄本[聖經--]
-serial-number CedPane8725
-definition manuscripts of the Bible
-*** 
 pinyin Shèngjīng Dìdài
 characters 圣经地带[聖經-帶]
 serial-number CedPane8726
@@ -45701,11 +45586,6 @@ pinyin Shūyàrén
 characters 书亚人[書亞-]
 serial-number CedPane9135
 definition Shuhite
-*** 
-pinyin Shūyàrén
-characters 书亚人[書亞-]
-serial-number CedPane9136
-definition person of Shuah
 *** 
 pinyin shùzhībùjìn
 characters 数之不尽[數--盡]
@@ -52327,11 +52207,6 @@ characters 向着目标前进[-著-標-進]
 serial-number CedPane10459
 definition move forward (toward personal goals)
 *** 
-pinyin xiàngzhēng
-characters 象征
-serial-number CedPane10460
-definition represents; symbolizes
-*** 
 pinyin xiānhóngsè
 characters 鲜红色[鮮紅-]
 serial-number CedPane10461
@@ -55708,11 +55583,6 @@ characters 亚杜兰人[亞-蘭-]
 serial-number CedPane11136
 definition Adullamite
 *** 
-pinyin Yàdùlánrén
-characters 亚杜兰人[亞-蘭-]
-serial-number CedPane11137
-definition person of Adullam
-*** 
 pinyin Yādùn
 characters 押顿[-頓]
 serial-number CedPane11138
@@ -56405,13 +56275,8 @@ definition Jalon
 *** 
 pinyin Yàlún
 characters 亚伦[亞倫]
-serial-number CedPane11276
-definition Allen
-*** 
-pinyin Yàlún
-characters 亚伦[亞倫]
 serial-number CedPane11277
-definition Aaron (Bible)
+definition Aaron (Bible); Allen
 *** 
 pinyin Yàlúnbǐ
 characters 亚伦比[亞倫-]
@@ -59786,12 +59651,7 @@ definition Ezem
 pinyin Yīshābèi'ěr
 characters 伊莎贝尔[--貝爾]
 serial-number CedPane11952
-definition Isabel
-*** 
-pinyin Yīshābèi'ěr
-characters 伊莎贝尔[--貝爾]
-serial-number CedPane11953
-definition Isabelle
+definition Isabel; Isabelle
 *** 
 pinyin Yīshābèilā
 characters 伊莎贝拉[--貝-]
@@ -72033,11 +71893,6 @@ characters 孔卡尼语[---語]
 serial-number CedPane14412
 definition Konkani (language)
 *** 
-pinyin Kǒngkǎníyǔ
-characters 孔卡尼语[---語]
-serial-number CedPane14413
-definition Konkani (language)
-*** 
 pinyin Bātǎkèyǔ
 characters 巴塔克语[---語]
 serial-number CedPane14414
@@ -72167,3 +72022,8 @@ pinyin Qióngtǎěryǔ
 characters 琼塔尔语[瓊-爾語]
 serial-number CedPane14441
 definition Chontal (language)
+*** 
+pinyin Shàngdì de zhìhuì
+characters 上帝的智慧
+serial-number CedPane14442
+definition godly wisdom; God's wisdom
