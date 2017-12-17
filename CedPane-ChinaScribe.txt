@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2017-12-14
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2017-12-17
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -5827,7 +5827,7 @@
 雷克瑟姆 雷克瑟姆 [Lei2 ke4 se4 mu3] /Wrexham/
 雷克斯 雷克斯 [Lei2 ke4 si1] /Rex/
 雷克雅未克 雷克雅未克 [Lei2 ke4 ya3 wei4 ke4] /Reykjavík/
-雷利 雷利 [Lei2 li4] /Raleigh Walter/
+雷利 雷利 [Lei2 li4] /Raleigh Walter/Reilly/Reilly, Raleigh/
 雷蒙 雷蒙 [Lei2 meng2] /Ramon/
 雷蒙德 雷蒙德 [Lei2 meng2 de2] /Raymond/
 雷納 雷纳 [Lei2 na4] /Reina/
@@ -14408,3 +14408,5 @@
 布里赫德 布里赫德 [Bu4 li3 he4 de2] /Bridehead/
 富勒 富勒 [Fu4 le4] /Fuller surname/
 奇德克 奇德克 [Qi2 de2 ke4] /Chideock/
+萊莉 莱莉 [Lai2 li4] /Riley/
+穆爾 穆尔 [Mu4 er3] /Moores older translation/

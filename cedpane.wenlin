@@ -29134,7 +29134,7 @@ definition Reykjavík
 pinyin Léilì
 characters 雷利
 serial-number CedPane5836
-definition Raleigh (Walter)
+definition Raleigh (Walter); Reilly
 *** 
 pinyin Léiméng
 characters 雷蒙
@@ -72057,3 +72057,13 @@ pinyin Qídékè
 characters 奇德克
 serial-number CedPane14449
 definition Chideock
+*** 
+pinyin Láilì
+characters 莱莉[萊-]
+serial-number CedPane14450
+definition Riley
+*** 
+pinyin Mù'ěr
+characters 穆尔[-爾]
+serial-number CedPane14451
+definition Moores (older translation)
