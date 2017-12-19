@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2017-12-17
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2017-12-19
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -11217,7 +11217,6 @@
 亞勒瓦 亚勒瓦 [Ya4 le4 wa3] /Alvah/
 亞勒文 亚勒文 [Ya4 le4 wen2] /Alvan/
 雅利 雅利 [Ya3 li4] /Jahleel/
-雅麗 雅丽 [Ya3 li4] /Yali Cheng/
 雅立 雅立 [Ya3 li4] /Jarib/
 亞力 亚力 [Ya4 li4] /Alex/
 亞歷 亚历 [Ya4 li4] /Alejandro/
@@ -14431,3 +14430,60 @@
 皮克斯 皮克斯 [Pi2 ke4 si1] /Pixar company/
 喬納斯 乔纳斯 [Qiao2 na4 si1] /Jonas/
 武克西奇 武克西奇 [Wu3 ke4 xi1 qi2] /Vukusic/
+艾哈邁德 艾哈迈德 [Ai4 ha1 mai4 de2] /Ahmed/
+愛蓮 爱莲 [Ai4 lian2] /Earlene/
+阿倫 阿伦 [A1 lun2] /Aaron modern/
+安迪 安迪 [An1 di2] /Andy/
+博加特 博加特 [Bo2 jia1 te4] /Bogart/
+布拉德福德 布拉德福德 [Bu4 la1 de2 fu2 de2] /Bradford name/
+布羅德斯 布罗德斯 [Bu4 luo2 de2 si1] /Broadus/
+戴夫 戴夫 [Dai4 fu1] /Dave/
+東尼 东尼 [Dong1 ni2] /Tony/
+多蘿西 多萝西 [Duo1 luo2 xi1] /Dorothy/
+弗朗索瓦 弗朗索瓦 [Fu2 lang3 suo3 wa3] /François/
+福斯特 福斯特 [Fu2 si1 te4] /Forster/
+蓋汀 盖汀 [Gai4 ting1] /Getting surname/
+格林 格林 [Ge2 lin2] /Green surname/
+格倫費爾 格伦费尔 [Ge2 lun2 fei4 er3] /Grenfell/
+漢柏 汉柏 [Han4 bo2] /Hamper surname/
+漢弗萊 汉弗莱 [Han4 fu2 lai2] /Humphrey/
+赫魯曉夫 赫鲁晓夫 [He4 lu3 xiao3 fu1] /Khrushchev/
+亨特 亨特 [Heng1 te4] /Hunt surname/
+荷西 荷西 [He2 xi1] /José/
+懷特 怀特 [Huai2 te4] /White surname/
+傑西卡 杰西卡 [Jie2 xi1 ka3] /Jessica/
+吉米 吉米 [Ji2 mi3] /Jimmy/
+凱莉 凯莉 [Kai3 li4] /Kayley/
+堪富利 堪富利 [Kan1 fu4 li4] /Humphrey alternate translation/
+克里斯 克里斯 [Ke4 li3 si1] /Chris/
+克里斯汀 克里斯汀 [Ke4 li3 si1 ting1] /Christine/
+萊恩 莱恩 [Lai2 en1] /Lane surname/
+李察 李察 [Li3 cha2] /Richard old translation/
+麗莎 丽莎 [Li4 sha1] /Lisa/
+羅伯 罗伯 [Luo2 bo2] /Rob name/
+羅斯 罗斯 [Luo2 si1] /Ross/
+馬圭爾 马圭尔 [Ma3 gui1 er3] /Maguire/
+麥克 麦克 [Mai4 ke4] /Mac given name/
+馬特 马特 [Ma3 te4] /Matt name/
+米高 米高 [Mi3 gao1] /Michael modern name, alternate translation/
+莫利納 莫利纳 [Mo4 li4 na4] /Molyneaux/
+納齊爾 纳齐尔 [Na4 qi2 er3] /Nazeer/
+尼基塔 尼基塔 [Ni2 ji1 ta3] /Nikita/
+強尼 强尼 [Qiang2 ni2] /Johnny/
+瑞德利 瑞德利 [Rui4 de2 li4] /Ridley/
+山姆 山姆 [Shan1 mu3] /Sam older translation/
+史提爾 史提尔 [Shi3 ti2 er3] /Steele/
+斯尼德 斯尼德 [Si1 ni2 de2] /Snyder/
+泰德 泰德 [Tai4 de2] /Ted/
+湯瑪斯 汤玛斯 [Tang1 ma3 si1] /Thomas old translation/
+提姆 提姆 [Ti2 mu3] /Tim/
+韋恩 韦恩 [Wei2 en1] /Wayne/
+薇拉 薇拉 [Wei1 la1] /Vera/
+肖恩 肖恩 [Xiao4 en1] /Shawn/
+希爾 希尔 [Xi1 er3] /Hill surname/
+伊凡 伊凡 [Yi1 fan2] /Ivan/
+伊莉莎白 伊莉莎白 [Yi1 li4 sha1 bai2] /Elizabeth/
+詹姆士 詹姆士 [Zhan1 mu3 shi4] /James/
+鍾斯 钟斯 [Zhong1 si1] /Jones older translation/
+朱莉亞 朱莉亚 [Zhu1 li4 ya4] /Julia/
+佐敦 佐敦 [Zuo3 dun1] /Jordan modern name, alternate translation/
