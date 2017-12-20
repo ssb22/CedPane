@@ -72549,12 +72549,12 @@ serial-number CedPane14548
 definition Iles
 *** 
 pinyin Bèilì
-characters 貝利
+characters 贝利[貝-]
 serial-number CedPane14549
 definition Bayley
 *** 
 pinyin Àimǎ
-characters 艾瑪
+characters 艾玛[-瑪]
 serial-number CedPane14550
 definition Emma
 *** 
@@ -72574,12 +72574,12 @@ serial-number CedPane14553
 definition Tommi
 *** 
 pinyin Zhūlìyà
-characters 茱莉亞
+characters 茱莉亚[--亞]
 serial-number CedPane14554
 definition Julia
 *** 
 pinyin Fèixuě
-characters 費雪
+characters 费雪[費-]
 serial-number CedPane14555
 definition Fischer (older translation)
 *** 
@@ -72594,7 +72594,7 @@ serial-number CedPane14557
 definition Lynch
 *** 
 pinyin Luóbīnxùn
-characters 羅賓遜
+characters 罗宾逊[羅賓遜]
 serial-number CedPane14558
 definition Robinson
 *** 
@@ -72609,17 +72609,17 @@ serial-number CedPane14560
 definition Andrei
 *** 
 pinyin Jiābùlǐ'āi'ěr
-characters 加布里埃爾
+characters 加布里埃尔[----爾]
 serial-number CedPane14561
 definition Gabriel (modern)
 *** 
 pinyin Luólán
-characters 羅蘭
+characters 罗兰[羅蘭]
 serial-number CedPane14562
 definition Rowland
 *** 
 pinyin Kāngnà
-characters 康納
+characters 康纳[-納]
 serial-number CedPane14563
 definition Connor
 *** 
@@ -72649,7 +72649,7 @@ serial-number CedPane14568
 definition Chapman
 *** 
 pinyin Kǎilún
-characters 凱倫
+characters 凯伦[凱倫]
 serial-number CedPane14569
 definition Karen
 *** 
@@ -72659,7 +72659,7 @@ serial-number CedPane14570
 definition Patrick
 *** 
 pinyin Kèláodé
-characters 克勞德
+characters 克劳德[-勞-]
 serial-number CedPane14571
 definition Claude
 *** 
@@ -72669,7 +72669,7 @@ serial-number CedPane14572
 definition Mostafa
 *** 
 pinyin Luólā
-characters 蘿拉
+characters 萝拉[蘿-]
 serial-number CedPane14573
 definition Laura
 *** 
@@ -72684,12 +72684,12 @@ serial-number CedPane14575
 definition Nicole
 *** 
 pinyin Qiángnàsēn
-characters 強納森
+characters 强纳森[強納-]
 serial-number CedPane14576
 definition Jonathan (modern)
 *** 
 pinyin Àolìfó
-characters 奧利佛
+characters 奥利佛[奧--]
 serial-number CedPane14577
 definition Oliver
 *** 
@@ -72719,7 +72719,7 @@ serial-number CedPane14582
 definition Cox
 *** 
 pinyin Mǎlì
-characters 瑪莉
+characters 玛莉[瑪-]
 serial-number CedPane14583
 definition Mary (modern)
 *** 
@@ -72749,7 +72749,7 @@ serial-number CedPane14588
 definition Charles
 *** 
 pinyin Shǐdōuhuá
-characters 史都華
+characters 史都华[--華]
 serial-number CedPane14589
 definition Stewart (surname, alternate translation)
 *** 
@@ -72764,7 +72764,7 @@ serial-number CedPane14591
 definition Mill (surname)
 *** 
 pinyin Mǎdìyàsī
-characters 马蒂亚斯
+characters 马蒂亚斯[馬-亞-]
 serial-number CedPane14592
 definition Matthias (modern)
 *** 
@@ -72937,3 +72937,58 @@ pinyin Hèfūmàn
 characters 赫夫曼
 serial-number CedPane14626
 definition Huffman
+*** 
+pinyin Ādēngbùlǔkè
+characters 阿登布鲁克[---魯-]
+serial-number CedPane14627
+definition Addenbrooke's (hospital)
+*** 
+pinyin Bèiruì
+characters 贝瑞[貝-]
+serial-number CedPane14628
+definition Barry
+*** 
+pinyin Bùlándēng
+characters 布兰登[-蘭-]
+serial-number CedPane14629
+definition Brandon (given name)
+*** 
+pinyin Hémèngzú
+characters 何孟族
+serial-number CedPane14630
+definition Hmong (tribe, alternate translation of Miao)
+*** 
+pinyin Huátè
+characters 华特[華-]
+serial-number CedPane14631
+definition Walter
+*** 
+pinyin Lándí
+characters 兰迪[蘭-]
+serial-number CedPane14632
+definition Randy
+*** 
+pinyin Lúkè
+characters 卢克[盧-]
+serial-number CedPane14633
+definition Luke (modern)
+*** 
+pinyin Luó'ēn
+characters 罗恩[羅-]
+serial-number CedPane14634
+definition Ron
+*** 
+pinyin Màisī
+characters 麦斯[麥-]
+serial-number CedPane14635
+definition Max
+*** 
+pinyin Miǎnzú
+characters 缅族[緬-]
+serial-number CedPane14636
+definition Mien (tribe, alternate translation of Yao)
+*** 
+pinyin Yīwàn
+characters 伊万[-萬]
+serial-number CedPane14637
+definition Ivan
