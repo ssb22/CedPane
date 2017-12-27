@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2017-12-26
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2017-12-27
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -1747,7 +1747,7 @@
 不認為是 不认为是 [bu4_ren4 wei2_shi4] /not thinking it's/thinking it's, not/
 不容錯過 不容错过 [bu4_rong2_cuo4 guo4] /must-see/unmissable of movie etc/
 不捨 不舍 [bu4 she3] /not give up|leave|abandon/give up|leave|abandon, not/
-不適當 不适当 [bu4_shi4 dang4] /improper/out of place/place, out of/
+不適當 不适当 [bu4_shi4 dang4] /improper/out of place/inappropriate/place, out of/
 不守規矩 不守规矩 [bu4_shou3_gui1 ju5] /disorderly person etc; lit. not accept rule/
 不舒服 不舒服 [bu4_shu1 fu5] /uncomfortable/awkward/
 布斯 布斯 [Bu4 si1] /Buz/
@@ -14608,3 +14608,7 @@
 酒紅色 酒红色 [jiu3 hong2 se4] /burgundy colour/
 木溜槽 木溜槽 [mu4 liu1 cao2] /wooden sluice gold-mining tool/sluice, wooden (gold-mining tool)/
 淘金盤 淘金盘 [tao2 jin1 pan2] /pan gold-mining tool/
+成都市 成都市 [Cheng2 du1_Shi4] /Chengdu city/
+廈門市 厦门市 [Sha4 men2_Shi4] /Xiamen city/
+上海市 上海市 [Shang4 hai3_Shi4] /Shanghai city/
+同濟大學 同济大学 [Tong2 ji4_Da4 xue2] /Tongji University Shanghai, est. 1907/University, Tongji (Shanghai, est. 1907)/

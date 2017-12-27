@@ -8723,7 +8723,7 @@ definition not give up/leave/abandon
 pinyin bù shìdàng
 characters 不适当[-適當]
 serial-number CedPane1749
-definition improper; out of place
+definition improper; out of place; inappropriate
 *** 
 pinyin bù shǒu guīju
 characters 不守规矩[--規-]
@@ -73057,3 +73057,23 @@ pinyin táojīnpán
 characters 淘金盘[--盤]
 serial-number CedPane14653
 definition pan (gold-mining tool)
+*** 
+pinyin Chéngdū Shì
+characters 成都市
+serial-number CedPane14655
+definition Chengdu (city)
+*** 
+pinyin Shàmén Shì
+characters 厦门市[廈門-]
+serial-number CedPane14656
+definition Xiamen (city)
+*** 
+pinyin Shànghǎi Shì
+characters 上海市
+serial-number CedPane14657
+definition Shanghai (city)
+*** 
+pinyin Tóngjì Dàxué
+characters 同济大学[-濟-學]
+serial-number CedPane14658
+definition Tongji University (Shanghai, est. 1907)
