@@ -30039,7 +30039,7 @@ definition Likhi
 pinyin Lìlā
 characters 莉拉
 serial-number CedPane6017
-definition Lira
+definition Lira; Leila
 *** 
 pinyin Lìlái
 characters 利莱[-萊]
@@ -73077,3 +73077,23 @@ pinyin Tóngjì Dàxué
 characters 同济大学[-濟-學]
 serial-number CedPane14658
 definition Tongji University (Shanghai, est. 1907)
+*** 
+pinyin Chákǎ
+characters 查卡
+serial-number CedPane14659
+definition Chaka
+*** 
+pinyin Kùmǎ'ěr
+characters 库马尔[庫馬爾]
+serial-number CedPane14660
+definition Kumar
+*** 
+pinyin Lìsūtú
+characters 利苏图[-蘇圖]
+serial-number CedPane14661
+definition Lesotho (old translation)
+*** 
+pinyin Pǔluókètè
+characters 普罗克特[-羅--]
+serial-number CedPane14662
+definition Proctor (surname)
