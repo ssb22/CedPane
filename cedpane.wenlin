@@ -40533,7 +40533,7 @@ definition Chippewa
 pinyin Qíqiēwǎyǔ
 characters 齐切瓦语[齊--語]
 serial-number CedPane8124
-definition Chichewa (language; tones uncertain)
+definition Chichewa (language)
 *** 
 pinyin Qīqījié
 characters 七七节[--節]
@@ -73122,3 +73122,8 @@ pinyin Xièsītèluóliècíkè
 characters 谢斯特罗列茨克[謝--羅---]
 serial-number CedPane14667
 definition Sestroretskiy
+*** 
+pinyin Qíqiēwǎyǔ
+characters 奇切瓦语[---語]
+serial-number CedPane14668
+definition Chichewa (language, alternate translation)
