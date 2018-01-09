@@ -34860,7 +34860,7 @@ definition Midas
 pinyin Mǐdé
 characters 米德
 serial-number CedPane6985
-definition Mead
+definition Mead (surname)
 *** 
 pinyin Mìdédùn
 characters 密德顿[--頓]
@@ -69827,11 +69827,6 @@ characters 一代一代
 serial-number CedPane13990
 definition generation by generation
 *** 
-pinyin yīdiǎn-yīhuà
-characters 一点一画[-點-畫]
-serial-number CedPane13991
-definition one smallest letter or one particle of a letter
-*** 
 pinyin yìduānjiàopài
 characters 异端教派[異---]
 serial-number CedPane13992
@@ -79470,7 +79465,7 @@ serial-number CedPane16007
 definition Eve (modern)
 *** 
 pinyin Luódé
-characters 羅德
+characters 罗德[羅-]
 serial-number CedPane16008
 definition Rod (name)
 *** 
@@ -79505,7 +79500,7 @@ serial-number CedPane16014
 definition Peggy
 *** 
 pinyin Sībīnsè
-characters 斯賓塞
+characters 斯宾塞[-賓-]
 serial-number CedPane16015
 definition Spencer (surname)
 *** 
@@ -79515,22 +79510,22 @@ serial-number CedPane16016
 definition Bullock (surname)
 *** 
 pinyin Hóusàiyīn
-characters 侯賽因
+characters 侯赛因[-賽-]
 serial-number CedPane16017
 definition Husayn
 *** 
 pinyin Hànmì'ěrdùn
-characters 汉密尔顿
+characters 汉密尔顿[漢-爾頓]
 serial-number CedPane16018
 definition Hamilton
 *** 
 pinyin Sè'ěrjí'ào
-characters 塞爾吉奧
+characters 塞尔吉奥[-爾-奧]
 serial-number CedPane16019
 definition Sergio
 *** 
 pinyin Sàimén
-characters 賽門
+characters 赛门[賽門]
 serial-number CedPane16020
 definition Simon (modern)
 *** 
@@ -79540,7 +79535,7 @@ serial-number CedPane16021
 definition Shari
 *** 
 pinyin Luó'ēn
-characters 罗恩
+characters 罗恩[羅-]
 serial-number CedPane16022
 definition Ron
 *** 
@@ -79558,3 +79553,18 @@ pinyin Díkèsēn
 characters 迪克森
 serial-number CedPane16025
 definition Dickson
+*** 
+pinyin Lǔběn
+characters 鲁本[魯-]
+serial-number CedPane16026
+definition Reuben (modern)
+*** 
+pinyin Lǔbīn
+characters 鲁宾[魯賓]
+serial-number CedPane16027
+definition Rubén
+*** 
+pinyin Sūfēi
+characters 苏菲[蘇-]
+serial-number CedPane16028
+definition Sophie
