@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-01-17
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-01-18
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -15954,3 +15954,9 @@
 涪陵市 涪陵市 [Fu2 ling2_Shi4] /Fuling in Sichuan/
 格里芬市 格里芬市 [Ge2 li3 fen1_Shi4] /Griffin city/
 沙市市 沙市市 [Sha1 shi4_Shi4] /Shashi in Hubei/
+陽去 阳去 [yang2 qu4] /lower departing tone e.g. in Wenzhounese/departing tone, lower (e.g. in Wenzhounese)/
+陽入 阳入 [yang2 ru4] /lower entering tone e.g. in Wenzhounese/entering tone, lower (e.g. in Wenzhounese)/
+陽上 阳上 [yang2 shang3] /lower rising tone e.g. in Wenzhounese/rising tone, lower (e.g. in Wenzhounese)/
+陰去 阴去 [yin1 qu4] /upper departing tone e.g. in Wenzhounese/departing tone, upper (e.g. in Wenzhounese)/
+陰入 阴入 [yin1 ru4] /upper entering tone e.g. in Wenzhounese/entering tone, upper (e.g. in Wenzhounese)/
+陰上 阴上 [yin1 shang3] /upper rising tone e.g. in Wenzhounese/rising tone, upper (e.g. in Wenzhounese)/

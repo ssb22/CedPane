@@ -79788,3 +79788,33 @@ pinyin Shāshì Shì
 characters 沙市市
 serial-number CedPane16073
 definition Shashi (in Hubei)
+*** 
+pinyin yángqù
+characters 阳去[陽-]
+serial-number CedPane16074
+definition lower departing tone (e.g. in Wenzhounese)
+*** 
+pinyin yángrù
+characters 阳入[陽-]
+serial-number CedPane16075
+definition lower entering tone (e.g. in Wenzhounese)
+*** 
+pinyin yángshǎng
+characters 阳上[陽-]
+serial-number CedPane16076
+definition lower rising tone (e.g. in Wenzhounese)
+*** 
+pinyin yīnqù
+characters 阴去[陰-]
+serial-number CedPane16077
+definition upper departing tone (e.g. in Wenzhounese)
+*** 
+pinyin yīnrù
+characters 阴入[陰-]
+serial-number CedPane16078
+definition upper entering tone (e.g. in Wenzhounese)
+*** 
+pinyin yīnshǎng
+characters 阴上[陰-]
+serial-number CedPane16079
+definition upper rising tone (e.g. in Wenzhounese)
