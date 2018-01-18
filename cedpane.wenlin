@@ -64376,7 +64376,7 @@ definition escarpment
 pinyin Dùnniècíkè
 characters 顿涅茨克[頓---]
 serial-number CedPane12899
-definition Donetsk
+definition Donetsk (city or region)
 *** 
 pinyin Duōbā Hú
 characters 多巴湖
@@ -79818,3 +79818,113 @@ pinyin yīnshǎng
 characters 阴上[陰-]
 serial-number CedPane16079
 definition upper rising tone (e.g. in Wenzhounese)
+*** 
+pinyin Ā'ěrqiēfūsīkè
+characters 阿尔切夫斯克[-爾----]
+serial-number CedPane16080
+definition Alchevsk
+*** 
+pinyin Ā'ěrqiēfūsīkè Shì
+characters 阿尔切夫斯克市[-爾-----]
+serial-number CedPane16081
+definition Alchevsk
+*** 
+pinyin Bāsuǒfū
+characters 巴索夫
+serial-number CedPane16082
+definition Basov
+*** 
+pinyin dīmìdù
+characters 低密度
+serial-number CedPane16083
+definition low-density
+*** 
+pinyin dīmìdù zhīdànbái
+characters 低密度脂蛋白
+serial-number CedPane16084
+definition LDL; low-density lipoprotein
+*** 
+pinyin Dùnniècíkè Shì
+characters 顿涅茨克市[頓----]
+serial-number CedPane16085
+definition city of Donetsk
+*** 
+pinyin gāomìdù
+characters 高密度
+serial-number CedPane16086
+definition high concentration; high density
+*** 
+pinyin gāomìdù zhīdànbái
+characters 高密度脂蛋白
+serial-number CedPane16087
+definition HDL; high-density lipoprotein
+*** 
+pinyin Gē'ěrluòfūkǎ Shì
+characters 戈尔洛夫卡市[-爾----]
+serial-number CedPane16088
+definition city of Horlivka
+*** 
+pinyin guójiā de dírén
+characters 国家的敌人[國--敵-]
+serial-number CedPane16089
+definition enemies of the State
+*** 
+pinyin Jiébālìcǎiwò
+characters 杰巴利采沃[傑----]
+serial-number CedPane16090
+definition Debaltsevo
+*** 
+pinyin Lǐhè'ěr
+characters 里赫尔[--爾]
+serial-number CedPane16091
+definition Riher
+*** 
+pinyin Lúgānsīkè Shì
+characters 卢甘斯克市[盧----]
+serial-number CedPane16092
+definition Luhansk (city)
+*** 
+pinyin Mǎkèyéfūkǎ Shì
+characters 马克耶夫卡市[馬-----]
+serial-number CedPane16093
+definition Makeyevka
+*** 
+pinyin Pèilièwǎlìsīkè Shì
+characters 佩列瓦利斯克市
+serial-number CedPane16094
+definition Perevalsk
+*** 
+pinyin wǔzhuāng fènzǐ
+characters 武装分子[-裝--]
+serial-number CedPane16095
+definition armed members; militants
+*** 
+pinyin xīnxuèguǎn
+characters 心血管
+serial-number CedPane16096
+definition cardiovascular
+*** 
+pinyin xīnxuèguǎn jíbìng
+characters 心血管疾病
+serial-number CedPane16097
+definition cardiovascular disease
+*** 
+pinyin Xīnyàsùsīkè
+characters 新亚速斯克[-亞---]
+serial-number CedPane16098
+definition Novoazovsk
+*** 
+pinyin Yènàjīyēwò Shì
+characters 叶纳基耶沃市[葉納----]
+serial-number CedPane16099
+definition Yenakiyeve
+*** 
+pinyin zhīdànbái
+characters 脂蛋白
+serial-number CedPane16100
+definition lipoprotein
+*** 
+pinyin zhīfángméi
+characters 脂肪酶
+serial-number CedPane16101
+definition lipase
