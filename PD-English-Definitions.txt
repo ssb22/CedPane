@@ -100,6 +100,7 @@
 一定要		must
 一审		first instance
 一家		group
+一家之主		family head
 一家子		the whole family
 一審		first instance
 一小部分		a small part
@@ -3282,6 +3283,7 @@
 五边形		pentagon
 五道口		Wudaokou
 五邊形		pentagon
+五金		metals
 五金店		hardware store
 五面体		pentahedron
 五面體		pentahedron
@@ -3623,6 +3625,7 @@
 享年		to live to
 享有		to enjoy
 享樂主義		hedonism
+享福		enjoy (life)
 京		capital
 京剧		Beijing opera
 京劇		Beijing opera
@@ -4633,6 +4636,7 @@
 传票		subpoena
 传种		reproduce/propagate
 传粉		pollinate
+传给		pass on to
 传统		traditional/tradition/convention
 传统中国医药		Chinese traditional medicine
 传统医药		Chinese traditional medicine
@@ -6631,6 +6635,7 @@
 傳票		subpoena
 傳種		reproduce/propagate
 傳粉		pollinate
+傳給		pass on to
 傳統		traditional/tradition/convention
 傳統中國醫藥		Chinese traditional medicine
 傳統教育		traditional education
@@ -8205,6 +8210,8 @@
 兼容性		compatibility
 兼并		to annex
 兼程		travel at double speed
+兼顧		to balance (jobs etc)
+兼顾		to balance (jobs etc)
 兽		beast/beastly
 兽力车		animal-drawn vehicle
 兽医		vet/veterinary/veterinarian
@@ -14648,6 +14655,7 @@
 含混		ambiguous
 含片		lozenge
 含碳		carbonic
+含糊		vague
 含羞草		mimosa
 含義		meaning
 含苞待放		in bud
@@ -23912,6 +23920,7 @@
 尼龙搭扣		velcro
 尽		exhaust
 尽人皆知		be known to all
+尽力		try best
 尽可能		as far as possible
 尽头		extremity/end
 尽孝		do one's filial duty
@@ -24037,6 +24046,7 @@
 屋		house/room
 屋主		house owner
 屋子		house/room
+屋梁		roof beam
 屋檐		eaves
 屋脊		roof
 屋舍		house
@@ -25956,6 +25966,7 @@
 庄河		Zhuanghe
 庄河市		Zhuanghe
 庄浪		Zhuanglang
+庄稼		crops
 庄稼户		landlord/wealthy farmer
 庄稼汉		peasant/farmer
 庄重		solemn/grave
@@ -27071,6 +27082,7 @@
 归路		return route
 归还		revert/return
 归队		rejoin one's unit
+归附		submit to
 当		pawn
 当下		immediately
 当且仅当		if and only if
@@ -40729,6 +40741,7 @@
 歸謬法		reductio ad absurdum
 歸路		return route
 歸還		revert/return
+歸附		submit to
 歸隊		rejoin one's unit
 歸類		categorize/classify
 歹		bad/evil
@@ -45082,6 +45095,7 @@
 满垒		bases loaded
 满城		Mancheng
 满城尽带黄金甲		Curse of the Golden Flower
+满心		wholehearted
 满怀		be imbued with
 满意		satisfied/pleased
 满手		handful
@@ -45177,6 +45191,7 @@
 滿地		ground
 滿城		Mancheng
 滿壘		bases loaded
+滿心		wholehearted
 滿意		satisfied/pleased
 滿懷		be imbued with
 滿手		handful
@@ -46773,6 +46788,7 @@
 熏肉		bacon
 熏蒸剂		fumigant
 熏製		fumigate
+熏陶		to influence (+ve)
 熏鮭魚		lox
 熏鲑鱼		lox
 熒		perplexed/glimmer/dazzled
@@ -51019,6 +51035,7 @@
 盟邦		allied country/ally
 盡		exhaust
 盡人皆知		be known to all
+盡力		try best
 盡可能		to the best of one's ability
 盡孝		do one's filial duty
 盡心		with all one's heart
@@ -54631,6 +54648,7 @@
 签证		visa
 简		simple
 简介		brief introduction/summary
+简体		Simplified (Chinese)
 简便		simple and convenient/handy
 简写		write characters in simplified form
 简化		simplify/to simplify
@@ -54906,6 +54924,7 @@
 簡陋		simple and crude
 簡陽		Jianyang
 簡陽市		Jianyang
+簡體		Simplified (Chinese)
 簣		basket for carrying soil
 簦		large umbrella for stalls
 簧		metallic reed
@@ -59821,6 +59840,7 @@
 脚踏两只船		have a foot in both camps
 脚踏车		bicycle
 脚踝		ankle
+脚踪		footsteps
 脚蹼		flippers
 脚镣		fetter
 脚镯		anklet
@@ -60123,6 +60143,7 @@
 腳踏兩隻船		have a foot in both camps
 腳踏車		bicycle
 腳踝		ankle
+腳蹤		footsteps
 腳蹼		flippers
 腳鐐		fetter
 腳鐲		anklet
@@ -61533,6 +61554,7 @@
 苦处		suffering
 苦头		suffering
 苦寒		bitter cold
+苦差		hard job
 苦差事		drudgery
 苦干		work hard
 苦幹		work hard
@@ -61972,6 +61994,7 @@
 莊河市		Zhuanghe
 莊浪		Zhuanglang
 莊田		farm/tenant farm
+莊稼		crops
 莊稼戶		landlord/wealthy farmer
 莊稼漢		peasant/farmer
 莊重		solemn/grave
@@ -75931,6 +75954,8 @@
 陌路人		stranger
 降		to descend
 降下		to fall/drop
+降世		come down to the world
+降世		come down to the world
 降临		to arrive
 降为		fall to
 降伏		vanquish/tame
