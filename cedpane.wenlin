@@ -20200,10 +20200,10 @@ characters 何萨[-薩]
 serial-number CedPane4045
 definition Hosah
 *** 
-pinyin Hésāi
+pinyin Hésài
 characters 何塞
 serial-number CedPane4046
-definition José (pinyin uncertain)
+definition José
 *** 
 pinyin Hésànnà
 characters 和散那
@@ -41561,7 +41561,7 @@ characters 赛迪[賽-]
 serial-number CedPane8329
 definition Seydi
 *** 
-pinyin Sāi'ēnsībólǐ
+pinyin Sài'ēnsībólǐ
 characters 塞恩斯伯里
 serial-number CedPane8330
 definition Sainsbury (surname)
@@ -41591,7 +41591,7 @@ characters 塞尔日[-爾-]
 serial-number CedPane8335
 definition Serge
 *** 
-pinyin Sāi'ěrsūsī
+pinyin Sài'ěrsūsī
 characters 塞尔苏斯[-爾蘇-]
 serial-number CedPane8336
 definition Celsus (ancient enemy of Christianity)
@@ -41606,7 +41606,7 @@ characters 赛费特[賽費-]
 serial-number CedPane8338
 definition Seifert
 *** 
-pinyin Sāigéní
+pinyin Sàigéní
 characters 塞格尼
 serial-number CedPane8339
 definition Séguenny
@@ -41651,7 +41651,7 @@ characters 赛勒斯[賽--]
 serial-number CedPane8347
 definition Syrus
 *** 
-pinyin Sāilìgé
+pinyin Sàilìgé
 characters 塞利格
 serial-number CedPane8348
 definition Seliger (pinyin uncertain)
@@ -41686,7 +41686,7 @@ characters 赛伦塞斯特[賽倫---]
 serial-number CedPane8354
 definition Cirencester
 *** 
-pinyin Sāimài'ěrwéisī
+pinyin Sàimài'ěrwéisī
 characters 塞麦尔维斯[-麥爾維-]
 serial-number CedPane8355
 definition Semmelweis
@@ -64473,7 +64473,7 @@ characters 瑟堡
 serial-number CedPane12918
 definition Cherbourg
 *** 
-pinyin Shènghésāi
+pinyin Shènghésài
 characters 圣何塞[聖--]
 serial-number CedPane12919
 definition San José (pinyin uncertain)
@@ -71398,7 +71398,7 @@ characters 赛德克语[賽--語]
 serial-number CedPane14309
 definition Seediq (language)
 *** 
-pinyin Sāiléiěryǔ
+pinyin Sàiléiěryǔ
 characters 塞雷尔语[--爾語]
 serial-number CedPane14310
 definition Serer (language)
@@ -80148,3 +80148,88 @@ pinyin Yènàjīyēwò
 characters 叶纳基耶沃[葉納---]
 serial-number CedPane16145
 definition Yenakiyeve
+*** 
+pinyin Àowéi
+characters 奥韦[奧韋]
+serial-number CedPane16146
+definition Ove
+*** 
+pinyin Bādìsītǎ
+characters 巴蒂斯塔
+serial-number CedPane16147
+definition Battista
+*** 
+pinyin Bānkèsī
+characters 班克斯
+serial-number CedPane16148
+definition Banks (surname)
+*** 
+pinyin Dé'ěr
+characters 德尔[-爾]
+serial-number CedPane16149
+definition Dell (given name)
+*** 
+pinyin Dùkè
+characters 杜克
+serial-number CedPane16150
+definition Duke (surname/university)
+*** 
+pinyin È'ěr
+characters 厄尔[-爾]
+serial-number CedPane16151
+definition Earl (name)
+*** 
+pinyin Hǎidé
+characters 海德
+serial-number CedPane16152
+definition Heide
+*** 
+pinyin Huòsū'āi
+characters 霍苏埃[-蘇-]
+serial-number CedPane16153
+definition Josué
+*** 
+pinyin Kēhè
+characters 科赫
+serial-number CedPane16154
+definition Koch
+*** 
+pinyin Kèláodí'ào
+characters 克劳迪奥[-勞-奧]
+serial-number CedPane16155
+definition Claudio
+*** 
+pinyin Lāmǐléisī
+characters 拉米雷斯
+serial-number CedPane16156
+definition Ramírez
+*** 
+pinyin Lāmǔ
+characters 拉姆
+serial-number CedPane16157
+definition Ram (name)
+*** 
+pinyin Pínèidá
+characters 皮内达[-內達]
+serial-number CedPane16158
+definition Pineda
+*** 
+pinyin Pǔláisī
+characters 普莱斯[-萊-]
+serial-number CedPane16159
+definition Place (surname)
+*** 
+pinyin Sàilèniè
+characters 塞勒涅
+serial-number CedPane16160
+definition Selene
+*** 
+pinyin Wògélín
+characters 沃格林
+serial-number CedPane16161
+definition Voeguelin
+*** 
+pinyin Yàlìhángdéluó
+characters 亚历杭德罗[亞歷--羅]
+serial-number CedPane16162
+definition Alejandro

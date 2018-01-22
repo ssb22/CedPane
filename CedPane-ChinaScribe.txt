@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-01-18
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-01-22
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -4042,7 +4042,7 @@
 河區 河区 [he2 qu1] /District/river area/
 赫人 赫人 [He4 ren2] /Hittites/
 何薩 何萨 [He2 sa4] /Hosah/
-何塞 何塞 [He2 sai1] /José pinyin uncertain/
+何塞 何塞 [He2 sai4] /José/
 和散那 和散那 [He2 san4 na4] /Hosanna/
 何塞巴 何塞巴 [He2 se4 ba1] /Joseba/
 何沙雅 何沙雅 [He2 sha1 ya3] /Hoshaiah/
@@ -8312,16 +8312,16 @@
 塞班 塞班 [Sai4 ban1] /Saipan/
 賽博格 赛博格 [sai4 bo2 ge2] /cyborg/
 賽迪 赛迪 [Sai4 di2] /Seydi/
-塞恩斯伯里 塞恩斯伯里 [Sai1 en1 si1 bo2 li3] /Sainsbury surname/
+塞恩斯伯里 塞恩斯伯里 [Sai4 en1 si1 bo2 li3] /Sainsbury surname/
 賽耳底 赛耳底 [Sai4 er3 di3] /Syrtis/
 塞爾福斯 塞尔福斯 [Sai4 er3 fu2 si1] /Selfoss/
 塞爾蓋 塞尔盖 [Sai4 er3 gai4] /Sergej/
 塞爾納 塞尔纳 [Sai4 er3 na4] /Serna/
 塞爾日 塞尔日 [Sai4 er3 ri4] /Serge/
-塞爾蘇斯 塞尔苏斯 [Sai1 er3 su1 si1] /Celsus ancient enemy of Christianity/
+塞爾蘇斯 塞尔苏斯 [Sai4 er3 su1 si1] /Celsus ancient enemy of Christianity/
 塞爾特斯 塞尔特斯 [Sai4 er3 te4 si1] /Selters/
 賽費特 赛费特 [Sai4 fei4 te4] /Seifert/
-塞格尼 塞格尼 [Sai1 ge2 ni2] /Séguenny/
+塞格尼 塞格尼 [Sai4 ge2 ni2] /Séguenny/
 塞加拉 塞加拉 [Sai4 jia1 la1] /Saqqara/
 塞進 塞进 [sai1 jin4] /stuff|block-up into the midst of/
 塞拉菲娜 塞拉菲娜 [Sai4 la1 fei3 na4] /Séraphine/
@@ -8330,14 +8330,14 @@
 賽拉斯 赛拉斯 [Sai4 la1 si1] /Silas modern name/
 塞勒什 塞勒什 [Sai4 le4 shi2] /Silash/
 賽勒斯 赛勒斯 [Sai4 le4 si1] /Syrus/
-塞利格 塞利格 [Sai1 li4 ge2] /Seliger pinyin uncertain/
+塞利格 塞利格 [Sai4 li4 ge2] /Seliger pinyin uncertain/
 塞琉古 塞琉古 [Sai4 liu2 gu3] /Seleucus/
 塞琉西 塞琉西 [Sai4 liu2 xi1] /Seleucid/
 塞琉西王朝 塞琉西王朝 [Sai4 liu2 xi1_wang2 chao2] /Seleucid dynasty/dynasty, Seleucid/
 塞琉西亞 塞琉西亚 [Sai4 liu2 xi1 ya4] /Seleucia/
 塞倫蓋蒂 塞伦盖蒂 [Sai4 lun2 gai4 di4] /Serengeti/
 賽倫塞斯特 赛伦塞斯特 [Sai4 lun2 se4 si1 te4] /Cirencester/
-塞麥爾維斯 塞麦尔维斯 [Sai1 mai4 er3 wei2 si1] /Semmelweis/
+塞麥爾維斯 塞麦尔维斯 [Sai4 mai4 er3 wei2 si1] /Semmelweis/
 賽米 赛米 [Sai4 mi3] /Saimi/
 塞繆爾 塞缪尔 [Sai4 miao4 er3] /Samuel modern/
 塞繆爾森 塞缪尔森 [Sai4 miao4 er3 sen1] /Samuelson/
@@ -12892,7 +12892,7 @@
 娜塔麗 娜塔丽 [Na4 ta3 li4] /Natalie/
 娜塔莉 娜塔莉 [Na4 ta3 li4] /Natalie/
 瑟堡 瑟堡 [Se4 bao3] /Cherbourg/
-聖何塞 圣何塞 [Sheng4 he2 sai1] /San José pinyin uncertain/José, San (pinyin uncertain)/
+聖何塞 圣何塞 [Sheng4 he2 sai4] /San José pinyin uncertain/José, San (pinyin uncertain)/
 泗水 泗水 [Si4 shui3] /Surabaya/
 蘇奇托托 苏奇托托 [Su1 qi2 tuo1 tuo1] /Suchitoto/
 泰德峰 泰德峰 [Tai4 de2_Feng1] /Mt. Teide/Teide, Mt./
@@ -14276,7 +14276,7 @@
 欽博拉索 钦博拉索 [Qin1 bo2 la1 suo3] /Chimborazo/
 奇圖姆布卡語 奇图姆布卡语 [Qi2 tu2 mu3 bu4 ka3 yu3] /Chitumbuka language/
 賽德克語 赛德克语 [Sai4 de2 ke4 yu3] /Seediq language/
-塞雷爾語 塞雷尔语 [Sai1 lei2 e3 yu3] /Serer language/
+塞雷爾語 塞雷尔语 [Sai4 lei2 e3 yu3] /Serer language/
 薩摩亞語 萨摩亚语 [Sa4 mo2 ya4 yu3] /Samoan language/
 舒格南語 舒格南语 [Shu1 ge2 nan2 yu3] /Shughni language/
 斯瓦特語 斯瓦特语 [Si1 wa3 te4 yu3] /Swati language/
@@ -16026,3 +16026,20 @@
 魏布林根市 魏布林根市 [Wei4 bu4 lin2 gen1_Shi4] /Waiblingen/
 維羅納 维罗纳 [Wei2 luo2 na4] /Verona/
 葉納基耶沃 叶纳基耶沃 [Ye4 na4 ji1 ye1 wo4] /Yenakiyeve/
+奧韋 奥韦 [Ao4 wei2] /Ove/
+巴蒂斯塔 巴蒂斯塔 [Ba1 di4 si1 ta3] /Battista/
+班克斯 班克斯 [Ban1 ke4 si1] /Banks surname/
+德爾 德尔 [De2 er3] /Dell given name/
+杜克 杜克 [Du4 ke4] /Duke surname|university/
+厄爾 厄尔 [E4 er3] /Earl name/
+海德 海德 [Hai3 de2] /Heide/
+霍蘇埃 霍苏埃 [Huo4 su1 ai1] /Josué/
+科赫 科赫 [Ke1 he4] /Koch/
+克勞迪奧 克劳迪奥 [Ke4 lao2 di2 ao4] /Claudio/
+拉米雷斯 拉米雷斯 [La1 mi3 lei2 si1] /Ramírez/
+拉姆 拉姆 [La1 mu3] /Ram name/
+皮內達 皮内达 [Pi2 nei4 da2] /Pineda/
+普萊斯 普莱斯 [Pu3 lai2 si1] /Place surname/
+塞勒涅 塞勒涅 [Sai4 le4 nie4] /Selene/
+沃格林 沃格林 [Wo4 ge2 lin2] /Voeguelin/
+亞歷杭德羅 亚历杭德罗 [Ya4 li4 hang2 de2 luo2] /Alejandro/
