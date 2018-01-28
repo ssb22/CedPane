@@ -20338,7 +20338,7 @@ definition Hoshea
 pinyin Hèxūlí
 characters 赫胥黎
 serial-number CedPane4073
-definition Huxley
+definition Huxley (Aldous; Thomas)
 *** 
 pinyin Héyǔ
 characters 荷语[-語]
@@ -80583,3 +80583,23 @@ pinyin xíngdòng shèngyú xióngbiàn
 characters 行动胜于雄辩[-動勝--辯]
 serial-number CedPane16232
 definition actions speak louder than words
+*** 
+pinyin Āi'ěrsīpèisī
+characters 埃尔斯佩思[-爾---]
+serial-number CedPane16233
+definition Elspeth
+*** 
+pinyin Ào'ěrdésī
+characters 奥尔德斯[奧爾--]
+serial-number CedPane16234
+definition Aldous
+*** 
+pinyin Àowēi'ěr
+characters 奥威尔[奧-爾]
+serial-number CedPane16235
+definition Orwell (older translation)
+*** 
+pinyin Hèkèsīlì
+characters 赫克斯利
+serial-number CedPane16237
+definition Huxley (Elspeth)
