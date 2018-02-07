@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-02-05
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-02-07
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -1097,7 +1097,7 @@
 貝勒堡 贝勒堡 [Bei4 le4 bao3] /Berleburg/
 貝麗爾 贝丽尔 [Bei4 li4 er3] /Beryl/
 貝琳達 贝琳达 [Bei4 lin2 da2] /Belinda/
-貝理雅 贝理雅 [Bei4 li3 ya3] /Blair Tony/
+貝理雅 贝理雅 [Bei4 li3 ya3] /Blair surname, alternate translation/
 北樓 北楼 [bei3 lou2] /north tower of the World Trade Centre/tower, north (of the World Trade Centre)/
 被擄 被掳 [bei4_lu3] /exile/
 貝魯埃塔 贝鲁埃塔 [Bei4 lu3 ai1 ta3] /Berrueta/
@@ -2966,7 +2966,7 @@
 費爾班克斯 费尔班克斯 [Fei4 er3 ban1 ke4 si1] /Fairbanks/
 菲爾比 菲尔比 [Fei3 er3 bi3] /Philib/
 菲爾布里克 菲尔布里克 [Fei3 er3 bu4 li3 ke4] /Philbrick/
-菲爾德 菲尔德 [Fei3 er3 de2] /Fielder/
+菲爾德 菲尔德 [Fei1 er3 de2] /Fielder/
 費爾霍普 费尔霍普 [Fei4 er3 huo4 pu3] /Fairhope/
 費爾米娜 费尔米娜 [Fei4 er3 mi3 na4] /Fermina/
 費爾南多 费尔南多 [Fei4 er3 nan2 duo1] /Fernando/
@@ -11039,7 +11039,7 @@
 亞比 亚比 [Ya4 bi3] /Abi/
 亞比達 亚比达 [Ya4 bi3 da2] /Abida/
 亞別 亚别 [Ya4 bie2] /Abiel/
-亞比該 亚比该 [Ya4 bi3 gai1] /Abigail/
+亞比該 亚比该 [Ya4 bi3 gai1] /Abigail Bible/
 亞比忽 亚比忽 [Ya4 bi3 hu1] /Abihud/
 亞比戶 亚比户 [Ya4 bi3 hu4] /Abihu/
 亞比蘭 亚比兰 [Ya4 bi3 lan2] /Abiram/
@@ -16251,3 +16251,139 @@
 原創歌曲 原创歌曲 [yuan2 chuang4_ge1 qu3] /original song not in songbook/song, original (not in songbook)/
 卓婭 卓娅 [Zhuo2 ya4] /Zoya/
 祖布科 祖布科 [Zu3 bu4 ke1] /Zubko/
+阿德勒 阿德勒 [A1 de2 le4] /Adler/
+阿戈什蒂紐 阿戈什蒂纽 [A1 ge1 shi2 di4 niu3] /Agostinho/
+愛德華茲 爱德华兹 [Ai4 de2 hua2 zi1] /Edwards/
+埃爾克 埃尔克 [Ai1 er3 ke4] /Erik/
+艾文 艾文 [Ai4 wen2] /Owen/
+阿科斯塔 阿科斯塔 [A1 ke1 si1 ta3] /Acosta/
+阿雷別 阿雷别 [A1 lei2 bie2] /Alymbek/
+阿麗斯 阿丽斯 [A1 li4 si1] /Alice old translation/
+阿曼多 阿曼多 [A1 man4 duo1] /Armando/
+阿馬特 阿马特 [A1 ma3 te4] /Amat/
+阿妮卡 阿妮卡 [A1 ni1 ka3] /Anika/
+安妮塔 安妮塔 [An1 ni1 ta3] /Anita/
+安琪拉 安琪拉 [An1 qi2 la1] /Angela/
+安斯塔特 安斯塔特 [An1 si1 ta3 te4] /Anstadt/
+奧爾加 奥尔加 [Ao4 er3 jia1] /Olga/
+奧凱恩 奥凯恩 [Ao4 kai3 en1] /O'Kane/
+奧拉維 奥拉维 [Ao4 la1 wei2] /Olavi/
+奧羅斯科 奥罗斯科 [Ao4 luo2 si1 ke1] /Orosco/
+奧娜 奥娜 [Ao4 na4] /Ona/
+阿薩姆 阿萨姆 [A1 sa4 mu3] /Assam/
+阿薩諾夫 阿萨诺夫 [A1 sa4 nuo4 fu1] /Asanov/
+阿斯托加 阿斯托加 [A1 si1 tuo1 jia1] /Astorga/
+巴爾格斯 巴尔格斯 [Ba1 er3 ge2 si1] /Várguez/
+巴雷特 巴雷特 [Ba1 lei2 te4] /Barrett/
+寶萊特 宝莱特 [Bao3 lai2 te4] /Paulette/
+貝里曼 贝里曼 [Bei4 li3 man4] /Bergman/
+彼得里德斯 彼得里德斯 [Bi3 de2 li3 de2 si1] /Petridou/
+別赫曼諾夫 别赫曼诺夫 [Bie2 he4 man4 nuo4 fu1] /Bekmanov/
+比爾圖斯 比尔图斯 [Bi3 er3 tu2 si1] /Virtus Roman god/
+伯恩哈特 伯恩哈特 [Bo2 en1 ha1 te4] /Bernhardt/
+博爾芬克 博尔芬克 [Bo2 er3 fen1 ke4] /Bolfenk/
+布萊爾 布莱尔 [Bu4 lai2 er3] /Blair surname/
+布蘭特 布兰特 [Bu4 lan2 te4] /Brandt/
+布羅索萊特 布罗索莱特 [Bu4 luo2 suo3 lai2 te4] /Brossollet/
+抽象的事 抽象的事 [chou1 xiang4_de5_shi4] /abstraction abstract thing/
+達納 达纳 [Da2 na4] /Danner/
+德漢 德汉 [De2 han4] /Deheyn/
+迪爾瑪 迪尔玛 [Di2 er3 ma3] /Dilma/
+迪米特里 迪米特里 [Di2 mi3 te4 li3] /Dmitri/
+迪特里希 迪特里希 [Di2 te4 li3 xi1] /Dietrich/
+費德里科 费德里科 [Fei4 de2 li3 ke1] /Federico/
+菲狄斯 菲狄斯 [Fei1 di2 si1] /Fides Roman god/
+弗雷塔斯 弗雷塔斯 [Fu2 lei2 ta3 si1] /Freitas/
+戈多弗雷多 戈多弗雷多 [Ge1 duo1 fu2 lei2 duo1] /Godofredo/
+哥利岑 哥利岑 [Ge1 li4 cen2] /Golitsyn/
+格魯珀 格鲁珀 [Ge2 lu3 po4] /Gruppe/
+戈特利布 戈特利布 [Ge1 te4 li4 bu4] /Gottlieb/
+哈德斯菲爾德 哈德斯菲尔德 [Ha1 de2 si1 fei1 er3 de2] /Huddersfield/
+哈利勒 哈利勒 [Ha1 li4 le4] /Khalil/
+翰柏 翰柏 [Han4 bai3] /Henborg/
+何克 何克 [He2 ke4] /Hogg/
+赫拉瓦蒂 赫拉瓦蒂 [He4 la1 wa3 di4] /Herawati/
+赫米內 赫米内 [He4 mi3 nei4] /Hermine/
+赫斯特 赫斯特 [He4 si1 te4] /Hearst/
+加爾薩 加尔萨 [Jia1 er3 sa4] /Garza/
+卡爾莉 卡尔莉 [Ka3 er3 li4] /Carly/
+凱默 凯默 [Kai3 mo4] /Kaemmer/
+卡里薩 卡里萨 [Ka3 li3 sa4] /Karítsa/
+卡里莎 卡里莎 [Ka3 li3 sha1] /Carissa/
+康奈爾 康奈尔 [Kang1 nai4 er3] /Connell/
+卡斯蒂略 卡斯蒂略 [Ka3 si1 di4 lu:e4] /Castillo/
+科迪 科迪 [Ke1 di2] /Cody/
+克里斯蒂昂 克里斯蒂昂 [Ke4 li3 si1 di4 ang2] /Christian modern first name/
+克里斯特貝爾 克里斯特贝尔 [Ke4 li3 si1 te4 bei4 er3] /Christabel/
+肯雅塔 肯雅塔 [Ken3 ya3 ta3] /Kenyatta/
+科斯塔迪諾夫 科斯塔迪诺夫 [Ke1 si1 ta3 di2 nuo4 fu1] /Kostadinov/
+科瓦日 科瓦日 [Ke1 wa3 ri4] /Kovár/
+拉赫曼 拉赫曼 [La1 he4 man4] /Rahman/
+萊斯 莱斯 [Lai2 si1] /Les/
+萊溫松 莱温松 [Lai2 wen1 song1] /Levinson/
+拉莫斯 拉莫斯 [La1 mo4 si1] /Ramos/
+拉瑞斯 拉瑞斯 [La1 rui4 si1] /Lares Roman god/
+拉特格斯 拉特格斯 [La1 te4 ge2 si1] /Rutgers/
+拉希德 拉希德 [La1 xi1 de2] /Rachid/
+雷安 雷安 [Lei2 an1] /Reyon/
+列夫 列夫 [Lie4 fu1] /Lev/
+利斯卡 利斯卡 [Li4 si1 ka3] /Liska/
+蘿倫 萝伦 [Luo2 lun2] /Lauren/
+洛撒 洛撒 [Luo4 sa1] /Lothar/
+蘿絲 萝丝 [Luo2 si1] /Rose name/
+羅西 罗西 [Luo2 xi1] /Rossi/
+盧佩 卢佩 [Lu2 pei4] /Lupe/
+瑪戈 玛戈 [Ma3 ge1] /Margot/
+麥卡錫 麦卡锡 [Mai4 ka3 xi1] /McCarthy/
+馬克絲 马克丝 [Ma3 ke4 si1] /Márquez/
+麻醉科 麻醉科 [ma2 zui4 ke1] /anesthesiology/
+梅恩斯 梅恩斯 [Mei2 en1 si1] /Maynes/
+梅麗莎 梅丽莎 [Mei2 li4 sha1] /Melissa/
+梅里特 梅里特 [Mei2 li3 te4] /Merritt/
+梅耶 梅耶 [Mei2 ye2] /Meyer/
+米克洛什 米克洛什 [Mi3 ke4 luo4 shi2] /Miklós/
+米蘭達 米兰达 [Mi3 lan2 da2] /Miranda/
+莫茨庫特 莫茨库特 [Mo4 ci2 ku4 te4] /Mockutė/
+莫爾西略 莫尔西略 [Mo4 er3 xi1 lu:e4] /Morcillo/
+莫拉 莫拉 [Mo4 la1] /Mora/
+莫拉雷 莫拉雷 [Mo4 la1 lei2] /Mollaret/
+莫拉則 莫拉则 [Mo4 la1 ze2] /Morăraş/
+莫奇尼克 莫奇尼克 [Mo4 qi2 ni2 ke4] /Moc̆nik/
+穆拉特 穆拉特 [Mu4 la1 te4] /Murat/
+納赫布雷厄 纳赫布雷厄 [Na4 he4 bu4 lei2 e4] /Nahakbria/
+納坦 纳坦 [Na4 tan3] /Nathan modern/
+內里達 内里达 [Nei4 li3 da2] /Nerida/
+紐厄爾 纽厄尔 [Niu3 e4 er3] /Newell/
+諾伊費爾德 诺伊费尔德 [Nuo4 yi1 fei4 er3 de2] /Neufeld/
+歐賽維奧 欧赛维奥 [Ou1 sai4 wei2 ao4] /Eusebio/
+帕克斯 帕克斯 [Pa4 ke4 si1] /Pax Roman god/
+帕帕斯 帕帕斯 [Pa4 pa4 si1] /Pappas/
+珀那忒斯 珀那忒斯 [Po4 na4 te4 si1] /Penates Roman god/
+普拉門 普拉门 [Pu3 la1 men2] /Plamen/
+普林斯 普林斯 [Pu3 lin2 si1] /Prince name/
+齊溫 齐温 [Qi2 wen1] /Civin/
+薩羅斯 萨罗斯 [Sa4 luo2 si1] /Salus Roman god/
+桑娜 桑娜 [Sang1 na4] /Roxana short version/
+史葛 史葛 [Shi3 ge2] /Scott/
+施圖本福爾 施图本福尔 [Shi1 tu2 ben3 fu2 er3] /Stubenvoll/
+斯通 斯通 [Si1 tong1] /Stone surname/
+特奧多爾 特奥多尔 [Te4 ao4 duo1 er3] /Teodor/
+特拉維斯 特拉维斯 [Te4 la1 wei2 si1] /Travis/
+托爾曼 托尔曼 [Tuo1 er3 man4] /Tallman/
+托雷斯 托雷斯 [Tuo1 lei2 si1] /Torres/
+瓦奇爾 瓦奇尔 [Wa3 qi2 er3] /Vazir/
+維爾納 维尔纳 [Wei2 er3 na4] /Werner/
+維斯太 维斯太 [Wei2 si1 tai4] /Vesta Roman god/
+沃特 沃特 [Wo4 te4] /Worth surname/
+希爾德布蘭特 希尔德布兰特 [Xi1 er3 de2 bu4 lan2 te4] /Hildebrandt/
+希薩加 希萨加 [Xi1 sa4 jia1] /Hisiger/
+婭比凱 娅比凯 [Ya4 bi3 kai3] /Abigail modern/
+雅克利娜 雅克利娜 [Ya3 ke4 li4 na4] /Jacqueline/
+亞列姆丘克 亚列姆丘克 [Ya4 lie4 mu3 qiu1 ke4] /Yaremchuk/
+雅努斯 雅努斯 [Ya3 nu3 si1] /Janus Roman god/
+伊巴圖林 伊巴图林 [Yi1 ba1 tu2 lin2] /Ibatullin/
+伊萊亞斯 伊莱亚斯 [Yi1 lai2 ya4 si1] /Elias/
+伊利亞斯 伊利亚斯 [Yi1 li4 ya4 si1] /Ilias/
+淤青 淤青 [yu1 qing1] /bruise/
+澤希迪奧 泽希迪奥 [Ze2 xi1 di2 ao4] /Egidio/
+注冊護士 注册护士 [zhu4 ce4_hu4 shi5] /registered nurse/State-certified nurse/nurse, registered/
