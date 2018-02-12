@@ -847,10 +847,10 @@ characters 埃尔云克[-爾--]
 serial-number CedPane169
 definition El Yunque
 *** 
-pinyin Àifěidé
+pinyin Àifēidé
 characters 艾菲德
 serial-number CedPane170
-definition Elfriede (pinyin uncertain)
+definition Elfriede
 *** 
 pinyin Āifēi'ěr
 characters 埃菲尔[--爾]
@@ -1977,7 +1977,7 @@ characters 阿玛[-瑪]
 serial-number CedPane397
 definition Amad
 *** 
-pinyin Āmǎ'ěrfěi
+pinyin Āmǎ'ěrfēi
 characters 阿马尔菲[-馬爾-]
 serial-number CedPane398
 definition Amalfi
@@ -5423,7 +5423,7 @@ characters 贝克福德[貝---]
 serial-number CedPane1089
 definition Beckford
 *** 
-pinyin Bèikèsīfěi'ěrdé
+pinyin Bèikèsīfēi'ěrdé
 characters 贝克斯菲尔德[貝---爾-]
 serial-number CedPane1090
 definition Bakersfield
@@ -8500,7 +8500,7 @@ characters 布鲁尔[-魯爾]
 serial-number CedPane1704
 definition Brewer (surname)
 *** 
-pinyin Bùlúfěi'ěrzī
+pinyin Bùlúfēi'ěrzī
 characters 布卢菲尔兹[-盧-爾茲]
 serial-number CedPane1705
 definition Bluefields
@@ -14733,7 +14733,7 @@ characters 菲奥娜[-奧-]
 serial-number CedPane2951
 definition Fiona
 *** 
-pinyin Fěibāsī
+pinyin Fēibāsī
 characters 菲巴斯
 serial-number CedPane2952
 definition Phoebus
@@ -14808,12 +14808,12 @@ characters 费尔班克斯[費爾---]
 serial-number CedPane2966
 definition Fairbanks
 *** 
-pinyin Fěi'ěrbǐ
+pinyin Fēi'ěrbǐ
 characters 菲尔比[-爾-]
 serial-number CedPane2967
 definition Philib
 *** 
-pinyin Fěi'ěrbùlǐkè
+pinyin Fēi'ěrbùlǐkè
 characters 菲尔布里克[-爾---]
 serial-number CedPane2968
 definition Philbrick
@@ -14888,7 +14888,7 @@ characters 飞来飞去[飛來飛-]
 serial-number CedPane2982
 definition flying around
 *** 
-pinyin Fěiláiméng
+pinyin Fēiláiméng
 characters 菲莱蒙[-萊-]
 serial-number CedPane2983
 definition Filemon
@@ -14933,12 +14933,12 @@ characters 腓利
 serial-number CedPane2991
 definition Philip (old translation?)
 *** 
-pinyin Fěilǐ
+pinyin Fēilǐ
 characters 菲里
 serial-number CedPane2992
 definition Phiri
 *** 
-pinyin Fěilìbèi'ěr
+pinyin Fēilìbèi'ěr
 characters 菲利贝尔[--貝爾]
 serial-number CedPane2993
 definition Philibert
@@ -14998,12 +14998,12 @@ characters 费利佩[費--]
 serial-number CedPane3004
 definition Felipe
 *** 
-pinyin Fěilìpǔ
+pinyin Fēilìpǔ
 characters 菲利普
 serial-number CedPane3005
 definition Philip (modern)
 *** 
-pinyin Fěilìpǔsī
+pinyin Fēilìpǔsī
 characters 菲利普斯
 serial-number CedPane3006
 definition Phillips; Philips
@@ -15053,7 +15053,7 @@ characters 非罗罗古[-羅羅-]
 serial-number CedPane3015
 definition Philologus
 *** 
-pinyin Fěimǎ
+pinyin Fēimǎ
 characters 菲玛[-瑪]
 serial-number CedPane3016
 definition Feema
@@ -15068,7 +15068,7 @@ characters 费南德斯[費---]
 serial-number CedPane3018
 definition Fernández
 *** 
-pinyin Fěiniè'ěr
+pinyin Fēiniè'ěr
 characters 菲涅耳
 serial-number CedPane3019
 definition Fresnel
@@ -15138,7 +15138,7 @@ characters 肥沃新月
 serial-number CedPane3032
 definition Fertile Crescent
 *** 
-pinyin Fěixī'ěr
+pinyin Fēixī'ěr
 characters 菲希尔[--爾]
 serial-number CedPane3033
 definition Fischer
@@ -15183,7 +15183,7 @@ characters 费音[費-]
 serial-number CedPane3041
 definition pim
 *** 
-pinyin Fěiyīngdǎo
+pinyin Fēiyīngdǎo
 characters 菲英岛[--島]
 serial-number CedPane3042
 definition Fyn Island
@@ -16823,7 +16823,7 @@ characters 格列高利
 serial-number CedPane3369
 definition Gregory
 *** 
-pinyin Gélǐfěisī
+pinyin Gélǐfēisī
 characters 格里菲思
 serial-number CedPane3370
 definition Griffiths
@@ -19540,7 +19540,7 @@ characters 哈特
 serial-number CedPane3913
 definition Hart (surname)
 *** 
-pinyin Hātèfěi'ěrdé
+pinyin Hātèfēi'ěrdé
 characters 哈特菲尔德[---爾-]
 serial-number CedPane3914
 definition Hatfield
@@ -19665,7 +19665,7 @@ characters 赫策尔[--爾]
 serial-number CedPane3938
 definition Hetzel
 *** 
-pinyin Hècífěi'ěrdé
+pinyin Hècífēi'ěrdé
 characters 赫茨菲尔德[---爾-]
 serial-number CedPane3939
 definition Herzfeld
@@ -24132,11 +24132,6 @@ characters 金美
 serial-number CedPane4832
 definition Kim
 *** 
-pinyin Jīn Měiyí
-characters 金美仪[--儀]
-serial-number CedPane4833
-definition Fay King
-*** 
 pinyin jìnmòzhěhēi
 characters 近墨者黑
 serial-number CedPane4834
@@ -25157,7 +25152,7 @@ characters 卡尔文[-爾-]
 serial-number CedPane5037
 definition Calvin
 *** 
-pinyin Kǎfěilì
+pinyin Kǎfēilì
 characters 卡菲利
 serial-number CedPane5038
 definition Caerphilly
@@ -26659,7 +26654,7 @@ characters 科兰[-蘭]
 serial-number CedPane5340
 definition Collin
 *** 
-pinyin Kèlánfěi'ěrdé
+pinyin Kèlánfēi'ěrdé
 characters 克兰菲尔德[-蘭-爾-]
 serial-number CedPane5341
 definition Cranfield
@@ -27769,7 +27764,7 @@ characters 库尔特[庫爾-]
 serial-number CedPane5563
 definition Kurt
 *** 
-pinyin Kùfěi
+pinyin Kùfēi
 characters 库菲[庫-]
 serial-number CedPane5564
 definition Cuffie
@@ -29051,7 +29046,7 @@ characters 勒伯夫
 serial-number CedPane5819
 definition LeBoeuf
 *** 
-pinyin Lèfěifú'ěr
+pinyin Lèfēifú'ěr
 characters 勒菲弗尔[---爾]
 serial-number CedPane5820
 definition Lefèvre
@@ -29076,7 +29071,7 @@ characters 雷布曼
 serial-number CedPane5824
 definition Rebmann
 *** 
-pinyin Léidéfěi'ěrdé
+pinyin Léidéfēi'ěrdé
 characters 雷德菲尔德[---爾-]
 serial-number CedPane5825
 definition Redfield
@@ -31161,7 +31156,7 @@ characters 律法之约[---約]
 serial-number CedPane6241
 definition Law covenant
 *** 
-pinyin Lǔfěinuò
+pinyin Lǔfēinuò
 characters 鲁菲诺[魯-諾]
 serial-number CedPane6242
 definition Rufino
@@ -31632,7 +31627,7 @@ characters 洛可儿[--兒]
 serial-number CedPane6336
 definition Rakel
 *** 
-pinyin Luòkèfěilè
+pinyin Luòkèfēilè
 characters 洛克菲勒
 serial-number CedPane6337
 definition Rockefeller
@@ -31917,7 +31912,7 @@ characters 罗森布拉特[羅----]
 serial-number CedPane6393
 definition Rosenblatt
 *** 
-pinyin Luósēnfěi'ěrdé
+pinyin Luósēnfēi'ěrdé
 characters 罗森菲尔德[羅--爾-]
 serial-number CedPane6394
 definition Rosenfeld
@@ -31995,7 +31990,7 @@ definition Rostov (region in Russia)
 pinyin Luósù
 characters 罗素[羅-]
 serial-number CedPane6409
-definition Russell
+definition Russell (surname)
 *** 
 pinyin Luótǎdǎo
 characters 罗塔岛[羅-島]
@@ -33582,7 +33577,7 @@ characters 曼努埃尔[---爾]
 serial-number CedPane6729
 definition Manuel
 *** 
-pinyin Mànsīfěi'ěrdé
+pinyin Mànsīfēi'ěrdé
 characters 曼斯菲尔德[---爾-]
 serial-number CedPane6730
 definition Mansfield
@@ -41621,7 +41616,7 @@ characters 塞进[-進]
 serial-number CedPane8341
 definition stuff/block-up into (the midst of)
 *** 
-pinyin Sàilāfěinà
+pinyin Sàilāfēinà
 characters 塞拉菲娜
 serial-number CedPane8342
 definition Séraphine
@@ -41939,7 +41934,7 @@ definition Salecah
 pinyin Sālěng
 characters 撒冷
 serial-number CedPane8405
-definition Salem
+definition Salem (Bible)
 *** 
 pinyin Sālěngwáng
 characters 撒冷王
@@ -42456,7 +42451,7 @@ characters 撒上
 serial-number CedPane8508
 definition 1Sa (abbreviation)
 *** 
-pinyin Sàsīfěi'ěrdé
+pinyin Sàsīfēi'ěrdé
 characters 萨斯菲尔德[薩--爾-]
 serial-number CedPane8509
 definition Sarsfield
@@ -46102,7 +46097,7 @@ characters 斯特拉斯堡
 serial-number CedPane9239
 definition Strasbourg
 *** 
-pinyin Sītèlāsīfěi'ěrdé
+pinyin Sītèlāsīfēi'ěrdé
 characters 斯特拉斯菲尔德[-----爾-]
 serial-number CedPane9240
 definition Strathfield
@@ -46663,7 +46658,7 @@ characters 琐非[瑣-]
 serial-number CedPane9351
 definition Zophim
 *** 
-pinyin Suǒfěiyà
+pinyin Suǒfēiyà
 characters 索菲娅[--婭]
 serial-number CedPane9352
 definition Sophia
@@ -47018,12 +47013,12 @@ characters 塔河县[--縣]
 serial-number CedPane9422
 definition Tahe County (in Heilongjiang)
 *** 
-pinyin Tài'àofěi'ěr
+pinyin Tài'àofēi'ěr
 characters 泰奥菲尔[-奧-爾]
 serial-number CedPane9423
 definition Teofil
 *** 
-pinyin Tài'àofěilā
+pinyin Tài'àofēilā
 characters 泰奥菲拉[-奧--]
 serial-number CedPane9424
 definition Teófila
@@ -49701,7 +49696,7 @@ characters 王池
 serial-number CedPane9958
 definition King's Pool
 *** 
-pinyin Wáng Fěi
+pinyin Wáng Fēi
 characters 王菲
 serial-number CedPane9959
 definition Faye Wong (singer)
@@ -64263,7 +64258,7 @@ characters 尤里
 serial-number CedPane12876
 definition Yury
 *** 
-pinyin Yuēfěi
+pinyin Yuēfēi
 characters 约菲[約-]
 serial-number CedPane12877
 definition Jovy
@@ -67044,7 +67039,7 @@ characters 非官式
 serial-number CedPane13434
 definition unofficial (old translation?)
 *** 
-pinyin fěilái'ào
+pinyin fēilái'ào
 characters 菲莱奥[-萊奧]
 serial-number CedPane13435
 definition phileo
@@ -72103,7 +72098,7 @@ characters 弗朗兹[--茲]
 serial-number CedPane14460
 definition Franz
 *** 
-pinyin Gélínfěi'ěrdé
+pinyin Gélínfēi'ěrdé
 characters 格林菲尔德[---爾-]
 serial-number CedPane14461
 definition Greenfield
@@ -72458,7 +72453,7 @@ characters 康斯坦丁
 serial-number CedPane14531
 definition Constantine (not Great); Konstantin
 *** 
-pinyin Mòfěi
+pinyin Mòfēi
 characters 墨菲
 serial-number CedPane14532
 definition Murphy
@@ -72783,7 +72778,7 @@ characters 黛博拉
 serial-number CedPane14596
 definition Deborah (modern)
 *** 
-pinyin Bāfěitè
+pinyin Bāfēitè
 characters 巴菲特
 serial-number CedPane14597
 definition Buffet (surname)
@@ -80884,7 +80879,7 @@ characters 德林格
 serial-number CedPane16300
 definition Dellinger
 *** 
-pinyin Dí'àofěilǔsī
+pinyin Dí'àofēilǔsī
 characters 狄奥菲鲁斯[-奧-魯-]
 serial-number CedPane16301
 definition Theophilus (modern)
@@ -82463,3 +82458,498 @@ pinyin Yīléinī
 characters 伊雷妮
 serial-number CedPane16616
 definition Irene
+*** 
+pinyin Ābātèmǎkē
+characters 阿巴特马科[---馬-]
+serial-number CedPane16617
+definition Abbatemarco
+*** 
+pinyin Ābōsītuōlìjìsī
+characters 阿波斯托利季斯
+serial-number CedPane16618
+definition Apostolidis
+*** 
+pinyin Ānàtuōlì
+characters 阿纳托利[-納--]
+serial-number CedPane16619
+definition Anatoly
+*** 
+pinyin Ào'ěrdùn
+characters 奥尔顿[奧爾頓]
+serial-number CedPane16620
+definition Alton
+*** 
+pinyin Bǐsēntè
+characters 比森特
+serial-number CedPane16621
+definition Vicente
+*** 
+pinyin Bǐtèlìsī
+characters 比特利斯
+serial-number CedPane16622
+definition Bitlis
+*** 
+pinyin Bō'ēn
+characters 波恩
+serial-number CedPane16623
+definition Bonn
+*** 
+pinyin Bójísī
+characters 伯吉斯
+serial-number CedPane16624
+definition Burgess
+*** 
+pinyin Bōlì
+characters 波利
+serial-number CedPane16625
+definition Polly
+*** 
+pinyin Bùdé'ěr
+characters 布德尔[--爾]
+serial-number CedPane16626
+definition Bourdel
+*** 
+pinyin Bùlǔdé
+characters 布鲁德[-魯-]
+serial-number CedPane16627
+definition Bruder
+*** 
+pinyin Dání'āilú
+characters 达尼埃卢[達--盧]
+serial-number CedPane16628
+definition Danielou
+*** 
+pinyin Dānní'ěrsī
+characters 丹尼尔斯[--爾-]
+serial-number CedPane16629
+definition Daniels
+*** 
+pinyin Dèngkùmǔ
+characters 邓库姆[鄧庫-]
+serial-number CedPane16630
+definition Duncombe
+*** 
+pinyin Dézuǒxī
+characters 德佐西
+serial-number CedPane16631
+definition Tsosie
+*** 
+pinyin Duōsèwū
+characters 多塞乌[--烏]
+serial-number CedPane16632
+definition Do Céu
+*** 
+pinyin È'ěrshīláigé
+characters 厄尔施莱格[-爾-萊-]
+serial-number CedPane16633
+definition Oelschlägel
+*** 
+pinyin Fèidínándé
+characters 费迪南德[費---]
+serial-number CedPane16634
+definition Ferdinand
+*** 
+pinyin Fèilúncí
+characters 费伦茨[費倫-]
+serial-number CedPane16635
+definition Ferenc
+*** 
+pinyin Fēitú
+characters 菲图[-圖]
+serial-number CedPane16636
+definition Filteau
+*** 
+pinyin Fēn'ēn
+characters 芬恩
+serial-number CedPane16637
+definition Finn
+*** 
+pinyin Fú'ādé
+characters 福阿德
+serial-number CedPane16638
+definition Fuad
+*** 
+pinyin Fúláichè
+characters 弗莱彻[-萊徹]
+serial-number CedPane16639
+definition Fletcher
+*** 
+pinyin Fúlǎngxīsī
+characters 弗朗茜丝[---絲]
+serial-number CedPane16640
+definition Francis
+*** 
+pinyin Fúlǐsītè
+characters 福里斯特
+serial-number CedPane16641
+definition Forrest (name)
+*** 
+pinyin Gàitǎn
+characters 盖坦[蓋-]
+serial-number CedPane16642
+definition Gaitán
+*** 
+pinyin Gāo'ěr
+characters 高尔[-爾]
+serial-number CedPane16643
+definition Gower
+*** 
+pinyin Gébó
+characters 格伯
+serial-number CedPane16644
+definition Gerber
+*** 
+pinyin Gélādísī
+characters 格拉迪丝[---絲]
+serial-number CedPane16645
+definition Gladys
+*** 
+pinyin Hālā'ěrdé
+characters 哈拉尔德[--爾-]
+serial-number CedPane16646
+definition Harald
+*** 
+pinyin Hànkè
+characters 汉克[漢-]
+serial-number CedPane16647
+definition Hank
+*** 
+pinyin Hāpò
+characters 哈珀
+serial-number CedPane16648
+definition Harper
+*** 
+pinyin Hātèlì
+characters 哈特利
+serial-number CedPane16649
+definition Hartley
+*** 
+pinyin Hèlè
+characters 赫勒
+serial-number CedPane16650
+definition Horle
+*** 
+pinyin Hēnglìkè
+characters 亨利克
+serial-number CedPane16651
+definition Henrik
+*** 
+pinyin Huánà
+characters 华纳[華納]
+serial-number CedPane16652
+definition Werner
+*** 
+pinyin Huòlán
+characters 霍兰[-蘭]
+serial-number CedPane16653
+definition Holland (surname)
+*** 
+pinyin Huòmò
+characters 霍默
+serial-number CedPane16654
+definition Homer (modern name)
+*** 
+pinyin Jiǎnèi'ěr
+characters 贾内尔[賈內爾]
+serial-number CedPane16655
+definition Janelle
+*** 
+pinyin Jiǎnísī
+characters 贾尼丝[賈-絲]
+serial-number CedPane16656
+definition Janice
+*** 
+pinyin Kǎjiālái
+characters 卡加莱[--萊]
+serial-number CedPane16657
+definition Kangale
+*** 
+pinyin Kǎlēi
+characters 卡勒
+serial-number CedPane16658
+definition Kahle
+*** 
+pinyin Kǎlínsījī
+characters 卡林斯基
+serial-number CedPane16659
+definition Karlinsky
+*** 
+pinyin Kèluósī
+characters 克罗斯[-羅-]
+serial-number CedPane16660
+definition Cross (surname)
+*** 
+pinyin Kènèn
+characters 克嫩
+serial-number CedPane16661
+definition Koenen
+*** 
+pinyin Kù'ěrxùn
+characters 库尔逊[庫爾遜]
+serial-number CedPane16662
+definition Kurzen
+*** 
+pinyin Lā'ěrsī
+characters 拉尔斯[-爾-]
+serial-number CedPane16663
+definition Lars
+*** 
+pinyin Lái'àodéjiālǐ'ào
+characters 莱奥德加里奥[萊奧---奧]
+serial-number CedPane16664
+definition Leodegario
+*** 
+pinyin Lāsāi'ěr
+characters 拉塞尔[--爾]
+serial-number CedPane16665
+definition Russell (given name)
+*** 
+pinyin Lēiwéi
+characters 勒韦[-韋]
+serial-number CedPane16666
+definition Levee
+*** 
+pinyin Lì'ān
+characters 利安
+serial-number CedPane16667
+definition Léone
+*** 
+pinyin Lǐ'ěr
+characters 李尔[-爾]
+serial-number CedPane16668
+definition Lear
+*** 
+pinyin Lìpòtè
+characters 利珀特
+serial-number CedPane16669
+definition Lippert
+*** 
+pinyin Lǐsēnfèi'ěrdé
+characters 里森费尔德[--費爾-]
+serial-number CedPane16670
+definition Riesenfeld
+*** 
+pinyin Luósàlǐ'ào
+characters 罗萨里奥[羅薩-奧]
+serial-number CedPane16671
+definition Rosario
+*** 
+pinyin Luòsànuò
+characters 洛萨诺[-薩諾]
+serial-number CedPane16672
+definition Lozano
+*** 
+pinyin Lúsàkǎ
+characters 卢萨卡[盧薩-]
+serial-number CedPane16673
+definition Lusaka
+*** 
+pinyin Lùsī
+characters 露思
+serial-number CedPane16674
+definition Ruth (modern)
+*** 
+pinyin Mǎcén
+characters 马岑[馬-]
+serial-number CedPane16675
+definition Matzen
+*** 
+pinyin Màikǎi
+characters 麦凯[麥凱]
+serial-number CedPane16676
+definition McKay
+*** 
+pinyin Méilì'ěr
+characters 梅莉尔[--爾]
+serial-number CedPane16677
+definition Muriel
+*** 
+pinyin Méiluózī
+characters 梅罗兹[-羅茲]
+serial-number CedPane16678
+definition Meros
+*** 
+pinyin Mǐhāyī
+characters 米哈伊
+serial-number CedPane16679
+definition Mihai
+*** 
+pinyin Mǐjītuōfū
+characters 米基托夫
+serial-number CedPane16680
+definition Mikitkov
+*** 
+pinyin Mòluózuǒfū
+characters 莫罗佐夫[-羅--]
+serial-number CedPane16681
+definition Morozov
+*** 
+pinyin Nàjíbù
+characters 纳吉布[納--]
+serial-number CedPane16682
+definition Najib
+*** 
+pinyin Nísītuō'ěr
+characters 尼斯托尔[---爾]
+serial-number CedPane16683
+definition Nistor
+*** 
+pinyin Pèijī
+characters 佩姬
+serial-number CedPane16684
+definition Paqui
+*** 
+pinyin Pí'ěr
+characters 皮尔[-爾]
+serial-number CedPane16685
+definition Perl (surname)
+*** 
+pinyin Pǔlādōng
+characters 普拉东[--東]
+serial-number CedPane16686
+definition Platon
+*** 
+pinyin Qiáoyīsī
+characters 乔伊斯[喬--]
+serial-number CedPane16687
+definition Joyce
+*** 
+pinyin Sàlìmǔ
+characters 萨利姆[薩--]
+serial-number CedPane16688
+definition Salem (modern name)
+*** 
+pinyin Sàmǐ'ěr
+characters 萨米尔[薩-爾]
+serial-number CedPane16689
+definition Samir
+*** 
+pinyin Sēndí
+characters 森迪
+serial-number CedPane16690
+definition Sunday (surname)
+*** 
+pinyin Shā'ā
+characters 沙阿
+serial-number CedPane16691
+definition Shāh
+*** 
+pinyin Shāndùshì
+characters 山度士
+serial-number CedPane16692
+definition Santos
+*** 
+pinyin Shītú'ěrmǔ
+characters 施图尔姆[-圖爾-]
+serial-number CedPane16693
+definition Sturm
+*** 
+pinyin Sījiépān
+characters 斯捷潘
+serial-number CedPane16694
+definition Stepan (name)
+*** 
+pinyin Sīkèlǐbùnà
+characters 斯克里布纳[----納]
+serial-number CedPane16695
+definition Scribner
+*** 
+pinyin Tǎdìyànà
+characters 塔蒂亚娜[--亞-]
+serial-number CedPane16696
+definition Tanya (older translation)
+*** 
+pinyin Tuōmǔ
+characters 托姆
+serial-number CedPane16697
+definition Toom
+*** 
+pinyin Wǎhènìng'ēn
+characters 瓦赫宁恩[--寧-]
+serial-number CedPane16698
+definition Wageningen
+*** 
+pinyin Wǎkǎlǐ
+characters 瓦卡里
+serial-number CedPane16699
+definition Vaccari
+*** 
+pinyin Wéisī
+characters 韦斯[韋-]
+serial-number CedPane16700
+definition Weiss
+*** 
+pinyin Wēisītè
+characters 威斯特
+serial-number CedPane16701
+definition Westminster (older translation)
+*** 
+pinyin Wéisītègāo
+characters 韦斯特高[韋---]
+serial-number CedPane16702
+definition Westergaard
+*** 
+pinyin Wēngbèiwǎ
+characters 翁贝瓦[-貝-]
+serial-number CedPane16703
+definition Ombeva
+*** 
+pinyin Wò'ěrdélún
+characters 沃尔德伦[-爾-倫]
+serial-number CedPane16704
+definition Waldron
+*** 
+pinyin Wònà
+characters 沃纳[-納]
+serial-number CedPane16705
+definition Werner
+*** 
+pinyin Xī'ěrbó
+characters 西尔伯[-爾-]
+serial-number CedPane16706
+definition Zilber
+*** 
+pinyin Xīkèsī
+characters 希克斯
+serial-number CedPane16707
+definition Hicks
+*** 
+pinyin Xīsēn
+characters 西森
+serial-number CedPane16708
+definition Sisson
+*** 
+pinyin Yēfūlièmǔ
+characters 耶夫列姆
+serial-number CedPane16709
+definition Efrem
+*** 
+pinyin Yīsēn
+characters 伊森
+serial-number CedPane16710
+definition Eason
+*** 
+pinyin Yóudítè
+characters 尤迪特
+serial-number CedPane16711
+definition Judith
+*** 
+pinyin Yóuyīnshì ròuliú
+characters 尤因氏肉瘤
+serial-number CedPane16712
+definition Ewing's sarcoma
+*** 
+pinyin Zhājī
+characters 扎基
+serial-number CedPane16713
+definition Zaki
+*** 
+pinyin Zhākèshī'àoní
+characters 扎克施奥尼[---奧-]
+serial-number CedPane16714
+definition Sacksioni
+*** 
+pinyin Zhānnìngsī
+characters 詹宁斯[-寧-]
+serial-number CedPane16715
+definition Jennings

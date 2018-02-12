@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-02-11
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-02-12
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -173,7 +173,7 @@
 埃爾伍德 埃尔伍德 [Ai1 er3 wu3 de2] /Elwood/
 愛爾西 爱尔西 [Ai4 er3 xi1] /Elsie/
 埃爾云克 埃尔云克 [Ai1 er3 yun2 ke4] /El Yunque/Yunque, El/
-艾菲德 艾菲德 [Ai4 fei3 de2] /Elfriede pinyin uncertain/
+艾菲德 艾菲德 [Ai4 fei1 de2] /Elfriede/
 埃菲爾 埃菲尔 [Ai1 fei1 er3] /Eiffel/
 艾菲爾 艾菲尔 [Ai4 fei1 er3] /Eiffel/
 艾菲爾鐵塔 艾菲尔铁塔 [Ai4 fei1 er3_tie3 ta3] /Eiffel Tower/Tower, Eiffel/
@@ -399,7 +399,7 @@
 阿羅爾德 阿罗尔德 [A1 luo2 er3 de2] /Arrold/
 阿羅約 阿罗约 [A1 luo2 yue1] /Arroyo/
 阿瑪 阿玛 [A1 ma3] /Amad/
-阿馬爾菲 阿马尔菲 [A1 ma3 er3 fei3] /Amalfi/
+阿馬爾菲 阿马尔菲 [A1 ma3 er3 fei1] /Amalfi/
 阿馬魯 阿马鲁 [A1 ma3 lu3] /Amaru/
 阿曼諾夫 阿曼诺夫 [A1 man4 nuo4 fu1] /Amanov/
 阿馬蘇斯 阿马苏斯 [A1 ma3 su1 si1] /Amathus/
@@ -1088,7 +1088,7 @@
 貝克 贝克 [Bei4 ke4] /Barker older translation?/
 貝克爾 贝克尔 [Bei4 ke4 er3] /Becker/
 貝克福德 贝克福德 [Bei4 ke4 fu2 de2] /Beckford/
-貝克斯菲爾德 贝克斯菲尔德 [Bei4 ke4 si1 fei3 er3 de2] /Bakersfield/
+貝克斯菲爾德 贝克斯菲尔德 [Bei4 ke4 si1 fei1 er3 de2] /Bakersfield/
 貝克斯特倫 贝克斯特伦 [Bei4 ke4 si1 te4 lun2] /Bäckström/
 貝克特 贝克特 [Bei4 ke4 te4] /Becket/
 貝拉 贝拉 [Bei4 la1] /Bera/Beira/
@@ -1703,7 +1703,7 @@
 布魯 布鲁 [Bu4 lu3] /Breaux/
 布魯恩 布鲁恩 [Bu4 lu3 en1] /Bruun/
 布魯爾 布鲁尔 [Bu4 lu3 er3] /Brewer surname/
-布盧菲爾茲 布卢菲尔兹 [Bu4 lu2 fei3 er3 zi1] /Bluefields/
+布盧菲爾茲 布卢菲尔兹 [Bu4 lu2 fei1 er3 zi1] /Bluefields/
 布魯格鎮 布鲁格镇 [Bu4 lu3 ge2 zhen4] /Brugg town/
 布魯克 布鲁克 [Bu4 lu3 ke4] /Brooke/
 布魯克黑文 布鲁克黑文 [Bu4 lu3 ke4 hei1 wen2] /Brookhaven/
@@ -2949,7 +2949,7 @@
 法西斯分子 法西斯分子 [Fa3 xi1 si1_fen4 zi3] /Fascists/
 費奧多爾 费奥多尔 [Fei4 ao4 duo1 er3] /Fyodor/
 菲奧娜 菲奥娜 [Fei1 ao4 na4] /Fiona/
-菲巴斯 菲巴斯 [Fei3 ba1 si1] /Phoebus/
+菲巴斯 菲巴斯 [Fei1 ba1 si1] /Phoebus/
 菲比 菲比 [Fei1 bi3] /Phoebe/
 非比 非比 [Fei1 bi3] /Phoebe old translation?/
 非編碼 非编码 [fei1_bian1 ma3] /noncoding/
@@ -2964,8 +2964,8 @@
 菲敦 菲敦 [Fei1 dun1] /Phédon/
 菲爾 菲尔 [Fei1 er3] /Phil/
 費爾班克斯 费尔班克斯 [Fei4 er3 ban1 ke4 si1] /Fairbanks/
-菲爾比 菲尔比 [Fei3 er3 bi3] /Philib/
-菲爾布里克 菲尔布里克 [Fei3 er3 bu4 li3 ke4] /Philbrick/
+菲爾比 菲尔比 [Fei1 er3 bi3] /Philib/
+菲爾布里克 菲尔布里克 [Fei1 er3 bu4 li3 ke4] /Philbrick/
 菲爾德 菲尔德 [Fei1 er3 de2] /Fielder/
 費爾霍普 费尔霍普 [Fei4 er3 huo4 pu3] /Fairhope/
 費爾米娜 费尔米娜 [Fei4 er3 mi3 na4] /Fermina/
@@ -2980,7 +2980,7 @@
 飛進 飞进 [fei1 jin4] /fly into/
 飛來 飞来 [fei1 lai5] /come flying/flying, come/
 飛來飛去 飞来飞去 [fei1 lai2 fei1 qu4] /flying around/around, flying/
-菲萊蒙 菲莱蒙 [Fei3 lai2 meng2] /Filemon/
+菲萊蒙 菲莱蒙 [Fei1 lai2 meng2] /Filemon/
 費拉里 费拉里 [Fei4 la1 li3] /Ferrari surname/
 費蘭 费兰 [Fei4 lan2] /Feinan/
 費拉斯 费拉斯 [Fei4 la1 si1] /Ferraz/
@@ -2989,8 +2989,8 @@
 費肋孟書 费肋孟书 [Fei4 lei4 meng4 shu1] /Philemon book, Catholic version/
 腓力 腓力 [Fei2 li4] /Philip Bible/
 腓利 腓利 [Fei2 li4] /Philip old translation?/
-菲里 菲里 [Fei3 li3] /Phiri/
-菲利貝爾 菲利贝尔 [Fei3 li4 bei4 er3] /Philibert/
+菲里 菲里 [Fei1 li3] /Phiri/
+菲利貝爾 菲利贝尔 [Fei1 li4 bei4 er3] /Philibert/
 腓立比 腓立比 [Fei2 li4 bi3] /Philippi/
 腓立比人 腓立比人 [Fei2 li4 bi3 ren2] /Philippians people, not book/
 腓立比書 腓立比书 [Fei2 li4 bi3 shu1] /Philippians Bible book/
@@ -3002,8 +3002,8 @@
 腓利門 腓利门 [Fei2 li4 men2] /Philemon/
 腓利門書 腓利门书 [Fei2 li4 men2 shu1] /Philemon Bible book/
 費利佩 费利佩 [Fei4 li4 pei4] /Felipe/
-菲利普 菲利普 [Fei3 li4 pu3] /Philip modern/
-菲利普斯 菲利普斯 [Fei3 li4 pu3 si1] /Phillips/Philips/
+菲利普 菲利普 [Fei1 li4 pu3] /Philip modern/
+菲利普斯 菲利普斯 [Fei1 li4 pu3 si1] /Phillips/Philips/
 非利士 非利士 [Fei1 li4 shi4] /Philistia/
 非利士地 非利士地 [Fei1 li4 shi4 di4] /Philistia/
 非利士人 非利士人 [Fei1 li4 shi4 ren2] /Philistines/
@@ -3013,10 +3013,10 @@
 費利西亞 费利西亚 [Fei4 li4 xi1 ya4] /Felicia/
 斐洛 斐洛 [Fei3 luo4] /Philo/
 非羅羅古 非罗罗古 [Fei1 luo2 luo2 gu3] /Philologus/
-菲瑪 菲玛 [Fei3 ma3] /Feema/
+菲瑪 菲玛 [Fei1 ma3] /Feema/
 費密 费密 [Fei4 mi4] /Fermi/
 費南德斯 费南德斯 [Fei4 nan2 de2 si1] /Fernández/
-菲涅耳 菲涅耳 [Fei3 nie4 er3] /Fresnel/
+菲涅耳 菲涅耳 [Fei1 nie4 er3] /Fresnel/
 非尼哈 非尼哈 [Fei1 ni2 ha1] /Phinehas/
 菲尼斯 菲尼斯 [Fei1 ni2 si1] /Phoenix/
 飛撲 飞扑 [fei1 pu1] /fly to pounce on prey etc/pounce on, fly to (prey etc)/
@@ -3030,7 +3030,7 @@
 費泰什蒂 费泰什蒂 [Fei4 tai4 shi2 di4] /Feteşti/
 廢土堆 废土堆 [fei4 tu3 dui1] /rubbish heap/heap, rubbish/
 肥沃新月 肥沃新月 [Fei2 wo4_Xin1 yue4] /Fertile Crescent/Crescent, Fertile/
-菲希爾 菲希尔 [Fei3 xi1 er3] /Fischer/
+菲希爾 菲希尔 [Fei1 xi1 er3] /Fischer/
 費希爾 费希尔 [Fei4 xi1 er3] /Fisher/
 非細菌性前列腺炎 非细菌性前列腺炎 [fei1 xi4 jun1 xing4_qian2 lie4 xian4 yan2] /nonbacterial prostatitis/prostatitis, nonbacterial/
 飛行計劃 飞行计划 [fei1 xing2_ji4 hua4] /flight plan/plan, flight/
@@ -3039,7 +3039,7 @@
 非裔 非裔 [Fei1 yi4] /of African descent/African descent, of/
 非裔巴西人 非裔巴西人 [Fei1 yi4_Ba1 xi1 ren2] /Afro-Brazilian/
 費音 费音 [fei4 yin1] /pim/
-菲英島 菲英岛 [Fei3 ying1 dao3] /Fyn Island/Island, Fyn/
+菲英島 菲英岛 [Fei1 ying1 dao3] /Fyn Island/Island, Fyn/
 非猶太人 非犹太人 [fei1 You2 tai4 ren2] /gentile/
 非正式場合 非正式场合 [fei1 zheng4 shi4_chang3 he2] /informal setting/setting, informal/
 非知不可 非知不可 [fei1 zhi1 bu4 ke3] /should not fail to know/fail to know, should not/
@@ -3367,7 +3367,7 @@
 格利 格利 [Ge2 li4] /Geuel/
 格里賓 格里宾 [Ge2 li3 bin1] /Gribbin John/
 格列高利 格列高利 [Ge2 lie4 gao1 li4] /Gregory/
-格里菲思 格里菲思 [Ge2 li3 fei3 si1] /Griffiths/
+格里菲思 格里菲思 [Ge2 li3 fei1 si1] /Griffiths/
 格里芬 格里芬 [Ge2 li3 fen1] /Griffin surname/
 格列佛 格列佛 [Ge2 li4 fu2] /Gulliver pinyin uncertain/
 格列佛游記 格列佛游记 [Ge2 li4 fu2_You2 ji4] /Gulliver's Travels book; pinyin uncertain/Travels, Gulliver's (book; pinyin uncertain)/
@@ -3910,7 +3910,7 @@
 哈塔 哈塔 [Ha1 ta3] /Hathath/
 哈他革 哈他革 [Ha1 ta1 ge2] /Hathach/
 哈特 哈特 [Ha1 te4] /Hart surname/
-哈特菲爾德 哈特菲尔德 [Ha1 te4 fei3 er3 de2] /Hatfield/
+哈特菲爾德 哈特菲尔德 [Ha1 te4 fei1 er3 de2] /Hatfield/
 哈特福 哈特福 [Ha1 te4 fu2] /Hartford/
 哈特拉斯角 哈特拉斯角 [Ha1 te4 la1 si1 jiao3] /Cape Hatteras/Hatteras, Cape/
 哈替 哈替 [Ha1 ti4] /Hattil/
@@ -3935,7 +3935,7 @@
 赫布勒 赫布勒 [He4 bu4 le4] /Hublers/
 赫布里底 赫布里底 [He4 bu4 li3 di3] /Hebrides/
 赫策爾 赫策尔 [He4 ce4 er3] /Hetzel/
-赫茨菲爾德 赫茨菲尔德 [He4 ci2 fei3 er3 de2] /Herzfeld/
+赫茨菲爾德 赫茨菲尔德 [He4 ci2 fei1 er3 de2] /Herzfeld/
 喝到 喝到 [he1 dao4] /drink until/until, drink/
 何達威 何达威 [He2 da2 wei1] /Hodevah/
 何大雅 何大雅 [He2 da4 ya3] /Hodaviah/
@@ -4828,7 +4828,6 @@
 金馬倫 金马伦 [Jin1 ma3 lun2] /Cameron/
 浸滿 浸满 [jin4 man3] /soak full/saturate a sponge etc/full, soak (a sponge etc)/
 金美 金美 [Jin1 mei3] /Kim/
-金美儀 金美仪 [Jin1_Mei3 yi2] /Fay King/King, Fay/
 近墨者黑 近墨者黑 [jin4 mo4 zhe3 hei1] /near ink become black/become black, near ink/
 金尼頓 金尼顿 [Jin1 ni2 dun4] /Ginnethon/
 金牛犢 金牛犊 [jin1 niu2 du2] /golden calf/calf, golden/
@@ -5033,7 +5032,7 @@
 卡爾曼 卡尔曼 [Ka3 er3 man4] /Cullmann/
 卡爾梅拉 卡尔梅拉 [Ka3 er3 mei2 la1] /Carmela/
 卡爾文 卡尔文 [Ka3 er3 wen2] /Calvin/
-卡菲利 卡菲利 [Ka3 fei3 li4] /Caerphilly/
+卡菲利 卡菲利 [Ka3 fei1 li4] /Caerphilly/
 卡弗 卡弗 [ka3 fu2] /kaph/kaf Hebrew letter/
 凱楚亞語 凯楚亚语 [Kai3 chu3 ya4 yu3] /Quechua language/
 凱達爾 凯达尔 [Kai3 da2 er3] /Kedar/
@@ -5333,7 +5332,7 @@
 克拉拉 克拉拉 [Ke4 la1 la1] /Clara/
 克拉倫斯 克拉伦斯 [Ke4 la1 lun2 si1] /Clarence/
 科蘭 科兰 [Ke1 lan2] /Collin/
-克蘭菲爾德 克兰菲尔德 [Ke4 lan2 fei3 er3 de2] /Cranfield/
+克蘭菲爾德 克兰菲尔德 [Ke4 lan2 fei1 er3 de2] /Cranfield/
 克朗代克 克朗代克 [Ke4 lang3 dai4 ke4] /Klondike/
 克蘭麥 克兰麦 [Ke4 lan2 mai4] /Cranmer/
 科蘭太因河 科兰太因河 [Ke1 lan2 tai4 yin1 he2] /Courantyne river/
@@ -5555,7 +5554,7 @@
 庫爾干 库尔干 [Ku4 er3 gan1] /Kurgan/
 庫爾斯克 库尔斯克 [Ku4 er3 si1 ke4] /Kursk/
 庫爾特 库尔特 [Ku4 er3 te4] /Kurt/
-庫菲 库菲 [Ku4 fei3] /Cuffie/
+庫菲 库菲 [Ku4 fei1] /Cuffie/
 庫格林 库格林 [Ku4 ge2 lin2] /Coughlin/
 酷狗 酷狗 [Ku4 gou3] /Cool Dog kugou.com/
 魁北克 魁北克 [Kui2 bei3 ke4] /Quebec/
@@ -5811,12 +5810,12 @@
 拉伊勒 拉伊勒 [La1 yi1 le4] /Lael/
 拉伊莫 拉伊莫 [La1 yi1 mo4] /Raimo/
 勒伯夫 勒伯夫 [Le4 bo2 fu1] /LeBoeuf/
-勒菲弗爾 勒菲弗尔 [Le4 fei3 fu2 er3] /Lefèvre/
+勒菲弗爾 勒菲弗尔 [Le4 fei1 fu2 er3] /Lefèvre/
 勒甘 勒甘 [Le4_Gan1] /Le Guin/Guin, Le/
 樂高積木 乐高积木 [Le4 gao1_ji1 mu4] /Lego bricks/bricks, Lego/
 雷巴齊 雷巴齐 [Lei2 ba1 qi2] /Rebacz/
 雷布曼 雷布曼 [Lei2 bu4 man4] /Rebmann/
-雷德菲爾德 雷德菲尔德 [Lei2 de2 fei3 er3 de2] /Redfield/
+雷德菲爾德 雷德菲尔德 [Lei2 de2 fei1 er3 de2] /Redfield/
 雷迪 雷迪 [Lei2 di2] /Reddy/
 雷丁 雷丁 [Lei2 ding1] /Reading place/
 雷恩 雷恩 [Lei2 en1] /Wren Christopher/
@@ -6233,7 +6232,7 @@
 掠走 掠走 [lu:e4 zou3] /take/capture/
 律法書 律法书 [lu:4 fa3 shu1] /book of the law/
 律法之約 律法之约 [Lu:4 fa3_zhi1_yue1] /Law covenant/covenant, Law/
-魯菲諾 鲁菲诺 [Lu3 fei3 nuo4] /Rufino/
+魯菲諾 鲁菲诺 [Lu3 fei1 nuo4] /Rufino/
 魯孚 鲁孚 [Lu3 fu2] /Rufus/
 氯氟化碳 氯氟化碳 [lu:4 fu2 hua4 tan4] /chloroflurocarbons CFCs/
 盧干達語 卢干达语 [Lu2 gan1 da2 yu3] /Luganda language/
@@ -6327,7 +6326,7 @@
 洛科 洛科 [Luo4 ke1] /Lak/
 洛克 洛克 [Luo4 ke4] /Locke/
 洛可兒 洛可儿 [Luo4 ke3 er2] /Rakel/
-洛克菲勒 洛克菲勒 [Luo4 ke4 fei3 le4] /Rockefeller/
+洛克菲勒 洛克菲勒 [Luo4 ke4 fei1 le4] /Rockefeller/
 洛克福 洛克福 [Luo4 ke4 fu2] /Roquefort/
 洛克福乾酪 洛克福干酪 [Luo4 ke4 fu2_gan1 lao4] /Roquefort cheese/
 羅克漢普頓 罗克汉普顿 [Luo2 ke4 han4 pu3 dun4] /Rockhampton/
@@ -6384,7 +6383,7 @@
 羅瑟勒姆 罗瑟勒姆 [Luo2 se4 le4 mu3] /Rotherham/
 羅森鮑姆 罗森鲍姆 [Luo2 sen1 bao4 mu3] /Rosenbaum/
 羅森布拉特 罗森布拉特 [Luo2 sen1 bu4 la1 te4] /Rosenblatt/
-羅森菲爾德 罗森菲尔德 [Luo2 sen1 fei3 er3 de2] /Rosenfeld/
+羅森菲爾德 罗森菲尔德 [Luo2 sen1 fei1 er3 de2] /Rosenfeld/
 羅莎莉亞 罗莎莉亚 [Luo2 sha1 li4 ya4] /Rosalía/
 洛杉磯時報 洛杉矶时报 [Luo4 shan1 ji1_Shi2 bao4] /Los Angeles Times/Angeles Times, Los/
 羅施 罗施 [Luo2 shi1] /Rosh/
@@ -6399,7 +6398,7 @@
 羅斯瑪麗 罗斯玛丽 [Luo2 si1 ma3 li4] /Rosemary name/
 羅斯納 罗斯纳 [Luo2 si1 na4] /Rössner/
 羅斯托夫州 罗斯托夫州 [Luo2 si1 tuo1 fu1_Zhou1] /Rostov region in Russia/
-羅素 罗素 [Luo2 su4] /Russell/
+羅素 罗素 [Luo2 su4] /Russell surname/
 羅塔島 罗塔岛 [Luo2 ta3 dao3] /Rota/
 洛塔爾 洛塔尔 [Luo4 ta3 er3] /Lothar/
 羅坦 罗坦 [Luo2 tan3] /Lotan/
@@ -6717,7 +6716,7 @@
 曼涅里克 曼涅里克 [Man4 nie4 li3 ke4] /Menelik/
 曼尼諾 曼尼诺 [Man4 ni2 nuo4] /Mannino/
 曼努埃爾 曼努埃尔 [Man4 nu3 ai1 er3] /Manuel/
-曼斯菲爾德 曼斯菲尔德 [Man4 si1 fei3 er3 de2] /Mansfield/
+曼斯菲爾德 曼斯菲尔德 [Man4 si1 fei1 er3 de2] /Mansfield/
 瑪挪亞 玛挪亚 [Ma3 nuo2 ya4] /Manoah/
 滿屋 满屋 [man3 wu1] /full room/room, full/
 滿心歡喜 满心欢喜 [man3 xin1_huan1 xi3] /whole heart rejoice/heart rejoice, whole/
@@ -8324,7 +8323,7 @@
 塞格尼 塞格尼 [Sai4 ge2 ni2] /Séguenny/
 塞加拉 塞加拉 [Sai4 jia1 la1] /Saqqara/
 塞進 塞进 [sai1 jin4] /stuff|block-up into the midst of/
-塞拉菲娜 塞拉菲娜 [Sai4 la1 fei3 na4] /Séraphine/
+塞拉菲娜 塞拉菲娜 [Sai4 la1 fei1 na4] /Séraphine/
 塞拉里厄斯 塞拉里厄斯 [Sai4 la1 li3 e4 si1] /Cellarius/
 塞拉薩 塞拉萨 [Sai4 la1 sa4] /Selassa/
 賽拉斯 赛拉斯 [Sai4 la1 si1] /Silas modern name/
@@ -8387,7 +8386,7 @@
 撒勒法 撒勒法 [Sa1 le4 fa3] /Zarephath/
 撒勒法的寡婦 撒勒法的寡妇 [Sa1 le4 fa3_de5_gua3 fu5] /the widow of Zarephath/widow of Zarephath, the/
 撒勒迦 撒勒迦 [Sa1 le4 jia1] /Salecah/
-撒冷 撒冷 [Sa1 leng3] /Salem/
+撒冷 撒冷 [Sa1 leng3] /Salem Bible/
 撒冷王 撒冷王 [Sa1 leng3 wang2] /king of Salem/Salem, king of/
 撒立 撒立 [Sa1 li4] /Sarid/
 薩里 萨里 [Sa4 li3] /Surrey/
@@ -8491,7 +8490,7 @@
 薩瑟蘭 萨瑟兰 [Sa4 se4 lan2] /Sutherland/
 薩莎 萨莎 [Sa4 sha1] /Sasha/
 撒上 撒上 [Sa1_Shang4] /1Sa abbreviation/
-薩斯菲爾德 萨斯菲尔德 [Sa4 si1 fei3 er3 de2] /Sarsfield/
+薩斯菲爾德 萨斯菲尔德 [Sa4 si1 fei1 er3 de2] /Sarsfield/
 薩斯喀徹溫省 萨斯喀彻温省 [Sa4 si1 ka1 che4 wen1 sheng3] /Saskatchewan/
 薩斯卡通 萨斯卡通 [Sa4 si1 ka3 tong1] /Saskatoon/
 薩特 萨特 [Sa4 te4] /Sartre/
@@ -9220,7 +9219,7 @@
 斯特蘭奈斯 斯特兰奈斯 [Si1 te4 lan2 nai4 si1] /Strängnäs/
 斯特勞斯 斯特劳斯 [Si1 te4 lao2 si1] /Strauss/
 斯特拉斯堡 斯特拉斯堡 [Si1 te4 la1 si1 bao3] /Strasbourg/
-斯特拉斯菲爾德 斯特拉斯菲尔德 [Si1 te4 la1 si1 fei3 er3 de2] /Strathfield/
+斯特拉斯菲爾德 斯特拉斯菲尔德 [Si1 te4 la1 si1 fei1 er3 de2] /Strathfield/
 斯特拉斯克萊德 斯特拉斯克莱德 [Si1 te4 la1 si1 ke4 lai2 de2] /Strathclyde/
 斯特拉特福 斯特拉特福 [Si1 te4 la1 te4 fu2] /Stratford/
 斯特拉文斯基 斯特拉文斯基 [Si1 te4 la1 wen2 si1 ji1] /Stravinsky/
@@ -9332,7 +9331,7 @@
 索法拉 索法拉 [Suo3 fa3 la1] /Sofala/
 瑣菲 琐菲 [Suo3 fei1] /Zophai/
 瑣非 琐非 [Suo3 fei1] /Zophim/
-索菲婭 索菲娅 [Suo3 fei3 ya4] /Sophia/
+索菲婭 索菲娅 [Suo3 fei1 ya4] /Sophia/
 索福克勒斯 索福克勒斯 [Suo3 fu2 ke4 le4 si1] /Sophocles/
 索福尼亞 索福尼亚 [Suo3 fu2 ni2 ya4] /Zephaniah book, Catholic version/
 梭哥 梭哥 [Suo1 ge1] /Socoh/
@@ -9403,8 +9402,8 @@
 塔哈島 塔哈岛 [Ta3 ha1 dao3] /Tahaa island/
 他罕 他罕 [Ta1 han3] /Tahan/
 塔河縣 塔河县 [Ta3 he2_Xian4] /Tahe County in Heilongjiang/County, Tahe (in Heilongjiang)/
-泰奧菲爾 泰奥菲尔 [Tai4 ao4 fei3 er3] /Teofil/
-泰奧菲拉 泰奥菲拉 [Tai4 ao4 fei3 la1] /Teófila/
+泰奧菲爾 泰奥菲尔 [Tai4 ao4 fei1 er3] /Teofil/
+泰奧菲拉 泰奥菲拉 [Tai4 ao4 fei1 la1] /Teófila/
 太棒了 太棒了 [tai4_bang4_le5] /excellent!/
 台伯河 台伯河 [Tai2 bo2 he2] /Tiber river/
 抬到 抬到 [tai2 dao4] /carry to/
@@ -9939,7 +9938,7 @@
 瓦內薩 瓦内萨 [Wa3 nei4 sa4] /Vanessa/
 瓦內莎 瓦内莎 [Wa3 nei4 sha1] /Vanessa/
 王池 王池 [Wang2 chi2] /King's Pool/Pool, King's/
-王菲 王菲 [Wang2_Fei3] /Faye Wong singer/Wong, Faye (singer)/
+王菲 王菲 [Wang2_Fei1] /Faye Wong singer/Wong, Faye (singer)/
 王服 王服 [wang2 fu2] /royal garments/garments, royal/
 罔顧法律 罔顾法律 [wang3 gu4_fa3 lu:4] /disregard law/take law into own hands/law, disregard/hands, take law into own/
 王國的鑰匙 王国的钥匙 [wang2 guo2_de5_yao4 shi5] /keys of the kingdom/kingdom, keys of the/
@@ -12850,7 +12849,7 @@
 伊夫 伊夫 [Yi1 fu1] /Yves/
 伊加德 伊加德 [Yi1 jia1 de2] /Irmgard/
 尤里 尤里 [You2 li3] /Yury/
-約菲 约菲 [Yue1 fei3] /Jovy/
+約菲 约菲 [Yue1 fei1] /Jovy/
 奧馬爾 奥马尔 [Ao4 ma3 er3] /Omar/
 邦戈 邦戈 [Bang1 ge1] /Bongo name/
 弗利特 弗利特 [Fu2 li4 te4] /Fleet street and buried river in London/
@@ -13406,7 +13405,7 @@
 非常的高興 非常的高兴 [fei1 chang2_de5_gao1 xing4] /very glad variant/glad, very (variant)/
 非繁忙時間 非繁忙时间 [fei1_fan2 mang2_shi2 jian1] /off-peak times in phone network etc, lit. non-busy/times, off-peak (in phone network etc, lit. non-busy)/
 非官式 非官式 [fei1 guan1 shi4] /unofficial old translation?/
-菲萊奧 菲莱奥 [fei3 lai2 ao4] /phileo/
+菲萊奧 菲莱奥 [fei1 lai2 ao4] /phileo/
 非有不可 非有不可 [fei1 you3 bu4 ke3] /indispensable/
 分別善惡樹 分别善恶树 [fen1 bie2_shan4 e4_shu4] /tree of the knowledge of good and bad old translation?/knowledge of good and bad, tree of the (old translation?)/
 芬芳氣味 芬芳气味 [fen1 fang1_qi4 wei4] /fragrant smell/smell, fragrant/
@@ -14417,7 +14416,7 @@
 多諾萬 多诺万 [Duo1 nuo4 wan4] /Donovan/
 菲利斯 菲利斯 [Fei1 li4 si1] /Phyllis/
 弗朗茲 弗朗兹 [Fu2 lang3 zi1] /Franz/
-格林菲爾德 格林菲尔德 [Ge2 lin2 fei3 er3 de2] /Greenfield/
+格林菲爾德 格林菲尔德 [Ge2 lin2 fei1 er3 de2] /Greenfield/
 吉亞奇諾 吉亚奇诺 [Ji2 ya4 qi2 nuo4] /Giacchino/
 坎德 坎德 [Kan3 de2] /Kind surname/
 里維拉 里维拉 [Li3 wei2 la1] /Rivera/
@@ -14488,7 +14487,7 @@
 佐敦 佐敦 [Zuo3 dun1] /Jordan modern name, alternate translation/
 死者之書 死者之书 [Si3 zhe3_Zhi1_Shu1] /Book of the Dead Egypt/Dead, Book of the (Egypt)/
 康斯坦丁 康斯坦丁 [Kang1 si1 tan3 ding1] /Constantine not Great/Konstantin/
-墨菲 墨菲 [Mo4 fei3] /Murphy/
+墨菲 墨菲 [Mo4 fei1] /Murphy/
 湯米 汤米 [Tang1 mi3] /Tommy/
 艾迪 艾迪 [Ai4 di2] /Eddie/
 阿蘭 阿兰 [A1 lan2] /Alana/
@@ -14553,7 +14552,7 @@
 安吉拉 安吉拉 [An1 ji2 la1] /Angela/
 艾力克斯 艾力克斯 [Ai4 li4 ke4 si1] /Alex/
 黛博拉 黛博拉 [Dai4 bo2 la1] /Deborah modern/
-巴菲特 巴菲特 [Ba1 fei3 te4] /Buffet surname/
+巴菲特 巴菲特 [Ba1 fei1 te4] /Buffet surname/
 奈特 奈特 [Nai4 te4] /Nate/
 席佛 席佛 [Xi2 fo2] /Silver surname/
 迭戈 迭戈 [Die2 ge1] /Diego/
@@ -16172,7 +16171,7 @@
 貝弗莉 贝弗莉 [Bei4 fu2 li4] /Beverley/
 達斯廷 达斯廷 [Da2 si1 ting2] /Dustin/
 德林格 德林格 [De2 lin2 ge2] /Dellinger/
-狄奧菲魯斯 狄奥菲鲁斯 [Di2 ao4 fei3 lu3 si1] /Theophilus modern/
+狄奧菲魯斯 狄奥菲鲁斯 [Di2 ao4 fei1 lu3 si1] /Theophilus modern/
 多卡爾莫 多卡尔莫 [Duo1 ka3 er3 mo4] /do Carmo/Carmo, do/
 弗里修斯 弗里修斯 [Fu2 li3 xiu1 si1] /Frisius/
 胡利奧 胡利奥 [Hu2 li4 ao4] /Julio/
@@ -16488,3 +16487,102 @@
 亞內茲 亚内兹 [Ya4 nei4 zi1] /Janez/
 揚努里斯 扬努里斯 [Yang2 nu3 li3 si1] /Yannouris/
 伊雷妮 伊雷妮 [Yi1 lei2 ni1] /Irene/
+阿巴特馬科 阿巴特马科 [A1 ba1 te4 ma3 ke1] /Abbatemarco/
+阿波斯托利季斯 阿波斯托利季斯 [A1 bo1 si1 tuo1 li4 ji4 si1] /Apostolidis/
+阿納托利 阿纳托利 [A1 na4 tuo1 li4] /Anatoly/
+奧爾頓 奥尔顿 [Ao4 er3 dun4] /Alton/
+比森特 比森特 [Bi3 sen1 te4] /Vicente/
+比特利斯 比特利斯 [Bi3 te4 li4 si1] /Bitlis/
+波恩 波恩 [Bo1 en1] /Bonn/
+伯吉斯 伯吉斯 [Bo2 ji2 si1] /Burgess/
+波利 波利 [Bo1 li4] /Polly/
+布德爾 布德尔 [Bu4 de2 er3] /Bourdel/
+布魯德 布鲁德 [Bu4 lu3 de2] /Bruder/
+達尼埃盧 达尼埃卢 [Da2 ni2 ai1 lu2] /Danielou/
+丹尼爾斯 丹尼尔斯 [Dan1 ni2 er3 si1] /Daniels/
+鄧庫姆 邓库姆 [Deng4 ku4 mu3] /Duncombe/
+德佐西 德佐西 [De2 zuo3 xi1] /Tsosie/
+多塞烏 多塞乌 [Duo1 se4 wu1] /Do Céu/Céu, Do/
+厄爾施萊格 厄尔施莱格 [E4 er3 shi1 lai2 ge2] /Oelschlägel/
+費迪南德 费迪南德 [Fei4 di2 nan2 de2] /Ferdinand/
+費倫茨 费伦茨 [Fei4 lun2 ci2] /Ferenc/
+菲圖 菲图 [Fei1 tu2] /Filteau/
+芬恩 芬恩 [Fen1 en1] /Finn/
+福阿德 福阿德 [Fu2 a1 de2] /Fuad/
+弗萊徹 弗莱彻 [Fu2 lai2 che4] /Fletcher/
+弗朗茜絲 弗朗茜丝 [Fu2 lang3 xi1 si1] /Francis/
+福里斯特 福里斯特 [Fu2 li3 si1 te4] /Forrest name/
+蓋坦 盖坦 [Gai4 tan3] /Gaitán/
+高爾 高尔 [Gao1 er3] /Gower/
+格伯 格伯 [Ge2 bo2] /Gerber/
+格拉迪絲 格拉迪丝 [Ge2 la1 di2 si1] /Gladys/
+哈拉爾德 哈拉尔德 [Ha1 la1 er3 de2] /Harald/
+漢克 汉克 [Han4 ke4] /Hank/
+哈珀 哈珀 [Ha1 po4] /Harper/
+哈特利 哈特利 [Ha1 te4 li4] /Hartley/
+赫勒 赫勒 [He4 le4] /Horle/
+亨利克 亨利克 [Heng1 li4 ke4] /Henrik/
+華納 华纳 [Hua2 na4] /Werner/
+霍蘭 霍兰 [Huo4 lan2] /Holland surname/
+霍默 霍默 [Huo4 mo4] /Homer modern name/
+賈內爾 贾内尔 [Jia3 nei4 er3] /Janelle/
+賈尼絲 贾尼丝 [Jia3 ni2 si1] /Janice/
+卡加萊 卡加莱 [Ka3 jia1 lai2] /Kangale/
+卡勒 卡勒 [Ka3 lei1] /Kahle/
+卡林斯基 卡林斯基 [Ka3 lin2 si1 ji1] /Karlinsky/
+克羅斯 克罗斯 [Ke4 luo2 si1] /Cross surname/
+克嫩 克嫩 [Ke4 nen4] /Koenen/
+庫爾遜 库尔逊 [Ku4 er3 xun4] /Kurzen/
+拉爾斯 拉尔斯 [La1 er3 si1] /Lars/
+萊奧德加里奧 莱奥德加里奥 [Lai2 ao4 de2 jia1 li3 ao4] /Leodegario/
+拉塞爾 拉塞尔 [La1 sai1 er3] /Russell given name/
+勒韋 勒韦 [Lei1 wei2] /Levee/
+利安 利安 [Li4 an1] /Léone/
+李爾 李尔 [Li3 er3] /Lear/
+利珀特 利珀特 [Li4 po4 te4] /Lippert/
+里森費爾德 里森费尔德 [Li3 sen1 fei4 er3 de2] /Riesenfeld/
+羅薩里奧 罗萨里奥 [Luo2 sa4 li3 ao4] /Rosario/
+洛薩諾 洛萨诺 [Luo4 sa4 nuo4] /Lozano/
+盧薩卡 卢萨卡 [Lu2 sa4 ka3] /Lusaka/
+露思 露思 [Lu4 si1] /Ruth modern/
+馬岑 马岑 [Ma3 cen2] /Matzen/
+麥凱 麦凯 [Mai4 kai3] /McKay/
+梅莉爾 梅莉尔 [Mei2 li4 er3] /Muriel/
+梅羅茲 梅罗兹 [Mei2 luo2 zi1] /Meros/
+米哈伊 米哈伊 [Mi3 ha1 yi1] /Mihai/
+米基托夫 米基托夫 [Mi3 ji1 tuo1 fu1] /Mikitkov/
+莫羅佐夫 莫罗佐夫 [Mo4 luo2 zuo3 fu1] /Morozov/
+納吉布 纳吉布 [Na4 ji2 bu4] /Najib/
+尼斯托爾 尼斯托尔 [Ni2 si1 tuo1 er3] /Nistor/
+佩姬 佩姬 [Pei4 ji1] /Paqui/
+皮爾 皮尔 [Pi2 er3] /Perl surname/
+普拉東 普拉东 [Pu3 la1 dong1] /Platon/
+喬伊斯 乔伊斯 [Qiao2 yi1 si1] /Joyce/
+薩利姆 萨利姆 [Sa4 li4 mu3] /Salem modern name/
+薩米爾 萨米尔 [Sa4 mi3 er3] /Samir/
+森迪 森迪 [Sen1 di2] /Sunday surname/
+沙阿 沙阿 [Sha1 a1] /Shāh/
+山度士 山度士 [Shan1 du4 shi4] /Santos/
+施圖爾姆 施图尔姆 [Shi1 tu2 er3 mu3] /Sturm/
+斯捷潘 斯捷潘 [Si1 jie2 pan1] /Stepan name/
+斯克里布納 斯克里布纳 [Si1 ke4 li3 bu4 na4] /Scribner/
+塔蒂亞娜 塔蒂亚娜 [Ta3 di4 ya4 na4] /Tanya older translation/
+托姆 托姆 [Tuo1 mu3] /Toom/
+瓦赫寧恩 瓦赫宁恩 [Wa3 he4 ning4 en1] /Wageningen/
+瓦卡里 瓦卡里 [Wa3 ka3 li3] /Vaccari/
+韋斯 韦斯 [Wei2 si1] /Weiss/
+威斯特 威斯特 [Wei1 si1 te4] /Westminster older translation/
+韋斯特高 韦斯特高 [Wei2 si1 te4 gao1] /Westergaard/
+翁貝瓦 翁贝瓦 [Weng1 bei4 wa3] /Ombeva/
+沃爾德倫 沃尔德伦 [Wo4 er3 de2 lun2] /Waldron/
+沃納 沃纳 [Wo4 na4] /Werner/
+西爾伯 西尔伯 [Xi1 er3 bo2] /Zilber/
+希克斯 希克斯 [Xi1 ke4 si1] /Hicks/
+西森 西森 [Xi1 sen1] /Sisson/
+耶夫列姆 耶夫列姆 [Ye1 fu1 lie4 mu3] /Efrem/
+伊森 伊森 [Yi1 sen1] /Eason/
+尤迪特 尤迪特 [You2 di2 te4] /Judith/
+尤因氏肉瘤 尤因氏肉瘤 [You2 yin1 shi4_rou4 liu2] /Ewing's sarcoma/sarcoma, Ewing's/
+扎基 扎基 [Zha1 ji1] /Zaki/
+扎克施奧尼 扎克施奥尼 [Zha1 ke4 shi1 ao4 ni2] /Sacksioni/
+詹寧斯 詹宁斯 [Zhan1 ning4 si1] /Jennings/
