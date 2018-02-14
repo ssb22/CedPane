@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-02-13
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-02-14
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -11651,7 +11651,7 @@
 譯法 译法 [yi4 fa3] /rendering/way of translating/translating, way of/
 依法可以 依法可以 [yi1 fa3_ke3 yi3] /legally entitled to do something/entitled, legally (to do something)/
 以法連 以法连 [Yi3 fa3 lian2] /Ephrain city/
-以法蓮 以法莲 [Yi3 fa3 lian2] /Ephraim/
+以法蓮 以法莲 [Yi3 fa3 lian2] /Ephraim Bible/
 以法蓮門 以法莲门 [Yi3 fa3 lian2 men2] /Gate of Ephraim/Ephraim, Gate of/
 以法蓮人 以法莲人 [Yi3 fa3 lian2 ren2] /Ephraimite/
 以法蓮山區 以法莲山区 [Yi3 fa3 lian2_shan1 qu1] /mountainous region of Ephraim/region of Ephraim, mountainous/
@@ -11731,7 +11731,7 @@
 伊勒歌斯人 伊勒歌斯人 [Yi1 le4 ge1 si1 ren2] /Elkoshite/
 伊蕾娜 伊蕾娜 [Yi1 lei3 na4] /Irena/
 伊力 伊力 [Yi1 li4] /Iri/
-以利 以利 [Yi3 li4] /Eli/
+以利 以利 [Yi3 li4] /Eli Bible/
 伊蓮 伊莲 [Yi1 lian2] /Elyn/
 以連 以连 [Yi3 lian2] /Eliam/
 伊里安 伊里安 [Yi1 li3 an1] /Irian/
@@ -15908,7 +15908,7 @@
 迪克森 迪克森 [Di2 ke4 sen1] /Dickson/
 魯本 鲁本 [Lu3 ben3] /Reuben modern/
 魯賓 鲁宾 [Lu3 bin1] /Rubén/
-蘇菲 苏菲 [Su1 fei1] /Sophie/
+蘇菲 苏菲 [Su1 fei1] /Sophie older translation/
 安德羅索夫 安德罗索夫 [An1 de2 luo2 suo3 fu1] /Androsoff/
 博伊德 博伊德 [Bo2 yi1 de2] /Boyd/
 春桃 春桃 [Chun1 tao2] /Chantal older translation/
@@ -16648,3 +16648,72 @@
 塞巴斯帝安 塞巴斯帝安 [Sai4 ba1 si1 di4 an1] /Sebastian/
 學弟 学弟 [xue2 di4] /junior male schoolmate/male schoolmate, junior/
 學妹 学妹 [xue2 mei4] /junior female schoolmate/female schoolmate, junior/
+阿爾貝特 阿尔贝特 [A1 er3 bei4 te4] /Albert/
+艾德里安 艾德里安 [Ai4 de2 li3 an1] /Adrian/
+埃弗賴姆 埃弗赖姆 [Ai1 fu2 lai4 mu3] /Ephraim modern/
+艾格 艾格 [Ai4 ge2] /Edgar/
+艾利 艾利 [Ai4 li4] /Eli modern/
+安德伍德 安德伍德 [An1 de2 wu3 de2] /Underwood/
+奧爾登布爾格 奥尔登布尔格 [Ao4 er3 deng1 bu4 er3 ge2] /Oldenbourg/
+阿讓庫爾 阿让库尔 [A1 rang4 ku4 er3] /Agincourt/
+柏克 柏克 [Bai3 ke4] /Peck surname/
+班尼特 班尼特 [Ban1 ni2 te4] /Bennett/
+貝德福郡 贝德福郡 [Bei4 de2 fu2 jun4] /Bedfordshire old translation/
+本森 本森 [Ben3 sen1] /Benson/
+比格爾斯韋德 比格尔斯韦德 [Bi3 ge2 er3 si1 wei2 de2] /Biggleswade old translation/
+波普 波普 [Bo1 pu3] /Pope surname/
+蔡斯 蔡斯 [Cai4 si1] /Chase surname/
+戴克 戴克 [Dai4 ke4] /Dyke/
+蒂莫 蒂莫 [Di4 mo4] /Timo/
+戈德堡 戈德堡 [Ge1 de2 bao3] /Goldberg/
+光學工程 光学工程 [guang1 xue2_gong1 cheng2] /optical engineering/engineering, optical/
+古爾登 古尔登 [Gu3 er3 deng1] /Goulden/
+哈德林頓 哈德林顿 [Ha1 de2 lin2 dun4] /Hadlington/
+哈恩 哈恩 [Ha1 en1] /Hahn/
+海伍德 海伍德 [Hai3 wu3 de2] /Heywood/
+赫利 赫利 [He4 li4] /Hulley/
+合著者 合著者 [he2 zhu4 zhe3] /co-authors/
+侯活 侯活 [Hou2 huo2] /Howard old translation/
+華倫泰 华伦泰 [Hua2 lun2 tai4] /Valente older translation/
+康斯坦蒂 康斯坦蒂 [Kang1 si1 tan3 di4] /Constanti/
+卡西迪 卡西迪 [Ka3 xi1 di2] /Cassidy/
+克萊恩 克莱恩 [Ke4 lai2 en1] /Crane surname/
+克雷 克雷 [Ke4 lei2] /Clay surname/
+空檔 空档 [kong1 dang4] /break in a schedule on tour etc/schedule, break in a (on tour etc)/
+蘭斯特羅思 兰斯特罗思 [Lan2 si1 te4 luo2 si1] /Langstroth/
+柳奇 柳奇 [Liu3 qi2] /Luçi/
+羅德尼 罗德尼 [Luo2 de2 ni2] /Rodney/
+洛蘭 洛兰 [Luo4 lan2] /Lorraine older translation/
+羅利 罗利 [Luo2 li4] /Rowley/
+羅倫 罗伦 [Luo2 lun2] /Rowland/
+洛倫佐 洛伦佐 [Luo4 lun2 zuo3] /Lorenzo/
+羅斯蒙特 罗斯蒙特 [Luo2 si1 meng2 te4] /Rosemont/
+曼恩 曼恩 [Man4 en1] /Mann/
+馬奇溫洛克 马奇温洛克 [Ma3 qi2 wen1 luo4 ke4] /Much Wenlock/Wenlock, Much/
+馬提亞斯 马提亚斯 [Ma3 ti2 ya4 si1] /Mathias/
+梅維斯 梅维斯 [Mei2 wei2 si1] /Mavis/
+蒙特婁 蒙特娄 [Meng2 te4 lou2] /Montreal alternate translation/
+米爾扎 米尔扎 [Mi3 er3 zha1] /Mīrzā/
+尼克拉斯 尼克拉斯 [Ni2 ke4 la1 si1] /Niclaes/
+諾蘭 诺兰 [Nuo4 lan2] /Nolan/
+裴因 裴因 [Pei2 yin1] /Payne older translation/
+皮克 皮克 [Pi2 ke4] /Peake/
+普陀山 普陀山 [Pu3 tuo2_shan1] /Mount Putuo/Putuo, Mount/
+色覺缺陷 色觉缺陷 [se4 jue2_que1 xian4] /colour vision deficiency/vision deficiency, colour/
+斯特恩 斯特恩 [Si1 te4 en1] /Stern surname/
+斯特凡納 斯特凡纳 [Si1 te4 fan2 na4] /Stéphane/
+松奇諾 松奇诺 [Song1 qi2 nuo4] /Soncino/
+索菲 索菲 [Suo3 fei1] /Sophie/
+索薩 索萨 [Suo3 sa4] /Sosa/
+泰萊 泰莱 [Tai4 lai2] /Taylor older translation/
+脫癮症狀 脱瘾症状 [tuo1 yin3_zheng4 zhuang4] /withdrawal symptoms/symptoms, withdrawal/
+維多 维多 [Wei2 duo1] /Victor/
+韋斯利 韦斯利 [Wei2 si1 li4] /Wesley/
+韋西 韦西 [Wei2 xi1] /Vaisey/
+西城區 西城区 [Xi1 cheng2_Qu1] /Xicheng District in Beijing/District, Xicheng (in Beijing)/
+養蜂家 养蜂家 [yang3 feng1 jia1] /apiarist/
+伊利 伊利 [Yi1 li4] /Ely/
+贊尼士 赞尼士 [Zan4 ni2 shi4] /Janis/
+賺得到 赚得到 [zhuan4_de5_dao4] /earn money/
+朱利奧 朱利奥 [Zhu1 li4 ao4] /Julio/
+佐伊 佐伊 [Zuo3 yi1] /Zoé/
