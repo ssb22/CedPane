@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-02-20
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-02-21
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -4825,7 +4825,7 @@
 盡己所能 尽己所能 [jin4 ji3 suo3 neng2] /to the best of our ability/best of our ability, to the/
 緊急性 紧急性 [jin3 ji2 xing4] /urgency/
 金里奇 金里奇 [Jin1 li3 qi2] /Gingrich/
-金馬倫 金马伦 [Jin1 ma3 lun2] /Cameron/
+金馬倫 金马伦 [Jin1 ma3 lun2] /Cameron old translation/
 浸滿 浸满 [jin4 man3] /soak full/saturate a sponge etc/full, soak (a sponge etc)/
 金美 金美 [Jin1 mei3] /Kim/
 近墨者黑 近墨者黑 [jin4 mo4 zhe3 hei1] /near ink become black/become black, near ink/
@@ -5947,7 +5947,7 @@
 利德爾 利德尔 [Li4 de2 er3] /Liddell/
 犁地 犁地 [li2_di4] /plow/
 利迪婭 利迪娅 [Li4 di2 ya4] /Lidia/
-莉迪婭 莉迪娅 [Li4 di2 ya4] /Lydia/
+莉迪婭 莉迪娅 [Li4 di2 ya4] /Lydia modern/
 列邦 列邦 [lie4 bang1] /lineup of nations/nations, lineup of/
 裂鼻 裂鼻 [lie4 bi2] /nose slit/slit, nose/
 獵戶座 猎户座 [Lie4 hu4 zuo4] /Orion/
@@ -6222,7 +6222,7 @@
 路德維格 路德维格 [Lu4 de2 wei2 ge2] /Ludwig/
 路德維希 路德维希 [Lu4 de2 wei2 xi1] /Ludwig/
 魯迪 鲁迪 [Lu3 di2] /Rudy/Rudi/
-呂底亞 吕底亚 [Lu:3 di3 ya4] /Lydia/
+呂底亞 吕底亚 [Lu:3 di3 ya4] /Lydia Bible/
 盧頓 卢顿 [Lu2 dun4] /Luton/
 盧多爾夫 卢多尔夫 [Lu2 duo1 er3 fu1] /Ludolph/
 盧多維克 卢多维克 [Lu2 duo1 wei2 ke4] /Ludovic/
@@ -8556,7 +8556,7 @@
 沙律 沙律 [sha1 lu:4] /tossed salad older|Cantonese translation?/salad, tossed (older|Cantonese translation?)/
 沙魯亨 沙鲁亨 [Sha1 lu3 heng1] /Sharuhen/
 莎倫 莎伦 [Sha1 lun2] /Sharon/
-沙崙 沙仑 [Sha1 lun2] /Sharon/
+沙崙 沙仑 [Sha1 lun2] /Sharon Bible/
 沙倫 沙伦 [Sha1 lun2] /Shallun/
 莎羅 莎罗 [Sha1 luo2] /Charo/
 沙洛尼 沙洛尼 [Sha1 luo4 ni2] /Chalony/
@@ -16743,3 +16743,91 @@
 生物課 生物课 [sheng1 wu4_ke4] /biology school subject/
 生物世界 生物世界 [sheng1 wu4_shi4 jie4] /the world of biology/world of biology, the/
 佐埃 佐埃 [zuo3 ai1] /zoe Greek word for life/
+阿爾卡蘇瓦什 阿尔卡苏瓦什 [A1 er3 ka3 su1 wa3 shi2] /Alcáçovas/
+埃利 埃利 [Ai1 li4] /Elie/
+阿萊曼 阿莱曼 [A1 lai2 man4] /Alamein/
+阿拉斯市 阿拉斯市 [A1 la1 si1_Shi4] /Arras town/
+安德烈亚 安德烈亚 [An1 de2 lie4 ya4] /Andrea/
+安傑洛 安傑洛 [An1 jie2 luo4] /Angelo/
+奧列格 奧列格 [Ao4 lie4 ge2] /Oleg/
+奧斯本 奧斯本 [Ao4 si1 ben3] /Osborn/
+奧斯曼 奧斯曼 [Ao4 si1 man4] /Osman/
+奧圖 奧圖 [Ao4 tu2] /Otto/
+邦德 邦德 [Bang1 de2] /Bende/
+邦妮 邦妮 [Bang1 ni1] /Bonnie/
+邦諾 邦诺 [Bang1 nuo4] /Bonno/
+貝賽 贝赛 [Bei4 sai4] /Beza/
+貝絲 貝絲 [Bei4 si1] /Beth/
+波恩德 波恩德 [Bo1 en1 de2] /Bernd/
+伯格曼 伯格曼 [Bo2 ge2 man4] /Bergman/
+波拿巴 波拿巴 [Bo1 na2 ba1] /Bonaparte/
+疊戈 叠戈 [Die2 ge1] /Diego/
+俄聶洛 俄聂洛 [E2 nie4 luo4] /Enelow/
+費迪南 費迪南 [Fei4 di2 nan2] /Ferdinand/
+葛夫特 葛夫特 [Ge2 fu1 te4] /Gottfried/
+格雷姆 格雷姆 [Ge2 lei2 mu3] /Graham/
+格里森 格里森 [Ge2 li3 sen1] /Greeson/
+海曼 海曼 [Hai3 man4] /Hyman/
+哈倫 哈伦 [Ha1 lun2] /Harlan/
+霍克 霍克 [Huo4 ke4] /Hawke/
+霍利 霍利 [Huo4 li4] /Holly name/
+加布里埃拉 加布里埃拉 [Jia1 bu4 li3 ai1 la1] /Gabriella/
+迦瑪射線 迦玛射线 [jia1 ma3_she4 xian4] /gamma ray/
+加斯帕 加斯帕 [Jia1 si1 pa4] /Gaspé/
+結論性意見 结论性意见 [jie2 lun4 xing4_yi4 jian5] /concluding observations in court/observations, concluding (in court)/
+基富 基富 [Ji1 fu4] /Keith/
+基教協會 基教协会 [Ji1 jiao4_Xie2 hui4] /WCC abbreviation for World Council of Churches/
+吉莉安 吉莉安 [Ji2 li4 an1] /Jillian/
+居伊 居伊 [Ju1 yi1] /Guy name/
+凱登 凯登 [Kai3 deng1] /Heidrun/
+卡麥隆 卡麦隆 [Ka3 mai4 long2] /Cameron alternate translation/
+卡梅倫 卡梅伦 [Ka3 mei2 lun2] /Cameron/
+卡米洛 卡米洛 [Ka3 mi3 luo4] /Camillo/
+坎坦 坎坦 [Kan3 tan3] /Compton older translation/
+卡坦扎羅 卡坦扎罗 [Ka3 tan3 zha1 luo2] /Catanzaro/
+柯比 柯比 [Ke1 bi3] /Kirby/
+克拉默 克拉默 [Ke4 la1 mo4] /Kramer/
+克雷斯潘 克雷斯潘 [Ke4 lei2 si1 pan1] /Crespin/
+庫爾干秋 库尔干秋 [Ku4 er3 gan1 qiu1] /Kurgan-tyube/
+庫圖佐夫 库图佐夫 [Ku4 tu2 zuo3 fu1] /Kutuzov/
+拉布斯 拉布斯 [La1 bu4 si1] /Rabus/
+勞德 劳德 [Lao2 de2] /Laud/
+勒潘特 勒潘特 [Le4 pan1 te4] /Le Painctre/Painctre, Le/
+利斯 利斯 [Li4 si1] /Reis/
+隆美爾 隆美尔 [Long2 mei3 er3] /Rommel/
+倫赫 伦赫 [Lun2 he4] /Reinhard/
+洛基 洛基 [Luo4 ji1] /Loki/
+蘿莉 蘿莉 [Luo2 li4] /Loli/
+羅林斯 羅林斯 [Luo2 lin2 si1] /Rollins/
+盧萬市 卢万市 [Lu2 wan4_Shi4] /Louvain/
+馬比拉 马比拉 [Ma3 bi3 la1] /Mabilat/
+馬利克 馬利克 [Ma3 li4 ke4] /Malek/
+馬沙多 马沙多 [Ma3 sha1 duo1] /Machado/
+馬斯巴特 马斯巴特 [Ma3 si1 ba1 te4] /Masbate/
+梅爾文 梅爾文 [Mei2 er3 wen2] /Melvin/
+莫城 莫城 [Mo4 cheng2] /Meaux in France/
+莫塞斯 莫塞斯 [Mo4 sai1 si1] /Moses modern/
+妮迪婭 妮迪娅 [Ni1 di2 ya4] /Lydia modern, old translation/
+妮塔 妮塔 [Ni1 ta3] /Nita/
+歐巴馬 欧巴马 [Ou1 ba1 ma3] /Obama alternate translation/
+帕夫列 帕夫列 [Pa4 fu1 lie4] /Pavle/
+帕萊奧洛格 帕莱奥洛格 [Pa4 lai2 ao4 luo4 ge2] /Paleologu/
+判為 判为 [pan4_wei2] /judge as in trial etc/
+塞拉 塞拉 [Sai1 la1] /Cera/
+莎朗 莎朗 [Sha1 lang3] /Sharon modern/
+斯特芬 斯特芬 [Si1 te4 fen1] /Steffen/
+蘇亞雷斯 蘇亞雷斯 [Su1 ya4 lei2 si1] /Suárez/
+物理治療師 物理治疗师 [wu4 li3_zhi4 liao2 shi1] /physical therapist/physiotherapist/therapist, physical/
+謝苗諾夫 谢苗诺夫 [Xie4 miao2 nuo4 fu1] /Semenov/
+希利 希利 [Xi1 li4] /Haley/
+殉教史 殉教史 [xun4 jiao4 shi3] /martyrology book about martyrs/
+亞歷山德魯 亞歷山德魯 [Ya4 li4 shan1 de2 lu3] /Alexandru/
+亞歷山卓 亞歷山卓 [Ya4 li4 shan1 zhuo2] /Alexandria city, old translation?/
+亞速爾 亚速尔 [Ya4 su4 er3] /Azores/
+伊安 伊安 [Yi1 an1] /Egon/
+異端罪 异端罪 [yi4 duan1 zui4] /heresy crime e.g. in Middle Ages/
+伊斯拉莫夫 伊斯拉莫夫 [Yi1 si1 la1 mo4 fu1] /Islamov/
+伊沃 伊沃 [Yi1 wo4] /Ivo/
+伊茲密爾市 伊兹密尔市 [Yi1 zi1 mi4 er3_Shi4] /Izmir city/
+尤特 尤特 [You2 te4] /Jutta/
+約尼 约尼 [Yue1 ni2] /Joni/
