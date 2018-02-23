@@ -97,6 +97,8 @@ a calling that one has been granted as a favour	承蒙召唤	承蒙召喚	chéng
 a calling that one has been granted as a favour	蒙召	蒙召	méngzhào	mùhng-jīuh	
 Accad	亚卡	亞卡	Yàkǎ	Ngā-kà	ˈækhæd
 acceptable time	悦纳的时候	悅納的時候	yuènà de shíhou	yūht-nāahp dìk sìh-hāuh	
+<fashion> accessible/affordable luxury item	轻奢侈品	輕奢侈品	qīng shēchǐpǐn	hìng chè-chí-bán	
+<fashion> accessible luxury	轻奢	輕奢	qīngshē	hìng-chè	
 accidentally	意外地	意外地	yìwài de	yī-ngōih dēih	ˌæksɪdˈɛntəli
 accommodate; contain; hold	容得下	容得下	róng dé xià	yùhng dàk hāh	ˌəkˈɒmədeɪt
 accompany; have a sharing with	作伴	作伴	zuò bàn	jōk būhn	ˌəkˈʌmpəni
@@ -981,6 +983,7 @@ Askeran	阿斯凯兰	阿斯凱蘭	Āsīkǎilán	Ā-sì-hói-làahn
 Askew (surname)	艾斯丘	艾斯丘	Àisīqiū	Ngāaih-sì-yàu	ˌəskjˈʉː
 ask for "likes" on social media	求赞	求贊	qiú zàn	kàuh jāan	
 ask (informal?)	问一问	問一問	wèn yi wèn	māhn yàt māhn	
+ask what price the seller wants	问价	問價	wèn jià	māhn gā	
 Asnah	亚斯拿	亞斯拿	Yàsīná	Ngā-sì-nàh	ˈæsnʌ
 Asocials (Nazi prisoner category, lit. "scum of society")	社会败类	社會敗類	Shèhuì Bàilèi	Séh-wúi Bāaih-lēuih	
 Aspen	阿丝萍	阿絲萍	Āsīpíng	Ā-sì-pìhng	
@@ -2090,6 +2093,7 @@ Brigitte	布丽吉特	布麗吉特	Bùlìjítè	Bōu-lāih-gàt-dāhk
 Brigitte	布里吉特	布里吉特	Bùlǐjítè	Bōu-léih-gàt-dāhk	
 brim/mouth of a jar or vat	缸口	缸口	gāngkǒu(r)	gòng-háu	
 bring (a large stone etc)	搬来	搬來	bānlai	bùn-lòih	
+bring (back from somewhere)	带回来	帶回來	dài huilai		
 bring back (lit. transport return)	运回	運回	yùnhuí	wāhn-wùih	
 bring back to your minds	让你们想起	讓你們想起	ràng nǐmen xiǎngqǐ	yēuhng néih-mùhn séung-héi	
 bring by leading (an animal)	牵来	牽來	qiānlai	hìn-lòih	
@@ -2493,6 +2497,7 @@ carry a candle	拿着蜡烛	拿著蠟燭	názhe làzhú	nàh-jēuhk-lāahp-jùk
 carry as a burden (?)	负上	負上	fùshang	fūh-séuhng	
 carry (in both hands) to; exalted to	捧到	捧到	pěngdào	búng-dōu	kˈæɹi
 carrying shelf; bar (for carrying)	抬架	抬架	táijià	tòih-gā	
+carry in the palms of both hands	捧在手心里	捧在手心裡	pěng zài shǒuxīn lǐ	búng jōih sáu-sàm léuih	
 carry into	抬进	抬進	táijìn	tòih-jēun	
 carry off as prey	掳去	擄去	lǔqu	lóuh-hēui	
 carry on as citizens	做公民	做公民	zuò gōngmín	jōuh gùng-màhn	
@@ -2760,6 +2765,7 @@ Chilmad	基迈	基邁	Jīmài	Gèi-māaih	khˈɪlmæd
 Chilo (island)	奇洛埃岛	奇洛埃島	Qíluò'āidǎo	Kèih-lōhk-àai-dóu	
 Chimborazo	钦博拉索	欽博拉索	Qīnbólāsuǒ	Yàm-bōk-làai-sōk	
 Chimham	金罕	金罕	Jīnhǎn	Gàm-hón	khˈɪmhæm
+China-designed fashion (as opposed to foreign brands of clothing etc)	国潮	國潮	Guócháo	Gwōk-chìuh	
 China has	中国有	中國有	Zhōngguó yǒu	Jùng-gwōk yáuh	
 China Institute of Atomic Energy	中国原子能科学研究院	中國原子能科學研究院	Zhōngguó Yuánzǐnéng Kēxué Yánjiūyuàn	Jùng-gwōk Yùhn-jí-nàhng Fò-hōhk Yīhn-gāu-yún	
 China Today (magazine)	今日中国	今日中國	Jīnrì Zhōngguó	Gàm-yāht Jùng-gwōk	
@@ -3375,6 +3381,8 @@ cross the road	过马路	過馬路	guò mǎlù	gwō máh-lōuh
 crossways	岔路口	岔路口	chàlùkǒu	chà-lōuh-háu	
 Crouching Tiger Concerto	卧虎藏龙协奏曲	臥虎藏龍協奏曲	Wòhǔcánglóng Xiézòuqǔ	Ngōh-fú-chòhng-lùhng Hīp-jāu-kùk	
 crowds; deputations(?)	一群群	一群群	yīqúnqún	yàt-kwàhn-kwàhn	
+crowdsourcing	众包	眾包	zhòngbāo	jūng-bàau	
+crowdsourcing	群众外包	群眾外包	qúnzhòngwàibāo	kwàhn-jūng-ngōih-bàau	
 Crowl	克劳尔	克勞爾	Kèláo'ěr	Hàk-lòuh-yíh	
 crowning touch; crowning achievement	巅峰之做	巔峰之做	diānfēng zhī zuò	dìn-fùng jì jōuh	
 crown of decoration	华冕	華冕	huámiǎn	wàh-míhn	
@@ -4628,6 +4636,7 @@ Etruscans	埃特鲁斯坎人	埃特魯斯坎人	Āitèlǔsīkǎnrén	Àai-dāhk-
 Etty	埃蒂	埃蒂	Āidì	Àai-dāi	
 Euboea	埃维亚	埃維亞	Āiwéiyà	Àai-wàih-ngā	
 Eubulus	友布罗	友布羅	Yǒubùluó	Yáuh-bōu-lòh	jʉːbjˈʉːləs
+Eucalyptus regnans; mountain ash	王桉	王桉	wáng'ān	wòhng-òn	
 Eucumbene (lake)	尤坎本湖	尤坎本湖	Yóukǎnběnhú	Yàuh-hàm-bún-wùh	
 Eugene	尤金	尤金	Yóujīn	Yàuh-gàm	jˌʉːdʒˈin
 Eugène	欧仁	歐仁	Ōurén	Ngàu-yàhn	
@@ -5500,6 +5509,7 @@ Geoff	杰夫	傑夫	Jiéfū	Gīht-fù
 Geoffrey	杰弗里	傑弗里	Jiéfúlǐ	Gīht-fàt-léih	
 geologist	地质学者	地質學者	dìzhìxuézhě	dēih-jàt-hōhk-jé	
 Georg	格奥尔格	格奧爾格	Gé'ào'ěrgé	Gāak-ōu-yíh-gāak	
+George Bernard Shaw	萧伯纳	蕭伯納	Xiāo Bónà	Sìu Bāak-nāahp	
 (George) de Mestral	梅斯特拉尔	梅斯特拉爾	Méisītèlā'ěr	Mùih-sì-dāhk-làai-yíh	
 Georgetown	乔治敦	喬治敦	Qiáozhìdūn	Kìuh-jīh-dèun	
 Georgia	格鲁吉亚	格魯吉亞	Gélǔjíyà	Gāak-lóuh-gàt-ngā	dʒˈʊədʒə
@@ -7399,6 +7409,7 @@ Jannes	雅尼	雅尼	Yǎní	Ngáh-nèih	dʒˈæniz
 Janny	雅妮	雅妮	Yǎnī	Ngáh-nèih	
 Janus (Roman god)	雅努斯	雅努斯	Yǎnǔsī	Ngáh-nóuh-sì	
 Janusz	雅努什	雅努什	Yǎnǔshí	Ngáh-nóuh-sāhm	
+Japan-Korea (used of international relations etc)	日韩	日韓	Rì-Hán	Yāht-hòhn	
 Japanese dancing	日本舞蹈	日本舞蹈	Rìběn wǔdǎo	Yāht-bún móuh-dōuh	
 Japheth	雅弗	雅弗	Yǎfú	Ngáh-fàt	dʒˈeɪfɛθ
 Japhia	雅非亚	雅非亞	Yǎfēiyà	Ngáh-fèi-ngā	dʒəfˈaɪʌ
@@ -11910,6 +11921,7 @@ pretend to be	装做	裝做	zhuāngzuò	jòng-jōuh
 pretrial detention	审前羁押	審前羈押	shěn qián jīyā	sám chìhn gèi-āat	
 "pretty stupid" (lit. big fool)	大傻瓜	大傻瓜	dà shǎguā	dāaih sòh-gwà	
 <comp.> preview	预览	預覽	yùlǎn	yūh-láahm	
+price comparison service	比价服务	比價服務	bǐjià fúwù	béi-gā fūhk-mōuh	
 prick full	扎满	扎滿	zhāmǎn	jāat-múhn	
 prick full (using many spears etc to kill a creature)	刺满	刺滿	cìmǎn	chī-múhn	
 prick (one's side) with a thorn	刺进	刺進	cìjìn	chī-jēun	
@@ -12305,6 +12317,7 @@ read the heart	洞悉人心	洞悉人心	dòngxī rénxīn	dūhng-sìk yàhn-sà
 read to (lit. read give)	读给	讀給	dúgěi	dūhk-kàp	
 ready to taste?	备尝	備嘗	bèicháng	bēih-sèuhng	
 Reaiah	利亚雅	利亞雅	Lìyàyǎ	Lēih-ngā-ngáh	ɹˌiˈeɪʌ
+<netspeak> real-life person (to do something, etc)	人肉	人肉	rénròu	yàhn-yūhk	
 real (as in stable and true; obscure?)	稳确	穩確	wěnquè	wán-kōk	
 really good	真好	真好	zhēn hǎo	jàn hóu	
 really hot (ancient word)	爁炎	爁炎	lànyán	làahm-yìhm	
@@ -12634,6 +12647,7 @@ roasted grain	烤谷	烤穀	kǎogǔ	hàau-gùk
 Robby	罗比	羅比	Luóbǐ	Lòh-béi	
 Roberson	罗伯逊	羅伯遜	Luóbóxùn	Lòh-bāak-sēun	
 Robert	罗伯特	羅伯特	Luóbótè	Lòh-bāak-dāhk	
+Robert	罗贝尔	羅貝爾	Luóbèi'ěr	Lòh-būi-yíh	
 Roberto	罗伯托	羅伯托	Luóbótuō	Lòh-bāak-tōk	
 Robert (older translation)	罗拔	羅拔	Luóbá	Lòh-bāht	
 Roberts	罗伯特斯	羅伯特斯	Luóbótèsī	Lòh-bāak-dāhk-sì	
@@ -12763,6 +12777,7 @@ roundabout (for traffic)	环形交叉口	環形交叉口	huánxíng jiāochākǒ
 round bowl/cup	圆杯	圓杯	yuánbēi	yùhn-bùi	
 round cake of barley bread	大麦饼	大麥餅	dàmàibǐng	dāaih-māhk-béng	
 Rousseau	卢梭	盧梭	Lúsuō	Lòuh-sò	
+rowan; mountain ash (tree)	山梨	山梨	shānlí	sàan-lèih	
 row away; pull away	划离	划離	huálí	wāahk-lèih	
 Rowena	罗恩娜	羅恩娜	Luó'ēnnà	Lòh-yàn-nàh	
 Rowland	罗伦	羅倫	Luólún	Lòh-lèuhn	
@@ -16403,6 +16418,7 @@ xylon (ξύλον)	西隆	西隆	xīlóng	sài-lùhng
 Xârâcùù (language)	哈拉朱乌语	哈拉朱烏語	Hālāzhūwūyǔ	Hà-làai-jyù-wù-yúh	
 Ya'an (in Sichuan)	雅安	雅安	Yǎ'ān	Ngáh-ngòn	
 Ya'an (in Sichuan)	雅安市	雅安市	Yǎ'ān Shì	Ngáh-ngòn Síh	
+Yacos	亚克斯	亞克斯	Yàkèsī	Ngā-hàk-sì	
 Yafo	雅法	雅法	Yǎfǎ	Ngáh-fāat	
 Yahweh	雅威	雅威	Yǎwēi	Ngáh-wài	
 Yair	亚伊尔	亞伊爾	Yàyī'ěr	Ngā-yì-yíh	
