@@ -413,6 +413,7 @@ Alfonso	阿方索	阿方索	Āfāngsuǒ	Ā-fòng-sōk
 Alfred	艾尔弗雷德	艾爾弗雷德	Ài'ěrfúléidé	Ngāaih-yíh-fàt-lèuih-dàk	
 Alfred	阿尔弗雷德	阿爾弗雷德	Ā'ěrfúléidé	Ā-yíh-fàt-lèuih-dàk	
 Alfredo	阿尔弗雷多	阿爾弗雷多	Ā'ěrfúléiduō	Ā-yíh-fàt-lèuih-dò	ælfɹˈeɪdəʊ
+Alfredo	阿法多	阿法多	Āfǎduō	Ā-fāat-dò	
 Alhambra (palace)	阿尔汗布拉宫	阿爾汗布拉宮	Ā'ěrhànbùlāgōng	Ā-yíh-hōhn-bōu-làai-gùng	
 Alhazen	阿尔哈曾	阿爾哈曾	Ā'ěrhācéng	Ā-yíh-hà-chàhng	
 Ali	阿里	阿里	Ālǐ	Ā-léih	ˈæli
@@ -2521,6 +2522,7 @@ carob	角豆	角豆	jiǎodòu	gōk-dāuh
 carob pod	角豆荚	角豆莢	jiǎodòujiá	gōk-dāuh-gāap	
 Carolina (area)	卡罗来纳州	卡羅來納州	Kǎluóláinà Zhōu	kà-lòh-lòih-nāahp-jàu	kˌæɹəlˈaɪnə
 Carolina (name)	卡罗琳	卡羅琳	Kǎluólín	Kà-lòh-làhm	
+Carolina (name)	卡罗琳娜	卡羅琳娜	Kǎluólínnà	Kà-lòh-làhm-nàh	
 Caroline	凯罗琳	凱羅琳	Kǎiluólín	Hói-lòh-làhm	kˈæɹəlaɪn
 Caroline	卡罗琳	卡羅琳	Kǎluólín	Kà-lòh-làhm	
 Carol (name)	卡罗尔	卡羅爾	Kǎluó'ěr	Kà-lòh-yíh	
@@ -3322,6 +3324,7 @@ corruptible	能朽坏	能朽壞	néng xiǔhuài	nàhng náu-wāaih
 corruptible (as opposed to incorruptible)	必朽	必朽	bìxiǔ	bìt-náu	
 Corsica (island)	科西嘉岛	科西嘉島	Kēxījiādǎo	Fò-sài-gà-dóu	
 Corsican (language)	科西嘉语	科西嘉語	Kēxījiāyǔ	Fò-sài-gà-yúh	
+Cortez	科特斯	科特斯	Kētèsī	Fò-dāhk-sì	
 cortical	皮层性	皮層性	pícéngxìng	pèih-chàhng-sīng	
 cortical visual impairment; CVI	皮层性视损伤	皮層性視損傷	pícéngxìng shì sǔnshāng	pèih-chàhng-sīng sīh syún-sèung	
 Cortés	科尔特斯	科爾特斯	Kē'ěrtèsī	Fò-yíh-dāhk-sì	
@@ -4389,6 +4392,7 @@ electronic device; gadget	电子产品	電子產品	diànzǐ chǎnpǐn	dīhn-jí
 electronic disk (Flash/USB)	电子盘	電子盤	diànzǐpán	dīhn-jí-pùhn	
 electronic files	电子档案	電子檔案	diànzǐ dàng'àn	dīhn-jí dóng-ngōn	
 electronic publications	电子出版物	電子出版物	diànzǐ chūbǎnwù	dīhn-jí chèut-báan-māht	
+electroshock devices	电震器	電震器	diànzhènqì	dīhn-jān-hēi	
 electrum (gold-silver alloy)	金银合金	金銀合金	jīnyín héjīn	gàm-ngàhn hāhp-gàm	
 Elena	埃琳娜	埃琳娜	Āilínnà	Àai-làhm-nàh	ɛlˈeɪnə
 Eleni	艾莱妮	艾萊妮	Àiláinī	Ngāaih-lòih-nèih	
@@ -5746,6 +5750,7 @@ Girz	基兹	基茲	Jīzī	Gèi-jì
 Gisela	吉塞拉	吉塞拉	Jísàilā	Gàt-chōi-làai	dʒɪsˈɛlə
 Gisenyi	吉塞尼	吉塞尼	Jísàiní	Gàt-chōi-nèih	
 Gishpa	基斯帕	基斯帕	Jīsīpà	Gèi-sì-pāak	ɡˈɪʃpæɹ
+Gita	吉塔	吉塔	Jítǎ	Gàt-tāap	
 Gittite	迦特人	迦特人	Jiātèrén	Gà-dāhk-yàhn	ɡˈɪtaɪt
 Giuseppe	朱塞佩	朱塞佩	Zhūsàipèi	Jyù-chōi-pūi	
 give/provide (from superior to inferior)	赐下	賜下	cìxia	chī-hāh	
@@ -5773,6 +5778,7 @@ glassy sea	玻璃海	玻璃海	bōlihǎi	bò-lèi-hói
 gleaming; glittering	闪闪生辉	閃閃生輝	shǎnshǎn-shēnghuī	sím-sím-sàang-fài	
 Gleissner	格莱斯纳	格萊斯納	Géláisīnà	Gāak-lòih-sì-nāahp	
 Glendale	格伦代尔	格倫代爾	Gélúndài'ěr	Gāak-lèuhn-dōih-yíh	
+Glessing	格莱辛	格萊辛	Géláixīn	Gāak-lòih-sàn	
 Glittering Star (variety of gladiolus flower)	闪星	閃星	Shǎnxīng	Sím-sìng	
 global climate change	全球气候变化	全球氣候變化	quánqiú qìhòu biànhuà	chyùhn-kàuh hēi-hāuh bīn-fā	
 global news	全球消息	全球消息	quánqiú xiāoxi	chyùhn-kàuh-sìu-sìk	
@@ -6046,6 +6052,7 @@ Griffiths	格里菲思	格里菲思	Gélǐfēisī	Gāak-léih-fèi-sì
 Grigalashvili	格里加拉什维利	格里加拉什維利	Gélǐjiālāshíwéilì	Gāak-léih-gà-làai-sāhm-wàih-lēih	
 Grigori; Grigory	格里戈里	格里戈里	Gélǐgēlǐ	Gāak-léih-gwò-léih	
 grind (lit. press destroy)	压毁	壓毀	yāhuǐ	ngāat-wái	
+gringa (derogatory term for American woman used in Venezuela)	外国婆子	外國婆子	wàiguó pózi		
 Griqualand West	西格里夸兰	西格里誇蘭	Xīgélǐkuālán	Sài-gāak-léih-kwà-làahn	
 Grizzle	格里泽尔	格里澤爾	Gélǐzé'ěr	Gāak-léih-jāahk-yíh	
 Grolier	格罗里埃	格羅里埃	Géluólǐ'āi	Gāak-lòh-léih-àai	
@@ -6961,6 +6968,7 @@ Hoxha	霍查	霍查	Huòchá	Fōk-chàh
 Hoyle	霍伊尔	霍伊爾	Huòyī'ěr	Fōk-yì-yíh	
 Hsi Ling-Shi	西陵氏	西陵氏	Xī Língshì	Sài Lìhng-sīh	
 Hsinchuang; Xinzhuang (Taiwan)	新庄	新莊	Xīnzhuāng	Sàn-jòng	
+Huabi Yin (plasma scientist)	尹华碧	尹華碧	Yǐn Huábì	Wáhn Wàh-bìk	
 Huadian (in Jilin)	桦甸	樺甸	Huàdiàn	Wàh-dīhn	
 Huadian (in Jilin)	桦甸市	樺甸市	Huàdiàn Shì	Wàh-dīhn Síh	
 Huai'an (in Jiangsu)	淮安	淮安	Huái'ān	Wàaih-ngòn	
@@ -11951,6 +11959,7 @@ Plantin (16th-century Bible printer)	普朗坦	普朗坦	Pǔlǎngtǎn	Póu-lóhn
 plant order (classification)	植物目	植物目	zhíwùmù	jīhk-māht-mūhk	
 plant seeds (gardening)	种花种草	種花種草	zhòng huā zhòng cǎo	jūng fà jūng chóu	
 plant transpiration	植物蒸腾	植物蒸騰	zhíwù zhēngténg	jīhk-māht jìng-tàhng	
+plasma (substance)	等离子	等離子	děnglízǐ	dáng-lèih-jí	
 Plataea	普拉蒂亚	普拉蒂亞	Pǔlādìyà	Póu-làai-dāi-ngā	
 platemaking	制版	制版	zhìbǎn	jāi-báan	
 Platon	普拉东	普拉東	Pǔlādōng	Póu-làai-dùng	
@@ -13004,6 +13013,7 @@ Rosetta	罗塞塔	羅塞塔	Luósàitǎ	Lòh-chōi-tāap
 Rosetta Stone	罗塞塔石碑	羅塞塔石碑	Luósàitǎ Shíbēi	Lòh-chōi-tāap Sēhk-bèi	
 Rosh	罗实	羅實	Luóshí	Lòh-sāht	
 Rosh	罗施	羅施	Luóshī	Lòh-sì	
+Rosicrucianism	玫瑰十字会	玫瑰十字會	Méiguīshízìhuì	Mùih-gwāi-sāhp-jīh-wúi	
 Rosita	罗西塔	羅西塔	Luóxītǎ	Lòh-sài-tāap	
 Ross	罗斯	羅斯	Luósī	Lòh-sì	
 Rossi	罗西	羅西	Luóxī	Lòh-sài	
@@ -15308,6 +15318,7 @@ throw towards	掷向	擲向	zhìxiàng	jāahk-hēung
 thrush	鸫鸟	鶇鳥	dōngniǎo	dùng-níuh	
 thrust aside one's conscience; ignore one's conscience	不顾良心	不顧良心	bùgù liángxīn	bàt-gū lèuhng-sàm	
 Thucydides	修昔底德	修昔底德	Xiūxīdǐdé	Sàu-sìk-dái-dàk	
+thumb cuffs	拇指铐	拇指銬	mǔzhǐ kào	móuh-jí kāau	
 Thummim	土明	土明	Tǔmíng	Tóu-mìhng	θˈʌmɪm
 Thun	图恩	圖恩	Tú'ēn	Tòuh-yàn	
 thunder boom; thunders	雷轰	雷轟	léihōng	lèuih-gwàng	
@@ -16499,6 +16510,7 @@ with/having	秉着	秉著	bǐngzhe	bíng-jēuhk
 with a good heart; very happy	开开心心	開開心心	kāikāi-xīnxin	hòi-hòi-sàm-sàm	
 with a sad voice	哀声	哀聲	āishēng	òi-sèng	
 withdrawal symptoms	脱瘾症状	脫癮症狀	tuōyǐn zhèngzhuàng	tyūt-yáhn jìng-jōhng	
+withdraw from election	退选	退選	tuìxuǎn	tēui-syún	
 withdraw (in)to	退到	退到	tuìdào	tēui-dōu	
 with good motive	怀着好意	懷著好意	huáizhe hǎoyì	wàaih-jēuhk-hóu-yī	
 within 1 week	一周内	一周內	yīzhōu nèi	yàt-jàu nōih	
