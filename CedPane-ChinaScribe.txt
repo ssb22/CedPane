@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-03-20
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-03-21
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -6678,7 +6678,7 @@
 馬隆 马隆 [Ma3 long2] /Malone/
 瑪魯 玛鲁 [Ma3 lu3] /Maru/
 瑪律 玛律 [Ma3 lu:4] /Maroth/
-瑪倫 玛伦 [Ma3 lun2] /Mahlon/
+瑪倫 玛伦 [Ma3 lun2] /Mahlon Bible/
 馬洛 马洛 [Ma3 luo4] /Marlot/
 馬羅尼河 马罗尼河 [Ma3 luo2 ni2 he2] /Maroni river/
 瑪魯夏 玛鲁夏 [Ma3 lu3 xia4] /Marusya/
@@ -8044,7 +8044,7 @@
 喬治敦 乔治敦 [Qiao2 zhi4 dun1] /Georgetown/
 喬治亞州 乔治亚州 [Qiao2 zhi4 ya4_Zhou1] /Georgia older translation?/
 恰帕斯 恰帕斯 [Qia4 pa4 si1] /Chiapas/
-恰斯 恰斯 [Qia4 si1] /Chelsea/
+恰斯 恰斯 [Qia4 si1] /Chelsea old translation/
 齊遍 齐遍 [Qi2 bian4] /Zibeon/
 騎兵隊 骑兵队 [qi2 bing1 dui4] /troops of cavalry/armies of cavalry/cavalry, troops of/
 齊柏林 齐柏林 [Qi2 bo2 lin2] /Zeppelin parade ground etc/
@@ -17589,3 +17589,96 @@
 海綿狀腦病 海绵状脑病 [hai3 mian2 zhuang4 nao3 bing4] /spongiform encephalopathy/encephalopathy, spongiform/
 拉菲卡 拉菲卡 [La1 fei1 ka3] /Rafika/
 朊病毒 朊病毒 [ruan3 bing4 du2] /prion/
+阿博特 阿博特 [A1 bo2 te4] /Abbott/
+阿德爾 阿德尔 [A1 de2 er3] /Adel/
+艾克曼 艾克曼 [Ai4 ke4 man4] /Eichmann/
+埃莉諾 埃莉诺 [Ai1 li4 nuo4] /Eleanor/
+埃默里 埃默里 [Ai1 mo4 li3] /Emory/
+埃斯比約 埃斯比约 [Ai1 si1 bi3 yue1] /Esbjerg/
+奧蒂斯 奥蒂斯 [Ao4 di4 si1] /Otis/
+奧拉夫 奥拉夫 [Ao4 la1 fu1] /Olaf/
+奧拉夫 奥拉夫 [Ao4 la1 fu1] /Olaf/
+阿韋利諾 阿韦利诺 [A1 wei2 li4 nuo4] /Avelino/
+鮑爾斯 鲍尔斯 [Bao4 er3 si1] /Powers/
+巴特爾 巴特尔 [Ba1 te4 er3] /Bartle/
+貝恩德 贝恩德 [Bei4 en1 de2] /Bernd/
+貝姬 贝姬 [Bei4 ji1] /Becky/
+貝特朗 贝特朗 [Bei4 te4 lang3] /Bertrand/
+比斯利 比斯利 [Bi3 si1 li4] /Beasley/
+布蘭奇 布兰奇 [Bu4 lan2 qi2] /Blanche/
+布里斯 布里斯 [Bu4 li3 si1] /Brice/
+布魯斯特 布鲁斯特 [Bu4 lu3 si1 te4] /Brust/
+達里爾 达里尔 [Da2 li3 er3] /Darryl/
+德古拉 德古拉 [De2 gu3 la1] /Dracula/
+富克斯 富克斯 [Fu4 ke4 si1] /Fuchs/
+弗拉德 弗拉德 [Fu2 la1 de2] /Vlad/
+弗朗克 弗朗克 [Fu2 lang3 ke4] /Frank/
+戈德曼 戈德曼 [Ge1 de2 man4] /Goldman/
+古特曼 古特曼 [Gu3 te4 man4] /Goodman/
+海沃德 海沃德 [Hai3 wo4 de2] /Hayward/
+哈伍德 哈伍德 [Ha1 wu3 de2] /Harwood/
+哈伊姆 哈伊姆 [Ha1 yi1 mu3] /Chaim/
+赫爾佐克 赫尔佐克 [He4 er3 zuo3 ke4] /Herzog/
+霍勒斯 霍勒斯 [Huo4 lei1 si1] /Horace/
+霍伊特 霍伊特 [Huo4 yi1 te4] /Hoyt/
+吉爾曼 吉尔曼 [Ji2 er3 man4] /Gillman/
+吉宗 吉宗 [Ji2 zong1] /Gichon/
+喀爾巴阡山脈 喀尔巴阡山脉 [Ka1 er3 ba1 qian1_shan1 mai4] /Carpathian Mountains/Mountains, Carpathian/
+卡萊爾 卡莱尔 [Ka3 lai2 er3] /Carlyle/Carlisle/
+考爾 考尔 [Kao3 er3] /Call surname/
+卡特林 卡特林 [Ka3 te4 lin2] /Kathrin/
+科拉多 科拉多 [Ke1 la1 duo1] /Corrado/
+克拉格 克拉格 [Ke4 la1 ge2] /Kraig/
+克勞利 克劳利 [Ke4 lao2 li4] /Crowley/
+克勞特 克劳特 [Ke4 lao2 te4] /Klaudt/
+肯德爾 肯德尔 [Ken3 de2 er3] /Kendall/
+拉德 拉德 [La1 de2] /Lade/
+雷切爾 雷切尔 [Lei2 qie1 er3] /Rachelle/
+里默 里默 [Li3 mo4] /Rihmer/
+羅姆尼 罗姆尼 [Luo2 mu3 ni2] /Romney/
+羅伊德 罗伊德 [Luo2 yi1 de2] /Royd/
+魯文 鲁文 [Lu3 wen2] /Rubén/
+露易絲 露易丝 [Lu4 yi4 si1] /Louise/
+馬丁斯 马丁斯 [Ma3 ding1 si1] /Martins/
+馬洪 马洪 [Ma3 hong2] /Mahlon Stacy etc/
+麥克雷 麦克雷 [Mai4 ke4 lei2] /McRae/
+馬里斯 马里斯 [Ma3 li3 si1] /Marris/
+梅利莎 梅利莎 [Mei2 li4 sha1] /Melissa/
+蒙特羅 蒙特罗 [Meng2 te4 luo2] /Montero/
+米爾納 米尔纳 [Mi3 er3 na4] /Milner/
+莫迪凱 莫迪凯 [Mo4 di2 kai3] /Mordechai/
+莫妮克 莫妮克 [Mo4 ni1 ke4] /Monique/
+帕斯托 帕斯托 [Pa4 si1 tuo1] /Pastor surname etc/
+普薩爾蒂斯 普萨尔蒂斯 [Pu3 sa4 er3 di4 si1] /Psaltis/
+切爾西 切尔西 [Qie1 er3 xi1] /Chelsea place/
+賽克斯 赛克斯 [Sai4 ke4 si1] /Sykes/
+塞拉諾 塞拉诺 [Sai1 la1 nuo4] /Serrano/
+塞西莉 塞西莉 [Sai1 xi1 li4] /Cecilie/
+桑賈伊 桑贾伊 [Sang1 jia3 yi1] /Sanjay/
+史賓塞 史宾塞 [Shi3 bin1 se4] /Spencer/
+史萊特 史莱特 [Shi3 lai2 te4] /Slater/
+史瓦茲 史瓦兹 [Shi3 wa3 zi1] /Schwarz/Schwartz/
+斯泰法諾斯 斯泰法诺斯 [Si1 tai4 fa3 nuo4 si1] /Stephanos/
+斯泰西 斯泰西 [Si1 tai4 xi1] /Stacy/
+斯托爾 斯托尔 [Si1 tuo1 er3] /Storr/
+特蕾西 特蕾西 [Te4 lei3 xi1] /Tracy/
+特倫特 特伦特 [Te4 lun2 te4] /Trent/
+特佩斯 特佩斯 [Te4 pei4 si1] /Ţepeş/
+頹垣 颓垣 [tui2 yuan2] /remains of a wall|house|etc/wall|house|etc, remains of a/
+威爾伯 威尔伯 [Wei1 er3 bo2] /Wilbur/
+威爾伯特 威尔伯特 [Wei1 er3 bo2 te4] /Wilbert/
+韋爾斯 韦尔斯 [Wei2 er3 si1] /Wells place + sometimes surname/
+維勒 维勒 [Wei2 le4] /Willer/
+夏爾馬 夏尔马 [Xia4 er3 ma3] /Sharma/
+希伯特 希伯特 [Xi1 bo2 te4] /Hiebert/
+辛西婭 辛西娅 [Xin1 xi1 ya4] /Cynthia/
+西斯托 西斯托 [Xi1 si1 tuo1] /Sixto/
+亞歷斯 亚历斯 [Ya4 li4 si1] /Alex/
+揚尼斯 扬尼斯 [Yang2 ni2 si1] /Ioannis/
+伊沙克 伊沙克 [Yi1 sha1 ke4] /Ishak/
+伊斯頓 伊斯顿 [Yi1 si1 dun4] /Easton/
+尤利婭 尤利娅 [You2 li4 ya4] /Yulia/
+約爾格 约尔格 [Yue1 er3 ge2] /Jörg/
+約斯特 约斯特 [Yue1 si1 te4] /Yost/
+澤農 泽农 [Ze2 nong2] /Zenon/
+佐爾坦 佐尔坦 [Zuo3 er3 tan3] /Zoltán/
