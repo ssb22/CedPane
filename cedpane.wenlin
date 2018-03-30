@@ -40142,7 +40142,7 @@ definition Chorti
 pinyin Huìqiáo'ěrrén
 characters 惠乔尔人[-喬爾-]
 serial-number CedPane8047
-definition Huichol people
+definition Huichol (people/person)
 *** 
 pinyin Qiáojiā Dàyuàn
 characters 乔家大院[喬---]
@@ -88888,3 +88888,184 @@ pinyin lái bù liǎo
 characters 来不了[來--]
 serial-number CedPane17913
 definition unable to come
+*** 
+pinyin Āntíjīsèlā
+characters 安提基瑟拉
+serial-number CedPane17914
+definition Antikythera
+*** 
+pinyin Āntíjīsèlādǎo
+characters 安提基瑟拉岛[-----島]
+serial-number CedPane17915
+definition Antikýthēra (island)
+*** 
+pinyin Āntíjīsèlā Jìsuànjī
+characters 安提基瑟拉计算机[-----計-機]
+serial-number CedPane17916
+definition Antikythera Mechanism
+*** 
+pinyin Āntíkǎitèlā
+characters 安提凯特拉[--凱--]
+serial-number CedPane17917
+definition Antikythera (alternate translation)
+*** 
+pinyin Bèizīlì
+characters 贝兹利[貝茲-]
+serial-number CedPane17918
+definition Bazely
+*** 
+pinyin Bópǔ
+characters 博普
+serial-number CedPane17919
+definition Bopp
+*** 
+pinyin Bùluómǐqí
+characters 布罗米奇[-羅--]
+serial-number CedPane17920
+definition Bromwich
+*** 
+pinyin chāodàguīmó jíchéng diànlù
+characters 超大规模集成电路[--規---電-]
+serial-number CedPane17921
+definition very large scale integration; VLSI
+*** 
+pinyin diànnǎokē
+characters 电脑科[電腦-]
+serial-number CedPane17922
+definition computer science (old translation)
+*** 
+pinyin diànnǎo zhuānjiā
+characters 电脑专家[電腦專-]
+serial-number CedPane17923
+definition computer scientists
+*** 
+pinyin diànzǐ yóujiàn fúwù gōngyìngshāng
+characters 电子邮件服务供应商[電-郵--務-應-]
+serial-number CedPane17924
+definition email service provider
+*** 
+pinyin Fùhuójiédǎo
+characters 复活节岛[復-節島]
+serial-number CedPane17926
+definition Easter Island
+*** 
+pinyin Hādákè
+characters 哈达克[-達-]
+serial-number CedPane17927
+definition Hardaker
+*** 
+pinyin Hélándùn
+characters 荷兰盾[-蘭-]
+serial-number CedPane17928
+definition gulden (Dutch coin before euro)
+*** 
+pinyin Huìqiáo'ěrzú
+characters 惠乔尔族[-喬爾-]
+serial-number CedPane17929
+definition Huichol (tribe)
+*** 
+pinyin jiétú
+characters 截图[-圖]
+serial-number CedPane17930
+definition screenshot
+*** 
+pinyin jíxìng báixuèbìng
+characters 急性白血病
+serial-number CedPane17931
+definition acute leukemia
+*** 
+pinyin Lāhé'ěr
+characters 拉合尔[--爾]
+serial-number CedPane17932
+definition Lahore
+*** 
+pinyin Láinà
+characters 莱娜[萊-]
+serial-number CedPane17933
+definition Lene
+*** 
+pinyin Mǎxī
+characters 马西[馬-]
+serial-number CedPane17934
+definition Masih
+*** 
+pinyin Pàjiāmǎ
+characters 帕加马[--馬]
+serial-number CedPane17935
+definition Pergamum (alternate translation)
+*** 
+pinyin píngtái
+characters 平台
+serial-number CedPane17936
+environment   comp.
+definition platform
+*** 
+pinyin Sàdíkè
+characters 萨迪克[薩--]
+serial-number CedPane17937
+definition Sadiq
+*** 
+pinyin shēnxīnjùpí
+characters 身心俱疲
+serial-number CedPane17938
+definition physically and emotionally exhausted
+*** 
+pinyin shǒujī hàomǎ
+characters 手机号码[-機號碼]
+serial-number CedPane17939
+definition mobile phone number
+*** 
+pinyin Sūkù'ěr
+characters 苏库尔[蘇庫爾]
+serial-number CedPane17940
+definition Sukkur
+*** 
+pinyin Wǎ'ěrpàláisuǒ
+characters 瓦尔帕莱索[-爾-萊-]
+serial-number CedPane17941
+definition Valparaiso
+*** 
+pinyin wǎngluò fúwù gōngyìngshāng
+characters 网络服务供应商[網絡-務-應-]
+serial-number CedPane17942
+definition Internet service provider
+*** 
+pinyin wǎngluò fúwù shāng
+characters 网络服务商[網絡-務-]
+serial-number CedPane17943
+definition Internet service provider
+*** 
+pinyin Wēixìn Gōngzhòng Píngtái
+characters 微信公众平台[---眾--]
+serial-number CedPane17944
+definition WeChat Official Accounts Platform
+*** 
+pinyin wēiyǒu
+characters 微友
+serial-number CedPane17945
+definition microblog friends/contacts
+*** 
+pinyin wèi zìjǐ biànjiě
+characters 为自己辩解[為--辯-]
+serial-number CedPane17946
+definition justify oneself; defend oneself
+*** 
+pinyin Xīdé Mǎkè
+characters 西德马克[--馬-]
+serial-number CedPane17947
+definition deutsche mark (West Germany before euro)
+*** 
+pinyin xuǎnbiānzhàn
+characters 选边站[選邊-]
+serial-number CedPane17948
+definition take sides
+*** 
+pinyin yuándàimǎ
+characters 源代码[--碼]
+serial-number CedPane17949
+definition source code
+*** 
+pinyin yún tōngxùnlù
+characters 云通讯录[--訊錄]
+serial-number CedPane17950
+definition cloud address book (service)

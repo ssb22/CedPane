@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-03-28
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-03-30
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -8028,7 +8028,7 @@
 喬恩 乔恩 [Qiao2 en1] /Jon/
 喬爾 乔尔 [Qiao2 er3] /Joe/Joel modern/
 喬爾蒂 乔尔蒂 [Qiao2 er3 di4] /Chorti/
-惠喬爾人 惠乔尔人 [Hui4 qiao2 er3 ren2] /Huichol people/people, Huichol/
+惠喬爾人 惠乔尔人 [Hui4 qiao2 er3 ren2] /Huichol people|person/
 喬家大院 乔家大院 [Qiao2 jia1_Da4 yuan4] /Qiao's Grand Courtyard/Grand Courtyard, Qiao's/
 巧克力棒 巧克力棒 [qiao3 ke4 li4 bang4] /chocolate bar/
 巧克力蛋糕 巧克力蛋糕 [qiao3 ke4 li4_dan4 gao1] /chocolate cake/cake, chocolate/
@@ -17772,3 +17772,39 @@
 涉腐 涉腐 [she4 fu3] /involvement in corruption/corruption, involvement in/
 水療法 水疗法 [shui3_liao2 fa3] /hydrotherapy/
 來不了 来不了 [lai2_bu4_liao3] /unable to come/come, unable to/
+安提基瑟拉 安提基瑟拉 [An1 ti2 ji1 se4 la1] /Antikythera/
+安提基瑟拉島 安提基瑟拉岛 [An1 ti2 ji1 se4 la1 dao3] /Antikýthēra island/
+安提基瑟拉計算機 安提基瑟拉计算机 [An1 ti2 ji1 se4 la1_Ji4 suan4 ji1] /Antikythera Mechanism/Mechanism, Antikythera/
+安提凱特拉 安提凯特拉 [An1 ti2 kai3 te4 la1] /Antikythera alternate translation/
+貝茲利 贝兹利 [Bei4 zi1 li4] /Bazely/
+博普 博普 [Bo2 pu3] /Bopp/
+布羅米奇 布罗米奇 [Bu4 luo2 mi3 qi2] /Bromwich/
+超大規模集成電路 超大规模集成电路 [chao1 da4 gui1 mo2_ji2 cheng2_dian4 lu4] /very large scale integration/VLSI/large scale integration, very/
+電腦科 电脑科 [dian4 nao3 ke1] /computer science old translation/science, computer (old translation)/
+電腦專家 电脑专家 [dian4 nao3_zhuan1 jia1] /computer scientists/scientists, computer/
+電子郵件服務供應商 电子邮件服务供应商 [dian4 zi3_you2 jian4_fu2 wu4_gong1 ying4 shang1] /email service provider/service provider, email/
+復活節島 复活节岛 [Fu4 huo2 jie2 dao3] /Easter Island/Island, Easter/
+哈達克 哈达克 [Ha1 da2 ke4] /Hardaker/
+荷蘭盾 荷兰盾 [He2 lan2 dun4] /gulden Dutch coin before euro/
+惠喬爾族 惠乔尔族 [Hui4 qiao2 er3 zu2] /Huichol tribe/
+截圖 截图 [jie2 tu2] /screenshot/
+急性白血病 急性白血病 [ji2 xing4_bai2 xue4 bing4] /acute leukemia/leukemia, acute/
+拉合爾 拉合尔 [La1 he2 er3] /Lahore/
+萊娜 莱娜 [Lai2 na4] /Lene/
+馬西 马西 [Ma3 xi1] /Masih/
+帕加馬 帕加马 [Pa4 jia1 ma3] /Pergamum alternate translation/
+平台 平台 [ping2 tai2] /platform/
+薩迪克 萨迪克 [Sa4 di2 ke4] /Sadiq/
+身心俱疲 身心俱疲 [shen1 xin1 ju4 pi2] /physically and emotionally exhausted/emotionally exhausted, physically and/
+手機號碼 手机号码 [shou3 ji1_hao4 ma3] /mobile phone number/phone number, mobile/
+蘇庫爾 苏库尔 [Su1 ku4 er3] /Sukkur/
+瓦爾帕萊索 瓦尔帕莱索 [Wa3 er3 pa4 lai2 suo3] /Valparaiso/
+網絡服務供應商 网络服务供应商 [wang3 luo4_fu2 wu4_gong1 ying4 shang1] /Internet service provider/service provider, Internet/
+網絡服務商 网络服务商 [wang3 luo4_fu2 wu4_shang1] /Internet service provider/service provider, Internet/
+微信公眾平台 微信公众平台 [Wei1 xin4_Gong1 zhong4_Ping2 tai2] /WeChat Official Accounts Platform/Official Accounts Platform, WeChat/
+微友 微友 [wei1 you3] /microblog friends|contacts/friends|contacts, microblog/
+為自己辯解 为自己辩解 [wei4_zi4 ji3_bian4 jie3] /justify oneself/defend oneself/oneself, justify/
+西德馬克 西德马克 [Xi1 de2_Ma3 ke4] /deutsche mark West Germany before euro/mark, deutsche (West Germany before euro)/
+選邊站 选边站 [xuan3 bian1 zhan4] /take sides/sides, take/
+源代碼 源代码 [yuan2 dai4 ma3] /source code/code, source/
+云通訊錄 云通讯录 [yun2_tong1 xun4 lu4] /cloud address book service/address book, cloud (service)/
