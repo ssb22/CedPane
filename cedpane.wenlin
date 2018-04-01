@@ -25175,7 +25175,7 @@ definition Kedar
 pinyin Kǎidì
 characters 凯蒂[凱-]
 serial-number CedPane5042
-definition Ketie; Katie
+definition Ketie; Katie; Kati
 *** 
 pinyin Kǎi'ěr
 characters 凯尔[凱爾]
@@ -62536,11 +62536,6 @@ characters 至高者
 serial-number CedPane12531
 definition Most High
 *** 
-pinyin zhìgāo zhǔzǎi
-characters 至高主宰
-serial-number CedPane12532
-definition Sovereign Lord
-*** 
 pinyin zhìgé jiàng
 characters 制革匠
 serial-number CedPane12533
@@ -89129,3 +89124,33 @@ pinyin Xiūyà
 characters 休亚[-亞]
 serial-number CedPane17962
 definition Huia (name)
+*** 
+pinyin Dānníluòfūsījī
+characters 丹尼洛夫斯基
+serial-number CedPane17963
+definition Danilovsky
+*** 
+pinyin guòdù xuānchuán
+characters 过度宣传[過--傳]
+serial-number CedPane17964
+definition hype
+*** 
+pinyin hézǐ dǎodàn
+characters 核子导弹[--導彈]
+serial-number CedPane17965
+definition nuclear missile
+*** 
+pinyin Màn Lián
+characters 曼联[-聯]
+serial-number CedPane17967
+definition Manchester United (football team)
+*** 
+pinyin Mùshǒuzuò
+characters 牧首座
+serial-number CedPane17968
+definition Patriarchate
+*** 
+pinyin zhùshèng
+characters 祝圣[-聖]
+serial-number CedPane17970
+definition consecration (by a church)
