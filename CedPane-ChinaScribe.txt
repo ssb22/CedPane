@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-04-18
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-04-20
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -500,7 +500,7 @@
 按理來說 按理来说 [an4 li3_lai2_shuo1] /it seems reasonable to conclude (that...)/seems reasonable to conclude, it (that...)/
 安密 安密 [An1 mi4] /Emmett/
 安納波利斯 安纳波利斯 [An1 na4 bo1 li4 si1] /Annapolis/
-安娜莉絲 安娜莉丝 [An1 na4 li4 si1] /Analise/
+安娜莉絲 安娜莉丝 [An1 na4 li4 si1] /Analise/Anneliese/
 安娜梅 安娜梅 [An1 na4 mei2] /Annamay/
 鞍囊 鞍囊 [an1 nang2] /saddlebag/
 安娜特 安娜特 [An1 na4 te4] /Anath/
@@ -11251,7 +11251,7 @@
 亞略巴古 亚略巴古 [Ya4 lu:e4 ba1 gu3] /Areopagus/
 亞魯瑪 亚鲁玛 [Ya4 lu3 ma3] /Arumah/
 雅倫 雅伦 [Ya3 lun2] /Jalon/
-亞倫 亚伦 [Ya4 lun2] /Aaron (Bible)/Allen/Allen, Aaron/
+亞倫 亚伦 [Ya4 lun2] /Aaron (Bible)/
 亞倫比 亚伦比 [Ya4 lun2 bi3] /Allenby/
 雅羅 雅罗 [Ya3 luo2] /Jairo/
 亞羅珥 亚罗珥 [Ya4 luo2 er3] /Aroer/
@@ -18054,7 +18054,7 @@
 布斯塔曼特 布斯塔曼特 [Bu4 si1 ta3 man4 te4] /Bustamante/
 查德威克 查德威克 [Cha2 de2 wei1 ke4] /Chadwick/
 杜阿爾特 杜阿尔特 [Du4 a1 er3 te4] /Duarte/
-多洛雷斯 多洛雷斯 [Duo1 luo4 lei2 si1] /Dolores/
+多洛雷斯 多洛雷斯 [Duo1 luo4 lei2 si1] /Dolores (name, older translation)/
 杜尚 杜尚 [Du4 shang4] /Dušan/
 厄恩斯特 厄恩斯特 [E4 en1 si1 te4] /Ernst/
 弗拉納根 弗拉纳根 [Fu2 la1 na4 gen1] /Flanagan/
@@ -18114,3 +18114,70 @@
 約翰斯通 约翰斯通 [Yue1 han4 si1 tong1] /Johnstone/
 約熱 约热 [Yue1 re4] /Jože/
 詹尼 詹尼 [Zhan1 ni2] /Gianni/
+阿代卜 阿代卜 [A1 dai4 bu3] /Adab/
+阿爾克墨涅 阿尔克墨涅 [A1 er3 ke4 mo4 nie4] /Alcmene/
+艾米利亞 艾米利亚 [Ai4 mi3 li4 ya4] /Emilia (place)/
+阿卡得 阿卡得 [A1 ka3 de2] /Akkad/
+阿克特翁 阿克特翁 [A1 ke4 te4 weng1] /Actaeon/
+阿娜希塔 阿娜希塔 [A1 na4 xi1 ta3] /Anahita/
+安格拉 安格拉 [An1 ge2 la1] /Ahura/
+昂薩塔 昂萨塔 [ang2 sa4 ta3] /ansata/
+阿匹斯 阿匹斯 [A1 pi3 si1] /Apis/
+阿維斯塔 阿维斯塔 [A1 wei2 si1 ta3] /Avesta/
+巴利亞利 巴利亚利 [Ba1 li4 ya4 li4] /Balearic/
+巴先 巴先 [ba1 xian1] /percent (loan word)/
+貝利特 贝利特 [Bei4 li4 te4] /Belit/
+貝盧 贝卢 [Bei4 lu2] /Belu/
+秘魯人 秘鲁人 [Bi4 lu3 ren2] /Peruvians/
+卜塔 卜塔 [Bu3 ta3] /Ptah/
+不正常 不正常 [bu4 zheng4 chang2] /abnormal/
+德魯伊特人 德鲁伊特人 [De2 lu3 yi1 te4 ren2] /Druids/
+厄勒 厄勒 [E4 lei1] /El (Canaanite deity)/
+厄里什基迦勒 厄里什基迦勒 [E4 li3 shi2 Ji1 jia1 le4] /Eresh-Kigal/
+該亞 该亚 [Gai1 ya4] /Gaea/
+甲狀腺機能減退 甲状腺机能减退 [jia3 zhuang4 xian4_ji1 neng2_jian3 tui4] /hypothyroidism/
+甲狀腺機能亢進 甲状腺机能亢进 [jia3 zhuang4 xian4_ji1 neng2_kang4 jin4] /hyperthyroidism/
+甲狀腺亢進 甲状腺亢进 [jia3 zhuang4 xian4_kang4 jin4] /hyperthyroidism/
+科馬納 科马纳 [Ke1 ma3 na4] /Comana/
+拉巴蘇 拉巴苏 [La1 ba1 su1] /Labasu/
+拉巴圖 拉巴图 [La1 ba1 tu2] /Labartu/
+拉格什 拉格什 [La1 ge2 shi2] /Lagash/
+蠟製 蜡制 [la4 zhi4] /waxen/made of wax/
+靈液 灵液 [ling2 ye4] /ichor/
+羅馬涅 罗马涅 [Luo2 ma3 nie4] /Romagna/
+曼紐 曼纽 [Man4 niu3] /Mazda (god)/
+瑪息阿 玛息阿 [Ma3 xi1 a1] /Marsyas/
+馬約卡島 马约卡岛 [Ma3 yue1 ka3 dao3] /Majorca/
+門爾瓦 门尔瓦 [Men2 er3 wa3] /Menrva/
+棉花糖 棉花糖 [mian2 hua5_tang2] /candy floss/cotton candy/floss, candy/
+密多羅 密多罗 [Mi4 duo1 luo2] /Mitra/
+米利塔 米利塔 [Mi3 li4 ta3] /Mylitta/
+密涅瓦 密涅瓦 [Mi4 nie4 wa3] /Minerva (goddess)/
+莫特 莫特 [Mo4 te4] /Mot (god)/
+南塔魯 南塔鲁 [Nan2 ta3 lu3] /Namtaru/
+尼蒙 尼蒙 [Ni2 meng2] /Mnemon/
+尼努爾塔 尼努尔塔 [Ni2 nu3 er3 ta3] /Ninurta/
+尼普爾 尼普尔 [Ni2 pu3 er3] /Nippur/
+努特 努特 [Nu3 te4] /Nut (Egyptian goddess)/
+皮松 皮松 [Pi2 song1] /Python (mythological serpent)/
+皮亞琴察 皮亚琴察 [Pi2 ya4 qin2 cha2] /Piacenza/
+啟什 启什 [Qi3 shi2] /Kish/
+瑞亞 瑞亚 [Rui4 ya4] /Rhea/
+塞赫邁特 塞赫迈特 [Sai1 he4 mai4 te4] /Sekhmet/
+沙姆拉角 沙姆拉角 [Sha1 mu3 la1 jiao3] /Ras Shamra/Shamra, Ras/
+狩獵神 狩猎神 [shou4 lie4 shen2] /god of hunting/hunting, god of/
+斯特格曼 斯特格曼 [Si1 te4 ge2 man4] /Stegmann/
+特姆 特姆 [Te4 mu3] /Tem/
+提尼亞 提尼亚 [Ti2 ni2 ya4] /Tinia/
+透特 透特 [Tou4 te4] /Thoth/
+萬神殿 万神殿 [wan4 shen2 dian4] /Pantheon/
+烏拉諾斯 乌拉诺斯 [Wu1 la1 nuo4 si1] /Uranus (god)/
+現稱 现称 [xian4 cheng1] /now known as/now called/known as, now/called, now/
+想像力 想像力 [xiang3 xiang4 li4] /imagination/
+謝特 谢特 [Xie4 te4] /Set (Egyptian god)/
+胸外科醫生 胸外科医生 [xiong1 wai4 ke1_yi1 sheng1] /thoracic surgeon/chest surgeon/surgeon, thoracic/
+亞倫 亚伦 [Ya4 lun2] /Allen/
+雅木 雅木 [Ya3 mu4] /Yamm/
+翼碟 翼碟 [yi4 die2] /winged sun disc/disc, winged sun/
+朱庇特 朱庇特 [Zhu1 bi4 te4] /Jupiter (god)/
+柱廊殿 柱廊殿 [zhu4 lang2 dian4] /Hall of Columns/Columns, Hall of/
