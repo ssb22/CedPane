@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-05-11
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-05-13
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -11108,7 +11108,7 @@
 雅典娜 雅典娜 [Ya3 dian3 na4] /Athena/
 雅典人 雅典人 [Ya3 dian3 ren2] /Athenian(s)/
 雅疊 雅叠 [Ya3 die2] /Epher/
-亞丁 亚丁 [Ya4 ding1] /Adin/
+亞丁 亚丁 [Ya4 ding1] /Adin (Bible)/
 婭迪絲 娅迪丝 [Ya4 di2 si1] /Ardis/
 亞的斯亞貝巴 亚的斯亚贝巴 [Ya4 di4 si1 ya4 bei4 ba1] /Addis Ababa/Ababa, Addis/
 亞杜蘭 亚杜兰 [Ya4 du4 lan2] /Adullam/
@@ -18372,3 +18372,113 @@
 耶拉派特拉 耶拉派特拉 [Ye1 la1 pai4 te4 la1] /Ierápetra/
 解鎖 解锁 [jie3 suo3] /unlock (of function in computer game etc)/
 許昱華 许昱华 [Xu3_Yu4 hua2] /Xu Yuhua (Chess player)/Yuhua, Xu (Chess player)/
+阿蒂克 阿蒂克 [A1 di4 ke4] /Attick/
+阿爾坦 阿尔坦 [A1 er3 tan3] /Artan/
+埃丁 埃丁 [Ai1 ding1] /Adin (modern)/
+埃杜爾 埃杜尔 [Ai1 du4 er3] /Edur/
+埃隆戈 埃隆戈 [Ai1 long2 ge1] /Elongo/
+埃亞 埃亚 [Ai1 ya4] /Eija/
+阿加佩 阿加佩 [A1 jia1 pei4] /Agapé (name)/
+阿莫爾 阿莫尔 [A1 mo4 er3] /Amor (surname)/
+阿納尼 阿纳尼 [A1 na4 ni2] /Anany/
+阿納斯塔斯 阿纳斯塔斯 [A1 na4 si1 ta3 si1] /Anastas/
+安德里 安德里 [An1 de2 li3] /Andrii/
+奧達 奥达 [Ao4 da2] /Oda/
+奧迪莉 奥迪莉 [Ao4 di2 li4] /Odile/
+奧列克西 奥列克西 [Ao4 lie4 ke4 xi1] /Oleksii/
+奧利斯 奥利斯 [Ao4 li4 si1] /Aulis/
+貝里達爾 贝里达尔 [Bei4 li3 da2 er3] /Bergdahl/
+博博吉 博博吉 [Bo2 bo2 ji2] /Bobogi/
+波勒 波勒 [Bo1 le4] /Pohl (surname)/
+布迪 布迪 [Bu4 di2] /Budi/
+布凱 布凯 [Bu4 kai3] /Bouquet (surname)/
+布里亞克 布里亚克 [Bu4 li3 ya4 ke4] /Buriak/
+達頓 达顿 [Da2 dun4] /Dutton/
+達爾頓 达尔顿 [Da2 er3 dun4] /Dalton/
+達塞維奇 达塞维奇 [Da2 se4 wei2 qi2] /Dasevich/
+德爾羅伊 德尔罗伊 [De2 er3 luo2 yi1] /Delroy/
+德雷奇 德雷奇 [De2 lei2 qi2] /Drage (surname)/
+電子設備 电子设备 [dian4 zi3_she4 bei4] /electronics (equipment)/
+滴答聲 滴答声 [di1 da1 sheng1] /click (sound)/
+迪杜 迪杜 [Di2 du4] /Didur/
+蒂莫泰 蒂莫泰 [Di4 mo4 tai4] /Timothée/
+堵塞點 堵塞点 [du3 se4 dian3] /blockage (in pipeline)/
+范艾克 范艾克 [Fan4 ai4 ke4] /Van Eyk/
+范德沃爾 范德沃尔 [Fan4 de2 wo4 er3] /Van De Wall/Wall, Van De/
+菲利亞 菲利亚 [Fei1 li4 ya4] /Filia/
+分辨出 分辨出 [fen1 bian4 chu1] /distinguish (between etc)/
+符拉迪沃斯托克 符拉迪沃斯托克 [Fu2 la1 di2 wo4 si1 tuo1 ke4] /Vladivostok/
+岡恩 冈恩 [Gang1 en1] /Gunn/
+格呂克澤利希 格吕克泽利希 [Ge2 lu:3 ke4 ze2 li4 xi1] /Glückselig/
+格維茲門迪爾 格维兹门迪尔 [Ge2 wei2 zi1 men2 di2 er3] /Gudmundur/
+格維茲門松 格维兹门松 [Ge2 wei2 zi1 men2 song1] /Gudmundsson/
+格扎維埃 格扎维埃 [Ge2 zha1 wei2 ai1] /Xavier/
+海因茲 海因兹 [Hai3 yin1 zi1] /Hinds/
+哈利娜 哈利娜 [Ha1 li4 na4] /Halyna/
+漢努 汉努 [Han4 nu3] /Hannu/
+赫爾曼納斯 赫尔曼纳斯 [He4 er3 man4 na4 si1] /Hermanus/
+赫林斯基 赫林斯基 [He4 lin2 si1 ji1] /Hlinskyi/
+赫瑞 赫瑞 [He4 rui4] /Heriot/
+赫瑞瓦特大學 赫瑞瓦特大学 [He4 rui4_Wa3 te4_Da4 xue2] /Heriot-Watt University/University, Heriot-Watt/
+霍恩費爾德 霍恩费尔德 [Huo4 en1 fei4 er3 de2] /Hoornveld/
+潔依 洁依 [Jie2 yi1] /Jay (name)/
+基洛夫 基洛夫 [Ji1 luo4 fu1] /Kirov/
+卡多斯 卡多斯 [Ka3 duo1 si1] /Kardos/
+凱克 凯克 [Kai3 ke4] /Keck/
+凱希 凯希 [Kai3 xi1] /Kyhe/
+考爾克 考尔克 [Kao3 er3 ke4] /Caulker/
+考科 考科 [Kao3 ke1] /Kauko/
+卡瓦列里 卡瓦列里 [Ka3 wa3 lie4 li3] /Cavalieri/
+口哨聲 口哨声 [kou3 shao4 sheng1] /whistle (sound)/
+寬吻海豚 宽吻海豚 [kuan1 wen3_hai3 tun2] /bottlenose dolphin/dolphin, bottlenose/
+庫奇 库奇 [Ku4 qi2] /Couch (surname)/
+拉霍 拉霍 [La1 huo4] /Raho/
+萊德貝特 莱德贝特 [Lai2 de2 bei4 te4] /Ledbetter/
+拉傑 拉杰 [La1 jie2] /Raj/
+拉卡約 拉卡约 [La1 ka3 yue1] /Lacayo/
+雷萊 雷莱 [Lei2 lai2] /Reile/
+莉列 莉列 [Li4 lie4] /Lirie/
+里納爾多 里纳尔多 [Li3 na4 er3 duo1] /Rinaldo/
+盧德米拉 卢德米拉 [Lu2 de2 mi3 la1] /Ludmila/
+羅伯塔 罗伯塔 [Luo2 bo2 ta3] /Roberta/
+呂塞特 吕塞特 [Lu:3 sai4 te4] /Lucette/
+邁克維奇 迈克维奇 [Mai4 ke4 wei2 qi2] /Mykevych/
+馬納 马纳 [Ma3 na4] /Mana/
+馬圖爾 马图尔 [Ma3 tu2 er3] /Matoury/
+米漢克 米汉克 [Mi3 han4 ke4] /Mihank/
+米科拉 米科拉 [Mi3 ke1 la1] /Mykola/
+米紹特 米绍特 [Mi3 shao4 te4] /Michotte/
+穆加博 穆加博 [Mu4 jia1 bo2] /Mugabo/
+穆松達 穆松达 [Mu4 song1 da2] /Musonda/
+尼揚古 尼扬古 [Ni2 yang2 gu3] /Nyangu/
+佩格羅 佩格罗 [Pei4 ge2 luo2] /Peguero/
+普凱蒂 普凯蒂 [Pu3 kai3 di4] /Puchetti/
+榮松 荣松 [Rong2 song1] /Jónsson/
+塞思 塞思 [Sai4 si1] /Seth (modern)/
+薩拉戈 萨拉戈 [Sa4 la1 ge1] /Salango/
+塞凱拉 塞凯拉 [Se4 kai3 la1] /Sequeira/
+森托薩 森托萨 [Sen1 tuo1 sa4] /Sentosa (name)/
+聲納系統 声纳系统 [sheng1 na4_xi4 tong3] /sonar (system)/
+石油平台 石油平台 [shi2 you2_ping2 tai2] /oil rig/
+斯帕奇爾 斯帕奇尔 [Si1 pa4 qi2 er3] /Spacil/
+斯托達德 斯托达德 [Si1 tuo1 da2 de2] /Stoddard/
+索比奇 索比奇 [Suo3 bi3 qi2] /Sobička/
+索爾涅奇諾耶 索尔涅奇诺耶 [Suo3 er3 nie4 qi2 nuo4 ye1] /Solnechnoye/
+泰馬里 泰马里 [Tai4 ma3 li3] /Temarii/
+坦尼寧 坦尼宁 [Tan3 ni2 ning4] /Tanninen/
+瓦拉爾 瓦拉尔 [Wa3 la1 er3] /Valard/
+韋爾日比茨基 韦尔日比茨基 [Wei2 er3 ri4 bi3 ci2 ji1] /Verzhbitsky/
+維戈 维戈 [Wei2 ge1] /Vigo/
+維坦托 维坦托 [Wei2 tan3 tuo1] /Witanto/
+烏諾 乌诺 [Wu1 nuo4] /Uno (name)/
+西奧尼 西奥尼 [Xi1 ao4 ni2] /Sioni/
+謝姆維奇 谢姆维奇 [Xie4 mu3 wei2 qi2] /Semkovych/
+西爾斯 西尔斯 [Xi1 er3 si1] /Sills (surname)/
+西爾韋斯特雷 西尔韦斯特雷 [Xi1 er3 wei2 si1 te4 lei2] /Silvestre/
+西芒 西芒 [Xi1 mang2] /Simão/
+細小裂縫 细小裂缝 [xi4 xiao3_lie4 feng4] /hairline crack/crack, hairline/
+伊瑪庫萊 伊玛库莱 [Yi1 ma3 ku4 lai2] /Immaculée/
+尤克維奇 尤克维奇 [You2 ke4 wei2 qi2] /Yurkevych/
+于爾根 于尔根 [Yu2 er3 gen1] /Jürgen/
+樁腿 桩腿 [zhuang1_tui3] /support leg (of equipment)/
+朱斯蒂 朱斯蒂 [Zhu1 si1 di4] /Giusti/
