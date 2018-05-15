@@ -25356,7 +25356,7 @@ definition Caesarea
 pinyin Kǎisālìyà
 characters 凯撒利亚[凱--亞]
 serial-number CedPane5078
-definition Caesarea (not 2001 NWT but used in some publications)
+definition Caesarea
 *** 
 pinyin Kǎisā yǔ Jīdū
 characters 凯撒与基督[凱-與--]
@@ -92999,3 +92999,8 @@ pinyin Zhāshālǐyē
 characters 扎沙里耶
 serial-number CedPane18741
 definition Zacharie
+*** 
+pinyin tèjí dàshī
+characters 特级大师[-級-師]
+serial-number CedPane18742
+definition grandmaster (Chess etc)
