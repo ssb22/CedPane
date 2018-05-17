@@ -6099,7 +6099,7 @@ characters 彼得福音
 serial-number CedPane1224
 definition Gospel of Peter (apocryphal)
 *** 
-pinyin Bǐde Hòushū
+pinyin Bǐdé Hòushū
 characters 彼得后书[---書]
 serial-number CedPane1225
 definition 2 Peter (Bible book)
@@ -6129,7 +6129,7 @@ characters 彼得马里茨堡[--馬---]
 serial-number CedPane1230
 definition Pietermaritzburg
 *** 
-pinyin Bǐde Qiánshū
+pinyin Bǐdé Qiánshū
 characters 彼得前书[---書]
 serial-number CedPane1231
 definition 1 Peter (Bible book)
@@ -93004,3 +93004,34 @@ pinyin tèjí dàshī
 characters 特级大师[-級-師]
 serial-number CedPane18742
 definition grandmaster (Chess etc)
+*** 
+pinyin bèidào hào
+characters 被盗号[-盜號]
+serial-number CedPane18743
+environment   comp.
+definition stolen account
+*** 
+pinyin fēngmiàntú
+characters 封面图[--圖]
+serial-number CedPane18744
+definition front cover picture
+*** 
+pinyin guīmì
+characters 闺密[閨-]
+serial-number CedPane18745
+definition close friend (usually of woman)
+*** 
+pinyin Hādài
+characters 哈代
+serial-number CedPane18746
+definition Hardy (Thomas)
+*** 
+pinyin Lǚkǎ
+characters 吕卡[呂-]
+serial-number CedPane18747
+definition Luca
+*** 
+pinyin zìdìngyì
+characters 自定义[--義]
+serial-number CedPane18748
+definition customized (lit. self-defined)

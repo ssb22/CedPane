@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-05-15
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-05-17
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -1223,13 +1223,13 @@
 彼得伯勒 彼得伯勒 [Bi3 de2 bo2 le4] /Peterborough/
 比德爾 比德尔 [Bi3 de2 er3] /Biedl/Bedell/
 彼得福音 彼得福音 [Bi3 de2_Fu2 yin1] /Gospel of Peter (apocryphal)/Peter, Gospel of (apocryphal)/
-彼得后書 彼得后书 [Bi3 de5_Hou4 shu1] /2 Peter (Bible book)/Peter, 2 (Bible book)/
+彼得后書 彼得后书 [Bi3 de2_Hou4 shu1] /2 Peter (Bible book)/Peter, 2 (Bible book)/
 彼德拉 彼德拉 [Bi3 de2 la1] /Piedra/
 彼德羅 彼德罗 [Bi3 de2 luo2] /Pedro/
 彼得羅 彼得罗 [Bi3 de2 luo2] /Petro/
 彼得羅維奇 彼得罗维奇 [Bi3 de2 luo2 wei2 qi2] /Petrovich/
 彼得馬里茨堡 彼得马里茨堡 [Bi3 de2_Ma3 li3 ci2 bao3] /Pietermaritzburg/
-彼得前書 彼得前书 [Bi3 de5_Qian2 shu1] /1 Peter (Bible book)/Peter, 1 (Bible book)/
+彼得前書 彼得前书 [Bi3 de2_Qian2 shu1] /1 Peter (Bible book)/Peter, 1 (Bible book)/
 彼得啟示錄 彼得启示录 [Bi3 de2_Qi3 shi4 lu4] /Apocalypse of Peter (apocryphal book)/Peter, Apocalypse of (apocryphal book)/
 彼得森 彼得森 [Bi3 de2 sen1] /Peterson/
 彼得斯 彼得斯 [Bi3 de2 si1] /Peters/
@@ -18595,3 +18595,9 @@
 韋納伊 韦纳伊 [Wei2 na4 yi1] /Verneil/
 扎沙里耶 扎沙里耶 [Zha1 sha1 li3 ye1] /Zacharie/
 特級大師 特级大师 [te4 ji2_da4 shi1] /grandmaster (Chess etc)/
+被盜號 被盗号 [bei4 dao4_hao4] /stolen account/account, stolen/
+封面圖 封面图 [feng1 mian4 tu2] /front cover picture/cover picture, front/
+閨密 闺密 [gui1 mi4] /close friend (usually of woman)/friend, close (usually of woman)/
+哈代 哈代 [Ha1 dai4] /Hardy (Thomas)/
+呂卡 吕卡 [Lu:3 ka3] /Luca/
+自定義 自定义 [zi4 ding4 yi4] /customized (lit. self-defined)/
