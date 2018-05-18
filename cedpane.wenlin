@@ -93035,3 +93035,36 @@ pinyin zìdìngyì
 characters 自定义[--義]
 serial-number CedPane18748
 definition customized (lit. self-defined)
+*** 
+pinyin cháoyǔ
+characters 潮语[-語]
+serial-number CedPane18749
+definition fashionable phrase
+*** 
+pinyin dānxiànchéng
+characters 单线程[單線-]
+serial-number CedPane18750
+environment   comp.
+definition single-threaded
+*** 
+pinyin Gǎng nǚ
+characters 港女
+serial-number CedPane18751
+definition Hong Kong girl (usu. derogatory)
+*** 
+pinyin gōngzhǔ bìng
+characters 公主病
+serial-number CedPane18752
+definition "princess syndrome" (of girl, derogatory)
+*** 
+pinyin shèjì móshì
+characters 设计模式[設計--]
+serial-number CedPane18753
+environment   comp.
+definition design pattern
+*** 
+pinyin xiànchéng
+characters 线程[線-]
+serial-number CedPane18754
+environment   comp.
+definition thread

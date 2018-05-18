@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-05-17
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-05-19
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -18601,3 +18601,9 @@
 哈代 哈代 [Ha1 dai4] /Hardy (Thomas)/
 呂卡 吕卡 [Lu:3 ka3] /Luca/
 自定義 自定义 [zi4 ding4 yi4] /customized (lit. self-defined)/
+潮語 潮语 [chao2 yu3] /fashionable phrase/phrase, fashionable/
+單線程 单线程 [dan1 xian4 cheng2] /single-threaded/
+港女 港女 [Gang3_nu:3] /Hong Kong girl (usu. derogatory)/Kong girl, Hong (usu. derogatory)/
+公主病 公主病 [gong1 zhu3_bing4] /"princess syndrome" (of girl, derogatory)/syndrome", "princess (of girl, derogatory)/
+設計模式 设计模式 [she4 ji4_mo2 shi4] /design pattern/pattern, design/
+線程 线程 [xian4 cheng2] /thread/

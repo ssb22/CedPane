@@ -4145,6 +4145,7 @@ deserted; empty	空空荡荡	空空蕩蕩	kōngkōng-dàngdàng	hūng-hūng-dohn
 deserted town; desolate city	荒城	荒城	huāngchéng	fōng-sìhng	
 deserts (in Israel; lit. deserted and wild mountains)	荒山野岭	荒山野嶺	huāngshān-yělǐng	fōng-sāan-yéh-léhng	
 deserve to get	配受	配受	pèishòu	pui-sauh	
+<comp.> design pattern	设计模式	設計模式	shèjì móshì	chit-gai mòuh-sīk	
 desire or craving (variant)	慾念	慾念	yùniàn	yuhk-nihm	
 desire to take	私拿	私拿	sīná	sī-nàh	
 desire (variant)	慾望	慾望	yùwàng	yuhk-mohng	
@@ -5411,6 +5412,7 @@ Faroese (language)	法罗语	法羅語	Fǎluóyǔ	Faat-lòh-yúh
 far outweigh	远远超过	遠遠超過	yuǎnyuǎn chāoguò	yúhn-yúhn chīu-gwo	
 Farrar	法勒	法勒	Fǎlè	Faat-lahk	
 Fascists	法西斯分子	法西斯分子	Fǎxīsī fènzǐ	Faat-sāi-sī fahn-jí	
+fashionable phrase	潮语	潮語	cháoyǔ	chìuh-yúh	
 fast-food place	快餐馆	快餐館	kuàicānguǎn	faai-chāan-gún	
 fast-food restaurant	快餐店	快餐店	kuàicāndiàn	faai-chāan-dim	
 fasten handcuffs	扣上手铐	扣上手銬	kòushang shǒukào	kau-séuhng sáu-kaau	
@@ -7492,6 +7494,7 @@ Honghu (in Hubei)	洪湖市	洪湖市	Hónghú Shì	Hùhng-wùh Síh
 Hongjiang (in Hunan)	洪江	洪江	Hóngjiāng	Hùhng-gōng	
 Hongjiang (in Hunan)	洪江市	洪江市	Hóngjiāng Shì	Hùhng-gōng Síh	
 Hong Kong Chinese Orchestra	香港中乐团	香港中樂團	Xiānggǎng Zhōng Yuètuán	Hēung-góng Jūng Ngohk-tyùhn	
+Hong Kong girl (usu. derogatory)	港女	港女	Gǎng nǚ	Góng néuih	
 Hong Kong International Airport	香港国际机场	香港國際機場	Xiānggǎng Guójì Jīchǎng	Hēung-góng Gwok-jai Gēi-chèuhng	
 Hong Kong person	香港人	香港人	Xiānggǎngrén	Hēung-góng-yàhn	
 Honiara	霍尼亚拉	霍尼亞拉	Huòníyàlā	Fok-nèih-nga-lāai	
@@ -13216,6 +13219,7 @@ primary factor	主要因素	主要因素	zhǔyào yīnsù	jyú-yiu yān-sou
 primary (school) class	初级班	初級班	chūjíbān	chō-kāp-bāan	pɹˈaɪməɹi
 Prince (name)	普林斯	普林斯	Pǔlínsī	Póu-làhm-sī	
 Princess Mononoke (ghost princess)	幽灵公主	幽靈公主	Yōulíng Gōngzhǔ	Yāu-lìhng Gūng-jyú	
+"princess syndrome" (of girl, derogatory)	公主病	公主病	gōngzhǔ bìng	gūng-jyú behng	
 Princeton	普林斯顿	普林斯頓	Pǔlínsīdùn	Póu-làhm-sī-deuhn	
 principality of Liechtenstein	列支敦士登公国	列支敦士登公國	Lièzhīdūnshìdēng gōngguó	Liht-jī-dēun-sih-dāng gūng-gwok	
 principle of yin and yang	阴阳学说	陰陽學說	yīnyáng xuéshuō	yām-yèuhng hohk-syut	
@@ -15267,6 +15271,7 @@ sing as a chorus	和唱	和唱	héchàng	wòh-cheung
 Singer (surname); Singh	辛格	辛格	Xīngé	Sān-gaak	
 sing (from memory etc?)	唱诵	唱誦	chàngsòng	cheung-juhng	
 singing skills	歌艺	歌藝	gēyì	gō-ngaih	
+<comp.> single-threaded	单线程	單線程	dānxiànchéng	dāan-sin-chìhng	
 single room	单人间	單人間	dānrénjiān	dāan-yàhn-gāan	
 single woman	独身女子	獨身女子	dúshēn nǚzǐ	duhk-sān néuih-jí	
 Sinify	中文化	中文化	Zhōngwénhuà	Jūng-màhn-fa	
@@ -16560,6 +16565,7 @@ thought	想过	想過	xiǎngguo	séung-gwo
 thousands	千千	千千	qiān qiān	chīn chīn	
 thousand soldiers	千军	千軍	qiānjūn	chīn-gwān	
 Thrace	色雷斯	色雷斯	Sèléisī	Sīk-lèuih-sī	
+<comp.> thread	线程	線程	xiànchéng	sin-chìhng	
 Threadneedle Street	针线街	針線街	Zhēnxiànjiē	Jām-sin-gāai	
 three-masted (sailing) ship	三桅帆船	三桅帆船	sānwéifānchuán	sāam-wàih-fàahn-syùhn	
 three aspects	三方面	三方面	sān fāngmiàn	sāam fōng-mihn	
