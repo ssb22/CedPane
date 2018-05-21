@@ -264,6 +264,7 @@ Agagite 	亚甲族	亞甲族	Yàjiǎzú	Nga-gaap-juhk	ˈæɡʌɡaɪt
 again and again	一次又一次	一次又一次	yī cì yòu yī cì	yāt chi yauh yāt chi	
 "again get"	重获	重獲	chónghuò	chùhng-wohk	
 again see	重见	重見	chóng jiàn	chùhng gin	
+agama	彩虹飞蜥	彩虹飛蜥	cǎihóngfēixī	chói-hùhng-fēi-sīk	
 Agana	阿加纳	阿加納	Ājiānà	A-gā-naahp	
 agape (Greek word)	阿格配	阿格配	āgépèi	a-gaak-pui	
 Agapé (name)	阿加佩	阿加佩	Ājiāpèi	A-gā-pui	
@@ -661,6 +662,7 @@ Anany	阿纳尼	阿納尼	Ānàní	A-naahp-nèih
 Anastas	阿纳斯塔斯	阿納斯塔斯	Ānàsītǎsī	A-naahp-sī-taap-sī	
 Anastasia	阿纳斯塔西娅	阿納斯塔西婭	Ānàsītǎxīyà	A-naahp-sī-taap-sāi-a	
 Anastasio	安纳斯塔西奥	安納斯塔西奧	Ānnàsītǎxī'ào	Ngōn-naahp-sī-taap-sāi-ou	
+Anastasio	阿纳斯塔西奥	阿納斯塔西奧	Ānàsītǎxī'ào	A-naahp-sī-taap-sāi-ou	
 Anath	安娜特	安娜特	Ānnàtè	Ngōn-nàh-dahk	ˈeɪnæθ
 Anath	安纳特	安納特	Ānnàtè	Ngōn-naahp-dahk	ˈeɪnæθ
 Anathoth	亚拿突	亞拿突	Yànátū	Nga-nàh-daht	ˈænʌθɒθ
@@ -1361,6 +1363,7 @@ Balinese (language)	巴厘语	巴釐語	Bālíyǔ	Bā-lèih-yúh
 Ballarat	巴拉腊特	巴拉臘特	Bālālàtè	Bā-lāai-laahp-dahk	
 Ballard (surname)	巴拉德	巴拉德	Bālādé	Bā-lāai-dāk	
 Ballesteros	巴列斯特罗斯	巴列斯特羅斯	Bālièsītèluósī	Bā-liht-sī-dahk-lòh-sī	
+Ballestrero	巴莱斯特雷罗	巴萊斯特雷羅	Bāláisītèléiluó	Bā-lòih-sī-dahk-lèuih-lòh	
 Balmat	巴尔马特	巴爾馬特	Bā'ěrmǎtè	Bā-yíh-máh-dahk	
 Baltasar	巴尔塔萨	巴爾塔薩	Bā'ěrtǎsà	Bā-yíh-taap-saat	
 Baltazar (3 kings story)	巴尔塔沙尔	巴爾塔沙爾	Bā'ěrtǎshā'ěr	Bā-yíh-taap-sā-yíh	
@@ -6411,6 +6414,7 @@ Golitsyn	哥利岑	哥利岑	Gēlìcén	Gō-leih-sàhm
 Golmud (in Qinghai)	格尔木	格爾木	Gé'ěrmù	Gaak-yíh-muhk	
 Golmud (in Qinghai)	格尔木市	格爾木市	Gé'ěrmù Shì	Gaak-yíh-muhk Síh	
 Goma	戈马	戈馬	Gēmǎ	Gwō-máh	
+Goma (city)	戈马市	戈馬市	Gēmǎ Shì	Gwō-máh Síh	
 Gomer	歌篾	歌篾	Gēmiè	Gō-miht	ɡˈəʊməː
 Gomez	戈梅斯	戈梅斯	Gēméisī	Gwō-mùih-sī	ɡˈəʊmɛz
 Gomorrah	蛾摩拉	蛾摩拉	Émólā	Ngòh-mō-lāai	ɡəmˈɒɹʌ
@@ -12033,6 +12037,7 @@ Nyangwe	尼扬圭	尼揚圭	Níyángguī	Nèih-yèuhng-gwāi
 Nyasaland	尼亚萨兰	尼亞薩蘭	Níyàsàlán	Nèih-nga-saat-làahn	
 Nyingchi (in Tibet)	林芝	林芝	Línzhī	Làhm-jī	
 Nyingchi (in Tibet)	林芝市	林芝市	Línzhī Shì	Làhm-jī Síh	
+Nyiragongo	尼拉贡戈	尼拉貢戈	Nílāgònggē	Nèih-lāai-gung-gwō	
 Nympha	宁法	寧法	Níngfǎ	Nìhng-faat	nˈɪmfʌ
 Nyoma	尼奥玛	尼奧瑪	Ní'àomǎ	Nèih-ou-máh	
 Nyssa	尼斯的	尼斯的	Nísīde	Nèih-sī-dīk	
@@ -12164,7 +12169,7 @@ Olivier	奥利维耶	奧利維耶	Àolìwéiyē	Ou-leih-wàih-yèh
 Olivio	奥利维奥	奧利維奧	Àolìwéi'ào	Ou-leih-wàih-ou	
 Olmec	奥尔梅克	奧爾梅克	Ào'ěrméikè	Ou-yíh-mùih-hāk	
 Olof	奥洛夫	奧洛夫	Àoluòfū	Ou-lohk-fū	
-Olson	奥尔森	奧爾森	Ào'ěrsēn	Ou-yíh-sām	
+Olson; Olsen	奥尔森	奧爾森	Ào'ěrsēn	Ou-yíh-sām	
 Oltmanns	奥尔特曼斯	奧爾特曼斯	Ào'ěrtèmànsī	Ou-yíh-dahk-maahn-sī	
 Olusola	奥卢索拉	奧盧索拉	Àolúsuǒlā	Ou-lòuh-sok-lāai	
 Olympas	奥林巴	奧林巴	Àolínbā	Ou-làhm-bā	ˌəʊlˈɪmpəs
@@ -13319,6 +13324,7 @@ psychopathic killer	变态杀手	變態殺手	biàntài shāshǒu	bin-taai saat-
 psychotherapist; therapist	心理治疗师	心理治療師	xīnlǐ zhìliáoshī	sām-léih jih-lìuh-sī	
 psykhe (ψυχή)	普绪克	普緒克	pǔxùkè	póu-séuih-hāk	psaɪkˈeɪ
 Ptah	卜塔	卜塔	Bǔtǎ	Būk-taap	
+pterosaur	翼龙	翼龍	yìlóng	yihk-lùhng	
 Ptolemy; Ptolemais	托勒密	托勒密	Tuōlèmì	Tok-lahk-maht	
 Pu'er (in Yunnan)	普洱	普洱	Pǔ'ěr	Póu-yíh	
 Pu'er (in Yunnan)	普洱市	普洱市	Pǔ'ěr Shì	Póu-yíh Síh	
@@ -13515,6 +13521,7 @@ radioactive clocks	放射性时钟	放射性時鐘	fàngshèxìng shízhōng	fon
 radioactive dating	放射性年代测定法	放射性年代測定法	fàngshèxìng niándài cèdìngfǎ	fong-seh-sing nìhn-doih chāak-dihng-faat	
 radio astronomer	射电天文学家	射電天文學家	shèdiàn tiānwénxuéjiā	seh-dihn tīn-màhn-hohk-gā	
 radiocarbon	放射性碳	放射性碳	fàngshèxìng tàn	fong-seh-sing taan	
+radiocarbon dating	放射性碳素断代	放射性碳素斷代	fàngshèxìng tànsù duàndài	fong-seh-sing taan-sou tyúhn-doih	
 radiochemist	放射化学家	放射化學家	fàngshè huàxuéjiā	fong-seh fa-hohk-gā	
 radio station (1930s etc?) (variant?)	无线电台	無線電台	wúxiàn diàntái	mòuh-sin dihn-tòih	
 Radu	拉杜	拉杜	Lādù	Lāai-douh	
@@ -14610,6 +14617,7 @@ scrape well (with a wood scraper etc)	削好	削好	xiāohǎo	seuk-hóu
 scratch under (in marking a line on the ground etc)	划下	劃下	huàxia	waahk-hah	
 screen	萤幕	螢幕	yíngmù	yìhng-mohk	
 screen off; cover over	覆庇	覆庇	fùbì	fūk-bei	
+<comp./PRC> screen reader	读屏软件	讀屏軟件	dú píng ruǎnjiàn	duhk pìhng yúhn-gín	
 screenshot	截图	截圖	jiétú	jiht-tòuh	
 scribes	抄经士	抄經士	chāojīngshì	chāau-gīng-sih	
 Scribner	斯克里布纳	斯克里布納	Sīkèlǐbùnà	Sī-hāk-léih-bou-naahp	
@@ -16335,6 +16343,8 @@ Terrence	泰伦斯	泰倫斯	Tàilúnsī	Taai-lèuhn-sī
 Terrence	特伦斯	特倫斯	Tèlúnsī	Dahk-lèuhn-sī	
 terrible words	凶言	凶言	xiōngyán	hūng-yìhn	
 terrorism	恐怖活动	恐怖活動	kǒngbù huódòng	húng-bou wuht-duhng	
+Terry (female)	特莉	特莉	Tèlì	Dahk-leih	
+Terry (male)	泰里	泰里	Tàilǐ	Taai-léih	
 Tertius	德提	德提	Détí	Dāk-tàih	tˈəːʃiəs
 Tertullian	德尔图良	德爾圖良	Dé'ěrtúliáng	Dāk-yíh-tòuh-lèuhng	
 Tertullus	帖土罗	帖土羅	Tiētǔluó	Tip-tóu-lòh	təːtˈɒləs
@@ -17207,6 +17217,7 @@ upper millstone; upper grindstone	上磨石	上磨石	shàngmòshí	séuhng-mòh
 upper pool	上池	上池	shàngchí	séuhng-chìh	
 upper rising tone (e.g. in Wenzhounese)	阴上	陰上	yīnshǎng	yām-séuhng	
 Uppsala	乌普沙拉	烏普沙拉	Wūpǔshālā	Wū-póu-sā-lāai	
+Uppsala	乌普萨拉	烏普薩拉	Wūpǔsàlā	Wū-póu-saat-lāai	
 upright/honest speech	正直话	正直話	zhèngzhíhuà	jing-jihk-wah	
 upright (honest) men	正直人	正直人	zhèngzhírén	jing-jihk-yàhn	
 upright one(s)	正直的人	正直的人	zhèngzhí de rén	jing-jihk dīk yàhn	

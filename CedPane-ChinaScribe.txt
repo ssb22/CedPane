@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-05-20
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-05-21
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -573,7 +573,7 @@
 奧爾蒂賈島 奥尔蒂贾岛 [Ao4 er3 di4 jia3 dao3] /Ortygia (island)/
 奧爾蒂斯 奥尔蒂斯 [Ao4 er3 di4 si1] /Ortiz/
 奧爾梅克 奥尔梅克 [Ao4 er3 mei2 ke4] /Olmec/
-奧爾森 奥尔森 [Ao4 er3 sen1] /Olson/
+奧爾森 奥尔森 [Ao4 er3 sen1] /Olson/Olsen/
 奧爾特曼斯 奥尔特曼斯 [Ao4 er3 te4 man4 si1] /Oltmanns/
 奧爾特云 奥尔特云 [Ao4 er3 te4 yun2] /Oort Cloud/Cloud, Oort/
 奧格登 奥格登 [Ao4 ge2 deng1] /Ogden/
@@ -18609,3 +18609,14 @@
 線程 线程 [xian4 cheng2] /thread/
 達爾茜 达尔茜 [Da2 er3 xi1] /Dulce (name)/
 莉桑 莉桑 [Li4 sang1] /Lizaan/
+阿納斯塔西奧 阿纳斯塔西奥 [A1 na4 si1 ta3 xi1 ao4] /Anastasio/
+巴萊斯特雷羅 巴莱斯特雷罗 [Ba1 lai2 si1 te4 lei2 luo2] /Ballestrero/
+彩虹飛蜥 彩虹飞蜥 [cai3 hong2 fei1 xi1] /agama/
+讀屏軟件 读屏软件 [du2_ping2_ruan3 jian4] /screen reader/reader, screen/
+放射性碳素斷代 放射性碳素断代 [fang4 she4 xing4_tan4 su4_duan4 dai4] /radiocarbon dating/dating, radiocarbon/
+戈馬市 戈马市 [Ge1 ma3_Shi4] /Goma (city)/
+尼拉貢戈 尼拉贡戈 [Ni2 la1 gong4 ge1] /Nyiragongo/
+泰里 泰里 [Tai4 li3] /Terry (male)/
+特莉 特莉 [Te4 li4] /Terry (female)/
+烏普薩拉 乌普萨拉 [Wu1 pu3 sa4 la1] /Uppsala/
+翼龍 翼龙 [yi4 long2] /pterosaur/

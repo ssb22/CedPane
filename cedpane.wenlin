@@ -2850,7 +2850,7 @@ definition Olmec
 pinyin Ào'ěrsēn
 characters 奥尔森[奧爾-]
 serial-number CedPane572
-definition Olson
+definition Olson; Olsen
 *** 
 pinyin Ào'ěrtèmànsī
 characters 奥尔特曼斯[奧爾---]
@@ -93078,3 +93078,59 @@ pinyin Lìsāng
 characters 莉桑
 serial-number CedPane18756
 definition Lizaan
+*** 
+pinyin Ānàsītǎxī'ào
+characters 阿纳斯塔西奥[-納---奧]
+serial-number CedPane18757
+definition Anastasio
+*** 
+pinyin Bāláisītèléiluó
+characters 巴莱斯特雷罗[-萊---羅]
+serial-number CedPane18758
+definition Ballestrero
+*** 
+pinyin cǎihóngfēixī
+characters 彩虹飞蜥[--飛-]
+serial-number CedPane18759
+definition agama
+*** 
+pinyin dú píng ruǎnjiàn
+characters 读屏软件[讀-軟-]
+serial-number CedPane18760
+environment   comp./PRC
+definition screen reader
+*** 
+pinyin fàngshèxìng tànsù duàndài
+characters 放射性碳素断代[-----斷-]
+serial-number CedPane18761
+definition radiocarbon dating
+*** 
+pinyin Gēmǎ Shì
+characters 戈马市[-馬-]
+serial-number CedPane18762
+definition Goma (city)
+*** 
+pinyin Nílāgònggē
+characters 尼拉贡戈[--貢-]
+serial-number CedPane18763
+definition Nyiragongo
+*** 
+pinyin Tàilǐ
+characters 泰里
+serial-number CedPane18764
+definition Terry (male)
+*** 
+pinyin Tèlì
+characters 特莉
+serial-number CedPane18765
+definition Terry (female)
+*** 
+pinyin Wūpǔsàlā
+characters 乌普萨拉[烏-薩-]
+serial-number CedPane18766
+definition Uppsala
+*** 
+pinyin yìlóng
+characters 翼龙[-龍]
+serial-number CedPane18767
+definition pterosaur
