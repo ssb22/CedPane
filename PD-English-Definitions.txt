@@ -46,6 +46,7 @@
 一切事物		everything
 一切险		all risks
 一切險		all risks
+一刻		moment
 一匙		spoonful
 一匹馬		one horse
 一匹马		one horse
@@ -116,6 +117,8 @@
 一帶		region/district
 一干二净		thoroughly/completely
 一年一度		annual/once a year
+一年到头		all through the year
+一年到頭		all through the year
 一年半		a year and a half
 一年多		more than a year
 一年期		one year
@@ -208,6 +211,7 @@
 一筹莫展		be at wits' end
 一箭双雕		kill two birds with one stone
 一籌莫展		be at wits' end
+一类		and the like
 一系列		a series of
 一絲一毫		an iota
 一經		as soon as
@@ -283,6 +287,7 @@
 一面之词		one-sided statement
 一面倒		lopsided/one-sided
 一頭		one head/one end
+一類		and the like
 一體		all concerned
 一體化		unification/integration
 一點		a little
@@ -1348,6 +1353,7 @@
 不確實		untrue
 不祥		inauspicious/ominous
 不祥之兆		bad omen
+不禁		can't resist
 不离儿		not bad
 不移		steadfast
 不稂不莠		useless/good-for-nothing
@@ -1962,6 +1968,7 @@
 並行不悖		not mutually exclusive
 並行計算		parallel computing
 並重		to lay equal stress on/lay equal stress on
+並非		certainly not
 並駕齊驅		run neck and neck
 丧		mourning
 丧事		funeral arrangements
@@ -2621,10 +2628,12 @@
 之外		outside
 之後		after/afterwards/later
 之所以		the reason why
+之类		and the like
 之至		extremely
 之間		among/between
 之间		among/between
 之際		's time
+之類		and the like
 乌		crow/black
 乌云		dark clouds
 乌亮		jet-black
@@ -3712,6 +3721,7 @@
 亲自动手		do the job oneself
 亲自挂帅		take command personally
 亲身		personal
+亲身体验		personally experience
 亲身经历		personal experience
 亳州市		Bozhou
 亵		obscene/disrespectful
@@ -4255,6 +4265,7 @@
 以赛亚书		Book of Isaiah
 以身作则		set an example
 以身作則		set an example
+以防		(so as to) avoid
 以馬內利		Emanuel
 以马内利		Emanuel
 仨		three
@@ -4268,6 +4279,7 @@
 仪节		etiquette
 仪表		bearing/appearance/meter
 仪陇		Yilong
+们		s
 仰		admire/look up/face upward
 仰仗		rely on
 仰光		Yangon
@@ -4488,6 +4500,7 @@
 休伊特		Hewitt
 休会		adjourn
 休伯特		Hubert
+休假		holiday (from work)
 休克		shock
 休兵		cease fire
 休养		recuperate/to recuperate/convalesce
@@ -6017,6 +6030,7 @@
 倍频器		frequency multiplier
 倏		sudden
 倏地		suddenly/swiftly
+們		s
 倒		move backward
 倒下		collapse
 倒写		mirror writing
@@ -7598,6 +7612,8 @@
 全韧带		amphidetic
 全音		whole tone
 全音符		semibreve
+全額		whole quota
+全额		whole quota
 全體		all
 全麥		whole wheat
 全麦		whole wheat
@@ -9432,6 +9448,7 @@
 分波多工		wavelength division multiplexing
 分派		assign
 分清		distinguish
+分清主次		distinguish (what's important and isn't)
 分点		point of division
 分為		divided by
 分發		distribute
@@ -10469,6 +10486,7 @@
 劝架		mediate
 劝诫		exhort
 劝说		advise/persuade
+劝谕		advise
 劝酒		urge to drink
 劝阻		from
 办		run
@@ -11045,6 +11063,7 @@
 勸架		mediate
 勸誡		exhort
 勸說		advise/persuade
+勸諭		advise
 勸阻		from
 勺		spoon
 勺子		scoop
@@ -11478,6 +11497,7 @@
 十億位元		gigabit
 十克		decagram
 十全		perfect
+十全十美		perfect
 十八		18/eighteen
 十六		sixteen/16
 十六分音符		semiquaver
@@ -11542,6 +11562,8 @@
 千岛群岛		Kuril Islands
 千島群島		Kuril Islands
 千差万别		manifold diversity
+千方百計		by any (crafty) way
+千方百计		by any (crafty) way
 千瓦		kilowatt
 千百万		billions
 千百萬		billions
@@ -12546,6 +12568,7 @@
 厌倦		be weary of
 厌弃		reject
 厌恨		hate
+厌恶		hate
 厌气		loathsome
 厌氧		anaerobic
 厌烦		bored
@@ -12701,6 +12724,7 @@
 厭世		world-weary
 厭倦		be weary of
 厭恨		hate
+厭惡		hate
 厭棄		reject
 厭氣		loathsome
 厭氧		anaerobic
@@ -12709,7 +12733,9 @@
 厭食		anorexia
 厭食症		anorexia
 厮		guy
+厮守		stay together (of married couple etc)
 厮杀		kill
+厮混		mingle
 厲		severe
 厲害		severe/fierce
 厲聲		stern voice
@@ -12895,6 +12921,7 @@
 双球菌		diplococcus
 双生		twin/twins
 双生兄弟		twin brothers
+双眼		(one's) eyes
 双眼皮		double eyelid
 双筒望远镜		binoculars
 双管		double-barreled
@@ -13689,6 +13716,7 @@
 叮铃		jingle
 叮问		question closely
 可		may
+可不是		definitely
 可乐		cola
 可亲		amiable/kindly
 可以		may
@@ -14702,6 +14730,7 @@
 听力		hearing
 听力图		audiograph
 听取		listen to (a report)
+听听		listen to
 听墙根		eavesdrop
 听得懂		to understand
 听得见		audible
@@ -15448,6 +15477,7 @@
 哪個		who/which
 哪儿		wherever/anywhere/where
 哪兒		wherever/anywhere/where
+哪怕		why be afraid of
 哪裏		where?
 哪裡		wherever/where?/where
 哪里		wherever/where?/where
@@ -16552,6 +16582,8 @@
 因		reason/because/cause
 因为		because/on account of
 因公		on business
+因地而异		differ from place to place
+因地而異		differ from place to place
 因子		factor
 因孕而婚		shotgun wedding
 因巴布拉		Imbabura
@@ -18125,6 +18157,7 @@
 報系		newspaper chain
 報紙		newspaper
 報紙報導		newspaper report
+報考		apply (for exam)
 報表		forms
 報話機		walkie-talkie
 報警		to report
@@ -18253,11 +18286,13 @@
 塥		dry clay lump
 填充		pad
 填写		to fill in/fill in a form
+填報		fill in (form)
 填堵		cram
 填塞		stuff
 填字游戏		crossword puzzle
 填字游戲		crossword puzzle
 填寫		to fill in/fill in a form
+填报		fill in (form)
 填料		packing
 填满		cram
 填滿		cram
@@ -18908,6 +18943,8 @@
 夙敌		long-standing enemy
 夙敵		long-standing enemy
 多		many
+多不勝數		too many to list
+多不胜数		too many to list
 多丽丝		Doris
 多久		how long?/how long
 多么		how/what
@@ -19312,6 +19349,8 @@
 大壩		dam
 大声		loud voice/loudly/loud
 大多		for the most part/mostly/most
+大多数		most
+大多數		most
 大大		uncle/greatly/enormously
 大大咧咧		casual
 大大小小		of all sizes
@@ -19623,6 +19662,7 @@
 大選		general election
 大選年		election year
 大邑		Dayi
+大部分		most
 大都		for the most part/mostly/metropolitan
 大都会		metropolis
 大都市		metropolis/large city
@@ -19741,6 +19781,7 @@
 天塹		natural moat
 天壇		Temple of Heaven (in Beijing)/Temple of Heaven
 天壤		heaven and earth
+天大		huge
 天天		every day
 天安門		Tiananmen
 天安門廣場		Tiananmen Square
@@ -20029,6 +20070,8 @@
 失地		lose territory
 失声		lose one's voice
 失宜		inappropriate
+失实		misleading
+失實		misleading
 失当		improper/inappropriate
 失忆症		amnesia
 失态		forget one's manners
@@ -20362,10 +20405,12 @@
 奠基人		founder
 奠基石		cornerstone
 奠定		to establish/settle/establish
+奠酒		libation
 奢		extravagant
 奢侈		extravagant/luxurious
 奢侈品		luxury good
 奢华		sumptuous/luxurious
+奢望		hope too much
 奢泰		extravagant
 奢華		sumptuous/luxurious
 奥		obscure/obscur
@@ -22283,6 +22328,7 @@
 审判长		presiding judge
 审处		try and punish/deliberate and decide
 审定		examine and approve
+审察		search into
 审慎		cautious
 审批		examine and approve/to examine and approve
 审改		check and revise
@@ -22495,6 +22541,8 @@
 家常便飯		common occurrence
 家常便饭		common occurrence
 家常菜		home cooking
+家常飯		home cooking
+家常饭		home cooking
 家底		family property/patrimony
 家庭		household/family
 家庭主义		familism
@@ -22671,6 +22719,7 @@
 寄賣		consign for sale
 寄送		to send/send
 密		close
+密不可分		inseperable
 密云		Miyun
 密令		secret order
 密会		secret meeting
@@ -22942,6 +22991,7 @@
 審判長		presiding judge
 審問		question
 審定		examine and approve
+審察		search into
 審慎		cautious
 審批		examine and approve/to examine and approve
 審改		check and revise
@@ -25744,6 +25794,7 @@
 平魯		Pinglu
 平鲁		Pinglu
 年		harvest/year
+年事已高		elderly
 年产		annual production
 年代		age/decade
 年代学		chronology
@@ -25786,8 +25837,10 @@
 年產		annual production
 年紀		age
 年級		grade
+年終獎金		year-end reward
 年级		grade
 年纪		age
+年终奖金		year-end reward
 年老		aged
 年華		age/time
 年薪		annual salary
@@ -25836,6 +25889,7 @@
 并行不悖		not mutually exclusive
 并行计算		parallel computing
 并重		to lay equal stress on/lay equal stress on
+并非		certainly not
 并驾齐驱		run neck and neck
 幸		fortunate
 幸亏		fortunately/luckily
@@ -26108,6 +26162,7 @@
 应急措施		emergency measure
 应承		promise
 应接		deal with
+应有		should have
 应用		to use
 应用层		application layer
 应用平台		application platform
@@ -26325,7 +26380,9 @@
 廚房		kitchen
 廛		market place
 廝		guy
+廝守		stay together (of married couple etc)
 廝殺		kill
+廝混		mingle
 廟		temple fair/temple
 廟堂		imperial court
 廟宇		temple
@@ -26865,6 +26922,7 @@
 张家港市		Zhangjiagang
 张开		spread/open
 张弛		tension and relaxation
+张手		openhanded
 张扬		publicize
 张掖		Zhangye
 张掖市		Zhangye
@@ -26947,6 +27005,7 @@
 張家川回族自治縣		Zhanjiachuan Huizu autonomous county
 張家港市		Zhangjiagang
 張弛		tension and relaxation
+張手		openhanded
 張掖		Zhangye
 張掖市		Zhangye
 張揚		publicize
@@ -27940,6 +27999,7 @@
 心眼大		thoughtful
 心眼小		inconsiderate
 心硬		callous
+心碎		heartbroken
 心神		mind
 心神不宁		feel ill-at-ease
 心神不寧		feel ill-at-ease
@@ -28108,6 +28168,8 @@
 忙		hurry/busy
 忙乎		be busy
 忙于		busy with/be busy with
+忙忙乱乱		rush around
+忙忙亂亂		rush around
 忙於		busy with/be busy with
 忙着		to be occupied
 忙碌		busy/be busy
@@ -28537,6 +28599,7 @@
 恋人		lover
 恋恋不舍		reluctant to part
 恋情		romantic love
+恋慕		yearn (for)
 恋曲		love song
 恋栈		be reluctant to give up a post
 恋歌		love song
@@ -28714,6 +28777,7 @@
 恶名昭彰		notorious
 恶嗪		oxazine
 恶心		vice
+恶念		evil plan
 恶性		viciousness/malignancy
 恶性循环		vicious circle
 恶性肿瘤		malignant tumor
@@ -28770,6 +28834,7 @@
 悒		anxiety
 悔		regret
 悔恨		remorse
+悔悟		repent
 悔改		repent
 悔罪		conviction
 悔过		repent
@@ -29023,6 +29088,7 @@
 惡報		retribution
 惡夢		nightmare
 惡心		vice
+惡念		evil plan
 惡性		viciousness/malignancy
 惡性循環		vicious circle
 惡性腫瘤		malignant tumor
@@ -29268,6 +29334,7 @@
 愛慕虛榮		vain
 愛憎		love and hate
 愛戀		feel deeply attached to
+愛戴		love and respect
 愛斯基摩		Inuit
 愛斯基摩人		Eskimo
 愛樂		music-loving
@@ -29363,6 +29430,7 @@
 愣頭愣腦		impetuous/reckless/rash
 愤		indignant
 愤怒		angry/indignant
+愤恨		hate
 愤愤不平		indignant
 愤慨		resent
 愤懑		depressed/resentful
@@ -29532,6 +29600,7 @@
 憝		dislike/hate
 憤		indignant
 憤怒		angry/indignant
+憤恨		hate
 憤慨		resent
 憤憤不平		indignant
 憤懣		depressed/resentful
@@ -29586,6 +29655,7 @@
 應急措施		emergency measure
 應承		promise
 應接		deal with
+應有		should have
 應用		to use
 應用層		application layer
 應用物理		applied physics
@@ -29700,6 +29770,7 @@
 戀人		lover
 戀情		romantic love
 戀愛		love
+戀慕		yearn (for)
 戀曲		love song
 戀棧		be reluctant to give up a post
 戀歌		love song
@@ -31191,6 +31262,7 @@
 报系		newspaper chain
 报纸		newspaper
 报纸报导		newspaper report
+报考		apply (for exam)
 报表		forms
 报警		to report
 报警器		alarm
@@ -32084,6 +32156,7 @@
 挖泥機		dredge
 挖溝機		ditcher
 挖空心思		rack one's brain
+挖苦		sarcastically (say)
 挚		sincere
 挚切		sincere
 挚友		intimate/bosom friend
@@ -32132,6 +32205,7 @@
 挥霍		squander
 挥霍无度		extravagance
 挦		pull/pluck
+挨		close to
 挨不上		to be irrelevant
 挨个		one by one/in turn
 挨個		one by one/in turn
@@ -33219,6 +33293,7 @@
 摄谱仪		spectrograph
 摅		set forth/to spread
 摆		swing/arrange
+摆上		put out (on table etc)
 摆事实讲道理		present the facts and reason things out
 摆出		assume
 摆列		place
@@ -33772,6 +33847,7 @@
 擷		collect
 擷取		select/pick
 擺		swing/arrange
+擺上		put out (on table etc)
 擺事實講道理		present the facts and reason things out
 擺出		assume
 擺列		place
@@ -33925,6 +34001,7 @@
 支離		fragmented/disorganized/incoherent
 支離破碎		torn to pieces/broken up
 收		receive
+收下		accept
 收买		to bribe/bribe/purchase
 收件人		recipient
 收件箱		inbox
@@ -34025,11 +34102,13 @@
 改变形像		transfiguration
 改变想法		change one's mind
 改口		to correct oneself/correct oneself
+改名		rename
 改善		to improve/improve
 改善关系		to improve relations
 改善通訊		to improve communications
 改善通讯		to improve communications
 改善關係		to improve relations
+改天		another day
 改嫁		remarry (of a woman)
 改寫		rewrite
 改建		rebuild
@@ -34096,6 +34175,7 @@
 放假		vacation/have a day off
 放光		emit light
 放出		to let off
+放回		put back
 放大		to enlarge/enlarge/magnify
 放大器		amplifier
 放大机		enlarger
@@ -34538,8 +34618,10 @@
 敬酒		to toast
 敬重		to respect deeply/revere
 数		count
+数一数二		high-ranking
 数不尽		countless
 数不清		countless
+数不胜数		uncountable (too many)
 数以万计		numerous
 数位		digital
 数位信号		digital signal
@@ -34663,6 +34745,8 @@
 敷		spread
 敷衍		perfunctory
 數		count
+數一數二		high-ranking
+數不勝數		uncountable (too many)
 數不清		countless
 數不盡		countless
 數以萬計		numerous
@@ -35548,6 +35632,8 @@
 无价珍珠		Pearl of Great Price
 无任		extremely
 无休无止		ceaseless
+无休止		without stopping
+无伤大雅		without great consequence
 无伴奏合唱		a cappella
 无似		extremely/unworthy
 无何		nothing else/soon/before long
@@ -35590,6 +35676,7 @@
 无序		disorder/lack of order
 无底洞		bottomless pit
 无度		immoderate/excessive
+无异于		no better than
 无形		invisible/intangible
 无形资产		intangible asset
 无影无踪		vanish without a trace
@@ -35715,6 +35802,7 @@
 无限		unlimited
 无限制		unrestricted
 无限小		infinitesimal/infinitely small
+无需		don't need to
 无霜期		frost-free period
 无非		only
 无须		need not/not have to
@@ -35932,6 +36020,7 @@
 时分		time
 时刻		always/moment/constantly
 时刻表		timetable/schedule
+时务		current task/trend
 时势		current situation
 时区		time zone
 时尚		fashion/fad/fashionable
@@ -36095,6 +36184,7 @@
 明言		pronounced
 明證		clear proof
 明证		clear proof
+明辨		discernment
 明达		sensible
 明達		sensible
 明邃		glistening and piercing
@@ -36201,6 +36291,7 @@
 春夢		spring dream
 春大麥		spring barley
 春大麦		spring barley
+春天		spring (season)
 春季		spring/springtime
 春情发动期		puberty
 春情發動期		puberty
@@ -36308,6 +36399,7 @@
 時分		time
 時刻		always/moment/constantly
 時刻表		timetable/schedule
+時務		current task/trend
 時勢		current situation
 時區		time zone
 時報		Times
@@ -40318,6 +40410,7 @@
 欢欣		elated
 欢欣鼓舞		elated
 欢畅		elated
+欢聚		happily get together
 欢腾		jubilation
 欢迎		to welcome/welcome
 欢迎光临		welcome
@@ -40493,6 +40586,7 @@
 歡樂		gaiety
 歡欣		elated
 歡欣鼓舞		elated
+歡聚		happily get together
 歡聲		cheer
 歡躍		jump for joy
 歡迎		to welcome/welcome
@@ -40763,6 +40857,7 @@
 歧視性		discriminatory
 歧视		discrimination
 歧视性		discriminatory
+歧途		wrong road
 歪		devious/askew
 歪斜		crooked/askew
 歪曲		misrepresent/to distort/distort
@@ -41906,6 +42001,7 @@
 水龙卷		waterspout
 水龙头		faucet
 永		always/forever/perpetual
+永不		never
 永世		forever
 永丰		Yongfeng
 永久		permanent/everlasting/perpetual
@@ -41996,6 +42092,8 @@
 求教		ask for advice/to ask for advice
 求爱		woo
 求神拜佛		pray to Buddha for help
+求职		apply for a job
+求職		apply for a job
 求證		seek confirmation
 求证		seek confirmation
 求醫		see a doctor
@@ -42739,6 +42837,7 @@
 法制办公室		Legislative Affairs Office
 法制辦公室		Legislative Affairs Office
 法則		rule
+法力		super power (?)
 法办		bring to justice
 法務		legal affairs
 法国		French/France
@@ -42854,6 +42953,7 @@
 泛舟		go boating
 泛讀		extensive reading
 泛读		extensive reading
+泛起		start flood; seep in
 泛音		overtone
 泞		muddy
 泠		sound of water flowing
@@ -43123,6 +43223,8 @@
 洋文		foreign language
 洋服		Western-style clothes
 洋油		imported oil/kerosene
+洋洋得意		happy with oneself
+洋洋得意		happy with oneself
 洋洋洒洒		voluminous
 洋洋灑灑		voluminous
 洋流		ocean current
@@ -43269,6 +43371,8 @@
 津巴布韋		Zimbabwe
 津巴布韦		Zimbabwe
 津市市		Jinshi
+津津乐道		dwell on
+津津樂道		dwell on
 津貼		allowance
 津贴		allowance
 洧		name of a river
@@ -44907,9 +45011,11 @@
 溉滌		wash
 溏		noncoagulative
 源		origin/source/root
+源于		comes from
 源代码		source code
 源代碼		source code
 源头		source/fountainhead
+源於		comes from
 源泉		source/fountainhead
 源流		origin and development
 源点		source
@@ -46416,6 +46522,7 @@
 热水器		water heater
 热水瓶		thermos bottle/thermos
 热水袋		hot-water bag
+热泪盈眶		with tears in eyes
 热浪		heat wave
 热源		heat source
 热潮		upsurge
@@ -46503,10 +46610,12 @@
 無以復加		in the extreme
 無以為生		have no means of livelihood
 無任		extremely
+無休止		without stopping
 無休無止		ceaseless
 無伴奏合唱		a cappella
 無似		extremely/unworthy
 無何		nothing else/soon/before long
+無傷大雅		without great consequence
 無價		invaluable/priceless
 無價之寶		priceless treasure
 無價珍珠		Pearl of Great Price
@@ -46606,6 +46715,7 @@
 無產階級		proletariat
 無用		useless
 無畏		fearless
+無異於		no better than
 無疑		undoubtedly
 無益		no good
 無盡		endless
@@ -46675,6 +46785,7 @@
 無限制		unrestricted
 無限小		infinitesimal/infinitely small
 無際		boundless
+無需		don't need to
 無霜期		frost-free period
 無非		only
 無須		need not/not have to
@@ -46976,6 +47087,7 @@
 熱水瓶		thermos bottle/thermos
 熱水袋		hot-water bag
 熱浪		heat wave
+熱淚盈眶		with tears in eyes
 熱源		heat source
 熱潮		upsurge
 熱烈		enthusiastic
@@ -47235,6 +47347,7 @@
 爱慕		admire/adore
 爱慕虚荣		vain
 爱憎		love and hate
+爱戴		love and respect
 爱护		treasure/cherish
 爱斯基摩		Inuit
 爱斯基摩人		Eskimo
@@ -48554,6 +48667,7 @@
 珍视		treasure
 珍貴		precious
 珍贵		precious
+珍重		to treasure
 珍闻		news tidbits
 珏		gems mounted together
 珐		enamel ware
@@ -49057,6 +49171,7 @@
 生		life
 生下		give birth to
 生丝		raw silk
+生于		born in
 生产		manufacture
 生产企业		manufacturer
 生产力		productive force/productivity
@@ -49094,6 +49209,7 @@
 生啤		draft beer
 生啤酒		draft beer
 生境		habitat
+生子		give birth
 生字		new character
 生存		exist/to survive
 生存空間		living space
@@ -49113,6 +49229,7 @@
 生成物		resultant
 生擒		capture alive
 生效		go into effect/to take effect
+生於		born in
 生日		birthday
 生日卡		birthday card
 生有权		birthright
@@ -49939,6 +50056,7 @@
 疏導		open up a path for/dredge
 疏开		disperse
 疏忽		carelessness
+疏忽大意		negligent
 疏懒		indolent
 疏懶		indolent
 疏挖		dredge
@@ -50663,8 +50781,10 @@
 白话		vernacular
 白費		waste
 白費唇舌		waste one's breath
+白費心機		failed plan
 白费		waste
 白费唇舌		waste one's breath
+白费心机		failed plan
 白道		righteous
 白醋		plain vinegar
 白里安		Briand
@@ -50777,6 +50897,8 @@
 百煉成鋼		be tempered into a steel
 百物		all things
 百病		all kinds of diseases and ailments
+百科全书		encyclopaedia
+百科全書		encyclopaedia
 百端待举		a thousand things remain to be done
 百端待舉		a thousand things remain to be done
 百老匯		Broadway
@@ -51339,7 +51461,9 @@
 相互兼容		mutually compatible
 相互影响		interact
 相互影響		interact
+相互間		with each other
 相互關係		mutual relation
+相互间		with each other
 相交		intersect
 相亲		be deeply attached to each other
 相仿		similar
@@ -51564,6 +51688,7 @@
 看样子		it looks as if/it seems
 看樣子		it looks as if/it seems
 看法		view
+看清		make sure of; distinguish
 看清楚		see clearly
 看病		see a doctor/see a patient
 看看		take a look
@@ -51596,6 +51721,7 @@
 真值表		truth table
 真分数		proper fraction
 真分數		proper fraction
+真切		clear
 真实		real/true
 真实性		authenticity
 真实感		sense of reality
@@ -52353,9 +52479,11 @@
 破土典礼		ground breaking ceremony
 破土典禮		ground breaking ceremony
 破坏		to wreck
+破坏力		power to hurt/ruin
 破坏性		destructive
 破坏活动		sabotage
 破壞		to wreck
+破壞力		power to hurt/ruin
 破壞性		destructive
 破壞活動		sabotage
 破天荒		unprecedented
@@ -53132,6 +53260,7 @@
 祭壇		altar
 祭物		sacrifices
 祭祀		ancestors
+祭神		sacrifice to god
 祭酒		person who performs the libation before a banquet
 祯		auspicious
 祷		pray/prayer
@@ -53159,6 +53288,7 @@
 禀性		natural disposition
 禀赋		natural endowment
 禁		prohibit/to prohibit/endure
+禁不住		can't endure
 禁书		banned book
 禁令		ban/prohibition
 禁军		imperial guard
@@ -54649,8 +54779,10 @@
 等距離		equidistance
 等边三角形		equilateral triangle
 等邊三角形		equilateral triangle
+等閑視之		consider unimportant
 等閒		ordinary
 等闲		unimportant/common
+等闲视之		consider unimportant
 等離子體		plasma
 筋		tendon/muscle
 筋骨		courage
@@ -55508,6 +55640,7 @@
 約制		bind
 約合		approximately
 約坦		Jotham
+約定		agree on
 約拿		Jonah
 約拿書		Book of Jonah
 約數		approximate number/divisor
@@ -56628,6 +56761,7 @@
 縱談		talk freely
 縱論		talk freely
 縱身		leap
+縱酒		overdrink
 縱隊		column/file
 縱隔		mediastinum
 縲		bind
@@ -56928,6 +57062,7 @@
 约制		bind
 约合		approximately
 约坦		Jotham
+约定		agree on
 约拿		Jonah
 约拿书		Book of Jonah
 约数		approximate number/divisor
@@ -57059,6 +57194,7 @@
 纵论		talk freely
 纵谈		talk freely
 纵身		leap
+纵酒		overdrink
 纵队		column/file
 纵隔		mediastinum
 纶		classify
@@ -58234,6 +58370,7 @@
 美名		good name/reputation
 美味		delicious food/delicacy/delicious
 美商		American business
+美善		good and beautiful
 美因茨		Mainz
 美国		United States
 美国之音		Voice of America/Voice of America (VOA)
@@ -58709,6 +58846,7 @@
 耍花招		play tricks
 耍錢		gamble
 耍钱		gamble
+耐		endure
 耐久		durable/long-lasting
 耐久性		durability
 耐人寻味		provide food for thought
@@ -58856,9 +58994,11 @@
 耻辱		shame/disgrace/humiliation
 耻骨		pubis
 耽		delay/indulge in/indulge
+耽于		indulge in
 耽延		delay
 耽搁		tarry
 耽擱		tarry
+耽於		indulge in
 耽誤		delay/hold up/to delay
 耽误		delay/hold up/to delay
 耿		upright/bright/honest
@@ -59201,6 +59341,7 @@
 聽眾席		auditorium
 聽筒		earphone/stethoscope/headphone
 聽者		listener
+聽聽		listen to
 聽見		to hear/hear
 聽覺		sense of hearing/auditory sense
 聽診		auscultate
@@ -60745,6 +60886,7 @@
 自营		operate one's own business
 自薦		recommend oneself (for a job)
 自行		by oneself
+自行其是		independent (minded)
 自行車		bike/bicycle
 自行車架		bicycle frame
 自行车		bike/bicycle
@@ -62388,6 +62530,7 @@
 萌动		sprout
 萌動		sprout
 萌发		sprout
+萌生		think of (idea)
 萌發		sprout
 萌芽		sprout
 萍		duckweed
@@ -62711,6 +62854,7 @@
 蒔		plant/transplant
 蒔蘿		dill
 蒙		receive
+蒙上		cover up
 蒙冤		wronged/be wronged
 蒙博托		Mobutu
 蒙受		suffer/sustain
@@ -64561,6 +64705,7 @@
 装备		equipment/outfit/equip
 装成		pretend/to pretend
 装扮		disguise/dress up
+装扮成		dress up as
 装机容量		installed capacity
 装束		attire
 装模作样		put on an act
@@ -64656,6 +64801,7 @@
 裝卸工人		stevedore
 裝成		pretend/to pretend
 裝扮		disguise/dress up
+裝扮成		dress up as
 裝束		attire
 裝模作樣		put on an act
 裝機容量		installed capacity
@@ -65188,6 +65334,7 @@
 親親		kiss
 親身		personal
 親身經歷		personal experience
+親身體驗		personally experience
 覬		covet
 覬覦		to covet/covet
 覯		meet/complete
@@ -65587,6 +65734,7 @@
 討價還價		haggle/bargain
 討厭		disagreeable/disgusting/loathe
 討取		demand
+討好		thank (for work)
 討嫌		disagreeable
 討教		ask for advice
 討論		talk over/to discuss/discuss
@@ -65898,6 +66046,7 @@
 認出		recognition
 認出來		recognize
 認可		approval/to approve/approve
+認同		identify with
 認定		firmly believe
 認得		recognize
 認死理		opinionated/obstinate
@@ -66658,6 +66807,7 @@
 认出		recognition
 认出来		recognize
 认可		approval/to approve/approve
+认同		identify with
 认定		firmly believe
 认得		recognize
 认死理		opinionated/obstinate
@@ -66687,6 +66837,7 @@
 讨伐		send a punitive expedition
 讨厌		disagreeable/disgusting/loathe
 讨取		demand
+讨好		thank (for work)
 讨嫌		disagreeable
 讨教		ask for advice
 讨论		talk over/to discuss/discuss
@@ -67817,6 +67968,7 @@
 貪求		covet
 貪污		corrupt/corruption/to embezzle
 貪污腐敗		corruption
+貪財		greedy (for money)
 貪食		glutton
 貫		pierce/pass through
 貫徹		implement/carry out/to carry out
@@ -67900,6 +68052,7 @@
 貺		bestow
 費		wasteful
 費利克斯		Felix
+費力		take effort
 費加羅		Figaro
 費加羅報		Le Figaro
 費勁		strenuous
@@ -68393,6 +68546,7 @@
 贪污		corrupt/corruption/to embezzle
 贪污罪		crime of corruption
 贪污腐败		corruption
+贪财		greedy (for money)
 贪食		glutton
 贫		poor
 贫乏		poor/lacking
@@ -68506,6 +68660,7 @@
 费		wasteful
 费利克斯		Felix
 费利西亚		Felicia
+费力		take effort
 费加罗		Figaro
 费加罗报		Le Figaro
 费劲		strenuous
@@ -68743,6 +68898,7 @@
 赤铁矿		hematite
 赤铜矿		cuprite
 赤陶		terra cotta
+赤露		naked
 赦		to pardon/pardon
 赦免		remit/pardon
 赦罪		pardon
@@ -68884,6 +69040,8 @@
 起床		to get up
 起床号		reveille
 起床號		reveille
+起早貪黑		work from morning till night
+起早贪黑		work from morning till night
 起来		get up/to stand up/to get up/start
 起泡		foam/bubble
 起泡沫		seethe
@@ -69021,6 +69179,7 @@
 越发		more and more/more
 越战		Vietnam War
 越戰		Vietnam War
+越是		the more
 越来越		more and more
 越橘		cowberry
 越界		cross a border
@@ -69730,6 +69889,7 @@
 輔助		supplementary
 輔助語		auxiliary language
 輔導		tutor/coach/to coach
+輔導員		counsellor (school etc)
 輔導班		tutorial class
 輔幣		fractional currency
 輔弼		assist a ruler in governing a country
@@ -70215,6 +70375,7 @@
 辅助		supplementary
 辅助语		auxiliary language
 辅导		tutor/coach/to coach
+辅导员		counsellor (school etc)
 辅导班		tutorial class
 辅币		fractional currency
 辅弼		assist a ruler in governing a country
@@ -70354,6 +70515,7 @@
 辩护人		defender
 辩护士		apologist
 辩白		offer an explanation
+辩称		argue (that)
 辩解		try to defend oneself/provide an explanation
 辩论		argue/debate/argument
 辩论会		debate
@@ -70379,6 +70541,7 @@
 辯		dispute
 辯才		eloquence
 辯白		offer an explanation
+辯稱		argue (that)
 辯解		try to defend oneself/provide an explanation
 辯說		argue/debate
 辯論		argue/debate/argument
@@ -73141,6 +73304,7 @@
 重懲		punish severely
 重托		great trust
 重担		heavy burden/difficult task
+重拾		recall
 重提		bring up again
 重播		rebroadcast
 重擊		bang
@@ -76205,6 +76369,7 @@
 险		dangerous/danger
 险些		almost/narrowly/nearly
 险兆		evil omen
+险境		danger
 险峰		perilous peak
 险峻		arduous
 险恶		dangerous/sinister
@@ -76531,6 +76696,7 @@
 險		dangerous/danger
 險些		almost/narrowly/nearly
 險兆		evil omen
+險境		danger
 險峰		perilous peak
 險峻		arduous
 險惡		dangerous/sinister
@@ -76870,6 +77036,7 @@
 雙生		twin/twins
 雙生兄弟		twin brothers
 雙生子		twin
+雙眼		(one's) eyes
 雙眼皮		double eyelid
 雙筒望遠鏡		binoculars
 雙管		double-barreled
@@ -78438,6 +78605,7 @@
 顧念		care for
 顧惜		take loving care of
 顧慮		misgivings
+顧此失彼		do one thing and lose another
 顧眄		turn one's head and look around
 顫		tremble/vibrate/to tremble
 顫動		to tremble
@@ -78580,6 +78748,7 @@
 顾忌		have misgivings/scruple
 顾念		care for
 顾惜		take loving care of
+顾此失彼		do one thing and lose another
 顾眄		turn one's head and look around
 顾虑		misgivings
 顾问		adviser/consultant
@@ -79746,6 +79915,7 @@
 騖		fast
 騖遠		over ambitious
 騙		deceive/to cheat
+騙人		deceive
 騙取		to gain
 騙子		swindler
 騙局		fraud
@@ -80135,6 +80305,7 @@
 骒马		mare
 骓		piebald
 骗		deceive/to cheat
+骗人		deceive
 骗取		to gain
 骗子		swindler
 骗局		fraud
@@ -80709,6 +80880,7 @@
 魯昂		Rouen
 魯汶		Leuven
 魯甸		Ludian
+魯莽		rash/crazy
 魯菜		Shandong cuisine
 魯賓遜		Robinson
 魯迅		Lu Xun
@@ -80875,6 +81047,7 @@
 鲁杰罗		Ruggiero
 鲁汶		Leuven
 鲁甸		Ludian
+鲁莽		rash/crazy
 鲁菜		Shandong cuisine
 鲁迅		Lu Xun
 鲁迪		Rudy
