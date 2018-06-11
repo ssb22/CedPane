@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-06-11
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-06-12
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -15796,7 +15796,7 @@
 楚雄市 楚雄市 [Chu5 xiong2_Shi4] /Chuxiong (in Yunnan)/
 楚雄 楚雄 [Chu5 xiong2] /Chuxiong (in Yunnan)/
 大理市 大理市 [Da4 li3_Shi4] /Dali (in Yunnan)/
-個舊市 个旧市 [Ge5 jiu4_Shi4] /Gejiu (in Yunnan)/
+個舊市 个旧市 [Ge4 jiu4_Shi4] /Gejiu (in Yunnan)/
 個舊 个旧 [Ge5 jiu4] /Gejiu (in Yunnan)/
 景洪市 景洪市 [Jing3 hong2_Shi4] /Jinghong (in Yunnan)/
 景洪 景洪 [Jing3 hong2] /Jinghong (in Yunnan)/
@@ -18779,3 +18779,1268 @@
 有限度的自由 有限度的自由 [you3_xian4 du4_de5_zi4 you2] /relative freedom/freedom, relative/
 轉基因 转基因 [zhuan3_ji1 yin1] /genetically modify/modify, genetically/
 特斯拉 特斯拉 [Te4 si1 la1] /Tesla/
+阿巴嘎旗 阿巴嘎旗 [A1 ba1 ga1_Qi2] /Abag (banner, in Inner Mongolia)/
+阿壩縣 阿坝县 [A1 ba4_Xian4] /Aba (county, in Sichuan)/
+阿合奇縣 阿合奇县 [A1 he2 qi2_Xian4] /Akqi (county, in Xinjiang)/
+阿克塞縣 阿克塞县 [A1 ke4 sai1_Xian4] /Akesai (county, in Gansu)/
+阿克陶縣 阿克陶县 [A1 ke4 tao2_Xian4] /Akto (county, in Xinjiang)/
+阿拉善右旗 阿拉善右旗 [A1 la1 shan4 you4_Qi2] /Alxa Right (banner, in Inner Mongolia)/Right, Alxa (banner, in Inner Mongolia)/
+阿拉善左旗 阿拉善左旗 [A1 la1 shan4 zuo3_Qi2] /Alxa Left (banner, in Inner Mongolia)/Left, Alxa (banner, in Inner Mongolia)/
+阿魯科爾沁旗 阿鲁科尔沁旗 [A1 lu3 ke1 er3 qin4_Qi2] /Ar Horqin (banner, in Inner Mongolia)/Horqin, Ar (banner, in Inner Mongolia)/
+安福縣 安福县 [An1 fu2_Xian4] /Anfu (county, in Jiangxi)/
+安化縣 安化县 [An1 hua4_Xian4] /Anhua (county, in Hunan)/
+安吉縣 安吉县 [An1 ji2_Xian4] /Anji (county, in Zhejiang)/
+安龍縣 安龙县 [An1 long2_Xian4] /Anlong (county, in Guizhou)/
+安平縣 安平县 [An1 ping2_Xian4] /Anping (county, in Hebei)/
+安仁縣 安仁县 [An1 ren2_Xian4] /Anren (county, in Hunan)/
+安塞縣 安塞县 [An1 sai1_Xian4] /Ansai (county, in Shaanxi)/
+鞍山鐵西區 鞍山铁西区 [An1 shan1 tie3 xi1_Qu1] /Anshantiexi (district, in Liaoning)/
+安圖縣 安图县 [An1 tu2_Xian4] /Antu (county, in Jilin)/
+安鄉縣 安乡县 [An1 xiang1_Xian4] /Anxiang (county, in Hunan)/
+安新縣 安新县 [An1 xin1_Xian4] /Anxin (county, in Hebei)/
+安溪縣 安溪县 [An1 xi1_Xian4] /Anxi (county, in Fujian)/
+安義縣 安义县 [An1 yi4_Xian4] /Anyi (county, in Jiangxi)/
+安遠縣 安远县 [An1 yuan3_Xian4] /Anyuan (county, in Jiangxi)/
+安岳縣 安岳县 [An1 yue4_Xian4] /Anyue (county, in Sichuan)/
+安澤縣 安泽县 [An1 ze2_Xian4] /Anze (county, in Shanxi)/
+敖漢旗 敖汉旗 [Ao2 han4_Qi2] /Aohan (banner, in Inner Mongolia)/
+阿榮旗 阿荣旗 [A1 rong2_Qi2] /Arun (banner, in Inner Mongolia)/
+阿瓦提縣 阿瓦提县 [A1 wa3 ti2_Xian4] /Awat (county, in Xinjiang)/
+巴楚縣 巴楚县 [Ba1 chu3_Xian4] /Bachu (county, in Xinjiang)/
+拜城縣 拜城县 [Bai4 cheng2_Xian4] /Baicheng (county, in Xinjiang)/
+白河縣 白河县 [Bai2 he2_Xian4] /Baihe (county, in Shaanxi)/
+拜泉縣 拜泉县 [Bai4 quan2_Xian4] /Baiquan (county, in Heilongjiang)/
+柏鄉縣 柏乡县 [Bai3 xiang1_Xian4] /Baixiang (county, in Hebei)/
+巴里坤縣 巴里坤县 [Ba1 li3 kun1_Xian4] /Barköl (Kazakh county, in Xinjiang)/
+巴林右旗 巴林右旗 [Ba1 lin2 you4_Qi2] /Bairin Right (banner, in Inner Mongolia)/Right, Bairin (banner, in Inner Mongolia)/
+巴林左旗 巴林左旗 [Ba1 lin2 zuo3_Qi2] /Bairin Left (banner, in Inner Mongolia)/Left, Bairin (banner, in Inner Mongolia)/
+巴馬縣 巴马县 [Ba1 ma3_Xian4] /Bama (county, in Guangxi)/
+巴南區 巴南区 [Ba1 nan2_Qu1] /Banan (district, in Chongqing)/
+班瑪縣 班玛县 [Ban1 ma3_Xian4] /Banma (county, in Qinghai)/
+保德縣 保德县 [Bao3 de2_Xian4] /Baode (county, in Shanxi)/
+寶丰縣 宝丰县 [Bao3 feng1_Xian4] /Baofeng (county, in Henan)/
+保靖縣 保靖县 [Bao3 jing4_Xian4] /Baojing (county, in Hunan)/
+保康縣 保康县 [Bao3 kang1_Xian4] /Baokang (county, in Hubei)/
+寶清縣 宝清县 [Bao3 qing1_Xian4] /Baoqing (county, in Heilongjiang)/
+寶興縣 宝兴县 [Bao3 xing4_Xian4] /Baoxing (county, in Sichuan)/
+寶應縣 宝应县 [Bao3 ying1_Xian4] /Baoying (county, in Jiangsu)/
+灞橋區 灞桥区 [Ba4 qiao2_Qu1] /Baqiao (district, in Shaanxi)/
+巴塘縣 巴塘县 [Ba1 tang2_Xian4] /Batang (county, in Sichuan)/
+巴彥縣 巴彦县 [Ba1 yan4_Xian4] /Bayan (county, in Heilongjiang)/
+鮁魚圈區 鲅鱼圈区 [Ba4 yu2 quan1_Qu1] /Bayuquan (district, in Liaoning)/
+北碚區 北碚区 [Bei3 bei4_Qu1] /Beibei (district, in Chongqing)/
+北川縣 北川县 [Bei3 chuan1_Xian4] /Beichuan (county, in Sichuan)/
+賓川縣 宾川县 [Bin1 chuan1_Xian4] /Binchuan (county, in Yunnan)/
+賓陽縣 宾阳县 [Bin1 yang2_Xian4] /Binyang (county, in Guangxi)/
+璧山縣 璧山县 [Bi4 shan1_Xian4] /Bishan (county, in Chongqing)/
+博白縣 博白县 [Bo2 bai2_Xian4] /Bobai (county, in Guangxi)/
+博湖縣 博湖县 [Bo2 hu2_Xian4] /Bohu (county, in Xinjiang)/
+勃利縣 勃利县 [Bo2 li4_Xian4] /Boli (county, in Heilongjiang)/
+博羅縣 博罗县 [Bo2 luo2_Xian4] /Boluo (county, in Guangdong)/
+博野縣 博野县 [Bo2 ye3_Xian4] /Boye (county, in Hebei)/
+布爾津縣 布尔津县 [Bu4 er3 jin1_Xian4] /Burqin (county, in Xinjiang)/
+布拖縣 布拖县 [Bu4 tuo1_Xian4] /Butuo (county, in Sichuan)/
+蒼南縣 苍南县 [Cang1 nan2_Xian4] /Cangnan (county, in Zhejiang)/
+蒼梧縣 苍梧县 [Cang1 wu2_Xian4] /Cangwu (county, in Guangxi)/
+蒼溪縣 苍溪县 [Cang1 xi1_Xian4] /Cangxi (county, in Sichuan)/
+滄源縣 沧源县 [Cang1 yuan2_Xian4] /Cangyuan (county, in Yunnan)/
+冊亨縣 册亨县 [Ce4 heng1_Xian4] /Ceheng (county, in Guizhou)/
+策勒縣 策勒县 [Ce4 le4_Xian4] /Qira/Cele (county, in Xinjiang)/
+岑鞏縣 岑巩县 [Cen2 gong3_Xian4] /Cengong (county, in Guizhou)/
+察布查爾縣 察布查尔县 [Cha2 bu4 cha2 er3_Xian4] /Qapqal (Xibe county, in Xinjiang)/
+察哈爾右翼后旗 察哈尔右翼后旗 [Cha2 ha1 er3 you4 yi4 hou4_Qi2] /Chahar Right Rear (banner, in Inner Mongolia)/Right Rear, Chahar (banner, in Inner Mongolia)/
+察哈爾右翼前旗 察哈尔右翼前旗 [Cha2 ha1 er3 you4 yi4 qian2_Qi2] /Chahar Right Front (banner, in Inner Mongolia)/Right Front, Chahar (banner, in Inner Mongolia)/
+察哈爾右翼中旗 察哈尔右翼中旗 [Cha2 ha1 er3 you4 yi4 zhong1_Qi2] /Chahar Right Middle (banner, in Inner Mongolia)/Right Middle, Chahar (banner, in Inner Mongolia)/
+茶陵縣 茶陵县 [Cha2 ling2_Xian4] /Chaling (county, in Hunan)/
+長白縣 长白县 [Chang2 bai2_Xian4] /Changbai (county, in Jilin)/
+長丰縣 长丰县 [Chang2 feng1_Xian4] /Changfeng (county, in Anhui)/
+長海縣 长海县 [Chang2 hai3_Xian4] /Changhai (county, in Liaoning)/
+長樂市 长乐市 [Chang2 le4_Shi4] /Changle (city, in Fujian)/
+長嶺縣 长岭县 [Chang2 ling3_Xian4] /Changling (county, in Jilin)/
+昌黎縣 昌黎县 [Chang1 li2_Xian4] /Changli (county, in Hebei)/
+昌寧縣 昌宁县 [Chang1 ning4_Xian4] /Changning (county, in Yunnan)/
+長寧縣 长宁县 [Chang2 ning4_Xian4] /Changning (county, in Sichuan)/
+常山縣 常山县 [Chang2 shan1_Xian4] /Changshan (county, in Zhejiang)/
+長順縣 长顺县 [Chang2 shun4_Xian4] /Changshun (county, in Guizhou)/
+長汀縣 长汀县 [Chang2 ting1_Xian4] /Changting (county, in Fujian)/
+昌圖縣 昌图县 [Chang1 tu2_Xian4] /Changtu (county, in Liaoning)/
+長武縣 长武县 [Chang2 wu3_Xian4] /Changwu (county, in Shaanxi)/
+長興縣 长兴县 [Chang2 xing4_Xian4] /Changxing (county, in Zhejiang)/
+長陽縣 长阳县 [Chang2 yang2_Xian4] /Changyang (county, in Hubei)/
+長垣縣 长垣县 [Chang2 yuan2_Xian4] /Changyuan (county, in Henan)/
+漳浦縣 漳浦县 [Chan2 pu3_Xian4] /Chanpu (county, in Fujian)/
+潮安區 潮安区 [Chao2 an1_Qu1] /Chao'an (district, in Guangdong)/
+陳巴爾虎旗 陈巴尔虎旗 [Chen2 ba1 er3 hu3_Qi2] /Old Barag (banner, in Inner Mongolia)/Barag, Old (banner, in Inner Mongolia)/
+陳倉區 陈仓区 [Chen2 cang1_Qu1] /Chencang (district, in Shaanxi)/
+成安縣 成安县 [Cheng2 an1_Xian4] /Cheng'an (county, in Hebei)/
+城步縣 城步县 [Cheng2 bu4_Xian4] /Chengbu (county, in Hunan)/
+澄城縣 澄城县 [Cheng2 cheng2_Xian4] /Chengcheng (county, in Shaanxi)/
+稱多縣 称多县 [Cheng1 duo1_Xian4] /Chengduo (county, in Qinghai)/
+呈貢縣 呈贡县 [Cheng2 gong4_Xian4] /Chenggong (county, in Yunnan)/
+城固縣 城固县 [Cheng2 gu4_Xian4] /Chenggu (county, in Shaanxi)/
+澄江縣 澄江县 [Cheng2 jiang1_Xian4] /Chengjiang (county, in Yunnan)/
+城口縣 城口县 [Cheng2 kou3_Xian4] /Chengkou (county, in Chongqing)/
+辰溪縣 辰溪县 [Chen2 xi1_Xian4] /Chenxi (county, in Hunan)/
+赤城縣 赤城县 [Chi4 cheng2_Xian4] /Chicheng (county, in Hebei)/
+崇禮縣 崇礼县 [Chong2 li3_Xian4] /Chongli (county, in Hebei)/
+崇仁縣 崇仁县 [Chong2 ren2_Xian4] /Chongren (county, in Jiangxi)/
+崇陽縣 崇阳县 [Chong2 yang2_Xian4] /Chongyang (county, in Hubei)/
+崇義縣 崇义县 [Chong2 yi4_Xian4] /Chongyi (county, in Jiangxi)/
+淳安縣 淳安县 [Chun2 an1_Xian4] /Chun'an (county, in Zhejiang)/
+淳化縣 淳化县 [Chun2 hua4_Xian4] /Chunhua (county, in Shaanxi)/
+慈利縣 慈利县 [Ci2 li4_Xian4] /Cili (county, in Hunan)/
+從化區 从化区 [Cong2 hua4_Qu1] /Conghua (district, in Guangdong)/
+從江縣 从江县 [Cong2 jiang1_Xian4] /Congjiang (county, in Guizhou)/
+樅陽縣 枞阳县 [Cong1 yang2_Xian4] /Congyang (county, in Anhui)/
+大柴旦行政區 大柴旦行政区 [Da4 chai2 dan4 xing2 zheng4_Qu1] /Dachaidanxingzheng (district, in Qinghai)/
+大廠縣 大厂县 [Da4 chang3_Xian4] /Dachang (county, in Hebei)/
+大東區 大东区 [Da4 dong1_Qu1] /Dadong (district, in Liaoning)/
+大渡口區 大渡口区 [Da4 du4 kou3_Qu1] /Dadukou (district, in Chongqing)/
+達爾罕茂明安聯合旗 达尔罕茂明安联合旗 [Da2 er3 han3_Mao4 ming2 an1_Lian2 he2_Qi2] /Darhan Muminggan United (banner, in Inner Mongolia)/Muminggan United, Darhan (banner, in Inner Mongolia)/
+大丰區 大丰区 [Da4 feng1_Qu1] /Dafeng (district, in Jiangsu)/
+大化縣 大化县 [Da4 hua4_Xian4] /Dahua (county, in Guangxi)/
+岱山縣 岱山县 [Dai4 shan1_Xian4] /Daishan (county, in Zhejiang)/
+達拉特旗 达拉特旗 [Da2 la1 te4_Qi2] /Dalad (banner, in Inner Mongolia)/
+大荔縣 大荔县 [Da4 li4_Xian4] /Dali (county, in Shaanxi)/
+丹巴縣 丹巴县 [Dan1 ba1_Xian4] /Danba (county, in Sichuan)/
+鄲城縣 郸城县 [Dan1 cheng2_Xian4] /Dancheng (county, in Henan)/
+宕昌縣 宕昌县 [Dang4 chang1_Xian4] /Dangchang (county, in Gansu)/
+碭山縣 砀山县 [Dang4 shan1_Xian4] /Dangshan (county, in Anhui)/
+當塗縣 当涂县 [Dang1 tu2_Xian4] /Dangtu (county, in Anhui)/
+大寧縣 大宁县 [Da4 ning4_Xian4] /Daning (county, in Shanxi)/
+丹棱縣 丹棱县 [Dan1 leng2_Xian4] /Danleng (county, in Sichuan)/
+丹寨縣 丹寨县 [Dan1 zhai4_Xian4] /Danzhai (county, in Guizhou)/
+稻城縣 稻城县 [Dao4 cheng2_Xian4] /Daocheng (county, in Sichuan)/
+道孚縣 道孚县 [Dao4 fu2_Xian4] /Daofu (county, in Sichuan)/
+道真縣 道真县 [Dao4 zhen1_Xian4] /Daozhen (county, in Guizhou)/
+達日縣 达日县 [Da2 ri4_Xian4] /Dari (county, in Qinghai)/
+大通縣 大通县 [Da4 tong1_Xian4] /Datong (county, in Qinghai)/
+大窪縣 大洼县 [Da4 wa1_Xian4] /Dawa (county, in Liaoning)/
+大新縣 大新县 [Da4 xin1_Xian4] /Daxin (county, in Guangxi)/
+大姚縣 大姚县 [Da4 yao2_Xian4] /Dayao (county, in Yunnan)/
+大英縣 大英县 [Da4 ying1_Xian4] /Daying (county, in Sichuan)/
+大邑縣 大邑县 [Da4 yi4_Xian4] /Dayi (county, in Sichuan)/
+大余縣 大余县 [Da4 yu2_Xian4] /Dayu (county, in Jiangxi)/
+大竹縣 大竹县 [Da4 zhu2_Xian4] /Dazhu (county, in Sichuan)/
+大足縣 大足县 [Da4 zu2_Xian4] /Dazu (county, in Chongqing)/
+德安縣 德安县 [De2 an1_Xian4] /De'an (county, in Jiangxi)/
+德保縣 德保县 [De2 bao3_Xian4] /Debao (county, in Guangxi)/
+德昌縣 德昌县 [De2 chang1_Xian4] /Dechang (county, in Sichuan)/
+德格縣 德格县 [De2 ge2_Xian4] /Dege (county, in Sichuan)/
+德江縣 德江县 [De2 jiang1_Xian4] /Dejiang (county, in Guizhou)/
+磴口縣 磴口县 [Deng4 kou3_Xian4] /Dengkou (county, in Inner Mongolia)/
+德清縣 德清县 [De2 qing1_Xian4] /Deqing (county, in Zhejiang)/
+德慶縣 德庆县 [De2 qing4_Xian4] /Deqing (county, in Guangdong)/
+德欽縣 德钦县 [De2 qin1_Xian4] /Deqin (county, in Yunnan)/
+得榮縣 得荣县 [De2 rong2_Xian4] /Derong (county, in Sichuan)/
+電白區 电白区 [Dian4 bai2_Qu1] /Dianbai (district, in Guangdong)/
+墊江縣 垫江县 [Dian4 jiang1_Xian4] /Dianjiang (county, in Chongqing)/
+迭部縣 迭部县 [Die2 bu4_Xian4] /Diebu (county, in Gansu)/
+定邊縣 定边县 [Ding4 bian1_Xian4] /Dingbian (county, in Shaanxi)/
+定南縣 定南县 [Ding4 nan2_Xian4] /Dingnan (county, in Jiangxi)/
+定襄縣 定襄县 [Ding4 xiang1_Xian4] /Dingxiang (county, in Shanxi)/
+定興縣 定兴县 [Ding4 xing4_Xian4] /Dingxing (county, in Hebei)/
+定遠縣 定远县 [Ding4 yuan3_Xian4] /Dingyuan (county, in Anhui)/
+東安縣 东安县 [Dong1 an1_Xian4] /Dong'an (county, in Hunan)/
+東丰縣 东丰县 [Dong1 feng1_Xian4] /Dongfeng (county, in Jilin)/
+東光縣 东光县 [Dong1 guang1_Xian4] /Dongguang (county, in Hebei)/
+東蘭縣 东兰县 [Dong1 lan2_Xian4] /Donglan (county, in Guangxi)/
+東遼縣 东辽县 [Dong1 liao2_Xian4] /Dongliao (county, in Jilin)/
+東陵區 东陵区 [Dong1 ling2_Qu1] /Dongling (district, in Liaoning)/
+東山縣 东山县 [Dong1 shan1_Xian4] /Dongshan (county, in Fujian)/
+洞頭縣 洞头县 [Dong4 tou2_Xian4] /Dongtou (county, in Zhejiang)/
+東烏珠穆沁旗 东乌珠穆沁旗 [Dong1 wu1 zhu1 mu4 qin4_Qi2] /East Ujimqin (banner, in Inner Mongolia)/Ujimqin, East (banner, in Inner Mongolia)/
+東鄉縣 东乡县 [Dong1 xiang1_Xian4] /Dongxiang (county, in Jiangxi)/
+東鄉縣 东乡县 [Dong1 xiang1_Xian4] /Dongxiang (county, in Gansu)/
+東源縣 东源县 [Dong1 yuan2_Xian4] /Dongyuan (county, in Guangdong)/
+東至縣 东至县 [Dong1 zhi4_Xian4] /Dongzhi (county, in Anhui)/
+東洲區 东洲区 [Dong1 zhou1_Qu1] /Dongzhou (district, in Liaoning)/
+都安縣 都安县 [Du1 an1_Xian4] /Du'an (county, in Guangxi)/
+都昌縣 都昌县 [Du1 chang1_Xian4] /Duchang (county, in Jiangxi)/
+都蘭縣 都兰县 [Du1 lan2_Xian4] /Dulan (county, in Qinghai)/
+杜蒙縣 杜蒙县 [Du4 meng2_Xian4] /Dumeng (county, in Heilongjiang)/
+多倫縣 多伦县 [Duo1 lun2_Xian4] /Duolun (county, in Inner Mongolia)/
+獨山縣 独山县 [Du2 shan1_Xian4] /Dushan (county, in Guizhou)/
+峨邊縣 峨边县 [E2 bian1_Xian4] /Ebian (county, in Sichuan)/
+額濟納旗 额济纳旗 [E2 ji4 na4_Qi2] /Ejin (banner, in Inner Mongolia)/
+鄂倫春自治旗 鄂伦春自治旗 [E4 lun2 chun1_Zi4 zhi4_Qi2] /Oroqen Autonomous Banner (in Inner Mongolia)/Autonomous Banner, Oroqen (in Inner Mongolia)/
+額敏縣 额敏县 [E2 min3_Xian4] /Emin (county, in Xinjiang)/
+洱源縣 洱源县 [Er3 yuan2_Xian4] /Eryuan (county, in Yunnan)/
+峨山縣 峨山县 [E2 shan1_Xian4] /Eshan (county, in Yunnan)/
+鄂托克旗 鄂托克旗 [E4 tuo1 ke4_Qi2] /Otog (banner, in Inner Mongolia)/
+鄂托克前旗 鄂托克前旗 [E4 tuo1 ke4 qian2_Qi2] /Otog Front (banner, in Inner Mongolia)/Front, Otog (banner, in Inner Mongolia)/
+鄂溫克族自治旗 鄂温克族自治旗 [E4 wen1 ke4 zu2_Zi4 zhi4_Qi2] /Evenk Autonomous Banner (in Inner Mongolia)/Autonomous Banner, Evenk (in Inner Mongolia)/
+法庫縣 法库县 [Fa3 ku4_Xian4] /Faku (county, in Liaoning)/
+繁昌縣 繁昌县 [Fan2 chang1_Xian4] /Fanchang (county, in Anhui)/
+方城縣 方城县 [Fang1 cheng2_Xian4] /Fangcheng (county, in Henan)/
+方山縣 方山县 [Fang1 shan1_Xian4] /Fangshan (county, in Shanxi)/
+繁峙縣 繁峙县 [Fan2 zhi4_Xian4] /Fanzhi (county, in Shanxi)/
+肥東縣 肥东县 [Fei2 dong1_Xian4] /Feidong (county, in Anhui)/
+肥鄉縣 肥乡县 [Fei2 xiang1_Xian4] /Feixiang (county, in Hebei)/
+肥西縣 肥西县 [Fei2 xi1_Xian4] /Feixi (county, in Anhui)/
+丰都縣 丰都县 [Feng1 du1_Xian4] /Fengdu (county, in Chongqing)/
+鳳岡縣 凤冈县 [Feng4 gang1_Xian4] /Fenggang (county, in Guizhou)/
+奉化市 奉化市 [Feng4 hua4_Shi4] /Fenghua (city, in Zhejiang)/
+奉節縣 奉节县 [Feng4 jie2_Xian4] /Fengjie (county, in Chongqing)/
+封開縣 封开县 [Feng1 kai1_Xian4] /Fengkai (county, in Guangdong)/
+丰寧縣 丰宁县 [Feng1 ning4_Xian4] /Fengning (county, in Hebei)/
+鳳慶縣 凤庆县 [Feng4 qing4_Xian4] /Fengqing (county, in Yunnan)/
+封丘縣 封丘县 [Feng1 qiu1_Xian4] /Fengqiu (county, in Henan)/
+鳳山縣 凤山县 [Feng4 shan1_Xian4] /Fengshan (county, in Guangxi)/
+丰順縣 丰顺县 [Feng1 shun4_Xian4] /Fengshun (county, in Guangdong)/
+鳳台縣 凤台县 [Feng4 tai2_Xian4] /Fengtai (county, in Anhui)/
+鳳翔縣 凤翔县 [Feng4 xiang2_Xian4] /Fengxiang (county, in Shaanxi)/
+奉新縣 奉新县 [Feng4 xin1_Xian4] /Fengxin (county, in Jiangxi)/
+鳳陽縣 凤阳县 [Feng4 yang2_Xian4] /Fengyang (county, in Anhui)/
+汾西縣 汾西县 [Fen2 xi1_Xian4] /Fenxi (county, in Shanxi)/
+分宜縣 分宜县 [Fen1 yi2_Xian4] /Fenyi (county, in Jiangxi)/
+佛岡縣 佛冈县 [Fo2 gang1_Xian4] /Fogang (county, in Guangdong)/
+佛坪縣 佛坪县 [Fo2 ping2_Xian4] /Foping (county, in Shaanxi)/
+阜城縣 阜城县 [Fu4 cheng2_Xian4] /Fucheng (county, in Hebei)/
+富川縣 富川县 [Fu4 chuan1_Xian4] /Fuchuan (county, in Guangxi)/
+扶風縣 扶风县 [Fu2 feng1_Xian4] /Fufeng (county, in Shaanxi)/
+福貢縣 福贡县 [Fu2 gong4_Xian4] /Fugong (county, in Yunnan)/
+扶溝縣 扶沟县 [Fu2 gou1_Xian4] /Fugou (county, in Henan)/
+府谷縣 府谷县 [Fu3 gu3_Xian4] /Fugu (county, in Shaanxi)/
+福海縣 福海县 [Fu2 hai3_Xian4] /Fuhai (county, in Xinjiang)/
+富民縣 富民县 [Fu4 min2_Xian4] /Fumin (county, in Yunnan)/
+阜南縣 阜南县 [Fu4 nan2_Xian4] /Funan (county, in Anhui)/
+撫寧縣 抚宁县 [Fu3 ning4_Xian4] /Funing (county, in Hebei)/
+富寧縣 富宁县 [Fu4 ning4_Xian4] /Funing (county, in Yunnan)/
+阜寧縣 阜宁县 [Fu4 ning4_Xian4] /Funing (county, in Jiangsu)/
+阜平縣 阜平县 [Fu4 ping2_Xian4] /Fuping (county, in Hebei)/
+富平縣 富平县 [Fu4 ping2_Xian4] /Fuping (county, in Shaanxi)/
+浮山縣 浮山县 [Fu2 shan1_Xian4] /Fushan (county, in Shanxi)/
+富順縣 富顺县 [Fu4 shun4_Xian4] /Fushun (county, in Sichuan)/
+撫松縣 抚松县 [Fu3 song1_Xian4] /Fusong (county, in Jilin)/
+扶綏縣 扶绥县 [Fu2 sui2_Xian4] /Fusui (county, in Guangxi)/
+富陽市 富阳市 [Fu4 yang2_Shi4] /Fuyang (city, in Zhejiang)/
+富蘊縣 富蕴县 [Fu4 yun4_Xian4] /Fuyun (county, in Xinjiang)/
+甘德縣 甘德县 [Gan1 de2_Xian4] /Gande (county, in Qinghai)/
+剛察縣 刚察县 [Gang1 cha2_Xian4] /Gangcha (county, in Qinghai)/
+甘谷縣 甘谷县 [Gan1 gu3_Xian4] /Gangu (county, in Gansu)/
+甘井子區 甘井子区 [Gan1 jing3 zi3_Qu1] /Ganjingzi (district, in Liaoning)/
+甘洛縣 甘洛县 [Gan1 luo4_Xian4] /Ganluo (county, in Sichuan)/
+贛榆區 赣榆区 [Gan4 yu2_Qu1] /Ganyu (district, in Jiangsu)/
+甘孜縣 甘孜县 [Gan1 zi1_Xian4] /Ganzi (county, in Sichuan)/
+藁城市 藁城市 [Gao3 cheng2_Shi4] /Gaocheng (city, in Hebei)/
+高淳區 高淳区 [Gao1 chun2_Qu1] /Gaochun (district, in Jiangsu)/
+皋蘭縣 皋兰县 [Gao1 lan2_Xian4] /Gaolan (county, in Gansu)/
+高陽縣 高阳县 [Gao1 yang2_Xian4] /Gaoyang (county, in Hebei)/
+高要市 高要市 [Gao1 yao4_Shi4] /Gaoyao (city, in Guangdong)/
+高邑縣 高邑县 [Gao1 yi4_Xian4] /Gaoyi (county, in Hebei)/
+伽師縣 伽师县 [Ga1 shi1_Xian4] /Jiashi (county, in Xinjiang, also called Peyziwat)/
+耿馬縣 耿马县 [Geng3 ma3_Xian4] /Gengma (county, in Yunnan)/
+弓長嶺區 弓长岭区 [Gong1 chang2 ling3_Qu1] /Gongchangling (district, in Liaoning)/
+恭城縣 恭城县 [Gong1 cheng2_Xian4] /Gongcheng (county, in Guangxi)/
+鞏留縣 巩留县 [Gong3 liu2_Xian4] /Gongliu (county, in Xinjiang)/
+貢山縣 贡山县 [Gong4 shan1_Xian4] /Gongshan (county, in Yunnan)/
+廣昌縣 广昌县 [Guang3 chang1_Xian4] /Guangchang (county, in Jiangxi)/
+廣德縣 广德县 [Guang3 de2_Xian4] /Guangde (county, in Anhui)/
+廣丰縣 广丰县 [Guang3 feng1_Xian4] /Guangfeng (county, in Jiangxi)/
+廣河縣 广河县 [Guang3 he2_Xian4] /Guanghe (county, in Gansu)/
+廣靈縣 广灵县 [Guang3 ling2_Xian4] /Guangling (county, in Shanxi)/
+廣南縣 广南县 [Guang3 nan2_Xian4] /Guangnan (county, in Yunnan)/
+廣寧縣 广宁县 [Guang3 ning4_Xian4] /Guangning (county, in Guangdong)/
+廣平縣 广平县 [Guang3 ping2_Xian4] /Guangping (county, in Hebei)/
+光山縣 光山县 [Guang1 shan1_Xian4] /Guangshan (county, in Henan)/
+廣宗縣 广宗县 [Guang3 zong1_Xian4] /Guangzong (county, in Hebei)/
+關嶺縣 关岭县 [Guan1 ling3_Xian4] /Guanling (county, in Guizhou)/
+灌南縣 灌南县 [Guan4 nan2_Xian4] /Guannan (county, in Jiangsu)/
+館陶縣 馆陶县 [Guan3 tao2_Xian4] /Guantao (county, in Hebei)/
+固安縣 固安县 [Gu4 an1_Xian4] /Gu'an (county, in Hebei)/
+灌陽縣 灌阳县 [Guan4 yang2_Xian4] /Guanyang (county, in Guangxi)/
+灌云縣 灌云县 [Guan4 yun2_Xian4] /Guanyun (county, in Jiangsu)/
+瓜州縣 瓜州县 [Gua1 zhou1_Xian4] /Guazhou (county, in Gansu)/
+谷城縣 谷城县 [Gu3 cheng2_Xian4] /Gucheng (county, in Hubei)/
+貴定縣 贵定县 [Gui4 ding4_Xian4] /Guiding (county, in Guizhou)/
+桂東縣 桂东县 [Gui4 dong1_Xian4] /Guidong (county, in Hunan)/
+貴南縣 贵南县 [Gui4 nan2_Xian4] /Guinan (county, in Qinghai)/
+桂陽縣 桂阳县 [Gui4 yang2_Xian4] /Guiyang (county, in Hunan)/
+古浪縣 古浪县 [Gu3 lang4_Xian4] /Gulang (county, in Gansu)/
+古藺縣 古蔺县 [Gu3 lin4_Xian4] /Gulin (county, in Sichuan)/
+固始縣 固始县 [Gu4 shi3_Xian4] /Gushi (county, in Henan)/
+古塔區 古塔区 [Gu3 ta3_Qu1] /Guta (district, in Liaoning)/
+古田縣 古田县 [Gu3 tian2_Xian4] /Gutian (county, in Fujian)/
+固陽縣 固阳县 [Gu4 yang2_Xian4] /Guyang (county, in Inner Mongolia)/
+沽源縣 沽源县 [Gu1 yuan2_Xian4] /Guyuan (county, in Hebei)/
+古丈縣 古丈县 [Gu3 zhang4_Xian4] /Guzhang (county, in Hunan)/
+固鎮縣 固镇县 [Gu4 zhen4_Xian4] /Guzhen (county, in Anhui)/
+哈巴河縣 哈巴河县 [Ha3 ba1 he2_Xian4] /Habahe (county, in Xinjiang)/
+海安市 海安市 [Hai3 an1_Shi4] /Hai'an (city, in Jiangsu)/
+海丰縣 海丰县 [Hai3 feng1_Xian4] /Haifeng (county, in Guangdong)/
+海興縣 海兴县 [Hai3 xing4_Xian4] /Haixing (county, in Hebei)/
+海晏縣 海晏县 [Hai3 yan4_Xian4] /Haiyan (county, in Qinghai)/
+海州區 海州区 [Hai3 zhou1_Qu1] /Haizhou (district, in Liaoning)/
+漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
+杭錦后旗 杭锦后旗 [Hang2 jin3 hou4_Qi2] /Hanggin Rear (banner, in Inner Mongolia)/Rear, Hanggin (banner, in Inner Mongolia)/
+杭錦旗 杭锦旗 [Hang2 jin3_Qi2] /Hanggin (banner, in Inner Mongolia)/
+含山縣 含山县 [Han2 shan1_Xian4] /Hanshan (county, in Anhui)/
+漢壽縣 汉寿县 [Han4 shou4_Xian4] /Hanshou (county, in Hunan)/
+漢台區 汉台区 [Han4 tai2_Qu1] /Hantai (district, in Shaanxi)/
+漢陰縣 汉阴县 [Han4 yin1_Xian4] /Hanyin (county, in Shaanxi)/
+漢源縣 汉源县 [Han4 yuan2_Xian4] /Hanyuan (county, in Sichuan)/
+和布克賽爾縣 和布克赛尔县 [He2 bu4 ke4 sai4 er3_Xian4] /Hoboksar (Mongol county, in Xinjiang)/
+合川區 合川区 [He2 chuan1_Qu1] /Hechuan (district, in Chongqing)/
+鶴峰縣 鹤峰县 [He4 feng1_Xian4] /Hefeng (county, in Hubei)/
+黑水縣 黑水县 [Hei1 shui3_Xian4] /Heishui (county, in Sichuan)/
+合江縣 合江县 [He2 jiang1_Xian4] /Hejiang (county, in Sichuan)/
+和靜縣 和静县 [He2 jing4_Xian4] /Hejing (county, in Xinjiang)/
+和林格爾縣 和林格尔县 [He2 lin2 ge2 er3_Xian4] /Horinger (county, in Inner Mongolia)/
+衡東縣 衡东县 [Heng2 dong1_Xian4] /Hengdong (county, in Hunan)/
+橫峰縣 横峰县 [Heng2 feng1_Xian4] /Hengfeng (county, in Jiangxi)/
+衡南縣 衡南县 [Heng2 nan2_Xian4] /Hengnan (county, in Hunan)/
+衡山縣 衡山县 [Heng2 shan1_Xian4] /Hengshan (county, in Hunan)/
+橫山縣 横山县 [Heng2 shan1_Xian4] /Hengshan (county, in Shaanxi)/
+合浦縣 合浦县 [He2 pu3_Xian4] /Hepu (county, in Guangxi)/
+鶴慶縣 鹤庆县 [He4 qing4_Xian4] /Heqing (county, in Yunnan)/
+合水縣 合水县 [He2 shui3_Xian4] /Heshui (county, in Gansu)/
+和碩縣 和硕县 [He2 shuo4_Xian4] /Hoxud (county, in Xinjiang)/
+和縣 和县 [He2_Xian4] /He (county, in Anhui)/
+合陽縣 合阳县 [He2 yang2_Xian4] /Heyang (county, in Shaanxi)/
+赫章縣 赫章县 [He4 zhang1_Xian4] /Hezhang (county, in Guizhou)/
+和政縣 和政县 [He2 zheng4_Xian4] /Hezheng (county, in Gansu)/
+紅安縣 红安县 [Hong2 an1_Xian4] /Hong'an (county, in Hubei)/
+洪洞縣 洪洞县 [Hong2 dong4_Xian4] /Hongdong (county, in Shanxi)/
+紅河縣 红河县 [Hong2 he2_Xian4] /Honghe (county, in Yunnan)/
+洪雅縣 洪雅县 [Hong2 ya3_Xian4] /Hongya (county, in Sichuan)/
+紅原縣 红原县 [Hong2 yuan2_Xian4] /Hongyuan (county, in Sichuan)/
+洪澤縣 洪泽县 [Hong2 ze2_Xian4] /Hongze (county, in Jiangsu)/
+華安縣 华安县 [Hua2 an1_Xian4] /Hua'an (county, in Fujian)/
+華池縣 华池县 [Hua2 chi2_Xian4] /Huachi (county, in Gansu)/
+樺川縣 桦川县 [Hua4 chuan1_Xian4] /Huachuan (county, in Heilongjiang)/
+化德縣 化德县 [Hua4 de2_Xian4] /Huade (county, in Inner Mongolia)/
+懷安縣 怀安县 [Huai2 an1_Xian4] /Huai'an (county, in Hebei)/
+淮濱縣 淮滨县 [Huai2 bin1_Xian4] /Huaibin (county, in Henan)/
+懷集縣 怀集县 [Huai2 ji2_Xian4] /Huaiji (county, in Guangdong)/
+懷來縣 怀来县 [Huai2 lai2_Xian4] /Huailai (county, in Hebei)/
+懷寧縣 怀宁县 [Huai2 ning4_Xian4] /Huaining (county, in Anhui)/
+淮陽縣 淮阳县 [Huai2 yang2_Xian4] /Huaiyang (county, in Henan)/
+懷遠縣 怀远县 [Huai2 yuan3_Xian4] /Huaiyuan (county, in Anhui)/
+化隆縣 化隆县 [Hua4 long2_Xian4] /Hualong (county, in Qinghai)/
+樺南縣 桦南县 [Hua4 nan2_Xian4] /Huanan (county, in Heilongjiang)/
+潢川縣 潢川县 [Huang2 chuan1_Xian4] /Huangchuan (county, in Henan)/
+皇姑區 皇姑区 [Huang2 gu1_Qu1] /Huanggu (district, in Liaoning)/
+黃陵縣 黄陵县 [Huang2 ling2_Xian4] /Huangling (county, in Shaanxi)/
+黃龍縣 黄龙县 [Huang2 long2_Xian4] /Huanglong (county, in Shaanxi)/
+黃平縣 黄平县 [Huang2 ping2_Xian4] /Huangping (county, in Guizhou)/
+湟源縣 湟源县 [Huang2 yuan2_Xian4] /Huangyuan (county, in Qinghai)/
+湟中縣 湟中县 [Huang2 zhong1_Xian4] /Huangzhong (county, in Qinghai)/
+華寧縣 华宁县 [Hua2 ning4_Xian4] /Huaning (county, in Yunnan)/
+環江縣 环江县 [Huan2 jiang1_Xian4] /Huanjiang (county, in Guangxi)/
+桓仁縣 桓仁县 [Huan2 ren2_Xian4] /Huanren (county, in Liaoning)/
+華坪縣 华坪县 [Hua2 ping2_Xian4] /Huaping (county, in Yunnan)/
+華容縣 华容县 [Hua2 rong2_Xian4] /Huarong (county, in Hunan)/
+華亭縣 华亭县 [Hua2 ting2_Xian4] /Huating (county, in Gansu)/
+花垣縣 花垣县 [Hua1 yuan2_Xian4] /Huayuan (county, in Hunan)/
+壺關縣 壶关县 [Hu2 guan1_Xian4] /Huguan (county, in Shanxi)/
+惠安縣 惠安县 [Hui4 an1_Xian4] /Hui'an (county, in Fujian)/
+會昌縣 会昌县 [Hui4 chang1_Xian4] /Huichang (county, in Jiangxi)/
+會東縣 会东县 [Hui4 dong1_Xian4] /Huidong (county, in Sichuan)/
+惠東縣 惠东县 [Hui4 dong1_Xian4] /Huidong (county, in Guangdong)/
+惠來縣 惠来县 [Hui4 lai2_Xian4] /Huilai (county, in Guangdong)/
+會理縣 会理县 [Hui4 li3_Xian4] /Huili (county, in Sichuan)/
+輝南縣 辉南县 [Hui1 nan2_Xian4] /Huinan (county, in Jilin)/
+會寧縣 会宁县 [Hui4 ning4_Xian4] /Huining (county, in Gansu)/
+惠水縣 惠水县 [Hui4 shui3_Xian4] /Huishui (county, in Guizhou)/
+會澤縣 会泽县 [Hui4 ze2_Xian4] /Huize (county, in Yunnan)/
+湖口縣 湖口县 [Hu2 kou3_Xian4] /Hukou (county, in Jiangxi)/
+呼瑪縣 呼玛县 [Hu1 ma3_Xian4] /Huma (county, in Heilongjiang)/
+渾源縣 浑源县 [Hun2 yuan2_Xian4] /Hunyuan (county, in Shanxi)/
+霍城縣 霍城县 [Huo4 cheng2_Xian4] /Huocheng (county, in Xinjiang)/
+獲嘉縣 获嘉县 [Huo4 jia1_Xian4] /Huojia (county, in Henan)/
+霍邱縣 霍邱县 [Huo4 qiu1_Xian4] /Huoqiu (county, in Anhui)/
+霍山縣 霍山县 [Huo4 shan1_Xian4] /Huoshan (county, in Anhui)/
+呼圖壁縣 呼图壁县 [Hu1 tu2 bi4_Xian4] /Hutubi (county, in Xinjiang)/
+夾江縣 夹江县 [Jia1 jiang1_Xian4] /Jiajiang (county, in Sichuan)/
+建昌縣 建昌县 [Jian4 chang1_Xian4] /Jianchang (county, in Liaoning)/
+劍川縣 剑川县 [Jian4 chuan1_Xian4] /Jianchuan (county, in Yunnan)/
+江安縣 江安县 [Jiang1 an1_Xian4] /Jiang'an (county, in Sichuan)/
+江城縣 江城县 [Jiang1 cheng2_Xian4] /Jiangcheng (county, in Yunnan)/
+江川縣 江川县 [Jiang1 chuan1_Xian4] /Jiangchuan (county, in Yunnan)/
+江都區 江都区 [Jiang1 du1_Qu1] /Jiangdu (district, in Jiangsu)/
+劍閣縣 剑阁县 [Jian4 ge2_Xian4] /Jiange (county, in Sichuan)/
+江華縣 江华县 [Jiang1 hua2_Xian4] /Jianghua (county, in Hunan)/
+江津區 江津区 [Jiang1 jin1_Qu1] /Jiangjin (district, in Chongqing)/
+將樂縣 将乐县 [Jiang1 le4_Xian4] /Jiangle (county, in Fujian)/
+江陵縣 江陵县 [Jiang1 ling2_Xian4] /Jiangling (county, in Hubei)/
+姜堰區 姜堰区 [Jiang1 yan4_Qu1] /Jiangyan (district, in Jiangsu)/
+江永縣 江永县 [Jiang1 yong3_Xian4] /Jiangyong (county, in Hunan)/
+劍河縣 剑河县 [Jian4 he2_Xian4] /Jianhe (county, in Guizhou)/
+建湖縣 建湖县 [Jian4 hu2_Xian4] /Jianhu (county, in Jiangsu)/
+監利縣 监利县 [Jian1 li4_Xian4] /Jianli (county, in Hubei)/
+建寧縣 建宁县 [Jian4 ning4_Xian4] /Jianning (county, in Fujian)/
+建平縣 建平县 [Jian4 ping2_Xian4] /Jianping (county, in Liaoning)/
+建始縣 建始县 [Jian4 shi3_Xian4] /Jianshi (county, in Hubei)/
+建水縣 建水县 [Jian4 shui3_Xian4] /Jianshui (county, in Yunnan)/
+犍為縣 犍为县 [Jian1 wei4_Xian4] /Jianwei (county, in Sichuan)/
+建陽市 建阳市 [Jian4 yang2_Shi4] /Jianyang (city, in Fujian)/
+尖扎縣 尖扎县 [Jian1 zha1_Xian4] /Jianzha (county, in Qinghai)/
+交城縣 交城县 [Jiao1 cheng2_Xian4] /Jiaocheng (county, in Shanxi)/
+蕉嶺縣 蕉岭县 [Jiao1 ling3_Xian4] /Jiaoling (county, in Guangdong)/
+嘉善縣 嘉善县 [Jia1 shan4_Xian4] /Jiashan (county, in Zhejiang)/
+嘉蔭縣 嘉荫县 [Jia1 yin4_Xian4] /Jiayin (county, in Heilongjiang)/
+雞東縣 鸡东县 [Ji1 dong1_Xian4] /Jidong (county, in Heilongjiang)/
+揭東區 揭东区 [Jie1 dong1_Qu1] /Jiedong (district, in Guangdong)/
+揭西縣 揭西县 [Jie1 xi1_Xian4] /Jiexi (county, in Guangdong)/
+吉木乃縣 吉木乃县 [Ji2 mu4 nai3_Xian4] /Jeminay (county, in Xinjiang)/
+吉木薩爾縣 吉木萨尔县 [Ji2 mu4 sa4 er3_Xian4] /Jimsar (county, in Xinjiang)/
+金川縣 金川县 [Jin1 chuan1_Xian4] /Jinchuan (county, in Sichuan)/
+靖安縣 靖安县 [Jing4 an1_Xian4] /Jing'an (county, in Jiangxi)/
+涇川縣 泾川县 [Jing1 chuan1_Xian4] /Jingchuan (county, in Gansu)/
+旌德縣 旌德县 [Jing1 de2_Xian4] /Jingde (county, in Anhui)/
+景東縣 景东县 [Jing3 dong1_Xian4] /Jingdong (county, in Yunnan)/
+景谷縣 景谷县 [Jing3 gu3_Xian4] /Jinggu (county, in Yunnan)/
+精河縣 精河县 [Jing1 he2_Xian4] /Jinghe (county, in Xinjiang)/
+靜樂縣 静乐县 [Jing4 le4_Xian4] /Jingle (county, in Shanxi)/
+景寧縣 景宁县 [Jing3 ning4_Xian4] /Jingning (county, in Zhejiang)/
+靜寧縣 静宁县 [Jing4 ning4_Xian4] /Jingning (county, in Gansu)/
+京山縣 京山县 [Jing1 shan1_Xian4] /Jingshan (county, in Hubei)/
+景泰縣 景泰县 [Jing3 tai4_Xian4] /Jingtai (county, in Gansu)/
+涇縣 泾县 [Jing1_Xian4] /Jing (county, in Anhui)/
+井陘縣 井陉县 [Jing3 xing2_Xian4] /Jingxing (county, in Hebei)/
+涇陽縣 泾阳县 [Jing1 yang2_Xian4] /Jingyang (county, in Shaanxi)/
+井研縣 井研县 [Jing3 yan2_Xian4] /Jingyan (county, in Sichuan)/
+靖遠縣 靖远县 [Jing4 yuan3_Xian4] /Jingyuan (county, in Gansu)/
+靖宇縣 靖宇县 [Jing4 yu3_Xian4] /Jingyu (county, in Jilin)/
+靖州縣 靖州县 [Jing4 zhou1_Xian4] /Jingzhou (county, in Hunan)/
+金湖縣 金湖县 [Jin1 hu2_Xian4] /Jinhu (county, in Jiangsu)/
+晉寧縣 晋宁县 [Jin4 ning4_Xian4] /Jinning (county, in Yunnan)/
+金平縣 金平县 [Jin1 ping2_Xian4] /Jinping (county, in Yunnan)/
+錦屏縣 锦屏县 [Jin3 ping2_Xian4] /Jinping (county, in Guizhou)/
+金台區 金台区 [Jin1 tai2_Qu1] /Jintai (district, in Shaanxi)/
+金堂縣 金堂县 [Jin1 tang2_Xian4] /Jintang (county, in Sichuan)/
+金塔縣 金塔县 [Jin1 ta3_Xian4] /Jinta (county, in Gansu)/
+金秀縣 金秀县 [Jin1 xiu4_Xian4] /Jinxiu (county, in Guangxi)/
+金溪縣 金溪县 [Jin1 xi1_Xian4] /Jinxi (county, in Jiangxi)/
+金陽縣 金阳县 [Jin1 yang2_Xian4] /Jinyang (county, in Sichuan)/
+縉云縣 缙云县 [Jin4 yun2_Xian4] /Jinyun (county, in Zhejiang)/
+金寨縣 金寨县 [Jin1 zhai4_Xian4] /Jinzhai (county, in Anhui)/
+金州區 金州区 [Jin1 zhou1_Qu1] /Jinzhou (district, in Liaoning)/
+稷山縣 稷山县 [Ji4 shan1_Xian4] /Jishan (county, in Shanxi)/
+積石山縣 积石山县 [Ji1 shi2 shan1_Xian4] /Jishishan (county, in Gansu)/
+吉水縣 吉水县 [Ji2 shui3_Xian4] /Jishui (county, in Jiangxi)/
+九龍坡區 九龙坡区 [Jiu3 long2 po1_Qu1] /Jiulongpo (district, in Chongqing)/
+九台市 九台市 [Jiu3 tai2_Shi4] /Jiutai (city, in Jilin)/
+久治縣 久治县 [Jiu3 zhi4_Xian4] /Jiuzhi (county, in Qinghai)/
+集賢縣 集贤县 [Ji2 xian2_Xian4] /Jixian (county, in Heilongjiang)/
+績溪縣 绩溪县 [Ji4 xi1_Xian4] /Jixi (county, in Anhui)/
+雞澤縣 鸡泽县 [Ji1 ze2_Xian4] /Jize (county, in Hebei)/
+冀州市 冀州市 [Ji4 zhou1_Shi4] /Jizhou (city, in Hebei)/
+巨鹿縣 巨鹿县 [Ju4 lu4_Xian4] /Julu (county, in Hebei)/
+開江縣 开江县 [Kai1 jiang1_Xian4] /Kaijiang (county, in Sichuan)/
+開魯縣 开鲁县 [Kai1 lu3_Xian4] /Kailu (county, in Inner Mongolia)/
+喀喇沁旗 喀喇沁旗 [Ka1 la3 qin4_Qi2] /Harqin (banner, in Inner Mongolia)/
+康保縣 康保县 [Kang1 bao3_Xian4] /Kangbao (county, in Hebei)/
+康平縣 康平县 [Kang1 ping2_Xian4] /Kangping (county, in Liaoning)/
+喀左縣 喀左县 [Ka1 zuo3_Xian4] /Kazuo (county, in Liaoning)/
+克東縣 克东县 [Ke4 dong1_Xian4] /Kedong (county, in Heilongjiang)/
+科爾沁右翼前旗 科尔沁右翼前旗 [Ke1 er3 qin4 you4 yi4 qian2_Qi2] /Horqin Right Front (banner, in Inner Mongolia)/Right Front, Horqin (banner, in Inner Mongolia)/
+科爾沁右翼中旗 科尔沁右翼中旗 [Ke1 er3 qin4 you4 yi4 zhong1_Qi2] /Horqin Right Middle (banner, in Inner Mongolia)/Right Middle, Horqin (banner, in Inner Mongolia)/
+科爾沁左翼后旗 科尔沁左翼后旗 [Ke1 er3 qin4 zuo3 yi4 hou4_Qi2] /Horqin Left Rear (banner, in Inner Mongolia)/Left Rear, Horqin (banner, in Inner Mongolia)/
+科爾沁左翼中旗 科尔沁左翼中旗 [Ke1 er3 qin4 zuo3 yi4 zhong1_Qi2] /Horqin Left Middle (banner, in Inner Mongolia)/Left Middle, Horqin (banner, in Inner Mongolia)/
+岢嵐縣 岢岚县 [Ke3 lan2_Xian4] /Kelan (county, in Shanxi)/
+柯坪縣 柯坪县 [Ke1 ping2_Xian4] /Kalpin (county, in Xinjiang)/
+克山縣 克山县 [Ke4 shan1_Xian4] /Keshan (county, in Heilongjiang)/
+克什克騰旗 克什克腾旗 [Ke4 shi2 ke4 teng2_Qi2] /Heshigten (banner, in Inner Mongolia)/
+寬城縣 宽城县 [Kuan1 cheng2_Xian4] /Kuancheng (county, in Hebei)/
+寬甸縣 宽甸县 [Kuan1 dian4_Xian4] /Kuandian (county, in Liaoning)/
+庫車縣 库车县 [Ku4 che1_Xian4] /Kuqa (county, in Xinjiang)/
+來安縣 来安县 [Lai2 an1_Xian4] /Lai'an (county, in Anhui)/
+來鳳縣 来凤县 [Lai2 feng4_Xian4] /Laifeng (county, in Hubei)/
+淶水縣 涞水县 [Lai2 shui3_Xian4] /Laishui (county, in Hebei)/
+淶源縣 涞源县 [Lai2 yuan2_Xian4] /Laiyuan (county, in Hebei)/
+瀾滄縣 澜沧县 [Lan2 cang1_Xian4] /Lancang (county, in Yunnan)/
+嵐皋縣 岚皋县 [Lan2 gao1_Xian4] /Langao (county, in Shaanxi)/
+郎溪縣 郎溪县 [Lang2 xi1_Xian4] /Langxi (county, in Anhui)/
+蘭考縣 兰考县 [Lan2 kao3_Xian4] /Lankao (county, in Henan)/
+蘭坪縣 兰坪县 [Lan2 ping2_Xian4] /Lanping (county, in Yunnan)/
+藍山縣 蓝山县 [Lan2 shan1_Xian4] /Lanshan (county, in Hunan)/
+藍田縣 蓝田县 [Lan2 tian2_Xian4] /Lantian (county, in Shaanxi)/
+蘭西縣 兰西县 [Lan2 xi1_Xian4] /Lanxi (county, in Heilongjiang)/
+老邊區 老边区 [Lao3 bian1_Qu1] /Laobian (district, in Liaoning)/
+樂安縣 乐安县 [Le4 an1_Xian4] /Le'an (county, in Jiangxi)/
+樂都縣 乐都县 [Le4 du1_Xian4] /Ledu (county, in Qinghai)/
+雷波縣 雷波县 [Lei2 bo1_Xian4] /Leibo (county, in Sichuan)/
+雷山縣 雷山县 [Lei2 shan1_Xian4] /Leishan (county, in Guizhou)/
+冷湖行政區 冷湖行政区 [Leng3 hu2 xing2 zheng4_Qu1] /Lenghuxingzheng (district, in Qinghai)/
+樂至縣 乐至县 [Le4 zhi4_Xian4] /Lezhi (county, in Sichuan)/
+涼城縣 凉城县 [Liang2 cheng2_Xian4] /Liangcheng (county, in Inner Mongolia)/
+兩當縣 两当县 [Liang3 dang1_Xian4] /Liangdang (county, in Gansu)/
+梁河縣 梁河县 [Liang2 he2_Xian4] /Lianghe (county, in Yunnan)/
+梁平縣 梁平县 [Liang2 ping2_Xian4] /Liangping (county, in Chongqing)/
+蓮湖區 莲湖区 [Lian2 hu2_Qu1] /Lianhu (district, in Shaanxi)/
+連江縣 连江县 [Lian2 jiang1_Xian4] /Lianjiang (county, in Fujian)/
+連南縣 连南县 [Lian2 nan2_Xian4] /Liannan (county, in Guangdong)/
+連平縣 连平县 [Lian2 ping2_Xian4] /Lianping (county, in Guangdong)/
+漣水縣 涟水县 [Lian2 shui3_Xian4] /Lianshui (county, in Jiangsu)/
+遼中縣 辽中县 [Liao2 zhong1_Xian4] /Liaozhong (county, in Liaoning)/
+荔波縣 荔波县 [Li4 bo1_Xian4] /Libo (county, in Guizhou)/
+黎城縣 黎城县 [Li2 cheng2_Xian4] /Licheng (county, in Shanxi)/
+黎川縣 黎川县 [Li2 chuan1_Xian4] /Lichuan (county, in Jiangxi)/
+臨安市 临安市 [Lin2 an1_Shi4] /Lin'an (city, in Zhejiang)/
+臨漳縣 临漳县 [Lin2 chan2_Xian4] /Linchan (county, in Hebei)/
+臨城縣 临城县 [Lin2 cheng2_Xian4] /Lincheng (county, in Hebei)/
+林甸縣 林甸县 [Lin2 dian4_Xian4] /Lindian (county, in Heilongjiang)/
+靈璧縣 灵璧县 [Ling2 bi4_Xian4] /Lingbi (county, in Anhui)/
+陵川縣 陵川县 [Ling2 chuan1_Xian4] /Lingchuan (county, in Shanxi)/
+靈川縣 灵川县 [Ling2 chuan1_Xian4] /Lingchuan (county, in Guangxi)/
+凌河區 凌河区 [Ling2 he2_Qu1] /Linghe (district, in Liaoning)/
+靈丘縣 灵丘县 [Ling2 qiu1_Xian4] /Lingqiu (county, in Shanxi)/
+靈石縣 灵石县 [Ling2 shi2_Xian4] /Lingshi (county, in Shanxi)/
+靈壽縣 灵寿县 [Ling2 shou4_Xian4] /Lingshou (county, in Hebei)/
+臨桂縣 临桂县 [Lin2 gui4_Xian4] /Lingui (county, in Guangxi)/
+林口縣 林口县 [Lin2 kou3_Xian4] /Linkou (county, in Heilongjiang)/
+臨澧縣 临澧县 [Lin2 li3_Xian4] /Linli (county, in Hunan)/
+臨泉縣 临泉县 [Lin2 quan2_Xian4] /Linquan (county, in Anhui)/
+鄰水縣 邻水县 [Lin2 shui3_Xian4] /Linshui (county, in Sichuan)/
+臨潭縣 临潭县 [Lin2 tan2_Xian4] /Lintan (county, in Gansu)/
+臨洮縣 临洮县 [Lin2 tao2_Xian4] /Lintao (county, in Gansu)/
+臨潼區 临潼区 [Lin2 tong2_Qu1] /Lintong (district, in Shaanxi)/
+臨渭區 临渭区 [Lin2 wei4_Qu1] /Linwei (district, in Shaanxi)/
+臨武縣 临武县 [Lin2 wu3_Xian4] /Linwu (county, in Hunan)/
+林西縣 林西县 [Lin2 xi1_Xian4] /Linxi (county, in Inner Mongolia)/
+臨西縣 临西县 [Lin2 xi1_Xian4] /Linxi (county, in Hebei)/
+臨潁縣 临颍县 [Lin2 ying3_Xian4] /Linying (county, in Henan)/
+臨猗縣 临猗县 [Lin2 yi1_Xian4] /Linyi (county, in Shanxi)/
+麟游縣 麟游县 [Lin2 you2_Xian4] /Linyou (county, in Shaanxi)/
+臨澤縣 临泽县 [Lin2 ze2_Xian4] /Linze (county, in Gansu)/
+黎平縣 黎平县 [Li2 ping2_Xian4] /Liping (county, in Guizhou)/
+荔浦縣 荔浦县 [Li4 pu3_Xian4] /Lipu (county, in Guangxi)/
+立山區 立山区 [Li4 shan1_Qu1] /Lishan (district, in Liaoning)/
+溧水區 溧水区 [Li4 shui3_Qu1] /Lishui (district, in Jiangsu)/
+理塘縣 理塘县 [Li3 tang2_Xian4] /Litang (county, in Sichuan)/
+留壩縣 留坝县 [Liu2 ba4_Xian4] /Liuba (county, in Shaanxi)/
+柳城縣 柳城县 [Liu3 cheng2_Xian4] /Liucheng (county, in Guangxi)/
+柳河縣 柳河县 [Liu3 he2_Xian4] /Liuhe (county, in Jilin)/
+柳江縣 柳江县 [Liu3 jiang1_Xian4] /Liujiang (county, in Guangxi)/
+柳林縣 柳林县 [Liu3 lin2_Xian4] /Liulin (county, in Shanxi)/
+六枝特區 六枝特区 [Liu4 zhi1 te4_Qu1] /Liuzhite (district, in Guizhou)/
+利辛縣 利辛县 [Li4 xin1_Xian4] /Lixin (county, in Anhui)/
+隆安縣 隆安县 [Long2 an1_Xian4] /Long'an (county, in Guangxi)/
+龍城區 龙城区 [Long2 cheng2_Qu1] /Longcheng (district, in Liaoning)/
+龍川縣 龙川县 [Long2 chuan1_Xian4] /Longchuan (county, in Guangdong)/
+隴川縣 陇川县 [Long3 chuan1_Xian4] /Longchuan (county, in Yunnan)/
+龍港區 龙港区 [Long2 gang3_Qu1] /Longgang (district, in Liaoning)/
+隆化縣 隆化县 [Long2 hua4_Xian4] /Longhua (county, in Hebei)/
+隆回縣 隆回县 [Long2 hui2_Xian4] /Longhui (county, in Hunan)/
+龍江縣 龙江县 [Long2 jiang1_Xian4] /Longjiang (county, in Heilongjiang)/
+龍陵縣 龙陵县 [Long2 ling2_Xian4] /Longling (county, in Yunnan)/
+龍里縣 龙里县 [Long2 li3_Xian4] /Longli (county, in Guizhou)/
+龍南縣 龙南县 [Long2 nan2_Xian4] /Longnan (county, in Jiangxi)/
+龍山縣 龙山县 [Long2 shan1_Xian4] /Longshan (county, in Hunan)/
+龍勝縣 龙胜县 [Long2 sheng4_Xian4] /Longsheng (county, in Guangxi)/
+隴西縣 陇西县 [Long3 xi1_Xian4] /Longxi (county, in Gansu)/
+隆堯縣 隆尧县 [Long2 yao2_Xian4] /Longyao (county, in Hebei)/
+龍游縣 龙游县 [Long2 you2_Xian4] /Longyou (county, in Zhejiang)/
+龍州縣 龙州县 [Long2 zhou1_Xian4] /Longzhou (county, in Guangxi)/
+婁煩縣 娄烦县 [Lou2 fan2_Xian4] /Loufan (county, in Shanxi)/
+欒川縣 栾川县 [Luan2 chuan1_Xian4] /Luanchuan (county, in Henan)/
+灤南縣 滦南县 [Luan2 nan2_Xian4] /Luannan (county, in Hebei)/
+灤平縣 滦平县 [Luan2 ping2_Xian4] /Luanping (county, in Hebei)/
+陸川縣 陆川县 [Lu4 chuan1_Xian4] /Luchuan (county, in Guangxi)/
+綠春縣 绿春县 [Lu:4 chun1_Xian4] /Luchun (county, in Yunnan)/
+魯甸縣 鲁甸县 [Lu3 dian4_Xian4] /Ludian (county, in Yunnan)/
+瀘定縣 泸定县 [Lu2 ding4_Xian4] /Luding (county, in Sichuan)/
+略陽縣 略阳县 [Lu:e4 yang2_Xian4] /Lueyang (county, in Shaanxi)/
+祿丰縣 禄丰县 [Lu4 feng1_Xian4] /Lufeng (county, in Yunnan)/
+陸河縣 陆河县 [Lu4 he2_Xian4] /Luhe (county, in Guangdong)/
+爐霍縣 炉霍县 [Lu2 huo4_Xian4] /Luhuo (county, in Sichuan)/
+廬江縣 庐江县 [Lu2 jiang1_Xian4] /Lujiang (county, in Anhui)/
+陸良縣 陆良县 [Lu4 liang2_Xian4] /Luliang (county, in Yunnan)/
+盧龍縣 卢龙县 [Lu2 long2_Xian4] /Lulong (county, in Hebei)/
+輪台縣 轮台县 [Lun2 tai2_Xian4] /Luntai (county, in Xinjiang)/
+蘿北縣 萝北县 [Luo2 bei3_Xian4] /Luobei (county, in Heilongjiang)/
+羅城縣 罗城县 [Luo2 cheng2_Xian4] /Luocheng (county, in Guangxi)/
+洛川縣 洛川县 [Luo4 chuan1_Xian4] /Luochuan (county, in Shaanxi)/
+羅甸縣 罗甸县 [Luo2 dian4_Xian4] /Luodian (county, in Guizhou)/
+羅江縣 罗江县 [Luo2 jiang1_Xian4] /Luojiang (county, in Sichuan)/
+洛南縣 洛南县 [Luo4 nan2_Xian4] /Luonan (county, in Shaanxi)/
+洛寧縣 洛宁县 [Luo4 ning4_Xian4] /Luoning (county, in Henan)/
+洛浦縣 洛浦县 [Luo4 pu3_Xian4] /Lop (county, in Xinjiang)/
+羅山縣 罗山县 [Luo2 shan1_Xian4] /Luoshan (county, in Henan)/
+羅田縣 罗田县 [Luo2 tian2_Xian4] /Luotian (county, in Hubei)/
+羅源縣 罗源县 [Luo2 yuan2_Xian4] /Luoyuan (county, in Fujian)/
+鹿泉市 鹿泉市 [Lu4 quan2_Shi4] /Luquan (city, in Hebei)/
+祿勸縣 禄劝县 [Lu4 quan4_Xian4] /Luquan (county, in Yunnan)/
+碌曲縣 碌曲县 [Lu4 qu1_Xian4] /Luqu (county, in Gansu)/
+蘆山縣 芦山县 [Lu2 shan1_Xian4] /Lushan (county, in Sichuan)/
+魯山縣 鲁山县 [Lu3 shan1_Xian4] /Lushan (county, in Henan)/
+盧氏縣 卢氏县 [Lu2 shi4_Xian4] /Lushi (county, in Henan)/
+旅順口區 旅顺口区 [Lu:3 shun4 kou3_Qu1] /Lushunkou (district, in Liaoning)/
+瀘西縣 泸西县 [Lu2 xi1_Xian4] /Luxi (county, in Yunnan)/
+蘆溪縣 芦溪县 [Lu2 xi1_Xian4] /Luxi (county, in Jiangxi)/
+瀘溪縣 泸溪县 [Lu2 xi1_Xian4] /Luxi (county, in Hunan)/
+鹿邑縣 鹿邑县 [Lu4 yi4_Xian4] /Luyi (county, in Henan)/
+馬邊縣 马边县 [Ma3 bian1_Xian4] /Mabian (county, in Sichuan)/
+瑪多縣 玛多县 [Ma3 duo1_Xian4] /Maduo (county, in Qinghai)/
+麥蓋提縣 麦盖提县 [Mai4 gai4 ti2_Xian4] /Makit (county, in Xinjiang)/
+麻江縣 麻江县 [Ma2 jiang1_Xian4] /Majiang (county, in Guizhou)/
+麻栗坡縣 麻栗坡县 [Ma2 li4 po1_Xian4] /Malipo (county, in Yunnan)/
+瑪納斯縣 玛纳斯县 [Ma3 na4 si1_Xian4] /Manas (county, in Xinjiang)/
+滿城縣 满城县 [Man3 cheng2_Xian4] /Mancheng (county, in Hebei)/
+茫崖行政區 茫崖行政区 [Mang2 ya2 xing2 zheng4_Qu1] /Mangyaxingzheng (district, in Qinghai)/
+瑪沁縣 玛沁县 [Ma3 qin4_Xian4] /Maqin (county, in Qinghai)/
+瑪曲縣 玛曲县 [Ma3 qu1_Xian4] /Maqu (county, in Gansu)/
+馬山縣 马山县 [Ma3 shan1_Xian4] /Mashan (county, in Guangxi)/
+麻陽縣 麻阳县 [Ma2 yang2_Xian4] /Mayang (county, in Hunan)/
+美姑縣 美姑县 [Mei3 gu1_Xian4] /Meigu (county, in Sichuan)/
+湄潭縣 湄潭县 [Mei2 tan2_Xian4] /Meitan (county, in Guizhou)/
+梅縣區 梅县区 [Mei2 xian4_Qu1] /Meixian (district, in Guangdong)/
+蒙城縣 蒙城县 [Meng2 cheng2_Xian4] /Mengcheng (county, in Anhui)/
+孟村縣 孟村县 [Meng4 cun1_Xian4] /Mengcun (county, in Hebei)/
+勐海縣 勐海县 [Meng3 hai3_Xian4] /Menghai (county, in Yunnan)/
+孟津縣 孟津县 [Meng4 jin1_Xian4] /Mengjin (county, in Henan)/
+勐臘縣 勐腊县 [Meng3 la4_Xian4] /Mengla (county, in Yunnan)/
+孟連縣 孟连县 [Meng4 lian2_Xian4] /Menglian (county, in Yunnan)/
+蒙山縣 蒙山县 [Meng2 shan1_Xian4] /Mengshan (county, in Guangxi)/
+門源縣 门源县 [Men2 yuan2_Xian4] /Menyuan (county, in Qinghai)/
+澠池縣 渑池县 [Mian3 chi2_Xian4] /Mianchi (county, in Henan)/
+冕寧縣 冕宁县 [Mian3 ning4_Xian4] /Mianning (county, in Sichuan)/
+彌渡縣 弥渡县 [Mi2 du4_Xian4] /Midu (county, in Yunnan)/
+民丰縣 民丰县 [Min2 feng1_Xian4] /Minfeng (county, in Xinjiang)/
+明山區 明山区 [Ming2 shan1_Qu1] /Mingshan (district, in Liaoning)/
+明水縣 明水县 [Ming2 shui3_Xian4] /Mingshui (county, in Heilongjiang)/
+明溪縣 明溪县 [Ming2 xi1_Xian4] /Mingxi (county, in Fujian)/
+民和縣 民和县 [Min2 he2_Xian4] /Minhe (county, in Qinghai)/
+閩侯縣 闽侯县 [Min3 hou2_Xian4] /Minhou (county, in Fujian)/
+閩清縣 闽清县 [Min3 qing1_Xian4] /Minqing (county, in Fujian)/
+民勤縣 民勤县 [Min2 qin2_Xian4] /Minqin (county, in Gansu)/
+泌陽縣 泌阳县 [Mi4 yang2_Xian4] /Miyang (county, in Henan)/
+米易縣 米易县 [Mi3 yi4_Xian4] /Miyi (county, in Sichuan)/
+米脂縣 米脂县 [Mi3 zhi1_Xian4] /Mizhi (county, in Shaanxi)/
+漠河縣 漠河县 [Mo4 he2_Xian4] /Mohe (county, in Heilongjiang)/
+墨江縣 墨江县 [Mo4 jiang1_Xian4] /Mojiang (county, in Yunnan)/
+莫力達瓦達斡爾族自治旗 莫力达瓦达斡尔族自治旗 [Mo4 li4 da2 wa3 da2 wo4 er3 zu2_Zi4 zhi4_Qi2] /Morin Dawa Daur Autonomous Banner (in Inner Mongolia)/Dawa Daur Autonomous Banner, Morin (in Inner Mongolia)/
+牟定縣 牟定县 [Mou2 ding4_Xian4] /Mouding (county, in Yunnan)/
+墨玉縣 墨玉县 [Mo4 yu4_Xian4] /Qaraqash (county, in Xinjiang)/
+沐川縣 沐川县 [Mu4 chuan1_Xian4] /Muchuan (county, in Sichuan)/
+木壘縣 木垒县 [Mu4 lei3_Xian4] /Mori (Kazakh county, in Xinjiang)/
+木里縣 木里县 [Mu4 li3_Xian4] /Muli (county, in Sichuan)/
+奈曼旗 奈曼旗 [Nai4 man4_Qi2] /Naiman (banner, in Inner Mongolia)/
+南澳縣 南澳县 [Nan2 ao4_Xian4] /Nan'ao (county, in Guangdong)/
+南漳縣 南漳县 [Nan2 chan2_Xian4] /Nanchan (county, in Hubei)/
+南城縣 南城县 [Nan2 cheng2_Xian4] /Nancheng (county, in Jiangxi)/
+南川區 南川区 [Nan2 chuan1_Qu1] /Nanchuan (district, in Chongqing)/
+南丹縣 南丹县 [Nan2 dan1_Xian4] /Nandan (county, in Guangxi)/
+南丰縣 南丰县 [Nan2 feng1_Xian4] /Nanfeng (county, in Jiangxi)/
+南芬區 南芬区 [Nan2 fen1_Qu1] /Nanfen (district, in Liaoning)/
+囊謙縣 囊谦县 [Nang2 qian1_Xian4] /Nangqian (county, in Qinghai)/
+南和縣 南和县 [Nan2 he2_Xian4] /Nanhe (county, in Hebei)/
+南華縣 南华县 [Nan2 hua2_Xian4] /Nanhua (county, in Yunnan)/
+南江縣 南江县 [Nan2 jiang1_Xian4] /Nanjiang (county, in Sichuan)/
+南澗縣 南涧县 [Nan2 jian4_Xian4] /Nanjian (county, in Yunnan)/
+南靖縣 南靖县 [Nan2 jing4_Xian4] /Nanjing (county, in Fujian)/
+南康市 南康市 [Nan2 kang1_Shi4] /Nankang (city, in Jiangxi)/
+南陵縣 南陵县 [Nan2 ling2_Xian4] /Nanling (county, in Anhui)/
+南票區 南票区 [Nan2 piao4_Qu1] /Nanpiao (district, in Liaoning)/
+南皮縣 南皮县 [Nan2 pi2_Xian4] /Nanpi (county, in Hebei)/
+南溪縣 南溪县 [Nan2 xi1_Xian4] /Nanxi (county, in Sichuan)/
+南召縣 南召县 [Nan2 zhao4_Xian4] /Nanzhao (county, in Henan)/
+南鄭縣 南郑县 [Nan2 zheng4_Xian4] /Nanzheng (county, in Shaanxi)/
+那坡縣 那坡县 [Na4 po1_Xian4] /Napo (county, in Guangxi)/
+納雍縣 纳雍县 [Na4 yong1_Xian4] /Nayong (county, in Guizhou)/
+內黃縣 内黄县 [Nei4 huang2_Xian4] /Neihuang (county, in Henan)/
+內丘縣 内丘县 [Nei4 qiu1_Xian4] /Neiqiu (county, in Hebei)/
+內鄉縣 内乡县 [Nei4 xiang1_Xian4] /Neixiang (county, in Henan)/
+嫩江縣 嫩江县 [Nen4 jiang1_Xian4] /Nenjiang (county, in Heilongjiang)/
+尼勒克縣 尼勒克县 [Ni2 le4 ke4_Xian4] /Nilka (county, in Xinjiang)/
+寧城縣 宁城县 [Ning4 cheng2_Xian4] /Ningcheng (county, in Inner Mongolia)/
+寧都縣 宁都县 [Ning4 du1_Xian4] /Ningdu (county, in Jiangxi)/
+寧洱縣 宁洱县 [Ning4 er3_Xian4] /Ning'er (county, in Yunnan)/
+寧海縣 宁海县 [Ning4 hai3_Xian4] /Ninghai (county, in Zhejiang)/
+寧化縣 宁化县 [Ning4 hua4_Xian4] /Ninghua (county, in Fujian)/
+寧晉縣 宁晋县 [Ning4 jin4_Xian4] /Ningjin (county, in Hebei)/
+寧蒗縣 宁蒗县 [Ning4 lang4_Xian4] /Ninglang (county, in Yunnan)/
+寧陵縣 宁陵县 [Ning4 ling2_Xian4] /Ningling (county, in Henan)/
+寧明縣 宁明县 [Ning4 ming2_Xian4] /Ningming (county, in Guangxi)/
+寧南縣 宁南县 [Ning4 nan2_Xian4] /Ningnan (county, in Sichuan)/
+寧強縣 宁强县 [Ning4 qiang2_Xian4] /Ningqiang (county, in Shaanxi)/
+寧陝縣 宁陕县 [Ning4 shan3_Xian4] /Ningshan (county, in Shaanxi)/
+寧武縣 宁武县 [Ning4 wu3_Xian4] /Ningwu (county, in Shanxi)/
+寧遠縣 宁远县 [Ning4 yuan3_Xian4] /Ningyuan (county, in Hunan)/
+農安縣 农安县 [Nong2 an1_Xian4] /Nong'an (county, in Jilin)/
+磐安縣 磐安县 [Pan2 an1_Xian4] /Pan'an (county, in Zhejiang)/
+蓬安縣 蓬安县 [Peng2 an1_Xian4] /Peng'an (county, in Sichuan)/
+彭山縣 彭山县 [Peng2 shan1_Xian4] /Pengshan (county, in Sichuan)/
+彭水縣 彭水县 [Peng2 shui3_Xian4] /Pengshui (county, in Chongqing)/
+蓬溪縣 蓬溪县 [Peng2 xi1_Xian4] /Pengxi (county, in Sichuan)/
+彭澤縣 彭泽县 [Peng2 ze2_Xian4] /Pengze (county, in Jiangxi)/
+偏關縣 偏关县 [Pian1 guan1_Xian4] /Pianguan (county, in Shanxi)/
+平壩縣 平坝县 [Ping2 ba4_Xian4] /Pingba (county, in Guizhou)/
+屏邊縣 屏边县 [Ping2 bian1_Xian4] /Pingbian (county, in Yunnan)/
+平果縣 平果县 [Ping2 guo3_Xian4] /Pingguo (county, in Guangxi)/
+平江縣 平江县 [Ping2 jiang1_Xian4] /Pingjiang (county, in Hunan)/
+平樂縣 平乐县 [Ping2 le4_Xian4] /Pingle (county, in Guangxi)/
+平利縣 平利县 [Ping2 li4_Xian4] /Pingli (county, in Shaanxi)/
+平陸縣 平陆县 [Ping2 lu4_Xian4] /Pinglu (county, in Shanxi)/
+平南縣 平南县 [Ping2 nan2_Xian4] /Pingnan (county, in Guangxi)/
+屏南縣 屏南县 [Ping2 nan2_Xian4] /Pingnan (county, in Fujian)/
+平山區 平山区 [Ping2 shan1_Qu1] /Pingshan (district, in Liaoning)/
+屏山縣 屏山县 [Ping2 shan1_Xian4] /Pingshan (county, in Sichuan)/
+平山縣 平山县 [Ping2 shan1_Xian4] /Pingshan (county, in Hebei)/
+平塘縣 平塘县 [Ping2 tang2_Xian4] /Pingtang (county, in Guizhou)/
+平潭縣 平潭县 [Ping2 tan2_Xian4] /Pingtan (county, in Fujian)/
+平武縣 平武县 [Ping2 wu3_Xian4] /Pingwu (county, in Sichuan)/
+平鄉縣 平乡县 [Ping2 xiang1_Xian4] /Pingxiang (county, in Hebei)/
+平陽縣 平阳县 [Ping2 yang2_Xian4] /Pingyang (county, in Zhejiang)/
+平遙縣 平遥县 [Ping2 yao2_Xian4] /Pingyao (county, in Shanxi)/
+平遠縣 平远县 [Ping2 yuan3_Xian4] /Pingyuan (county, in Guangdong)/
+平輿縣 平舆县 [Ping2 yu2_Xian4] /Pingyu (county, in Henan)/
+皮山縣 皮山县 [Pi2 shan1_Xian4] /Pishan (county, in Xinjiang)/
+鄱陽縣 鄱阳县 [Po2 yang2_Xian4] /Poyang (county, in Jiangxi)/
+普安縣 普安县 [Pu3 an1_Xian4] /Pu'an (county, in Guizhou)/
+浦北縣 浦北县 [Pu3 bei3_Xian4] /Pubei (county, in Guangxi)/
+蒲城縣 蒲城县 [Pu2 cheng2_Xian4] /Pucheng (county, in Shaanxi)/
+浦城縣 浦城县 [Pu3 cheng2_Xian4] /Pucheng (county, in Fujian)/
+普定縣 普定县 [Pu3 ding4_Xian4] /Puding (county, in Guizhou)/
+普格縣 普格县 [Pu3 ge2_Xian4] /Puge (county, in Sichuan)/
+蒲江縣 蒲江县 [Pu2 jiang1_Xian4] /Pujiang (county, in Sichuan)/
+普蘭店市 普兰店市 [Pu3 lan2 dian4_Shi4] /Pulandian (city, in Liaoning)/
+乾安縣 乾安县 [Qian2 an1_Xian4] /Qian'an (county, in Jilin)/
+前郭縣 前郭县 [Qian2 guo1_Xian4] /Qian Gorlos (county, in Jilin)/Gorlos, Qian (county, in Jilin)/
+黔江區 黔江区 [Qian2 jiang1_Qu1] /Qianjiang (district, in Chongqing)/
+千山區 千山区 [Qian1 shan1_Qu1] /Qianshan (district, in Liaoning)/
+鉛山縣 铅山县 [Qian1 shan1_Xian4] /Qianshan (county, in Jiangxi)/
+潛山縣 潜山县 [Qian2 shan1_Xian4] /Qianshan (county, in Anhui)/
+遷西縣 迁西县 [Qian1 xi1_Xian4] /Qianxi (county, in Hebei)/
+黔西縣 黔西县 [Qian2 xi1_Xian4] /Qianxi (county, in Guizhou)/
+千陽縣 千阳县 [Qian1 yang2_Xian4] /Qianyang (county, in Shaanxi)/
+巧家縣 巧家县 [Qiao3 jia1_Xian4] /Qiaojia (county, in Yunnan)/
+蘄春縣 蕲春县 [Qi2 chun1_Xian4] /Qichun (county, in Hubei)/
+祁東縣 祁东县 [Qi2 dong1_Xian4] /Qidong (county, in Hunan)/
+且末縣 且末县 [Qie3 mo4_Xian4] /Qiemo (county, in Xinjiang)/
+祁連縣 祁连县 [Qi2 lian2_Xian4] /Qilian (county, in Qinghai)/
+祁門縣 祁门县 [Qi2 men2_Xian4] /Qimen (county, in Anhui)/
+秦安縣 秦安县 [Qin2 an1_Xian4] /Qin'an (county, in Gansu)/
+秦都區 秦都区 [Qin2 du1_Qu1] /Qindu (district, in Shaanxi)/
+慶安縣 庆安县 [Qing4 an1_Xian4] /Qing'an (county, in Heilongjiang)/
+慶城縣 庆城县 [Qing4 cheng2_Xian4] /Qingcheng (county, in Gansu)/
+青川縣 青川县 [Qing1 chuan1_Xian4] /Qingchuan (county, in Sichuan)/
+清丰縣 清丰县 [Qing1 feng1_Xian4] /Qingfeng (county, in Henan)/
+清河門區 清河门区 [Qing1 he2 men2_Qu1] /Qinghemen (district, in Liaoning)/
+清河區 清河区 [Qing1 he2_Qu1] /Qinghe (district, in Liaoning)/
+青河縣 青河县 [Qing1 he2_Xian4] /Qinghe (county, in Xinjiang)/
+清河縣 清河县 [Qing1 he2_Xian4] /Qinghe (county, in Hebei)/
+清澗縣 清涧县 [Qing1 jian4_Xian4] /Qingjian (county, in Shaanxi)/
+晴隆縣 晴隆县 [Qing2 long2_Xian4] /Qinglong (county, in Guizhou)/
+青神縣 青神县 [Qing1 shen2_Xian4] /Qingshen (county, in Sichuan)/
+清水河縣 清水河县 [Qing1 shui3 he2_Xian4] /Qingshuihe (county, in Inner Mongolia)/
+清徐縣 清徐县 [Qing1 xu2_Xian4] /Qingxu (county, in Shanxi)/
+清苑縣 清苑县 [Qing1 yuan4_Xian4] /Qingyuan (county, in Hebei)/
+慶元縣 庆元县 [Qing4 yuan2_Xian4] /Qingyuan (county, in Zhejiang)/
+沁水縣 沁水县 [Qin4 shui3_Xian4] /Qinshui (county, in Shanxi)/
+沁源縣 沁源县 [Qin4 yuan2_Xian4] /Qinyuan (county, in Shanxi)/
+岐山縣 岐山县 [Qi2 shan1_Xian4] /Qishan (county, in Shaanxi)/
+奇台縣 奇台县 [Qi2 tai2_Xian4] /Qitai (county, in Xinjiang)/
+丘北縣 丘北县 [Qiu1 bei3_Xian4] /Qiubei (county, in Yunnan)/
+祁陽縣 祁阳县 [Qi2 yang2_Xian4] /Qiyang (county, in Hunan)/
+全椒縣 全椒县 [Quan2 jiao1_Xian4] /Quanjiao (county, in Anhui)/
+全南縣 全南县 [Quan2 nan2_Xian4] /Quannan (county, in Jiangxi)/
+全州縣 全州县 [Quan2 zhou1_Xian4] /Quanzhou (county, in Guangxi)/
+確山縣 确山县 [Que4 shan1_Xian4] /Queshan (county, in Henan)/
+曲麻萊縣 曲麻莱县 [Qu1 ma2 lai2_Xian4] /Qumalai (county, in Qinghai)/
+曲沃縣 曲沃县 [Qu1 wo4_Xian4] /Quwo (county, in Shanxi)/
+曲陽縣 曲阳县 [Qu1 yang2_Xian4] /Quyang (county, in Hebei)/
+曲周縣 曲周县 [Qu1 zhou1_Xian4] /Quzhou (county, in Hebei)/
+壤塘縣 壤塘县 [Rang3 tang2_Xian4] /Rangtang (county, in Sichuan)/
+饒河縣 饶河县 [Rao2 he2_Xian4] /Raohe (county, in Heilongjiang)/
+饒平縣 饶平县 [Rao2 ping2_Xian4] /Raoping (county, in Guangdong)/
+饒陽縣 饶阳县 [Rao2 yang2_Xian4] /Raoyang (county, in Hebei)/
+仁化縣 仁化县 [Ren2 hua4_Xian4] /Renhua (county, in Guangdong)/
+融安縣 融安县 [Rong2 an1_Xian4] /Rong'an (county, in Guangxi)/
+榮昌縣 荣昌县 [Rong2 chang1_Xian4] /Rongchang (county, in Chongqing)/
+容城縣 容城县 [Rong2 cheng2_Xian4] /Rongcheng (county, in Hebei)/
+榕江縣 榕江县 [Rong2 jiang1_Xian4] /Rongjiang (county, in Guizhou)/
+汝城縣 汝城县 [Ru3 cheng2_Xian4] /Rucheng (county, in Hunan)/
+如東縣 如东县 [Ru2 dong1_Xian4] /Rudong (county, in Jiangsu)/
+芮城縣 芮城县 [Rui4 cheng2_Xian4] /Ruicheng (county, in Shanxi)/
+汝南縣 汝南县 [Ru3 nan2_Xian4] /Runan (county, in Henan)/
+若爾蓋縣 若尔盖县 [Ruo4 er3 gai4_Xian4] /Ruo'ergai (county, in Sichuan)/
+若羌縣 若羌县 [Ruo4 qiang1_Xian4] /Ruoqiang (county, in Xinjiang)/
+汝陽縣 汝阳县 [Ru3 yang2_Xian4] /Ruyang (county, in Henan)/
+乳源縣 乳源县 [Ru3 yuan2_Xian4] /Ruyuan (county, in Guangdong)/
+三都縣 三都县 [San1 du1_Xian4] /Sandu (county, in Guizhou)/
+桑植縣 桑植县 [Sang1 zhi2_Xian4] /Sangzhi (county, in Hunan)/
+三江縣 三江县 [San1 jiang1_Xian4] /Sanjiang (county, in Guangxi)/
+三門縣 三门县 [San1 men2_Xian4] /Sanmen (county, in Zhejiang)/
+三穗縣 三穗县 [San1 sui4_Xian4] /Sansui (county, in Guizhou)/
+三台縣 三台县 [San1 tai2_Xian4] /Santai (county, in Sichuan)/
+三原縣 三原县 [San1 yuan2_Xian4] /Sanyuan (county, in Shaanxi)/
+色達縣 色达县 [Se4 da2_Xian4] /Seda (county, in Sichuan)/
+莎車縣 莎车县 [Sha1 che1_Xian4] /Yarkant (county, in Xinjiang)/
+沙河口區 沙河口区 [Sha1 he2 kou3_Qu1] /Shahekou (district, in Liaoning)/
+上蔡縣 上蔡县 [Shang4 cai4_Xian4] /Shangcai (county, in Henan)/
+商都縣 商都县 [Shang1 du1_Xian4] /Shangdu (county, in Inner Mongolia)/
+上高縣 上高县 [Shang4 gao1_Xian4] /Shanggao (county, in Jiangxi)/
+上杭縣 上杭县 [Shang4 hang2_Xian4] /Shanghang (county, in Fujian)/
+上林縣 上林县 [Shang4 lin2_Xian4] /Shanglin (county, in Guangxi)/
+上栗縣 上栗县 [Shang4 li4_Xian4] /Shangli (county, in Jiangxi)/
+商南縣 商南县 [Shang1 nan2_Xian4] /Shangnan (county, in Shaanxi)/
+商水縣 商水县 [Shang1 shui3_Xian4] /Shangshui (county, in Henan)/
+上思縣 上思县 [Shang4 si1_Xian4] /Shangsi (county, in Guangxi)/
+上猶縣 上犹县 [Shang4 you2_Xian4] /Shangyou (county, in Jiangxi)/
+上虞市 上虞市 [Shang4 yu2_Shi4] /Shangyu (city, in Zhejiang)/
+商州區 商州区 [Shang1 zhou1_Qu1] /Shangzhou (district, in Shaanxi)/
+鄯善縣 鄯善县 [Shan4 shan4_Xian4] /Shanshan (county, in Xinjiang)/
+邵東縣 邵东县 [Shao4 dong1_Xian4] /Shaodong (county, in Hunan)/
+沙坪壩區 沙坪坝区 [Sha1 ping2 ba4_Qu1] /Shapingba (district, in Chongqing)/
+沙灣縣 沙湾县 [Sha1 wan1_Xian4] /Shawan (county, in Xinjiang)/
+沙洋縣 沙洋县 [Sha1 yang2_Xian4] /Shayang (county, in Hubei)/
+沙雅縣 沙雅县 [Sha1 ya3_Xian4] /Xayar (county, in Xinjiang)/
+射洪縣 射洪县 [She4 hong2_Xian4] /Shehong (county, in Sichuan)/
+沈北新區 沈北新区 [Shen3 bei3 xin1_Qu1] /Shenbeixin (district, in Liaoning)/
+神池縣 神池县 [Shen2 chi2_Xian4] /Shenchi (county, in Shanxi)/
+嵊泗縣 嵊泗县 [Sheng4 si4_Xian4] /Shengsi (county, in Zhejiang)/
+沈河區 沈河区 [Shen3 he2_Qu1] /Shenhe (district, in Liaoning)/
+神農架林區 神农架林区 [Shen2 nong2 jia4 lin2_Qu1] /Shennongjialin (district, in Hubei)/
+沈丘縣 沈丘县 [Shen3 qiu1_Xian4] /Shenqiu (county, in Henan)/
+沈陽鐵西區 沈阳铁西区 [Shen3 yang2 tie3 xi1_Qu1] /Shenyangtiexi (district, in Liaoning)/
+深澤縣 深泽县 [Shen1 ze2_Xian4] /Shenze (county, in Hebei)/
+社旗縣 社旗县 [She4 qi2_Xian4] /Sheqi (county, in Henan)/
+射陽縣 射阳县 [She4 yang2_Xian4] /Sheyang (county, in Jiangsu)/
+施秉縣 施秉县 [Shi1 bing3_Xian4] /Shibing (county, in Guizhou)/
+石城縣 石城县 [Shi2 cheng2_Xian4] /Shicheng (county, in Jiangxi)/
+施甸縣 施甸县 [Shi1 dian4_Xian4] /Shidian (county, in Yunnan)/
+石樓縣 石楼县 [Shi2 lou2_Xian4] /Shilou (county, in Shanxi)/
+石屏縣 石屏县 [Shi2 ping2_Xian4] /Shiping (county, in Yunnan)/
+石阡縣 石阡县 [Shi2 qian1_Xian4] /Shiqian (county, in Guizhou)/
+石泉縣 石泉县 [Shi2 quan2_Xian4] /Shiquan (county, in Shaanxi)/
+石渠縣 石渠县 [Shi2 qu2_Xian4] /Shiqu (county, in Sichuan)/
+始興縣 始兴县 [Shi3 xing4_Xian4] /Shixing (county, in Guangdong)/
+師宗縣 师宗县 [Shi1 zong1_Xian4] /Shizong (county, in Yunnan)/
+壽寧縣 寿宁县 [Shou4 ning4_Xian4] /Shouning (county, in Fujian)/
+壽縣 寿县 [Shou4_Xian4] /Shou (county, in Anhui)/
+壽陽縣 寿阳县 [Shou4 yang2_Xian4] /Shouyang (county, in Shanxi)/
+雙柏縣 双柏县 [Shuang1 bo2_Xian4] /Shuangbo (county, in Yunnan)/
+雙江縣 双江县 [Shuang1 jiang1_Xian4] /Shuangjiang (county, in Yunnan)/
+雙牌縣 双牌县 [Shuang1 pai2_Xian4] /Shuangpai (county, in Hunan)/
+雙橋區 双桥区 [Shuang1 qiao2_Qu1] /Shuangqiao (district, in Chongqing)/
+雙台子區 双台子区 [Shuang1 tai2 zi5_Qu1] /Shuangtaizi (district, in Liaoning)/
+雙塔區 双塔区 [Shuang1 ta3_Qu1] /Shuangta (district, in Liaoning)/
+舒城縣 舒城县 [Shu1 cheng2_Xian4] /Shucheng (county, in Anhui)/
+疏附縣 疏附县 [Shu1 fu4_Xian4] /Shufu (county, in Xinjiang)/
+水富縣 水富县 [Shui3 fu4_Xian4] /Shuifu (county, in Yunnan)/
+疏勒縣 疏勒县 [Shu1 le4_Xian4] /Shule (county, in Xinjiang)/
+順昌縣 顺昌县 [Shun4 chang1_Xian4] /Shunchang (county, in Fujian)/
+順城區 顺城区 [Shun4 cheng2_Qu1] /Shuncheng (district, in Liaoning)/
+順平縣 顺平县 [Shun4 ping2_Xian4] /Shunping (county, in Hebei)/
+沭陽縣 沭阳县 [Shu4 yang2_Xian4] /Shuyang (county, in Jiangsu)/
+泗洪縣 泗洪县 [Si4 hong2_Xian4] /Sihong (county, in Jiangsu)/
+思南縣 思南县 [Si1 nan2_Xian4] /Sinan (county, in Guizhou)/
+泗縣 泗县 [Si4_Xian4] /Si (county, in Anhui)/
+泗陽縣 泗阳县 [Si4 yang2_Xian4] /Siyang (county, in Jiangsu)/
+四子王旗 四子王旗 [Si4 zi3 wang2_Qi2] /Siziwang (banner, in Inner Mongolia)/
+嵩明縣 嵩明县 [Song1 ming2_Xian4] /Songming (county, in Yunnan)/
+松潘縣 松潘县 [Song1 pan1_Xian4] /Songpan (county, in Sichuan)/
+松桃縣 松桃县 [Song1 tao2_Xian4] /Songtao (county, in Guizhou)/
+松溪縣 松溪县 [Song1 xi1_Xian4] /Songxi (county, in Fujian)/
+松陽縣 松阳县 [Song1 yang2_Xian4] /Songyang (county, in Zhejiang)/
+肅北縣 肃北县 [Su4 bei3_Xian4] /Subei (county, in Gansu)/
+綏濱縣 绥滨县 [Sui2 bin1_Xian4] /Suibin (county, in Heilongjiang)/
+遂昌縣 遂昌县 [Sui4 chang1_Xian4] /Suichang (county, in Zhejiang)/
+遂川縣 遂川县 [Sui4 chuan1_Xian4] /Suichuan (county, in Jiangxi)/
+綏德縣 绥德县 [Sui2 de2_Xian4] /Suide (county, in Shaanxi)/
+綏江縣 绥江县 [Sui2 jiang1_Xian4] /Suijiang (county, in Yunnan)/
+綏棱縣 绥棱县 [Sui2 leng2_Xian4] /Suileng (county, in Heilongjiang)/
+睢寧縣 睢宁县 [Sui1 ning4_Xian4] /Suining (county, in Jiangsu)/
+綏寧縣 绥宁县 [Sui2 ning4_Xian4] /Suining (county, in Hunan)/
+遂平縣 遂平县 [Sui4 ping2_Xian4] /Suiping (county, in Henan)/
+濉溪縣 濉溪县 [Sui1 xi1_Xian4] /Suixi (county, in Anhui)/
+遂溪縣 遂溪县 [Sui4 xi1_Xian4] /Suixi (county, in Guangdong)/
+綏陽縣 绥阳县 [Sui2 yang2_Xian4] /Suiyang (county, in Guizhou)/
+綏中縣 绥中县 [Sui2 zhong1_Xian4] /Suizhong (county, in Liaoning)/
+蘇家屯區 苏家屯区 [Su1 jia1 tun2_Qu1] /Sujiatun (district, in Liaoning)/
+肅南縣 肃南县 [Su4 nan2_Xian4] /Sunan (county, in Gansu)/
+肅寧縣 肃宁县 [Su4 ning4_Xian4] /Suning (county, in Hebei)/
+蘇尼特右旗 苏尼特右旗 [Su1 ni2 te4 you4_Qi2] /Sonid Right (banner, in Inner Mongolia)/Right, Sonid (banner, in Inner Mongolia)/
+蘇尼特左旗 苏尼特左旗 [Su1 ni2 te4 zuo3_Qi2] /Sonid Left (banner, in Inner Mongolia)/Left, Sonid (banner, in Inner Mongolia)/
+孫吳縣 孙吴县 [Sun1 wu2_Xian4] /Sunwu (county, in Heilongjiang)/
+宿松縣 宿松县 [Su4 song1_Xian4] /Susong (county, in Anhui)/
+太白縣 太白县 [Tai4 bai2_Xian4] /Taibai (county, in Shaanxi)/
+太谷縣 太谷县 [Tai4 gu3_Xian4] /Taigu (county, in Shanxi)/
+泰和縣 泰和县 [Tai4 he2_Xian4] /Taihe (county, in Jiangxi)/
+太湖縣 太湖县 [Tai4 hu2_Xian4] /TaiHu (county, in Anhui)/
+台江縣 台江县 [Tai2 jiang1_Xian4] /Taijiang (county, in Guizhou)/
+太康縣 太康县 [Tai4 kang1_Xian4] /Taikang (county, in Henan)/
+泰來縣 泰来县 [Tai4 lai2_Xian4] /Tailai (county, in Heilongjiang)/
+泰寧縣 泰宁县 [Tai4 ning4_Xian4] /Taining (county, in Fujian)/
+太仆寺旗 太仆寺旗 [Tai4 pu1 si4_Qi2] /Taibus (banner, in Inner Mongolia)/
+台前縣 台前县 [Tai2 qian2_Xian4] /Taiqian (county, in Henan)/
+泰順縣 泰顺县 [Tai4 shun4_Xian4] /Taishun (county, in Zhejiang)/
+太子河區 太子河区 [Tai4 zi3 he2_Qu1] /Taizihe (district, in Liaoning)/
+唐海縣 唐海县 [Tang2 hai3_Xian4] /Tanghai (county, in Hebei)/
+唐河縣 唐河县 [Tang2 he2_Xian4] /Tanghe (county, in Henan)/
+湯陰縣 汤阴县 [Tang1 yin1_Xian4] /Tangyin (county, in Henan)/
+湯原縣 汤原县 [Tang1 yuan2_Xian4] /Tangyuan (county, in Heilongjiang)/
+桃江縣 桃江县 [Tao2 jiang1_Xian4] /Taojiang (county, in Hunan)/
+塔什庫爾干縣 塔什库尔干县 [Ta3 shi2 ku4 er3 gan1_Xian4] /Taxkorgan (Tajik county, in Xinjiang)/
+特克斯縣 特克斯县 [Te4 ke4 si1_Xian4] /Tekes (county, in Xinjiang)/
+天等縣 天等县 [Tian1 deng3_Xian4] /Tiandeng (county, in Guangxi)/
+田東縣 田东县 [Tian2 dong1_Xian4] /Tiandong (county, in Guangxi)/
+天峨縣 天峨县 [Tian1 e2_Xian4] /Tian'e (county, in Guangxi)/
+天峻縣 天峻县 [Tian1 jun4_Xian4] /Tianjun (county, in Qinghai)/
+田林縣 田林县 [Tian2 lin2_Xian4] /Tianlin (county, in Guangxi)/
+天全縣 天全县 [Tian1 quan2_Xian4] /Tianquan (county, in Sichuan)/
+田陽縣 田阳县 [Tian2 yang2_Xian4] /Tianyang (county, in Guangxi)/
+天鎮縣 天镇县 [Tian1 zhen4_Xian4] /Tianzhen (county, in Shanxi)/
+天祝縣 天祝县 [Tian1 zhu4_Xian4] /Tianzhu (county, in Gansu)/
+天柱縣 天柱县 [Tian1 zhu4_Xian4] /Tianzhu (county, in Guizhou)/
+鐵東區 铁东区 [Tie3 dong1_Qu1] /Tiedong (district, in Liaoning)/
+桐柏縣 桐柏县 [Tong2 bai3_Xian4] /Tongbai (county, in Henan)/
+通城縣 通城县 [Tong1 cheng2_Xian4] /Tongcheng (county, in Hubei)/
+同德縣 同德县 [Tong2 de2_Xian4] /Tongde (county, in Qinghai)/
+通海縣 通海县 [Tong1 hai3_Xian4] /Tonghai (county, in Yunnan)/
+通江縣 通江县 [Tong1 jiang1_Xian4] /Tongjiang (county, in Sichuan)/
+銅梁縣 铜梁县 [Tong2 liang2_Xian4] /Tongliang (county, in Chongqing)/
+桐廬縣 桐庐县 [Tong2 lu2_Xian4] /Tonglu (county, in Zhejiang)/
+潼南縣 潼南县 [Tong2 nan2_Xian4] /Tongnan (county, in Chongqing)/
+通山縣 通山县 [Tong1 shan1_Xian4] /Tongshan (county, in Hubei)/
+通渭縣 通渭县 [Tong1 wei4_Xian4] /Tongwei (county, in Gansu)/
+通許縣 通许县 [Tong1 xu3_Xian4] /Tongxu (county, in Henan)/
+通榆縣 通榆县 [Tong1 yu2_Xian4] /Tongyu (county, in Jilin)/
+桐梓縣 桐梓县 [Tong2 zi3_Xian4] /Tongzi (county, in Guizhou)/
+團風縣 团风县 [Tuan2 feng1_Xian4] /Tuanfeng (county, in Hubei)/
+土默特右旗 土默特右旗 [Tu3 mo4 te4 you4_Qi2] /Tumed Right (banner, in Inner Mongolia)/Right, Tumed (banner, in Inner Mongolia)/
+土默特左旗 土默特左旗 [Tu3 mo4 te4 zuo3_Qi2] /Tumed Left (banner, in Inner Mongolia)/Left, Tumed (banner, in Inner Mongolia)/
+屯留縣 屯留县 [Tun2 liu2_Xian4] /Tunliu (county, in Shanxi)/
+托克托縣 托克托县 [Tuo1 ke4 tuo1_Xian4] /Togtoh (county, in Inner Mongolia)/
+托克遜縣 托克逊县 [Tuo1 ke4 xun4_Xian4] /Toksun (county, in Xinjiang)/
+托里縣 托里县 [Tuo1 li3_Xian4] /Toli (county, in Xinjiang)/
+突泉縣 突泉县 [Tu1 quan2_Xian4] /Tuquan (county, in Inner Mongolia)/
+萬盛區 万盛区 [Wan4 cheng2_Qu1] /Wancheng (district, in Chongqing)/
+旺蒼縣 旺苍县 [Wang4 cang1_Xian4] /Wangcang (county, in Sichuan)/
+望都縣 望都县 [Wang4 du1_Xian4] /Wangdu (county, in Hebei)/
+望花區 望花区 [Wang4 hua1_Qu1] /Wanghua (district, in Liaoning)/
+望江縣 望江县 [Wang4 jiang1_Xian4] /Wangjiang (county, in Anhui)/
+望奎縣 望奎县 [Wang4 kui2_Xian4] /Wangkui (county, in Heilongjiang)/
+望謨縣 望谟县 [Wang4 mo2_Xian4] /Wangmo (county, in Guizhou)/
+汪清縣 汪清县 [Wang1 qing1_Xian4] /Wangqing (county, in Jilin)/
+王益區 王益区 [Wang2 yi4_Qu1] /Wangyi (district, in Shaanxi)/
+萬榮縣 万荣县 [Wan4 rong2_Xian4] /Wanrong (county, in Shanxi)/
+萬載縣 万载县 [Wan4 zai4_Xian4] /Wanzai (county, in Jiangxi)/
+萬州區 万州区 [Wan4 zhou1_Qu1] /Wanzhou (district, in Chongqing)/
+渭濱區 渭滨区 [Wei4 bin1_Qu1] /Weibin (district, in Shaanxi)/
+渭城區 渭城区 [Wei4 cheng2_Qu1] /Weicheng (district, in Shaanxi)/
+尉犁縣 尉犁县 [Wei4 li2_Xian4] /Yuli (county, in Xinjiang)/
+威寧縣 威宁县 [Wei1 ning4_Xian4] /Weining (county, in Guizhou)/
+巍山縣 巍山县 [Wei1 shan1_Xian4] /Weishan (county, in Yunnan)/
+尉氏縣 尉氏县 [Wei4 shi4_Xian4] /Weishi (county, in Henan)/
+維西縣 维西县 [Wei2 xi1_Xian4] /Weixi (county, in Yunnan)/
+威遠縣 威远县 [Wei1 yuan3_Xian4] /Weiyuan (county, in Sichuan)/
+渭源縣 渭源县 [Wei4 yuan2_Xian4] /Weiyuan (county, in Gansu)/
+文安縣 文安县 [Wen2 an1_Xian4] /Wen'an (county, in Hebei)/
+文成縣 文成县 [Wen2 cheng2_Xian4] /Wencheng (county, in Zhejiang)/
+瓮安縣 瓮安县 [Weng4 an1_Xian4] /Weng'an (county, in Guizhou)/
+翁牛特旗 翁牛特旗 [Weng1 niu2 te4_Qi2] /Ongniud (banner, in Inner Mongolia)/
+翁源縣 翁源县 [Weng1 yuan2_Xian4] /Wengyuan (county, in Guangdong)/
+文水縣 文水县 [Wen2 shui3_Xian4] /Wenshui (county, in Shanxi)/
+溫宿縣 温宿县 [Wen1 su4_Xian4] /Wensu (county, in Xinjiang)/
+聞喜縣 闻喜县 [Wen2 xi3_Xian4] /Wenxi (county, in Shanxi)/
+渦陽縣 涡阳县 [Wo1 yang2_Xian4] /Woyang (county, in Anhui)/
+吳堡縣 吴堡县 [Wu2 bao3_Xian4] /Wubao (county, in Shaanxi)/
+武川縣 武川县 [Wu3 chuan1_Xian4] /Wuchuan (county, in Inner Mongolia)/
+務川縣 务川县 [Wu4 chuan1_Xian4] /Wuchuan (county, in Guizhou)/
+武定縣 武定县 [Wu3 ding4_Xian4] /Wuding (county, in Yunnan)/
+五峰縣 五峰县 [Wu3 feng1_Xian4] /Wufeng (county, in Hubei)/
+五河縣 五河县 [Wu3 he2_Xian4] /Wuhe (county, in Anhui)/
+五華縣 五华县 [Wu3 hua2_Xian4] /Wuhua (county, in Guangdong)/
+吳江區 吴江区 [Wu2 jiang1_Qu1] /Wujiang (district, in Jiangsu)/
+烏拉特后旗 乌拉特后旗 [Wu1 la1 te4 hou4_Qi2] /Urad Rear (banner, in Inner Mongolia)/Rear, Urad (banner, in Inner Mongolia)/
+烏拉特前旗 乌拉特前旗 [Wu1 la1 te4 qian2_Qi2] /Urad Front (banner, in Inner Mongolia)/Front, Urad (banner, in Inner Mongolia)/
+烏拉特中旗 乌拉特中旗 [Wu1 la1 te4 zhong1_Qi2] /Urad Middle (banner, in Inner Mongolia)/Middle, Urad (banner, in Inner Mongolia)/
+武隆縣 武隆县 [Wu3 long2_Xian4] /Wulong (county, in Chongqing)/
+武鳴縣 武鸣县 [Wu3 ming2_Xian4] /Wuming (county, in Guangxi)/
+武寧縣 武宁县 [Wu3 ning4_Xian4] /Wuning (county, in Jiangxi)/
+武平縣 武平县 [Wu3 ping2_Xian4] /Wuping (county, in Fujian)/
+武強縣 武强县 [Wu3 qiang2_Xian4] /Wuqiang (county, in Hebei)/
+吳橋縣 吴桥县 [Wu2 qiao2_Xian4] /Wuqiao (county, in Hebei)/
+烏恰縣 乌恰县 [Wu1 qia4_Xian4] /Wuqia (county, in Xinjiang)/
+吳起縣 吴起县 [Wu2 qi3_Xian4] /Wuqi (county, in Shaanxi)/
+巫山縣 巫山县 [Wu1 shan1_Xian4] /Wushan (county, in Chongqing)/
+武山縣 武山县 [Wu3 shan1_Xian4] /Wushan (county, in Gansu)/
+武勝縣 武胜县 [Wu3 sheng4_Xian4] /Wusheng (county, in Sichuan)/
+烏審旗 乌审旗 [Wu1 shen3_Qi2] /Uxin (banner, in Inner Mongolia)/
+烏什縣 乌什县 [Wu1 shi2_Xian4] /Uchturpan/Uqturpan (county, in Xinjiang)/
+五台縣 五台县 [Wu3 tai2_Xian4] /Wutai (county, in Shanxi)/
+武鄉縣 武乡县 [Wu3 xiang1_Xian4] /Wuxiang (county, in Shanxi)/
+巫溪縣 巫溪县 [Wu1 xi1_Xian4] /Wuxi (county, in Chongqing)/
+武宣縣 武宣县 [Wu3 xuan1_Xian4] /Wuxuan (county, in Guangxi)/
+舞陽縣 舞阳县 [Wu3 yang2_Xian4] /Wuyang (county, in Henan)/
+武邑縣 武邑县 [Wu3 yi4_Xian4] /Wuyi (county, in Hebei)/
+武義縣 武义县 [Wu3 yi4_Xian4] /Wuyi (county, in Zhejiang)/
+五原縣 五原县 [Wu3 yuan2_Xian4] /Wuyuan (county, in Inner Mongolia)/
+婺源縣 婺源县 [Wu4 yuan2_Xian4] /Wuyuan (county, in Jiangxi)/
+五寨縣 五寨县 [Wu3 zhai4_Xian4] /Wuzhai (county, in Shanxi)/
+武陟縣 武陟县 [Wu3 zhi4_Xian4] /Wuzhi (county, in Henan)/
+夏河縣 夏河县 [Xia4 he2_Xian4] /Xiahe (county, in Gansu)/
+峽江縣 峡江县 [Xia2 jiang1_Xian4] /Xiajiang (county, in Jiangxi)/
+鄉城縣 乡城县 [Xiang1 cheng2_Xian4] /Xiangcheng (county, in Sichuan)/
+襄城縣 襄城县 [Xiang1 cheng2_Xian4] /Xiangcheng (county, in Henan)/
+襄汾縣 襄汾县 [Xiang1 fen2_Xian4] /Xiangfen (county, in Shanxi)/
+香河縣 香河县 [Xiang1 he2_Xian4] /Xianghe (county, in Hebei)/
+鑲黃旗 镶黄旗 [Xiang1 huang2_Qi2] /Xianghuang (banner, in Inner Mongolia)/
+鄉寧縣 乡宁县 [Xiang1 ning4_Xian4] /Xiangning (county, in Shanxi)/
+象山縣 象山县 [Xiang4 shan1_Xian4] /Xiangshan (county, in Zhejiang)/
+響水縣 响水县 [Xiang3 shui3_Xian4] /Xiangshui (county, in Jiangsu)/
+湘陰縣 湘阴县 [Xiang1 yin1_Xian4] /Xiangyin (county, in Hunan)/
+襄垣縣 襄垣县 [Xiang1 yuan2_Xian4] /Xiangyuan (county, in Shanxi)/
+象州縣 象州县 [Xiang4 zhou1_Xian4] /Xiangzhou (county, in Guangxi)/
+孝昌縣 孝昌县 [Xiao4 chang1_Xian4] /Xiaochang (county, in Hubei)/
+小金縣 小金县 [Xiao3 jin1_Xian4] /Xiaojin (county, in Sichuan)/
+蕭山區 萧山区 [Xiao1 shan1_Qu1] /Xiaoshan (district, in Zhejiang)/
+蕭縣 萧县 [Xiao1_Xian4] /Xiao (county, in Anhui)/
+霞浦縣 霞浦县 [Xia2 pu3_Xian4] /Xiapu (county, in Fujian)/
+夏邑縣 夏邑县 [Xia4 yi4_Xian4] /Xiayi (county, in Henan)/
+西充縣 西充县 [Xi1 chong1_Xian4] /Xichong (county, in Sichuan)/
+西疇縣 西畴县 [Xi1 chou2_Xian4] /Xichou (county, in Yunnan)/
+淅川縣 淅川县 [Xi1 chuan1_Xian4] /Xichuan (county, in Henan)/
+喜德縣 喜德县 [Xi3 de2_Xian4] /Xide (county, in Sichuan)/
+息烽縣 息烽县 [Xi1 feng1_Xian4] /Xifeng (county, in Guizhou)/
+西丰縣 西丰县 [Xi1 feng1_Xian4] /Xifeng (county, in Liaoning)/
+西崗區 西岗区 [Xi1 gang3_Qu1] /Xigang (district, in Liaoning)/
+細河區 细河区 [Xi4 he2_Qu1] /Xihe (district, in Liaoning)/
+西和縣 西和县 [Xi1 he2_Xian4] /Xihe (county, in Gansu)/
+西華縣 西华县 [Xi1 hua2_Xian4] /Xihua (county, in Henan)/
+溪湖區 溪湖区 [Xi1 hu2_Qu1] /Xihu (district, in Liaoning)/
+西林縣 西林县 [Xi1 lin2_Xian4] /Xilin (county, in Guangxi)/
+西盟縣 西盟县 [Xi1 meng2_Xian4] /Ximeng (county, in Yunnan)/
+新安縣 新安县 [Xin1 an1_Xian4] /Xin'an (county, in Henan)/
+新巴爾虎右旗 新巴尔虎右旗 [Xin1 ba1 er3 hu3 you4_Qi2] /New Barag Right (banner, in Inner Mongolia)/Barag Right, New (banner, in Inner Mongolia)/
+新巴爾虎左旗 新巴尔虎左旗 [Xin1 ba1 er3 hu3 zuo3_Qi2] /New Barag Left (banner, in Inner Mongolia)/Barag Left, New (banner, in Inner Mongolia)/
+新賓縣 新宾县 [Xin1 bin1_Xian4] /Xinbin (county, in Liaoning)/
+新蔡縣 新蔡县 [Xin1 cai4_Xian4] /Xincai (county, in Henan)/
+新昌縣 新昌县 [Xin1 chang1_Xian4] /Xinchang (county, in Zhejiang)/
+忻城縣 忻城县 [Xin1 cheng2_Xian4] /Xincheng (county, in Guangxi)/
+新丰縣 新丰县 [Xin1 feng1_Xian4] /Xinfeng (county, in Guangdong)/
+信丰縣 信丰县 [Xin4 feng1_Xian4] /Xinfeng (county, in Jiangxi)/
+新撫區 新抚区 [Xin1 fu3_Qu1] /Xinfu (district, in Liaoning)/
+新干縣 新干县 [Xin1 gan1_Xian4] /Xingan (county, in Jiangxi)/
+興安縣 兴安县 [Xing4 an1_Xian4] /Xing'an (county, in Guangxi)/
+興海縣 兴海县 [Xing4 hai3_Xian4] /Xinghai (county, in Qinghai)/
+興和縣 兴和县 [Xing4 he2_Xian4] /Xinghe (county, in Inner Mongolia)/
+滎經縣 荥经县 [Xing2 jing1_Xian4] /Xingjing (county, in Sichuan)/
+興隆台區 兴隆台区 [Xing1 long2 tai2_Qu1] /Xinglongtai (district, in Liaoning)/
+興仁縣 兴仁县 [Xing4 ren2_Xian4] /Xingren (county, in Guizhou)/
+興山縣 兴山县 [Xing4 shan1_Xian4] /Xingshan (county, in Hubei)/
+行唐縣 行唐县 [Xing2 tang2_Xian4] /Xingtang (county, in Hebei)/
+興文縣 兴文县 [Xing4 wen2_Xian4] /Xingwen (county, in Sichuan)/
+興業縣 兴业县 [Xing4 ye4_Xian4] /Xingye (county, in Guangxi)/
+新和縣 新和县 [Xin1 he2_Xian4] /Xinhe (county, in Xinjiang)/
+新河縣 新河县 [Xin1 he2_Xian4] /Xinhe (county, in Hebei)/
+新晃縣 新晃县 [Xin1 huang4_Xian4] /Xinhuang (county, in Hunan)/
+新化縣 新化县 [Xin1 hua4_Xian4] /Xinhua (county, in Hunan)/
+西寧城北區 西宁城北区 [Xi1 ning2 cheng2 bei3_Qu1] /Xiningchengbei (district, in Qinghai)/
+西寧城東區 西宁城东区 [Xi1 ning2 cheng2 dong1_Qu1] /Xiningchengdong (district, in Qinghai)/
+西寧城西區 西宁城西区 [Xi1 ning2 cheng2 xi1_Qu1] /Xiningchengxi (district, in Qinghai)/
+西寧城中區 西宁城中区 [Xi1 ning2 cheng2 zhong1_Qu1] /Xiningchengzhong (district, in Qinghai)/
+新絳縣 新绛县 [Xin1 jiang4_Xian4] /Xinjiang (county, in Shanxi)/
+新津縣 新津县 [Xin1 jin1_Xian4] /Xinjin (county, in Sichuan)/
+新龍縣 新龙县 [Xin1 long2_Xian4] /Xinlong (county, in Sichuan)/
+新寧縣 新宁县 [Xin1 ning4_Xian4] /Xinning (county, in Hunan)/
+新平縣 新平县 [Xin1 ping2_Xian4] /Xinping (county, in Yunnan)/
+新邱區 新邱区 [Xin1 qiu1_Qu1] /Xinqiu (district, in Liaoning)/
+新邵縣 新邵县 [Xin1 shao4_Xian4] /Xinshao (county, in Hunan)/
+新田縣 新田县 [Xin1 tian2_Xian4] /Xintian (county, in Hunan)/
+新野縣 新野县 [Xin1 ye3_Xian4] /Xinye (county, in Henan)/
+新源縣 新源县 [Xin1 yuan2_Xian4] /Xinyuan (county, in Xinjiang)/
+西平縣 西平县 [Xi1 ping2_Xian4] /Xiping (county, in Henan)/
+浠水縣 浠水县 [Xi1 shui3_Xian4] /Xishui (county, in Hubei)/
+習水縣 习水县 [Xi2 shui3_Xian4] /Xishui (county, in Guizhou)/
+休寧縣 休宁县 [Xiu1 ning4_Xian4] /Xiuning (county, in Anhui)/
+秀山縣 秀山县 [Xiu4 shan1_Xian4] /Xiushan (county, in Chongqing)/
+修水縣 修水县 [Xiu1 shui3_Xian4] /Xiushui (county, in Jiangxi)/
+修武縣 修武县 [Xiu1 wu3_Xian4] /Xiuwu (county, in Henan)/
+岫岩縣 岫岩县 [Xiu4 yan2_Xian4] /Xiuyan (county, in Liaoning)/
+西烏珠穆沁旗 西乌珠穆沁旗 [Xi1 wu1 zhu1 mu4 qin4_Qi2] /West Ujimqin (banner, in Inner Mongolia)/Ujimqin, West (banner, in Inner Mongolia)/
+西鄉縣 西乡县 [Xi1 xiang1_Xian4] /Xixiang (county, in Shaanxi)/
+西峽縣 西峡县 [Xi1 xia2_Xian4] /Xixia (county, in Henan)/
+昔陽縣 昔阳县 [Xi1 yang2_Xian4] /Xiyang (county, in Shanxi)/
+宣恩縣 宣恩县 [Xuan1 en1_Xian4] /Xuan'en (county, in Hubei)/
+宣漢縣 宣汉县 [Xuan1 han4_Xian4] /Xuanhan (county, in Sichuan)/
+盱眙縣 盱眙县 [Xu1 chi4_Xian4] /Xuchi (county, in Jiangsu)/
+尋甸縣 寻甸县 [Xun2 dian4_Xian4] /Xundian (county, in Yunnan)/
+循化縣 循化县 [Xun2 hua4_Xian4] /Xunhua (county, in Qinghai)/
+遜克縣 逊克县 [Xun4 ke4_Xian4] /Xunke (county, in Heilongjiang)/
+尋烏縣 寻乌县 [Xun2 wu1_Xian4] /Xunwu (county, in Jiangxi)/
+旬陽縣 旬阳县 [Xun2 yang2_Xian4] /Xunyang (county, in Shaanxi)/
+旬邑縣 旬邑县 [Xun2 yi4_Xian4] /Xunyi (county, in Shaanxi)/
+漵浦縣 溆浦县 [Xu4 pu3_Xian4] /Xupu (county, in Hunan)/
+徐水縣 徐水县 [Xu2 shui3_Xian4] /Xushui (county, in Hebei)/
+徐聞縣 徐闻县 [Xu2 wen2_Xian4] /Xuwen (county, in Guangdong)/
+敘永縣 叙永县 [Xu4 yong3_Xian4] /Xuyong (county, in Sichuan)/
+雅江縣 雅江县 [Ya3 jiang1_Xian4] /Yajiang (county, in Sichuan)/
+鹽邊縣 盐边县 [Yan2 bian1_Xian4] /Yanbian (county, in Sichuan)/
+延川縣 延川县 [Yan2 chuan1_Xian4] /Yanchuan (county, in Shaanxi)/
+漾濞縣 漾濞县 [Yang4 bi4_Xian4] /Yangbi (county, in Yunnan)/
+陽城縣 阳城县 [Yang2 cheng2_Xian4] /Yangcheng (county, in Shanxi)/
+陽東縣 阳东县 [Yang2 dong1_Xian4] /Yangdong (county, in Guangdong)/
+陽高縣 阳高县 [Yang2 gao1_Xian4] /Yanggao (county, in Shanxi)/
+楊陵區 杨陵区 [Yang2 ling2_Qu1] /Yangling (district, in Shaanxi)/
+陽曲縣 阳曲县 [Yang2 qu1_Xian4] /Yangqu (county, in Shanxi)/
+陽山縣 阳山县 [Yang2 shan1_Xian4] /Yangshan (county, in Guangdong)/
+陽朔縣 阳朔县 [Yang2 shuo4_Xian4] /Yangshuo (county, in Guangxi)/
+陽新縣 阳新县 [Yang2 xin1_Xian4] /Yangxin (county, in Hubei)/
+陽西縣 阳西县 [Yang2 xi1_Xian4] /Yangxi (county, in Guangdong)/
+陽原縣 阳原县 [Yang2 yuan2_Xian4] /Yangyuan (county, in Hebei)/
+鹽津縣 盐津县 [Yan2 jin1_Xian4] /Yanjin (county, in Yunnan)/
+延津縣 延津县 [Yan2 jin1_Xian4] /Yanjin (county, in Henan)/
+閻良區 阎良区 [Yan2 liang2_Qu1] /Yanliang (district, in Shaanxi)/
+鄢陵縣 鄢陵县 [Yan1 ling2_Xian4] /Yanling (county, in Henan)/
+炎陵縣 炎陵县 [Yan2 ling2_Xian4] /Yanling (county, in Hunan)/
+焉耆縣 焉耆县 [Yan1 qi2_Xian4] /Yanqi (county, in Xinjiang)/
+鹽山縣 盐山县 [Yan2 shan1_Xian4] /Yanshan (county, in Hebei)/
+硯山縣 砚山县 [Yan4 shan1_Xian4] /Yanshan (county, in Yunnan)/
+雁塔區 雁塔区 [Yan4 ta3_Qu1] /Yanta (district, in Shaanxi)/
+鹽亭縣 盐亭县 [Yan2 ting2_Xian4] /Yanting (county, in Sichuan)/
+鹽源縣 盐源县 [Yan2 yuan2_Xian4] /Yanyuan (county, in Sichuan)/
+姚安縣 姚安县 [Yao2 an1_Xian4] /Yao'an (county, in Yunnan)/
+耀州區 耀州区 [Yao4 zhou1_Qu1] /Yaozhou (district, in Shaanxi)/
+葉城縣 叶城县 [Ye4 cheng2_Xian4] /Yecheng (county, in Xinjiang, also called Kargilik)/
+依安縣 依安县 [Yi1 an1_Xian4] /Yi'an (county, in Heilongjiang)/
+翼城縣 翼城县 [Yi4 cheng2_Xian4] /Yicheng (county, in Shanxi)/
+伊川縣 伊川县 [Yi1 chuan1_Xian4] /Yichuan (county, in Henan)/
+宜川縣 宜川县 [Yi2 chuan1_Xian4] /Yichuan (county, in Shaanxi)/
+宜丰縣 宜丰县 [Yi2 feng1_Xian4] /Yifeng (county, in Jiangxi)/
+宜黃縣 宜黄县 [Yi2 huang2_Xian4] /Yihuang (county, in Jiangxi)/
+伊金霍洛旗 伊金霍洛旗 [Yi1 jin1 huo4 luo4_Qi2] /Ejin Horo (banner, in Inner Mongolia)/Horo, Ejin (banner, in Inner Mongolia)/
+宜君縣 宜君县 [Yi2 jun1_Xian4] /Yijun (county, in Shaanxi)/
+宜良縣 宜良县 [Yi2 liang2_Xian4] /Yiliang (county, in Yunnan)/
+彞良縣 彝良县 [Yi2 liang2_Xian4] /Yiliang (county, in Yunnan)/
+儀隴縣 仪陇县 [Yi2 long3_Xian4] /Yilong (county, in Sichuan)/
+易門縣 易门县 [Yi4 men2_Xian4] /Yimen (county, in Yunnan)/
+盈江縣 盈江县 [Ying2 jiang1_Xian4] /Yingjiang (county, in Yunnan)/
+英吉沙縣 英吉沙县 [Ying1 ji2 sha1_Xian4] /Yengisar (county, in Xinjiang)/
+潁上縣 颍上县 [Ying3 shang4_Xian4] /Yingshang (county, in Anhui)/
+英山縣 英山县 [Ying1 shan1_Xian4] /Yingshan (county, in Hubei)/
+營山縣 营山县 [Ying2 shan1_Xian4] /Yingshan (county, in Sichuan)/
+印江縣 印江县 [Yin4 jiang1_Xian4] /Yinjiang (county, in Guizhou)/
+銀州區 银州区 [Yin2 zhou1_Qu1] /Yinzhou (district, in Liaoning)/
+伊通縣 伊通县 [Yi1 tong1_Xian4] /Yitong (county, in Jilin)/
+宜陽縣 宜阳县 [Yi2 yang2_Xian4] /Yiyang (county, in Henan)/
+弋陽縣 弋阳县 [Yi4 yang2_Xian4] /Yiyang (county, in Jiangxi)/
+宜章縣 宜章县 [Yi2 zhang1_Xian4] /Yizhang (county, in Hunan)/
+宜州市 宜州市 [Yi2 zhou1_Shi4] /Yizhou (city, in Guangxi)/
+永昌縣 永昌县 [Yong3 chang1_Xian4] /Yongchang (county, in Gansu)/
+永川區 永川区 [Yong3 chuan1_Qu1] /Yongchuan (district, in Chongqing)/
+永登縣 永登县 [Yong3 deng1_Xian4] /Yongdeng (county, in Gansu)/
+永德縣 永德县 [Yong3 de2_Xian4] /Yongde (county, in Yunnan)/
+永丰縣 永丰县 [Yong3 feng1_Xian4] /Yongfeng (county, in Jiangxi)/
+永福縣 永福县 [Yong3 fu2_Xian4] /Yongfu (county, in Guangxi)/
+永和縣 永和县 [Yong3 he2_Xian4] /Yonghe (county, in Shanxi)/
+永嘉縣 永嘉县 [Yong3 jia1_Xian4] /Yongjia (county, in Zhejiang)/
+永靖縣 永靖县 [Yong3 jing4_Xian4] /Yongjing (county, in Gansu)/
+永吉縣 永吉县 [Yong3 ji2_Xian4] /Yongji (county, in Jilin)/
+永平縣 永平县 [Yong3 ping2_Xian4] /Yongping (county, in Yunnan)/
+永清縣 永清县 [Yong3 qing1_Xian4] /Yongqing (county, in Hebei)/
+永仁縣 永仁县 [Yong3 ren2_Xian4] /Yongren (county, in Yunnan)/
+永善縣 永善县 [Yong3 shan4_Xian4] /Yongshan (county, in Yunnan)/
+永勝縣 永胜县 [Yong3 sheng4_Xian4] /Yongsheng (county, in Yunnan)/
+永壽縣 永寿县 [Yong3 shou4_Xian4] /Yongshou (county, in Shaanxi)/
+永順縣 永顺县 [Yong3 shun4_Xian4] /Yongshun (county, in Hunan)/
+永泰縣 永泰县 [Yong3 tai4_Xian4] /Yongtai (county, in Fujian)/
+永興縣 永兴县 [Yong3 xing4_Xian4] /Yongxing (county, in Hunan)/
+永新縣 永新县 [Yong3 xin1_Xian4] /Yongxin (county, in Jiangxi)/
+永修縣 永修县 [Yong3 xiu1_Xian4] /Yongxiu (county, in Jiangxi)/
+尤溪縣 尤溪县 [You2 xi1_Xian4] /Youxi (county, in Fujian)/
+酉陽縣 酉阳县 [You3 yang2_Xian4] /Youyang (county, in Chongqing)/
+右玉縣 右玉县 [You4 yu4_Xian4] /Youyu (county, in Shanxi)/
+遠安縣 远安县 [Yuan3 an1_Xian4] /Yuan'an (county, in Hubei)/
+元江縣 元江县 [Yuan2 jiang1_Xian4] /Yuanjiang (county, in Yunnan)/
+沅陵縣 沅陵县 [Yuan2 ling2_Xian4] /Yuanling (county, in Hunan)/
+元謀縣 元谋县 [Yuan2 mou2_Xian4] /Yuanmou (county, in Yunnan)/
+垣曲縣 垣曲县 [Yuan2 qu1_Xian4] /Yuanqu (county, in Shanxi)/
+元氏縣 元氏县 [Yuan2 shi4_Xian4] /Yuanshi (county, in Hebei)/
+元陽縣 元阳县 [Yuan2 yang2_Xian4] /Yuanyang (county, in Yunnan)/
+原陽縣 原阳县 [Yuan2 yang2_Xian4] /Yuanyang (county, in Henan)/
+渝北區 渝北区 [Yu2 bei3_Qu1] /Yubei (district, in Chongqing)/
+虞城縣 虞城县 [Yu2 cheng2_Xian4] /Yucheng (county, in Henan)/
+于都縣 于都县 [Yu2 du1_Xian4] /Yudu (county, in Jiangxi)/
+岳池縣 岳池县 [Yue4 chi2_Xian4] /Yuechi (county, in Sichuan)/
+岳普湖縣 岳普湖县 [Yue4 pu3 hu2_Xian4] /Yopurga (county, in Xinjiang)/
+越西縣 越西县 [Yue4 xi1_Xian4] /Yuexi (county, in Sichuan)/
+岳西縣 岳西县 [Yue4 xi1_Xian4] /Yuexi (county, in Anhui)/
+余干縣 余干县 [Yu2 gan1_Xian4] /Yugan (county, in Jiangxi)/
+于洪區 于洪区 [Yu2 hong2_Qu1] /Yuhong (district, in Liaoning)/
+余江縣 余江县 [Yu2 jiang1_Xian4] /Yujiang (county, in Jiangxi)/
+玉龍縣 玉龙县 [Yu4 long2_Xian4] /Yulong (county, in Yunnan)/
+裕民縣 裕民县 [Yu4 min2_Xian4] /Yumin (county, in Xinjiang)/
+郁南縣 郁南县 [Yu4 nan2_Xian4] /Yunan (county, in Guangdong)/
+云安縣 云安县 [Yun2 an1_Xian4] /Yun'an (county, in Guangdong)/
+云和縣 云和县 [Yun2 he2_Xian4] /Yunhe (county, in Zhejiang)/
+云龍縣 云龙县 [Yun2 long2_Xian4] /Yunlong (county, in Yunnan)/
+云夢縣 云梦县 [Yun2 meng4_Xian4] /Yunmeng (county, in Hubei)/
+鄖西縣 郧西县 [Yun2 xi1_Xian4] /Yunxi (county, in Hubei)/
+云陽縣 云阳县 [Yun2 yang2_Xian4] /Yunyang (county, in Chongqing)/
+玉屏縣 玉屏县 [Yu4 ping2_Xian4] /Yuping (county, in Guizhou)/
+榆社縣 榆社县 [Yu2 she4_Xian4] /Yushe (county, in Shanxi)/
+于田縣 于田县 [Yu2 tian2_Xian4] /Yutian (county, in Xinjiang)/
+玉田縣 玉田县 [Yu4 tian2_Xian4] /Yutian (county, in Hebei)/
+榆陽區 榆阳区 [Yu2 yang2_Qu1] /Yuyang (district, in Shaanxi)/
+榆中縣 榆中县 [Yu2 zhong1_Xian4] /Yuzhong (county, in Gansu)/
+雜多縣 杂多县 [Za2 duo1_Xian4] /Zaduo (county, in Qinghai)/
+贊皇縣 赞皇县 [Zan4 huang2_Xian4] /Zanhuang (county, in Hebei)/
+棗強縣 枣强县 [Zao3 qiang2_Xian4] /Zaoqiang (county, in Hebei)/
+澤庫縣 泽库县 [Ze2 ku4_Xian4] /Zeku (county, in Qinghai)/
+澤普縣 泽普县 [Ze2 pu3_Xian4] /Zepu (county, in Xinjiang)/
+澤州縣 泽州县 [Ze2 zhou1_Xian4] /Zezhou (county, in Shanxi)/
+扎賚特旗 扎赉特旗 [Zha1 lai4 te4_Qi2] /Jalaid (banner, in Inner Mongolia)/
+扎魯特旗 扎鲁特旗 [Zha1 lu3 te4_Qi2] /Jarud (banner, in Inner Mongolia)/
+張北縣 张北县 [Zhang1 bei3_Xian4] /Zhangbei (county, in Hebei)/
+張家川縣 张家川县 [Zhang1 jia1 chuan1_Xian4] /Zhangjiachuan (county, in Gansu)/
+彰武縣 彰武县 [Zhang1 wu3_Xian4] /Zhangwu (county, in Liaoning)/
+站前區 站前区 [Zhan4 qian2_Qu1] /Zhanqian (district, in Liaoning)/
+沾益縣 沾益县 [Zhan1 yi4_Xian4] /Zhanyi (county, in Yunnan)/
+詔安縣 诏安县 [Zhao4 an1_Xian4] /Zhao'an (county, in Fujian)/
+昭覺縣 昭觉县 [Zhao1 jue2_Xian4] /Zhaojue (county, in Sichuan)/
+昭平縣 昭平县 [Zhao1 ping2_Xian4] /Zhaoping (county, in Guangxi)/
+肇源縣 肇源县 [Zhao4 yuan2_Xian4] /Zhaoyuan (county, in Heilongjiang)/
+肇州縣 肇州县 [Zhao4 zhou1_Xian4] /Zhaozhou (county, in Heilongjiang)/
+柘城縣 柘城县 [Zhe4 cheng2_Xian4] /Zhecheng (county, in Henan)/
+振安區 振安区 [Zhen4 an1_Qu1] /Zhen'an (district, in Liaoning)/
+鎮安縣 镇安县 [Zhen4 an1_Xian4] /Zhen'an (county, in Shaanxi)/
+鎮巴縣 镇巴县 [Zhen4 ba1_Xian4] /Zhenba (county, in Shaanxi)/
+貞丰縣 贞丰县 [Zhen1 feng1_Xian4] /Zhenfeng (county, in Guizhou)/
+正安縣 正安县 [Zheng4 an1_Xian4] /Zheng'an (county, in Guizhou)/
+正定縣 正定县 [Zheng4 ding4_Xian4] /Zhengding (county, in Hebei)/
+政和縣 政和县 [Zheng4 he2_Xian4] /Zhenghe (county, in Fujian)/
+正藍旗 正蓝旗 [Zheng4 lan2_Qi2] /Zhenglan (banner, in Inner Mongolia)/
+正寧縣 正宁县 [Zheng4 ning4_Xian4] /Zhengning (county, in Gansu)/
+正鑲白旗 正镶白旗 [Zheng4 xiang1 bai2_Qi2] /Zhengxiangbai (banner, in Inner Mongolia)/
+正陽縣 正阳县 [Zheng4 yang2_Xian4] /Zhengyang (county, in Henan)/
+鎮康縣 镇康县 [Zhen4 kang1_Xian4] /Zhenkang (county, in Yunnan)/
+鎮賚縣 镇赉县 [Zhen4 lai4_Xian4] /Zhenlai (county, in Jilin)/
+鎮寧縣 镇宁县 [Zhen4 ning4_Xian4] /Zhenning (county, in Guizhou)/
+鎮平縣 镇平县 [Zhen4 ping2_Xian4] /Zhenping (county, in Henan)/
+鎮坪縣 镇坪县 [Zhen4 ping2_Xian4] /Zhenping (county, in Shaanxi)/
+鎮雄縣 镇雄县 [Zhen4 xiong2_Xian4] /Zhenxiong (county, in Yunnan)/
+鎮沅縣 镇沅县 [Zhen4 yuan2_Xian4] /Zhenyuan (county, in Yunnan)/
+鎮原縣 镇原县 [Zhen4 yuan2_Xian4] /Zhenyuan (county, in Gansu)/
+鎮遠縣 镇远县 [Zhen4 yuan3_Xian4] /Zhenyuan (county, in Guizhou)/
+柘榮縣 柘荣县 [Zhe4 rong2_Xian4] /Zherong (county, in Fujian)/
+志丹縣 志丹县 [Zhi4 dan1_Xian4] /Zhidan (county, in Shaanxi)/
+治多縣 治多县 [Zhi4 duo1_Xian4] /Zhiduo (county, in Qinghai)/
+織金縣 织金县 [Zhi1 jin1_Xian4] /Zhijin (county, in Guizhou)/
+中江縣 中江县 [Zhong1 jiang1_Xian4] /Zhongjiang (county, in Sichuan)/
+中牟縣 中牟县 [Zhong1 mou2_Xian4] /Zhongmou (county, in Henan)/
+鐘山縣 钟山县 [Zhong1 shan1_Xian4] /Zhongshan (county, in Guangxi)/
+中陽縣 中阳县 [Zhong1 yang2_Xian4] /Zhongyang (county, in Shanxi)/
+周寧縣 周宁县 [Zhou1 ning4_Xian4] /Zhouning (county, in Fujian)/
+舟曲縣 舟曲县 [Zhou1 qu1_Xian4] /Zhouqu (county, in Gansu)/
+莊浪縣 庄浪县 [Zhuang1 lang4_Xian4] /Zhuanglang (county, in Gansu)/
+准格爾旗 准格尔旗 [Zhun3 ge2 er3_Qi2] /Jungar (banner, in Inner Mongolia)/
+涿鹿縣 涿鹿县 [Zhuo1 lu4_Xian4] /Zhuolu (county, in Hebei)/
+卓尼縣 卓尼县 [Zhuo2 ni2_Xian4] /Zhuoni (county, in Gansu)/
+卓資縣 卓资县 [Zhuo2 zi1_Xian4] /Zhuozi (county, in Inner Mongolia)/
+竹溪縣 竹溪县 [Zhu2 xi1_Xian4] /Zhuxi (county, in Hubei)/
+子長縣 子长县 [Zi3 chang2_Xian4] /Zichang (county, in Shaanxi)/
+秭歸縣 秭归县 [Zi3 gui1_Xian4] /Zigui (county, in Hubei)/
+梓潼縣 梓潼县 [Zi3 tong2_Xian4] /Zitong (county, in Sichuan)/
+資溪縣 资溪县 [Zi1 xi1_Xian4] /Zixi (county, in Jiangxi)/
+紫陽縣 紫阳县 [Zi3 yang2_Xian4] /Ziyang (county, in Shaanxi)/
+紫云縣 紫云县 [Zi3 yun2_Xian4] /Ziyun (county, in Guizhou)/
+資中縣 资中县 [Zi1 zhong1_Xian4] /Zizhong (county, in Sichuan)/
+子洲縣 子洲县 [Zi3 zhou1_Xian4] /Zizhou (county, in Shaanxi)/
+左權縣 左权县 [Zuo3 quan2_Xian4] /Zuoquan (county, in Shanxi)/
+柞水縣 柞水县 [Zuo4 shui3_Xian4] /Zuoshui (county, in Shaanxi)/
+左云縣 左云县 [Zuo3 yun2_Xian4] /Zuoyun (county, in Shanxi)/
