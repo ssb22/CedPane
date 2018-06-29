@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-06-25
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-06-29
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -2217,7 +2217,7 @@
 達卡 达卡 [Da2 ka3] /Dhaka/
 達喀爾 达喀尔 [Da2 ka1 er3] /Dakar/
 大開 大开 [da4 kai1] /open wide (of gate etc)/wide, open (of gate etc)/
-大開殺戒 大开杀戒 [Da4 kai1_Sha1 jie4] /Operation No Living Thing/Living Thing, Operation No/
+大開殺戒 大开杀戒 [Da4 kai1_Sha1 jie4] /Operation No Living Thing (Freetown 1999)/Living Thing, Operation No (Freetown 1999)/
 大可 大可 [da4 ke3] /may in a big way?/way?, may in a big/
 達科他 达科他 [Da2 ke1 ta1] /Dakota/
 達昆 达昆 [Da2 kun1] /Darkon/
@@ -20117,3 +20117,18 @@
 退課率 退课率 [tui4 ke4 lu:4] /dropout rate (of course|school)/rate, dropout (of course|school)/
 耶萊尼亞古拉 耶莱尼亚古拉 [Ye1 lai2 ni2 ya4 gu3 la1] /Jelenia Góra/Góra, Jelenia/
 自覺高人一等 自觉高人一等 [zi4 jue2_gao1 ren2 yi1 deng3] /having holier-than-thou attitude/sanctimonious/holier-than-thou attitude, having/
+長倚音 长倚音 [chang2_yi3 yin1] /appoggiatura/
+睇真啲 睇真啲 [di4 zhen1 di4] /inside story/looking at what it's really like (in Cantonese TV-programme titles)/story, inside (in Cantonese TV-programme titles)/what it's really like, looking at (in Cantonese TV-programme titles)/
+短倚音 短倚音 [duan3_yi3 yin1] /acciaccatura/
+多音 多音 [duo1 yin1] /polyphonic/
+反法西斯 反法西斯 [fan3 fa3 xi1 si1] /anti-Fascist/
+非法移民 非法移民 [fei1 fa3_yi2 min2] /illegal immigration/immigration, illegal/
+后倚音 后倚音 [hou4_yi3 yin1] /after-beat grace note (in Chinese music)/grace note, after-beat (in Chinese music)/
+口譯證 口译证 [kou3 yi4 zheng4] /certified interpreter qualification/interpreter qualification, certified/
+平假名 平假名 [ping2 jia3 ming2] /hiragana/
+前倚音 前倚音 [qian2_yi3 yin1] /before-beat (normal) grace note/grace note, before-beat/
+縮減人手 缩减人手 [suo1 jian3_ren2 shou3] /downsize/cut staff/staff, cut/
+特朗普 特朗普 [Te4 lang3 pu3] /Trump (surname)/
+銀齡 银龄 [yin2 ling2] /silver-aged (elderly)/
+易用 易用 [yi4_yong4] /easy to use/
+終生職業 终生职业 [zhong1 sheng1_zhi2 ye4] /job for life/life, job for/
