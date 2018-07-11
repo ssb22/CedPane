@@ -255,6 +255,7 @@
 一触即发		could happen at any moment
 一觸即發		could happen at any moment
 一言		one sentence
+一言一语		every word and phrase
 一言不发		not say a word
 一言不發		not say a word
 一言堂		says goes
@@ -1697,6 +1698,7 @@
 世卫组织		World Health Organization
 世家		family influential for generations/aristocratic family
 世尊		Revered One of the World (Buddha)
+世局		world conditions
 世情		social trends
 世故		worldly-wise/sophisticated
 世界		world
@@ -1945,6 +1947,7 @@
 严守		strictly observe
 严实		tight
 严密		strict/tight
+严寒		very cold
 严峻		severe/grim
 严惩		punish severely
 严打		take severe measures against/crack down
@@ -2637,6 +2640,7 @@
 之上		above
 之下		under
 之中		among/inside/in
+之举		's choice
 之久		duration of
 之內		inside/within
 之内		inside/within
@@ -4056,14 +4060,17 @@
 从		from
 从不		never
 从中		therefrom/from
+从中作梗		interfere
 从事		to engage in/deal with/to deal with
 从事研究		to do research
+从今以后		from today on
 从先		in the past
 从军		enlist
 从前		formerly
 从化		Conghua
 从化市		Conghua
 从命		to obey/obey an order
+从天而降		unexpected
 从头		anew/from the beginning
 从头到脚		from head to foot
 从容		calm/leisurely/unhurried
@@ -4776,6 +4783,7 @@
 伪造品		forgery/fake/counterfeit
 伪造罪		forgery
 伪造者		forger
+伪钞		fake money
 伪顶		false roof
 伯		father's elder brother/uncle/eldest of brothers
 伯仲之間		almost on a par
@@ -5478,6 +5486,7 @@
 依属		dependence
 依屬		dependence
 依序		in order
+依归		rely on
 依從		comply with
 依据		foundation/according to/basis
 依撒意亚		Isaiah
@@ -5622,6 +5631,7 @@
 促織		cricket
 促织		cricket
 促聲		entering tone
+促请		urge
 促进		to promote/promote
 促進		to promote/promote
 促銷		to promote
@@ -6061,6 +6071,7 @@
 們		s
 倒		move backward
 倒下		collapse
+倒不如		not better than
 倒写		mirror writing
 倒卧		lie down
 倒叙		flashback
@@ -6223,6 +6234,7 @@
 倾倒		topple over/pour
 倾卸		dump
 倾向		trend
+倾听		listen carefully
 倾听者		listener
 倾家荡产		lose the family fortune
 倾慕		adore
@@ -8509,6 +8521,7 @@
 写入		read in
 写字		to write
 写字楼		office building
+写完		finish writing
 写实主义者		realist
 写意		enjoyable/comfortable
 写成		finish writing
@@ -9249,6 +9262,7 @@
 出埃及记		Exodus
 出境		leave the country
 出声		make a sound
+出外		go outside
 出奇		extraordinary/unusual
 出奔		flee
 出尖		outstanding
@@ -11610,6 +11624,7 @@
 千磁力线		kiloline
 千禧年		millennium
 千秋		a thousand years
+千秋万世		through many ages
 千秋万代		throughout the ages
 千秋萬代		throughout the ages
 千米		kilometer
@@ -12429,6 +12444,7 @@
 危		to endanger/danger
 危亡		in peril/at stake
 危及		endanger
+危在旦夕		dangerous situation
 危地馬拉		Guatemala
 危地马拉		Guatemala
 危境		dangerous situation
@@ -12835,6 +12851,7 @@
 参考书目		bibliography
 参考系		frame of reference
 参考资料		reference material
+参见		refer to
 参观		to visit/visit/tour
 参议员		senator
 参议院		senate
@@ -13139,6 +13156,7 @@
 反驳		retort/refute
 发		hair
 发亮		shine
+发令		give command
 发作		break out/to break out
 发信		post a letter
 发信号		signal
@@ -13706,6 +13724,7 @@
 只		only
 只不过		only/merely/just
 只不過		only/merely/just
+只可		can only
 只好		be forced to/have to/to have to
 只得		to be obliged to
 只怕		very likely
@@ -14780,6 +14799,7 @@
 听听		listen to
 听命		following commands
 听墙根		eavesdrop
+听完		finish hearing
 听得懂		to understand
 听得见		audible
 听懂		understand/to understand
@@ -17361,6 +17381,7 @@
 圣马力诺		San Marino
 在		on
 在一起		together
+在上		currently up (in power etc)
 在下方		beneath
 在下面		underneath
 在世		living
@@ -19304,6 +19325,7 @@
 大于		greater than
 大亨		VIP/big shot
 大人		adult
+大仇敌		archenemy
 大件		large
 大众		popular/Volkswagen
 大众传播		mass communication
@@ -19371,6 +19393,7 @@
 大吉岭		Darjeeling
 大吉嶺		Darjeeling
 大同		Datong
+大同小异		small differences
 大同市		Datong
 大名		Daming
 大后天		three days from now
@@ -19761,6 +19784,7 @@
 大雅之堂		refined taste
 大難		great catastrophe
 大雨		heavy rain
+大雨倾盆		heavy rain
 大雾		thick fog
 大霧		thick fog
 大静脉		vena cava
@@ -20620,6 +20644,7 @@
 女房东		landlady
 女房東		landlady
 女排		women's volleyball
+女方		bride's side
 女星		female star
 女朋友		girlfriend
 女权		women's rights
@@ -22348,6 +22373,7 @@
 实数		real number
 实施		to implement/implement
 实时		real time
+实物		material thing
 实物交易		barter
 实现		to achieve
 实用		practical/pragmatic/functional
@@ -22955,6 +22981,7 @@
 寢室		dormitory/bedroom
 寤		awake from sleep/awake
 寥		empty
+寥寥无几		not many
 寥若晨星		few and far between
 寥落		sparse
 實		real
@@ -23169,6 +23196,7 @@
 对家		partner
 对应		homologous/corresponding
 对待		handle/treatment/treat
+对得住		fair treat
 对得起		down/fairly
 对我来说		as far as I'm concerned
 对手		opponent
@@ -24076,6 +24104,7 @@
 尽		exhaust
 尽人皆知		be known to all
 尽力		try best
+尽力而为		do best one can
 尽可能		as far as possible
 尽头		extremity/end
 尽孝		do one's filial duty
@@ -26866,6 +26895,7 @@
 引产		induce labor
 引人入勝		fascinating
 引人入胜		absorbing/fascinating
+引人注目		attention-grabbing
 引信		fuse
 引入		lead/draw into
 引决		commit suicide
@@ -26911,6 +26941,7 @@
 引诱		lure/seduce
 引起		to lead to
 引进		to introduce/recommend
+引述		quote
 引退		retire from office/resign
 引逗		tantalize/tease
 引進		to introduce/recommend
@@ -27280,6 +27311,7 @@
 当兵		to be a soldier
 当初		originally/at that time
 当前		current
+当务之急		urgent task
 当即		at once
 当啷		clang
 当回事		to take seriously/to take seriously
@@ -27691,6 +27723,7 @@
 得克萨斯州		Texas
 得克薩斯		Texas
 得克薩斯州		Texas
+得出		get
 得分		score/to score
 得到		receive
 得力		competent/capable
@@ -27794,6 +27827,7 @@
 循化撒拉族自治县		Xunhua Salazu autonomous county
 循化撒拉族自治縣		Xunhua Salazu autonomous county
 循序		sequence
+循序渐进		one step at a time
 循循善誘		guide patiently and systematically
 循循善诱		guide patiently and systematically
 循环		circulate/cycle
@@ -28288,6 +28322,7 @@
 快快樂樂		happy
 快意		elated/pleased
 快感		delight/pleasure
+快慢		speed
 快捷		fast
 快板		allegro
 快樂		happy
@@ -28645,6 +28680,7 @@
 总编辑		chief editor
 总署		general office
 总裁		director/director-general
+总要		need/should
 总角之交		childhood friend
 总计		grand total
 总部		general headquarters
@@ -28812,7 +28848,9 @@
 恭		respectful
 恭喜		congratulations
 恭城		Gongchen
+恭恭敬敬		respectful
 恭敬		respect/respectful
+恭敬地		respectfully
 恭維		flatter/to flatter
 恭维		flatter/to flatter
 恭賀		congratulate
@@ -29898,6 +29936,7 @@
 成串		cluster/bunch
 成为		turn into/become/to become
 成了		that's enough/be done/be ready
+成事		succeed
 成交量		volume of business
 成亲		get married
 成人		adult
@@ -32980,6 +33019,7 @@
 掬		hold with both hands
 掮		carry on the shoulder
 掮客		broker
+掰开		break (with hands)
 掳		captive
 掳到		deport to
 掳掠		pillage/loot
@@ -33193,6 +33233,7 @@
 援助		aid/support
 援建		help build
 援引		quote/to quote
+援手		helping hand
 援救		save/rescue
 援用		cite
 援軍		reinforcements/relief troops
@@ -33315,6 +33356,7 @@
 搬弄是非		tell tales/make mischief
 搬砖砸脚		hurt oneself by one's own doing/boomerang
 搬磚砸腳		hurt oneself by one's own doing/boomerang
+搬走		move out
 搬迁		relocate
 搬运		carry/transport
 搬運		carry/transport
@@ -34181,6 +34223,7 @@
 收音机		radio
 收音機		radio
 收養		to adopt
+攸关		to do with
 攸县		You county
 攸縣		You county
 改		to change
@@ -34257,6 +34300,7 @@
 攻读		study (at university)
 攻进		breach
 攻關		storm a strategic pass
+攻陷		capture (a city)
 放		release
 放上		put
 放下		to put down
@@ -34697,6 +34741,7 @@
 敬爱		respect and love
 敬畏		revere/to revere
 敬礼		salute
+敬神		respect god
 敬禮		salute
 敬称		honorific
 敬稱		honorific
@@ -34760,6 +34805,7 @@
 数码照相机		digital camera
 数码相机		digital camera
 数种		numerous types
+数算		count
 数组		array
 数落		talk on and on
 数论		number theory
@@ -35793,6 +35839,7 @@
 无所事事		have nothing to do/to have nothing to do
 无所谓		to be indifferent
 无所顾忌		unscrupulous
+无拘无束		without restraint
 无援		helpless
 无政府		anarchic
 无政府主义		anarchism
@@ -36028,6 +36075,7 @@
 旧梦		old dream
 旧版		old version
 旧石器时代		Paleolithic
+旧约		Old Testament
 旧约全书		Old Testament
 旧观		former appearance
 旧货市场		flea market
@@ -37990,6 +38038,7 @@
 机械学		mechanics
 机械工程		mechanical engineering
 机械师		machinist/engineer
+机械式		robotic
 机械性		mechanical
 机械手		manipulator
 机械码		machine code
@@ -38020,6 +38069,7 @@
 杀		kill
 杀人		homicide/to murder/murder
 杀人不眨眼		cold-blooded
+杀人害命		murder people
 杀人放火		commit murder and arson
 杀人未遂		attempted murder
 杀人案		murder case
@@ -39381,6 +39431,7 @@
 桦甸市		Huadian
 桨		oar
 桩		stake/pile
+桩子		stake
 桩构栈道		pile trestle
 桫		Stewartia pseudocamellia
 桫椤		spinulose tree fern
@@ -41728,6 +41779,7 @@
 气管		trachea/windpipe
 气管切开术		tracheotomy
 气管痉挛		tracheospasm
+气绝		stop breathing
 气胸		pneumothorax/pneumatothorax
 气色		complexion
 气象		meteorology
@@ -42117,6 +42169,7 @@
 永久和平		lasting peace
 永久虚电路		Permanent Virtual Circuit
 永久虛電路		Permanent Virtual Circuit
+永享		forever enjoy
 永仁		Yongren
 永修		Yongxiu
 永兴		Yongxing
@@ -44692,6 +44745,7 @@
 清涧		Qingjian
 清涼		refreshing
 清淡		light
+清清白白		clean (conscience etc)
 清湯		broth/consommé/clear soup
 清滌		purge
 清潔		clean
@@ -45277,6 +45331,7 @@
 溽		damp
 滁		name of a river
 滁州市		Chuzhou
+滂沱		torrents
 滄		blue/blue-green
 滄州		Cangzhou
 滄桑		great changes
@@ -47260,6 +47315,7 @@
 燃燒彈		fire bomb
 燃燒性		combustibility
 燃燒瓶		Molotov cocktail
+燃起		start fire
 燈		light/lamp/lantern
 燈光		light/lamp light
 燈具		lamps and lanterns
@@ -49789,6 +49845,7 @@
 电波		electric wave
 电流		electric current
 电渗析		electrodialysis
+电源		power supply
 电源供应器		power supply
 电灌站		electric pumping station
 电火花		electric spark
@@ -49946,6 +50003,7 @@
 畀		confer on/give
 畅		unimpeded/smooth/free
 畅快		carefree
+畅所欲言		speak out
 畅旺		flourishing
 畅谈		talk freely
 畅达		smooth
@@ -51349,6 +51407,7 @@
 盛大		Shanda/magnificent/grand
 盛宴		feast
 盛开		blooming
+盛怒		anger
 盛情		great kindness
 盛景		grand view
 盛會		pageant
@@ -52510,6 +52569,7 @@
 砌磚		bricklaying/lay bricks
 砌磚工		brick mason
 砍		chop/to chop/cut
+砍下		cut off
 砍伐		hew
 砍伤		gash/slash
 砍倒		cut down
@@ -53397,6 +53457,7 @@
 祭壇		altar
 祭物		sacrifices
 祭祀		ancestors
+祭祖		sacrifice to ancestors
 祭神		sacrifice to god
 祭酒		person who performs the libation before a banquet
 祯		auspicious
@@ -55070,6 +55131,7 @@
 箔		bamboo screen/tinsel
 箕		winnow basket
 算		to figure
+算不上		doesn't count as
 算不了		can't be counted
 算了		forget about it
 算出		figure out
@@ -58351,6 +58413,7 @@
 罪愆		offense/sin
 罪犯		criminal
 罪行		crime
+罪责		guilt
 罪过		offense/sin
 罪過		offense/sin
 罪魁		chief culprit
@@ -63039,6 +63102,7 @@
 蒙彼利埃		Montpellier
 蒙得維的亞		Montevideo
 蒙得维的亚		Montevideo
+蒙恩		shown favour
 蒙戈莫		Mongomo
 蒙托罗拉		Motorola
 蒙托羅拉		Motorola
@@ -64325,6 +64389,7 @@
 行为		action/behavior/conduct
 行为主义		behaviorism
 行为准则		standard of conduct
+行义		do right
 行之有效		effective
 行事		execute
 行事历		calendar
@@ -67076,6 +67141,7 @@
 记者招待会		press conference
 记起		recall/recollect
 记载		record/to write down
+记述		narrate
 讲		be particular about
 讲义气		to be loyal
 讲习会		seminar
@@ -67129,6 +67195,7 @@
 论坛		forum
 论处		punish
 论战		polemic/debate
+论据		basis of argument
 论文		paper/treatise/thesis
 论断		inference
 论法		argumentation
@@ -67465,6 +67532,7 @@
 误导		mislead/to mislead
 误差		error
 误打误撞		accidentally
+误期		too late
 误杀		manslaughter
 误点		behind schedule
 误用		misuse
@@ -67752,6 +67820,7 @@
 谓语		predicate
 谔		honest speech
 谕		order
+谕旨		instructions (from king etc)
 谖		forget
 谗		to speak maliciously/slander
 谗言		slander/calumny
@@ -67845,6 +67914,7 @@
 豁免		exempt
 豁免权		diplomatic immunity
 豁免權		diplomatic immunity
+豁然		sudden
 豁达		open-minded/magnanimous
 豁達		open-minded/magnanimous
 豆		bean/pea
@@ -68757,6 +68827,7 @@
 贮藏		store up
 贯		pierce/pass through
 贯彻		implement/carry out/to carry out
+贯彻始终		consistent
 贯穿		run through
 贯连		link up
 贯通		link up/thread together
@@ -69150,6 +69221,7 @@
 走访		to visit
 走資派		capitalist-roader
 走资派		capitalist-roader
+走走		have a walk
 走路		walk/to walk/go on foot
 走过		pass by
 走过去		walk over
@@ -70612,6 +70684,7 @@
 辔头		bridle
 辕		shafts of cart
 辖		linchpin
+辖下		ruled by
 辖制		control
 辗		roll over/roll over on side
 辗转		pass through many hands/places
@@ -70893,6 +70966,7 @@
 过境		pass through a country's territory
 过境签证		transit visa
 过多		too many/excessive
+过夜		stay the night
 过失		fault/defect
 过头		overdo
 过家家		to play house
@@ -70922,6 +70996,7 @@
 过滤		filter/to filter
 过滤器		filter
 过热		to overheat
+过生日		celebrate birthdays
 过瘾		satisfy a craving
 过磷酸盐		superphosphate
 过程		process
@@ -71091,6 +71166,7 @@
 这几天		these few days
 这咱		now
 这天		today
+这时		this time
 这样		this way
 这次		this time
 这点		this point
@@ -71153,6 +71229,7 @@
 远客		guest from afar
 远征		expedition
 远征军		expeditionary force
+远方		faraway place
 远日点		aphelion
 远景		prospect
 远期		long term
@@ -71259,6 +71336,7 @@
 迟浩田		Chi Haotian
 迟滞		delay
 迟疑		hesitate/to hesitate
+迟疑不决		undecided
 迟缓		slow/sluggish
 迟误		procrastinate/to delay
 迟迟		tardily
@@ -71502,6 +71580,7 @@
 适用		applicable/be applicable
 适用性		applicability
 适者生存		survival of the fittest
+适逢		simultaneously
 适配		adaptation
 适配层		adaptation layer
 适量		appropriate amount
@@ -71656,6 +71735,7 @@
 递增		increase progressively
 递归		recurrence/recursion/recursive
 递推		recurrence/recursion/recursive
+递给		hand to
 途		way
 途中		en route
 途人		stranger
@@ -74670,6 +74750,7 @@
 铁器		hardware/ironware
 铁器商		ironmonger
 铁器时代		Iron Age
+铁圈		iron fetter
 铁塔		iron tower
 铁定		unalterable
 铁尔梅兹		Termez
@@ -76766,6 +76847,7 @@
 随意		as one wishes
 随手		conveniently/without extra trouble
 随时		at all times/at any time
+随时随地		any time and place
 随机		random
 随机性		randomness
 随机数		rand/random number
@@ -79321,6 +79403,7 @@
 风险投资		venture capital
 风险管理		risk management
 风雨		wind and rain
+风雨飘摇		easily swaying in wind
 风雪		wind and snow
 风靡		fashionable
 风骚		literary excellence
@@ -80491,6 +80574,7 @@
 骑术		horsemanship/equitation
 骑车		ride a bicycle
 骑马		ride a horse
+骑驴		ride donkey
 骒		mare
 骒马		mare
 骓		piebald
