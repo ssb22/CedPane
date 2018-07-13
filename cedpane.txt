@@ -2624,6 +2624,7 @@ Cabot	卡伯特	卡伯特	Kǎbótè	Kā-baak-dahk
 Cabral	卡布拉尔	卡布拉爾	Kǎbùlā'ěr	Kā-bou-lāai-yíh	
 Cabrera	卡伯勒	卡伯勒	Kǎbólēi	Kā-baak-lahk	
 Cabul	迦步勒	迦步勒	Jiābùlè	Gā-bouh-lahk	kˈeɪbəl
+cachet (good feature)	特征	特征	tèzhēng	dahk-jīng	
 caculating in statistics? (check-one-by-one count)	点计	點計	diǎnjì	dím-gai	
 Cadbury	卡德伯里	卡德伯里	Kǎdébólǐ	Kā-dāk-baak-léih	
 Cadiz	卡第斯	卡第斯	Kǎdìsī	Kā-daih-sī	kˌədˈɪz
@@ -5934,6 +5935,7 @@ firmly pile up (stones etc)?	坚垒	堅壘	jiānlěi	gīn-léuih
 firm to the end	坚持到底	堅持到底	jiānchí dàodǐ	gīn-chìh dou-dái	
 First Aid Department (at assembly etc)	急救部	急救部	Jíjiùbù	Gāp-gau-bouh	
 firstborn (of creation)	头生子	頭生子	tóushēngzǐ	tàuh-sāang-jí	
+firstborn son	首生子	首生子	shǒushēngzǐ	sáu-sāang-jí	
 first broadcast (not a repeat)	首播	首播	shǒubō	sáu-bo	
 first come first served	先到先得	先到先得	xiān dào xiān dé	sīn dou sīn dāk	
 First Ecumenical Council	第一次全体会议	第一次全體會議	Dì Yī Cì Quántǐ Huìyì	Daih Yāt Chi Chyùhn-tái Wuih-yíh	
@@ -13160,6 +13162,7 @@ oppress people	压迫人民	壓迫人民	yāpò rénmín	ngaat-bīk yàhn-màhn
 Oprah	奥普兰	奧普蘭	Àopǔlán	Ou-póu-làahn	
 optical engineering	光学工程	光學工程	guāngxué gōngchéng	gwōng-hohk gūng-chìhng	
 optic nerve atrophy	视神经萎缩	視神經萎縮	shìshénjīng wěisuō	sih-sàhn-gīng wāi-sūk	
+optional	非必要	非必要	fēibìyào	fēi-bīt-yiu	
 optional (lit. can-use option?)	可供选择	可供選擇	kě gōng xuǎnzé	hó gūng syún-jaahk	ˈɒpʃənəl
 Ora	奥拉	奧拉	Àolā	Ou-lāai	
 oral diseases	口腔疾病	口腔疾病	kǒuqiāng jíbìng	háu-hōng jaht-behng	
@@ -14215,6 +14218,7 @@ Pripet	普里佩特	普里佩特	Pǔlǐpèitè	Póu-léih-pui-dahk
 Priscilla	普里西拉	普里西拉	Pǔlǐxīlā	Póu-léih-sāi-lāai	
 Priscilla; Prisca	百基拉	百基拉	Bǎijīlā	Baak-gēi-lāai	pɹˌɪsˈɪlə
 Priscilla and Aquila; Prisca and Aquila	百基拉和亚居拉	百基拉和亞居拉	Bǎijīlā hé Yàjūlā	Baak-gēi-lāai wòh Nga-gēui-lāai	
+prisoner's dilemma (game theory)	囚徒困境	囚徒困境	qiútú kùnjìng	chàuh-tòuh kwan-gíng	
 prisoner number	囚犯编号	囚犯編號	qiúfàn biānhào	chàuh-faahn pīn-houh	
 prisoners (plural)	囚犯们	囚犯們	qiúfànmen	chàuh-faahn-mùhn	
 Pritchard	普里查德	普里查德	Pǔlǐchádé	Póu-léih-chàh-dāk	
@@ -14222,6 +14226,7 @@ privacy (lit. personal space)	私人空间	私人空間	sīrén kōngjiān	sī-y
 privacy policy	隐私政策	隱私政策	yǐnsī zhèngcè	yán-sī jing-chaak	
 private gathering (meal)	私人宴会	私人宴會	sīrén yànhuì	sī-yàhn yin-wuih	
 private homes	私人家	私人家	sīrén jiā	sī-yàhn gā	
+prizefighter; professional boxer	职业拳击手	職業拳擊手	zhíyè quánjīshǒu	jīk-yihp kyùhn-gīk-sáu	
 probe vehicle	探测车	探測車	tàncèchē	taam-chāak-chē	
 problem won't be there when you come to it (lit. boat arrive bridge gate naturally straight)	船到桥门自然直	船到橋門自然直	chuán dào qiáo mén zìrán zhí	syùhn dou kìuh mùhn jih-yìhn jihk	
 process of elimination	排除法	排除法	páichúfǎ	pàaih-chèuih-faat	
@@ -14704,6 +14709,7 @@ real (as in stable and true; obscure?)	稳确	穩確	wěnquè	wán-kok
 really good	真好	真好	zhēn hǎo	jān hóu	
 really hot (ancient word)	爁炎	爁炎	lànyán	làahm-yìhm	
 really (is it really so)	真的	真的	zhēnde	jān-dīk	
+real money (not fake)	真钞	真鈔	zhēnchāo	jān-chāau	
 real reason; underlying cause	真正原因	真正原因	zhēnzhèng yuányīn	jān-jing yùhn-yān	
 reap completely (of harvest)	割尽	割盡	gējìn	got-jeuhn	
 reassess	重新衡量	重新衡量	chóngxīn héngliáng	chùhng-sān hàhng-lèuhng	
@@ -16823,6 +16829,7 @@ Staffa	斯塔福	斯塔福	Sītǎfú	Sī-taap-fūk
 Stafford	斯塔福德	斯塔福德	Sītǎfúdé	Sī-taap-fūk-dāk	
 Staffordshire	斯塔福德郡	斯塔福德郡	Sītǎfúdéjùn	Sī-taap-fūk-dāk-gwahn	stˈæfədʃɚ
 stagger to	荡到	蕩到	dàngdào	dohng-dou	
+stag hunt (game theory)	猎鹿博弈	獵鹿博弈	lièlù bóyì	lihp-luhk bok-yihk	
 stained-glass windows	彩色玻璃窗	彩色玻璃窗	cǎisè bōlichuāng	chói-sīk bō-lēi-chēung	
 Stairway	台阶	台階	Táijiē	Tòih-gāai	
 stairwell	楼梯井	樓梯井	lóutījǐng	làuh-tāi-jéng	
@@ -17591,6 +17598,7 @@ that's all for now	先这样	先這樣	xiānzhèyàng	sīn-jéh-yeuhng
 that I give	我所给的	我所給的	wǒ suǒ gěi de	ngóh só kāp dīk	
 that place (variant)	那裏	那裏	nàli	náh-léih	
 that road	那条路	那條路	nèi tiáo lù	náh tìuh louh	
+that year	那一年	那一年	nà yī nián	náh yāt nìhn	
 that (you) say is	所说是	所說是	suǒ shuō shì	só syut sih	
 Thayer	塞耶	塞耶	Sàiyē	Choi-yèh	
 the abyss	无底深渊	無底深淵	wúdǐshēnyuān	mòuh-dái-sām-yūn	
