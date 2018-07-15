@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-07-14
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-07-15
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -2227,7 +2227,7 @@
 大利大 大利大 [da4 li4 da4] /talitha (old translation?)/
 達利克 达利克 [da2 li4 ke4] /daric/
 大利拉 大利拉 [Da4 li4 la1] /Delilah/
-大羚羊 大羚羊 [da4_ling2 yang2] /oryx/
+大羚羊 大羚羊 [da4_ling2 yang2] /oryx/hartebeest/
 大流士 大流士 [Da4 liu2 shi4] /Darius/
 達里婭 达里娅 [Da2 li3 ya4] /Daria/
 大龍 大龙 [da4 long2] /great dragon/dragon, great/
@@ -12985,7 +12985,7 @@
 繁花盛放 繁花盛放 [fan2 hua1 sheng4 fang4] /blossom fully(?)/fully(?), blossom/
 繁簡體 繁简体 [fan2 jian3 ti3] /both traditional and simplified (characters)/traditional and simplified, both (characters)/
 反吸煙 反吸烟 [fan3 xi1 yan1] /antismoking-/
-反應冷淡 反应冷淡 [fan3 ying4_leng3 dan4] /be apathetic/apathetic, be/
+反應冷淡 反应冷淡 [fan3 ying4_leng3 dan4] /be apathetic/respond with apathy/apathetic, be/apathy, respond with/
 發音准確 发音准确 [fa1 yin1_zhun3 que4] /correct pronunciation/pronunciation, correct/
 分封侯 分封侯 [fen1 feng1 hou2] /district ruler/ruler, district/
 付録 付録 [fu4 lu4] /appendix/supplement (Japanese version)/
@@ -20242,3 +20242,25 @@
 真鈔 真钞 [zhen1 chao1] /real money (not fake)/money, real (not fake)/
 職業拳擊手 职业拳击手 [zhi2 ye4_quan2 ji1 shou3] /prizefighter/professional boxer/
 非基督教 非基督教 [Fei1 Ji1 du1 jiao4] /non-Christian/
+斑鬣狗 斑鬣狗 [ban1 lie4 gou3] /spotted hyena/hyena, spotted/
+波莉 波莉 [Bo1 li4] /Poli/
+長期患病 长期患病 [chang2 qi1_huan4 bing4] /chronic health issues/health issues, chronic/
+共同祖先 共同祖先 [gong4 tong2_zu3 xian1] /common ancestor/ancestor, common/
+假使者 假使者 [jia3_shi3 zhe3] /false messengers/messengers, false/
+機會主義者 机会主义者 [ji1 hui4 zhu3 yi4 zhe3] /opportunist/
+勒妮 勒妮 [Lei1 ni1] /Renee/
+貓鼬 猫鼬 [mao1 you4] /mongoose/
+馬紹爾群島 马绍尔群岛 [Ma3 shao4 er3_qun2 dao3] /Marshall Islands/Islands, Marshall/
+沒有被嚇倒 没有被吓倒 [mei2 you3_bei4_xia4 dao3] /not intimidated/intimidated, not/
+沒有承擔 没有承担 [mei2 you3_cheng2 dan1] /no commitment/commitment, no/
+人與人之間的衝突 人与人之间的冲突 [ren2_yu3_ren2_zhi1 jian1_de5_chong1 tu1] /interpersonal conflicts/conflicts, interpersonal/
+生活太忙碌 生活太忙碌 [sheng1 huo2_tai4_mang2 lu4] /(overly) demanding routine (of life)/routine, demanding (of life)/
+視聽設備 视听设备 [shi4 ting1_she4 bei4] /audiovisual equipment/equipment, audiovisual/
+水羚 水羚 [shui3 ling2] /waterbuck/
+索羅茲 索罗兹 [Suo3 luo2 zi1] /Sozos/
+痛苦的經歷 痛苦的经历 [tong4 ku3_de5_jing1 li4] /traumatic experience/experience, traumatic/
+突如其來的情況 突如其来的情况 [tu1 ru2 qi2 lai2_de5_qing2 kuang4] /unexpected situation/situation, unexpected/
+香貓 香猫 [xiang1 mao1] /genet/
+小羚羊 小羚羊 [xiao3 ling2 yang2] /duiker/
+亞士蘭 亚士兰 [Ya4 shi4 lan2] /Ashland/
+疣豬 疣猪 [you2 zhu1] /warthog/
