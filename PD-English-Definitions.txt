@@ -1856,7 +1856,7 @@
 东芝		Toshiba
 东莞		Dongguan
 东营市		Dongying
-东西		east and west/thing
+东西		thing/east and west
 东边		the east
 东辽		Dongliao
 东道		host
@@ -2646,7 +2646,7 @@
 之久		duration of
 之內		inside/within
 之内		inside/within
-之前		ago/prior to/before
+之前		before/ago/prior to
 之后		after/afterwards/later
 之外		outside
 之後		after/afterwards/later
@@ -6147,7 +6147,7 @@
 倚賴		rely on/be dependent on
 倚赖		rely on/be dependent on
 倚重		to rely heavily upon
-倚靠		backing/to lean on/support
+倚靠		rely on
 倜		energetic
 倜傥		free and easy
 倜儻		free and easy
@@ -23250,7 +23250,7 @@
 对话框		dialog box
 对调		swap/exchange
 对谈		talk
-对象		girlfriend
+对象		object/girlfriend
 对路		to one's liking
 对过		opposite
 对阵		poised for battle
@@ -29392,7 +29392,7 @@
 意志力		willpower
 意念		thought/idea
 意态		bearing
-意思		desire
+意思		meaning
 意想		expect
 意想不到		unexpected
 意愿		desire/wish/aspiration
@@ -30071,7 +30071,7 @@
 戔		narrow
 戔戔		small/tiny
 戕		kill
-或		perhaps/maybe/or
+或		or/perhaps/maybe
 或多或少		more or less
 或是		or
 或然		probable
@@ -30327,7 +30327,7 @@
 房頂		housetop/roof
 房顶		housetop/roof
 所		place/that which
-所以		as a result/so/therefore
+所以		so/as a result/therefore
 所作所为		actions and conduct
 所到之处		wherever one goes
 所到之處		wherever one goes
@@ -30345,7 +30345,8 @@
 所得稅		income tax
 所得税		income tax
 所指		reference
-所有		to have
+所有		every
+投靠		run to rely on
 所有主		owner/proprietor
 所有权		ownership/title
 所有權		ownership/title
@@ -31770,7 +31771,7 @@
 拔除		pull out/remove
 拔頂		topping
 拔顶		topping
-拖		delay
+拖		drag
 拖住		hinder
 拖债		default on a debt
 拖債		default on a debt
@@ -57746,7 +57747,7 @@
 结构助词		structural particle
 结构变化		structural change
 结构式		structural formula
-结果		bear fruit
+结果		result
 结核		nodule/tuberculosis
 结核病		tuberculosis
 结核菌素		tuberculin
@@ -57777,8 +57778,8 @@
 绘图		to draw/drawing
 绘声绘色		vivid/lively
 绘画		paint/draw/drawing
-给		to
-给予		to give/give
+给		give
+给予		give
 给付		pay
 给以		give/grant
 给力		cool
@@ -65628,7 +65629,7 @@
 觀賞		see and enjoy
 觀鳥		birdwatching
 觀點		standpoint/point of view
-见		meet
+见		see/meet
 见不得		not fit to be seen
 见不得人		unpresentable
 见之实施		put into effect
@@ -71175,7 +71176,7 @@
 还嘴		retort
 还好		fortunately/not bad
 还押		remand
-还是		had better/still/or
+还是		or/had better/still
 还有		in addition/furthermore/still
 还款		pay back money
 还清		pay off
@@ -72819,7 +72820,7 @@
 那不勒斯		Naples
 那个		that
 那么		so
-那些		//those
+那些		those
 那個		that
 那儿		there
 那兒		there
@@ -73499,7 +73500,7 @@
 釋教		Buddhism
 釋然		relieved/at ease
 釋迦牟尼		Sakyamuni
-里		home
+里		in/home
 里克特		Richter
 里出外进		uneven
 里加		Riga
@@ -75132,7 +75133,7 @@
 锻压		forge
 锻模		forging die
 锻炉		forge
-锻炼		engage in physical exercise/toughen/temper
+锻炼		to train/exercise/toughen/temper
 锻造		forge/forging
 锻铁		wrought iron
 锼		engrave
@@ -82564,7 +82565,7 @@
 龐貝		Pompeii
 龕		niche
 龕影		niche
-龙		imperial/dragon
+龙		dragon/imperial
 龙井市		Longjing
 龙利		sole
 龙南		Longnan
