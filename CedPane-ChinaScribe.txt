@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-07-27
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-08-03
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -14132,7 +14132,7 @@
 阿鐵語 阿铁语 [A1 tie3 yu3] /Attié (language)/
 阿瓦爾語 阿瓦尔语 [A1 wa3 er3 yu3] /Avar (language)/
 阿亞庫喬 阿亚库乔 [A1 ya4 ku4 qiao2] /Ayacucho/
-巴布亞皮欽語 巴布亚皮钦语 [Ba1 bu4 ya4 pi2 qin1 yu3] /Tok Pisin (language)/Pisin, Tok (language)/
+巴布亞皮欽語 巴布亚皮钦语 [Ba1 bu4 ya4_Pi2 qin1 yu3] /Tok Pisin (language)/Pisin, Tok (language)/
 白俄羅斯語 白俄罗斯语 [Bai2 e2 luo2 si1 yu3] /Belorussian (language)/
 巴釐語 巴厘语 [Ba1 li2 yu3] /Balinese (language)/
 巴里語 巴里语 [Ba1 li3 yu3] /Bari (language)/
@@ -20296,3 +20296,9 @@
 烏爾弗 乌尔弗 [Wu1 er3 fu2] /Ulf/
 寫好 写好 [xie3 hao3] /write out well/well, write out/
 在生 在生 [zai4 sheng1] /living/
+波利亞科夫 波利亚科夫 [Bo1 li4 ya4 ke1 fu1] /Polyakov/
+大怒傷肝 大怒伤肝 [da4 nu4_shang1_gan1] /anger damages the liver/damages the liver, anger/
+鄂木斯克 鄂木斯克 [E4 mu4 si1 ke4] /Omsk/
+怒氣傷肝 怒气伤肝 [nu4 qi4_shang1_gan1] /anger damages the liver/damages the liver, anger/
+日不落帝國 日不落帝国 [ri4_bu2_luo4_di4 guo2] /sun never set on (British) empire/never set on empire, sun/
+宗教歧視 宗教歧视 [zong1 jiao4_qi2 shi4] /religious discrimination/discrimination, religious/
