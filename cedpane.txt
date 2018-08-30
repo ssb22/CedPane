@@ -331,7 +331,7 @@ Ahlai	亚莱	亞萊	Yàlái	Nga-lòih	ˈɑlaɪ
 Ahmadabad	艾哈迈达巴德	艾哈邁達巴德	Àihāmàidábādé	Ngaaih-hā-maaih-daaht-bā-dāk	
 Ahmed	艾哈迈德	艾哈邁德	Àihāmàidé	Ngaaih-hā-maaih-dāk	
 Ahohi	亚合	亞合	Yàhé	Nga-hahp	ʌhˈəʊhaɪ
-Ahonen	阿霍宁	阿霍寧	Āhuònìng	A-fok-nìhng	
+Ahonen	阿霍宁	阿霍寧	Āhuòníng	A-fok-nìhng	
 Ahti	阿赫蒂	阿赫蒂	Āhèdì	A-hāk-dai	
 a hundredfold	一百倍	一百倍	yībǎi bèi	yāt-baak púih	
 Ahura	安格拉	安格拉	Āngélā	Ngōn-gaak-lāai	
@@ -867,7 +867,7 @@ Antonia	安东尼雅	安東尼雅	Āndōngníyǎ	Ngōn-dūng-nèih-ngáh
 Antonio	安东尼奥	安東尼奧	Āndōngní'ào	Ngōn-dūng-nèih-ou	æntˈəʊnjəʊ
 Antonios	安东尼奥斯	安東尼奧斯	Āndōngní'àosī	Ngōn-dūng-nèih-ou-sī	
 Antonis	安东尼斯	安東尼斯	Āndōngnísī	Ngōn-dūng-nèih-sī	
-Antonín	安东宁	安東寧	Āndōngnìng	Ngōn-dūng-nìhng	
+Antonín	安东宁	安東寧	Āndōngníng	Ngōn-dūng-nìhng	
 Antu (county, in Jilin)	安图县	安圖縣	Āntú Xiàn	Ngōn-tòuh Yún	
 Antun	安通	安通	Āntōng	Ngōn-tūng	
 Antwerp	安特卫普	安特衛普	Āntèwèipǔ	Ngōn-dahk-waih-póu	
@@ -1453,6 +1453,7 @@ banana boat	香蕉船	香蕉船	xiāngjiāo chuán	hēung-jīu syùhn
 Banan (district, in Chongqing)	巴南区	巴南區	Bānán Qū	Bā-nàahm Kēui	
 band, gang, party (variant)	一夥	一夥	yīhuǒ(r)	yāt-fó	
 banding (of a tree etc; lit. hoop stop)	箍住	箍住	gūzhù	kū-jyuh	
+bandwidth (quota)	频宽	頻寬	pínkuān	pàhn-fūn	
 Bangalore	班加罗尔	班加羅爾	Bānjiāluó'ěr	Bāan-gā-lòh-yíh	bˌæŋɡəlˈʊə
 Bangka (island)	邦加岛	邦加島	Bāngjiādǎo	Bōng-gā-dóu	
 Bangor	班戈	班戈	Bāngē	Bāan-gwō	
@@ -1754,6 +1755,7 @@ Belford (town)	贝尔福罗舒市	貝爾福羅舒市	Bèi'ěrfúluóshū Shì	Bu
 Belgian Congo	比属刚果	比屬剛果	Bǐshǔ Gāngguǒ	Béi-suhk Gōng-gwó	
 Belgorod	别尔哥罗德	別爾哥羅德	Bié'ěrgēluódé	Biht-yíh-gō-lòh-dāk	
 Belial	彼列	彼列	Bǐliè	Béi-liht	bˈiliəl
+believe anything that's said	是话都信	是話都信	shì huà dōu xìn	sih wah dōu seun	
 believe in Buddhism	信佛	信佛	xìn Fó	seun Faht	
 believers	信徒们	信徒們	xìntúmen	seun-tòuh-mùhn	
 believe to the limit	尽信	盡信	jìnxìn	jeuhn-seun	
@@ -1786,6 +1788,7 @@ Ben-hanan	本哈南	本哈南	Běnhānán	Bún-hā-nàahm	bˌɛnhˈeɪnæn
 Ben-zoheth	本琐赫	本瑣赫	Běnsuǒhè	Bún-só-hāk	bˌɛnzˈəʊhɛθ
 Benaiah	比拿雅	比拿雅	Bǐnáyǎ	Béi-nàh-ngáh	bʌnˈaɪʌ
 Benanti	贝南蒂	貝南蒂	Bèinándì	Bui-nàahm-dai	
+Benci	本奇	本奇	Běnqí	Bún-kèih	
 Bende	邦德	邦德	Bāngdé	Bōng-dāk	
 Bender (surname)	本德	本德	Běndé	Bún-dāk	
 Bendiner	本迪纳	本迪納	Běndínà	Bún-dihk-naahp	
@@ -2001,6 +2004,7 @@ big group (of people)	大伙	大伙	dàhuǒ(r)	daaih-fó
 big group (of people)	大夥	大夥	dàhuǒ(r)	daaih-fó	
 Big Hole (diamond mining pit)	大洞	大洞	dà dòng	daaih duhng	
 big iron teeth	大铁牙	大鐵牙	dàtiěyá	daaih-tit-ngàh	
+<Cantonese, insult> big silly elephant	大笨象	大笨象	dàbènxiàng	daaih-bahn-jeuhng	
 big tempest	大风暴	大風暴	dàfēngbào	daaih-fūng-bouh	
 Bigtha	比革他	比革他	Bǐgétā	Béi-gaak-tā	bˈɪɡθə
 big tree district	大树区	大樹區	dàshùqū	daaih-syuh-kēui	
@@ -2339,6 +2343,7 @@ bragging and ranting; unrestrained talk	狂言妄语	狂言妄語	kuángyán-wà
 Brahe	布拉赫	布拉赫	Bùlāhè	Bou-lāai-hāk	
 Brahmaputra (river)	布拉马普特拉河	布拉馬普特拉河	Bùlamǎpǔtèlāhé	Bou-lāai-máh-póu-dahk-lāai-hòh	
 Brahms	勃拉姆斯	勃拉姆斯	Bólāmǔsī	Buht-lāai-móuh-sī	
+Brahms	布拉姆斯	布拉姆斯	Bùlāmǔsī	Bou-lāai-móuh-sī	
 Braille	盲人点字	盲人點字	mángrén diǎnzì	màahng-yàhn dím-jih	
 Braille (Louis)	布莱叶	布萊葉	Bùláiyè	Bou-lòih-yihp	
 Braille (system)	盲人点字法	盲人點字法	mángrén diǎnzìfǎ	màahng-yàhn dím-jih-faat	
@@ -2362,7 +2367,7 @@ brasserie	啤酒店	啤酒店	píjiǔdiàn	bē-jáu-dim
 brass section (in an orchestra)	铜管组	銅管組	tóngguǎnzǔ	tùhng-gún-jóu	
 Bratislava	布拉迪斯拉发	布拉迪斯拉發	Bùlādísīlāfā	Bou-lāai-dihk-sī-lāai-faat	bɹˌætɪslˈɑvə
 Braun	布劳恩	布勞恩	Bùláo'ēn	Bou-lòuh-yān	
-Brauning	布罗伊宁	布羅伊寧	Bùluóyīnìng	Bou-lòh-yī-nìhng	
+Brauning	布罗伊宁	布羅伊寧	Bùluóyīníng	Bou-lòh-yī-nìhng	
 Brazelton	布雷泽尔顿	布雷澤爾頓	Bùléizé'ěrdùn	Bou-lèuih-jaahk-yíh-deuhn	
 Brazzaville	布拉柴维尔	布拉柴維爾	Bùlācháiwéi'ěr	Bou-lāai-chàaih-wàih-yíh	
 bread (variant form)	麪包	麪包	miànbāo	mihn-bāau	
@@ -2407,6 +2412,7 @@ brick stand; terrace of bricks	砖台	磚台	zhuāntái	jyūn-tòih
 Bridehead	布莱赫德	布萊赫德	Bùláihèdé	Bou-lòih-hāk-dāk	
 Bridehead	布里德赫德	布里德赫德	Bùlǐdéhèdé	Bou-léih-dāk-hāk-dāk	
 Bridehead	布里赫德	布里赫德	Bùlǐhèdé	Bou-léih-hāk-dāk	
+bridge (in song, Cantonese version)	过渡段	過渡段	guòdùduàn	gwo-douh-dyuhn	
 Bridges (surname)	布里奇斯	布里奇斯	Bùlǐqísī	Bou-léih-kèih-sī	
 Bridgetown	布里奇敦	布里奇敦	Bùlǐqídūn	Bou-léih-kèih-dēun	
 Bridgewater (near Manchester)	布里奇沃特	布里奇沃特	Bùlǐqíwòtè	Bou-léih-kèih-yūk-dahk	
@@ -2486,7 +2492,7 @@ Brossollet	布罗索莱特	布羅索萊特	Bùluósuǒláitè	Bou-lòh-sok-lòih
 brother of one's people?	族兄弟	族兄弟	zúxiōngdì	juhk-hīng-daih	
 brothers (younger, old translation?)	弟弟们	弟弟們	dìdimen	daih-daih-mùhn	
 Brownian motion	布朗运动	布朗運動	Bùlǎng yùndòng	Bou-lóhng wahn-duhng	
-Browning	布朗宁	布朗寧	Bùlǎngnìng	Bou-lóhng-nìhng	
+Browning	布朗宁	布朗寧	Bùlǎngníng	Bou-lóhng-nìhng	
 Brownlee	布朗利	布朗利	Bùlǎnglì	Bou-lóhng-leih	
 Brown (surname); Browne	布朗	布朗	Bùlǎng	Bou-lóhng	
 Broz	布罗兹	布羅茲	Bùluózī	Bou-lòh-jī	
@@ -2672,6 +2678,7 @@ calamity	遭祸	遭禍	zāohuò	jōu-woh	kˌəlˈæmɪti
 Calavi	卡拉维	卡拉維	Kǎlāwéi	Kā-lāai-wàih	
 Calcol	迦科	迦科	Jiākē	Gā-fō	kˈælkɒl
 Caleb (Bible)	迦勒	迦勒	Jiālè	Gā-lahk	kˈeɪlɛb
+Caleb (modern)	凯莱布	凱萊布	Kǎiláibù	Hói-lòih-bou	
 Caleb (modern)	嘉勒	嘉勒	Jiālè	Gā-lahk	kˈeɪlɛb
 Caledonia	喀里多尼亚	喀里多尼亞	Kālǐduōníyà	Haak-léih-dō-nèih-nga	
 calendar (system)	历法	歷法	lìfǎ	lihk-faat	kˈælɪndɚ
@@ -2785,7 +2792,7 @@ Canneh	干尼	干尼	Gānní	Gōn-nèih	kˈænæɹ
 can never	从不会	從不會	cóng bùhuì	chùhng bāt-wúih	
 can never	永不会	永不會	yǒngbú huì	wíhng-bāt wúih	
 cannibalism; eating of human flesh	吃人肉	吃人肉	chī rénròu	hek yàhn-yuhk	
-Canning (surname)	坎宁	坎寧	Kǎnnìng	Hām-nìhng	
+Canning (surname)	坎宁	坎寧	Kǎnníng	Hām-nìhng	
 Cannon (surname)	甘南	甘南	Gānnán	Gām-nàahm	
 cannot at all	并不能	並不能	bìng bùnéng	bihng bāt-nàhng	
 canon; canonical	正典	正典	zhèngdiǎn	jing-dín	kˈænən
@@ -2840,6 +2847,7 @@ cardiovascular disease	心血管疾病	心血管疾病	xīnxuèguǎn jíbìng	s�
 Cardoso	卡多佐	卡多佐	Kǎduōzuǒ	Kā-dō-jo	
 Cardoza	卡多萨	卡多薩	Kǎduōsà	Kā-dō-saat	
 carefully count (?)	細數	细数	xìshǔ	sai-sóu	
+carefully listen	留心听	留心聽	liúxīn tīng	làuh-sām ting	
 caregiving	照顾病人	照顧病人	zhàogù bìngrén	jiu-gu behng-yàhn	
 Carel (river)	卡雷尔和	卡雷爾和	Kǎléi'ěrhé	Kā-lèuih-yíh-wòh	
 Carey	凯里	凱里	Kǎilǐ	Hói-léuih	
@@ -3080,10 +3088,10 @@ Changji (in Xinjiang)	昌吉市	昌吉市	Chāngjí Shì	Chēung-gāt Síh
 Changle (city, in Fujian)	长乐市	長樂市	Chánglè Shì	Chèuhng-lohk Síh	
 Changli (county, in Hebei)	昌黎县	昌黎縣	Chānglí Xiàn	Chēung-làih Yún	
 Changling (county, in Jilin)	长岭县	長嶺縣	Chánglǐng Xiàn	Chèuhng-léhng Yún	
-Changning (county, in Sichuan)	长宁县	長寧縣	Chángnìng Xiàn	Chèuhng-nìhng Yún	
-Changning (county, in Yunnan)	昌宁县	昌寧縣	Chāngnìng Xiàn	Chēung-nìhng Yún	
-Changning (in Hunan)	常宁	常寧	Chángnìng	Sèuhng-nìhng	
-Changning (in Hunan)	常宁市	常寧市	Chángnìng Shì	Sèuhng-nìhng Síh	
+Changning (county, in Sichuan)	长宁县	長寧縣	Chángníng Xiàn	Chèuhng-nìhng Yún	
+Changning (county, in Yunnan)	昌宁县	昌寧縣	Chāngníng Xiàn	Chēung-nìhng Yún	
+Changning (in Hunan)	常宁	常寧	Chángníng	Sèuhng-nìhng	
+Changning (in Hunan)	常宁市	常寧市	Chángníng Shì	Sèuhng-nìhng Síh	
 Changping	昌平	昌平	Chāngpíng	Chēung-pìhng	
 Changsha (in Hunan)	长沙市	長沙市	Chángshā Shì	Chèuhng-sā Síh	
 Changshan (county, in Zhejiang)	常山县	常山縣	Chángshān Xiàn	Sèuhng-sāan Yún	
@@ -3200,6 +3208,7 @@ Cherethites	基利提人	基利提人	Jīlìtírén	Gēi-leih-tàih-yàhn	kˈɛ�
 cherished husband	爱夫	愛夫	àifū	ngoi-fū	
 Cherith	基立	基立	Jīlì	Gēi-lahp	kˈiɹɪθ
 Cheri Yeung Suet-Yee (actor/producer)	杨雪仪	楊雪儀	Yáng Xuěyí	Yèuhng Syut-yìh	
+Chernikov	切尔尼科夫	切爾尼科夫	Qiè'ěrníkēfū	Chit-yíh-nèih-fō-fū	
 Chernovtsy	切尔诺夫策	切爾諾夫策	Qiè'ěrnuòfūcè	Chit-yíh-nohk-fū-chaak	
 Cherny	切尼	切尼	Qièní	Chit-nèih	
 Cherrapunji	乞拉朋齐	乞拉朋齊	Qǐlāpéngqí	Hāt-lāai-pàhng-chàih	
@@ -4008,7 +4017,7 @@ Cumaná (city)	库马纳市	庫馬納市	Kùmǎnà Shì	Fu-máh-naahp Síh
 cumi	库米	庫米	kùmǐ	fu-máih	
 cumi (old translation?)	古米	古米	gǔmǐ	gú-máih	
 Cummins	卡明斯	卡明斯	Kǎmíngsī	Kā-mìhng-sī	
-Cunningham (pinyin uncertain)	坎宁安	坎寧安	Kǎnnìng'ān	Hām-nìhng-ngōn	
+Cunningham	坎宁安	坎寧安	Kǎnníng'ān	Hām-nìhng-ngōn	
 cup and dish	杯盘	杯盤	bēipán	būi-pùhn	
 cupbearer	御酒官	御酒官	yùjiǔguān	yuh-jáu-gūn	
 Curacao	库拉索	庫拉索	Kùlāsuǒ	Fu-lāai-sok	
@@ -4143,7 +4152,7 @@ Daniels	丹尼尔斯	丹尼爾斯	Dānní'ěrsī	Dāan-nèih-yíh-sī
 Danielson	丹尼尔森	丹尼爾森	Dānní'ěrsēn	Dāan-nèih-yíh-sām	
 Danilo	达尼洛	達尼洛	Dáníluò	Daaht-nèih-lohk	
 Danilovsky	丹尼洛夫斯基	丹尼洛夫斯基	Dānníluòfūsījī	Dāan-nèih-lohk-fū-sī-gēi	
-Daning (county, in Shanxi)	大宁县	大寧縣	Dànìng Xiàn	Daaih-nìhng Yún	
+Daning (county, in Shanxi)	大宁县	大寧縣	Dàníng Xiàn	Daaih-nìhng Yún	
 Danite	但人	但人	Dànrén	Daahn-yàhn	dˈænaɪt
 Danjiangkou (in Hubei)	丹江口	丹江口	Dānjiāngkǒu	Dāan-gōng-háu	
 Danjiangkou (in Hubei)	丹江口市	丹江口市	Dānjiāngkǒu Shì	Dāan-gōng-háu Síh	
@@ -4287,6 +4296,7 @@ deceive	骗倒	騙倒	piàndǎo	pin-dóu
 deceiver	欺骗者	欺騙者	qīpiànzhě	hēi-pin-jé	dˌɪsˈivɚ
 Dechang (county, in Sichuan)	德昌县	德昌縣	Déchāng Xiàn	Dāk-chēung Yún	
 de Choperena	德乔佩雷娜	德喬佩雷娜	Déqiáopèiléinà	Dāk-kìuh-pui-lèuih-nàh	
+decision paralysis	选择困难症	選擇困難症	xuǎnzé kùnnánzhèng	syún-jaahk kwan-nàahn-jing	
 Decker	德克尔	德克爾	Dékè'ěr	Dāk-hāk-yíh	
 declare righteous	称义	稱義	chēngyì	chīng-yih	
 deconstruction (literary)	解构主义	解構主義	jiěgòuzhǔyì	gáai-kau-jyú-yih	
@@ -4417,6 +4427,7 @@ desire to take	私拿	私拿	sīná	sī-nàh
 desire (variant)	慾望	慾望	yùwàng	yuhk-mohng	
 Desk (in organisation)	事务处	事務處	shìwùchù	sih-mouh-chyu	
 desktop edition (of a website)	电脑版	電腦版	diànnǎo bǎn	dihn-nóuh báan	
+desktop (type of computer)	桌上型	桌上型	zhuōshàngxíng	chéuhk-seuhng-yìhng	
 desmodium	金钱草	金錢草	jīnqiáncǎo	gām-chìhn-chóu	
 Desmond	德斯蒙德	德斯蒙德	Désīméngdé	Dāk-sī-mùhng-dāk	
 desolated place	荒场	荒場	huāngchǎng	fōng-chèuhng	
@@ -4692,8 +4703,8 @@ Dongguan (in Guangdong)	东莞市	东莞市	Dōngguǎn Shì	Dūng-gún Síh
 Donglan (county, in Guangxi)	东兰县	東蘭縣	Dōnglán Xiàn	Dūng-làahn Yún	
 Dongliao (county, in Jilin)	东辽县	東遼縣	Dōngliáo Xiàn	Dūng-lìuh Yún	
 Dongling (district, in Liaoning)	东陵区	東陵區	Dōnglíng Qū	Dūng-lìhng Kēui	
-Dongning (in Heilongjiang)	东宁	東寧	Dōngnìng	Dūng-nìhng	
-Dongning (in Heilongjiang)	东宁市	東寧市	Dōngnìng Shì	Dūng-nìhng Síh	
+Dongning (in Heilongjiang)	东宁	東寧	Dōngníng	Dūng-nìhng	
+Dongning (in Heilongjiang)	东宁市	東寧市	Dōngníng Shì	Dūng-nìhng Síh	
 Dongshan (county, in Fujian)	东山县	東山縣	Dōngshān Xiàn	Dūng-sāan Yún	
 Dongtai (in Jiangsu)	东台	東台	Dōngtái	Dūng-tòih	
 Dongtai (in Jiangsu)	东台市	東台市	Dōngtái Shì	Dūng-tòih Síh	
@@ -4751,6 +4762,7 @@ Douala	杜阿拉	杜阿拉	Dù'ālā	Douh-a-lāai
 Douala (city)	杜阿拉市	杜阿拉市	Dù'ālā Shì	Douh-a-lāai Síh	
 Douala (language)	杜亚拉语	杜亞拉語	Dùyàlāyǔ	Douh-nga-lāai-yúh	
 Douay Bible; Douay Version; Dy	杜埃译本	杜埃譯本	Dù'āi Yìběn	Douh-āai Yihk-bún	
+double-click	按两下	按兩下	àn liǎng xià	on léuhng hah	
 double-helical structure (of DNA)	双螺旋结构	雙螺旋結構	shuāngluóxuán jiégòu	sēung-lòh-syùhn git-kau	
 double-tongued	一口两舌	一口兩舌	yīkǒu-liǎngshé	yāt-háu-léuhng-siht	
 <comp.> double click	双击	雙擊	shuāngjī	sēung-gīk	
@@ -4769,6 +4781,7 @@ do well	做得好	做得好	zuò de hǎo	jouh dāk hóu
 Down's Syndrome	唐氏综合症	唐氏綜合症	Tángshì Zōnghézhèng	Tòhng-sih Jung-hahp-jing	
 Downey	唐尼	唐尼	Tángní	Tòhng-nèih	
 Downing (pinyin uncertain)	唐宁	唐寧	Tángníng	Tòhng-nìhng	
+download and install	下载并安装	下載並安裝	xiàzài bìng ānzhuāng	hah-joi bihng ngōn-jōng	
 downsize; cut staff	缩减人手	縮減人手	suōjiǎn rénshǒu	sūk-gáam yàhn-sáu	
 down to	下到	下到	xiàdào	hah-dou	
 downward-moving (of shadows etc)	下移	下移	xiàyí	hah-yìh	
@@ -4823,7 +4836,7 @@ drop a course; withdraw from a course	退课	退課	tuìkè	teui-fo
 "drop not break", something that is robust and resistant to damage from dropping etc	摔不坏	摔不壞	shuāibúhuài	sēut-bāt-waaih	
 dropout rate (of course/school)	退课率	退課率	tuìkèlǜ	teui-fo-leuht	
 drop (something) into (a box etc); "drop in"	投进	投進	tóujìn	tàuh-jeun	
-Drosnin	卓思宁	卓思寧	Zhuósīnìng	Cheuk-sī-nìhng	
+Drosnin	卓思宁	卓思寧	Zhuósīníng	Cheuk-sī-nìhng	
 drove of animals	群畜	群畜	qúnxù	kwàhn-chūk	
 Drucker	德鲁克	德魯克	Délǔkè	Dāk-lóuh-hāk	
 drug cartel	贩毒集团	販毒集團	fàndú jítuán	fáahn-duhk jaahp-tyùhn	
@@ -4888,7 +4901,7 @@ Durdle Door	杜德尔门	杜德爾門	Dùdé'ěrmén	Douh-dāk-yíh-mùhn
 Durga (Hindu goddess, lit. "hard to approach mother" from Sanskrit "inaccessible")	难近母	難近母	Nánjìnmǔ	Nàahn-gahn-móuh	
 Durham	德拉姆	德拉姆	Délāmǔ	Dāk-lāai-móuh	
 during World War II	二战期间	二戰期間	Èrzhàn qījiān	Yih-jin kèih-gāan	
-Durning	德宁	德寧	Dénìng	Dāk-nìhng	
+Durning	德宁	德寧	Déníng	Dāk-nìhng	
 Durrell	达雷尔	達雷爾	Dáléi'ěr	Daaht-lèuih-yíh	
 Durval	杜尔瓦尔	杜爾瓦爾	Dù'ěrwǎ'ěr	Douh-yíh-ngáh-yíh	
 Durán	杜兰	杜蘭	Dùlán	Douh-làahn	
@@ -5235,6 +5248,7 @@ Emeishan (in Sichuan)	峨眉山市	峨眉山市	Éméishān Shì	Ngòh-mèih-sā
 Emerald (place in Australia)	埃默拉尔德	埃默拉爾德	Āimòlā'ěrdé	Āai-mahk-lāai-yíh-dāk	
 emerald (stone)	绿柱玉	綠柱玉	lǜzhùyù	luhk-chyúh-yuhk	
 emerge from its cocoon	破茧而出	破繭而出	pò jiǎn ér chū	po gáan yìh chēut	
+emergency exit	紧急出口	緊急出口	jǐnjí chūkǒu	gán-gāp chēut-háu	
 emergency services	紧急救援服务	緊急救援服務	jǐnjí jiùyuán fúwù	gán-gāp gau-wùhn fuhk-mouh	
 Emerson	埃默森	埃默森	Āimòsēn	Āai-mahk-sām	
 Emerson	爱默生	愛默生	Àimòshēng	Ngoi-mahk-sāang	
@@ -5714,6 +5728,7 @@ Fallows	法洛斯	法洛斯	Fǎluòsī	Faat-lohk-sī
 fall to	落到	落到	luòdào	lohk-dou	
 fall to	降为	降為	jiàng wéi	gong wàih	
 fall towards	倒向	倒向	dǎoxiàng	dóu-heung	
+false alarm	假警报	假警報	jiǎ jǐngbào	gá gíng-bou	
 false apostles	假使徒	假使徒	jiǎ-shǐtú	gá-si-tòuh	
 false Christians	假基督徒	假基督徒	jiǎ-Jīdūtú	gá-gēi-dūk-tòuh	
 false Christs	假基督	假基督	jiǎ-Jīdū	gá-gēi-dūk	
@@ -5853,7 +5868,7 @@ Fenggang (county, in Guizhou)	凤冈县	鳳岡縣	Fènggāng Xiàn	Fuhng-gōng Y
 Fenghua (city, in Zhejiang)	奉化市	奉化市	Fènghuà Shì	Fuhng-fa Síh	
 Fengjie (county, in Chongqing)	奉节县	奉節縣	Fèngjié Xiàn	Fuhng-jit Yún	
 Fengkai (county, in Guangdong)	封开县	封開縣	Fēngkāi Xiàn	Fūng-hōi Yún	
-Fengning (county, in Hebei)	丰宁县	丰寧縣	Fēngnìng Xiàn	Fūng-nìhng Yún	
+Fengning (county, in Hebei)	丰宁县	丰寧縣	Fēngníng Xiàn	Fūng-nìhng Yún	
 Fengqing (county, in Yunnan)	凤庆县	鳳慶縣	Fèngqìng Xiàn	Fuhng-hing Yún	
 Fengqiu (county, in Henan)	封丘县	封丘縣	Fēngqiū Xiàn	Fūng-yāu Yún	
 Fengshan (county, in Guangxi)	凤山县	鳳山縣	Fèngshān Xiàn	Fuhng-sāan Yún	
@@ -6137,6 +6152,7 @@ format; (page) layout	编排方式	編排方式	biānpái fāngshì	pīn-pàaih 
 for me (do sthg etc; lit. in-place-of me)	替我	替我	tì wǒ	tai ngóh	
 former Soviet Union	前苏联	前蘇聯	Qián Sūlián	Chìhn Sōu-lyùhn	
 former Yugoslavia; lands of the former Yugoslavia	前南斯拉夫	前南斯拉夫	Qián-Nánsīlāfū	Chìhn-nàahm-sī-lāai-fū	
+formidable circumstances	艰难的情况	艱難的情況	jiānnán de qíngkuàng	gāan-nàahn dīk chìhng-fong	
 Formosa (old name for Taiwan)	美丽岛	美麗島	Měilì Dǎo	Méih-laih Dóu	fˌʊəmˈəʊsə
 Foro	福罗	福羅	Fúluó	Fūk-lòh	
 Forrester	福雷斯特	福雷斯特	Fúléisītè	Fūk-lèuih-sī-dahk	
@@ -6323,9 +6339,9 @@ fully number/provision (a military force etc)	重整	重整	chóngzhěng	chùhng
 Fulton	富尔顿	富爾頓	Fù'ěrdùn	Fu-yíh-deuhn	
 Fumin (county, in Yunnan)	富民县	富民縣	Fùmín Xiàn	Fu-màhn Yún	
 Funan (county, in Anhui)	阜南县	阜南縣	Fùnán Xiàn	Fauh-nàahm Yún	
-Funing (county, in Hebei)	抚宁县	撫寧縣	Fǔnìng Xiàn	Fú-nìhng Yún	
-Funing (county, in Jiangsu)	阜宁县	阜寧縣	Fùnìng Xiàn	Fauh-nìhng Yún	
-Funing (county, in Yunnan)	富宁县	富寧縣	Fùnìng Xiàn	Fu-nìhng Yún	
+Funing (county, in Hebei)	抚宁县	撫寧縣	Fǔníng Xiàn	Fú-nìhng Yún	
+Funing (county, in Jiangsu)	阜宁县	阜寧縣	Fùníng Xiàn	Fauh-nìhng Yún	
+Funing (county, in Yunnan)	富宁县	富寧縣	Fùníng Xiàn	Fu-nìhng Yún	
 Funk	冯克	馮克	Féngkè	Fùhng-hāk	
 Funk	芬克	芬克	Fēnkè	Fān-hāk	
 Fuping (county, in Hebei)	阜平县	阜平縣	Fùpíng Xiàn	Fauh-pìhng Yún	
@@ -7094,7 +7110,7 @@ gringa (derogatory term for American woman used in Venezuela)	外国婆子	外�
 Griqualand West	西格里夸兰	西格里誇蘭	Xīgélǐkuālán	Sāi-gaak-léih-kwā-làahn	
 Grizzle	格里泽尔	格里澤爾	Gélǐzé'ěr	Gaak-léih-jaahk-yíh	
 Grolier	格罗里埃	格羅里埃	Géluólǐ'āi	Gaak-lòh-léih-āai	
-Groningen	格罗宁根	格羅寧根	Géluónìnggēn	Gaak-lòh-nìhng-gān	ɡɹˈəʊnɪŋən
+Groningen	格罗宁根	格羅寧根	Géluónínggēn	Gaak-lòh-nìhng-gān	ɡɹˈəʊnɪŋən
 Gros	格罗斯	格羅斯	Géluósī	Gaak-lòh-sī	
 Grossi	格罗西	格羅西	Géluóxī	Gaak-lòh-sāi	
 Grossman	格罗斯曼	格羅斯曼	Géluósīmàn	Gaak-lòh-sī-maahn	
@@ -7125,7 +7141,7 @@ Guanghan (in Sichuan)	广汉市	廣漢市	Guǎnghàn Shì	Gwóng-hon Síh
 Guanghe (county, in Gansu)	广河县	廣河縣	Guǎnghé Xiàn	Gwóng-hòh Yún	
 Guangling (county, in Shanxi)	广灵县	廣靈縣	Guǎnglíng Xiàn	Gwóng-lìhng Yún	
 Guangnan (county, in Yunnan)	广南县	廣南縣	Guǎngnán Xiàn	Gwóng-nàahm Yún	
-Guangning (county, in Guangdong)	广宁县	廣寧縣	Guǎngnìng Xiàn	Gwóng-nìhng Yún	
+Guangning (county, in Guangdong)	广宁县	廣寧縣	Guǎngníng Xiàn	Gwóng-nìhng Yún	
 Guangping (county, in Hebei)	广平县	廣平縣	Guǎngpíng Xiàn	Gwóng-pìhng Yún	
 Guangshan (county, in Henan)	光山县	光山縣	Guāngshān Xiàn	Gwōng-sāan Yún	
 Guangshui (in Hubei)	广水	廣水	Guǎngshuǐ	Gwóng-séui	
@@ -7320,8 +7336,8 @@ Hailun (in Heilongjiang)	海伦	海倫	Hǎilún	Hói-lèuhn
 Hailun (in Heilongjiang)	海伦市	海倫市	Hǎilún Shì	Hói-lèuhn Síh	
 Haimen (in Jiangsu)	海门	海門	Hǎimén	Hói-mùhn	
 Haimen (in Jiangsu)	海门市	海門市	Hǎimén Shì	Hói-mùhn Síh	
-Haining (in Zhejiang)	海宁	海寧	Hǎinìng	Hói-nìhng	
-Haining (in Zhejiang)	海宁市	海寧市	Hǎinìng Shì	Hói-nìhng Síh	
+Haining (in Zhejiang)	海宁	海寧	Hǎiníng	Hói-nìhng	
+Haining (in Zhejiang)	海宁市	海寧市	Hǎiníng Shì	Hói-nìhng Síh	
 Haiphong Road (place in HK)	海防道	海防道	Hǎifáng Dào	Hói-fòhng Douh	
 hairless dog	无毛狗	無毛狗	wúmáogǒu	mòuh-mòuh-gáu	
 hairline crack	细小裂缝	細小裂縫	xìxiǎo lièfèng	sai-síu liht-fùhng	
@@ -7550,6 +7566,7 @@ Hauran	浩兰	浩蘭	Hàolán	Houh-làahn	haʊɹˈæn
 Hausa (language)	豪萨语	豪薩語	Háosàyǔ	Hòuh-saat-yúh	
 Hauser	奥塞尔	奧塞爾	Àosè'ěr	Ou-choi-yíh	
 have a clear conscience	无愧于心	無愧于心	wúkuìyúxīn	mòuh-kwai-yū-sām	
+have a closed mind	思想顽固	思想頑固	sīxiǎng wángù	sī-séung wàahn-gu	
 have a critical spirit	爱挑人毛病	愛挑人毛病	ài tiāo rén máobìng	ngoi tīu yàhn mòuh-behng	
 (have a) humble attitude; have humility (for learning language etc)	放低姿态	放低姿態	fàngdī zītài	fong-dāi jī-taai	
 have a knowledge of letters	知书识字	知書識字	zhīshū-shízì	jī-syū-sīk-jih	
@@ -7614,6 +7631,7 @@ health-care professionals	医疗人员	醫療人員	yīliáo rényuán	yī-lìuh
 health-care providers	医护人员	醫護人員	yīhù rényuán	yī-wuh yàhn-yùhn	
 health-care reform; healthcare reform	医疗改革	醫療改革	yīliáo gǎigé	yī-lìuh gói-gaak	
 healthful food	有益健康的食物	有益健康的食物	yǒuyì jiànkāng de shíwù	yáuh-yīk gihn-hōng dīk sihk-maht	
+health law expert	医疗法律专家	醫療法律專家	yīliáo fǎlǜ zhuānjiā	yī-lìuh faat-leuht jyūn-gā	
 healthy (body) weight	健康体重	健康體重	jiànkāng tǐzhòng	gihn-hōng tái-chúhng	hˈɛlθi
 heaps	一堆堆	一堆堆	yīduīduī	yāt-dēui-dēui	
 heap upon (?)	堆上	堆上	duīshang	dēui-séuhng	
@@ -8127,6 +8145,7 @@ Hosea (prophet)	何西阿	何西阿	Héxī'ā	Hòh-sāi-a	həʊsˈiʌ
 Hoshaiah	何沙雅	何沙雅	Héshāyǎ	Hòh-sā-ngáh	həʊʃˈaɪə
 Hoshea 	何细亚	何細亞	Héxìyà	Hòh-sai-nga	həʊʃˈiʌ
 Hoshea	何西亚	何西亞	Héxīyà	Hòh-sāi-nga	həʊʃˈiʌ
+hosiery (clothing type)	袜类	襪類	wà lèi	maht leuih	
 Hoskins	霍斯金斯	霍斯金斯	Huòsījīnsī	Fok-sī-gām-sī	
 Hosoi	霍索伊	霍索伊	Huòsuǒyī	Fok-sok-yī	
 hospitable and generous	慷慨好客	慷慨好客	kāngkǎi-hàokè	hóng-koi-hou-haak	
@@ -8213,7 +8232,7 @@ Huaiji (county, in Guangdong)	怀集县	懷集縣	Huáijí Xiàn	Wàaih-jaahp Y�
 Huailai (county, in Hebei)	怀来县	懷來縣	Huáilái Xiàn	Wàaih-lòih Yún	
 Huainan (in Anhui)	淮南市	淮南市	Huáinán Shì	Wàaih-nàahm Síh	
 Huainanzi (book from 2nd century BCE)	淮南子	淮南子	Huáinánzi	Wàaih-nàahm-jí	
-Huaining (county, in Anhui)	怀宁县	懷寧縣	Huáinìng Xiàn	Wàaih-nìhng Yún	
+Huaining (county, in Anhui)	怀宁县	懷寧縣	Huáiníng Xiàn	Wàaih-nìhng Yún	
 Huaiyang (county, in Henan)	淮阳县	淮陽縣	Huáiyáng Xiàn	Wàaih-yèuhng Yún	
 Huaiyuan (county, in Anhui)	怀远县	懷遠縣	Huáiyuǎn Xiàn	Wàaih-yúhn Yún	
 Huajuapan	瓦华潘	瓦華潘	Wǎhuápān	Ngáh-wàh-pūn	
@@ -8236,7 +8255,7 @@ Huangshi (in Hubei)	黄石	黃石	Huángshí	Wòhng-sehk
 Huangshi (in Hubei)	黄石市	黃石市	Huángshí Shì	Wòhng-sehk Síh	
 Huangyuan (county, in Qinghai)	湟源县	湟源縣	Huángyuán Xiàn	Wòhng-yùhn Yún	
 Huangzhong (county, in Qinghai)	湟中县	湟中縣	Huángzhōng Xiàn	Wòhng-jūng Yún	
-Huaning (county, in Yunnan)	华宁县	華寧縣	Huánìng Xiàn	Wàh-nìhng Yún	
+Huaning (county, in Yunnan)	华宁县	華寧縣	Huáníng Xiàn	Wàh-nìhng Yún	
 Huanjiang (county, in Guangxi)	环江县	環江縣	Huánjiāng Xiàn	Wàahn-gōng Yún	
 Huanren (county, in Liaoning)	桓仁县	桓仁縣	Huánrén Xiàn	Wùhn-yàhn Yún	
 Huaping (county, in Yunnan)	华坪县	華坪縣	Huápíng Xiàn	Wàh-pìhng Yún	
@@ -8282,7 +8301,7 @@ Huidong (county, in Sichuan)	会东县	會東縣	Huìdōng Xiàn	Wúi-dūng Yún
 Huilai (county, in Guangdong)	惠来县	惠來縣	Huìlái Xiàn	Waih-lòih Yún	
 Huili (county, in Sichuan)	会理县	會理縣	Huìlǐ Xiàn	Wúi-léih Yún	
 Huinan (county, in Jilin)	辉南县	輝南縣	Huīnán Xiàn	Fāi-nàahm Yún	
-Huining (county, in Gansu)	会宁县	會寧縣	Huìnìng Xiàn	Wuih-nìhng Yún	
+Huining (county, in Gansu)	会宁县	會寧縣	Huìníng Xiàn	Wuih-nìhng Yún	
 Huiping	惠萍	惠萍	Huìpíng	Waih-pìhng	
 Huishui (county, in Guizhou)	惠水县	惠水縣	Huìshuǐ Xiàn	Waih-séui Yún	
 Huixian (in Henan)	辉县	輝縣	Huīxiàn	Fāi-yún	
@@ -8472,6 +8491,7 @@ imagination	想像力	想像力	xiǎngxiànglì	séung-jeuhng-lihk
 imaging (lit. become-resemble technique)	成像术	成像術	chéngxiàngshù	sìhng-jeuhng-seuht	
 Imbabura	因巴布拉	因巴布拉	Yīnbābùlā	Yān-bā-bou-lāai	
 Imbali	因巴利	因巴利	Yīnbālì	Yān-bā-leih	
+Imerese	伊梅雷塞	伊梅雷塞	Yīméiléisè	Yī-mùih-lèuih-choi	
 immaculate conception	无原罪	無原罪	wúyuánzuì	mòuh-yùhn-jeuih	
 Immaculate Conception of Mary (Catholic doctrine)	圣母无原罪	聖母無原罪	Shèngmǔ wúyuánzuì	Sing-móuh mòuh-yùhn-jeuih	
 Immaculée	伊玛库莱	伊瑪庫萊	Yīmǎkùlái	Yī-máh-fu-lòih	
@@ -8532,6 +8552,7 @@ Indonesian (language)	印尼语	印尼語	Yìnníyǔ	Yan-nèih-yúh	ˌɪndənˈi
 indulge in sensual pleasures (variant)	纵慾	縱慾	zòngyù	jung-yuhk	
 Indus (river)	印度河	印度河	Yìndùhé	Yan-douh-hòh	
 industrial gas torch	气焊枪	氣焊槍	qìhànqiāng	hei-hohn-chēung	
+(in) early teens	少年时	少年時	shàonián shí	siu-nìhn sìh	
 Ines	伊内丝	伊內絲	Yīnèisī	Yī-noih-sī	
 in everyday life	在日常生活中	在日常生活中	zài rìcháng shēnghuó zhōng	joih yaht-sèuhng sāang-wuht jūng	
 in expectation	满怀期待	滿懷期待	mǎnhuái qīdài	múhn-wàaih kèih-doih	
@@ -8554,6 +8575,7 @@ initial stage	最初阶段	最初階段	zuìchū jiēduàn	jeui-chō gāai-dyuhn
 injure each other	相残	相殘	xiāngcán	sēung-chàahn	
 injurious arrows	恶箭	惡箭	èjiàn	ngok-jin	
 injurious scheme	恶谋	惡謀	èmóu	ngok-màuh	
+Inna	因娜	因娜	Yīnnà	Yān-nàh	
 inner frame	内框	內框	nèikuàng	noih-kwāang	
 inner garment	内袍	內袍	nèipáo	noih-pòuh	
 innermost chamber (lit. inside room)	内屋	內屋	nèiwū	noih-ngūk	
@@ -8778,6 +8800,7 @@ Ivo	伊沃	伊沃	Yīwò	Yī-yūk
 ivory plate	象牙块	象牙塊	xiàngyákuài(r)	jeuhng-ngàh-faai	
 Ivvah	以瓦	以瓦	Yǐwǎ	Yíh-ngáh	ˈɪvʌ
 Ivy (name)	艾维	艾維	Àiwéi	Ngaaih-wàih	
+Ivy (name)	艾薇	艾薇	Àiwēi	Ngaaih-mèih	
 Ixtlán	伊斯特兰	伊斯特蘭	Yīsītèlán	Yī-sī-dahk-làahn	
 Iye-abarim	以耶亚巴琳	以耶亞巴琳	Yǐyēyàbālín	Yíh-yèh-nga-bā-làhm	ˌaɪjʌˈæbʌɹɪm
 Iyyar (month, =Ziv)	以珥月	以珥月	Yǐ'ěryuè	Yíh-yih-yuht	
@@ -8970,7 +8993,7 @@ Jenner	詹纳	詹納	Zhānnà	Jīm-naahp
 Jennifer	珍妮弗	珍妮弗	Zhēnnīfú	Jān-nèih-fāt	dʒˈɛnɪfɚ
 Jennifer	珍妮花	珍妮花	Zhēnnīhuā	Jān-nèih-fā	
 Jennifer	詹妮弗	詹妮弗	Zhānnīfú	Jīm-nèih-fāt	
-Jennings	詹宁斯	詹寧斯	Zhānnìngsī	Jīm-nìhng-sī	
+Jennings	詹宁斯	詹寧斯	Zhānníngsī	Jīm-nìhng-sī	
 Jenny	詹妮	詹妮	Zhānnī	Jīm-nèih	
 Jens	延斯	延斯	Yánsī	Yìhn-sī	
 Jensen	延森	延森	Yánsēn	Yìhn-sām	
@@ -9065,7 +9088,7 @@ Jiangyou (in Sichuan)	江油市	江油市	Jiāngyóu Shì	Gōng-yàuh Síh
 Jianhe (county, in Guizhou)	剑河县	劍河縣	Jiànhé Xiàn	Gim-hòh Yún	
 Jianhu (county, in Jiangsu)	建湖县	建湖縣	Jiànhú Xiàn	Gin-wùh Yún	
 Jianli (county, in Hubei)	监利县	監利縣	Jiānlì Xiàn	Gāam-leih Yún	
-Jianning (county, in Fujian)	建宁县	建寧縣	Jiànnìng Xiàn	Gin-nìhng Yún	
+Jianning (county, in Fujian)	建宁县	建寧縣	Jiànníng Xiàn	Gin-nìhng Yún	
 Jianping (county, in Liaoning)	建平县	建平縣	Jiànpíng Xiàn	Gin-pìhng Yún	
 Jianshi (county, in Hubei)	建始县	建始縣	Jiànshǐ Xiàn	Gin-chí Yún	
 Jianshui (county, in Yunnan)	建水县	建水縣	Jiànshuǐ Xiàn	Gin-séui Yún	
@@ -9132,8 +9155,8 @@ Jingjiang (in Jiangsu)	靖江市	靖江市	Jìngjiāng Shì	Jihng-gōng Síh
 Jingle (county, in Shanxi)	静乐县	靜樂縣	Jìnglè Xiàn	Jihng-lohk Yún	
 Jingmen (in Hubei)	荆门	荊門	Jīngmén	Gīng-mùhn	
 Jingmen (in Hubei)	荆门市	荊門市	Jīngmén Shì	Gīng-mùhn Síh	
-Jingning (county, in Gansu)	静宁县	靜寧縣	Jìngnìng Xiàn	Jihng-nìhng Yún	
-Jingning (county, in Zhejiang)	景宁县	景寧縣	Jǐngnìng Xiàn	Gíng-nìhng Yún	
+Jingning (county, in Gansu)	静宁县	靜寧縣	Jìngníng Xiàn	Jihng-nìhng Yún	
+Jingning (county, in Zhejiang)	景宁县	景寧縣	Jǐngníng Xiàn	Gíng-nìhng Yún	
 Jingshan (county, in Hubei)	京山县	京山縣	Jīngshān Xiàn	Gīng-sāan Yún	
 Jingtai (county, in Gansu)	景泰县	景泰縣	Jǐngtài Xiàn	Gíng-taai Yún	
 Jingxi (in Guangxi)	靖西	靖西	Jìngxī	Jihng-sāi	
@@ -9149,12 +9172,12 @@ Jingzhou (in Hubei)	荆州市	荊州市	Jīngzhōu Shì	Gīng-jāu Síh
 Jinhua (in Zhejiang)	金华	金華	Jīnhuá	Gām-wàh	
 Jinhua (in Zhejiang)	金华市	金華市	Jīnhuá Shì	Gām-wàh Síh	
 Jinhu (county, in Jiangsu)	金湖县	金湖縣	Jīnhú Xiàn	Gām-wùh Yún	
-Jining (in Shandong)	济宁	濟寧	Jìnìng	Jai-nìhng	
-Jining (in Shandong)	济宁市	濟寧市	Jìnìng Shì	Jai-nìhng Síh	
+Jining (in Shandong)	济宁	濟寧	Jìníng	Jai-nìhng	
+Jining (in Shandong)	济宁市	濟寧市	Jìníng Shì	Jai-nìhng Síh	
 Jinjiang (in Fujian)	晋江	晉江	Jìnjiāng	Jeun-gōng	
 Jinjiang (in Fujian)	晋江市	晉江市	Jìnjiāng Shì	Jeun-gōng Síh	
 jinn (Arab myth)	镇尼	鎮尼	zhènní	jan-nèih	
-Jinning (county, in Yunnan)	晋宁县	晉寧縣	Jìnnìng Xiàn	Jeun-nìhng Yún	
+Jinning (county, in Yunnan)	晋宁县	晉寧縣	Jìnníng Xiàn	Jeun-nìhng Yún	
 Jinotepe	希诺特佩	希諾特佩	Xīnuòtèpèi	Hēi-nohk-dahk-pui	
 Jinping (county, in Guizhou)	锦屏县	錦屏縣	Jǐnpíng Xiàn	Gám-pìhng Yún	
 Jinping (county, in Yunnan)	金平县	金平縣	Jīnpíng Xiàn	Gām-pìhng Yún	
@@ -9479,9 +9502,9 @@ Kalahari Desert	卡拉哈里沙漠	卡拉哈里沙漠	Kǎlāhālǐ Shāmò	Kā-l
 Kalaria	卡拉利亚	卡拉利亞	Kǎlālìyà	Kā-lāai-leih-nga	
 Kalenjin (language)	卡兰津语	卡蘭津語	Kǎlánjīnyǔ	Kā-làahn-jēun-yúh	
 Kalinde	卡林迪	卡林迪	Kǎlíndí	Kā-làhm-dihk	
-Kalinin	加里宁	加里寧	Jiālǐnìng	Gā-léih-nìhng	
-Kaliningrad	加里宁格勒	加里寧格勒	Jiālǐnìnggélè	Gā-léih-nìhng-gaak-lahk	
-Kaliningrad	加里宁格勒市	加里寧格勒市	Jiālǐnìnggélè Shì	Gā-léih-nìhng-gaak-lahk Síh	
+Kalinin	加里宁	加里寧	Jiālǐníng	Gā-léih-nìhng	
+Kaliningrad	加里宁格勒	加里寧格勒	Jiālǐnínggélè	Gā-léih-nìhng-gaak-lahk	
+Kaliningrad	加里宁格勒市	加里寧格勒市	Jiālǐnínggélè Shì	Gā-léih-nìhng-gaak-lahk Síh	
 Kalin (surname)	卡林	卡林	Kǎlín	Kā-làhm	
 Kalip	卡利普	卡利普	Kǎlìpǔ	Kā-leih-póu	
 Kalkar	卡尔卡	卡爾卡	Kǎ'ěrkǎ	Kā-yíh-kā	
@@ -9632,7 +9655,7 @@ Keith	基富	基富	Jīfù	Gēi-fu
 Keith	基思	基思	Jīsī	Gēi-sī	
 Keith	基斯	基斯	Jīsī	Gēi-sī	
 Kekchi (people in Belize)	凯克奇人	凱克奇人	Kǎikèqírén	Hói-hāk-kèih-yàhn	
-Kekkonen	凯科宁	凱科寧	Kǎikēnìng	Hói-fō-nìhng	
+Kekkonen	凯科宁	凱科寧	Kǎikēníng	Hói-fō-nìhng	
 Kelaiah	基拉雅	基拉雅	Jīlāyǎ	Gēi-lāai-ngáh	kəlˈaɪʌ
 Kelan (county, in Shanxi)	岢岚县	岢嵐縣	Kělán Xiàn	Hó-làahm Yún	
 Keller	凯勒	凱勒	Kǎilè	Hói-lahk	
@@ -9924,7 +9947,7 @@ Korla (in Xinjiang)	库尔勒市	庫爾勒市	Kù'ěrlè Shì	Fu-yíh-lahk Síh
 Koroma	科罗马	科羅馬	Kēluómǎ	Fō-lòh-máh	
 Koryo celadon	高丽青瓷	高麗青瓷	Gāolí qīngcí	Gōu-laih chīng-chìh	
 Kosich	科西奇	科西奇	Kēxīqí	Fō-sāi-kèih	
-Koskinen	科斯基宁	科斯基寧	Kēsījīnìng	Fō-sī-gēi-nìhng	
+Koskinen	科斯基宁	科斯基寧	Kēsījīníng	Fō-sī-gēi-nìhng	
 kosmos (Greek word)	科斯莫斯	科斯莫斯	kēsīmòsī	fō-sī-mohk-sī	
 Kosovo	科索沃	科索沃	Kēsuǒwò	Fō-sok-yūk	kəsˈəʊvəʊ
 Kosrae	科斯拉伊	科斯拉伊	Kēsīlāyī	Fō-sī-lāai-yī	
@@ -10330,7 +10353,7 @@ Leibo (county, in Sichuan)	雷波县	雷波縣	Léibō Xiàn	Lèuih-bō Yún
 Leicester; Lester	莱斯特	萊斯特	Láisītè	Lòih-sī-dahk	
 Leiden (city near Antwerp)	莱顿	萊頓	Láidùn	Lòih-deuhn	lˈaɪdən
 Leif (Eriksson)	莱夫	萊夫	Láifū	Lòih-fū	
-Leinonen	莱诺宁	萊諾寧	Láinuònìng	Lòih-nohk-nìhng	
+Leinonen	莱诺宁	萊諾寧	Láinuòníng	Lòih-nohk-nìhng	
 Leipzig	莱比锡	萊比錫	Láibǐxī	Lòih-béi-sek	lˈaɪpzɪɡ
 Leishan (county, in Guizhou)	雷山县	雷山縣	Léishān Xiàn	Lèuih-sāan Yún	
 Lei Tingjie (Chess player)	雷挺婕	雷挺婕	Léi Tǐngjié	Lèuih Tíhng-jit	
@@ -10358,6 +10381,7 @@ Lengshuijiang (in Hunan)	冷水江	冷水江	Lěngshuǐjiāng	Láahng-séui-gōn
 Lengshuijiang (in Hunan)	冷水江市	冷水江市	Lěngshuǐjiāng Shì	Láahng-séui-gōng Síh	
 lengthened to (a new longer duration)	延长至	延長至	yáncháng zhì	yìhn-chèuhng ji	
 Leningrad	列宁格勒	列寧格勒	Liènínggélè	Liht-nìhng-gaak-lahk	lˈɛnɪŋɹæd
+Leninsky	列宁斯基	列寧斯基	Lièníngsījī	Liht-nìhng-sī-gēi	
 Lennart	伦纳特	倫納特	Lúnnàtè	Lèuhn-naahp-dahk	
 Lennon (John, older translation?)	李侬	李儂	Lǐnóng	Léih-nùhng	
 Lennox (John)	伦诺克斯	倫諾克斯	Lúnnuòkèsī	Lèuhn-nohk-hāk-sī	
@@ -10507,6 +10531,7 @@ lift up (of face)	仰起	仰起	yǎngqi	yéuhng-héi
 light-emitting diode; LED	发光二极管	發光二極管	fāguāng èrjíguǎn	faat-gwōng yih-gihk-gún	
 light-harvesting efficiency (of a solar collector)	捕光效能	捕光效能	bǔguāng xiàonéng	bouh-gwōng haauh-nàhng	
 Lightfoot	莱特富特	萊特富特	Láitèfùtè	Lòih-dahk-fu-dahk	
+lightly wipe (clean)	轻抹	輕抹	qīngmā	hīng-mut	
 lightning protector	避雷线	避雷線	bìléixiàn	beih-lèuih-sin	
 light pollution	光污染	光污染	guāngwūrǎn	gwōng-wū-yíhm	
 Liguria (Italy)	利古里亚	利古里亞	Lìgǔlǐyà	Leih-gú-léuih-nga	
@@ -10922,6 +10947,7 @@ luciferase enzyme	萤光酵素	螢光酵素	yíngguāng jiàosù	yìhng-gwōng h
 luciferin (substance)	萤光素	螢光素	yíngguāngsù	yìhng-gwōng-sou	
 Lucille	露西尔	露西爾	Lùxī'ěr	Louh-sāi-yíh	
 Lucinda	露辛达	露辛達	Lùxīndá	Louh-sān-daaht	
+Lucio	卢乔	盧喬	Lúqiáo	Lòuh-kìuh	
 Lucius	卢修斯	盧修斯	Lúxiūsī	Lòuh-sāu-sī	lˈʉːʃiəs
 Lucius	路求	路求	Lùqiú	Louh-kàuh	lˈʉːʃiəs
 lucrative career (lit. gain big money)	赚大钱	賺大錢	zhuàn dà qián	jaahn daaih chín	
@@ -10981,7 +11007,7 @@ Luohe (in Henan)	漯河市	漯河市	Luòhé Shì	Léuih-hòh Síh
 Luojiang (county, in Sichuan)	罗江县	羅江縣	Luójiāng Xiàn	Lòh-gōng Yún	
 Luo (language)	卢奥语	盧奧語	Lú'àoyǔ	Lòuh-ou-yúh	
 Luonan (county, in Shaanxi)	洛南县	洛南縣	Luònán Xiàn	Lohk-nàahm Yún	
-Luoning (county, in Henan)	洛宁县	洛寧縣	Luònìng Xiàn	Lohk-nìhng Yún	
+Luoning (county, in Henan)	洛宁县	洛寧縣	Luòníng Xiàn	Lohk-nìhng Yún	
 Luoping County (Yunnan)	罗平县	羅平縣	Luópíng Xiàn	Lòh-pìhng Yún	
 Luoping (in Yunnan)	罗平	羅平	Luópíng	Lòh-pìhng	
 Luoshan (county, in Henan)	罗山县	羅山縣	Luóshān Xiàn	Lòh-sāan Yún	
@@ -11457,6 +11483,7 @@ marriage vow	婚誓	婚誓	hūnshì	fān-saih
 marriage vows	结婚誓词	結婚誓詞	jiéhūn shìcí	git-fān saih-chìh	
 Marris	马里斯	馬里斯	Mǎlǐsī	Máh-léuih-sī	
 Mars' Hill	战神山	戰神山	Zhànshén Shān	Jin-sàhn Sāan	
+Marsella	马尔塞拉	馬爾塞拉	Mǎ'ěrsāilā	Máh-yíh-choi-lāai	
 Marshalind	玛莎琳	瑪莎琳	Mǎshālín	Máh-sā-làhm	
 Marshall	马歇尔	馬歇爾	Mǎxiē'ěr	Máh-hit-yíh	
 Marshall	马绍尔	馬紹爾	Mǎshào'ěr	Máh-siuh-yíh	
@@ -11865,13 +11892,14 @@ MGB (older name of KGB)	国安部	國安部	Guó'ānbù	Gwok-ngōn-bouh
 Mia	米娅	米婭	Mǐyà	Máih-a	
 Miami Herald	迈阿密先驱报	邁阿密先驅報	Mài'āmì xiānqūbào	Maaih-a-maht sīn-kēui-bou	
 Mianchi (county, in Henan)	渑池县	澠池縣	Miǎnchí Xiàn	Máhn-chìh Yún	
-Mianning (county, in Sichuan)	冕宁县	冕寧縣	Miǎnnìng Xiàn	Míhn-nìhng Yún	
+Mianning (county, in Sichuan)	冕宁县	冕寧縣	Miǎnníng Xiàn	Míhn-nìhng Yún	
 Mianyang (in Sichuan)	绵阳	綿陽	Miányáng	Mìhn-yèuhng	
 Mianyang (in Sichuan)	绵阳市	綿陽市	Miányáng Shì	Mìhn-yèuhng Síh	
 Mianzhu (in Sichuan)	绵竹	綿竹	Miánzhú	Mìhn-jūk	
 Mianzhu (in Sichuan)	绵竹市	綿竹市	Miánzhú Shì	Mìhn-jūk Síh	
 Mibzar	米比萨	米比薩	Mǐbǐsà	Máih-béi-saat	mˈɪbzæɹ
 Mica	米卡	米卡	Mǐkǎ	Máih-kā	
+Micaela	米卡埃拉	米卡埃拉	Mǐkǎ'āilā	Máih-kā-āai-lāai	
 Micah (Bible book)	弥迦书	彌迦書	Míjiāshū	Mèih-gā-syū	mˈaɪkʌ
 Micah (book, Catholic version)	米该亚	米該亞	Mǐgāiyà	Máih-gōi-nga	mˈaɪkʌ
 Micah (not the prophet)	米迦	米迦	Mǐjiā	Máih-gā	mˈaɪkʌ
@@ -12272,6 +12300,7 @@ Motu (language)	莫图语	莫圖語	Mòtúyǔ	Mohk-tòuh-yúh
 Mouding (county, in Yunnan)	牟定县	牟定縣	Móudìng Xiàn	Màuh-dihng Yún	
 mouflon	欧洲盘羊	歐洲盤羊	Ōuzhōu pányáng	Ngāu-jāu pùhn-yèuhng	
 Moundsville	芒德维尔	芒德維爾	Mángdéwéi'ěr	Mòhng-dāk-wàih-yíh	
+mount (a disk image etc)	挂接	掛接	guàjiē	gwa-jip	
 mountain biking	骑山地自行车	騎山地自行車	qí shāndì zìxíngchē	kèh sāan-deih jih-hàahng-chē	
 mountain climber	登山家	登山家	dēngshānjiā	dāng-sāan-gā	
 mountain hiking	登山远足	登山遠足	dēngshān yuǎnzú	dāng-sāan yúhn-jūk	
@@ -12611,6 +12640,7 @@ Navarre	纳瓦拉	納瓦拉	Nàwǎlā	Naahp-ngáh-lāai
 Navarro	纳瓦罗	納瓦羅	Nàwǎluó	Naahp-ngáh-lòh	
 Naveh	纳拿	納拿	Nàná	Naahp-nàh	
 Naveh	纳韦	納韋	Nàwéi	Naahp-wáih	
+navigation; guide	导览	導覽	dǎolǎn	douh-láahm	
 navigational devices (fitted to a ship)	导航装置	導航裝置	dǎoháng zhuāngzhì	douh-hòhng jōng-ji	
 Navotas	纳沃塔斯	納沃塔斯	Nàwòtǎsī	Naahp-yūk-taap-sī	
 Nayibe	纳伊贝	納伊貝	Nàyībèi	Naahp-yī-bui	
@@ -12859,30 +12889,30 @@ Nina	尼娜	尼娜	Nínà	Nèih-nàh	nˈinə
 Nineveh	尼尼微	尼尼微	Níníwēi	Nèih-nèih-mèih	nˈɪnɪvə
 Ninevite	尼尼微人	尼尼微人	Níníwēirén	Nèih-nèih-mèih-yàhn	nˈɪnɪvaɪt
 Ning'an (in Heilongjiang)	宁安市	寧安市	Níng'ān Shì	Nìhng-ngōn Síh	
-Ning'er (county, in Yunnan)	宁洱县	寧洱縣	Nìng'ěr Xiàn	Nìhng-yíh Yún	
-Ningbo (3hrs from Shanghai; has a Nottingham campus)	宁波	寧波	Nìngbō	Nìhng-bō	
-Ningbo (in Zhejiang)	宁波	寧波	Nìngbō	Nìhng-bō	
-Ningbo (in Zhejiang)	宁波市	寧波市	Nìngbō Shì	Nìhng-bō Síh	
-Ningcheng (county, in Inner Mongolia)	宁城县	寧城縣	Nìngchéng Xiàn	Nìhng-sìhng Yún	
-Ningde (in Fujian)	宁德	寧德	Nìngdé	Nìhng-dāk	
-Ningde (in Fujian)	宁德市	寧德市	Nìngdé Shì	Nìhng-dāk Síh	
-Ningdu (county, in Jiangxi)	宁都县	寧都縣	Nìngdū Xiàn	Nìhng-dōu Yún	
-Ningguo (in Anhui)	宁国	寧國	Nìngguó	Nìhng-gwok	
-Ningguo (in Anhui)	宁国市	寧國市	Nìngguó Shì	Nìhng-gwok Síh	
-Ninghai (county, in Zhejiang)	宁海县	寧海縣	Nìnghǎi Xiàn	Nìhng-hói Yún	
-Ninghua (county, in Fujian)	宁化县	寧化縣	Nìnghuà Xiàn	Nìhng-fa Yún	
-Ningjin (county, in Hebei)	宁晋县	寧晉縣	Nìngjìn Xiàn	Nìhng-jeun Yún	
-Ninglang (county, in Yunnan)	宁蒗县	寧蒗縣	Nìnglàng Xiàn	Nìhng-lohng Yún	
-Ningling (county, in Henan)	宁陵县	寧陵縣	Nìnglíng Xiàn	Nìhng-lìhng Yún	
-Ningming (county, in Guangxi)	宁明县	寧明縣	Nìngmíng Xiàn	Nìhng-mìhng Yún	
-Ningnan (county, in Sichuan)	宁南县	寧南縣	Nìngnán Xiàn	Nìhng-nàahm Yún	
-Ningqiang (county, in Shaanxi)	宁强县	寧強縣	Nìngqiáng Xiàn	Nìhng-kèuhng Yún	
-Ningshan (county, in Shaanxi)	宁陕县	寧陝縣	Nìngshǎn Xiàn	Nìhng-sím Yún	
-Ningwu (county, in Shanxi)	宁武县	寧武縣	Nìngwǔ Xiàn	Nìhng-móuh Yún	
-Ningxiang (in Hunan)	宁乡	寧鄉	Nìngxiāng	Nìhng-hēung	
-Ningxiang (in Hunan)	宁乡市	寧鄉市	Nìngxiāng Shì	Nìhng-hēung Síh	
-Ningyuan (county, in Hunan)	宁远县	寧遠縣	Nìngyuǎn Xiàn	Nìhng-yúhn Yún	
-Ninković	宁科维奇	寧科維奇	Nìngkēwéiqí	Nìhng-fō-wàih-kèih	
+Ning'er (county, in Yunnan)	宁洱县	寧洱縣	níng'ěr Xiàn	nìhng-yíh Yún	
+Ningbo (3hrs from Shanghai; has a Nottingham campus)	宁波	寧波	níngbō	nìhng-bō	
+Ningbo (in Zhejiang)	宁波	寧波	níngbō	nìhng-bō	
+Ningbo (in Zhejiang)	宁波市	寧波市	níngbō Shì	nìhng-bō Síh	
+Ningcheng (county, in Inner Mongolia)	宁城县	寧城縣	níngchéng Xiàn	nìhng-sìhng Yún	
+Ningde (in Fujian)	宁德	寧德	níngdé	nìhng-dāk	
+Ningde (in Fujian)	宁德市	寧德市	níngdé Shì	nìhng-dāk Síh	
+Ningdu (county, in Jiangxi)	宁都县	寧都縣	níngdū Xiàn	nìhng-dōu Yún	
+Ningguo (in Anhui)	宁国	寧國	níngguó	nìhng-gwok	
+Ningguo (in Anhui)	宁国市	寧國市	níngguó Shì	nìhng-gwok Síh	
+Ninghai (county, in Zhejiang)	宁海县	寧海縣	nínghǎi Xiàn	nìhng-hói Yún	
+Ninghua (county, in Fujian)	宁化县	寧化縣	nínghuà Xiàn	nìhng-fa Yún	
+Ningjin (county, in Hebei)	宁晋县	寧晉縣	níngjìn Xiàn	nìhng-jeun Yún	
+Ninglang (county, in Yunnan)	宁蒗县	寧蒗縣	nínglàng Xiàn	nìhng-lohng Yún	
+Ningling (county, in Henan)	宁陵县	寧陵縣	nínglíng Xiàn	nìhng-lìhng Yún	
+Ningming (county, in Guangxi)	宁明县	寧明縣	níngmíng Xiàn	nìhng-mìhng Yún	
+Ningnan (county, in Sichuan)	宁南县	寧南縣	níngnán Xiàn	nìhng-nàahm Yún	
+Ningqiang (county, in Shaanxi)	宁强县	寧強縣	níngqiáng Xiàn	nìhng-kèuhng Yún	
+Ningshan (county, in Shaanxi)	宁陕县	寧陝縣	níngshǎn Xiàn	nìhng-sím Yún	
+Ningwu (county, in Shanxi)	宁武县	寧武縣	níngwǔ Xiàn	nìhng-móuh Yún	
+Ningxiang (in Hunan)	宁乡	寧鄉	níngxiāng	nìhng-hēung	
+Ningxiang (in Hunan)	宁乡市	寧鄉市	níngxiāng Shì	nìhng-hēung Síh	
+Ningyuan (county, in Hunan)	宁远县	寧遠縣	níngyuǎn Xiàn	nìhng-yúhn Yún	
+Ninković	宁科维奇	寧科維奇	níngkēwéiqí	nìhng-fō-wàih-kèih	
 Ninurta	尼努尔塔	尼努爾塔	Nínǔ'ěrtǎ	Nèih-nóuh-yíh-taap	
 Nioki	尼奥基	尼奧基	Ní'àojī	Nèih-ou-gēi	
 Nippur	尼普尔	尼普爾	Nípǔ'ěr	Nèih-póu-yíh	
@@ -12943,7 +12973,7 @@ nonsteroidal (of medication)	非类固醇	非類固醇	fēilèigùchún	fēi-leu
 no one here	没有人在	沒有人在	méiyǒu rén zài	muht-yáuh yàhn joih	
 Noph	挪弗	挪弗	Nuófú	Nòh-fāt	
 Nophah	挪法	挪法	Nuófǎ	Nòh-faat	nˈəʊfæɹ
-Noponen	诺波宁	諾波寧	Nuòbōnìng	Nohk-bō-nìhng	
+Noponen	诺波宁	諾波寧	Nuòbōníng	Nohk-bō-nìhng	
 no problem	没问题	沒問題	méi wèntí	muht mahn-tàih	
 Nora	诺拉	諾拉	Nuòlā	Nohk-lāai	nˈʊəɹə
 Norbert	诺伯特	諾伯特	Nuòbótè	Nohk-baak-dahk	
@@ -12986,6 +13016,7 @@ not bend toward the right or the left; not break off course	不偏左右	不偏�
 not clean	不洁净	不潔凈	bù jiéjìng	bāt git-jihng	
 not convenient	不方便	不方便	bù fāngbiàn	bāt fōng-pìhn	
 not deserving	不配得	不配得	bù pèidé	bāt pui-dāk	
+notebook; laptop (type of computer)	笔记型	筆記型	bǐjìxíng	bāt-gei-yìhng	
 note (endnote to an article)	附注	附注	fùzhù	fuh-jyu	
 not enough	不足够	不足夠	bù zúgòu	bāt jūk-gau	
 not extinguished	不灭	不滅	bùmiè	bāt-miht	
@@ -13142,7 +13173,7 @@ Odessa	敖德萨	敖德薩	Áodésà	Ngòuh-dāk-saat	ˌəʊdˈɛsə
 Odile	奥迪莉	奧迪莉	Àodílì	Ou-dihk-leih	
 Odin (Viking god)	奥丁	奧丁	Àodīng	Ou-dīng	
 Odogun	奥多贡	奧多貢	Àoduōgòng	Ou-dō-gung	
-Oehninger	厄宁格	厄寧格	Ènìnggé	Āak-nìhng-gaak	
+Oehninger	厄宁格	厄寧格	Ènínggé	Āak-nìhng-gaak	
 Oelschlägel	厄尔施莱格	厄爾施萊格	È'ěrshīláigé	Āak-yíh-sī-lòih-gaak	
 of African descent	非裔	非裔	Fēiyì	Fēi-yeuih	
 off-peak times (in phone network etc, lit. non-busy)	非繁忙时间	非繁忙時間	fēi fánmáng shíjiān	fēi fàahn-mòhng sìh-gāan	
@@ -13192,6 +13223,7 @@ Olavi	奥拉维	奧拉維	Àolāwéi	Ou-lāai-wàih
 Old Barag (banner, in Inner Mongolia)	陈巴尔虎旗	陳巴爾虎旗	Chénbā'ěrhǔ Qí	Chàhn-bā-yíh-fú Kèih	
 Oldenbourg	奥尔登布尔格	奧爾登布爾格	Ào'ěrdēngbù'ěrgé	Ou-yíh-dāng-bou-yíh-gaak	
 older one(s)	年长者	年長者	niánzhǎngzhě	nìhn-jéung-jé	
+Oldham	奥尔德姆	奧爾德姆	Ào'ěrdémǔ	Ou-yíh-dāk-móuh	
 old proverb/saying	古老的谚语	古老的諺語	gǔlǎo de yànyǔ	gú-lóuh dīk yihn-yúh	
 Olduvai	奥杜维尔	奧杜維爾	Àodùwéi'ěr	Ou-douh-wàih-yíh	
 Oleg	奥莱格	奧萊格	Àoláigé	Ou-lòih-gaak	
@@ -13647,6 +13679,7 @@ patent war	专利战	專利戰	zhuānlì zhàn	jyūn-leih jin
 Paterakis	帕特拉吉斯	帕特拉吉斯	Pàtèlājísī	Paak-dahk-lāai-gāt-sī	
 Paterson	佩特森	佩特森	Pèitèsēn	Pui-dahk-sām	
 Pathros	巴特罗	巴特羅	Bātèluó	Bā-dahk-lòh	pˈæθɹɒs
+patient autonomy	医疗自主权	醫療自主權	yīliáo zìzhǔquán	yī-lìuh jih-jyú-kyùhn	
 patient blood management; PBM	患者血液管理	患者血液管理	huànzhě xuèyè guǎnlǐ	waahn-jé hyut-yihk gún-léih	
 patient (in dealing with people)	耐心待人	耐心待人	nàixīn dàirén	noih-sām doih-yàhn	
 patients' rights	病人的权利	病人的權利	bìngrén de quánlì	behng-yàhn dīk kyùhn-leih	
@@ -13756,7 +13789,7 @@ Pengze (county, in Jiangxi)	彭泽县	彭澤縣	Péngzé Xiàn	Pàahng-jaahk Yú
 Pengzhou (in Sichuan)	彭州	彭州	Péngzhōu	Pàahng-jāu	
 Pengzhou (in Sichuan)	彭州市	彭州市	Péngzhōu Shì	Pàahng-jāu Síh	
 penicillium	青霉菌	青霉菌	qīngméijūn	chīng-mèih-kwán	
-Penine	奔宁	奔寧	Bēnnìng	Bān-nìhng	
+Penine	奔宁	奔寧	Bēnníng	Bān-nìhng	
 Peninnah	比妮拿	比妮拿	Bǐnīná	Béi-nèih-nàh	pənˈɪnʌ
 Penne	彭内	彭內	Péngnèi	Pàahng-noih	
 Pennsylvania	宾夕法尼亚州	賓夕法尼亞州	Bīnxīfǎníyà Zhōu	Bān-jihk-faat-nèih-nga Jāu	pˌɛnsəlvˈeɪniʌ
@@ -14502,8 +14535,8 @@ pull off (one's body etc)	扯下	扯下	chěxia	ché-hah
 pull out (e.g. pulling a timber out of a house; lit. take-apart out)	拆出	拆出	chāichū	chaak-chēut	
 pull short (of pulling a rope apart)	拉断	拉斷	lāduàn	lāai-tyúhn	
 pump concrete; pour concrete	灌混凝土	灌混凝土	guàn hùnníngtǔ	gun wahn-yìhng-tóu	
-Puning (in Guangdong)	普宁	普寧	Pǔnìng	Póu-nìhng	
-Puning (in Guangdong)	普宁市	普寧市	Pǔnìng Shì	Póu-nìhng Síh	
+Puning (in Guangdong)	普宁	普寧	Pǔníng	Póu-nìhng	
+Puning (in Guangdong)	普宁市	普寧市	Pǔníng Shì	Póu-nìhng Síh	
 Punon	普嫩	普嫩	Pǔnèn	Póu-nyuhn	pˈʉːnɒn
 Punta	蓬塔	蓬塔	Péngtǎ	Pùhng-taap	
 Pur	普珥	普珥	Pǔ'ěr	Póu-yih	
@@ -15172,6 +15205,7 @@ Ridley	瑞德利	瑞德利	Ruìdélì	Seuih-dāk-leih
 Riemer	里默尔	里默爾	Lǐmò'ěr	Léih-mahk-yíh	
 Rienecker	里纳克	里納克	Lǐnàkè	Léih-naahp-hāk	
 Riesenfeld	里森费尔德	里森費爾德	Lǐsēnfèi'ěrdé	Léih-sām-fai-yíh-dāk	
+Rifici	里菲奇	里菲奇	Lǐfēiqí	Léih-fēi-kèih	
 Riga	里加	里加	Lǐjiā	Léih-gā	ɹˈiɡə
 right cheek	右脸	右臉	yòuliǎn	yauh-líhm	
 Riher	里赫尔	里赫爾	Lǐhè'ěr	Léih-hāk-yíh	
@@ -16437,7 +16471,7 @@ shoulder flesh	肩膀肉	肩膀肉	jiānbǎngròu	gīn-bóng-yuhk
 should not fail to know	非知不可	非知不可	fēizhībùkě	fēi-jī-bāt-hó	
 should not retaliate in kind (lit. should not exchange tooth for tooth)	不该以牙还牙	不該以牙還牙	bù gāi yǐ yá huán yá	bāt gōi yíh ngàh wàahn ngàh	
 should or shouldn't	应不应该	應不應該	yīngbùyīnggāi	ying-bāt-yīng-gōi	
-Shouning (county, in Fujian)	寿宁县	壽寧縣	Shòunìng Xiàn	Sauh-nìhng Yún	
+Shouning (county, in Fujian)	寿宁县	壽寧縣	Shòuníng Xiàn	Sauh-nìhng Yún	
 Shouyang (county, in Shanxi)	寿阳县	壽陽縣	Shòuyáng Xiàn	Sauh-yèuhng Yún	
 shove one another (in dense crowd)	你推我挤	你推我擠	nǐtuī-wǒjǐ	néih-tēui-ngóh-jāi	
 Shovi	绍比	紹比	Shàobǐ	Siuh-béi	
@@ -17283,10 +17317,10 @@ Suihua (in Heilongjiang)	绥化	綏化	Suíhuà	Sēui-fa
 Suihua (in Heilongjiang)	绥化市	綏化市	Suíhuà Shì	Sēui-fa Síh	
 Suijiang (county, in Yunnan)	绥江县	綏江縣	Suíjiāng Xiàn	Sēui-gōng Yún	
 Suileng (county, in Heilongjiang)	绥棱县	綏棱縣	Suíléng Xiàn	Sēui-lìhng Yún	
-Suining (county, in Hunan)	绥宁县	綏寧縣	Suínìng Xiàn	Sēui-nìhng Yún	
-Suining (county, in Jiangsu)	睢宁县	睢寧縣	Suīnìng Xiàn	Sēui-nìhng Yún	
-Suining (in Sichuan)	遂宁	遂寧	Suìnìng	Seuih-nìhng	
-Suining (in Sichuan)	遂宁市	遂寧市	Suìnìng Shì	Seuih-nìhng Síh	
+Suining (county, in Hunan)	绥宁县	綏寧縣	Suíníng Xiàn	Sēui-nìhng Yún	
+Suining (county, in Jiangsu)	睢宁县	睢寧縣	Suīníng Xiàn	Sēui-nìhng Yún	
+Suining (in Sichuan)	遂宁	遂寧	Suìníng	Seuih-nìhng	
+Suining (in Sichuan)	遂宁市	遂寧市	Suìníng Shì	Seuih-nìhng Síh	
 Suiping (county, in Henan)	遂平县	遂平縣	Suìpíng Xiàn	Seuih-pìhng Yún	
 Suiter	苏特	蘇特	Sūtè	Sōu-dahk	
 Suixi (county, in Anhui)	濉溪县	濉溪縣	Suīxī Xiàn	Sēui-kāi Yún	
@@ -17315,9 +17349,9 @@ Sunal	苏纳尔	蘇納爾	Sūnà'ěr	Sōu-naahp-yíh
 Sunan (county, in Gansu)	肃南县	肅南縣	Sùnán Xiàn	Sūk-nàahm Yún	
 Sunan (in Pyongyang)	顺安	順安	Shùn'ān	Seuhn-ngōn	
 Sunda (language)	巽他语	巽他語	Xùntāyǔ	Seun-tā-yúh	
-Sun Danning (HK author)	孙淡宁	孫淡寧	Sūn Dànnìng	Syūn Táahm-nìhng	
+Sun Danning (HK author)	孙淡宁	孫淡寧	Sūn Dànníng	Syūn Táahm-nìhng	
 Sunday (surname)	森迪	森迪	Sēndí	Sām-dihk	
-Suning (county, in Hebei)	肃宁县	肅寧縣	Sùnìng Xiàn	Sūk-nìhng Yún	
+Suning (county, in Hebei)	肃宁县	肅寧縣	Sùníng Xiàn	Sūk-nìhng Yún	
 sun never set on (British) empire	日不落帝国	日不落帝國	rì bú luò dìguó	yaht bāt lohk dai-gwok	
 sun protection factor; SPF	防晒系数	防曬系數	fángshài xìshù	fòhng-saai haih-sou	
 sunscreen (liquid)	防晒液	防曬液	fángshàiyè	fòhng-saai-yihk	
@@ -17378,6 +17412,7 @@ Svan (language)	斯万语	斯萬語	Sīwànyǔ	Sī-maahn-yúh
 Svan (people)	斯万人	斯萬人	Sīwànrén	Sī-maahn-yàhn	
 Sverdlovskiy	斯维尔德洛夫斯克	斯維爾德洛夫斯克	Sīwéi'ěrdéluòfūsīkè	Sī-wàih-yíh-dāk-lohk-fū-sī-hāk	
 Svetlana	斯韦特兰娜	斯韋特蘭娜	Sīwéitèlánnà	Sī-wáih-dahk-làahn-nàh	
+Svintsov	斯温佐夫	斯溫佐夫	Sīwēnzuǒfū	Sī-wān-jo-fū	
 swallow down	吞掉	吞掉	tūndiào	tān-diuh	
 Swansea	斯旺西	斯旺西	Sīwàngxī	Sī-wohng-sāi	
 Swanson	斯旺森	斯旺森	Sīwàngsēn	Sī-wohng-sām	
@@ -17430,6 +17465,7 @@ Syrian	叙利亚人	敘利亞人	Xùlìyàrén	Jeuih-leih-nga-yàhn
 Syrians	朔法	朔法	Shuòfǎ	Sok-faat	
 Syrtis	赛耳底	賽耳底	Sài'ěrdǐ	Choi-yíh-dái	sˈɪətɪs
 Syrus	赛勒斯	賽勒斯	Sàilèsī	Choi-lahk-sī	
+system requirements (of a program)	系统需求	系統需求	xìtǒng xūqiú	haih-túng sēui-kàuh	
 Szabolcs	绍博尔奇	紹博爾奇	Shàobó'ěrqí	Siuh-bok-yíh-kèih	
 Szabó	绍博	紹博	Shàobó	Siuh-bok	
 Szerencs	赛伦奇	賽倫奇	Sàilúnqí	Choi-lèuhn-kèih	
@@ -17495,7 +17531,7 @@ Taijiang (county, in Guizhou)	台江县	台江縣	Táijiāng Xiàn	Tòih-gōng Y
 Taikang (county, in Henan)	太康县	太康縣	Tàikāng Xiàn	Taai-hōng Yún	
 Tailai (county, in Heilongjiang)	泰来县	泰來縣	Tàilái Xiàn	Taai-lòih Yún	
 Taina	塔伊纳	塔伊納	Tǎyīnà	Taap-yī-naahp	
-Taining (county, in Fujian)	泰宁县	泰寧縣	Tàinìng Xiàn	Taai-nìhng Yún	
+Taining (county, in Fujian)	泰宁县	泰寧縣	Tàiníng Xiàn	Taai-nìhng Yún	
 Taino	泰诺	泰諾	Tàinuò	Taai-nohk	
 tainted candy	坏糖果	壞糖果	huài tángguǒ	waaih tòhng-gwó	
 Taiqian (county, in Henan)	台前县	台前縣	Táiqián Xiàn	Tòih-chìhn Yún	
@@ -17581,7 +17617,7 @@ Tangyin (county, in Henan)	汤阴县	湯陰縣	Tāngyīn Xiàn	Tōng-yām Yún
 Tangyuan (county, in Heilongjiang)	汤原县	湯原縣	Tāngyuán Xiàn	Tōng-yùhn Yún	
 Tania	塔妮娅	塔妮婭	Tǎnīyà	Taap-nèih-a	
 tanner	制革匠	制革匠	zhìgé jiàng	jai-gaak jeuhng	tˈænɚ
-Tanninen	坦尼宁	坦尼寧	Tǎnnínìng	Táan-nèih-nìhng	
+Tanninen	坦尼宁	坦尼寧	Tǎnníníng	Táan-nèih-nìhng	
 Tantrism	坦特拉	坦特拉	Tǎntèlā	Táan-dahk-lāai	
 Tanya	坦妮亚	坦妮亞	Tǎnnīyà	Táan-nèih-nga	
 Tanya (older translation)	塔蒂亚娜	塔蒂亞娜	Tǎdìyànà	Taap-dai-nga-nàh	
@@ -17743,6 +17779,7 @@ Teresa (older translation)	德肋撒	德肋撒	Délèisā	Dāk-lahk-saat
 Teresh	提列	提列	Tíliè	Tàih-liht	tˈiɹɛʃ
 Teresópolis	特雷索波利斯	特雷索波利斯	Tèléisuǒbōlìsī	Dahk-lèuih-sok-bō-leih-sī	
 Terezín	特雷津	特雷津	Tèléijīn	Dahk-lèuih-jēun	
+Termini	泰尔米尼	泰爾米尼	Tài'ěrmǐní	Taai-yíh-máih-nèih	
 terms of use	使用条款	使用條款	shǐyòng tiáokuǎn	sái-yuhng tìuh-fún	
 Ternopol	捷尔诺波尔	捷爾諾波爾	Jié'ěrnuòbō'ěr	Jiht-yíh-nohk-bō-yíh	
 Terrell	特雷尔	特雷爾	Tèléi'ěr	Dahk-lèuih-yíh	
@@ -17949,6 +17986,7 @@ think as a team (lit. unanimously)	思想一致	思想一致	sīxiǎng yīzhì	s
 thinking people	有思想的人	有思想的人	yǒu sīxiǎng de rén	yáuh sī-séung dīk yàhn	
 think more of oneself than it is necessary to think	自视过高	自視過高	zìshì guògāo	jih-sih gwo-gōu	
 Thionville	蒂永维尔	蒂永維爾	Dìyǒngwéi'ěr	Dai-wíhng-wàih-yíh	tˈɪɒŋvil
+third-party (made)	协力厂商	協力廠商	xiélì chǎngshāng	hip-lihk chóng-sēung	
 thirdhand cigarette smoke	三手烟	三手煙	sānshǒuyān	sāam-sáu-yīn	
 third heaven	三重天	三重天	sānchóngtiān	sāam-chùhng-tīn	
 third largest	第三大	第三大	dì-sān dà	daih-sāam daaih	
@@ -18986,7 +19024,7 @@ Wade	韦德	韋德	Wéidé	Wáih-dāk
 Wafangdian (in Liaoning)	瓦房店	瓦房店	Wǎfángdiàn	Ngáh-fòhng-dim	
 Wafangdian (in Liaoning)	瓦房店市	瓦房店市	Wǎfángdiàn Shì	Ngáh-fòhng-dim Síh	
 waffles	夹饼	夾餅	jiābǐng	gaap-béng	
-Wageningen	瓦赫宁恩	瓦赫寧恩	Wǎhènìng'ēn	Ngáh-hāk-nìhng-yān	
+Wageningen	瓦赫宁恩	瓦赫寧恩	Wǎhèníng'ēn	Ngáh-hāk-nìhng-yān	
 Wagnalls	瓦格纳	瓦格納	Wǎgénà	Ngáh-gaak-naahp	
 Wagner	华格纳	華格納	Huágénà	Wàh-gaak-naahp	vˈɑɡnɚ
 Wagner	瓦格纳	瓦格納	Wǎgénà	Ngáh-gaak-naahp	
@@ -19054,8 +19092,8 @@ Wangmo (county, in Guizhou)	望谟县	望謨縣	Wàngmó Xiàn	Mohng-mòuh Yún
 Wangqing (county, in Jilin)	汪清县	汪清縣	Wāngqīng Xiàn	Wōng-chīng Yún	
 Wang Xifeng (character in Dream of the Red Chamber)	王熙凤	王熙鳳	Wáng Xīfèng	Wòhng Hēi-fuhng	
 Wangyi (district, in Shaanxi)	王益区	王益區	Wángyì Qū	Wòhng-yīk Kēui	
-Wanning (in Hainan)	万宁	萬寧	Wànnìng	Maahn-nìhng	
-Wanning (in Hainan)	万宁市	萬寧市	Wànnìng Shì	Maahn-nìhng Síh	
+Wanning (in Hainan)	万宁	萬寧	Wànníng	Maahn-nìhng	
+Wanning (in Hainan)	万宁市	萬寧市	Wànníng Shì	Maahn-nìhng Síh	
 Wanrong (county, in Shanxi)	万荣县	萬榮縣	Wànróng Xiàn	Maahn-wìhng Yún	
 want to learn	愿意学习	願意學習	yuànyi xuéxí	yuhn-yi hohk-jaahp	
 Wanxian (in Sichuan)	万县	萬縣	Wànxiàn	Maahn-yún	
@@ -19180,7 +19218,7 @@ Weijun	维骏	維駿	Wéijùn	Wàih-jeun
 Weimar	魏玛	魏瑪	Wèimǎ	Ngaih-máh	wˈeɪmɚ
 Weinan (in Shaanxi)	渭南	渭南	Wèinán	Waih-nàahm	
 Weinan (in Shaanxi)	渭南市	渭南市	Wèinán Shì	Waih-nàahm Síh	
-Weining (county, in Guizhou)	威宁县	威寧縣	Wēinìng Xiàn	Wāi-nìhng Yún	
+Weining (county, in Guizhou)	威宁县	威寧縣	Wēiníng Xiàn	Wāi-nìhng Yún	
 Weishan (county, in Yunnan)	巍山县	巍山縣	Wēishān Xiàn	Ngàih-sāan Yún	
 Weishi (county, in Henan)	尉氏县	尉氏縣	Wèishì Xiàn	Wai-sih Yún	
 Weiss	韦斯	韋斯	Wéisī	Wáih-sī	
@@ -19270,6 +19308,7 @@ when China rules the world (book)	当中国统治世界	當中國統治世界	d�
 when in doubt	如有疑问	如有疑問	rú yǒu yíwèn	yùh yáuh yìh-mahn	
 when leisure time comes (?)	闲来	闲来	xiánlái	hàahn-lòih	
 when leisure time comes (?) (variant)	閒來	閒來	xiánlái	hàahn-lòih	
+when younger	年轻时	年輕時	niánqīng shí	nìhn-hēng sìh	
 where to start (where to put one's hand in)	从何入手	從何入手	cónghérùshǒu	chùhng-hòh-yahp-sáu	
 Whetstone	惠特斯通	惠特斯通	Huìtèsītōng	Waih-dahk-sī-tūng	
 which group of (people etc)	哪一群	哪一群	nǎ yi qún	náh yāt kwàhn	
@@ -19574,7 +19613,7 @@ Wujiaqu (in Xinjiang)	五家渠	五家渠	Wǔjiāqú	Ńgh-gā-kèuih
 Wujiaqu (in Xinjiang)	五家渠市	五家渠市	Wǔjiāqú Shì	Ńgh-gā-kèuih Síh	
 Wulong (county, in Chongqing)	武隆县	武隆縣	Wǔlóng Xiàn	Móuh-lùhng Yún	
 Wuming (county, in Guangxi)	武鸣县	武鳴縣	Wǔmíng Xiàn	Móuh-mìhng Yún	
-Wuning (county, in Jiangxi)	武宁县	武寧縣	Wǔnìng Xiàn	Móuh-nìhng Yún	
+Wuning (county, in Jiangxi)	武宁县	武寧縣	Wǔníng Xiàn	Móuh-nìhng Yún	
 Wuping (county, in Fujian)	武平县	武平縣	Wǔpíng Xiàn	Móuh-pìhng Yún	
 Wuqia (county, in Xinjiang)	乌恰县	烏恰縣	Wūqià Xiàn	Wū-hāp Yún	
 Wuqiang (county, in Hebei)	武强县	武強縣	Wǔqiáng Xiàn	Móuh-kèuhng Yún	
@@ -19639,7 +19678,7 @@ Xiangcheng (in Henan)	项城市	項城市	Xiàngchéng Shì	Hohng-sìhng Síh
 Xiangfen (county, in Shanxi)	襄汾县	襄汾縣	Xiāngfén Xiàn	Sēung-fàhn Yún	
 Xianghe (county, in Hebei)	香河县	香河縣	Xiānghé Xiàn	Hēung-hòh Yún	
 Xianghuang (banner, in Inner Mongolia)	镶黄旗	鑲黃旗	Xiānghuáng Qí	Sēung-wòhng Kèih	
-Xiangning (county, in Shanxi)	乡宁县	鄉寧縣	Xiāngnìng Xiàn	Hēung-nìhng Yún	
+Xiangning (county, in Shanxi)	乡宁县	鄉寧縣	Xiāngníng Xiàn	Hēung-nìhng Yún	
 Xiangshan (county, in Zhejiang)	象山县	象山縣	Xiàngshān Xiàn	Jeuhng-sāan Yún	
 Xiangshui (county, in Jiangsu)	响水县	響水縣	Xiǎngshuǐ Xiàn	Héung-séui Yún	
 Xiangtan (in Hunan)	湘潭	湘潭	Xiāngtán	Sēung-tàahm	
@@ -19651,8 +19690,8 @@ Xiangyang (in Hubei)	襄阳市	襄陽市	Xiāngyáng Shì	Sēung-yèuhng Síh
 Xiangyin (county, in Hunan)	湘阴县	湘陰縣	Xiāngyīn Xiàn	Sēung-yām Yún	
 Xiangyuan (county, in Shanxi)	襄垣县	襄垣縣	Xiāngyuán Xiàn	Sēung-wùhn Yún	
 Xiangzhou (county, in Guangxi)	象州县	象州縣	Xiàngzhōu Xiàn	Jeuhng-jāu Yún	
-Xianning (in Hubei)	咸宁	咸寧	Xiánnìng	Hàahm-nìhng	
-Xianning (in Hubei)	咸宁市	咸寧市	Xiánnìng Shì	Hàahm-nìhng Síh	
+Xianning (in Hubei)	咸宁	咸寧	Xiánníng	Hàahm-nìhng	
+Xianning (in Hubei)	咸宁市	咸寧市	Xiánníng Shì	Hàahm-nìhng Síh	
 Xiantao (in Hubei)	仙桃市	仙桃市	Xiāntáo Shì	Sīn-tòuh Síh	
 Xianyang (in Shaanxi)	咸阳	咸陽	Xiányáng	Hàahm-yèuhng	
 Xianyang (in Shaanxi)	咸阳市	咸陽市	Xiányáng Shì	Hàahm-yèuhng Síh	
@@ -19706,8 +19745,8 @@ Xinghua (in Jiangsu)	兴化	興化	Xìnghuà	Hing-fa
 Xinghua (in Jiangsu)	兴化市	興化市	Xìnghuà Shì	Hing-fa Síh	
 Xingjing (county, in Sichuan)	荥经县	滎經縣	Xíngjīng Xiàn	Yìhng-gīng Yún	
 Xinglongtai (district, in Liaoning)	兴隆台区	興隆台區	Xīnglóngtái Qū	Hīng-lùhng-tòih Kēui	
-Xingning (in Guangdong)	兴宁	興寧	Xìngnìng	Hing-nìhng	
-Xingning (in Guangdong)	兴宁市	興寧市	Xìngnìng Shì	Hing-nìhng Síh	
+Xingning (in Guangdong)	兴宁	興寧	Xìngníng	Hing-nìhng	
+Xingning (in Guangdong)	兴宁市	興寧市	Xìngníng Shì	Hing-nìhng Síh	
 Xingping (in Shaanxi)	兴平	興平	Xìngpíng	Hing-pìhng	
 Xingping (in Shaanxi)	兴平市	興平市	Xìngpíng Shì	Hing-pìhng Síh	
 Xingren (county, in Guizhou)	兴仁县	興仁縣	Xìngrén Xiàn	Hing-yàhn Yún	
@@ -19742,7 +19781,7 @@ Xinlong (county, in Sichuan)	新龙县	新龍縣	Xīnlóng Xiàn	Sān-lùhng Yú
 Xinmi (in Henan)	新密	新密	Xīnmì	Sān-maht	
 Xinmi (in Henan)	新密市	新密市	Xīnmì Shì	Sān-maht Síh	
 Xinmin (in Liaoning)	新民市	新民市	Xīnmín Shì	Sān-màhn Síh	
-Xinning (county, in Hunan)	新宁县	新寧縣	Xīnnìng Xiàn	Sān-nìhng Yún	
+Xinning (county, in Hunan)	新宁县	新寧縣	Xīnníng Xiàn	Sān-nìhng Yún	
 Xinping (county, in Yunnan)	新平县	新平縣	Xīnpíng Xiàn	Sān-pìhng Yún	
 Xinqiu (district, in Liaoning)	新邱区	新邱區	Xīnqiū Qū	Sān-yāu Kēui	
 Xinshao (county, in Hunan)	新邵县	新邵縣	Xīnshào Xiàn	Sān-siuh Yún	
@@ -19769,7 +19808,7 @@ Xinzhu; Hsinchu (Taiwan)	新竹	新竹	Xīnzhú	Sān-jūk
 Xiping (county, in Henan)	西平县	西平縣	Xīpíng Xiàn	Sāi-pìhng Yún	
 Xishui (county, in Guizhou)	习水县	習水縣	Xíshuǐ Xiàn	Jaahp-séui Yún	
 Xishui (county, in Hubei)	浠水县	浠水縣	Xīshuǐ Xiàn	Hēi-séui Yún	
-Xiuning (county, in Anhui)	休宁县	休寧縣	Xiūnìng Xiàn	Yāu-nìhng Yún	
+Xiuning (county, in Anhui)	休宁县	休寧縣	Xiūníng Xiàn	Yāu-nìhng Yún	
 Xiushan (county, in Chongqing)	秀山县	秀山縣	Xiùshān Xiàn	Sau-sāan Yún	
 Xiushui (county, in Jiangxi)	修水县	修水縣	Xiūshuǐ Xiàn	Sāu-séui Yún	
 Xiuwu (county, in Henan)	修武县	修武縣	Xiūwǔ Xiàn	Sāu-móuh Yún	
@@ -19941,8 +19980,8 @@ Yingshan (county, in Sichuan)	营山县	營山縣	Yíngshān Xiàn	Yìhng-sāan 
 Yingshang (county, in Anhui)	颍上县	潁上縣	Yǐngshàng Xiàn	Wihng-séuhng Yún	
 Yingtan (in Jiangxi)	鹰潭	鷹潭	Yīngtán	Yīng-tàahm	
 Yingtan (in Jiangxi)	鹰潭市	鷹潭市	Yīngtán Shì	Yīng-tàahm Síh	
-Yining (in Xinjiang)	伊宁	伊寧	Yīnìng	Yī-nìhng	
-Yining (in Xinjiang)	伊宁市	伊寧市	Yīnìng Shì	Yī-nìhng Síh	
+Yining (in Xinjiang)	伊宁	伊寧	Yīníng	Yī-nìhng	
+Yining (in Xinjiang)	伊宁市	伊寧市	Yīníng Shì	Yī-nìhng Síh	
 Yinjiang (county, in Guizhou)	印江县	印江縣	Yìnjiāng Xiàn	Yan-gōng Yún	
 Yinka	英卡	英卡	Yīngkǎ	Yīng-kā	
 Yinzhou (district, in Liaoning)	银州区	銀州區	Yínzhōu Qū	Ngàhn-jāu Kēui	
@@ -20269,7 +20308,7 @@ Zheng'an (county, in Guizhou)	正安县	正安縣	Zhèng'ān Xiàn	Jing-ngōn Y�
 Zhengding (county, in Hebei)	正定县	正定縣	Zhèngdìng Xiàn	Jing-dihng Yún	
 Zhenghe (county, in Fujian)	政和县	政和縣	Zhènghé Xiàn	Jing-wòh Yún	
 Zhenglan (banner, in Inner Mongolia)	正蓝旗	正藍旗	Zhènglán Qí	Jing-làahm Kèih	
-Zhengning (county, in Gansu)	正宁县	正寧縣	Zhèngnìng Xiàn	Jing-nìhng Yún	
+Zhengning (county, in Gansu)	正宁县	正寧縣	Zhèngníng Xiàn	Jing-nìhng Yún	
 Zhengxiangbai (banner, in Inner Mongolia)	正镶白旗	正鑲白旗	Zhèngxiāngbái Qí	Jing-sēung-baahk Kèih	
 Zhengyang (county, in Henan)	正阳县	正陽縣	Zhèngyáng Xiàn	Jing-yèuhng Yún	
 Zhengzhou (in Henan)	郑州市	鄭州市	Zhèngzhōu Shì	Jehng-jāu Síh	
@@ -20278,7 +20317,7 @@ Zhenjiang (in Jiangsu)	镇江市	鎮江市	Zhènjiāng Shì	Jan-gōng Síh
 Zhenkang (county, in Yunnan)	镇康县	鎮康縣	Zhènkāng Xiàn	Jan-hōng Yún	
 Zhenkov	任科夫	任科夫	Rènkēfū	Yahm-fō-fū	
 Zhenlai (county, in Jilin)	镇赉县	鎮賚縣	Zhènlài Xiàn	Jan-loih Yún	
-Zhenning (county, in Guizhou)	镇宁县	鎮寧縣	Zhènnìng Xiàn	Jan-nìhng Yún	
+Zhenning (county, in Guizhou)	镇宁县	鎮寧縣	Zhènníng Xiàn	Jan-nìhng Yún	
 Zhenping (county, in Henan)	镇平县	鎮平縣	Zhènpíng Xiàn	Jan-pìhng Yún	
 Zhenping (county, in Shaanxi)	镇坪县	鎮坪縣	Zhènpíng Xiàn	Jan-pìhng Yún	
 Zhenxiong (county, in Yunnan)	镇雄县	鎮雄縣	Zhènxióng Xiàn	Jan-hùhng Yún	
@@ -20304,7 +20343,7 @@ Zhongyang (county, in Shanxi)	中阳县	中陽縣	Zhōngyáng Xiàn	Jūng-yèuhn
 Zhong Ziqi (legendary music appreciator)	钟子期	鍾子期	Zhōng Zǐqī	Jūng Jí-kèih	
 Zhoukou (in Henan)	周口	周口	Zhōukǒu	Jāu-háu	
 Zhoukou (in Henan)	周口市	周口市	Zhōukǒu Shì	Jāu-háu Síh	
-Zhouning (county, in Fujian)	周宁县	周寧縣	Zhōunìng Xiàn	Jāu-nìhng Yún	
+Zhouning (county, in Fujian)	周宁县	周寧縣	Zhōuníng Xiàn	Jāu-nìhng Yún	
 Zhouqu (county, in Gansu)	舟曲县	舟曲縣	Zhōuqū Xiàn	Jāu-kūk Yún	
 Zhoushan (in Zhejiang)	舟山	舟山	Zhōushān	Jāu-sāan	
 Zhoushan (in Zhejiang)	舟山市	舟山市	Zhōushān Shì	Jāu-sāan Síh	

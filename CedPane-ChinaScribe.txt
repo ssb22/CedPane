@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-08-27
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-08-30
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -100,7 +100,7 @@
 阿赫拉迪斯 阿赫拉迪斯 [A1 he4 la1 di2 si1] /Ahladis/
 阿荷利巴 阿荷利巴 [A1 he2 li4 ba1] /Oholibah (old translation?)/
 阿胡拉 阿胡拉 [A1 hu2 la1] /Ahura/
-阿霍寧 阿霍宁 [A1 huo4 ning4] /Ahonen/
+阿霍寧 阿霍宁 [A1 huo4 ning2] /Ahonen/
 埃阿 埃阿 [Ai1 a1] /Ea/
 埃奧卡 埃奥卡 [Ai1 ao4 ka3] /EOKA/
 艾奧納島 艾奥纳岛 [Ai4 ao4 na4 dao3] /Iona (island)/
@@ -462,7 +462,7 @@
 安東尼 安东尼 [An1 dong1 ni2] /Anthony/Antony/
 安東尼奧 安东尼奥 [An1 dong1 ni2 ao4] /Antonio/
 安東尼奧斯 安东尼奥斯 [An1 dong1 ni2 ao4 si1] /Antonios/
-安東寧 安东宁 [An1 dong1 ning4] /Antonín/
+安東寧 安东宁 [An1 dong1 ning2] /Antonín/
 安東尼斯 安东尼斯 [An1 dong1 ni2 si1] /Antonis/
 安東尼亞 安东尼亚 [An1 dong1 ni2 ya4] /Antonia/
 安東尼亞塔 安东尼亚塔 [An1 dong1 ni2 ya4_ta3] /Tower of Antonia/Antonia, Tower of/
@@ -1164,7 +1164,7 @@
 本傑明 本杰明 [Ben3 jie2 ming2] /Benjamin (modern)/
 本刊 本刊 [ben3 kan1] /this periodical/periodical, this/
 奔來 奔来 [ben1 lai5] /run (here) fast/fast, run/
-奔寧 奔宁 [Ben1 ning4] /Penine/
+奔寧 奔宁 [Ben1 ning2] /Penine/
 本瑣赫 本琐赫 [Ben3 suo3 he4] /Ben-zoheth/
 本特利 本特利 [Ben3 te4 li4] /Bentley/
 本月底 本月底 [ben3 yue4 di3] /end of this month/this month, end of/
@@ -1719,7 +1719,7 @@
 布洛芬 布洛芬 [bu4 luo4 fen1] /ibuprofen/
 部落格 部落格 [bu4 luo4 ge2] /blog (alternative translation)/
 布洛涅 布洛涅 [Bu4 luo4 nie4] /Boulogne/
-布羅伊寧 布罗伊宁 [Bu4 luo2 yi1 ning4] /Brauning/
+布羅伊寧 布罗伊宁 [Bu4 luo2 yi1 ning2] /Brauning/
 布祿士 布禄士 [Bu4 lu4 shi4] /Bruce (given name)/
 布魯斯 布鲁斯 [Bu4 lu3 si1] /Bruce (surname)/
 布幔 布幔 [bu4 man4] /tent cloths/cloths, tent/
@@ -2440,7 +2440,7 @@
 燈台 灯台 [deng1 tai2] /lampstand/
 等閒 等閒 [deng3 xian2] /ordinary|unimportant (variant?)/
 德涅斯特河 德涅斯特河 [De2 nie4 si1 te4 he2] /Dniester (river)/
-德寧 德宁 [De2 ning4] /Durning/
+德寧 德宁 [De2 ning2] /Durning/
 德喬佩雷娜 德乔佩雷娜 [De2 qiao2 pei4 lei2 na4] /de Choperena/Choperena, de/
 得人如得魚 得人如得鱼 [de2 ren2_ru2_de2 yu2] /be fishers of men (old translation?)/fishers of men, be (old translation?)/
 得撒 得撒 [De2 sa1] /Tirzah/
@@ -2837,7 +2837,7 @@
 恩格勒 恩格勒 [En1 ge2 le4] /Engler/
 恩格斯 恩格斯 [En1 ge2 si1] /Engels/
 恩賈梅納 恩贾梅纳 [En1 jia3 mei2 na4] /N’Djamena/
-厄寧格 厄宁格 [E4 ning4 ge2] /Oehninger/
+厄寧格 厄宁格 [E4 ning2 ge2] /Oehninger/
 恩吉利 恩吉利 [En1 ji2 li4] /Ndjili/
 恩里克 恩里克 [En1 li3 ke4] /Enrique/
 恩利勒 恩利勒 [En1 li4 le4] /Enlil/
@@ -3402,7 +3402,7 @@
 格羅夫音樂與音樂家辭典 格罗夫音乐与音乐家辞典 [Ge2 luo2 fu1_Yin1 yue4_Yu3_Yin1 yue4 jia1_Ci2 dian3] /Grove's Dictionary of Music and Musicians/Dictionary of Music and Musicians, Grove's/
 格羅里埃 格罗里埃 [Ge2 luo2 li3 ai1] /Grolier/
 格洛麗亞 格洛丽亚 [Ge2 luo4 li4 ya4] /Gloria (name)/
-格羅寧根 格罗宁根 [Ge2 luo2 ning4 gen1] /Groningen/
+格羅寧根 格罗宁根 [Ge2 luo2 ning2 gen1] /Groningen/
 哥羅森書 哥罗森书 [Ge1 luo2 sen1 shu1] /Colossians (book, Catholic version)/
 格羅斯曼 格罗斯曼 [Ge2 luo2 si1 man4] /Grossman/
 格羅斯曼 格罗斯曼 [Ge2 luo2 si1 man4] /Grossmann/
@@ -4377,8 +4377,8 @@
 加利利人 加利利人 [Jia1 li4 li4 ren2] /Galilean/
 伽利略 伽利略 [Jia1 li4 lu:e4] /Galileo/
 迦琳 迦琳 [Jia1 lin2] /Gallim/
-加里寧 加里宁 [Jia1 li3 ning4] /Kalinin/
-加里寧格勒市 加里宁格勒市 [Jia1 li3 ning4 ge2 le4_Shi4] /Kaliningrad/
+加里寧 加里宁 [Jia1 li3 ning2] /Kalinin/
+加里寧格勒市 加里宁格勒市 [Jia1 li3 ning2 ge2 le4_Shi4] /Kaliningrad/
 加里森 加里森 [Jia1 li3 sen1] /Garrison (surname)/
 嘉莉絲 嘉莉丝 [Jia1 li4 si1] /Grace (name; older translation)/
 迦流 迦流 [Jia1 liu2] /Gallio/
@@ -5052,7 +5052,7 @@
 凱夫拉維克 凯夫拉维克 [Kai3 fu1 la1 wei2 ke4] /Keflavík/
 開盡 开尽 [kai1 jin4] /open completely (?)/completely, open (?)/
 開開心心 开开心心 [kai1 kai1 xin1 xin5] /with a good heart/very happy/good heart, with a/happy, very/
-凱科寧 凯科宁 [Kai3 ke1 ning4] /Kekkonen/
+凱科寧 凯科宁 [Kai3 ke1 ning2] /Kekkonen/
 凱克奇人 凯克奇人 [Kai3 ke4 qi2 ren2] /Kekchi (people in Belize)/
 凱拉 凯拉 [Kai3 la1] /Kayla/
 凱勒 凯勒 [Kai3 le4] /Keller/
@@ -5193,8 +5193,8 @@
 看見過 看见过 [kan4 jian5 guo5] /seen/
 看盡 看尽 [kan4 jin4] /see up (?)/
 坎昆 坎昆 [Kan3 kun1] /Cancún/
-坎寧 坎宁 [Kan3 ning4] /Canning (surname)/
-坎寧安 坎宁安 [Kan3 ning4 an1] /Cunningham (pinyin uncertain)/
+坎寧 坎宁 [Kan3 ning2] /Canning (surname)/
+坎寧安 坎宁安 [Kan3 ning2 an1] /Cunningham/
 坎帕拉 坎帕拉 [Kan3 pa4 la1] /Kampala/
 坎佩切州 坎佩切州 [Kan3 pei4 qie4_Zhou1] /Campeche (Mexican state)/
 坎平 坎平 [Kan3 ping2] /Camping (radio evangelist)/
@@ -5462,7 +5462,7 @@
 科薩語 科萨语 [Ke1 sa4 yu3] /Xhosa (language)/
 科斯 科斯 [Ke1 si1] /Cos/
 克斯頓 克斯顿 [Ke4 si1 dun4] /Kersten/
-科斯基寧 科斯基宁 [Ke1 si1 ji1 ning4] /Koskinen/
+科斯基寧 科斯基宁 [Ke1 si1 ji1 ning2] /Koskinen/
 科斯拉伊 科斯拉伊 [Ke1 si1 la1 yi1] /Kosrae/
 科斯拉伊島 科斯拉伊岛 [Ke1 si1 la1 yi1 dao3] /Kosrae/
 科斯曼 科斯曼 [Ke1 si1 man4] /Cosman/
@@ -7533,7 +7533,7 @@
 你們倆 你们俩 [ni3 men5_lia3] /you both/both, you/
 尼默勒 尼默勒 [Ni2 mo4 le4] /Niemöller/Niemoeller/
 尼娜 尼娜 [Ni2 na4] /Nina/
-寧波 宁波 [Ning4 bo1] /Ningbo (3hrs from Shanghai; has a Nottingham campus)/
+寧波 宁波 [ning2 bo1] /Ningbo (3hrs from Shanghai; has a Nottingham campus)/
 擰成 拧成 [ning2 cheng2] /twisted into one/
 寧法 宁法 [Ning2 fa3] /Nympha/
 寧拉 宁拉 [Ning2 la1] /Nimrah/
@@ -7626,7 +7626,7 @@
 諾貝爾 诺贝尔 [Nuo4 bei4 er3] /Nobel/
 諾貝爾物理學獎 诺贝尔物理学奖 [Nuo4 bei4 er3_Wu4 li3 xue2_Jiang3] /Nobel Prize for Physics/Prize for Physics, Nobel/
 挪伯 挪伯 [Nuo2 bo2] /Nob/
-諾波寧 诺波宁 [Nuo4 bo1 ning4] /Noponen/
+諾波寧 诺波宁 [Nuo4 bo1 ning2] /Noponen/
 挪城 挪城 [Nuo2 cheng2] /No (city)/
 諾丁漢 诺丁汉 [Nuo4 ding1 han4] /Nottingham/
 諾定咸 诺定咸 [Nuo4 ding4 xian2] /Nottingham/
@@ -9308,7 +9308,7 @@
 蘇倫 苏伦 [Su1 lun2] /Sören/
 蘇美爾 苏美尔 [Su1 mei3 er3] /Sumer/
 蘇美爾人 苏美尔人 [Su1 mei3 er3 ren2] /Sumerian (person|people)/
-孫淡寧 孙淡宁 [Sun1_Dan4 ning4] /Sun Danning (HK author)/Danning, Sun (HK author)/
+孫淡寧 孙淡宁 [Sun1_Dan4 ning2] /Sun Danning (HK author)/Danning, Sun (HK author)/
 隼鳥 隼鸟 [sun3 niao3] /falcon/
 損折 损折 [sun3 zhe2] /damaged|lost in war?/war?, damaged|lost in/
 索阿雷 索阿雷 [Suo3 a1 lei2] /Soare/
@@ -12653,7 +12653,7 @@
 准時啊 准时啊 [zhun3 shi2_a5] /sharp! (of time)/
 朱諾 朱诺 [Zhu1 nuo4] /Juno/
 桌框 桌框 [zhuo1 kuang4] /table border or frame/border or frame, table/
-卓思寧 卓思宁 [Zhuo2 si1 ning4] /Drosnin/
+卓思寧 卓思宁 [Zhuo2 si1 ning2] /Drosnin/
 住棚節 住棚节 [Zhu4 peng2 jie2] /festival of booths/booths, festival of/
 豬群 猪群 [zhu1 qun2] /herd of swine/swine, herd of/
 主人們 主人们 [zhu3 ren2 men5] /owners/masters/
@@ -14679,8 +14679,8 @@
 龍岩 龙岩 [Long2 yan2] /Longyan (in Fujian)/
 南平市 南平市 [Nan2 ping2_Shi4] /Nanping (in Fujian)/
 南平 南平 [Nan2 ping2] /Nanping (in Fujian)/
-寧德市 宁德市 [Ning4 de2_Shi4] /Ningde (in Fujian)/
-寧德 宁德 [Ning4 de2] /Ningde (in Fujian)/
+寧德市 宁德市 [ning2 de2_Shi4] /Ningde (in Fujian)/
+寧德 宁德 [ning2 de2] /Ningde (in Fujian)/
 莆田市 莆田市 [Pu2 tian2_Shi4] /Putian (in Fujian)/
 莆田 莆田 [Pu2 tian2] /Putian (in Fujian)/
 泉州市 泉州市 [Quan2 zhou1_Shi4] /Quanzhou (in Fujian)/
@@ -14873,8 +14873,8 @@
 武漢市 武汉市 [Wu3 han4_Shi4] /Wuhan (in Hubei)/
 襄陽市 襄阳市 [Xiang1 yang2_Shi4] /Xiangyang (in Hubei)/
 襄陽 襄阳 [Xiang1 yang2] /Xiangyang (in Hubei)/
-咸寧市 咸宁市 [Xian2 ning4_Shi4] /Xianning (in Hubei)/
-咸寧 咸宁 [Xian2 ning4] /Xianning (in Hubei)/
+咸寧市 咸宁市 [Xian2 ning2_Shi4] /Xianning (in Hubei)/
+咸寧 咸宁 [Xian2 ning2] /Xianning (in Hubei)/
 孝感市 孝感市 [Xiao4 gan3_Shi4] /Xiaogan (in Hubei)/
 孝感 孝感 [Xiao4 gan3] /Xiaogan (in Hubei)/
 宜昌市 宜昌市 [Yi2 chang1_Shi4] /Yichang (in Hubei)/
@@ -15035,8 +15035,8 @@
 菏澤市 菏泽市 [He2 ze2_Shi4] /Heze (in Shandong)/
 菏澤 菏泽 [He2 ze2] /Heze (in Shandong)/
 濟南市 济南市 [Ji3 nan2_Shi4] /Jinan (in Shandong)/
-濟寧市 济宁市 [Ji4 ning4_Shi4] /Jining (in Shandong)/
-濟寧 济宁 [Ji4 ning4] /Jining (in Shandong)/
+濟寧市 济宁市 [Ji4 ning2_Shi4] /Jining (in Shandong)/
+濟寧 济宁 [Ji4 ning2] /Jining (in Shandong)/
 萊蕪市 莱芜市 [Lai2 wu2_Shi4] /Laiwu (in Shandong)/
 聊城市 聊城市 [Liao2 cheng2_Shi4] /Liaocheng (in Shandong)/
 聊城 聊城 [Liao2 cheng2] /Liaocheng (in Shandong)/
@@ -15099,8 +15099,8 @@
 南充 南充 [Nan2 chong1] /Nanchong (in Sichuan)/
 攀枝花市 攀枝花市 [Pan1 zhi1 hua1_Shi4] /Panzhihua (in Sichuan)/
 攀枝花 攀枝花 [Pan1 zhi1 hua1] /Panzhihua (in Sichuan)/
-遂寧市 遂宁市 [Sui4 ning4_Shi4] /Suining (in Sichuan)/
-遂寧 遂宁 [Sui4 ning4] /Suining (in Sichuan)/
+遂寧市 遂宁市 [Sui4 ning2_Shi4] /Suining (in Sichuan)/
+遂寧 遂宁 [Sui4 ning2] /Suining (in Sichuan)/
 雅安市 雅安市 [Ya3 an1_Shi4] /Ya'an (in Sichuan)/
 雅安 雅安 [Ya3 an1] /Ya'an (in Sichuan)/
 宜賓市 宜宾市 [Yi2 bin1_Shi4] /Yibin (in Sichuan)/
@@ -15151,8 +15151,8 @@
 金華 金华 [Jin1 hua2] /Jinhua (in Zhejiang)/
 麗水市 丽水市 [Li4 shui3_Shi4] /Lishui (in Zhejiang)/
 麗水 丽水 [Li4 shui3] /Lishui (in Zhejiang)/
-寧波市 宁波市 [Ning4 bo1_Shi4] /Ningbo (in Zhejiang)/
-寧波 宁波 [Ning4 bo1] /Ningbo (in Zhejiang)/
+寧波市 宁波市 [ning2 bo1_Shi4] /Ningbo (in Zhejiang)/
+寧波 宁波 [ning2 bo1] /Ningbo (in Zhejiang)/
 衢州市 衢州市 [Qu2 zhou1_Shi4] /Quzhou (in Zhejiang)/
 衢州 衢州 [Qu2 zhou1] /Quzhou (in Zhejiang)/
 紹興市 绍兴市 [Shao4 xing4_Shi4] /Shaoxing (in Zhejiang)/
@@ -15182,8 +15182,8 @@
 界首 界首 [Jie4 shou3] /Jieshou (in Anhui)/
 明光市 明光市 [Ming2 guang1_Shi4] /Mingguang (in Anhui)/
 明光 明光 [Ming2 guang1] /Mingguang (in Anhui)/
-寧國市 宁国市 [Ning4 guo2_Shi4] /Ningguo (in Anhui)/
-寧國 宁国 [Ning4 guo2] /Ningguo (in Anhui)/
+寧國市 宁国市 [ning2 guo2_Shi4] /Ningguo (in Anhui)/
+寧國 宁国 [ning2 guo2] /Ningguo (in Anhui)/
 天長市 天长市 [Tian1 chang2_Shi4] /Tianchang (in Anhui)/
 天長 天长 [Tian1 chang2] /Tianchang (in Anhui)/
 桐城市 桐城市 [Tong2 cheng2_Shi4] /Tongcheng (in Anhui)/
@@ -15238,16 +15238,16 @@
 羅定 罗定 [Luo2 ding4] /Luoding (in Guangdong)/
 南雄市 南雄市 [Nan2 xiong2_Shi4] /Nanxiong (in Guangdong)/
 南雄 南雄 [Nan2 xiong2] /Nanxiong (in Guangdong)/
-普寧市 普宁市 [Pu3 ning4_Shi4] /Puning (in Guangdong)/
-普寧 普宁 [Pu3 ning4] /Puning (in Guangdong)/
+普寧市 普宁市 [Pu3 ning2_Shi4] /Puning (in Guangdong)/
+普寧 普宁 [Pu3 ning2] /Puning (in Guangdong)/
 四會市 四会市 [Si4 hui4_Shi4] /Sihui (in Guangdong)/
 四會 四会 [Si4 hui4] /Sihui (in Guangdong)/
 台山市 台山市 [Tai2 shan1_Shi4] /Taishan (in Guangdong)/
 台山 台山 [Tai2 shan1] /Taishan (in Guangdong)/
 吳川市 吴川市 [Wu2 chuan1_Shi4] /Wuchuan (in Guangdong)/
 吳川 吴川 [Wu2 chuan1] /Wuchuan (in Guangdong)/
-興寧市 兴宁市 [Xing4 ning4_Shi4] /Xingning (in Guangdong)/
-興寧 兴宁 [Xing4 ning4] /Xingning (in Guangdong)/
+興寧市 兴宁市 [Xing4 ning2_Shi4] /Xingning (in Guangdong)/
+興寧 兴宁 [Xing4 ning2] /Xingning (in Guangdong)/
 信宜市 信宜市 [Xin4 yi2_Shi4] /Xinyi (in Guangdong)/
 信宜 信宜 [Xin4 yi2] /Xinyi (in Guangdong)/
 陽春市 阳春市 [Yang2 chun1_Shi4] /Yangchun (in Guangdong)/
@@ -15285,8 +15285,8 @@
 東方市 东方市 [Dong1 fang1_Shi4] /Dongfang (in Hainan)/
 瓊海市 琼海市 [Qiong2 hai3_Shi4] /Qionghai (in Hainan)/
 瓊海 琼海 [Qiong2 hai3] /Qionghai (in Hainan)/
-萬寧市 万宁市 [Wan4 ning4_Shi4] /Wanning (in Hainan)/
-萬寧 万宁 [Wan4 ning4] /Wanning (in Hainan)/
+萬寧市 万宁市 [Wan4 ning2_Shi4] /Wanning (in Hainan)/
+萬寧 万宁 [Wan4 ning2] /Wanning (in Hainan)/
 文昌市 文昌市 [Wen2 chang1_Shi4] /Wenchang (in Hainan)/
 五指山市 五指山市 [Wu3 zhi3 shan1_Shi4] /Wuzhishan (in Hainan)/
 五指山 五指山 [Wu3 zhi3 shan1] /Wuzhishan (in Hainan)/
@@ -15333,8 +15333,8 @@
 安達 安达 [An1 da2] /Anda (in Heilongjiang)/
 北安市 北安市 [Bei3 an1_Shi4] /Bei'an (in Heilongjiang)/
 北安 北安 [Bei3 an1] /Bei'an (in Heilongjiang)/
-東寧市 东宁市 [Dong1 ning4_Shi4] /Dongning (in Heilongjiang)/
-東寧 东宁 [Dong1 ning4] /Dongning (in Heilongjiang)/
+東寧市 东宁市 [Dong1 ning2_Shi4] /Dongning (in Heilongjiang)/
+東寧 东宁 [Dong1 ning2] /Dongning (in Heilongjiang)/
 富錦市 富锦市 [Fu4 jin3_Shi4] /Fujin (in Heilongjiang)/
 富錦 富锦 [Fu4 jin3] /Fujin (in Heilongjiang)/
 撫遠市 抚远市 [Fu3 yuan3_Shi4] /Fuyuan (in Heilongjiang)/
@@ -15450,8 +15450,8 @@
 枝江 枝江 [Zhi1 jiang1] /Zhijiang (in Hubei)/
 鐘祥市 钟祥市 [Zhong1 xiang2_Shi4] /Zhongxiang (in Hubei)/
 鐘祥 钟祥 [Zhong1 xiang2] /Zhongxiang (in Hubei)/
-常寧市 常宁市 [Chang2 ning4_Shi4] /Changning (in Hunan)/
-常寧 常宁 [Chang2 ning4] /Changning (in Hunan)/
+常寧市 常宁市 [Chang2 ning2_Shi4] /Changning (in Hunan)/
+常寧 常宁 [Chang2 ning2] /Changning (in Hunan)/
 洪江市 洪江市 [Hong2 jiang1_Shi4] /Hongjiang (in Hunan)/
 洪江 洪江 [Hong2 jiang1] /Hongjiang (in Hunan)/
 津市市 津市市 [Jin1 shi4_Shi4] /Jinshi (in Hunan)/
@@ -15471,8 +15471,8 @@
 瀏陽市 浏阳市 [Liu2 yang2_Shi4] /Liuyang (in Hunan)/
 瀏陽 浏阳 [Liu2 yang2] /Liuyang (in Hunan)/
 汨羅市 汨罗市 [Mi4 luo2_Shi4] /Miluo (in Hunan)/
-寧鄉市 宁乡市 [Ning4 xiang1_Shi4] /Ningxiang (in Hunan)/
-寧鄉 宁乡 [Ning4 xiang1] /Ningxiang (in Hunan)/
+寧鄉市 宁乡市 [ning2 xiang1_Shi4] /Ningxiang (in Hunan)/
+寧鄉 宁乡 [ning2 xiang1] /Ningxiang (in Hunan)/
 韶山市 韶山市 [Shao2 shan1_Shi4] /Shaoshan (in Hunan)/
 武岡市 武冈市 [Wu3 gang1_Shi4] /Wugang (in Hunan)/
 武岡 武冈 [Wu3 gang1] /Wugang (in Hunan)/
@@ -15790,8 +15790,8 @@
 五家渠 五家渠 [Wu3 jia1 qu2] /Wujiaqu (in Xinjiang)/
 烏蘇市 乌苏市 [Wu1 su1_Shi4] /Wusu (in Xinjiang)/
 烏蘇 乌苏 [Wu1 su1] /Wusu (in Xinjiang)/
-伊寧市 伊宁市 [Yi1 ning4_Shi4] /Yining (in Xinjiang)/
-伊寧 伊宁 [Yi1 ning4] /Yining (in Xinjiang)/
+伊寧市 伊宁市 [Yi1 ning2_Shi4] /Yining (in Xinjiang)/
+伊寧 伊宁 [Yi1 ning2] /Yining (in Xinjiang)/
 安寧市 安宁市 [An1 ning2_Shi4] /Anning (in Yunnan)/
 楚雄市 楚雄市 [Chu5 xiong2_Shi4] /Chuxiong (in Yunnan)/
 楚雄 楚雄 [Chu5 xiong2] /Chuxiong (in Yunnan)/
@@ -15819,8 +15819,8 @@
 慈溪 慈溪 [Ci2 xi1] /Cixi (in Zhejiang)/
 東陽市 东阳市 [Dong1 yang2_Shi4] /Dongyang (in Zhejiang)/
 東陽 东阳 [Dong1 yang2] /Dongyang (in Zhejiang)/
-海寧市 海宁市 [Hai3 ning4_Shi4] /Haining (in Zhejiang)/
-海寧 海宁 [Hai3 ning4] /Haining (in Zhejiang)/
+海寧市 海宁市 [Hai3 ning2_Shi4] /Haining (in Zhejiang)/
+海寧 海宁 [Hai3 ning2] /Haining (in Zhejiang)/
 建德市 建德市 [Jian4 de2_Shi4] /Jiande (in Zhejiang)/
 建德 建德 [Jian4 de2] /Jiande (in Zhejiang)/
 江山市 江山市 [Jiang1 shan1_Shi4] /Jiangshan (in Zhejiang)/
@@ -16002,7 +16002,7 @@
 戈爾韋 戈尔韦 [Ge1 er3 wei2] /Galway/
 紅盧奇 红卢奇 [Hong2 lu2 qi2] /Krasnyi Luch/Luch, Krasnyi/
 紅盧奇市 红卢奇市 [Hong2 lu2 qi2_Shi4] /Krasnyi Luch/Luch, Krasnyi/
-加里寧格勒 加里宁格勒 [Jia1 li3 ning4 ge2 le4] /Kaliningrad/
+加里寧格勒 加里宁格勒 [Jia1 li3 ning2 ge2 le4] /Kaliningrad/
 基律納 基律纳 [Ji1 lu:4 na4] /Kiruna/
 克雷莫納 克雷莫纳 [Ke4 lei2 mo4 na4] /Cremona/
 庫馬納 库马纳 [Ku4 ma3 na4] /Cumaná/
@@ -16211,7 +16211,7 @@
 嘉定 嘉定 [Jia1 ding4] /Jiading (in Shanghai)/
 季米特洛娃 季米特洛娃 [Ji4 mi3 te4 luo4 wa2] /Dimitrova/
 金德爾 金德尔 [Jin1 de2 er3] /Gündel/
-萊諾寧 莱诺宁 [Lai2 nuo4 ning4] /Leinonen/
+萊諾寧 莱诺宁 [Lai2 nuo4 ning2] /Leinonen/
 拉梅拉 拉梅拉 [La1 mei2 la1] /Lamela/
 蘭德里阿穆拉 兰德里阿穆拉 [Lan2 de2 li3 a1 mu4 la1] /Randriamora/
 勒迪 勒迪 [Lei1 di2] /Loedi/
@@ -16567,7 +16567,7 @@
 斯克里布納 斯克里布纳 [Si1 ke4 li3 bu4 na4] /Scribner/
 塔蒂亞娜 塔蒂亚娜 [Ta3 di4 ya4 na4] /Tanya (older translation)/
 托姆 托姆 [Tuo1 mu3] /Toom/
-瓦赫寧恩 瓦赫宁恩 [Wa3 he4 ning4 en1] /Wageningen/
+瓦赫寧恩 瓦赫宁恩 [Wa3 he4 ning2 en1] /Wageningen/
 瓦卡里 瓦卡里 [Wa3 ka3 li3] /Vaccari/
 韋斯 韦斯 [Wei2 si1] /Weiss/
 威斯特 威斯特 [Wei1 si1 te4] /Westminster (older translation)/
@@ -16584,7 +16584,7 @@
 尤因氏肉瘤 尤因氏肉瘤 [You2 yin1 shi4_rou4 liu2] /Ewing's sarcoma/sarcoma, Ewing's/
 扎基 扎基 [Zha1 ji1] /Zaki/
 扎克施奧尼 扎克施奥尼 [Zha1 ke4 shi1 ao4 ni2] /Sacksioni/
-詹寧斯 詹宁斯 [Zhan1 ning4 si1] /Jennings/
+詹寧斯 詹宁斯 [Zhan1 ning2 si1] /Jennings/
 阿歷山大 阿历山大 [A1 li4 shan1 da4] /Alexander (Czar)/
 阿隆索 阿隆索 [A1 long2 suo3] /Alonso/
 伯德 伯德 [Bo2 de2] /Bud (name)/
@@ -17921,7 +17921,7 @@
 博尼法西奧 博尼法西奥 [Bo2 ni2 fa3 xi1 ao4] /Bonifacio/
 布拉德肖 布拉德肖 [Bu4 la1 de2 xiao1] /Bradshaw/
 布拉加 布拉加 [Bu4 la1 jia1] /Blaga/
-布朗寧 布朗宁 [Bu4 lang3 ning4] /Browning/
+布朗寧 布朗宁 [Bu4 lang3 ning2] /Browning/
 布利斯 布利斯 [Bu4 li4 si1] /Bliss (surname)/
 布里特 布里特 [Bu4 li3 te4] /Britt/
 布倫納 布伦纳 [Bu4 lun2 na4] /Brenner/
@@ -17998,7 +17998,7 @@
 米洛什 米洛什 [Mi3 luo4 shi2] /Miloš/
 內納德 内纳德 [Nei4 na4 de2] /Nenad/
 尼科洛 尼科洛 [Ni2 ke1 luo4] /Nicolò/
-寧科維奇 宁科维奇 [Ning4 ke1 wei2 qi2] /Ninković/
+寧科維奇 宁科维奇 [ning2 ke1 wei2 qi2] /Ninković/
 娜迪亞 娜迪亚 [Nuo2 di2 ya4] /Nadia/
 諾瓦克 诺瓦克 [Nuo4 wa3 ke4] /Novak/
 佩德森 佩德森 [Pei4 de2 sen1] /Pedersen/
@@ -18465,7 +18465,7 @@
 索比奇 索比奇 [Suo3 bi3 qi2] /Sobička/
 索爾涅奇諾耶 索尔涅奇诺耶 [Suo3 er3 nie4 qi2 nuo4 ye1] /Solnechnoye/
 泰馬里 泰马里 [Tai4 ma3 li3] /Temarii/
-坦尼寧 坦尼宁 [Tan3 ni2 ning4] /Tanninen/
+坦尼寧 坦尼宁 [Tan3 ni2 ning2] /Tanninen/
 瓦拉爾 瓦拉尔 [Wa3 la1 er3] /Valard/
 韋爾日比茨基 韦尔日比茨基 [Wei2 er3 ri4 bi3 ci2 ji1] /Verzhbitsky/
 維戈 维戈 [Wei2 ge1] /Vigo/
@@ -18858,8 +18858,8 @@
 長樂市 长乐市 [Chang2 le4_Shi4] /Changle (city, in Fujian)/
 長嶺縣 长岭县 [Chang2 ling3_Xian4] /Changling (county, in Jilin)/
 昌黎縣 昌黎县 [Chang1 li2_Xian4] /Changli (county, in Hebei)/
-昌寧縣 昌宁县 [Chang1 ning4_Xian4] /Changning (county, in Yunnan)/
-長寧縣 长宁县 [Chang2 ning4_Xian4] /Changning (county, in Sichuan)/
+昌寧縣 昌宁县 [Chang1 ning2_Xian4] /Changning (county, in Yunnan)/
+長寧縣 长宁县 [Chang2 ning2_Xian4] /Changning (county, in Sichuan)/
 常山縣 常山县 [Chang2 shan1_Xian4] /Changshan (county, in Zhejiang)/
 長順縣 长顺县 [Chang2 shun4_Xian4] /Changshun (county, in Guizhou)/
 長汀縣 长汀县 [Chang2 ting1_Xian4] /Changting (county, in Fujian)/
@@ -18907,7 +18907,7 @@
 宕昌縣 宕昌县 [Dang4 chang1_Xian4] /Dangchang (county, in Gansu)/
 碭山縣 砀山县 [Dang4 shan1_Xian4] /Dangshan (county, in Anhui)/
 當塗縣 当涂县 [Dang1 tu2_Xian4] /Dangtu (county, in Anhui)/
-大寧縣 大宁县 [Da4 ning4_Xian4] /Daning (county, in Shanxi)/
+大寧縣 大宁县 [Da4 ning2_Xian4] /Daning (county, in Shanxi)/
 丹棱縣 丹棱县 [Dan1 leng2_Xian4] /Danleng (county, in Sichuan)/
 丹寨縣 丹寨县 [Dan1 zhai4_Xian4] /Danzhai (county, in Guizhou)/
 稻城縣 稻城县 [Dao4 cheng2_Xian4] /Daocheng (county, in Sichuan)/
@@ -18983,7 +18983,7 @@
 奉化市 奉化市 [Feng4 hua4_Shi4] /Fenghua (city, in Zhejiang)/
 奉節縣 奉节县 [Feng4 jie2_Xian4] /Fengjie (county, in Chongqing)/
 封開縣 封开县 [Feng1 kai1_Xian4] /Fengkai (county, in Guangdong)/
-丰寧縣 丰宁县 [Feng1 ning4_Xian4] /Fengning (county, in Hebei)/
+丰寧縣 丰宁县 [Feng1 ning2_Xian4] /Fengning (county, in Hebei)/
 鳳慶縣 凤庆县 [Feng4 qing4_Xian4] /Fengqing (county, in Yunnan)/
 封丘縣 封丘县 [Feng1 qiu1_Xian4] /Fengqiu (county, in Henan)/
 鳳山縣 凤山县 [Feng4 shan1_Xian4] /Fengshan (county, in Guangxi)/
@@ -19005,9 +19005,9 @@
 福海縣 福海县 [Fu2 hai3_Xian4] /Fuhai (county, in Xinjiang)/
 富民縣 富民县 [Fu4 min2_Xian4] /Fumin (county, in Yunnan)/
 阜南縣 阜南县 [Fu4 nan2_Xian4] /Funan (county, in Anhui)/
-撫寧縣 抚宁县 [Fu3 ning4_Xian4] /Funing (county, in Hebei)/
-富寧縣 富宁县 [Fu4 ning4_Xian4] /Funing (county, in Yunnan)/
-阜寧縣 阜宁县 [Fu4 ning4_Xian4] /Funing (county, in Jiangsu)/
+撫寧縣 抚宁县 [Fu3 ning2_Xian4] /Funing (county, in Hebei)/
+富寧縣 富宁县 [Fu4 ning2_Xian4] /Funing (county, in Yunnan)/
+阜寧縣 阜宁县 [Fu4 ning2_Xian4] /Funing (county, in Jiangsu)/
 阜平縣 阜平县 [Fu4 ping2_Xian4] /Fuping (county, in Hebei)/
 富平縣 富平县 [Fu4 ping2_Xian4] /Fuping (county, in Shaanxi)/
 浮山縣 浮山县 [Fu2 shan1_Xian4] /Fushan (county, in Shanxi)/
@@ -19041,7 +19041,7 @@
 廣河縣 广河县 [Guang3 he2_Xian4] /Guanghe (county, in Gansu)/
 廣靈縣 广灵县 [Guang3 ling2_Xian4] /Guangling (county, in Shanxi)/
 廣南縣 广南县 [Guang3 nan2_Xian4] /Guangnan (county, in Yunnan)/
-廣寧縣 广宁县 [Guang3 ning4_Xian4] /Guangning (county, in Guangdong)/
+廣寧縣 广宁县 [Guang3 ning2_Xian4] /Guangning (county, in Guangdong)/
 廣平縣 广平县 [Guang3 ping2_Xian4] /Guangping (county, in Hebei)/
 光山縣 光山县 [Guang1 shan1_Xian4] /Guangshan (county, in Henan)/
 廣宗縣 广宗县 [Guang3 zong1_Xian4] /Guangzong (county, in Hebei)/
@@ -19114,7 +19114,7 @@
 淮濱縣 淮滨县 [Huai2 bin1_Xian4] /Huaibin (county, in Henan)/
 懷集縣 怀集县 [Huai2 ji2_Xian4] /Huaiji (county, in Guangdong)/
 懷來縣 怀来县 [Huai2 lai2_Xian4] /Huailai (county, in Hebei)/
-懷寧縣 怀宁县 [Huai2 ning4_Xian4] /Huaining (county, in Anhui)/
+懷寧縣 怀宁县 [Huai2 ning2_Xian4] /Huaining (county, in Anhui)/
 淮陽縣 淮阳县 [Huai2 yang2_Xian4] /Huaiyang (county, in Henan)/
 懷遠縣 怀远县 [Huai2 yuan3_Xian4] /Huaiyuan (county, in Anhui)/
 化隆縣 化隆县 [Hua4 long2_Xian4] /Hualong (county, in Qinghai)/
@@ -19126,7 +19126,7 @@
 黃平縣 黄平县 [Huang2 ping2_Xian4] /Huangping (county, in Guizhou)/
 湟源縣 湟源县 [Huang2 yuan2_Xian4] /Huangyuan (county, in Qinghai)/
 湟中縣 湟中县 [Huang2 zhong1_Xian4] /Huangzhong (county, in Qinghai)/
-華寧縣 华宁县 [Hua2 ning4_Xian4] /Huaning (county, in Yunnan)/
+華寧縣 华宁县 [Hua2 ning2_Xian4] /Huaning (county, in Yunnan)/
 環江縣 环江县 [Huan2 jiang1_Xian4] /Huanjiang (county, in Guangxi)/
 桓仁縣 桓仁县 [Huan2 ren2_Xian4] /Huanren (county, in Liaoning)/
 華坪縣 华坪县 [Hua2 ping2_Xian4] /Huaping (county, in Yunnan)/
@@ -19141,7 +19141,7 @@
 惠來縣 惠来县 [Hui4 lai2_Xian4] /Huilai (county, in Guangdong)/
 會理縣 会理县 [Hui4 li3_Xian4] /Huili (county, in Sichuan)/
 輝南縣 辉南县 [Hui1 nan2_Xian4] /Huinan (county, in Jilin)/
-會寧縣 会宁县 [Hui4 ning4_Xian4] /Huining (county, in Gansu)/
+會寧縣 会宁县 [Hui4 ning2_Xian4] /Huining (county, in Gansu)/
 惠水縣 惠水县 [Hui4 shui3_Xian4] /Huishui (county, in Guizhou)/
 會澤縣 会泽县 [Hui4 ze2_Xian4] /Huize (county, in Yunnan)/
 湖口縣 湖口县 [Hu2 kou3_Xian4] /Hukou (county, in Jiangxi)/
@@ -19169,7 +19169,7 @@
 劍河縣 剑河县 [Jian4 he2_Xian4] /Jianhe (county, in Guizhou)/
 建湖縣 建湖县 [Jian4 hu2_Xian4] /Jianhu (county, in Jiangsu)/
 監利縣 监利县 [Jian1 li4_Xian4] /Jianli (county, in Hubei)/
-建寧縣 建宁县 [Jian4 ning4_Xian4] /Jianning (county, in Fujian)/
+建寧縣 建宁县 [Jian4 ning2_Xian4] /Jianning (county, in Fujian)/
 建平縣 建平县 [Jian4 ping2_Xian4] /Jianping (county, in Liaoning)/
 建始縣 建始县 [Jian4 shi3_Xian4] /Jianshi (county, in Hubei)/
 建水縣 建水县 [Jian4 shui3_Xian4] /Jianshui (county, in Yunnan)/
@@ -19193,8 +19193,8 @@
 景谷縣 景谷县 [Jing3 gu3_Xian4] /Jinggu (county, in Yunnan)/
 精河縣 精河县 [Jing1 he2_Xian4] /Jinghe (county, in Xinjiang)/
 靜樂縣 静乐县 [Jing4 le4_Xian4] /Jingle (county, in Shanxi)/
-景寧縣 景宁县 [Jing3 ning4_Xian4] /Jingning (county, in Zhejiang)/
-靜寧縣 静宁县 [Jing4 ning4_Xian4] /Jingning (county, in Gansu)/
+景寧縣 景宁县 [Jing3 ning2_Xian4] /Jingning (county, in Zhejiang)/
+靜寧縣 静宁县 [Jing4 ning2_Xian4] /Jingning (county, in Gansu)/
 京山縣 京山县 [Jing1 shan1_Xian4] /Jingshan (county, in Hubei)/
 景泰縣 景泰县 [Jing3 tai4_Xian4] /Jingtai (county, in Gansu)/
 涇縣 泾县 [Jing1_Xian4] /Jing (county, in Anhui)/
@@ -19205,7 +19205,7 @@
 靖宇縣 靖宇县 [Jing4 yu3_Xian4] /Jingyu (county, in Jilin)/
 靖州縣 靖州县 [Jing4 zhou1_Xian4] /Jingzhou (county, in Hunan)/
 金湖縣 金湖县 [Jin1 hu2_Xian4] /Jinhu (county, in Jiangsu)/
-晉寧縣 晋宁县 [Jin4 ning4_Xian4] /Jinning (county, in Yunnan)/
+晉寧縣 晋宁县 [Jin4 ning2_Xian4] /Jinning (county, in Yunnan)/
 金平縣 金平县 [Jin1 ping2_Xian4] /Jinping (county, in Yunnan)/
 錦屏縣 锦屏县 [Jin3 ping2_Xian4] /Jinping (county, in Guizhou)/
 金台區 金台区 [Jin1 tai2_Qu1] /Jintai (district, in Shaanxi)/
@@ -19356,7 +19356,7 @@
 羅甸縣 罗甸县 [Luo2 dian4_Xian4] /Luodian (county, in Guizhou)/
 羅江縣 罗江县 [Luo2 jiang1_Xian4] /Luojiang (county, in Sichuan)/
 洛南縣 洛南县 [Luo4 nan2_Xian4] /Luonan (county, in Shaanxi)/
-洛寧縣 洛宁县 [Luo4 ning4_Xian4] /Luoning (county, in Henan)/
+洛寧縣 洛宁县 [Luo4 ning2_Xian4] /Luoning (county, in Henan)/
 洛浦縣 洛浦县 [Luo4 pu3_Xian4] /Lop (county, in Xinjiang)/
 羅山縣 罗山县 [Luo2 shan1_Xian4] /Luoshan (county, in Henan)/
 羅田縣 罗田县 [Luo2 tian2_Xian4] /Luotian (county, in Hubei)/
@@ -19396,7 +19396,7 @@
 蒙山縣 蒙山县 [Meng2 shan1_Xian4] /Mengshan (county, in Guangxi)/
 門源縣 门源县 [Men2 yuan2_Xian4] /Menyuan (county, in Qinghai)/
 澠池縣 渑池县 [Mian3 chi2_Xian4] /Mianchi (county, in Henan)/
-冕寧縣 冕宁县 [Mian3 ning4_Xian4] /Mianning (county, in Sichuan)/
+冕寧縣 冕宁县 [Mian3 ning2_Xian4] /Mianning (county, in Sichuan)/
 彌渡縣 弥渡县 [Mi2 du4_Xian4] /Midu (county, in Yunnan)/
 民丰縣 民丰县 [Min2 feng1_Xian4] /Minfeng (county, in Xinjiang)/
 明山區 明山区 [Ming2 shan1_Qu1] /Mingshan (district, in Liaoning)/
@@ -19445,20 +19445,20 @@
 內鄉縣 内乡县 [Nei4 xiang1_Xian4] /Neixiang (county, in Henan)/
 嫩江縣 嫩江县 [Nen4 jiang1_Xian4] /Nenjiang (county, in Heilongjiang)/
 尼勒克縣 尼勒克县 [Ni2 le4 ke4_Xian4] /Nilka (county, in Xinjiang)/
-寧城縣 宁城县 [Ning4 cheng2_Xian4] /Ningcheng (county, in Inner Mongolia)/
-寧都縣 宁都县 [Ning4 du1_Xian4] /Ningdu (county, in Jiangxi)/
-寧洱縣 宁洱县 [Ning4 er3_Xian4] /Ning'er (county, in Yunnan)/
-寧海縣 宁海县 [Ning4 hai3_Xian4] /Ninghai (county, in Zhejiang)/
-寧化縣 宁化县 [Ning4 hua4_Xian4] /Ninghua (county, in Fujian)/
-寧晉縣 宁晋县 [Ning4 jin4_Xian4] /Ningjin (county, in Hebei)/
-寧蒗縣 宁蒗县 [Ning4 lang4_Xian4] /Ninglang (county, in Yunnan)/
-寧陵縣 宁陵县 [Ning4 ling2_Xian4] /Ningling (county, in Henan)/
-寧明縣 宁明县 [Ning4 ming2_Xian4] /Ningming (county, in Guangxi)/
-寧南縣 宁南县 [Ning4 nan2_Xian4] /Ningnan (county, in Sichuan)/
-寧強縣 宁强县 [Ning4 qiang2_Xian4] /Ningqiang (county, in Shaanxi)/
-寧陝縣 宁陕县 [Ning4 shan3_Xian4] /Ningshan (county, in Shaanxi)/
-寧武縣 宁武县 [Ning4 wu3_Xian4] /Ningwu (county, in Shanxi)/
-寧遠縣 宁远县 [Ning4 yuan3_Xian4] /Ningyuan (county, in Hunan)/
+寧城縣 宁城县 [ning2 cheng2_Xian4] /Ningcheng (county, in Inner Mongolia)/
+寧都縣 宁都县 [ning2 du1_Xian4] /Ningdu (county, in Jiangxi)/
+寧洱縣 宁洱县 [ning2 er3_Xian4] /Ning'er (county, in Yunnan)/
+寧海縣 宁海县 [ning2 hai3_Xian4] /Ninghai (county, in Zhejiang)/
+寧化縣 宁化县 [ning2 hua4_Xian4] /Ninghua (county, in Fujian)/
+寧晉縣 宁晋县 [ning2 jin4_Xian4] /Ningjin (county, in Hebei)/
+寧蒗縣 宁蒗县 [ning2 lang4_Xian4] /Ninglang (county, in Yunnan)/
+寧陵縣 宁陵县 [ning2 ling2_Xian4] /Ningling (county, in Henan)/
+寧明縣 宁明县 [ning2 ming2_Xian4] /Ningming (county, in Guangxi)/
+寧南縣 宁南县 [ning2 nan2_Xian4] /Ningnan (county, in Sichuan)/
+寧強縣 宁强县 [ning2 qiang2_Xian4] /Ningqiang (county, in Shaanxi)/
+寧陝縣 宁陕县 [ning2 shan3_Xian4] /Ningshan (county, in Shaanxi)/
+寧武縣 宁武县 [ning2 wu3_Xian4] /Ningwu (county, in Shanxi)/
+寧遠縣 宁远县 [ning2 yuan3_Xian4] /Ningyuan (county, in Hunan)/
 農安縣 农安县 [Nong2 an1_Xian4] /Nong'an (county, in Jilin)/
 磐安縣 磐安县 [Pan2 an1_Xian4] /Pan'an (county, in Zhejiang)/
 蓬安縣 蓬安县 [Peng2 an1_Xian4] /Peng'an (county, in Sichuan)/
@@ -19609,7 +19609,7 @@
 石渠縣 石渠县 [Shi2 qu2_Xian4] /Shiqu (county, in Sichuan)/
 始興縣 始兴县 [Shi3 xing4_Xian4] /Shixing (county, in Guangdong)/
 師宗縣 师宗县 [Shi1 zong1_Xian4] /Shizong (county, in Yunnan)/
-壽寧縣 寿宁县 [Shou4 ning4_Xian4] /Shouning (county, in Fujian)/
+壽寧縣 寿宁县 [Shou4 ning2_Xian4] /Shouning (county, in Fujian)/
 壽縣 寿县 [Shou4_Xian4] /Shou (county, in Anhui)/
 壽陽縣 寿阳县 [Shou4 yang2_Xian4] /Shouyang (county, in Shanxi)/
 雙柏縣 双柏县 [Shuang1 bo2_Xian4] /Shuangbo (county, in Yunnan)/
@@ -19643,8 +19643,8 @@
 綏德縣 绥德县 [Sui2 de2_Xian4] /Suide (county, in Shaanxi)/
 綏江縣 绥江县 [Sui2 jiang1_Xian4] /Suijiang (county, in Yunnan)/
 綏棱縣 绥棱县 [Sui2 leng2_Xian4] /Suileng (county, in Heilongjiang)/
-睢寧縣 睢宁县 [Sui1 ning4_Xian4] /Suining (county, in Jiangsu)/
-綏寧縣 绥宁县 [Sui2 ning4_Xian4] /Suining (county, in Hunan)/
+睢寧縣 睢宁县 [Sui1 ning2_Xian4] /Suining (county, in Jiangsu)/
+綏寧縣 绥宁县 [Sui2 ning2_Xian4] /Suining (county, in Hunan)/
 遂平縣 遂平县 [Sui4 ping2_Xian4] /Suiping (county, in Henan)/
 濉溪縣 濉溪县 [Sui1 xi1_Xian4] /Suixi (county, in Anhui)/
 遂溪縣 遂溪县 [Sui4 xi1_Xian4] /Suixi (county, in Guangdong)/
@@ -19652,7 +19652,7 @@
 綏中縣 绥中县 [Sui2 zhong1_Xian4] /Suizhong (county, in Liaoning)/
 蘇家屯區 苏家屯区 [Su1 jia1 tun2_Qu1] /Sujiatun (district, in Liaoning)/
 肅南縣 肃南县 [Su4 nan2_Xian4] /Sunan (county, in Gansu)/
-肅寧縣 肃宁县 [Su4 ning4_Xian4] /Suning (county, in Hebei)/
+肅寧縣 肃宁县 [Su4 ning2_Xian4] /Suning (county, in Hebei)/
 蘇尼特右旗 苏尼特右旗 [Su1 ni2 te4 you4_Qi2] /Sonid Right (banner, in Inner Mongolia)/Right, Sonid (banner, in Inner Mongolia)/
 蘇尼特左旗 苏尼特左旗 [Su1 ni2 te4 zuo3_Qi2] /Sonid Left (banner, in Inner Mongolia)/Left, Sonid (banner, in Inner Mongolia)/
 孫吳縣 孙吴县 [Sun1 wu2_Xian4] /Sunwu (county, in Heilongjiang)/
@@ -19664,7 +19664,7 @@
 台江縣 台江县 [Tai2 jiang1_Xian4] /Taijiang (county, in Guizhou)/
 太康縣 太康县 [Tai4 kang1_Xian4] /Taikang (county, in Henan)/
 泰來縣 泰来县 [Tai4 lai2_Xian4] /Tailai (county, in Heilongjiang)/
-泰寧縣 泰宁县 [Tai4 ning4_Xian4] /Taining (county, in Fujian)/
+泰寧縣 泰宁县 [Tai4 ning2_Xian4] /Taining (county, in Fujian)/
 太仆寺旗 太仆寺旗 [Tai4 pu1 si4_Qi2] /Taibus (banner, in Inner Mongolia)/
 台前縣 台前县 [Tai2 qian2_Xian4] /Taiqian (county, in Henan)/
 泰順縣 泰顺县 [Tai4 shun4_Xian4] /Taishun (county, in Zhejiang)/
@@ -19723,7 +19723,7 @@
 渭濱區 渭滨区 [Wei4 bin1_Qu1] /Weibin (district, in Shaanxi)/
 渭城區 渭城区 [Wei4 cheng2_Qu1] /Weicheng (district, in Shaanxi)/
 尉犁縣 尉犁县 [Wei4 li2_Xian4] /Yuli (county, in Xinjiang)/
-威寧縣 威宁县 [Wei1 ning4_Xian4] /Weining (county, in Guizhou)/
+威寧縣 威宁县 [Wei1 ning2_Xian4] /Weining (county, in Guizhou)/
 巍山縣 巍山县 [Wei1 shan1_Xian4] /Weishan (county, in Yunnan)/
 尉氏縣 尉氏县 [Wei4 shi4_Xian4] /Weishi (county, in Henan)/
 維西縣 维西县 [Wei2 xi1_Xian4] /Weixi (county, in Yunnan)/
@@ -19751,7 +19751,7 @@
 烏拉特中旗 乌拉特中旗 [Wu1 la1 te4 zhong1_Qi2] /Urad Middle (banner, in Inner Mongolia)/Middle, Urad (banner, in Inner Mongolia)/
 武隆縣 武隆县 [Wu3 long2_Xian4] /Wulong (county, in Chongqing)/
 武鳴縣 武鸣县 [Wu3 ming2_Xian4] /Wuming (county, in Guangxi)/
-武寧縣 武宁县 [Wu3 ning4_Xian4] /Wuning (county, in Jiangxi)/
+武寧縣 武宁县 [Wu3 ning2_Xian4] /Wuning (county, in Jiangxi)/
 武平縣 武平县 [Wu3 ping2_Xian4] /Wuping (county, in Fujian)/
 武強縣 武强县 [Wu3 qiang2_Xian4] /Wuqiang (county, in Hebei)/
 吳橋縣 吴桥县 [Wu2 qiao2_Xian4] /Wuqiao (county, in Hebei)/
@@ -19780,7 +19780,7 @@
 襄汾縣 襄汾县 [Xiang1 fen2_Xian4] /Xiangfen (county, in Shanxi)/
 香河縣 香河县 [Xiang1 he2_Xian4] /Xianghe (county, in Hebei)/
 鑲黃旗 镶黄旗 [Xiang1 huang2_Qi2] /Xianghuang (banner, in Inner Mongolia)/
-鄉寧縣 乡宁县 [Xiang1 ning4_Xian4] /Xiangning (county, in Shanxi)/
+鄉寧縣 乡宁县 [Xiang1 ning2_Xian4] /Xiangning (county, in Shanxi)/
 象山縣 象山县 [Xiang4 shan1_Xian4] /Xiangshan (county, in Zhejiang)/
 響水縣 响水县 [Xiang3 shui3_Xian4] /Xiangshui (county, in Jiangsu)/
 湘陰縣 湘阴县 [Xiang1 yin1_Xian4] /Xiangyin (county, in Hunan)/
@@ -19837,7 +19837,7 @@
 新絳縣 新绛县 [Xin1 jiang4_Xian4] /Xinjiang (county, in Shanxi)/
 新津縣 新津县 [Xin1 jin1_Xian4] /Xinjin (county, in Sichuan)/
 新龍縣 新龙县 [Xin1 long2_Xian4] /Xinlong (county, in Sichuan)/
-新寧縣 新宁县 [Xin1 ning4_Xian4] /Xinning (county, in Hunan)/
+新寧縣 新宁县 [Xin1 ning2_Xian4] /Xinning (county, in Hunan)/
 新平縣 新平县 [Xin1 ping2_Xian4] /Xinping (county, in Yunnan)/
 新邱區 新邱区 [Xin1 qiu1_Qu1] /Xinqiu (district, in Liaoning)/
 新邵縣 新邵县 [Xin1 shao4_Xian4] /Xinshao (county, in Hunan)/
@@ -19847,7 +19847,7 @@
 西平縣 西平县 [Xi1 ping2_Xian4] /Xiping (county, in Henan)/
 浠水縣 浠水县 [Xi1 shui3_Xian4] /Xishui (county, in Hubei)/
 習水縣 习水县 [Xi2 shui3_Xian4] /Xishui (county, in Guizhou)/
-休寧縣 休宁县 [Xiu1 ning4_Xian4] /Xiuning (county, in Anhui)/
+休寧縣 休宁县 [Xiu1 ning2_Xian4] /Xiuning (county, in Anhui)/
 秀山縣 秀山县 [Xiu4 shan1_Xian4] /Xiushan (county, in Chongqing)/
 修水縣 修水县 [Xiu1 shui3_Xian4] /Xiushui (county, in Jiangxi)/
 修武縣 修武县 [Xiu1 wu3_Xian4] /Xiuwu (county, in Henan)/
@@ -20005,12 +20005,12 @@
 正定縣 正定县 [Zheng4 ding4_Xian4] /Zhengding (county, in Hebei)/
 政和縣 政和县 [Zheng4 he2_Xian4] /Zhenghe (county, in Fujian)/
 正藍旗 正蓝旗 [Zheng4 lan2_Qi2] /Zhenglan (banner, in Inner Mongolia)/
-正寧縣 正宁县 [Zheng4 ning4_Xian4] /Zhengning (county, in Gansu)/
+正寧縣 正宁县 [Zheng4 ning2_Xian4] /Zhengning (county, in Gansu)/
 正鑲白旗 正镶白旗 [Zheng4 xiang1 bai2_Qi2] /Zhengxiangbai (banner, in Inner Mongolia)/
 正陽縣 正阳县 [Zheng4 yang2_Xian4] /Zhengyang (county, in Henan)/
 鎮康縣 镇康县 [Zhen4 kang1_Xian4] /Zhenkang (county, in Yunnan)/
 鎮賚縣 镇赉县 [Zhen4 lai4_Xian4] /Zhenlai (county, in Jilin)/
-鎮寧縣 镇宁县 [Zhen4 ning4_Xian4] /Zhenning (county, in Guizhou)/
+鎮寧縣 镇宁县 [Zhen4 ning2_Xian4] /Zhenning (county, in Guizhou)/
 鎮平縣 镇平县 [Zhen4 ping2_Xian4] /Zhenping (county, in Henan)/
 鎮坪縣 镇坪县 [Zhen4 ping2_Xian4] /Zhenping (county, in Shaanxi)/
 鎮雄縣 镇雄县 [Zhen4 xiong2_Xian4] /Zhenxiong (county, in Yunnan)/
@@ -20025,7 +20025,7 @@
 中牟縣 中牟县 [Zhong1 mou2_Xian4] /Zhongmou (county, in Henan)/
 鐘山縣 钟山县 [Zhong1 shan1_Xian4] /Zhongshan (county, in Guangxi)/
 中陽縣 中阳县 [Zhong1 yang2_Xian4] /Zhongyang (county, in Shanxi)/
-周寧縣 周宁县 [Zhou1 ning4_Xian4] /Zhouning (county, in Fujian)/
+周寧縣 周宁县 [Zhou1 ning2_Xian4] /Zhouning (county, in Fujian)/
 舟曲縣 舟曲县 [Zhou1 qu1_Xian4] /Zhouqu (county, in Gansu)/
 莊浪縣 庄浪县 [Zhuang1 lang4_Xian4] /Zhuanglang (county, in Gansu)/
 准格爾旗 准格尔旗 [Zhun3 ge2 er3_Qi2] /Jungar (banner, in Inner Mongolia)/
@@ -20446,3 +20446,42 @@
 水墨宏村 水墨宏村 [Shui3 mo4_Hong2 cun1] /Shuimo Hongcun (at Huangshan)/Hongcun, Shuimo (at Huangshan)/
 小屁孩 小屁孩 [xiao3 pi4 hai2] /troublesome child/child, troublesome/
 小屁孩們 小屁孩们 [xiao3 pi4 hai2 men5] /troublesome children/children, troublesome/
+艾薇 艾薇 [Ai4 wei1] /Ivy (name)/
+按兩下 按两下 [an4_liang3_xia4] /double-click/
+奧爾德姆 奥尔德姆 [Ao4 er3 de2 mu3] /Oldham/
+本奇 本奇 [Ben3 qi2] /Benci/
+筆記型 笔记型 [bi3 ji4 xing2] /notebook/laptop (type of computer)/
+布拉姆斯 布拉姆斯 [Bu4 la1 mu3 si1] /Brahms/
+大笨象 大笨象 [da4 ben4 xiang4] /big silly elephant/silly elephant, big/
+導覽 导览 [dao3 lan3] /navigation/guide/
+掛接 挂接 [gua4 jie1] /mount (a disk image etc)/
+過渡段 过渡段 [guo4 du4 duan4] /bridge (in song, Cantonese version)/
+假警報 假警报 [jia3_jing3 bao4] /false alarm/alarm, false/
+艱難的情況 艰难的情况 [jian1 nan2_de5_qing2 kuang4] /formidable circumstances/circumstances, formidable/
+緊急出口 紧急出口 [jin3 ji2_chu1 kou3] /emergency exit/exit, emergency/
+凱萊布 凯莱布 [Kai3 lai2 bu4] /Caleb (modern)/
+列寧斯基 列宁斯基 [Lie4 ning2 si1 ji1] /Leninsky/
+里菲奇 里菲奇 [Li3 fei1 qi2] /Rifici/
+留心聽 留心听 [liu2 xin1_ting1] /carefully listen/listen, carefully/
+盧喬 卢乔 [Lu2 qiao2] /Lucio/
+馬爾塞拉 马尔塞拉 [Ma3 er3 sai1 la1] /Marsella/
+米卡埃拉 米卡埃拉 [Mi3 ka3 ai1 la1] /Micaela/
+年輕時 年轻时 [nian2 qing1_shi2] /when younger/younger, when/
+頻寬 频宽 [pin2 kuan1] /bandwidth (quota)/
+切爾尼科夫 切尔尼科夫 [Qie4 er3 ni2 ke1 fu1] /Chernikov/
+輕抹 轻抹 [qing1 ma1] /lightly wipe (clean)/wipe, lightly (clean)/
+少年時 少年时 [shao4 nian2_shi2] /(in) early teens/teens, early/
+是話都信 是话都信 [shi4_hua4_dou1_xin4] /believe anything that's said/anything that's said, believe/
+斯溫佐夫 斯温佐夫 [Si1 wen1 zuo3 fu1] /Svintsov/
+思想頑固 思想顽固 [si1 xiang3_wan2 gu4] /have a closed mind/closed mind, have a/
+泰爾米尼 泰尔米尼 [Tai4 er3 mi3 ni2] /Termini/
+襪類 袜类 [wa4_lei4] /hosiery (clothing type)/
+下載並安裝 下载并安装 [xia4 zai4_bing4_an1 zhuang1] /download and install/install, download and/
+協力廠商 协力厂商 [xie2 li4_chang3 shang1] /third-party (made)/
+系統需求 系统需求 [xi4 tong3_xu1 qiu2] /system requirements (of a program)/requirements, system (of a program)/
+選擇困難症 选择困难症 [xuan3 ze2_kun4 nan2 zheng4] /decision paralysis/paralysis, decision/
+醫療法律專家 医疗法律专家 [yi1 liao2_fa3 lu:4_zhuan1 jia1] /health law expert/expert, health law/
+醫療自主權 医疗自主权 [yi1 liao2_zi4 zhu3 quan2] /patient autonomy/autonomy, patient/
+伊梅雷塞 伊梅雷塞 [Yi1 mei2 lei2 se4] /Imerese/
+因娜 因娜 [Yin1 na4] /Inna/
+桌上型 桌上型 [zhuo1 shang4 xing2] /desktop (type of computer)/
