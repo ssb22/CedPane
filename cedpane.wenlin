@@ -102661,3 +102661,29 @@ pinyin yànzhèngmǎ
 characters 验证码[驗證碼]
 serial-number CedPane20680
 definition verification code; CAPTCHA
+*** 
+pinyin hǎodī
+characters 好滴
+serial-number CedPane20681
+environment   netspeak
+definition OK
+*** 
+pinyin jiàzi gǔ
+characters 架子鼓
+serial-number CedPane20682
+definition drum kit
+*** 
+pinyin juéshì gǔ
+characters 爵士鼓
+serial-number CedPane20683
+definition jazz drums; drum kit
+*** 
+pinyin Sūméidǎo
+characters 苏梅岛[蘇-島]
+serial-number CedPane20684
+definition Ko Samui (island)
+*** 
+pinyin yōulǜzhèng
+characters 忧虑症[憂慮-]
+serial-number CedPane20685
+definition anxiety disorder (less common translation)
