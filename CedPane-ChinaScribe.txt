@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-09-04
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-09-07
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -1572,7 +1572,7 @@
 伯亞蘭 伯亚兰 [Bo2 ya4 lan2] /Beth-haram/
 伯亞諾 伯亚诺 [Bo2 ya4 nuo4] /Beth-anoth/
 伯亞斯瑪弗 伯亚斯玛弗 [Bo2 ya4 si1 ma3 fu2] /Beth-azmaveth/
-伯亞聞 伯亚闻 [Bo2 ya4 wen2] /Beth/
+伯亞聞 伯亚闻 [Bo2 ya4 wen2] /Beth-aven/
 伯耶 伯耶 [Bo2 ye1] /Börje/
 伯耶施末 伯耶施末 [Bo2 ye1 shi1 mo4] /Beth-jeshimoth/
 伯伊甸 伯伊甸 [Bo2 yi1 dian4] /Beth-eden/
@@ -16629,7 +16629,7 @@
 薩沙 萨沙 [Sa4 sha1] /Sascha/
 詩碑 诗碑 [shi1 bei1] /stone tablet inscribed with a poem/tablet inscribed with a poem, stone/
 史蒂文森 史蒂文森 [Shi3 di4 wen2 sen1] /Stevenson/
-舒爾茨 舒尔茨 [Shu1 er3 ci2] /Schultz/
+舒爾茨 舒尔茨 [Shu1 er3 ci2] /Schultz/Schulz/
 斯塔克 斯塔克 [Si1 ta3 ke4] /Stakh/
 蘇菲亞 苏菲亚 [Su1 fei3 ya4] /Sylvie/
 蘇沙 苏沙 [Su1 sha1] /Sorsa/
@@ -20536,3 +20536,11 @@
 網絡攻擊 网络攻击 [wang3 luo4_gong1 ji1] /cyberattack/
 一件事 一件事 [yi1_jian4_shi4] /one thing/thing, one/
 自己做生意 自己做生意 [zi4 ji3_zuo4_sheng1 yi5] /be self-employed/self-employed, be/
+巴爾達 巴尔达 [Ba1 er3 da2] /Barda/
+伯亞文 伯亚文 [Bo2 ya4 wen2] /Beth-aven (old translation)/
+爾旗 尔旗 [Er3 qi2] /Eel-Chyi (Taiwan clothing brand)/
+房飛 房飞 [Fang2_Fei1] /Fei Fang (conductor)/Fang, Fei (conductor)/
+旅游與體育部 旅游与体育部 [Lu:3 you2_Yu3_Ti3 yu4 bu4] /Ministry of Tourism and Sports (Thailand 2003-)/Tourism and Sports, Ministry of (Thailand 2003-)/
+梅季耶夫 梅季耶夫 [Mei2 ji4 ye1 fu1] /Mehdiyev/
+微軟雅黑 微软雅黑 [Wei1 ruan3_Ya3 hei1] /Microsoft YaHei (Vista font)/YaHei, Microsoft (Vista font)/
+葉米爾 叶米尔 [Ye4 mi3 er3] /Emil/

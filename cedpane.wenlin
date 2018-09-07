@@ -7848,7 +7848,7 @@ definition Beth-azmaveth
 pinyin Bóyàwén
 characters 伯亚闻[-亞聞]
 serial-number CedPane1574
-definition Beth
+definition Beth-aven
 *** 
 pinyin Bóyē
 characters 伯耶
@@ -83172,7 +83172,7 @@ definition Stevenson
 pinyin Shū'ěrcí
 characters 舒尔茨[-爾-]
 serial-number CedPane16760
-definition Schultz
+definition Schultz; Schulz
 *** 
 pinyin Sītǎkè
 characters 斯塔克
@@ -102727,3 +102727,43 @@ pinyin zìjǐ zuò shēngyi
 characters 自己做生意
 serial-number CedPane20693
 definition be self-employed
+*** 
+pinyin Bā'ěrdá
+characters 巴尔达[-爾達]
+serial-number CedPane20694
+definition Barda
+*** 
+pinyin Bóyàwén
+characters 伯亚文[-亞-]
+serial-number CedPane20695
+definition Beth-aven (old translation)
+*** 
+pinyin Ěrqí
+characters 尔旗[爾-]
+serial-number CedPane20696
+definition Eel-Chyi (Taiwan clothing brand)
+*** 
+pinyin Fáng Fēi
+characters 房飞[-飛]
+serial-number CedPane20697
+definition Fei Fang (conductor)
+*** 
+pinyin Lǚyóu Yǔ Tǐyùbù
+characters 旅游与体育部[--與體--]
+serial-number CedPane20698
+definition Ministry of Tourism and Sports (Thailand 2003-)
+*** 
+pinyin Méijìyēfū
+characters 梅季耶夫
+serial-number CedPane20699
+definition Mehdiyev
+*** 
+pinyin Wēiruǎn Yǎhēi
+characters 微软雅黑[-軟--]
+serial-number CedPane20700
+definition Microsoft YaHei (Vista font)
+*** 
+pinyin Yèmǐ'ěr
+characters 叶米尔[葉-爾]
+serial-number CedPane20701
+definition Emil
