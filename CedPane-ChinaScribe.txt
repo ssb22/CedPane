@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-09-07
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-09-08
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -20544,3 +20544,14 @@
 梅季耶夫 梅季耶夫 [Mei2 ji4 ye1 fu1] /Mehdiyev/
 微軟雅黑 微软雅黑 [Wei1 ruan3_Ya3 hei1] /Microsoft YaHei (Vista font)/YaHei, Microsoft (Vista font)/
 葉米爾 叶米尔 [Ye4 mi3 er3] /Emil/
+備份副本 备份副本 [bei4 fen4_fu4 ben3] /backup copy/copy, backup/
+襯線體 衬线体 [chen4 xian4 ti3] /serif (typeface)/
+襯線字體 衬线字体 [chen4 xian4_zi4 ti3] /serif (typeface)/
+等寬 等宽 [deng3 kuan1] /monospaced (typeface)/
+默認字體 默认字体 [mo4 ren4_zi4 ti3] /default font/font, default/
+軟件許可條款 软件许可条款 [ruan3 jian4_xu3 ke3_tiao2 kuan3] /software license terms/license terms, software/
+微米黑 微米黑 [Wei1 mi3_Hei1] /Micro Hei (font, WQY's old Droid Sans fork)/
+文鼎 文鼎 [Wen2 ding3] /Arphic (font+foundry)/
+文泉驛 文泉驿 [Wen2 quan2 yi4] /WenQuanYi (fonts)/
+無襯線體 无衬线体 [wu2 chen4 xian4 ti3] /sans-serif (typeface)/
+中易 中易 [Zhong1 yi4] /Zhongyi (company)/

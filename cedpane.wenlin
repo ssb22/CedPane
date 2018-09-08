@@ -102767,3 +102767,58 @@ pinyin Yèmǐ'ěr
 characters 叶米尔[葉-爾]
 serial-number CedPane20701
 definition Emil
+*** 
+pinyin bèifèn fùběn
+characters 备份副本[備---]
+serial-number CedPane20702
+definition backup copy
+*** 
+pinyin chènxiàntǐ
+characters 衬线体[襯線體]
+serial-number CedPane20703
+definition serif (typeface)
+*** 
+pinyin chènxiàn zìtǐ
+characters 衬线字体[襯線-體]
+serial-number CedPane20704
+definition serif (typeface)
+*** 
+pinyin děngkuān
+characters 等宽[-寬]
+serial-number CedPane20705
+definition monospaced (typeface)
+*** 
+pinyin mòrèn zìtǐ
+characters 默认字体[-認-體]
+serial-number CedPane20706
+definition default font
+*** 
+pinyin ruǎnjiàn xǔkě tiáokuǎn
+characters 软件许可条款[軟-許-條-]
+serial-number CedPane20707
+definition software license terms
+*** 
+pinyin Wēimǐ Hēi
+characters 微米黑
+serial-number CedPane20708
+definition Micro Hei (font, WQY's old Droid Sans fork)
+*** 
+pinyin Wéndǐng
+characters 文鼎
+serial-number CedPane20709
+definition Arphic (font+foundry)
+*** 
+pinyin Wénquányì
+characters 文泉驿[--驛]
+serial-number CedPane20710
+definition WenQuanYi (fonts)
+*** 
+pinyin wúchènxiàntǐ
+characters 无衬线体[無襯線體]
+serial-number CedPane20711
+definition sans-serif (typeface)
+*** 
+pinyin Zhōngyì
+characters 中易
+serial-number CedPane20712
+definition Zhongyi (company)
