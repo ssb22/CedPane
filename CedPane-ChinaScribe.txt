@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-09-12
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-09-14
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -20560,3 +20560,9 @@
 馬里耶 马里耶 [Ma3 li3 ye1] /Marie/
 許配給 许配给 [xu3 pei4_gei3] /promised in marriage to/marriage to, promised in/
 尤利塞斯 尤利塞斯 [You2 li4 sai4 si1] /Ulysses/
+表情包 表情包 [biao3 qing2 bao1] /emoji set/
+表情圖標 表情图标 [biao3 qing2_tu2 biao1] /emoji/
+絵文字 絵文字 [hui4 wen2 zi4] /emoji (Japanese version)/
+視覺情感符號 视觉情感符号 [shi4 jue2_qing2 gan3_fu2 hao4] /emoji/
+無線通信 无线通信 [wu2 xian4_tong1 xin4] /wireless communication/communication, wireless/
+小黃臉 小黄脸 [xiao3 huang2 lian3] /small yellow faces (emoji set)/yellow faces, small (emoji set)/
