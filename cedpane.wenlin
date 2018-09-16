@@ -94371,10 +94371,10 @@ characters 长垣县[長-縣]
 serial-number CedPane19016
 definition Changyuan (county, in Henan)
 *** 
-pinyin Chánpǔ Xiàn
+pinyin Zhāngpǔ Xiàn
 characters 漳浦县[--縣]
 serial-number CedPane19017
-definition Chanpu (county, in Fujian)
+definition Zhangpu (county, in Fujian)
 *** 
 pinyin Cháo'ān Qū
 characters 潮安区[--區]
@@ -96426,10 +96426,10 @@ characters 临安市[臨--]
 serial-number CedPane19427
 definition Lin'an (city, in Zhejiang)
 *** 
-pinyin Línchán Xiàn
+pinyin Línzhāng Xiàn
 characters 临漳县[臨-縣]
 serial-number CedPane19428
-definition Linchan (county, in Hebei)
+definition Linzhang (county, in Hebei)
 *** 
 pinyin Línchéng Xiàn
 characters 临城县[臨-縣]
@@ -97126,10 +97126,10 @@ characters 南澳县[--縣]
 serial-number CedPane19567
 definition Nan'ao (county, in Guangdong)
 *** 
-pinyin Nánchán Xiàn
+pinyin Nánzhāng Xiàn
 characters 南漳县[--縣]
 serial-number CedPane19568
-definition Nanchan (county, in Hubei)
+definition Nanzhang (county, in Hubei)
 *** 
 pinyin Nánchéng Xiàn
 characters 南城县[--縣]
@@ -102877,3 +102877,58 @@ pinyin xiǎohuángliǎn
 characters 小黄脸[-黃臉]
 serial-number CedPane20725
 definition small yellow faces (emoji set)
+*** 
+pinyin gèrén guāndiǎn
+characters 个人观点[個-觀點]
+serial-number CedPane20726
+definition personal view
+*** 
+pinyin Línzhāng
+characters 临漳[臨-]
+serial-number CedPane20727
+definition Linzhang (county, in Hebei)
+*** 
+pinyin mǎtǎtè
+characters 马塔特[馬--]
+serial-number CedPane20728
+definition matatu (Kenya-style bus)
+*** 
+pinyin Nánzhāng
+characters 南漳
+serial-number CedPane20729
+definition Nanzhang (county, in Hubei)
+*** 
+pinyin nùzàn
+characters 怒赞[-贊]
+serial-number CedPane20730
+definition recommend forcefully
+*** 
+pinyin suǒ gěi de
+characters 所给的[-給-]
+serial-number CedPane20731
+definition given
+*** 
+pinyin Wèi Hé
+characters 卫河[衛-]
+serial-number CedPane20732
+definition Wei River
+*** 
+pinyin wèiwèn kǎpiàn
+characters 慰问卡片[-問--]
+serial-number CedPane20733
+definition sympathy card
+*** 
+pinyin Zhāng Hé
+characters 漳河
+serial-number CedPane20734
+definition Zhang River
+*** 
+pinyin Zhāngpǔ
+characters 漳浦
+serial-number CedPane20735
+definition Zhangpu (county, in Fujian)
+*** 
+pinyin Zhìshàn Kēxué Zhōngxīn
+characters 至善科学中心[---學--]
+serial-number CedPane20736
+definition The Greater Good Science Center

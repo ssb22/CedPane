@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-09-14
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-09-16
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -18867,7 +18867,7 @@
 長興縣 长兴县 [Chang2 xing4_Xian4] /Changxing (county, in Zhejiang)/
 長陽縣 长阳县 [Chang2 yang2_Xian4] /Changyang (county, in Hubei)/
 長垣縣 长垣县 [Chang2 yuan2_Xian4] /Changyuan (county, in Henan)/
-漳浦縣 漳浦县 [Chan2 pu3_Xian4] /Chanpu (county, in Fujian)/
+漳浦縣 漳浦县 [Zhang1 pu3_Xian4] /Zhangpu (county, in Fujian)/
 潮安區 潮安区 [Chao2 an1_Qu1] /Chao'an (district, in Guangdong)/
 陳巴爾虎旗 陈巴尔虎旗 [Chen2 ba1 er3 hu3_Qi2] /Old Barag (banner, in Inner Mongolia)/Barag, Old (banner, in Inner Mongolia)/
 陳倉區 陈仓区 [Chen2 cang1_Qu1] /Chencang (district, in Shaanxi)/
@@ -19278,7 +19278,7 @@
 黎城縣 黎城县 [Li2 cheng2_Xian4] /Licheng (county, in Shanxi)/
 黎川縣 黎川县 [Li2 chuan1_Xian4] /Lichuan (county, in Jiangxi)/
 臨安市 临安市 [Lin2 an1_Shi4] /Lin'an (city, in Zhejiang)/
-臨漳縣 临漳县 [Lin2 chan2_Xian4] /Linchan (county, in Hebei)/
+臨漳縣 临漳县 [Lin2 zhang1_Xian4] /Linzhang (county, in Hebei)/
 臨城縣 临城县 [Lin2 cheng2_Xian4] /Lincheng (county, in Hebei)/
 林甸縣 林甸县 [Lin2 dian4_Xian4] /Lindian (county, in Heilongjiang)/
 靈璧縣 灵璧县 [Ling2 bi4_Xian4] /Lingbi (county, in Anhui)/
@@ -19418,7 +19418,7 @@
 木里縣 木里县 [Mu4 li3_Xian4] /Muli (county, in Sichuan)/
 奈曼旗 奈曼旗 [Nai4 man4_Qi2] /Naiman (banner, in Inner Mongolia)/
 南澳縣 南澳县 [Nan2 ao4_Xian4] /Nan'ao (county, in Guangdong)/
-南漳縣 南漳县 [Nan2 chan2_Xian4] /Nanchan (county, in Hubei)/
+南漳縣 南漳县 [Nan2 zhang1_Xian4] /Nanzhang (county, in Hubei)/
 南城縣 南城县 [Nan2 cheng2_Xian4] /Nancheng (county, in Jiangxi)/
 南川區 南川区 [Nan2 chuan1_Qu1] /Nanchuan (district, in Chongqing)/
 南丹縣 南丹县 [Nan2 dan1_Xian4] /Nandan (county, in Guangxi)/
@@ -20566,3 +20566,14 @@
 視覺情感符號 视觉情感符号 [shi4 jue2_qing2 gan3_fu2 hao4] /emoji/
 無線通信 无线通信 [wu2 xian4_tong1 xin4] /wireless communication/communication, wireless/
 小黃臉 小黄脸 [xiao3 huang2 lian3] /small yellow faces (emoji set)/yellow faces, small (emoji set)/
+個人觀點 个人观点 [ge4 ren2_guan1 dian3] /personal view/view, personal/
+臨漳 临漳 [Lin2 zhang1] /Linzhang (county, in Hebei)/
+馬塔特 马塔特 [ma3 ta3 te4] /matatu (Kenya-style bus)/
+南漳 南漳 [Nan2 zhang1] /Nanzhang (county, in Hubei)/
+怒贊 怒赞 [nu4 zan4] /recommend forcefully/forcefully, recommend/
+所給的 所给的 [suo3_gei3_de5] /given/
+衛河 卫河 [Wei4_He2] /Wei River/River, Wei/
+慰問卡片 慰问卡片 [wei4 wen4_ka3 pian4] /sympathy card/card, sympathy/
+漳河 漳河 [Zhang1_He2] /Zhang River/River, Zhang/
+漳浦 漳浦 [Zhang1 pu3] /Zhangpu (county, in Fujian)/
+至善科學中心 至善科学中心 [Zhi4 shan4_Ke1 xue2_Zhong1 xin1] /The Greater Good Science Center/Greater Good Science Center, The/
