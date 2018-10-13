@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-10-12
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-10-13
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -20717,3 +20717,9 @@
 愛樂音樂廳 爱乐音乐厅 [ai4 yue4_yin1 yue4 ting1] /philharmonie/
 炫富 炫富 [xuan4 fu4] /show off riches/riches, show off/
 千人計划 千人计划 [Qian1_Ren2_Ji4 hua4] /Thousand Talents Plan (2008- for immigrant professors)/Talents Plan, Thousand (2008- for immigrant professors)/
+純文本 纯文本 [chun2 wen2 ben3] /plain text/text, plain/
+純文本文檔 纯文本文档 [chun2 wen2 ben3_wen2 dang4] /plain text document/text document, plain/
+純文本文件 纯文本文件 [chun2 wen2 ben3_wen2 jian4] /plain text file/text file, plain/
+純文本格式 纯文本格式 [chun2 wen2 ben3_ge2 shi4] /plain text format/text format, plain/
+導出為純文本 导出为纯文本 [dao3 chu1_wei2_chun2 wen2 ben3] /export as plain text/plain text, export as/
+字節順序標記 字节顺序标记 [zi4 jie2_shun4 xu4_biao1 ji4] /Byte Order Mark/BOM/Order Mark, Byte/

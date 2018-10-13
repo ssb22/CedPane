@@ -103640,3 +103640,33 @@ pinyin Qiān Rén Jìhuà
 characters 千人计划[--計-]
 serial-number CedPane20879
 definition Thousand Talents Plan (2008- for immigrant professors)
+*** 
+pinyin chúnwénběn
+characters 纯文本[純--]
+serial-number CedPane20880
+definition plain text
+*** 
+pinyin chúnwénběn wéndàng
+characters 纯文本文档[純---檔]
+serial-number CedPane20881
+definition plain text document
+*** 
+pinyin chúnwénběn wénjiàn
+characters 纯文本文件[純----]
+serial-number CedPane20882
+definition plain text file
+*** 
+pinyin chúnwénběn géshì
+characters 纯文本格式[純----]
+serial-number CedPane20883
+definition plain text format
+*** 
+pinyin dǎochū wéi chúnwénběn
+characters 导出为纯文本[導-為純--]
+serial-number CedPane20884
+definition export as plain text
+*** 
+pinyin zìjié shùnxù biāojì
+characters 字节顺序标记[-節順-標記]
+serial-number CedPane20885
+definition Byte Order Mark; BOM
