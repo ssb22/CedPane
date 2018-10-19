@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-10-18
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-10-19
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -7183,7 +7183,7 @@
 抹利 抹利 [Mo3 li4] /Mahli/
 莫莉 莫莉 [Mo4 li4] /Molly/
 磨煉 磨炼 [mo2 lian4] /test (as in trials etc)/
-默里湖 默里湖 [Mo4 li3 hu2] /Lake Murray/Murray, Lake/
+默里湖 默里湖 [Mo4 li3_Hu2] /Lake Murray/Murray, Lake/
 莫里森 莫里森 [Mo4 li3 sen1] /Morrison (A.C.)/
 莫里森著 莫里森著 [Mo4 li3 sen1_zhu4] /written by Morrison/Morrison, written by/
 莫里斯 莫里斯 [Mo4 li3 si1] /Maurice/
@@ -16883,7 +16883,7 @@
 托克馬克 托克马克 [Tuo1 ke4 ma3 ke4] /Tokmok/
 許溫凱 许温凯 [Xu3 wen1 kai3] /Hyvinkää/
 亞珀爾蒙德 亚珀尔蒙德 [Ya4 po4 er3 meng2 de2] /Rupelmonde/
-伊塞克湖 伊塞克湖 [Yi1 sai1 ke4 hu2] /Lake Issyk Kul/Issyk Kul, Lake/
+伊塞克湖 伊塞克湖 [Yi1 sai1 ke4_Hu2] /Lake Issyk Kul/Issyk Kul, Lake/
 魔戒 魔戒 [Mo2_Jie4] /The Lord of the Rings (novel)/Lord of the Rings, The (novel)/
 射雕英雄傳 射雕英雄传 [She4 diao1_Ying1 xiong2_Zhuan4] /A Hero Born (novel in Condor trilogy)/Hero Born, A (novel in Condor trilogy)/
 阿伯特 阿伯特 [A1 bo2 te4] /Aboth (in Mishnah)/
@@ -20754,3 +20754,33 @@
 益力多 益力多 [Yi4 li4 duo1] /Yakult/
 卓寧霍姆 卓宁霍姆 [Zhuo2 ning2 huo4 mu3] /Drottningholm/
 卓寧霍姆宮 卓宁霍姆宫 [Zhuo2 ning2 huo4 mu3 gong1] /Drottningholm Palace/Palace, Drottningholm/
+勃蘭登堡門 勃兰登堡门 [Bo2 lan2 deng1 bao3 men2] /Brandenberg Gate/Gate, Brandenberg/
+勃蘭登堡協奏曲 勃兰登堡协奏曲 [Bo2 lan2 deng1 bao3_xie2 zou4 qu3] /Brandenberg concerto(s)/concerto(s), Brandenberg/
+腸躁症 肠躁症 [chang2 zao4 zheng4] /irritable bowel syndrome/bowel syndrome, irritable/
+超文本傳輸協議 超文本传输协议 [chao1 wen2 ben3_chuan2 shu1_xie2 yi4] /hypertext transfer protocol/HTTP/transfer protocol, hypertext/
+吹捧為 吹捧为 [chui1 peng3_wei2] /described flatteringly as/flatteringly as, described/
+蒂爾加滕 蒂尔加滕 [Di4 er3 jia1 teng2] /Tiergarten/
+范德梅韋 范德梅韦 [Fan4 de2 mei2 wei2] /Van der Merwe/Merwe, Van der/
+海關部門 海关部门 [Hai3 guan1_Bu4 men2] /Customs Department/Department, Customs/
+后頸疼痛 后颈疼痛 [hou4 jing3_teng2 tong4] /neck-ache (at rear)/muscle spasms of the neck/
+階級之分 阶级之分 [jie1 ji2_zhi1_fen1] /class distinctions/distinctions, class/
+肌肉緊張 肌肉紧张 [ji1 rou4_jin3 zhang1] /muscle tension/tension, muscle/
+橘園宮 橘园宫 [Ju2 yuan2 gong1] /Orangerieschloss/Orangery Palace/
+臉先著地 脸先着地 [lian3 xian1 zhuo2 di4] /humiliating/
+慢性壓力 慢性压力 [man4 xing4_ya1 li4] /chronic stress/stress, chronic/
+免疫系統疾病 免疫系统疾病 [mian3 yi4_xi4 tong3_ji2 bing4] /autoimmune diseases/diseases, autoimmune/
+皮質醇 皮质醇 [pi2 zhi4 chun2] /cortisol/
+鉗出 钳出 [qian2 chu1] /pull out with tongs etc (e.g. in surgery)/tongs etc, pull out with (e.g. in surgery)/
+喬遷宴 乔迁宴 [qiao2 qian1 yan4] /housewarming meal/meal, housewarming/
+食道痙攣 食道痉挛 [shi2 dao4_jing4 luan2] /esophageal spasms/spasms, esophageal/
+試想想 试想想 [shi4_xiang3 xiang5] /imagine/
+午餐時間音樂會 午餐时间音乐会 [wu3 can1_shi2 jian1_yin1 yue4 hui4] /lunchtime concert/concert, lunchtime/
+行為舉止 行为举止 [xing2 wei2_ju3 zhi3] /manners (of a person)/
+印好 印好 [yin4_hao3] /printed/completed a print run/
+游客中心 游客中心 [you2 ke4_zhong1 xin1] /visitor centre (at tourist site)/centre, visitor (at tourist site)/
+躁性 躁性 [zao4 xing4] /irritable (physiologically)/
+躁性大腸症候群 躁性大肠症候群 [zao4 xing4_da4 chang2_zheng4 hou4 qun2] /irritable bowel syndrome (alternate translation)/bowel syndrome, irritable (alternate translation)/
+正好及時 正好及时 [zheng4 hao3_ji2 shi2] /just in time (did something)/time, just in (did something)/
+中式英文 中式英文 [Zhong1 shi4_Ying1 wen2] /Chinglish (Chinese-style English)/
+中式英語 中式英语 [Zhong1 shi4_Ying1 yu3] /Chinglish (Chinese-style English)/
+專注力 专注力 [zhuan1 zhu4 li4] /power of concentration/concentration, power of/
