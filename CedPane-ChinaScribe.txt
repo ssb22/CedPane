@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-10-19
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-10-21
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -11743,7 +11743,7 @@
 以列 以列 [Yi3 lie4] /Elead/
 以利法 以利法 [Yi3 li4 fa3] /Eliphaz/
 以利法列 以利法列 [Yi3 li4 fa3 lie4] /Eliphelet/
-伊利湖 伊利湖 [Yi1 li4 hu2] /Lake Erie/Erie, Lake/
+伊利湖 伊利湖 [Yi1 li4_Hu2] /Lake Erie/Erie, Lake/
 以利戶 以利户 [Yi3 li4 hu4] /Elihu/
 以利家 以利家 [Yi3 li4 jia1] /house of Eli/
 以利加 以利加 [Yi3 li4 jia1] /Elika/
@@ -20784,3 +20784,9 @@
 中式英文 中式英文 [Zhong1 shi4_Ying1 wen2] /Chinglish (Chinese-style English)/
 中式英語 中式英语 [Zhong1 shi4_Ying1 yu3] /Chinglish (Chinese-style English)/
 專注力 专注力 [zhuan1 zhu4 li4] /power of concentration/concentration, power of/
+陳秋霖 陈秋霖 [Chen2_Qiu1 lin2] /Chui-Lin Chen (composer 1911-92)/Chen, Chui-Lin (composer 1911-92)/
+杜鳴心 杜鸣心 [Du4_Ming2 xin1] /Ming-Xin Du (composer)/
+旅游景點 旅游景点 [lu:3 you2_jing3 dian3] /tourist attraction/attraction, tourist/
+滿山春色 满山春色 [Man3_Shan1_Chun1 se4] /Springtime Hills (by Chui-Lin Chen)/Hills, Springtime (by Chui-Lin Chen)/
+威廉一世 威廉一世 [Wei1 lian2_Yi1_Shi4] /William the Conqueror/Conqueror, William the/
+溫莎堡 温莎堡 [Wen1 sha1 bao3] /Windsor Castle/Castle, Windsor/
