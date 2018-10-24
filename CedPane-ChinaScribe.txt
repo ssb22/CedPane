@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-10-23
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-10-24
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -14107,7 +14107,7 @@
 四川話 四川话 [Si4 chuan1 hua4] /Sichuanese/
 烏德穆爾特語 乌德穆尔特语 [Wu1 de2 mu4 er3 te4 yu3] /Udmurt (language)/
 烏爾霍博語 乌尔霍博语 [Wu1 er3 huo4 bo2 yu3] /Urhobo (language)/
-烏克蘭語 乌克兰语 [Wu1 ke4 lan2 yu3] /Ukranian (language)/
+烏克蘭語 乌克兰语 [Wu1 ke4 lan2 yu3] /Ukrainian (language)/
 烏茲別克語 乌兹别克语 [Wu1 zi1 bie2 ke4 yu3] /Uzbek (language)/
 亞述語 亚述语 [Ya4 shu4 yu3] /Assyrian (language)/
 伊努伊特語 伊努伊特语 [Yi1 nu3 yi1 te4 yu3] /Inuktitut (language)/
@@ -20798,3 +20798,13 @@
 精神治療師 精神治疗师 [jing1 shen2_zhi4 liao2 shi1] /psychotherapist/
 利卡塔 利卡塔 [Li4 ka3 ta3] /Licata/
 洗馬池 洗马池 [xi3 ma3 chi2] /horsepond/
+德國手語 德国手语 [De2 guo2_shou3 yu3] /German Sign Language/Sign Language, German/
+第二天 第二天 [di4_er4_tian1] /on the following day/following day, on the/
+獨立程序 独立程序 [du2 li4_cheng2 xu4] /stand-alone program/program, stand-alone/
+赴京 赴京 [fu4_Jing1] /visit Beijing/Beijing, visit/
+加格達奇 加格达奇 [Jia1 ge2 da2 qi2] /Jiagedaqi (in Heilongjiang)/
+密碼不匹配 密码不匹配 [mi4 ma3_bu4_pi3 pei4] /passwords do not match/match, passwords do not/
+平托夫斯基 平托夫斯基 [Ping2 tuo1 fu1 si1 ji1] /Pietowski/
+輸入字段 输入字段 [shu1 ru4_zi4 duan4] /input field/field, input/
+值班時間 值班时间 [zhi2 ban1_shi2 jian1] /shift/duty time/
+裝入箱內 装入箱内 [zhuang1_ru4_xiang1_nei4] /pack into boxes/boxes, pack into/

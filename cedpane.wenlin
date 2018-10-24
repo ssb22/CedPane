@@ -70556,7 +70556,7 @@ definition Urhobo (language)
 pinyin Wūkèlányǔ
 characters 乌克兰语[烏-蘭語]
 serial-number CedPane14140
-definition Ukranian (language)
+definition Ukrainian (language)
 *** 
 pinyin Wūzībiékèyǔ
 characters 乌兹别克语[烏茲別-語]
@@ -104045,3 +104045,55 @@ pinyin xǐmǎchí
 characters 洗马池[-馬-]
 serial-number CedPane20961
 definition horsepond
+*** 
+pinyin Déguó shǒuyǔ
+characters 德国手语[-國-語]
+serial-number CedPane20962
+definition German Sign Language
+*** 
+pinyin dì èr tiān
+characters 第二天
+serial-number CedPane20963
+definition on the following day
+*** 
+pinyin dúlì chéngxù
+characters 独立程序[獨---]
+serial-number CedPane20964
+environment   comp.
+definition stand-alone program
+*** 
+pinyin fù Jīng
+characters 赴京
+serial-number CedPane20965
+definition visit Beijing
+*** 
+pinyin Jiāgédáqí
+characters 加格达奇[--達-]
+serial-number CedPane20966
+definition Jiagedaqi (in Heilongjiang)
+*** 
+pinyin mìmǎ bù pǐpèi
+characters 密码不匹配[-碼---]
+serial-number CedPane20967
+definition passwords do not match
+*** 
+pinyin Píngtuōfūsījī
+characters 平托夫斯基
+serial-number CedPane20968
+definition Pietowski
+*** 
+pinyin shūrù zìduàn
+characters 输入字段[輸---]
+serial-number CedPane20969
+environment   comp.
+definition input field
+*** 
+pinyin zhíbān shíjiān
+characters 值班时间[--時間]
+serial-number CedPane20970
+definition shift; duty time
+*** 
+pinyin zhuāng rù xiāng nèi
+characters 装入箱内[裝--內]
+serial-number CedPane20971
+definition pack into boxes
