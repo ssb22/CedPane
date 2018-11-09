@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-11-04
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-11-09
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -406,6 +406,7 @@
 阿瓦提縣 阿瓦提县 [A1 wa3 ti2_Xian4] /Awat (county, in Xinjiang)/
 阿韋 阿韦 [A1 wei2] /Way (name)/
 阿維爾 阿维尔 [A1 wei2 er3] /Awil/
+阿韋爾格 阿韦尔格 [A1 wei2 er3 ge2] /Aberg/
 阿韋利諾 阿韦利诺 [A1 wei2 li4 nuo4] /Avelino/
 阿維斯塔 阿维斯塔 [A1 wei2 si1 ta3] /Avesta/
 阿西莫夫 阿西莫夫 [A1 xi1 mo4 fu1] /Asimov/
@@ -6165,6 +6166,7 @@
 可汗怒吼 可汗怒吼 [Ke4 han2_Nu4 hou3] /Wrath of Khan (1982 film)/Khan, Wrath of (1982 film)/
 客話 客话 [Ke4 hua4] /Hakka/
 客家語 客家语 [Ke4 jia1 yu3] /Hakka/
+克拉碼頭 克拉码头 [Ke4 la1_ma3 tou5] /Clarke Quay (in Singapore)/Quay, Clarke (in Singapore)/
 克拉德諾 克拉德诺 [Ke4 la1 de2 nuo4] /Kladno/
 克拉夫 克拉夫 [Ke4 la1 fu1] /Clough/
 克拉夫丘克 克拉夫丘克 [Ke4 la1 fu1 qiu1 ke4] /Cravciuc/
@@ -15717,6 +15719,7 @@
 東端 东端 [dong1 duan1] /eastern extremity/extremity, eastern/
 東方三博士 东方三博士 [dong1 fang1_san1_bo2 shi4] /magi/
 冬宮 冬宫 [dong1 gong1] /winter house (palace)/house, winter (palace)/
+東拐西拐 东拐西拐 [dong1 guai3 xi1 guai3] /winding route/route, winding/
 冬寒 冬寒 [dong1 han2] /winter cold/cold, winter/
 冬季抑郁 冬季抑郁 [dong1 ji4_yi4 yu4] /winter depression/depression, winter/
 東界 东界 [dong1 jie4] /eastern boundary/boundary, eastern/
@@ -15725,6 +15728,7 @@
 東門樓 东门楼 [dong1 men2 lou2] /east gate/gate toward the east/gate, east/toward the east, gate/
 鶇鳥 鸫鸟 [dong1 niao3] /thrush/
 冬天的故事 冬天的故事 [dong1 tian1_de5_gu4 shi5] /The Winter's Tale (Shakespeare play)/Winter's Tale, The (Shakespeare play)/
+東轉西轉 东转西转 [dong1 zhuan3 xi1 zhuan3] /winding route/route, winding/
 懂事崩 懂事崩 [dong3 shi4_beng1] /distraught but keeping professional appearance/keeping professional appearance, distraught but/
 動畫家 动画家 [dong4 hua4 jia1] /animator (job title?)/
 動畫組 动画组 [dong4 hua4 zu3] /animation team/team, animation/
@@ -16196,6 +16200,7 @@
 公開宣讀 公开宣读 [gong1 kai1_xuan1 du2] /public reading/reading, public/
 公驢 公驴 [gong1 lu:2] /ass/donkey/
 公綿羊 公绵羊 [gong1 mian2 yang2] /ram (male sheep)/
+公平地看待 公平地看待 [gong1 ping2_de5_kan4 dai4] /view as equal/equal, view as/
 公平感 公平感 [gong1 ping2 gan3] /sense of justice/sense of fairness/justice, sense of/fairness, sense of/
 公然敵視 公然敌视 [gong1 ran2_di2 shi4] /display outright hostility to/outright hostility to, display/
 攻入 攻入 [gong1 ru4] /enter (a city etc in military attack)/
@@ -16547,6 +16552,7 @@
 懷著好意 怀着好意 [huai2 zhe5_hao3 yi4] /with good motive/good motive, with/
 壞糖果 坏糖果 [huai4_tang2 guo3] /tainted candy/candy, tainted/
 壞習慣 坏习惯 [huai4_xi2 guan4] /mannerisms (bad habits)/
+壞笑 坏笑 [huai4 xiao4] /smirk/
 歡歡樂樂 欢欢乐乐 [huan1 huan1 le4 le4] /great rejoicing/rejoicing, great/
 歡喜若狂 欢喜若狂 [huan1 xi3_ruo4 kuang2] /rejoice like crazy (?)/like crazy, rejoice (?)/
 歡喜快樂 欢喜快乐 [huan1 xi3 kuai4 le4] /rejoicing and being happy/being happy, rejoicing and/
@@ -20207,6 +20213,7 @@
 有權柄 有权柄 [you3_quan2 bing3] /have authority/authority, have/
 有什麼 有什么 [you3_shen2 me5] /"has what"/what", "has/
 有什麼樣的 有什么样的 [you3_shen2 me5 yang4_de5] /has what kind of/what kind of, has/
+有事兒 有事儿 [you3_shi4 r5] /has a problem/problem, has a/
 有思想的人 有思想的人 [you3_si1 xiang3_de5_ren2] /thinking people/people, thinking/
 有限度 有限度 [you3_xian4 du4] /having a limit/being relative/limit, having a/relative, being/
 有限度的自由 有限度的自由 [you3_xian4 du4_de5_zi4 you2] /relative freedom/freedom, relative/
@@ -20401,6 +20408,7 @@
 扎因 扎因 [zha1 yin1] /zayin (Hebrew letter)/
 炸薯條 炸薯条 [zha2 shu3 tiao2] /French fries (USA)/chips (UK)/fries chips, French/
 眨眨 眨眨 [zha3 zha5] /blinking/
+摘自文中 摘自文中 [zhai1_zi4_wen2_zhong1] /quoting from the article/article, quoting from the/
 摘到 摘到 [zhai1 dao4] /reach to (a time)/
 摘去 摘去 [zhai1 qu5] /pick up (in harvesting etc)/
 窄船 窄船 [zhai3 chuan2] /narrow boat (on canals etc)/boat, narrow (on canals etc)/
