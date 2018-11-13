@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-11-12
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-11-13
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -13438,6 +13438,7 @@
 葉納基耶沃市 叶纳基耶沃市 [Ye4 na4 ji1 ye1 wo4_Shi4] /Yenakiyeve/
 葉忒羅 叶忒罗 [Ye4 te4 luo2] /Jethro/
 葉娃 叶娃 [Ye4 wa2] /Yeva/
+一戰 一战 [Yi1_Zhan4] /First World War (abbreviation)/World War, First (abbreviation)/
 伊安 伊安 [Yi1 an1] /Egon/
 依安縣 依安县 [Yi1 an1_Xian4] /Yi'an (county, in Heilongjiang)/
 伊恩 伊恩 [Yi1 en1] /Ian/
@@ -15003,6 +15004,7 @@
 菜式 菜式 [cai4 shi4] /dish types (culinary)/types, dish (culinary)/
 餐單 餐单 [can1 dan1] /diet (foods one eats)/
 餐盒 餐盒 [can1 he2] /prepackaged meal/meal, prepackaged/
+參加不了 参加不了 [can1 jia1_bu4 liao3] /unable to attend/attend, unable to/
 參加社交活動 参加社交活动 [can1 jia1_she4 jiao1_huo2 dong4] /socializing (lit. attending social activities)/
 參加政治競選 参加政治竞选 [can1 jia1_zheng4 zhi4_jing4 xuan3] /run for government office/government office, run for/
 餐套 餐套 [can1 tao4] /dinnerware set/dinner set/set, dinnerware/
@@ -15109,6 +15111,7 @@
 超級細菌 超级细菌 [chao1 ji2_xi4 jun1] /superbug/
 抄經士 抄经士 [chao1 jing1 shi4] /scribes/
 超巨星 超巨星 [chao1 ju4 xing1] /supergiant (star)/
+超時工作 超时工作 [chao1 shi2_gong1 zuo4] /work overtime|excessively/overtime|excessively, work/
 超速駕駛 超速驾驶 [chao1 su4_jia4 shi3] /speeding on the highway/highway, speeding on the/
 超文本傳輸協議 超文本传输协议 [chao1 wen2 ben3_chuan2 shu1_xie2 yi4] /hypertext transfer protocol/HTTP/transfer protocol, hypertext/
 超眾 超众 [chao1 zhong4] /surpassing many?/many?, surpassing/
@@ -15793,6 +15796,7 @@
 多層停車場 多层停车场 [duo1_ceng2_ting2 che1 chang3] /multilevel parking garage/multistorey car park/parking garage, multilevel/park, multistorey car/
 多長 多长 [duo1_chang2] /how long (a time etc)/long, how (a time etc)/
 多長時間 多长时间 [duo1_chang2_shi2 jian1] /how long (how much time)/long, how (how much time)/
+多得多 多得多 [duo1_de5_duo1] /far more/more, far/
 多得很 多得很 [duo1_de5_hen3] /is very much (used at end of sentence or clause)/very much, is (used at end of sentence or clause)/
 多費力氣 多费力气 [duo1_fei4_li4 qi5] /exert much effort/much effort, exert/
 多結果實 多结果实 [duo1_jie1_guo3 shi2] /bearing much fruit/fruit-bearing/much fruit, bearing/
@@ -16138,6 +16142,7 @@
 高天 高天 [gao1 tian1] /heavens (high heavens)/
 高鐵 高铁 [gao1 tie3] /high-speed rail/rail, high-speed/
 高鐵票 高铁票 [gao1 tie3_piao4] /high-speed rail ticket/rail ticket, high-speed/
+高校教師 高校教师 [gao1 xiao4_jiao4 shi1] /postsecondary teacher/teacher, postsecondary/
 高薪的工作 高薪的工作 [gao1 xin1_de5_gong1 zuo4] /high-paying job/
 高壓電變壓器 高压电变压器 [gao1 ya1 dian4_bian4 ya1 qi4] /high voltage transformer unit/voltage transformer unit, high/
 高言大智 高言大智 [gao1 yan2 da4 zhi4] /words of wisdom (used in a negative sense?)/wisdom, words of (used in a negative sense?)/
@@ -16325,6 +16330,7 @@
 規劃圖 规划图 [gui1 hua4 tu2] /plan (of building|site|etc)/
 歸回 归回 [gui1 hui2] /return (e.g. to dust)/
 閨密 闺密 [gui1 mi4] /close friend (usually of woman)/friend, close (usually of woman)/
+龜速 龟速 [gui1 su4] /slow as a tortoise/tortoise, slow as a/
 歸信 归信 [gui1 xin4] /convert to Judaism/become a proselyte/Judaism, convert to/proselyte, become a/
 歸信者 归信者 [gui1 xin4 zhe3] /proselyte/
 歸義 归义 [gui1 yi4] /return to righteousness (?)/righteousness, return to (?)/
@@ -16540,6 +16546,7 @@
 華人社區 华人社区 [hua2 ren2_she4 qu1] /Mandarin-speaking community/Chinese community/community, Mandarin-speaking/
 華榻 华榻 [hua2 ta4] /grand lounge (apparently a type of furniture)/lounge, grand (apparently a type of furniture)/
 劃分出來 划分出来 [hua4 fen1_chu5 lai5] /set apart/sanctify/apart, set/
+畫好了 画好了 [hua4 hao3 le5] /drawn up (specs etc)/
 畫家筆下 画家笔下 [hua4 jia1_bi3 xia4] /artist's impression/impression, artist's/
 化身為人 化身为人 [hua4 shen1_wei2_ren2] /assume human form/materialise/human form, assume/
 話說回來 话说回来 [hua4 shuo1 hui2 lai2] /however (usually at start of sentence)/
@@ -16552,6 +16559,7 @@
 懷著好意 怀着好意 [huai2 zhe5_hao3 yi4] /with good motive/good motive, with/
 壞糖果 坏糖果 [huai4_tang2 guo3] /tainted candy/candy, tainted/
 壞習慣 坏习惯 [huai4_xi2 guan4] /mannerisms (bad habits)/
+壞掉 坏掉 [huai4 diao4] /break down/down, break/
 壞笑 坏笑 [huai4 xiao4] /smirk/
 歡歡樂樂 欢欢乐乐 [huan1 huan1 le4 le4] /great rejoicing/rejoicing, great/
 歡喜若狂 欢喜若狂 [huan1 xi3_ruo4 kuang2] /rejoice like crazy (?)/like crazy, rejoice (?)/
@@ -17084,6 +17092,7 @@
 就係 就系 [jiu4 xi4] /namely|is (Cantonese)/
 就業情況 就业情况 [jiu4 ye4_qing2 kuang4] /job market/finding-work situation (in an area etc)/market, job (in an area etc)/situation, finding-work (in an area etc)/
 救援工作 救援工作 [jiu4 yuan2_gong1 zuo4] /relief work/work, relief/
+救援團隊 救援团队 [jiu4 yuan2_tuan2 dui4] /support team/support system (for depression etc)/team, support (for depression etc)/system, support (for depression etc)/
 救援物資 救援物资 [jiu4 yuan2_wu4 zi1] /relief supplies/supplies, relief/
 救災工作 救灾工作 [jiu4 zai1_gong1 zuo4] /disaster relief (work)/relief, disaster (work)/
 就職禮 就职礼 [jiu4 zhi2 li3] /installation ceremony (of a priest in ancient Israel)/ceremony, installation (of a priest in ancient Israel)/
@@ -17582,6 +17591,7 @@
 賣來 卖来 [mai4 lai5] /sold (to come) here/here, sold/
 賣弄學問 卖弄学问 [mai4 nong5_xue2 wen5] /pedantry/pedantic (∼的|地; lit. show-off learning)/
 賣身為奴 卖身为奴 [mai4 shen1_wei2_nu2] /sell oneself into slavery/oneself into slavery, sell/
+蠻感興趣 蛮感兴趣 [man2_gan3_xing4 qu4] /quite interested/interested, quite/
 滿懷期待 满怀期待 [man3 huai2_qi1 dai4] /in expectation/expectation, in/
 滿髓 满髓 [man3 sui3] /filled with marrow/marrow, filled with/
 滿屋 满屋 [man3 wu1] /full room/room, full/
@@ -18664,6 +18674,7 @@
 使用過的針筒 使用过的针筒 [shi3 yong4 guo5_de5_zhen1 tong3] /used syringes (hazardous waste)/syringes, used (hazardous waste)/
 市法院 市法院 [shi4_fa3 yuan4] /City Court/Court, City/
 是話都信 是话都信 [shi4_hua4_dou1_xin4] /believe anything that's said/anything that's said, believe/
+市級 市级 [shi4_ji2] /city-level/
 試想想 试想想 [shi4_xiang3 xiang5] /imagine/
 視之為 视之为 [shi4_zhi1_wei2] /regard it as/
 是指 是指 [shi4_zhi3] /refers to | means | is (as in "this word refers to ...")/means | is, refers to | (as in "this word refers to ...")/
@@ -20477,13 +20488,13 @@
 折傷 折伤 [zhe2 shang1] /fracture (wound)/
 折手 折手 [zhe2 shou3] /fracture of the hand/hand, fracture of the/
 這倒 这倒 [zhe4_dao3] /this really (may indicate surprise or astonishment)/really, this (may indicate surprise or astonishment)/
-這個星期 这个星期 [zhe4_ge5_xing1 qi1] /this week/week, this/
 這幾天 这几天 [zhe4_ji3_tian1] /this time/these few days/time, this/days, these few/
 這件事 这件事 [zhe4_jian4_shi4] /this thing/thing, this/
 這就是為什麼 这就是为什么 [zhe4_jiu4 shi4_wei4 shen2 me5] /this is why/
 這是個考驗 这是个考验 [zhe4_shi4_ge5_kao3 yan4] /this is a test|challenge|trial/test|challenge|trial, this is a/
 這周 这周 [zhe4_zhou1] /this week/week, this/
 這個星期天 这个星期天 [zhe4 ge5_Xing1 qi1 tian1] /this Sunday/Sunday, this/
+這個星期 这个星期 [zhe4 ge5_xing1 qi1] /this week/week, this/
 這麼 这麽 [zhe4 me5] /like that (variant of 这么)/
 這麼些 这麽些 [zhe4 me5_xie1] /so much (variant)/much, so (variant)/
 這樣的人 这样的人 [zhe4 yang4_de5_ren2] /people like that/like that, people/
@@ -20492,6 +20503,7 @@
 這件事 这件事 [zhei4_jian4_shi4] /this thing/thing, this/
 這件事實 这件事实 [zhei4_jian4_shi4 shi2] /this fact/fact, this/
 這篇文章 这篇文章 [zhei4_pian1_wen2 zhang1] /this article/article, this/
+這個星期 这个星期 [zhei4 ge5_xing1 qi1] /this week/week, this/
 真好 真好 [zhen1_hao3] /really good/good, really/
 真可惜 真可惜 [zhen1_ke3 xi1] /it's a pity/sorry|sad/pity, it's a/
 真漂亮 真漂亮 [zhen1_piao4 liang5] /beautiful/cute/nice looking/looking, nice/
