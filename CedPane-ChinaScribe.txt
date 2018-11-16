@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-11-13
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-11-16
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -2869,6 +2869,7 @@
 蒂埃里 蒂埃里 [Di4 ai1 li3] /Thierry/
 蒂爾加滕 蒂尔加滕 [Di4 er3 jia1 teng2] /Tiergarten/
 第歐根尼 第欧根尼 [Di4 ou1 gen1 ni2] /Diogenes/
+第一次世界大戰停戰 第一次世界大战停战 [Di4 yi1_Ci4_Shi4 jie4_Da4 zhan4_ting2 zhan4] /World War I armistice/War I armistice, World/
 第一門 第一门 [Di4 yi1_men2] /First Gate/Gate, First/
 蒂巴城 蒂巴城 [Di4 ba1 cheng2] /Tuba (city)/
 蒂貝留 蒂贝留 [Di4 bei4 liu2] /Tiberiu/
@@ -4006,6 +4007,7 @@
 鞏義市 巩义市 [Gong3 yi4_Shi4] /Gongyi (in Henan)/
 貢巴扎 贡巴扎 [Gong4 ba1 zha1] /Gumbazir/
 貢貝 贡贝 [Gong4 bei4] /Gumbs/
+貢比涅 贡比涅 [Gong4 bi3 nie4] /Compiègne/
 貢德森 贡德森 [Gong4 de2 sen1] /Gundersen/
 共和國報 共和国报 [Gong4 he2 guo2 bao4] /La Repubblica/Repubblica, La/
 共青城 共青城 [Gong4 qing1 cheng2] /Gongqingcheng (in Jiangxi)/
@@ -11059,6 +11061,7 @@
 索馬里語 索马里语 [Suo3 ma3 li3 yu3] /Somali (language)/
 索摩查 索摩查 [Suo3 mo2 cha2] /Somoza/
 索默 索默 [Suo3 mo4] /Saumur/
+索姆河 索姆河 [Suo3 mu3 he2] /River Somme/Somme, River/
 索妮亞 索妮亚 [Suo3 ni1 ya4] /Sonja/
 索尼愛立信 索尼爱立信 [Suo3 ni2 Ai4 li4 xin4] /Sony-Ericsson/
 索尼婭 索尼娅 [Suo3 ni2 ya4] /Sonya/
@@ -15749,6 +15752,7 @@
 讀屏軟件 读屏软件 [du2_ping2_ruan3 jian4] /screen reader/reader, screen/
 讀我檔案 读我档案 [du2_wo3_dang4 an4] /readme file/file, readme/
 讀一讀 读一读 [du2_yi5_du2] /read (informal?)/
+讀博 读博 [du2 bo2] /study for a PhD/
 讀讀 读读 [du2 du2] /read/
 毒販 毒贩 [du2 fan4] /drug dealer/drug pusher/dealer, drug/pusher, drug/
 讀給 读给 [du2 gei3] /read to (lit. read give)/
@@ -16442,6 +16446,7 @@
 喝乾 喝干 [he1 gan1] /drink dry (?)/
 喝夠 喝够 [he1 gou4] /done drinking/drinking, done/
 喝盡 喝尽 [he1 jin4] /drink completely/completely, drink/
+核冬天 核冬天 [he2_dong1 tian1] /nuclear winter/winter, nuclear/
 核廢料 核废料 [he2_fei4 liao4] /nuclear waste/waste, nuclear/
 核掩護所 核掩护所 [he2_yan3 hu4 suo3] /nuclear shelter/shelter, nuclear/
 合而為一 合而为一 [he2 er2 wei2 yi1] /become one (acting in unity etc)/
@@ -16461,6 +16466,7 @@
 合著者 合著者 [he2 zhu4 zhe3] /co-authors/
 盒子魚 盒子鱼 [he2 zi5_yu2] /boxfish/
 核子導彈 核子导弹 [he2 zi3_dao3 dan4] /nuclear missile/missile, nuclear/
+核子冬天 核子冬天 [he2 zi3_dong1 tian1] /nuclear winter/winter, nuclear/
 赫萊 赫莱 [he4 lai2] /hehlel (Hebrew for shining one)/
 賀梅珥 贺梅珥 [he4 mei2 er3] /homer (dry measure, possibly 220 liters)/
 黑白照 黑白照 [hei1 bai2_zhao4] /black-and-white photograph/photograph, black-and-white/
@@ -20572,6 +20578,7 @@
 支銷 支销 [zhi1 xiao1] /expenditure (Cantonese?)/
 支援人員 支援人员 [zhi1 yuan2_ren2 yuan2] /supporting personnel/personnel, supporting/
 知足常樂 知足常乐 [zhi1 zu2_chang2_le4] /contentment is constant pleasure (Chinese saying)/constant pleasure, contentment is (Chinese saying)/
+值么 值么 [zhi2_ma2] /what value/value, what/
 值班時間 值班时间 [zhi2 ban1_shi2 jian1] /shift/duty time/
 直逼 直逼 [zhi2 bi1] /directly close in on?/close in on?, directly/
 執筆者 执笔者 [zhi2 bi3 zhe3] /writer/penman/
@@ -20741,6 +20748,7 @@
 裝瘋 装疯 [zhuang1 feng1] /disguise sanity/pretend to be crazy/sanity, disguise/crazy, pretend to be/
 裝進 装进 [zhuang1 jin4] /load into (one's bags etc)/
 莊敬 庄敬 [zhuang1 jing4] /seriously/with serious respect/serious respect, with/
+妝容 妆容 [zhuang1 rong2] /makeup/cosmetics/
 裝做 装做 [zhuang1 zuo4] /pretend to be/
 裝作若無其事 装作若无其事 [zhuang1 zuo4_ruo4 wu2 qi2 shi4] /keep a stiff upper lip/feign calmness/stiff upper lip, keep a/calmness, feign/
 撞城錘 撞城锤 [zhuang4 cheng2 chui2] /battering ram/
