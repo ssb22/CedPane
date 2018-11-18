@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-11-17
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-11-18
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -748,6 +748,7 @@
 艾于蘭 艾于兰 [Ai4 yu2 lan2] /Aurland/
 艾雲 艾云 [Ai4 yun2] /Ivan/
 艾扎克 艾扎克 [Ai4 zha1 ke4] /Izak/
+愛知 爱知 [Ai4 zhi1] /Aichi (Japan prefecture)/
 安奧尼 安奥尼 [An1 ao4 ni2] /Ionel/
 安巴 安巴 [An1 ba1] /Ambato/
 安貝 安贝 [An1 bei4] /Amber (name)/
@@ -1360,6 +1361,7 @@
 白金漢 白金汉 [Bai2 jin1 han4] /Buckingham/
 白京 白京 [Bai2 jing1] /Barking (place in London)/
 白鯨記 白鲸记 [Bai2 jing1 ji4] /Moby Dick (novel)/Dick, Moby (novel)/
+白賴恩 白赖恩 [Bai2 lai4 en1] /Bryan (older translation)/
 白朗峰 白朗峰 [Bai2 lang3 feng1] /Mont Blanc/Blanc, Mont/
 白里安 白里安 [Bai2 li3 an1] /Briand/
 白令 白令 [Bai2 ling4] /Bering/
@@ -1815,6 +1817,7 @@
 濱州 滨州 [Bin1 zhou1] /Binzhou (in Shandong)/
 濱州市 滨州市 [Bin1 zhou1_Shi4] /Binzhou (in Shandong)/
 冰島語 冰岛语 [Bing1 dao3 yu3] /Icelandic (language)/
+兵庫 兵库 [Bing1 ku4] /Hyogo (Japan prefecture)/
 波阿斯 波阿斯 [Bo1 a1 si1] /Boaz/
 波恩 波恩 [Bo1 en1] /Bonn/
 波恩德 波恩德 [Bo1 en1 de2] /Bernd/
@@ -2412,6 +2415,7 @@
 楚瓦什語 楚瓦什语 [Chu5 wa3 shi2 yu3] /Chuvash (language)/
 楚雄 楚雄 [Chu5 xiong2] /Chuxiong (in Yunnan)/
 楚雄市 楚雄市 [Chu5 xiong2_Shi4] /Chuxiong (in Yunnan)/
+茨城 茨城 [Ci2 cheng2] /Ibaraki (Japan prefecture)/
 慈利縣 慈利县 [Ci2 li4_Xian4] /Cili (county, in Hunan)/
 茨諾里 茨诺里 [Ci2 nuo4 li3] /Tsnori/
 茨瓦納語 茨瓦纳语 [Ci2 wa3 na4 yu3] /Setswana (language)/
@@ -2646,6 +2650,7 @@
 檔案總管 档案总管 [Dang4 an4_Zong3 guan3] /File Manager (in Windows)/Manager, File (in Windows)/
 宕昌縣 宕昌县 [Dang4 chang1_Xian4] /Dangchang (county, in Gansu)/
 碭山縣 砀山县 [Dang4 shan1_Xian4] /Dangshan (county, in Anhui)/
+島根 岛根 [Dao3 gen1] /Shimane (Japan prefecture)/
 道安島 道安岛 [Dao4 an1 dao3] /Dauan (island)/
 道爾 道尔 [Dao4 er3] /Doyle/
 稻城縣 稻城县 [Dao4 cheng2_Xian4] /Daocheng (county, in Sichuan)/
@@ -2680,6 +2685,7 @@
 德博納 德博纳 [De2 bo2 na4] /Desbonnes/
 德布勒森 德布勒森 [De2 bu4 le4 sen1] /Debrecen/
 德昌縣 德昌县 [De2 chang1_Xian4] /Dechang (county, in Sichuan)/
+徳島 徳岛 [De2 dao3] /Tokushima/
 德弗 德弗 [De2 fu2] /Dever (pinyin uncertain)/
 德格縣 德格县 [De2 ge2_Xian4] /Dege (county, in Sichuan)/
 德古拉 德古拉 [De2 gu3 la1] /Dracula/
@@ -3486,6 +3492,7 @@
 扶溝縣 扶沟县 [Fu2 gou1_Xian4] /Fugou (county, in Henan)/
 福海縣 福海县 [Fu2 hai3_Xian4] /Fuhai (county, in Xinjiang)/
 福建話 福建话 [Fu2 jian4 hua4] /Fujian dialect (topolect)/dialect, Fujian (topolect)/
+福井 福井 [Fu2 jing3] /Fukui (Japan prefecture)/
 福克蘭 福克兰 [Fu2 ke4 lan2] /Falkland/
 福克納 福克纳 [Fu2 ke4 na4] /Faulkner/
 福克斯 福克斯 [Fu2 ke4 si1] /Foxe/
@@ -3725,6 +3732,7 @@
 高碑店 高碑店 [Gao1 bei1 dian4] /Gaobeidian (in Hebei)/
 高碑店市 高碑店市 [Gao1 bei1 dian4_Shi4] /Gaobeidian (in Hebei)/
 高淳區 高淳区 [Gao1 chun2_Qu1] /Gaochun (district, in Jiangsu)/
+高島市 高岛市 [Gao1 dao3_Shi4] /Takashima (city)/
 高迪 高迪 [Gao1 di2] /Gaudí/
 高格爾 高格尔 [Gao1 ge2 er3] /Koegel/
 高庚 高庚 [Gao1 geng1] /Gauguin/
@@ -3998,6 +4006,7 @@
 公開聲明 公开声明 [Gong1 kai1_sheng1 ming2] /public declaration/declaration, public/
 公理會教士 公理会教士 [Gong1 li3 hui4_jiao4 shi4] /Congregationalist minister/minister, Congregationalist/
 公民及政治權利國際公約 公民及政治权利国际公约 [Gong1 min2_Ji2_Zheng4 zhi4_Quan2 li4_Guo2 ji4_Gong1 yue1] /International Covenant on Civil and Political Rights/ICCPR/Covenant on Civil and Political Rights, International/
+宮崎 宫崎 [Gong1 qi2] /Miyazaki (Japan prefecture)/
 公認文本 公认文本 [Gong1 ren4_Wen2 ben3] /Textus Receptus/Receptus, Textus/
 公誼會 公谊会 [Gong1 yi4 hui4] /Society of Friends/Friends, Society of/
 公主嶺 公主岭 [Gong1 zhu3 ling3] /Gongzhuling (in Jilin)/
@@ -4497,6 +4506,7 @@
 合肥市 合肥市 [He2 fei2_Shi4] /Hefei (in Anhui)/
 合弗拉 合弗拉 [He2 fu2 la1] /Hophra (old translation?)/
 何弗尼 何弗尼 [He2 fu2 ni2] /Hophni/
+和歌山 和歌山 [He2 ge1 shan1] /Wakayama (Japan prefecture)/
 和合本 和合本 [He2 he2_Ben3] /Chinese Union Version/CUV/Union Version, Chinese/
 河間 河间 [He2 jian1] /Hejian (in Hebei)/
 河間市 河间市 [He2 jian1_Shi4] /Hejian (in Hebei)/
@@ -5581,6 +5591,7 @@
 井陘縣 井陉县 [Jing3 xing2_Xian4] /Jingxing (county, in Hebei)/
 井研縣 井研县 [Jing3 yan2_Xian4] /Jingyan (county, in Sichuan)/
 靖安縣 靖安县 [Jing4 an1_Xian4] /Jing'an (county, in Jiangxi)/
+靜岡 静冈 [Jing4 gang1] /Shizuoka (Japan prefecture)/
 靖江 靖江 [Jing4 jiang1] /Jingjiang (in Jiangsu)/
 靖江市 靖江市 [Jing4 jiang1_Shi4] /Jingjiang (in Jiangsu)/
 靜樂縣 静乐县 [Jing4 le4_Xian4] /Jingle (county, in Shanxi)/
@@ -5597,6 +5608,7 @@
 酒泉 酒泉 [Jiu3 quan2] /Jiuquan (in Gansu)/
 酒泉市 酒泉市 [Jiu3 quan2_Shi4] /Jiuquan (in Gansu)/
 九台市 九台市 [Jiu3 tai2_Shi4] /Jiutai (city, in Jilin)/
+九陽 九阳 [Jiu3 yang2] /Joyoung (appliance maker)/
 久治縣 久治县 [Jiu3 zhi4_Xian4] /Jiuzhi (county, in Qinghai)/
 舊城門 旧城门 [Jiu4 cheng2 men2] /Gate of the Old City/City, Gate of the Old/
 舊約神學辭典 旧约神学辞典 [Jiu4 yue1_Shen2 xue2_Ci2 dian3] /Theological Wordbook of the Old Testament/Wordbook of the Old Testament, Theological/
@@ -6990,6 +7002,7 @@
 利蒙 利蒙 [Li4 meng2] /Limón/
 利篾 利篾 [Li4 mie4] /Remeth/
 利明頓 利明顿 [Li4 ming2 dun4] /Leamington/
+栃木 栃木 [Li4 mu4] /Tochigi (Japan prefecture)/
 利慕伊勒 利慕伊勒 [Li4 mu4 yi1 le4] /Lemuel/
 利穆贊 利穆赞 [Li4 mu4 zan4] /Limousin (place in France)/
 立拿 立拿 [Li4 na2] /Libnah/
@@ -7207,6 +7220,8 @@
 凌海 凌海 [Ling2 hai3] /Linghai (in Liaoning)/
 凌海市 凌海市 [Ling2 hai3_Shi4] /Linghai (in Liaoning)/
 凌河區 凌河区 [Ling2 he2_Qu1] /Linghe (district, in Liaoning)/
+鈴鹿 铃鹿 [Ling2 lu4] /Suzuka (place)/
+鈴鹿市 铃鹿市 [Ling2 lu4_Shi4] /Suzuka (city)/
 靈丘縣 灵丘县 [Ling2 qiu1_Xian4] /Lingqiu (county, in Shanxi)/
 靈石縣 灵石县 [Ling2 shi2_Xian4] /Lingshi (county, in Shanxi)/
 靈壽縣 灵寿县 [Ling2 shou4_Xian4] /Lingshou (county, in Hebei)/
@@ -7253,6 +7268,7 @@
 龍海市 龙海市 [Long2 hai3_Shi4] /Longhai (in Fujian)/
 隆化縣 隆化县 [Long2 hua4_Xian4] /Longhua (county, in Hebei)/
 隆回縣 隆回县 [Long2 hui2_Xian4] /Longhui (county, in Hunan)/
+龍江 龙江 [Long2 jiang1] /Longjiang (county in Heilongjiang)/
 龍江縣 龙江县 [Long2 jiang1_Xian4] /Longjiang (county, in Heilongjiang)/
 龍井 龙井 [Long2 jing3] /Longjing (in Jilin)/
 龍井市 龙井市 [Long2 jing3_Shi4] /Longjing (in Jilin)/
@@ -9094,6 +9110,7 @@
 尼亞斯語 尼亚斯语 [Ni2 ya4 si1 yu3] /Nias (language)/
 尼揚古 尼扬古 [Ni2 yang2 gu3] /Nyangu/
 尼揚圭 尼扬圭 [Ni2 yang2 gui1] /Nyangwe/
+鳥取 鸟取 [Niao3 qu3] /Tottori (Japan prefecture)/
 涅伯辛 涅伯辛 [Nie4 bo2 xin1] /Nebolsin/
 涅涅茨語 涅涅茨语 [Nie4 nie4 ci2 yu3] /Nenets (language)/
 涅溫諾梅斯克 涅温诺梅斯克 [Nie4 wen1 nuo4 mei2 si1 ke4] /Nevinnomyssk/
@@ -9103,6 +9120,7 @@
 寧林 宁林 [Ning2 lin2] /Nimrim/
 寧錄 宁录 [Ning2 lu4] /Nimrod/
 牛劍 牛剑 [Niu2 Jian4] /Oxford and Cambridge/Cambridge, Oxford and/
+牛津大學 牛津大学 [Niu2 jin1_Da4 xue2] /Oxford University/University, Oxford/
 牛津大學出版社 牛津大学出版社 [Niu2 jin1_Da4 xue2_Chu1 ban3 she4] /Oxford University Press/OUP/University Press, Oxford/
 紐埃 纽埃 [Niu3 ai1] /Niue/
 紐埃語 纽埃语 [Niu3 ai1 yu3] /Niuean (language)/
@@ -9622,6 +9640,7 @@
 蘄春縣 蕲春县 [Qi2 chun1_Xian4] /Qichun (county, in Hubei)/
 奇德克 奇德克 [Qi2 de2 ke4] /Chideock/
 祁東縣 祁东县 [Qi2 dong1_Xian4] /Qidong (county, in Hunan)/
+岐阜 岐阜 [Qi2 fu4] /Gifu (Japan prefecture)/
 齊格蒙特 齐格蒙特 [Qi2 ge2 meng2 te4] /Zygmunt/
 齊基利 齐基利 [Qi2 ji1 li4] /Zichri/
 齊卡卡 齐卡卡 [Qi2 ka3 ka3] /Tshikaka/
@@ -9654,6 +9673,7 @@
 齊亞丁 齐亚丁 [Qi2 ya4 ding1] /Ziadin/
 齊亞特 齐亚特 [Qi2 ya4 te4] /Ziatek/
 祁陽縣 祁阳县 [Qi2 yang2_Xian4] /Qiyang (county, in Hunan)/
+埼玉 埼玉 [Qi2 yu4] /Saitama (Japan prefecture)/
 啟東 启东 [Qi3 dong1] /Qidong (in Jiangsu)/
 啟東市 启东市 [Qi3 dong1_Shi4] /Qidong (in Jiangsu)/
 乞拉朋齊 乞拉朋齐 [Qi3 la1 peng2 qi2] /Cherrapunji/
@@ -9767,6 +9787,7 @@
 清河門區 清河门区 [Qing1 he2 men2_Qu1] /Qinghemen (district, in Liaoning)/
 清澗縣 清涧县 [Qing1 jian4_Xian4] /Qingjian (county, in Shaanxi)/
 清邁 清迈 [Qing1 mai4] /Chiang Mai/
+青森 青森 [Qing1 sen1] /Aomori (Japan prefecture)/
 青神縣 青神县 [Qing1 shen2_Xian4] /Qingshen (county, in Sichuan)/
 清水河縣 清水河县 [Qing1 shui3 he2_Xian4] /Qingshuihe (county, in Inner Mongolia)/
 青銅峽 青铜峡 [Qing1 tong2 xia2] /Qingtongxia (in Ningxia)/
@@ -9798,6 +9819,7 @@
 丘克語 丘克语 [Qiu1 ke4 yu3] /Chuukese (language)/
 丘內 丘内 [Qiu1 nei4] /Kunene/
 丘奇 丘奇 [Qiu1 qi2] /Church (surname)/
+秋田 秋田 [Qiu1 tian2] /Akita/
 秋田市 秋田市 [Qiu1 tian2_Shi4] /Akita City (Japan)/City, Akita (Japan)/
 秋田縣 秋田县 [Qiu1 tian2_Xian4] /Akita Prefecture/Prefecture, Akita/
 求憐經 求怜经 [Qiu2_Lian2_Jing1] /Kyrie Eleison (song)/Eleison, Kyrie (song)/
@@ -9823,6 +9845,7 @@
 全州縣 全州县 [Quan2 zhou1_Xian4] /Quanzhou (county, in Guangxi)/
 雀兒喜 雀儿喜 [Que4 er2 xi3] /Chelsea (girl's name)/
 確山縣 确山县 [Que4 shan1_Xian4] /Queshan (county, in Henan)/
+群馬 群马 [Qun2 ma3] /Gunma (Japan prefecture)/
 壤塘縣 壤塘县 [Rang3 tang2_Xian4] /Rangtang (county, in Sichuan)/
 讓凱 让凯 [Rang4 kai3] /Jahnke/
 讓娜 让娜 [Rang4 na4] /Jeanne/
@@ -10429,6 +10452,7 @@
 神雕俠侶 神雕侠侣 [Shen2 diao1_Xia2 lu:3] /The Giant Eagle and Its Companion (novel in Condor trilogy)/Giant Eagle and Its Companion, The (novel in Condor trilogy)/
 神劍 神剑 [Shen2 jian4] /Excalibur/
 神木市 神木市 [Shen2 mu4_Shi4] /Shenmu (in Shaanxi)/
+神奈川 神奈川 [Shen2 nai4 chuan1] /Kanagawa (Japan prefecture)/
 神農架林區 神农架林区 [Shen2 nong2 jia4 lin2_Qu1] /Shennongjialin (district, in Hubei)/
 神聖羅馬帝國 神圣罗马帝国 [Shen2 sheng4_Luo2 ma3_Di4 guo2] /Holy Roman Empire/Roman Empire, Holy/
 沈清 沈清 [Shen3_Qing1] /Shim Cheong (Korean story)/Cheong, Shim (Korean story)/
@@ -10536,6 +10560,7 @@
 施亞雅述 施亚雅述 [Shi1 ya4 ya3 shu4] /Shear-jashub/
 師宗縣 师宗县 [Shi1 zong1_Xian4] /Shizong (county, in Yunnan)/
 石城縣 石城县 [Shi2 cheng2_Xian4] /Shicheng (county, in Jiangxi)/
+石川 石川 [Shi2 chuan1] /Ishikawa (Japan prefecture)/
 什邡 什邡 [Shi2 fang1] /Shifang (in Sichuan)/
 什邡市 什邡市 [Shi2 fang1_Shi4] /Shifang (in Sichuan)/
 石河子 石河子 [Shi2 he2 zi3] /Shihezi (in Xinjiang)/
@@ -10923,6 +10948,7 @@
 蘇埃倫 苏埃伦 [Su1 ai1 lun2] /Suellen/
 蘇埃托尼烏斯 苏埃托尼乌斯 [Su1 ai1 tuo1 ni2 wu1 si1] /Suetonius/
 蘇波特 苏波特 [Su1 bo1 te4] /Supot/
+蘇泊爾 苏泊尔 [Su1 bo2 er3] /Supor (appliance maker)/
 蘇查德 苏查德 [Su1 cha2 de2] /Suchard/
 蘇丹人 苏丹人 [Su1 dan1 ren2] /Sudanese (people)/
 蘇法 苏法 [Su1 fa3] /Suphah/
@@ -11110,6 +11136,7 @@
 塔古姆 塔古姆 [Ta3 gu3 mu3] /Targum/
 塔古斯 塔古斯 [Ta3 gu3 si1] /Tagus/
 塔哈島 塔哈岛 [Ta3 ha1 dao3] /Tahaa (island)/
+塔河 塔河 [Ta3 he2] /Tahe (county in Heilongjiang)/
 塔河縣 塔河县 [Ta3 he2_Xian4] /Tahe County (in Heilongjiang)/County, Tahe (in Heilongjiang)/
 塔吉克 塔吉克 [Ta3 ji2 ke4] /Tajikistan/
 塔吉克斯坦 塔吉克斯坦 [Ta3 ji2 ke4 si1 tan3] /Tajikistan/
@@ -11571,6 +11598,7 @@
 托爾 托尔 [Tuo1 er3] /Thor/
 托爾 托尔 [Tuo1 er3] /Tor (Ben)/
 托爾迪 托尔迪 [Tuo1 er3 di2] /Toldy/
+托爾金 托尔金 [Tuo1 er3 jin1] /Tolkien/
 托爾卡切夫 托尔卡切夫 [Tuo1 er3 ka3 qie4 fu1] /Tolkachev/
 托爾曼 托尔曼 [Tuo1 er3 man4] /Tallman/
 托爾托拉 托尔托拉 [Tuo1 er3 tuo1 la1] /Tortola/
@@ -11690,6 +11718,7 @@
 瓦扎 瓦扎 [Wa3 zha1] /Vasa/
 灣仔 湾仔 [Wan1 zai3] /Wanchai (place in HK)/
 婉娜 婉娜 [Wan3 na4] /Una/
+萬靈學院 万灵学院 [Wan4_Ling2_Xue2 yuan4] /All Souls College (Oxford)/Souls College, All (Oxford)/
 萬王之王 万王之王 [Wan4_Wang2_zhi1_Wang2] /King of kings/kings, King of/
 萬主之主 万主之主 [Wan4_Zhu3_zhi1_Zhu3] /Lord of lords/lords, Lord of/
 萬神之神 万神之神 [Wan4_shen2_zhi1_shen2] /God of gods/gods, God of/
@@ -12608,6 +12637,7 @@
 襄垣縣 襄垣县 [Xiang1 yuan2_Xian4] /Xiangyuan (county, in Shanxi)/
 詳編 详编 [Xiang2 bian1] /Macropædia/
 響水縣 响水县 [Xiang3 shui3_Xian4] /Xiangshui (county, in Jiangsu)/
+饗庭野 飨庭野 [Xiang3 ting2 ye3] /Aibano/
 項城 项城 [Xiang4 cheng2] /Xiangcheng (in Henan)/
 項城市 项城市 [Xiang4 cheng2_Shi4] /Xiangcheng (in Henan)/
 向風群島 向风群岛 [Xiang4 feng1_qun2 dao3] /Windward Islands/Islands, Windward/
@@ -12747,8 +12777,10 @@
 新西伯利亞 新西伯利亚 [Xin1 xi1 bo2 li4 ya4] /Novosibirsk (lit. New Siberia)/
 辛茜婭 辛茜娅 [Xin1 xi1 ya4] /Cynthia/
 辛西婭 辛西娅 [Xin1 xi1 ya4] /Cynthia/
+新潟 新潟 [Xin1 xi4] /Niigata (Japan prefecture)/
 新鄉 新乡 [Xin1 xiang1] /Xinxiang (in Henan)/
 新鄉市 新乡市 [Xin1 xiang1_Shi4] /Xinxiang (in Henan)/
+新旭町 新旭町 [Xin1 xu4 ding1] /Shin'asahi (in Takashima)/
 新亞速斯克 新亚速斯克 [Xin1 ya4 su4 si1 ke4] /Novoazovsk/
 新野縣 新野县 [Xin1 ye3_Xian4] /Xinye (county, in Henan)/
 新沂 新沂 [Xin1 yi2] /Xinyi (in Jiangsu)/
@@ -12799,6 +12831,7 @@
 興業縣 兴业县 [Xing4 ye4_Xian4] /Xingye (county, in Guangxi)/
 興義 兴义 [Xing4 yi4] /Xingyi (in Guizhou)/
 興義市 兴义市 [Xing4 yi4_Shi4] /Xingyi (in Guizhou)/
+熊本 熊本 [Xiong2 ben3] /Kumamoto (Japan prefecture)/
 休伯特 休伯特 [Xiu1 bo2 te4] /Hubert/
 休達 休达 [Xiu1 da2] /Ceuta/
 休梅克 休梅克 [Xiu1 mei2 ke4] /Shoemaker (name)/
@@ -13306,6 +13339,7 @@
 炎陵縣 炎陵县 [Yan2 ling2_Xian4] /Yanling (county, in Hunan)/
 延森 延森 [Yan2 sen1] /Jensen/
 鹽山縣 盐山县 [Yan2 shan1_Xian4] /Yanshan (county, in Hebei)/
+岩手 岩手 [Yan2 shou3] /Iwate (Japan prefecture)/
 延斯 延斯 [Yan2 si1] /Jens/
 鹽亭縣 盐亭县 [Yan2 ting2_Xian4] /Yanting (county, in Sichuan)/
 鹽源縣 盐源县 [Yan2 yuan2_Xian4] /Yanyuan (county, in Sichuan)/
@@ -14359,6 +14393,8 @@
 志丹縣 志丹县 [Zhi4 dan1_Xian4] /Zhidan (county, in Shaanxi)/
 治多縣 治多县 [Zhi4 duo1_Xian4] /Zhiduo (county, in Qinghai)/
 至高者 至高者 [Zhi4 gao1 zhe3] /Most High/High, Most/
+志賀氏毒素 志贺氏毒素 [Zhi4 he4 shi4_du2 su4] /Shiga toxin/toxin, Shiga/
+志賀氏菌病 志贺氏菌病 [Zhi4 he4 shi4 jun1 bing4] /Shigella (dysentery)/
 至善科學中心 至善科学中心 [Zhi4 shan4_Ke1 xue2_Zhong1 xin1] /The Greater Good Science Center/Greater Good Science Center, The/
 智者派 智者派 [Zhi4 zhe3 pai4] /Sophists/
 至尊者 至尊者 [Zhi4 zun1 zhe3] /Supreme One/Majesty/One, Supreme/
@@ -14468,6 +14504,7 @@
 卓資縣 卓资县 [Zhuo2 zi1_Xian4] /Zhuozi (county, in Inner Mongolia)/
 淄博市 淄博市 [Zi1 bo2_Shi4] /Zibo (in Shandong)/
 茲德涅克 兹德涅克 [Zi1 de2 nie4 ke4] /Zdeněk/
+滋賀 滋贺 [Zi1 he4] /Shiga (Japan prefecture)/
 茲卡 兹卡 [Zi1 ka3] /Zika (virus, alternate translation)/
 茲拉馬 兹拉马 [Zi1 la1 ma3] /Drama (place in Greece)/
 資溪縣 资溪县 [Zi1 xi1_Xian4] /Zixi (county, in Jiangxi)/
@@ -14515,6 +14552,7 @@
 遵義市 遵义市 [Zun1 yi4_Shi4] /Zunyi (in Guizhou)/
 佐爾坦 佐尔坦 [Zuo3 er3 tan3] /Zoltán/
 佐敦 佐敦 [Zuo3 dun1] /Jordan (modern name, alternate translation)/
+佐賀 佐贺 [Zuo3 he4] /Saga (Japan prefecture)/
 佐蘭 佐兰 [Zuo3 lan2] /Zoran/
 佐雷爾 佐雷尔 [Zuo3 lei2 er3] /Zorell/
 左權縣 左权县 [Zuo3 quan2_Xian4] /Zuoquan (county, in Shanxi)/
@@ -14615,6 +14653,7 @@
 白疹 白疹 [bai2 zhen3] /white eruption (skin rash)/eruption, white (skin rash)/
 百行孝為先 百行孝为先 [bai3_xing2_xiao4_wei2_xian1] /(Chinese saying) among a hundred virtues filial piety is foremost/hundred virtues filial piety is foremost, among a/
 百毒 百毒 [bai3 du2] /harmful drugs (herbal etc)/drugs, harmful (herbal etc)/
+百分百 百分百 [bai3 fen1 bai3] /a hundred percent (abbreviated)/hundred percent, a (abbreviated)/
 百骨 百骨 [bai3 gu3] /multitude of bones (lit. hundred bones)/bones, multitude of (lit. hundred bones)/
 百利而無一害 百利而无一害 [bai3 li4 er2 wu2 yi1 hai4] /many benefits and no harm/benefits and no harm, many/
 百鳥爭鳴 百鸟争鸣 [bai3 niao3 zheng1 ming2] /all birds contending (?)/birds contending, all (?)/
@@ -15367,6 +15406,7 @@
 促進科學 促进科学 [cu4 jin4_ke1 xue2] /further the interests of science/interests of science, further the/
 催淚氣體 催泪气体 [cui1 lei4 qi4 ti3] /tear gas/
 存到 存到 [cun2 dao4] /left over until/over until, left/
+存款利率 存款利率 [cun2 kuan3_li4 lu:4] /deposit interest rate/savings interest rate/interest rate, deposit/rate, savings interest/
 剉冰 剉冰 [cuo4 bing1] /shaved ice (common alternate name)/
 錯失良機 错失良机 [cuo4 shi1_liang2 ji1] /missed a good opportunity/good opportunity, missed a/
 錯誤資訊 错误资讯 [cuo4 wu4_zi1 xun4] /misinformation/
@@ -15431,6 +15471,7 @@
 大夥 大夥 [da4 huo3] /big group (of people)/group, big (of people)/
 大姬蛛 大姬蛛 [da4 ji1 zhu1] /American house spider/parasteatoda tepidariorum/house spider, American/tepidariorum, parasteatoda/
 大祭 大祭 [da4 ji4] /great sacrifice (of animals etc)/sacrifice, great (of animals etc)/
+大獎 大奖 [da4 jiang3] /grand prize/prize, grand/
 大角 大角 [da4 jiao3] /great horn/horn, great/
 大叫大嚷 大叫大嚷 [da4 jiao4 da4 rang3] /yell/
 大絹蝶 大绢蝶 [da4 juan4 die2] /Apollo butterfly/butterfly, Apollo/
@@ -15645,6 +15686,7 @@
 點選 点选 [dian3 xuan3] /click on (something with mouse etc)/
 點陣式 点阵式 [dian3 zhen4 shi4] /dot-matrix type/type, dot-matrix/
 點陣式打印機 点阵式打印机 [dian3 zhen4 shi4_da3 yin4 ji1] /dot-matrix printer/printer, dot-matrix/
+電壓力鍋 电压力锅 [dian4_ya1 li4 guo1] /electric pressure-cooker/pressure-cooker, electric/
 電傳簧風琴 电传簧风琴 [dian4 chuan2_huang2 feng1 qin2] /telharmonium/
 電磁脈衝 电磁脉冲 [dian4 ci2_mai4 chong1] /electromagnetic pulse/EMP/pulse, electromagnetic/
 電磁波能量吸收比值 电磁波能量吸收比值 [dian4 ci2 bo1_neng2 liang4_xi1 shou1_bi3 zhi2] /specific energy absorption rate/SAR/energy absorption rate, specific/
@@ -15673,6 +15715,7 @@
 電腦控制 电脑控制 [dian4 nao3_kong4 zhi4] /computer-controlled/
 電腦專家 电脑专家 [dian4 nao3_zhuan1 jia1] /computer scientists/scientists, computer/
 電腦科 电脑科 [dian4 nao3 ke1] /computer science (old translation)/science, computer (old translation)/
+電熱水壺 电热水壶 [dian4 re4 shui3 hu2] /electric water boiler (for on-demand hot water)/water boiler, electric (for on-demand hot water)/
 奠上 奠上 [dian4 shang5] /pour out as an offering (to gods etc)/offering, pour out as an (to gods etc)/
 電商 电商 [dian4 shang1] /E-commerce/
 電視布道家 电视布道家 [dian4 shi4_bu4 dao4 jia1] /television evangelists/evangelists, television/
@@ -16003,6 +16046,7 @@
 分隔區 分隔区 [fen1 ge2 qu1] /separated area/area, separated/
 分類歸檔 分类归档 [fen1 lei4_gui1 dang4] /organized (into filing cabinets etc)/
 分身不暇 分身不暇 [fen1 shen1 bu4 xia2] /attending to things with no spare time (?)/things with no spare time, attending to (?)/
+分屯 分屯 [fen1 tun2] /encampment village (?)/village, encampment (?)/
 分享功能 分享功能 [fen1 xiang3_gong1 neng2] /Share feature (on website)/feature, Share (on website)/
 分子聚合體 分子聚合体 [fen1 zi3_ju4 he2 ti3] /molecular machine (lit. polymer??)/machine, molecular (lit. polymer??)/
 分子生物學家 分子生物学家 [fen1 zi3_sheng1 wu4 xue2 jia1] /molecular biologist/biologist, molecular/
@@ -16109,6 +16153,7 @@
 趕作業 赶作业 [gan3_zuo4 ye4] /do homework/homework, do/
 感恩的心 感恩的心 [gan3 en1_de5_xin1] /grateful heart/heart, grateful/
 感恩之心 感恩之心 [gan3 en1_zhi1_xin1] /appreciative spirit/spirit, appreciative/
+感到非常難過 感到非常难过 [gan3 dao4_fei1 chang2_nan2 guo4] /feel much emotional distress/much emotional distress, feel/
 感到灰心 感到灰心 [gan3 dao4_hui1 xin1] /feel discouraged/discouraged, feel/
 感到絕望 感到绝望 [gan3 dao4_jue2 wang4] /lacked all hope of being happy (lit. felt despair|hopeless)/hope of being happy, lacked all (lit. felt despair|hopeless)/
 感到內疚 感到内疚 [gan3 dao4_nei4 jiu4] /feel guilty/feel responsible (for another's misdeed etc)/guilty, feel (for another's misdeed etc)/responsible, feel (for another's misdeed etc)/
@@ -16191,6 +16236,7 @@
 各行其道 各行其道 [ge4 xing2 qi2 dao4] /each going its own way/going its own way, each/
 各種形式 各种形式 [ge4 zhong3_xing2 shi4] /various forms/various aspects (of ministry etc)/forms, various (of ministry etc)/aspects, various (of ministry etc)/
 給力 给力 [gei3_li4] /empowering/cool (net usage)/
+給出 给出 [gei3 chu1] /gives (interest|terms|etc, of business deal)/
 跟上次 跟上次 [gen1_shang4 ci4] /compared to last time/last time, compared to/
 根幹 根干 [gen1 gan4] /rootstock/
 跟從者 跟从者 [gen1 cong2 zhe3] /follower (older term?)/
@@ -16327,6 +16373,7 @@
 光照療法 光照疗法 [guang1 zhao4_liao2 fa3] /bright-light therapy/therapy, bright-light/
 廣傳 广传 [guang3 chuan2] /widely publishing/publishing, widely/
 廣賜 广赐 [guang3 ci4] /widely bestow (official gifts etc)/bestow, widely (official gifts etc)/
+廣大讀者 广大读者 [guang3 da4_du2 zhe3] /readers (the reading public)/
 廣泛的討論 广泛的讨论 [guang3 fan4_de5_tao3 lun4] /extensive discussion (between different parties etc)/discussion, extensive (between different parties etc)/
 廣告語 广告语 [guang3 gao4 yu3] /advertising slogan/slogan, advertising/
 廣告主 广告主 [guang3 gao4 zhu3] /advertiser/
@@ -16959,6 +17006,7 @@
 解困憂 解困忧 [jie3 kun4 you1] /overcome difficulties and problems/difficulties and problems, overcome/
 解剖驗屍 解剖验尸 [jie3 pou1_yan4 shi1] /autopsy/
 解釋不了 解释不了 [jie3 shi4_bu4 liao3] /does not explain/does not apply to (of theory)/explain, does not (of theory)/apply to, does not (of theory)/
+解釋權 解释权 [jie3 shi4 quan2] /right to interpret the rules etc/interpret the rules etc, right to/
 解酸劑 解酸剂 [jie3 suan1 ji4] /antacid (medicine)/
 解鎖 解锁 [jie3 suo3] /unlock (of function in computer game etc)/
 芥菜種 芥菜种 [jie4 cai4 zhong3] /mustard seed (old translation?)/seed, mustard (old translation?)/
@@ -17142,6 +17190,7 @@
 捐贈者 捐赠者 [juan1 zeng4 zhe3] /donor (of aid etc)/
 捲好 卷好 [juan3 hao3] /to roll up (e.g. a scroll, lit. roll good)/roll up, to (e.g. a scroll, lit. roll good)/
 捲起袖子 卷起袖子 [juan3 qi3_xiu4 zi5] /roll up one's sleeves/one's sleeves, roll up/
+卷錢 卷钱 [juan3 qian2] /wad of cash/cash, wad of/
 卷名 卷名 [juan4 ming2] /name of book (in Bible, short version)/book, name of (in Bible, short version)/
 倦透 倦透 [juan4 tou4] /tired through (?)/through, tired (?)/
 絕不該 绝不该 [jue2_bu4_gai1] /definitely shouldn't/would never want to/shouldn't, definitely/never want to, would/
@@ -17834,6 +17883,7 @@
 喃喃細語 喃喃细语 [nan2 nan2 xi4 yu3] /making utterances in low tones (lit. mumbling whisper?)/utterances in low tones, making (lit. mumbling whisper?)/
 男奴 男奴 [nan2 nu2] /slave men/
 男票 男票 [nan2 piao4] /boyfriend/
+男人們 男人们 [nan2 ren2 men5] /men (males)/
 男神 男神 [nan2 shen2] /male deity (of Baal etc)/deity, male (of Baal etc)/
 男胎 男胎 [nan2 tai1] /male foetus/foetus, male/
 難聞氣味 难闻气味 [nan2 wen2_qi4 wei4] /bad smell and taste/smell and taste, bad/
@@ -18014,6 +18064,7 @@
 盆座 盆座 [pen2 zuo4] /basin stand/stand, basin/
 烹飪器具 烹饪器具 [peng1 ren4_qi4 ju4] /cooking utensils/utensils, cooking/
 烹調鍋 烹調鍋 [peng1 tiao2 guo1] /cooking pot/
+烹飲 烹饮 [peng1 yin3] /make into hot drink (of medication etc)/drink, make into hot (of medication etc)/
 篷釘 篷钉 [peng2 ding1] /tent peg/
 棚蔭 棚荫 [peng2 yin4] /shade of a tent|canopy/tent|canopy, shade of a/
 朋友和家人 朋友和家人 [peng2 you5_he2_jia1 ren2] /friends and family/family, friends and/
@@ -18223,6 +18274,7 @@
 求生者 求生者 [qiu2 sheng1 zhe3] /survivalists/
 囚徒困境 囚徒困境 [qiu2 tu2_kun4 jing4] /prisoner's dilemma (game theory)/dilemma, prisoner's (game theory)/
 求問 求问 [qiu2 wen4] /inquire of/
+曲屏 曲屏 [qu1 ping2] /curved screen (of TV)/screen, curved (of TV)/
 驅走 驱走 [qu1 zou3] /drive out/
 取餐 取餐 [qu3 can1] /order collection (in fast-food restaurant)/collection, order (in fast-food restaurant)/
 齲洞 龋洞 [qu3 dong4] /cavity (in a tooth)/
@@ -18273,6 +18325,7 @@
 染製 染制 [ran3 zhi4] /dyed/manufactured with dye/
 讓你們想起 让你们想起 [rang4_ni3 men5_xiang3 qi3] /bring back to your minds/back to your minds, bring/
 讓人人 让人人 [rang4_ren2 ren2] /make|allow all people to (do sthg)/people to, make|allow all (do sthg)/
+饒有趣味 饶有趣味 [rao2_you3_qu4 wei4] /interesting/
 繞著 绕着 [rao4 zhe5] /to go around/around, to go/
 惹動 惹动 [re3 dong4] /provoke (anger etc)/
 惹怒 惹怒 [re3 nu4] /provoke (an oppressive regime etc)/
@@ -18369,6 +18422,7 @@
 入息 入息 [ru4 xi1] /income (Cantonese?)/
 入學儀式 入学仪式 [ru4 xue2_yi2 shi4] /matriculation ceremony/ceremony, matriculation/
 入院單 入院单 [ru4 yuan4 dan1] /hospital admittance forms/admittance forms, hospital/
+入駐 入驻 [ru4 zhu4] /occupy/buy out (company etc)/
 軟實力 软实力 [ruan3_shi2 li4] /soft power/power, soft/
 朊病毒 朊病毒 [ruan3 bing4 du2] /prion/
 軟件公司 软件公司 [ruan3 jian4_gong1 si1] /software companies/companies, software/
@@ -18393,6 +18447,7 @@
 三王來朝 三王来朝 [san1_wang2_lai2 chao2] /Nativity scene (lit. three kings pay tribute)/scene, Nativity (lit. three kings pay tribute)/
 三百人 三百人 [san1 bai3_ren2] /three hundred men/hundred men, three/
 三重天 三重天 [san1 chong2 tian1] /third heaven/heaven, third/
+三等獎 三等奖 [san1 deng3 jiang3] /third prize/prize, third/
 三合一 三合一 [san1 he2 yi1] /triad/three-in-one/
 三明治果醬 三明治果酱 [san1 ming2 zhi4_guo3 jiang4] /sandwich spread/spread, sandwich/
 三千煩惱絲 三千烦恼丝 [san1 qian1_fan2 nao3 si1] /troublesome hair/threads of worry/hair, troublesome/worry, threads of/
@@ -18919,6 +18974,7 @@
 四子 四子 [si4 zi3] /fourth son|child/son|child, fourth/
 松仁玉米 松仁玉米 [song1 ren2_yu4 mi3] /sweetcorn with pine nuts/pine nuts, sweetcorn with/
 鬆脱 松脱 [song1 tuo1] /loosened (of prison bonds)/
+送好禮 送好礼 [song4_hao3_li3] /give a good gift (in commercial promotion etc)/good gift, give a (in commercial promotion etc)/
 送回去 送回去 [song4_hui5 qu5] /to send back/send back, to/
 送禮物 送礼物 [song4_li3 wu4] /give a present/present, give a/
 送友人 送友人 [song4_you3 ren2] /seeing off a friend (poem by 李白)/friend, seeing off a (poem by 李白)/
@@ -19985,6 +20041,7 @@
 養蜂家 养蜂家 [yang3 feng1 jia1] /apiarist/
 養活家人 养活家人 [yang3 huo5_jia1 ren2] /provide for one's family/one's family, provide for/
 仰起 仰起 [yang3 qi5] /lift up (of face)/
+養生壺 养生壶 [yang3 sheng1 hu2] /health pot (device to keep hot drinks ready?)/
 養壯 养壮 [yang3 zhuang4] /strengthen (a sick person etc; lit. raise robust)/
 邀請卡 邀请卡 [yao1 qing3 ka3] /invitation card (for party etc)/card, invitation (for party etc)/
 搖一搖 摇一摇 [yao2_yi5_yao2] /wiggle (as in wiggle branches to make ripe fruits fall off)/
@@ -20039,6 +20096,7 @@
 一代一代 一代一代 [yi1 dai4 yi1 dai4] /generation by generation/
 一黨 一党 [yi1 dang3] /a political party etc/political party etc, a/
 一道道 一道道 [yi1 dao4 dao4] /many paths (e.g. in a meteor shower)/paths, many (e.g. in a meteor shower)/
+一等獎 一等奖 [yi1 deng3 jiang3] /first prize/prize, first/
 一堆堆 一堆堆 [yi1 dui1 dui1] /heaps/
 依法可以 依法可以 [yi1 fa3_ke3 yi3] /legally entitled (to do something)/entitled, legally (to do something)/
 一夫多妻或一妻多夫 一夫多妻或一妻多夫 [yi1 fu1 duo1 qi1_huo4_yi1 qi1 duo1 fu1] /polygyny or polyandry/polygamy/polyandry, polygyny or/
@@ -20899,6 +20957,7 @@
 罪無可恕 罪无可恕 [zui4 wu2 ke3 shu4] /guilty beyond mercy/beyond mercy, guilty/
 罪行和刑罰 罪行和刑罚 [zui4 xing2_he2_xing2 fa2] /crime and punishment/punishment, crime and/
 罪債 罪债 [zui4 zhai4] /debt of sin/
+最終解釋權 最终解释权 [zui4 zhong1_jie3 shi4 quan2] /final interpretation rights (decision of the judges shall be final, in competitions etc)/interpretation rights, final (decision of the judges shall be final, in competitions etc)/
 罪中之樂 罪中之乐 [zui4 zhong1 zhi1 le4] /enjoyment of sin/
 尊大 尊大 [zun1 da4] /great respect (?)/respect, great (?)/
 尊貴人 尊贵人 [zun1 gui4 ren2] /nobles (of people etc)/
