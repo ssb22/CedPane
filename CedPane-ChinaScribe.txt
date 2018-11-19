@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-11-18
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-11-19
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -53,6 +53,7 @@
 阿爾泰語 阿尔泰语 [A1 er3 tai4 yu3] /Altai (language)/
 阿爾坦 阿尔坦 [A1 er3 tan3] /Artan/
 阿耳忒彌斯 阿耳忒弥斯 [A1 er3 te4 mi2 si1] /Artemis/
+阿爾廷 阿尔廷 [A1 er3 ting2] /Alting/
 阿爾瓦科語 阿尔瓦科语 [A1 er3 wa3 ke1 yu3] /Arhuaco (language)/
 阿爾瓦拉多 阿尔瓦拉多 [A1 er3 wa3 la1 duo1] /Alvarado/
 阿爾瓦拉辛 阿尔瓦拉辛 [A1 er3 wa3 la1 xin1] /Albarracín/
@@ -4536,6 +4537,7 @@
 何羅念 何罗念 [He2 luo2 nian4] /Horonaim/
 荷馬 荷马 [He2 ma3] /Homer (Greek poet)/
 何孟族 何孟族 [He2 meng4 zu2] /Hmong (tribe, alternate translation of Miao)/
+河南窯 河南窑 [He2 nan2 yao2] /Henan ware (pottery type)/ware, Henan (pottery type)/
 和平號 和平号 [He2 ping2_hao4] /Mir (ship; space station)/
 合浦縣 合浦县 [He2 pu3_Xian4] /Hepu (county, in Guangxi)/
 何薩 何萨 [He2 sa4] /Hosah/
@@ -5022,6 +5024,7 @@
 基教協會 基教协会 [Ji1 jiao4_Xie2 hui4] /WCC (abbreviation for World Council of Churches)/
 基卡斯 基卡斯 [Ji1 ka3 si1] /Kikas/
 基科 基科 [Ji1 ke1] /Kikot/
+積克 积克 [Ji1 ke4] /Jack (name)/
 基庫尤語 基库尤语 [Ji1 ku4 you2 yu3] /Kikuyu (language)/
 基奎特 基奎特 [Ji1 kui2 te4] /Kitwit (town in Zaire)/
 基拉 基拉 [Ji1 la1] /Chelal (Bible)/
@@ -5161,6 +5164,7 @@
 吉德福 吉德福 [Ji2 de2 fu2] /Gifford/
 吉迪恩 吉迪恩 [Ji2 di2 en1] /Gideon (modern)/
 吉頓 吉顿 [Ji2 dun4] /Gidom/
+吉多 吉多 [Ji2 duo1] /Guido/
 吉福德 吉福德 [Ji2 fu2 de2] /Gifford/
 吉甲 吉甲 [Ji2 jia3] /Gilgal/
 急救部 急救部 [Ji2 jiu4 bu4] /First Aid Department (at assembly etc)/Department, First Aid (at assembly etc)/
@@ -5199,6 +5203,7 @@
 吉土巴語 吉土巴语 [Ji2 tu3 ba1 yu3] /Kituba (language)/
 集賢縣 集贤县 [Ji2 xian2_Xian4] /Jixian (county, in Heilongjiang)/
 吉亞奇諾 吉亚奇诺 [Ji2 ya4 qi2 nuo4] /Giacchino/
+吉州窯 吉州窑 [Ji2 zhou1 yao2] /Jizhou ware (pottery type)/ware, Jizhou (pottery type)/
 吉宗 吉宗 [Ji2 zong1] /Gichon/
 吉佐鎮 吉佐镇 [Ji2 zuo3 zhen4] /Gizo (town)/
 濟南市 济南市 [Ji3 nan2_Shi4] /Jinan (in Shandong)/
@@ -5207,6 +5212,7 @@
 濟慈 济慈 [Ji4 ci2] /Keats/
 季拉 季拉 [Ji4 la1] /Gerah/
 季米特里 季米特里 [Ji4 mi3 te4 li3] /Dmitry/
+季米特里奧斯 季米特里奥斯 [Ji4 mi3 te4 li3 ao4 si1] /Dimitrios/
 季米特里斯 季米特里斯 [Ji4 mi3 te4 li3 si1] /Dimitris/
 季米特洛娃 季米特洛娃 [Ji4 mi3 te4 luo4 wa2] /Dimitrova/
 季莫夫 季莫夫 [Ji4 mo4 fu1] /Dimov/
@@ -5433,6 +5439,7 @@
 建始縣 建始县 [Jian4 shi3_Xian4] /Jianshi (county, in Hubei)/
 建水縣 建水县 [Jian4 shui3_Xian4] /Jianshui (county, in Yunnan)/
 建陽市 建阳市 [Jian4 yang2_Shi4] /Jianyang (city, in Fujian)/
+建窯 建窑 [Jian4 yao2] /Jian ware (pottery type)/ware, Jian (pottery type)/
 諫義里 谏义里 [Jian4 yi4 li3] /Kediri/
 姜鵬 姜鹏 [Jiang1_Peng2] /Peng Jiang (researcher)/Jiang, Peng (researcher)/
 江安縣 江安县 [Jiang1 an1_Xian4] /Jiang'an (county, in Sichuan)/
@@ -5446,6 +5453,8 @@
 江門 江门 [Jiang1 men2] /Jiangmen (in Guangdong)/
 江門市 江门市 [Jiang1 men2_Shi4] /Jiangmen (in Guangdong)/
 江山市 江山市 [Jiang1 shan1_Shi4] /Jiangshan (in Zhejiang)/
+疆塔爾 疆塔尔 [Jiang1 ta3 er3] /Jantar/
+疆塔爾曼塔爾 疆塔尔曼塔尔 [Jiang1 ta3 er3 Man4 ta3 er3] /Jantar Mantar/Mantar, Jantar/
 江西省 江西省 [Jiang1 xi1 sheng3] /Jiangxi province/province, Jiangxi/
 姜堰區 姜堰区 [Jiang1 yan4_Qu1] /Jiangyan (district, in Jiangsu)/
 江陰 江阴 [Jiang1 yin1] /Jiangyin (in Jiangsu)/
@@ -5459,6 +5468,7 @@
 蛟河市 蛟河市 [Jiao1 he2_Shi4] /Jiaohe (in Jilin)/
 蕉嶺縣 蕉岭县 [Jiao1 ling3_Xian4] /Jiaoling (county, in Guangdong)/
 焦蘇埃 焦苏埃 [Jiao1 su1 ai1] /Giosuè/
+交趾陶 交趾陶 [Jiao1 zhi3 tao2] /Cochin ware (pottery type)/ware, Cochin (pottery type)/
 膠州 胶州 [Jiao1 zhou1] /Jiaozhou (in Shandong)/
 膠州市 胶州市 [Jiao1 zhou1_Shi4] /Jiaozhou (in Shandong)/
 焦作 焦作 [Jiao1 zuo4] /Jiaozuo (in Henan)/
@@ -5632,6 +5642,7 @@
 巨嘴鳥 巨嘴鸟 [Ju4 zui3 niao3] /Toucan/
 君士坦丁 君士坦丁 [Jun1 shi4 tan3 ding1] /Constantine/
 君士坦丁堡 君士坦丁堡 [Jun1 shi4 tan3 ding1 bao3] /Constantinople/
+鈞窯 钧窑 [Jun1 yao2] /Jun ware (pottery type)/ware, Jun (pottery type)/
 喀爾巴阡山脈 喀尔巴阡山脉 [Ka1 er3 ba1 qian1_shan1 mai4] /Carpathian Mountains/Mountains, Carpathian/
 喀拉喀托火山 喀拉喀托火山 [Ka1 la1 ka1 tuo1_huo3 shan1] /Krakatau (volcano)/Krakatoa/Krakatoa, Krakatau/
 喀拉拉 喀拉拉 [Ka1 la1 la1] /Kerala/
@@ -6164,6 +6175,7 @@
 科學美國人 科学美国人 [Ke1 xue2_Mei3 guo2 ren2] /Scientific American/American, Scientific/
 科學日報 科学日报 [Ke1 xue2_Ri4 bao4] /Science Daily/Daily, Science/
 科亞里 科亚里 [Ke1 ya4 li3] /Koiari/
+科約 科约 [Ke1 yao1] /Kolyo/
 科伊維斯托 科伊维斯托 [Ke1 yi1 wei2 si1 tuo1] /Koivisto/
 科扎克 科扎克 [Ke1 zha1 ke4] /Kozaks/
 可克達拉 可克达拉 [Ke3 ke4 da2 la1] /Kokdala (in Xinjiang)/
@@ -6507,6 +6519,7 @@
 拉傑 拉杰 [La1 jie2] /Raj/
 拉結 拉结 [La1 jie2] /Rachel (Bible)/
 拉婕兒 拉婕儿 [La1 jie2 er2] /Rachel (modern)/
+拉傑普特 拉杰普特 [La1 jie2 pu3 te4] /Rajput/
 拉傑什 拉杰什 [La1 jie2 shi2] /Rajesh/
 拉津格 拉津格 [La1 jin1 ge2] /Ratzinger/
 拉卡托斯 拉卡托斯 [La1 ka3 tuo1 si1] /Lakatos/
@@ -7737,6 +7750,7 @@
 馬鞍山市 马鞍山市 [Ma3 an1 shan1_Shi4] /Ma'anshan (in Anhui)/
 馬奧 马奥 [Ma3 ao4] /Mao (place name e.g. in Dominican Republic)/
 瑪俄 玛俄 [Ma3 e2] /Maoch/
+馬恩島 马恩岛 [Ma3 en1_Dao3] /Isle of Man/
 馬恩耶 马恩耶 [Ma3 en1 ye1] /Mahenye/
 馬爾 马尔 [Ma3 er3] /Marc/
 馬爾堡 马尔堡 [Ma3 er3 bao3] /Marburg/
@@ -9876,6 +9890,7 @@
 日德蘭 日德兰 [Ri4 de2 lan2] /Jutland/
 日喀則 日喀则 [Ri4 ka1 ze2] /Xigazê (in Tibet)/
 日喀則市 日喀则市 [Ri4 ka1 ze2_Shi4] /Xigazê (in Tibet)/
+日林斯基 日林斯基 [Ri4 lin2 si1 ji1] /Zilinskiene/
 日內瓦聖經 日内瓦圣经 [Ri4 nei4 wa3_Sheng4 jing1] /Geneva Bible (1560)/Bible, Geneva (1560)/
 日照市 日照市 [Ri4 zhao4_Shi4] /Rizhao (in Shandong)/
 融安縣 融安县 [Rong2 an1_Xian4] /Rong'an (county, in Guangxi)/
@@ -12873,6 +12888,7 @@
 宣恩縣 宣恩县 [Xuan1 en1_Xian4] /Xuan'en (county, in Hubei)/
 宣城 宣城 [Xuan1 cheng2] /Xuancheng (in Anhui)/
 宣城市 宣城市 [Xuan1 cheng2_Shi4] /Xuancheng (in Anhui)/
+宣德帝 宣德帝 [Xuan1 de2 di4] /Xuande Emperor/Emperor, Xuande/
 宣漢縣 宣汉县 [Xuan1 han4_Xian4] /Xuanhan (county, in Sichuan)/
 宣威市 宣威市 [Xuan1 wei1_Shi4] /Xuanwei (in Yunnan)/
 薛力克 薛力克 [Xue1 li4 ke4] /Sydlik/
@@ -13945,6 +13961,8 @@
 影音服務 影音服务 [Ying3 yin1_Fu2 wu4] /Audio|Video Services/Services, Audio|Video/
 硬果仁 硬果仁 [Ying4 guo3 ren2] /English person/person, English/
 應用程序管理器 应用程序管理器 [Ying4 yong4 cheng2 xu4_Guan3 li3 qi4] /Application Manager (Android 5)/Manager, Application (Android 5)/
+雍正時代 雍正时代 [Yong1 zheng4_shi2 dai4] /Yongzheng period/period, Yongzheng/
+雍正帝 雍正帝 [Yong1 zheng4 di4] /Yongzheng Emperor/Emperor, Yongzheng/
 永安市 永安市 [Yong3 an1_Shi4] /Yong'an (in Fujian)/
 永昌縣 永昌县 [Yong3 chang1_Xian4] /Yongchang (county, in Gansu)/
 永城 永城 [Yong3 cheng2] /Yongcheng (in Henan)/
@@ -14282,6 +14300,7 @@
 扎沙里耶 扎沙里耶 [Zha1 sha1 li3 ye1] /Zacharie/
 扎瓦茨卡 扎瓦茨卡 [Zha1 wa3 ci2 ka3] /Zawadzka/
 查維克 查维克 [Zha1 wei2 ke4] /Jarvik/
+扎扎 扎扎 [Zha1 zha1] /Zaza/
 扎扎其語 扎扎其语 [Zha1 zha1 qi2 yu3] /Zazaki (language)/
 翟理斯 翟理斯 [Zhai2 li3 si1] /Giles (Herbert)/
 寨卡 寨卡 [Zhai4 ka3] /Zika (virus)/
@@ -17661,6 +17680,7 @@
 滿意度 满意度 [man3 yi4 du4] /satisfaction (level)/
 滿足感 满足感 [man3 zu2 gan3] /enjoyability/sense of enjoyment/
 曼怛羅 曼怛罗 [man4 da2 luo2] /mantra/
+曼特羅 曼特罗 [man4 te4 luo2] /mantra (Sanskrit for formula)/
 漫無節制 漫无节制 [man4 wu2 jie2 zhi4] /immoderateness/
 慢性疲勞綜合征 慢性疲劳综合征 [man4 xing4_pi2 lao2_zong1 he2 zheng1] /chronic fatigue syndrome/CFS/fatigue syndrome, chronic/
 慢性壓力 慢性压力 [man4 xing4_ya1 li4] /chronic stress/stress, chronic/
@@ -19145,6 +19165,7 @@
 天空之城 天空之城 [tian1 kong1_zhi1_cheng2] /Laputa (film title, Chinese version)/
 天露 天露 [tian1 lu4] /dew of the heavens/heavens, dew of the/
 天氣惡劣 天气恶劣 [tian1 qi4_e4 lie4] /inclement weather/bad weather/weather, inclement/
+天青色 天青色 [tian1 qing1 se4] /reddish-black colour/colour, reddish-black/
 天青石 天青石 [tian1 qing1 shi5] /lapis lazuli/lazuli, lapis/
 天然殺菌劑 天然杀菌剂 [tian1 ran2_sha1 jun1 ji4] /natural disinfectant (in open air)/disinfectant, natural (in open air)/
 天然植被 天然植被 [tian1 ran2_zhi2 bei4] /natural vegetation/vegetation, natural/
@@ -20037,6 +20058,7 @@
 陽去 阳去 [yang2 qu4] /lower departing tone (e.g. in Wenzhounese)/departing tone, lower (e.g. in Wenzhounese)/
 陽入 阳入 [yang2 ru4] /lower entering tone (e.g. in Wenzhounese)/entering tone, lower (e.g. in Wenzhounese)/
 陽上 阳上 [yang2 shang3] /lower rising tone (e.g. in Wenzhounese)/rising tone, lower (e.g. in Wenzhounese)/
+揚特拉 扬特拉 [yang2 te4 la1] /yantra (Sanskrit for instrument)/
 氧循環 氧循环 [yang3_xun2 huan2] /oxygen cycle/cycle, oxygen/
 養蜂家 养蜂家 [yang3 feng1 jia1] /apiarist/
 養活家人 养活家人 [yang3 huo5_jia1 ren2] /provide for one's family/one's family, provide for/
