@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-11-20
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-11-21
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -2564,6 +2564,7 @@
 大衛家 大卫家 [Da4 wei4 jia1] /house of David (as opposed to house of Saul etc)/David, house of (as opposed to house of Saul etc)/
 大溪地 大溪地 [Da4 xi1 di4] /Tahiti (old variant translation?)/
 大新縣 大新县 [Da4 xin1_Xian4] /Daxin (county, in Guangxi)/
+大學教育資助委員會 大学教育资助委员会 [Da4 xue2_Jiao4 yu4_Zi1 zhu4_Wei3 yuan2 hui4] /University Grants Committee (HK)/Grants Committee, University (HK)/
 大姚縣 大姚县 [Da4 yao2_Xian4] /Dayao (county, in Yunnan)/
 大冶 大冶 [Da4 ye3] /Daye (in Hubei)/
 大冶市 大冶市 [Da4 ye3_Shi4] /Daye (in Hubei)/
@@ -5479,6 +5480,7 @@
 交趾陶 交趾陶 [Jiao1 zhi3 tao2] /Cochin ware (pottery type)/ware, Cochin (pottery type)/
 膠州 胶州 [Jiao1 zhou1] /Jiaozhou (in Shandong)/
 膠州市 胶州市 [Jiao1 zhou1_Shi4] /Jiaozhou (in Shandong)/
+教資會 教资会 [Jiao1 zi1 hui4] /University Grants Committee (HK, abbreviation)/Grants Committee, University (HK, abbreviation)/
 焦作 焦作 [Jiao1 zuo4] /Jiaozuo (in Henan)/
 焦作市 焦作市 [Jiao1 zuo4_Shi4] /Jiaozuo (in Henan)/
 教義和聖約 教义和圣约 [Jiao4 yi4_He2_Sheng4 yue1] /Doctrine and Covenants (Mormon book)/Covenants, Doctrine and (Mormon book)/
@@ -13371,6 +13373,7 @@
 延吉市 延吉市 [Yan2 ji2_Shi4] /Yanji (in Jilin)/
 延津縣 延津县 [Yan2 jin1_Xian4] /Yanjin (county, in Henan)/
 鹽津縣 盐津县 [Yan2 jin1_Xian4] /Yanjin (county, in Yunnan)/
+研究資助局 研究资助局 [Yan2 jiu1_Zi1 zhu4_Ju2] /Research Grants Council (HK)/Grants Council, Research (HK)/
 閻良區 阎良区 [Yan2 liang2_Qu1] /Yanliang (district, in Shaanxi)/
 炎陵縣 炎陵县 [Yan2 ling2_Xian4] /Yanling (county, in Hunan)/
 延森 延森 [Yan2 sen1] /Jensen/
@@ -13379,6 +13382,7 @@
 延斯 延斯 [Yan2 si1] /Jens/
 鹽亭縣 盐亭县 [Yan2 ting2_Xian4] /Yanting (county, in Sichuan)/
 鹽源縣 盐源县 [Yan2 yuan2_Xian4] /Yanyuan (county, in Sichuan)/
+研資局 研资局 [Yan2 zi1 ju2] /Research Grants Council (HK, abbreviation)/Grants Council, Research (HK, abbreviation)/
 偃師 偃师 [Yan3 shi1] /Yanshi (in Henan)/
 偃師市 偃师市 [Yan3 shi1_Shi4] /Yanshi (in Henan)/
 硯山縣 砚山县 [Yan4 shan1_Xian4] /Yanshan (county, in Yunnan)/
@@ -14785,6 +14789,7 @@
 報時錶 报时表 [bao4 shi2_biao3] /talking watch/watch, talking/
 暴徒行凶 暴徒行凶 [bao4 tu2_xing2 xiong1] /mob rule/rule, mob/
 爆炸品 爆炸品 [bao4 zha4 pin3] /explosives/
+報章宣傳 报章宣传 [bao4 zhang1_xuan1 chuan2] /newspaper advertising/advertising, newspaper/
 抱走 抱走 [bao4 zou3] /leave while embracing (a child etc)/while embracing, leave (a child etc)/
 悲悲哀哀 悲悲哀哀 [bei1 bei1 ai1 ai5] /extremely grieved/grieved, extremely/
 悲悲慘慘 悲悲惨惨 [bei1 bei1 can3 can3] /grieviously/
@@ -15357,6 +15362,7 @@
 儲水池 储水池 [chu3 shui3 chi2] /pit of impounded waters/impounded waters, pit of/
 儲蓄賬戶 储蓄账户 [chu3 xu4_zhang4 hu4] /savings account/account, savings/
 觸控式 触控式 [chu4 kong4 shi4] /touch-controlled/
+穿金戴銀 穿金戴银 [chuan1 jin1 dai4 yin2] /wearing gold and silver jewellery/gold and silver jewellery, wearing/
 穿進 穿进 [chuan1 jin4] /pierce into (side of ark of covenant)/
 穿上愛 穿上爱 [chuan1 shang5_ai4] /clothe (yourselves with) love/love, clothe/
 穿引 穿引 [chuan1 yin3] /to thread (in sewing)/thread, to (in sewing)/
@@ -16522,6 +16528,7 @@
 酣睡到天明 酣睡到天明 [han1 shui4_dao4_tian1 ming2] /sleep soundly (until dawn)/soundly, sleep (until dawn)/
 寒冰 寒冰 [han2 bing1] /ice/
 寒風冷雨 寒风冷雨 [han2 feng1 leng3 yu3] /inclement weather (cold wind and rain)/weather, inclement (cold wind and rain)/
+韓服 韩服 [han2 fu2] /hanbok/
 涵蓋了 涵盖了 [han2 gai4 le5] /covered (by an article or comment etc)/
 寒天 寒天 [han2 tian1] /cold day/
 喊叫聲 喊叫声 [han3 jiao4 sheng1] /sound of shouting voice/shouting voice, sound of/
@@ -16602,6 +16609,7 @@
 烘好 烘好 [hong1 hao3] /roasted/
 紅斑狼瘡 红斑狼疮 [hong2 ban1_lang2 chuang1] /lupus/
 紅超巨星 红超巨星 [hong2 chao1 ju4 xing1] /red supergiant (star)/supergiant, red (star)/
+紅綢 红绸 [hong2 chou2] /red sari/sari, red/
 紅腹濱鷸 红腹滨鹬 [hong2 fu4 bin1 yu4] /red knot (type of seabird)/knot, red (type of seabird)/
 紅羹 红羹 [hong2 geng1] /red soup/soup, red/
 宏觀進化 宏观进化 [hong2 guan1_jin4 hua4] /macroevolution/
@@ -17320,6 +17328,7 @@
 科學小說 科学小说 [ke1 xue2_xiao3 shuo1] /science fiction (older translation)/fiction, science (older translation)/
 科學協會 科学协会 [ke1 xue2_xie2 hui4] /scientific societies/societies, scientific/
 科學新聞 科学新闻 [ke1 xue2_xin1 wen2] /Science News (American magazine)/News, Science (American magazine)/
+科學雜志 科学杂志 [ke1 xue2_za2 zhi4] /scientific journals/journals, scientific/
 科學家們 科学家们 [ke1 xue2 jia1 men5] /scientists (plural, old translation?)/
 科學主義 科学主义 [ke1 xue2 zhu3 yi4] /scientism (science-ideology)/
 科研成果 科研成果 [ke1 yan2_cheng2 guo3] /(scientific) research achievements/achievements, research/
@@ -17898,6 +17907,7 @@
 母牛犢 母牛犊 [mu3 niu2 du2] /heifer/
 母神崇拜 母神崇拜 [mu3 shen2_chong2 bai4] /mother-goddess worship/worship, mother-goddess/
 母熊 母熊 [mu3 xiong2] /mother bear/bear, mother/
+母語者 母语者 [mu3 yu3 zhe3] /native speaker/speaker, native/
 拇指銬 拇指铐 [mu3 zhi3_kao4] /thumb cuffs/cuffs, thumb/
 姆尊古 姆尊古 [mu3 zun1 gu3] /Mzungu (Swahili word for white man)/
 木軛 木轭 [mu4 e4] /yoke bar(s) of wood/bar(s) of wood, yoke/
@@ -18533,6 +18543,8 @@
 煞風景的人 煞风景的人 [sha1_feng1 jing3_de5_ren2] /"party pooper" (person who spoils the fun)/pooper", "party (person who spoils the fun)/
 沙巴特 沙巴特 [sha1 ba1 te4] /shavath/shabbat (Hebrew word)/
 殺盡 杀尽 [sha1 jin4] /strike down/kill all of (a group etc)/down, strike (a group etc)/
+紗麗 纱丽 [sha1 li4] /sari/
+莎麗 莎丽 [sha1 li4] /sari/
 沙利度胺 沙利度胺 [sha1 li4 du4 an4] /thalidomide/
 沙律 沙律 [sha1 lu:4] /tossed salad (older|Cantonese translation?)/salad, tossed (older|Cantonese translation?)/
 沙馬 沙马 [sha1 ma3] /shama (Heb. listen|obey)/
@@ -20076,8 +20088,10 @@
 鹽地 盐地 [yan2 di4] /salty place/place, salty/
 沿河逆流而上 沿河逆流而上 [yan2 he2_ni4 liu2 er2 shang4] /upstream (along the river)/
 延後 延后 [yan2 hou4] /postpone/
+研究基金 研究基金 [yan2 jiu1_ji1 jin1] /research funding/funding, research/
 研究小組 研究小组 [yan2 jiu1_xiao3 zu3] /study group/group, study/
 研究班 研究班 [yan2 jiu1 ban1] /study class/class, study/
+研究家 研究家 [yan2 jiu1 jia1] /researcher/
 研究組 研究组 [yan2 jiu1 zu3] /research group (at a university etc)/group, research (at a university etc)/
 岩薔薇膠 岩蔷薇胶 [yan2 qiang2 wei1 jiao1] /labdanum/
 研習班 研习班 [yan2 xi2 ban1] /study class/class, study/
