@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-11-22
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-11-24
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -8732,6 +8732,7 @@
 莫里斯 莫里斯 [Mo4 li3 si1] /Maurice/
 莫里斯 莫里斯 [Mo4 li3 si1] /Morris (surname)/
 莫里西 莫里西 [Mo4 li3 xi1] /Morrisey/
+莫里亞蒂 莫里亚蒂 [Mo4 li3 ya4 di4] /Moriarty/
 莫里茲 莫里兹 [Mo4 li3 zi1] /Morice/
 莫利 莫利 [Mo4 li4] /Morley/
 莫莉 莫莉 [Mo4 li4] /Molly/
@@ -15269,6 +15270,7 @@
 超速駕駛 超速驾驶 [chao1 su4_jia4 shi3] /speeding on the highway/highway, speeding on the/
 超文本傳輸協議 超文本传输协议 [chao1 wen2 ben3_chuan2 shu1_xie2 yi4] /hypertext transfer protocol/HTTP/transfer protocol, hypertext/
 超眾 超众 [chao1 zhong4] /surpassing many?/many?, surpassing/
+潮詞 潮词 [chao2 ci2] /buzzword/trendy word/
 巢窩 巢窝 [chao2 wo1] /nest/
 潮語 潮语 [chao2 yu3] /fashionable phrase/phrase, fashionable/
 吵耳聲 吵耳声 [chao3 er3 sheng1] /racket (noise)/
@@ -15337,6 +15339,7 @@
 吃者 吃者 [chi1 zhe3] /eater/
 持械行劫 持械行劫 [chi2_xie4_xing2 jie2] /aggravated robberies/robberies, aggravated/
 池邊 池边 [chi2 bian1] /cistern side/side, cistern/
+遲遲疑疑 迟迟疑疑 [chi2 chi2 yi2 yi2] /hesitatingly/
 持盾 持盾 [chi2 dun4] /holding a shield/shield, holding a/
 持家之道 持家之道 [chi2 jia1_zhi1_dao4] /building up the household/household, building up the/
 持家有道 持家有道 [chi2 jia1 you3 dao4] /workers at home (lit. good at running a home)/home, workers at (lit. good at running a home)/
@@ -15665,6 +15668,7 @@
 當中國統治世界 当中国统治世界 [dang1_Zhong1 guo2_tong3 zhi4_shi4 jie4] /when China rules the world (book)/China rules the world, when (book)/
 當導游 当导游 [dang1_dao3 you2] /work as a tour guide/tour guide, work as a/
 當代宗教 当代宗教 [dang1 dai4_zong1 jiao4] /contemporary religion/religion, contemporary/
+噹噹噹噹 当当当当 [dang1 dang1 dang1 dang1] /drumroll/
 當地華人社團 当地华人社团 [dang1 di4_Hua2 ren2_she4 tuan2] /Chinese organizations (of local Chinese people)/organizations, Chinese (of local Chinese people)/
 當地稱 当地称 [dang1 di4_cheng1] /locally known as/known as, locally/
 當地的 当地的 [dang1 di4_de5] /local/
@@ -15694,6 +15698,7 @@
 道德標準 道德标准 [dao4 de2_biao1 zhun3] /moral values/values, moral/
 道德典范 道德典范 [dao4 de2_dian3 fan4] /moral example/(having) moral high ground/example, moral/high ground, moral/
 道德防線 道德防线 [dao4 de2_fang2 xian4] /moral protection (lit. moral defense-line)/protection, moral (lit. moral defense-line)/
+道德淪亡 道德沦亡 [dao4 de2_lun2 wang2] /deteriorated morality/morality, deteriorated/
 道德上 道德上 [dao4 de2_shang5] /morally/
 道德危機 道德危机 [dao4 de2_wei1 ji1] /moral crisis/crisis, moral/
 道德准則 道德准则 [dao4 de2_zhun3 ze2] /ethical standards/standards, ethical/
@@ -16455,6 +16460,7 @@
 瓜形 瓜形 [gua1 xing2] /gourd-shaped/
 刮走 刮走 [gua1 zou3] /blow away/away, blow/
 寡嫂 寡嫂 [gua3 sao3] /widowed sister-in-law (as in Ruth and Orpah)/sister-in-law, widowed (as in Ruth and Orpah)/
+掛號機 挂号机 [gua4 hao4 ji1] /registration machine (for self-service check-in etc)/machine, registration (for self-service check-in etc)/
 掛機 挂机 [gua4 ji1] /hang up the phone/phone, hang up the/
 掛接 挂接 [gua4 jie1] /mount (a disk image etc)/
 掛簾 挂帘 [gua4 lian2] /curtain-hanging (pillar etc)/
@@ -16702,6 +16708,7 @@
 葫蘆絲 葫芦丝 [hu2 lu2 si1] /cucurbit flute/flute, cucurbit/
 葫蘆巴 葫芦巴 [hu2 lu5 ba1] /fenugreek (pinyin uncertain)/
 葫蘆樹 葫芦树 [hu2 lu5 shu4] /bottle-gourd plant/plant, bottle-gourd/
+糊塗死了 糊涂死了 [hu2 tu5_si3_le5] /confused to death/death, confused to/
 互愛互敬 互爱互敬 [hu4 ai4 hu4 jing4] /mutual love and respect/love and respect, mutual/
 護城 护城 [hu4 cheng2] /protect the city/city, protect the/
 護唇膏 护唇膏 [hu4 chun2 gao1] /lip salve/salve, lip/
@@ -17053,6 +17060,7 @@
 降怒 降怒 [jiang4 nu4] /be indignant/indignant, be/
 降生為人 降生为人 [jiang4 sheng1 wei2 ren2] /birth as a human (of Jesus)/human, birth as a (of Jesus)/
 降完 降完 [jiang4 wan2] /finish pouring out (?)/pouring out, finish (?)/
+醬子 酱子 [jiang4 zi5] /like that/
 交感神經系統 交感神经系统 [jiao1 gan3_shen2 jing1_xi4 tong3] /sympathetic nervous system/nervous system, sympathetic/
 教會元老 教会元老 [jiao1 hui4_yuan2 lao3] /church fathers/fathers, church/
 澆祭 浇祭 [jiao1 ji4] /drink offering/offering, drink/
@@ -18294,6 +18302,7 @@
 普通字體 普通字体 [pu3 tong1_zi4 ti3] /regular (ordinary, non-bold) type/type, regular/
 普緒克 普绪克 [pu3 xu4 ke4] /psykhe (ψυχή)/
 七宗罪 七宗罪 [qi1_zong1_zui4] /"seven deadly sins"/deadly sins", "seven/
+七八十 七八十 [qi1 ba1 shi2] /70 or 80/
 凄凉人 凄凉人 [qi1 liang2 ren2] /desolate person/person, desolate/
 欺凌人 欺凌人 [qi1 ling2_ren2] /bullying/
 欺騙者 欺骗者 [qi1 pian4 zhe3] /deceiver/
@@ -18594,6 +18603,7 @@
 三重天 三重天 [san1 chong2 tian1] /third heaven/heaven, third/
 三等獎 三等奖 [san1 deng3 jiang3] /third prize/prize, third/
 三合一 三合一 [san1 he2 yi1] /triad/three-in-one/
+三角架 三角架 [san1 jiao3 jia4] /tripod (for camera etc)/
 三明治果醬 三明治果酱 [san1 ming2 zhi4_guo3 jiang4] /sandwich spread/spread, sandwich/
 三千煩惱絲 三千烦恼丝 [san1 qian1_fan2 nao3 si1] /troublesome hair/threads of worry/hair, troublesome/worry, threads of/
 三手煙 三手烟 [san1 shou3 yan1] /thirdhand cigarette smoke/cigarette smoke, thirdhand/
@@ -18602,6 +18612,7 @@
 散沫花 散沫花 [san4 mo4 hua1] /henna (flower)/
 喪事承辦人 丧事承办人 [sang1 shi4_cheng2 ban4 ren2] /undertaker/funeral director/mortician/
 扫净 扫净 [sao3 jing4] /sweep clean/clean, sweep/
+掃碼 扫码 [sao3 ma3] /scan code (QR etc)/code, scan (QR etc)/
 掃描儀 扫描仪 [sao3 miao2 yi2] /scanner/
 色覺缺陷 色觉缺陷 [se4 jue2_que1 xian4] /colour vision deficiency/vision deficiency, colour/
 森林管理 森林管理 [sen1 lin2_guan3 li3] /forest management/management, forest/
@@ -19425,6 +19436,7 @@
 圖書館人員 图书馆人员 [tu2 shu1 guan3_ren2 yuan2] /librarian/
 圖書館長 图书馆长 [tu2 shu1 guan3 zhang3] /librarian/
 圖騰柱 图腾柱 [tu2 teng2_zhu4] /totem pole/pole, totem/
+圖樣圖森破 图样图森破 [tu2 yang4 tu2 sen1 po4] /too young too simple/young too simple, too/
 徒有 徒有 [tu2 you3] /have by following ???/following ???, have by/
 土民 土民 [tu3_min2] /people of the land/land, people of the/
 吐唾沫 吐唾沫 [tu3_tuo4 mo5] /spit (to spit saliva)/
@@ -19880,6 +19892,7 @@
 橡木桶 橡木桶 [xiang4 mu4 tong3] /oak barrel/barrel, oak/
 象棋盤 象棋盘 [xiang4 qi2 pan2] /chessboard (for Chinese chess)/
 向前邁進 向前迈进 [xiang4 qian2_mai4 jin4] /move forward (make progress)/forward, move (make progress)/
+向前直行 向前直行 [xiang4 qian2_zhi2 xing2] /walking ahead in a straight line/ahead in a straight line, walking/
 向前進 向前进 [xiang4 qian2 jin4] /move ahead/stride forward (short form)/ahead, move (short form)/forward, stride (short form)/
 象牙宮 象牙宫 [xiang4 ya2 gong1] /house of ivory (lit. elephant tooth palace)/ivory, house of (lit. elephant tooth palace)/
 象牙塊 象牙块 [xiang4 ya2 kuai4] /ivory plate/plate, ivory/
@@ -19904,6 +19917,7 @@
 小瓶子 小瓶子 [xiao3_ping2 zi5] /small jar/
 小拳拳 小拳拳 [xiao3_quan2 quan5] /cute little fist/little fist, cute/
 小山村 小山村 [xiao3_shan1 cun1] /smaller villages (in mountains?)/villages, smaller (in mountains?)/
+小視頻 小视频 [xiao3_shi4 pin2] /small video (user-made etc)/video, small (user-made etc)/
 小四 小四 [xiao3_si4] /small-4 (12pt font size)/
 小先知書 小先知书 [xiao3_xian1 zhi1_shu1] /minor prophets/prophets, minor/
 小岩羚 小岩羚 [xiao3_yan2 ling2] /steenbok/
@@ -19987,6 +20001,7 @@
 新聞快訊 新闻快讯 [xin1 wen2_kuai4 xun4] /headlines (in news)/
 新聞周刊 新闻周刊 [xin1 wen2_zhou1 kan1] /Newsweek/
 新聞室 新闻室 [xin1 wen2 shi4] /newsroom/
+新鮮出爐 新鲜出炉 [xin1 xian1_chu1 lu2] /freshly-baked/
 馨香油 馨香油 [xin1 xiang1 you2] /perfumed oil/
 新心 新心 [xin1 xin1] /new heart/heart, new/
 新型節能燈 新型节能灯 [xin1 xing2_jie2 neng2_deng1] /new (type of) energy-efficient light bulbs/energy-efficient light bulbs, new/
@@ -20297,6 +20312,7 @@
 醫學研究報告 医学研究报告 [yi1 xue2_yan2 jiu1_bao4 gao4] /scientific literature (medical)/literature, scientific (medical)/
 醫學診斷 医学诊断 [yi1 xue2_zhen3 duan4] /medical diagnosis/diagnosis, medical/
 一元運算符 一元运算符 [yi1 yuan2_yun4 suan4 fu2] /unary operator/operator, unary/
+衣原體性尿道炎 衣原体性尿道炎 [yi1 yuan2 ti3 xing4 niao4 dao4 yan2] /chlamydia/
 一支支 一支支 [yi1 zhi1 zhi1] /branches and branches of (torches etc) (??)/
 一周內 一周内 [yi1 zhou1_nei4] /within 1 week/week, within 1/
 衣著端莊 衣着端庄 [yi1 zhuo2_duan1 zhuang1] /dress modestly/modest dress/modestly, dress/
@@ -20805,6 +20821,7 @@
 支持者 支持者 [zhi1 chi2 zhe3] /proponent/
 脂蛋白 脂蛋白 [zhi1 dan4 bai2] /lipoprotein/
 脂肪酶 脂肪酶 [zhi1 fang2 mei2] /lipase/
+支付寶 支付宝 [zhi1 fu4 bao3] /wallet (electronic etc)/
 芝麻綠豆 芝麻绿豆 [zhi1 ma2 lu:4 dou4] /trifles/small things/
 知名專家 知名专家 [zhi1 ming2_zhuan1 jia1] /recognized experts/experts, recognized/
 織品商 织品商 [zhi1 pin3_shang1] /cloth manufacturer (individual person?)/manufacturer, cloth (individual person?)/
@@ -20860,6 +20877,7 @@
 置身于 置身于 [zhi4 shen1_yu2] /be in (personally)/
 至聖者 至圣者 [zhi4 sheng4 zhe3] /Most Holy One/Holy One, Most/
 制桶工人 制桶工人 [zhi4 tong3 gong1 ren2] /cooper/
+至為 至为 [zhi4 wei2] /very/even to the point of being (something)/
 至為重要 至为重要 [zhi4 wei2_zhong4 yao4] /(very) important/
 質問說 质问说 [zhi4 wen4_shuo1] /demand an explanation/explanation, demand an/
 擲向 掷向 [zhi4 xiang4] /throw towards/towards, throw/
@@ -21059,6 +21077,7 @@
 自願登記 自愿登记 [zi4 yuan4_deng1 ji4] /voluntary registration/registration, voluntary/
 自願加入 自愿加入 [zi4 yuan4_jia1 ru4] /volunteer to join (an army etc)/join, volunteer to (an army etc)/
 自治鎮 自治镇 [zi4 zhi4 zhen4] /borough (lit. self-governing town)/
+自助掛號機 自助挂号机 [zi4 zhu4_gua4 hao4 ji1] /self-service check-in machine/check-in machine, self-service/
 宗徒繼承 宗徒继承 [zong1_tu2_ji4 cheng2] /apostolic succession (Catholic doctrine)/succession, apostolic (Catholic doctrine)/
 棕黃色 棕黄色 [zong1 huang2 se4] /yellowish-red/pale brown/
 宗教百科全書 宗教百科全书 [zong1 jiao4_bai3 ke1 quan2 shu1] /The Encyclopedia of Religion/Encyclopedia of Religion, The/
