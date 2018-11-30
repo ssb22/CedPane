@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-11-29
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-11-30
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -4433,6 +4433,7 @@
 海梅 海梅 [Hai3 mei2] /Jaime/
 海門 海门 [Hai3 men2] /Haimen (in Jiangsu)/
 海門市 海门市 [Hai3 men2_Shi4] /Haimen (in Jiangsu)/
+海門林納 海门林纳 [Hai3 men2 lin2 na4] /Hämeenlinna/
 海明威 海明威 [Hai3 ming2 wei1] /Hemingway/
 海姆 海姆 [Hai3 mu3] /Hem/
 海姆利克氏 海姆利克氏 [Hai3 mu3 li4 ke4 shi4] /Heimlich/
@@ -6773,6 +6774,7 @@
 蘭溪市 兰溪市 [Lan2 xi1_Shi4] /Lanxi (in Zhejiang)/
 蘭西縣 兰西县 [Lan2 xi1_Xian4] /Lanxi (county, in Heilongjiang)/
 藍牙 蓝牙 [Lan2 ya2] /Bluetooth (phone protocol)/
+藍芽 蓝芽 [Lan2 ya2] /Bluetooth/
 蘭扎尼 兰扎尼 [Lan2 zha1 ni2] /Ranzani/
 蘭州市 兰州市 [Lan2 zhou1_Shi4] /Lanzhou (in Gansu)/
 蘭族人 兰族人 [Lan2 zu2 ren2] /family of Ram/
@@ -10669,6 +10671,7 @@
 十字軍東征 十字军东征 [Shi2 zi4 jun1_dong1_zheng1] /Crusades/
 石嘴山 石嘴山 [Shi2 zui3 shan1] /Shizuishan (in Ningxia)/
 石嘴山市 石嘴山市 [Shi2 zui3 shan1_Shi4] /Shizuishan (in Ningxia)/
+史巴利堤 史巴利堤 [Shi3 ba1 li4 di1] /Spalletti/
 史賓塞 史宾塞 [Shi3 bin1 se4] /Spencer/
 史丹利 史丹利 [Shi3 dan1 li4] /Stanley/
 史蒂芬 史蒂芬 [Shi3 di4 fen1] /Stephen (Hawking)/
@@ -10893,6 +10896,7 @@
 斯尼 斯尼 [Si1 ni2] /Sin (person??)/
 斯尼德 斯尼德 [Si1 ni2 de2] /Snyder/
 斯帕克斯 斯帕克斯 [Si1 pa4 ke4 si1] /Sparks (surname)/
+斯帕萊蒂 斯帕莱蒂 [Si1 pa4 lai2 di4] /Spalletti/
 斯帕奇爾 斯帕奇尔 [Si1 pa4 qi2 er3] /Spacil/
 斯派 斯派 [Si1 pai4] /Sippai/
 斯潘塞 斯潘塞 [Si1 pan1 se4] /Spencer/
@@ -15914,6 +15918,7 @@
 東拐西拐 东拐西拐 [dong1 guai3 xi1 guai3] /winding route/route, winding/
 冬寒 冬寒 [dong1 han2] /winter cold/cold, winter/
 冬季抑郁 冬季抑郁 [dong1 ji4_yi4 yu4] /winter depression/depression, winter/
+冬季運動 冬季运动 [dong1 ji4_yun4 dong4] /winter sport/sport, winter/
 東界 东界 [dong1 jie4] /eastern boundary/boundary, eastern/
 東藍鴝 东蓝鸲 [dong1 lan2 qu2] /eastern bluebird/bluebird, eastern/
 東忙西忙 东忙西忙 [dong1 mang2 xi1 mang2] /active here and there (lit. east busy west busy)/here and there, active (lit. east busy west busy)/
@@ -15971,6 +15976,7 @@
 短期工作 短期工作 [duan3 qi1_gong1 zuo4] /seasonal work (lit. short-time work)/work, seasonal (lit. short-time work)/
 短尾魷魚 短尾鱿鱼 [duan3 wei3_you2 yu2] /bobtail squid/squid, bobtail/
 短吻鱷 短吻鳄 [duan3 wen3 e4] /alligator/
+短信提醒 短信提醒 [duan3 xin4_ti2 xing3] /SMS alert/text alert/alert, SMS/
 斷定死因 断定死因 [duan4 ding4_si3 yin1] /determine the cause of death/cause of death, determine the/
 斷腳 断脚 [duan4 jiao3] /fractured foot/foot, fractured/
 斷石鋸 断石锯 [duan4 shi2 ju4] /stone-saw (tool for sawing stones)/
@@ -16253,6 +16259,7 @@
 負鼠 负鼠 [fu4 shu3] /opossum (USA)/
 複數性 复数性 [fu4 shu4 xing4] /plurality/
 赴死 赴死 [fu4 si3] /go (into) death/death, go/
+複習一下 复习一下 [fu4 xi2_yi2 xia4] /review/look again at (a text)/
 複音唱法 复音唱法 [fu4 yin1_chang4 fa3] /polyphonic singing/singing, polyphonic/
 複印公司 复印公司 [fu4 yin4_gong1 si1] /reprographics company/printing company/company, reprographics/
 富有人 富有人 [fu4 you3 ren2] /rich person/person, rich/
@@ -16381,6 +16388,7 @@
 各種形式 各种形式 [ge4 zhong3_xing2 shi4] /various forms/various aspects (of ministry etc)/forms, various (of ministry etc)/aspects, various (of ministry etc)/
 給力 给力 [gei3_li4] /empowering/cool (net usage)/
 給出 给出 [gei3 chu1] /gives (interest|terms|etc, of business deal)/
+跟人說話 跟人说话 [gen1_ren2_shuo1 hua4] /speak with a person/person, speak with a/
 跟上次 跟上次 [gen1_shang4 ci4] /compared to last time/last time, compared to/
 根幹 根干 [gen1 gan4] /rootstock/
 跟從者 跟从者 [gen1 cong2 zhe3] /follower (older term?)/
@@ -17105,6 +17113,7 @@
 嚼口香糖 嚼口香糖 [jiao2_kou3 xiang1 tang2] /chew gum/
 腳病 脚病 [jiao3 bing4] /feet ailment/ailment, feet/
 絞成 绞成 [jiao3 cheng2] /wreathe into/
+攪錯 搅错 [jiao3 cuo4] /wrong/
 角豆 角豆 [jiao3 dou4] /carob/
 角豆莢 角豆荚 [jiao3 dou4 jia2] /carob pod/
 腳疾 脚疾 [jiao3 ji2] /feet disease/disease, feet/
@@ -17236,6 +17245,7 @@
 禁食日 禁食日 [jin4 shi2 ri4] /fasting day/
 禁物 禁物 [jin4 wu4] /prohibited thing/thing, prohibited/
 盡信 尽信 [jin4 xin4] /believe to the limit/limit, believe to the/
+進行中 进行中 [jin4 xing2_zhong1] /already in progress/progress, already in/
 進一步閱讀 进一步阅读 [jin4 yi1 bu4_yue4 du2] /further reading/reading, further/
 進展緩慢 进展缓慢 [jin4 zhan3_huan3 man4] /progress is slow/slow, progress is/
 盡忠職守 尽忠职守 [jin4 zhong1 zhi2 shou3] /faithfully do one's duty as a subject (?)/one's duty as a subject, faithfully do (?)/
@@ -17567,11 +17577,13 @@
 濫食 滥食 [lan4 shi2] /overeating/
 爁炎 爁炎 [lan4 yan2] /really hot (ancient word)/
 濫用者 滥用者 [lan4 yong4 zhe3] /abuser (of drugs etc)/
+朗讀出來 朗读出来 [lang3 du2_chu5 lai5] /read out/
 浪費時間 浪费时间 [lang4 fei4_shi2 jian1] /waste time/time, waste/
 浪聲 浪声 [lang4 sheng1] /sound of sea waves/waves, sound of sea/
 浪子的比喻 浪子的比喻 [lang4 zi3_de5_bi3 yu4] /parable of the prodigal son/prodigal son, parable of the/
 勞動營 劳动营 [lao2 dong4 ying2] /labour camp/camp, labour/
 勞心勞力 劳心劳力 [lao2 xin1 lao2 li4] /hardworking/
+老詞新用 老词新用 [lao3 ci2 xin1 yong4] /new meaning of old word/meaning of old word, new/
 老來得子 老来得子 [lao3 lai2 de2 zi3] /have a son in one's old age/one's old age, have a son in/
 老年人口 老年人口 [lao3 nian2_ren2 kou3] /aged population/population, aged/
 老年病學 老年病学 [lao3 nian2 bing4 xue2] /gerontology/
@@ -18711,6 +18723,7 @@
 上磨石 上磨石 [shang4 mo4 shi2] /upper millstone/upper grindstone/millstone, upper/grindstone, upper/
 上騰 上腾 [shang4 teng2] /ascend upward (of smoke etc)/upward, ascend (of smoke etc)/
 上網成癮 上网成瘾 [shang4 wang3_cheng2 yin3] /addicted to Internet/have Internet addiction/Internet, addicted to/addiction, have Internet/
+上網套餐 上网套餐 [shang4 wang3_tao4 can1] /mobile data package (purchased from mobile network)/data package, mobile (purchased from mobile network)/
 上陣作戰 上阵作战 [shang4 zhen4_zuo4 zhan4] /fight in battle/battle, fight in/
 燒到 烧到 [shao1 dao4] /burn (down) to/
 燒起 烧起 [shao1 qi5] /kindle up (?)/
@@ -19292,6 +19305,7 @@
 討論群 讨论群 [tao3 lun4 qun2] /discussion group/newsgroup/group, discussion/
 討論組 讨论组 [tao3 lun4 zu3] /discussion group (in instant messaging etc)/group, discussion (in instant messaging etc)/
 討戰 讨战 [tao3 zhan4] /demand a fight/fight, demand a/
+套餐 套餐 [tao4 can1] /package (of fast food etc)/
 特备 特備 [te4 bei4] /specially prepared/prepared, specially/
 特別版 特别版 [te4 bie2_ban3] /special edition/edition, special/
 特別報告 特别报告 [te4 bie2_bao4 gao4] /special report/report, special/
@@ -19350,6 +19364,7 @@
 天體物理學家 天体物理学家 [tian1 ti3_wu4 li3 xue2 jia1] /astrophysicist/
 天云 天云 [tian1 yun2] /clouds of the heavens/heavens, clouds of the/
 甜餅 甜饼 [tian2 bing3] /sweet cake/cake, sweet/
+填好 填好 [tian2 hao3] /fill in (a form)/
 填交 填交 [tian2 jiao1] /fill in and hand in (a form)/hand in, fill in and (a form)/
 甜品店 甜品店 [tian2 pin3 dian4] /dessert shop/shop, dessert/
 甜甜 甜甜 [tian2 tian2] /sweet (doubled)/
@@ -19702,6 +19717,7 @@
 屋頂板 屋顶板 [wu1 ding3 ban3] /roof panels/panels, roof/
 誣告說 诬告说 [wu1 gao4_shuo1] /falsely claim that/claim that, falsely/
 烏水 乌水 [wu1 shui3] /dark waters/waters, dark/
+嗚嗚祖拉 呜呜祖拉 [wu1 wu1 zu3 la1] /vuvuzela/
 無主題 无主题 [wu2_zhu3 ti2] /no subject (in emails etc)/subject, no (in emails etc)/
 無襯線體 无衬线体 [wu2 chen4 xian4 ti3] /sans-serif (typeface)/
 無處不在 无处不在 [wu2 chu4 bu4 zai4] /omnipresent (mistaken idea)/
