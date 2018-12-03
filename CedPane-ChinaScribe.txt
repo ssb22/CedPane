@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-12-01
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-12-03
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -828,6 +828,7 @@
 安吉洛 安吉洛 [An1 ji2 luo4] /Angelo/
 安加爾斯克 安加尔斯克 [An1 jia1 er3 si1 ke4] /Angarsk/
 安加拉河 安加拉河 [An1 jia1 la1 he2] /Angara river/river, Angara/
+安傑 安杰 [An1 jie2] /Andrzej/
 安傑爾 安杰尔 [An1 jie2 er3] /Angel (given name)/
 安傑拉 安杰拉 [An1 jie2 la1] /Angela/
 安傑洛 安傑洛 [An1 jie2 luo4] /Angelo/
@@ -3167,6 +3168,7 @@
 俄羅斯聯邦最高法院 俄罗斯联邦最高法院 [E2 luo2 si1_Lian2 bang1_Zui4 gao1_Fa3 yuan4] /Russian Federation Supreme Court/Federation Supreme Court, Russian/
 俄羅斯憲法 俄罗斯宪法 [E2 luo2 si1_Xian4 fa3] /Russian Constitution/Constitution, Russian/
 俄羅斯當局 俄罗斯当局 [E2 luo2 si1_dang1 ju2] /Russian authorities/authorities, Russian/
+俄羅斯籍 俄罗斯籍 [E2 luo2 si1_ji2] /Russian national (of person)/national, Russian (of person)/
 俄羅斯盧布 俄罗斯卢布 [E2 luo2 si1_lu2 bu4] /(Russian) rubles/
 峨眉山市 峨眉山市 [E2 mei2 shan1_Shi4] /Emeishan (in Sichuan)/
 額敏縣 额敏县 [E2 min3_Xian4] /Emin (county, in Xinjiang)/
@@ -4202,6 +4204,7 @@
 哈爾科夫市 哈尔科夫市 [Ha1 er3 ke1 fu1_Shi4] /Kharkiv/
 哈爾斯特倫 哈尔斯特伦 [Ha1 er3 si1 te4 lun2] /Hallström/
 哈爾陶 哈尔陶 [Ha1 er3 tao2] /Harthau/
+哈爾圖林 哈尔图林 [Ha1 er3 tu2 lin2] /Khalturin/
 哈巴谷 哈巴谷 [Ha1 ba1 gu3] /Habakkuk (book, Catholic version)/
 哈巴谷 哈巴谷 [Ha1 ba1 gu3] /Habakkuk (prophet)/
 哈巴谷書 哈巴谷书 [Ha1 ba1 gu3 shu1] /Habakkuk (Bible book)/
@@ -5100,6 +5103,8 @@
 基羅人 基罗人 [Ji1 luo2 ren2] /person from Giloh/Giloh, person from/
 基洛 基洛 [Ji1 luo4] /Keros/
 基洛夫 基洛夫 [Ji1 luo4 fu1] /Kirov/
+基洛夫市 基洛夫市 [Ji1 luo4 fu1_Shi4] /Kirov (city)/
+基洛夫州 基洛夫州 [Ji1 luo4 fu1 zhou1] /Kirov Region/Region, Kirov/
 基綠 基绿 [Ji1 lu:4] /Cherub (person's name)/
 基律納 基律纳 [Ji1 lu:4 na4] /Kiruna/
 基律納市 基律纳市 [Ji1 lu:4 na4_Shi4] /Kiruna (town)/
@@ -6148,6 +6153,7 @@
 柯倫 柯伦 [Ke1 lun2] /Callan/
 科倫 科伦 [Ke1 lun2] /Cologne (older translation of the city in Germany)/
 科倫坡 科伦坡 [Ke1 lun2 po1] /Colombo/
+科羅別伊尼科夫 科罗别伊尼科夫 [Ke1 luo2 bie2 yi1 ni2 ke1 fu1] /Korobeynikov/
 科羅馬 科罗马 [Ke1 luo2 ma3] /Koroma/
 科羅薩爾 科罗萨尔 [Ke1 luo2 sa4 er3] /Corozal/
 科洛德內 科洛德内 [Ke1 luo4 de2 nei4] /Kolodny/
@@ -7182,6 +7188,7 @@
 列別傑夫 列别杰夫 [Lie4 bie2 jie2 fu1] /Lebedev/
 列夫 列夫 [Lie4 fu1] /Lev/
 獵戶座 猎户座 [Lie4 hu4 zuo4] /Orion/
+列梅舍夫 列梅舍夫 [Lie4 mei2 she4 fu1] /Lemeshev/
 列寧格勒 列宁格勒 [Lie4 ning2 ge2 le4] /Leningrad/
 列寧斯基 列宁斯基 [Lie4 ning2 si1 ji1] /Leninsky/
 列萬尼 列万尼 [Lie4 wan4 ni2] /Levani/
@@ -10283,6 +10290,7 @@
 桑德 桑德 [Sang1 de2] /Shanda/
 桑德拉 桑德拉 [Sang1 de2 la1] /Sandra/
 桑德羅 桑德罗 [Sang1 de2 luo2] /Sandro/
+桑德曼 桑德曼 [Sang1 de2 man4] /Sandeman/
 桑德曼派 桑德曼派 [Sang1 de2 man4 pai4] /Sandemanians/
 桑德納 桑德纳 [Sang1 de2 na4] /Sandner/
 桑德奇 桑德奇 [Sang1 de2 qi2] /Sandage/
@@ -10890,6 +10898,7 @@
 斯洛文尼亞語 斯洛文尼亚语 [Si1 luo4 wen2 ni2 ya4 yu3] /Slovenian (language)/
 斯梅克 斯梅克 [Si1 mei2 ke4] /Smyk/
 斯密約瑟 斯密约瑟 [Si1 mi4_Yue1 se4] /Joseph Smith (Mormon founder)/Smith, Joseph (Mormon founder)/
+斯摩稜斯克州 斯摩稜斯克州 [Si1 mo2 leng2 si1 ke4 zhou1] /Smolensk Region (Russia)/Region, Smolensk (Russia)/
 斯奈德 斯奈德 [Si1 nai4 de2] /Snyder/
 思南縣 思南县 [Si1 nan2_Xian4] /Sinan (county, in Guizhou)/
 斯內普 斯内普 [Si1 nei4 pu3] /Snape (Maltings in Aldeburgh)/
@@ -11167,6 +11176,7 @@
 索利語 索利语 [Suo3 li4 yu3] /Soli (language)/
 索倫托 索伦托 [Suo3 lun2 tuo1] /Sorrento/
 所羅巴伯 所罗巴伯 [Suo3 luo2 ba1 bo2] /Zerubbabel/
+索羅金 索罗金 [Suo3 luo2 jin1] /Sorokina/
 所羅門 所罗门 [Suo3 luo2 men2] /Solomon/
 所羅門群島 所罗门群岛 [Suo3 luo2 men2_qun2 dao3] /Solomon Islands/Islands, Solomon/
 索羅門群島 索罗门群岛 [Suo3 luo2 men2_qun2 dao3] /Solomon Islands (alternative translation)/Islands, Solomon (alternative translation)/
@@ -11736,6 +11746,7 @@
 托特里奇 托特里奇 [Tuo1 te4 li3 qi2] /Totteridge/
 托特里奇市 托特里奇市 [Tuo1 te4 li3 qi2_Shi4] /Totteridge/
 托托納克語 托托纳克语 [Tuo1 tuo1 na4 ke4 yu3] /Totonac (language)/
+托希納 托希纳 [Tuo1 xi1 na4] /Troshina/
 陀斐特 陀斐特 [Tuo2 fei3 te4] /Topheth/
 陀弗 陀弗 [Tuo2 fu2] /Tophel/
 陀戶 陀户 [Tuo2 hu4] /Tohu/
@@ -14764,6 +14775,7 @@
 白白拿 白白拿 [bai2 bai2_na2] /take without cost/without cost, take/
 白斑病 白斑病 [bai2 ban1 bing4] /vitiligo (lit. white spot disease)/
 白餅 白饼 [bai2 bing3] /white bread (ancient)/bread, white (ancient)/
+白富美 白富美 [bai2 fu4 mei3] /pale rich beauty (stereotype)/rich beauty, pale (stereotype)/
 白鶴芋 白鹤芋 [bai2 he4 yu4] /peace lily/lily, peace/
 白花蛇舌草 白花蛇舌草 [bai2 hua1_she2 she2 cao3] /hedyotis diffusa/oldenlandia/diffusa, hedyotis/
 白馬 白马 [bai2 ma3] /white horse/horse, white/
@@ -16161,6 +16173,7 @@
 非常開心 非常开心 [fei1 chang2_kai1 xin1] /joyful/
 非傳染性 非传染性 [fei1 chuan2 ran3 xing4] /noncommunicable (of disease)/
 非傳染性疾病 非传染性疾病 [fei1 chuan2 ran3 xing4_ji2 bing4] /noncommunicable disease/disease, noncommunicable/
+非傳統 非传统 [fei1 chuan2 tong3] /nonconformist (of approach etc)/
 飛到 飞到 [fei1 dao4] /fly to/
 非法獵殺 非法猎杀 [fei1 fa3_lie4 sha1] /poaching/
 非法移民 非法移民 [fei1 fa3_yi2 min2] /illegal immigration/immigration, illegal/
@@ -16343,6 +16356,7 @@
 高密度脂蛋白 高密度脂蛋白 [gao1 mi4 du4_zhi1 dan4 bai2] /HDL/high-density lipoprotein/
 高能見度 高能见度 [gao1 neng2 jian4 du4] /high-visibility (of clothing etc)/
 高牆 高墙 [gao1 qiang2] /high wall/wall, high/
+高帥富 高帅富 [gao1 shuai4 fu4] /tall rich and handsome/rich and handsome, tall/
 高速火車 高速火车 [gao1 su4_huo3 che1] /high-speed train/train, high-speed/
 高速列車 高速列车 [gao1 su4_lie4 che1] /high-speed trains/trains, high-speed/
 高速運行的火車 高速运行的火车 [gao1 su4_yun4 xing2_de5_huo3 che1] /high-speed train/train, high-speed/
@@ -17283,6 +17297,7 @@
 經文護符匣 经文护符匣 [jing1 wen2_hu4 fu2_xia2] /phylactery/
 經文說 经文说 [jing1 wen2_shuo1] /the scripture says/scripture says, the/
 頸手枷 颈手枷 [jing3_shou3 jia1] /pillory (lit. neck handcuffs)/
+警察監視 警察监视 [jing3 cha2_jian1 shi4] /police surveillance/surveillance, police/
 景區 景区 [jing3 qu1] /scenic area/area, scenic/
 景色宜人 景色宜人 [jing3 se4_yi2 ren2] /beautiful (of a landscape)/scenic/
 警衛官 警卫官 [jing3 wei4 guan1] /officer holding the oversight/officer in charge of the guard/holding the oversight, officer/charge of the guard, officer in/
@@ -18766,6 +18781,7 @@
 深表 深表 [shen1 biao3] /deeply show/show, deeply/
 伸出援手 伸出援手 [shen1 chu1_yuan2 shou3] /extend a helping hand/helping hand, extend a/
 伸到 伸到 [shen1 dao4] /stretch to/run to (in architecture etc)/
+深度游 深度游 [shen1 du4_you2] /in-depth tour/tour, in-depth/
 身份驗證 身份验证 [shen1 fen5_yan4 zheng4] /verification on QQ (lit. "identity check")/
 深厚的感情 深厚的感情 [shen1 hou4_de5_gan3 qing2] /affection/
 深懷 深怀 [shen1 huai2] /deeply cherish (the following feeling)/cherish, deeply (the following feeling)/
@@ -18925,6 +18941,7 @@
 實驗物理學家 实验物理学家 [shi2 yan4_wu4 li3 xue2 jia1] /experimental physicist/physicist, experimental/
 什一奉獻 什一奉献 [shi2 yi1_feng4 xian4] /tithe/tithing/
 十一二 十一二 [shi2 yi1 er4] /eleven or twelve/twelve, eleven or/
+時移勢易 时移势易 [shi2 yi2 shi4 yi4] /time can change things/how time has changed/change things, time can/changed, how time has/
 實用的技能 实用的技能 [shi2 yong4_de5_ji4 neng2] /practical skills/skills, practical/
 實用的建議 实用的建议 [shi2 yong4_de5_jian4 yi4] /practical suggestions/suggestions, practical/
 實用價值 实用价值 [shi2 yong4_jia4 zhi2] /practical value/value, practical/
@@ -19018,6 +19035,7 @@
 手機號碼 手机号码 [shou3 ji1_hao4 ma3] /mobile phone number/phone number, mobile/
 手機鈴聲 手机铃声 [shou3 ji1_ling2 sheng1] /ringtone (for a mobile phone)/
 手機版 手机版 [shou3 ji1 ban3] /mobile edition (of a website, Cantonese version)/edition, mobile (of a website, Cantonese version)/
+手機卡 手机卡 [shou3 ji1 ka3] /SIM card/card, SIM/
 手潔 手洁 [shou3 jie2] /clean hands (righteous)/hands, clean (righteous)/
 手潔心清 手洁心清 [shou3 jie2 xin1 qing1] /innocent in his hands and clean in heart/hands and clean in heart, innocent in his/
 手镜 手鏡 [shou3 jing4] /hand mirror/mirror, hand/
@@ -21206,7 +21224,7 @@
 最後期限 最后期限 [zui4 hou4_qi1 xian4] /deadline/
 最后一頁 最后一页 [zui4 hou4_yi1_ye4] /last page/back page/page, last/
 最后遺囑 最后遗嘱 [zui4 hou4_yi2 zhu3] /last will and testament/testament, last will and/
-罪咎感 罪咎感 [zui4 jiu4 gan3] /the feeling of being at fault/feeling of some guilt/feeling of being at fault, the/some guilt, feeling of/
+罪咎感 罪咎感 [zui4 jiu4 gan3] /the feeling of being at fault/feeling of some guilt/guilt trip/feeling of being at fault, the/some guilt, feeling of/trip, guilt/
 罪疚感 罪疚感 [zui4 jiu4 gan3] /guilt feelings/feelings, guilt/
 罪無可恕 罪无可恕 [zui4 wu2 ke3 shu4] /guilty beyond mercy/beyond mercy, guilty/
 罪行和刑罰 罪行和刑罚 [zui4 xing2_he2_xing2 fa2] /crime and punishment/punishment, crime and/
