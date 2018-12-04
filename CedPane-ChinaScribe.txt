@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-12-03
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-12-04
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -5478,6 +5478,7 @@
 建陽市 建阳市 [Jian4 yang2_Shi4] /Jianyang (city, in Fujian)/
 建窯 建窑 [Jian4 yao2] /Jian ware (pottery type)/ware, Jian (pottery type)/
 諫義里 谏义里 [Jian4 yi4 li3] /Kediri/
+見證報 见证报 [Jian4 zheng4 bao4] /Witness (in newspaper names)/
 姜鵬 姜鹏 [Jiang1_Peng2] /Peng Jiang (researcher)/Jiang, Peng (researcher)/
 江安縣 江安县 [Jiang1 an1_Xian4] /Jiang'an (county, in Sichuan)/
 江城縣 江城县 [Jiang1 cheng2_Xian4] /Jiangcheng (county, in Yunnan)/
@@ -6751,6 +6752,8 @@
 賴因米勒 赖因米勒 [Lai4 yin1 mi3 le4] /Reinmueller/
 鑭系元素 镧系元素 [Lan2 xi4_yuan2 su4] /Lanthanide series (on the periodic table)/series, Lanthanide (on the periodic table)/
 蘭保 兰保 [Lan2 bao3] /Rambo (name)/
+藍寶堅尼 蓝宝坚尼 [Lan2 bao3 jian1 ni2] /Lamborghini/
+蘭博基尼 兰博基尼 [Lan2 bo2 ji1 ni2] /Lamborghini/
 蘭伯特 兰伯特 [Lan2 bo2 te4] /Lambert/
 蘭布魯斯 兰布鲁斯 [Lan2 bu4 lu3 si1] /Lambrusco/
 瀾滄縣 澜沧县 [Lan2 cang1_Xian4] /Lancang (county, in Yunnan)/
@@ -7209,6 +7212,7 @@
 林恩 林恩 [Lin2 en1] /Lynn/
 琳恩 琳恩 [Lin2 en1] /Lynn/
 林白 林白 [Lin2 bai2] /Lambeth/Lindbergh/
+林寶堅尼 林宝坚尼 [Lin2 bao3 jian1 ni2] /Lamborghini (alternate translation)/
 林波波省 林波波省 [Lin2 bo1 bo1_sheng3] /Limpopo Province/Province, Limpopo/
 臨滄 临沧 [Lin2 cang1] /Lincang (in Yunnan)/
 臨滄市 临沧市 [Lin2 cang1_Shi4] /Lincang (in Yunnan)/
@@ -9600,6 +9604,7 @@
 平遙縣 平遥县 [Ping2 yao2_Xian4] /Pingyao (county, in Shanxi)/
 平輿縣 平舆县 [Ping2 yu2_Xian4] /Pingyu (county, in Henan)/
 平遠縣 平远县 [Ping2 yuan3_Xian4] /Pingyuan (county, in Guangdong)/
+坡幣 坡币 [Po1 bi4] /Singapore dollar (old version?)/dollar, Singapore (old version?)/
 鄱陽縣 鄱阳县 [Po2 yang2_Xian4] /Poyang (county, in Jiangxi)/
 珀爾 珀尔 [Po4 er3] /Pearl (name)/
 珀杜大學 珀杜大学 [Po4 du4_da4 xue2] /Purdue (university)/
@@ -11283,6 +11288,7 @@
 塔伊納 塔伊纳 [Ta3 yi1 na4] /Taina/
 踏莎行 踏莎行 [Ta4_Suo1_Xing2] /Stepping on sedge (poem)/sedge, Stepping on (poem)/
 台州市 台州市 [Tai1 zhou1_Shi4] /Taizhou (in Zhejiang)/
+台譯 台译 [Tai2_yi4] /Taiwanese translation/translation, Taiwanese/
 台伯河 台伯河 [Tai2 bo2 he2] /Tiber (river)/
 台東 台东 [Tai2 dong1] /Taitung (county in Taiwan)/
 台江縣 台江县 [Tai2 jiang1_Xian4] /Taijiang (county, in Guizhou)/
@@ -12736,6 +12742,7 @@
 香格里拉市 香格里拉市 [Xiang1 ge2 li3 la1_Shi4] /Shangri-La (in Yunnan)/
 香河縣 香河县 [Xiang1 he2_Xian4] /Xianghe (county, in Hebei)/
 鑲黃旗 镶黄旗 [Xiang1 huang2_Qi2] /Xianghuang (banner, in Inner Mongolia)/
+香奈兒 香奈儿 [Xiang1 nai4 er2] /Chanelle/
 鄉寧縣 乡宁县 [Xiang1 ning2_Xian4] /Xiangning (county, in Shanxi)/
 香農 香农 [Xiang1 nong2] /Shannon/
 湘潭 湘潭 [Xiang1 tan2] /Xiangtan (in Hunan)/
@@ -12827,6 +12834,7 @@
 新堡市 新堡市 [Xin1 bao3_Shi4] /Newcastle/
 新北市 新北市 [Xin1 bei3_Shi4] /New Taipei City/Taipei City, New/
 新貝德福德 新贝德福德 [Xin1 bei4 de2 fu2 de2] /New Bedford/Bedford, New/
+新幣 新币 [Xin1 bi4] /Singapore dollar (abbreviation)/SGD/dollar SGD, Singapore/
 新編沙夫與赫爾措格宗教知識百科全書 新编沙夫与赫尔措格宗教知识百科全书 [Xin1 bian1_Sha1 fu1_Yu3_He4 er3 cuo4 ge2_Zong1 jiao4_Zhi1 shi5_Bai3 ke1 quan2 shu1] /The New Schaff-Herzog Encyclopedia of Religious Knowledge/Schaff-Herzog Encyclopedia of Religious Knowledge, The New/
 新賓縣 新宾县 [Xin1 bin1_Xian4] /Xinbin (county, in Liaoning)/
 新不倫瑞克 新不伦瑞克 [Xin1 bu4 lun2 rui4 ke4] /New Brunswick/Brunswick, New/
@@ -12854,6 +12862,7 @@
 新加利多尼亞 新加利多尼亚 [Xin1 jia1 li4 duo1 ni2 ya4] /New Caledonian/Caledonian, New/
 新加坡華樂團 新加坡华乐团 [Xin1 jia1 po1_Hua2_Yue4 tuan2] /Singapore Chinese Orchestra/Chinese Orchestra, Singapore/
 新加坡樟宜女子監獄 新加坡樟宜女子监狱 [Xin1 jia1 po1_Zhang1 yi2_Nu:3 zi3_Jian1 yu4] /Singapore's Changi Women's Prison/Changi Women's Prison, Singapore's/
+新加坡元 新加坡元 [Xin1 jia1 po1_yuan2] /Singapore dollar/dollar, Singapore/
 新江 新江 [Xin1 jiang1] /Xinjiang (unofficial alternative form)/
 新絳縣 新绛县 [Xin1 jiang4_Xian4] /Xinjiang (county, in Shanxi)/
 新津縣 新津县 [Xin1 jin1_Xian4] /Xinjin (county, in Sichuan)/
@@ -12900,6 +12909,7 @@
 新沂市 新沂市 [Xin1 yi2_Shi4] /Xinyi (in Jiangsu)/
 新余 新余 [Xin1 yu2] /Xinyu (in Jiangxi)/
 新余市 新余市 [Xin1 yu2_Shi4] /Xinyu (in Jiangxi)/
+新元 新元 [Xin1 yuan2] /Singapore dollar/dollar, Singapore/
 新源縣 新源县 [Xin1 yuan2_Xian4] /Xinyuan (county, in Xinjiang)/
 新約聖經 新约圣经 [Xin1 yue1_Sheng4 jing1] /New Testament (when used in some printings)/Testament, New (when used in some printings)/
 新約英希文本考證詞典及詞語索引 新约英希文本考证词典及词语索引 [Xin1 yue1_Ying1 Xi1_Wen2 ben3_Kao3 zheng4_Ci2 dian3_Ji2_Ci2 yu3_Suo3 yin3] /A Critical Lexicon and Concordance to the English and Greek New Testament/Critical Lexicon and Concordance to the English and Greek New Testament, A/
@@ -12915,10 +12925,12 @@
 信宜 信宜 [Xin4 yi2] /Xinyi (in Guangdong)/
 信宜市 信宜市 [Xin4 yi2_Shi4] /Xinyi (in Guangdong)/
 星巴克 星巴克 [Xing1 ba1 ke4] /Starbucks/
+星幣 星币 [Xing1 bi4] /Singapore dollar/dollar, Singapore/
 星海音樂學院 星海音乐学院 [Xing1 hai3_Yin1 yue4_Xue2 yuan4] /Xinghai Conservatory of Music (in Guangzhou)/Conservatory of Music, Xinghai (in Guangzhou)/
 星記 星记 [Xing1 ji4] /Sainsbury's (Cantonese?)/
 星空奇遇記 星空奇遇记 [Xing1 kong1_Qi2 yu4 ji4] /Star Trek/Trek, Star/
 興隆台區 兴隆台区 [Xing1 long2 tai2_Qu1] /Xinglongtai (district, in Liaoning)/
+星元 星元 [Xing1 yuan2] /Singapore dollar/dollar, Singapore/
 滎經縣 荥经县 [Xing2 jing1_Xian4] /Xingjing (county, in Sichuan)/
 刑事偵查局 刑事侦查局 [Xing2 shi4_Zhen1 cha2 ju2] /Criminal Investigation Department/Investigation Department, Criminal/
 邢台 邢台 [Xing2 tai2] /Xingtai (in Hebei)/
@@ -14148,6 +14160,7 @@
 尤利塞斯 尤利塞斯 [You2 li4 sai4 si1] /Ulysses/
 尤利烏斯 尤利乌斯 [You2 li4 wu1 si1] /Julius/
 尤利婭 尤利娅 [You2 li4 ya4] /Yulia/
+尤麗葉 尤丽叶 [You2 li4 ye4] /Julie/
 猶流 犹流 [You2 liu2] /Julius/
 尤妮克 尤妮克 [You2 ni1 ke4] /Eunike/
 尤妮斯 尤妮斯 [You2 ni1 si1] /Eunice (modern)/
@@ -14876,6 +14889,7 @@
 悲悲哀哀 悲悲哀哀 [bei1 bei1 ai1 ai5] /extremely grieved/grieved, extremely/
 悲悲慘慘 悲悲惨惨 [bei1 bei1 can3 can3] /grieviously/
 卑鄙行徑 卑鄙行径 [bei1 bi3_xing2 jing4] /mean actions/actions, mean/
+悲催 悲催 [bei1 cui1] /tragic/
 悲劇發生 悲剧发生 [bei1 ju4_fa1 sheng1] /tragedy (tragic happening)/
 鵯鳥 鹎鸟 [bei1 niao3] /bulbul (bird)/
 杯盤 杯盘 [bei1 pan2] /cup and dish/dish, cup and/
@@ -16003,6 +16017,7 @@
 對抗式 对抗式 [dui4 kang4 shi4] /confrontational (of method etc)/
 對望 对望 [dui4 wang4] /looking at one another/another, looking at one/
 對摺 对摺 [dui4 zhe2] /fold in half/half, fold in/
+頓頓 顿顿 [dun4 dun4] /every meal/meal, every/
 鈍葉酸模 钝叶酸模 [dun4 ye4 suan1 mo2] /dock leaf/rumex obtusifolius/leaf, dock/obtusifolius, rumex/
 多被稱為 多被称为 [duo1_bei4_cheng1 wei2] /most often called/often called, most/
 多層停車場 多层停车场 [duo1_ceng2_ting2 che1 chang3] /multilevel parking garage/multistorey car park/parking garage, multilevel/park, multistorey car/
@@ -16760,6 +16775,7 @@
 護城 护城 [hu4 cheng2] /protect the city/city, protect the/
 護唇膏 护唇膏 [hu4 chun2 gao1] /lip salve/salve, lip/
 互動式 互动式 [hu4 dong4 shi4] /interactive (technology etc)/
+護膚品 护肤品 [hu4 fu1 pin3] /skin lotion/lotion, skin/
 護教 护教 [hu4 jiao4] /defend a religion/religion, defend a/
 護教士 护教士 [hu4 jiao4 shi4] /apologist (for a religion)/
 互敬互愛 互敬互爱 [hu4 jing4 hu4 ai4] /mutual love and respect/love and respect, mutual/
@@ -16907,6 +16923,7 @@
 激動不安 激动不安 [ji1 dong4 bu4 an1] /be agitated/agitated, be/
 激發思考 激发思考 [ji1 fa1_si1 kao3] /stimulate the thinking faculties/thinking faculties, stimulate the/
 几乎天天 几乎天天 [ji1 hu1_tian1 tian1] /almost every day/most days/every day, almost/days, most/
+几乎為零 几乎为零 [ji1 hu1_wei2_ling2] /almost zero/zero, almost/
 機會率 机会率 [ji1 hui4 lu:4] /odds/probability/chance/
 機會主義者 机会主义者 [ji1 hui4 zhu3 yi4 zhe3] /opportunist/
 激進主義 激进主义 [ji1 jin4 zhu3 yi4] /radicalism (students etc)/
@@ -17275,7 +17292,9 @@
 荊棘叢 荆棘丛 [jing1 ji2 cong2] /thornbush (lit. bramble crowd)/
 經濟獨立 经济独立 [jing1 ji4_du2 li4] /financially independent/financial independence/independent, financially/independence, financial/
 經濟難民 经济难民 [jing1 ji4_nan4 min2] /economic migrants (lit. refugees)/migrants, economic (lit. refugees)/
+經濟實力 经济实力 [jing1 ji4_shi2 li4] /economic prosperity/prosperity, economic/
 經濟支持 经济支持 [jing1 ji4_zhi1 chi2] /material support/support, material/
+經濟狀況 经济状况 [jing1 ji4_zhuang4 kuang4] /economic situation/situation, economic/
 精簡扼要 精简扼要 [jing1 jian3_e4 yao4] /concise/
 精潔 精洁 [jing1 jie2] /perfectly pure?/pure?, perfectly/
 精明能幹 精明能干 [jing1 ming2 neng2 gan4] /capable (person)/
@@ -18855,6 +18874,7 @@
 生物燃油 生物燃油 [sheng1 wu4_ran2 you2] /biofuel/
 生物世界 生物世界 [sheng1 wu4_shi4 jie4] /the world of biology/world of biology, the/
 生物同祖 生物同祖 [sheng1 wu4_tong2_zu3] /common descent (biology theory)/descent, common (biology theory)/
+生物群 生物群 [sheng1 wu4 qun2] /colony (biological)/
 升學方案 升学方案 [sheng1 xue2_fang1 an4] /supplementary or postsecondary education option/postsecondary education option, supplementary or/
 生育能力 生育能力 [sheng1 yu4_neng2 li4] /reproductive powers/powers, reproductive/
 生長茂盛 生长茂盛 [sheng1 zhang3_mao4 sheng4] /thrive/grow luxuriantly/
@@ -19114,6 +19134,7 @@
 數之不盡 数之不尽 [shu4 zhi1 bu4 jin4] /endless in number/number, endless in/
 數字命理學 数字命理学 [shu4 zi4 ming4 li3 xue2] /numerology/
 數字化基礎 数字化基础 [shu4 zi4 hua4_ji1 chu3] /digital foundation (IT infrastructure of organisation)/foundation, digital (IT infrastructure of organisation)/
+刷爆 刷爆 [shua1 bao4] /max out (credit)/
 刷冰 刷冰 [shua1 bing1] /shaved ice (Taiwan Hakka pronunciation)/
 刷上 刷上 [shua1 shang5] /to plaster/brush on (some whitewash etc)/plaster, to (some whitewash etc)/
 摔不壞 摔不坏 [shuai1 bu2 huai4] /"drop not break", something that is robust and resistant to damage from dropping etc/break", something that is robust and resistant to damage from dropping etc, "drop not/
@@ -20447,6 +20468,7 @@
 音楽 音楽 [yin1 yue4] /music (Japanese version)/
 音樂短片 音乐短片 [yin1 yue4_duan3 pian4] /music videos/videos, music/
 音樂天分 音乐天分 [yin1 yue4_tian1 fen4] /musical talent/talent, musical/
+烎 烎 [yin2] /make every effort (to do sthg)/every effort, make (to do sthg)/
 銀釘 银钉 [yin2 ding1] /studs of silver/silver, studs of/
 銀行倒閉 银行倒闭 [yin2 hang2_dao3 bi4] /bank failure/failure, bank/
 銀行賬戶 银行账户 [yin2 hang2_zhang4 hu4] /bank account(s)/account(s), bank/
@@ -20679,6 +20701,7 @@
 月食 月食 [yue4 shi2] /eclipse of the moon/moon, eclipse of the/
 月數 月数 [yue4 shu4] /number of the lunar months/count (lunar) months/lunar months, number of the/months, count/
 月台 月台 [yue4 tai2] /railway platform/platform, railway/
+月月 月月 [yue4 yue4] /monthly/
 云通訊錄 云通讯录 [yun2_tong1 xun4 lu4] /cloud address book (service)/address book, cloud (service)/
 云柱 云柱 [yun2 zhu4] /pillar of cloud/cloud, pillar of/
 運動明星 运动明星 [yun4 dong4_ming2 xing1] /sports hero/hero, sports/
