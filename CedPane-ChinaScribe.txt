@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-12-05
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-12-07
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -106,6 +106,7 @@
 阿道夫 阿道夫 [A1 dao4 fu1] /Adolf (Hitler's given name)/
 阿德爾 阿德尔 [A1 de2 er3] /Adel/
 阿德爾伯托 阿德尔伯托 [A1 de2 er3 bo2 tuo1] /Adalberto/
+阿德拉姆文 阿德拉姆文 [A1 de2 la1 mu3 wen2] /Adlam (written language)/
 阿德萊德 阿德莱德 [A1 de2 lai2 de2] /Adelaide (Australia)/
 阿德勒 阿德勒 [A1 de2 le4] /Adler/
 阿德雷德 阿德雷德 [A1 de2 lei2 de2] /Adelaide (Australia) (older version)/
@@ -205,6 +206,7 @@
 阿拉米 阿拉米 [A1 la1 mi3] /Aram/
 阿拉米納哈連 阿拉米纳哈连 [A1 la1 mi3 na4 ha1 lian2] /Aram-naharaim/
 阿拉米瑣巴 阿拉米琐巴 [A1 la1 mi3 suo3 ba1] /Aram-Zobah/
+阿拉米文 阿拉米文 [A1 la1 mi3 wen2] /Mandaean (written language)/
 阿拉米語 阿拉米语 [A1 la1 mi3 yu3] /Aramaic language/language, Aramaic/
 阿拉姆 阿拉姆 [A1 la1 mu3] /Aram/
 阿拉木圖 阿拉木图 [A1 la1 mu4 tu2] /Almaty/
@@ -280,6 +282,7 @@
 阿倫森 阿伦森 [A1 lun2 sen1] /Aronson/
 阿倫特 阿伦特 [A1 lun2 te4] /Arendt/
 阿羅爾德 阿罗尔德 [A1 luo2 er3 de2] /Arrold/
+阿羅馬尼亞語 阿罗马尼亚语 [A1 luo2 ma3 ni2 ya4 yu3] /Aromanian (language)/
 阿羅約 阿罗约 [A1 luo2 yue1] /Arroyo/
 阿洛群島 阿洛群岛 [A1 luo4_qun2 dao3] /Alor (archipelago)/
 阿洛伊斯 阿洛伊斯 [A1 luo4 yi1 si1] /Alois/
@@ -420,6 +423,7 @@
 阿韋利諾 阿韦利诺 [A1 wei2 li4 nuo4] /Avelino/
 阿維斯塔 阿维斯塔 [A1 wei2 si1 ta3] /Avesta/
 阿維斯塔語 阿维斯塔语 [A1 wei2 si1 ta3 yu3] /Avestan (language)/
+阿維斯陀文 阿维斯陀文 [A1 wei2 si1 tuo2 wen2] /Avestan (written language)/
 阿西莫夫 阿西莫夫 [A1 xi1 mo4 fu1] /Asimov/
 阿西西 阿西西 [A1 xi1 xi1] /Assisi/
 阿謝德 阿谢德 [A1 xie4 de2] /Adshead/
@@ -520,6 +524,7 @@
 埃藍 埃蓝 [Ai1 lan2] /Alain/
 埃蘭人 埃兰人 [Ai1 lan2 ren2] /Elamites/
 埃蘭王 埃兰王 [Ai1 lan2 wang2] /king of Elam/Elam, king of/
+埃蘭語 埃兰语 [Ai1 lan2 yu3] /Elamite (language)/
 埃蘭茲方丹 埃兰兹方丹 [Ai1 lan2 zi1 fang1 dan1] /Elandsfontein/
 埃雷拉 埃雷拉 [Ai1 lei2 la1] /Herrera/
 埃雷特里亞 埃雷特里亚 [Ai1 lei2 te4 li3 ya4] /Eretria/
@@ -577,6 +582,7 @@
 埃奇韋爾 埃奇韦尔 [Ai1 qi2 wei2 er3] /Edgware/
 埃薩 埃萨 [Ai1 sa4] /Esa/
 埃塞俄比亞人 埃塞俄比亚人 [Ai1 sai4 e2 bi3 ya4 ren2] /Ethiopian(s)/
+埃塞俄比亞文 埃塞俄比亚文 [Ai1 sai4 e2 bi3 ya4 wen2] /Ethiopic (written language)/
 埃塞爾伯特 埃塞尔伯特 [Ai1 sai4 er3 bo2 te4] /Ethelbert/
 埃塞克斯 埃塞克斯 [Ai1 sai4 ke4 si1] /Essex/
 埃塞克斯郡 埃塞克斯郡 [Ai1 sai4 ke4 si1 jun4] /Essex/
@@ -636,6 +642,7 @@
 艾恩德霍芬 艾恩德霍芬 [Ai4 en1 de2 huo4 fen1] /Eindhoven/
 艾恩德霍芬市 艾恩德霍芬市 [Ai4 en1 de2 huo4 fen1_Shi4] /Eindhoven (city)/
 艾恩斯 艾恩斯 [Ai4 en1 si1] /Irons (name)/
+愛爾巴桑文 爱尔巴桑文 [Ai4 er3 ba1 sang1 wen2] /Elbasan (written language)/
 艾爾伯特 艾尔伯特 [Ai4 er3 bo2 te4] /Albert/
 艾爾弗雷德 艾尔弗雷德 [Ai4 er3 fu2 lei2 de2] /Alfred/
 艾爾珂 艾尔珂 [Ai4 er3 ke1] /Elke/
@@ -682,6 +689,7 @@
 艾哈邁達巴德 艾哈迈达巴德 [Ai4 ha1 mai4 da2 ba1 de2] /Ahmadabad/
 艾哈邁德 艾哈迈德 [Ai4 ha1 mai4 de2] /Ahmed/
 艾哈邁托夫 艾哈迈托夫 [Ai4 ha1 mai4 tuo1 fu1] /Akhmedov/
+艾卡朱克語 艾卡朱克语 [Ai4 ka3 zhu1 ke4 yu3] /Ekajuk (language)/
 艾康 艾康 [Ai4 kang1] /Ecône/
 艾克 艾克 [Ai4 ke4] /Ike/
 艾克楚古 艾克楚古 [Ai4 ke4 chu3 gu3] /Ikechukwu/
@@ -999,6 +1007,7 @@
 奧荷拉 奥荷拉 [Ao4 he2 la1] /Oholah/
 奧何利亞伯 奥何利亚伯 [Ao4 he2 li4 ya4 bo2] /Oholiab/
 奧赫 奥赫 [Ao4 he4] /Ohel/
+奧吉布瓦語 奥吉布瓦语 [Ao4 ji2 bu4 wa3 yu3] /Ojibwa (language)/
 奧卡姆 奥卡姆 [Ao4 ka3 mu3] /Occam/
 奧凱恩 奥凯恩 [Ao4 kai3 en1] /O'Kane/
 奧坎波街 奥坎波街 [Ao4 kan3 bo1 jie1] /Ocampo/
@@ -1014,6 +1023,7 @@
 奧克塔薇雅 奥克塔薇雅 [Ao4 ke4 ta3 wei1 ya3] /Octavia/
 奧克塔維奧 奥克塔维奥 [Ao4 ke4 ta3 wei2 ao4] /Octavio/
 奧克西坦 奥克西坦 [Ao4 ke4 xi1 tan3] /Occitan/
+奧克語 奥克语 [Ao4 ke4 yu3] /Occitan (language)/
 奧拉 奥拉 [Ao4 la1] /Ora/
 奧拉夫 奥拉夫 [Ao4 la1 fu1] /Olaf/
 奧拉夫 奥拉夫 [Ao4 la1 fu1] /Olaf/
@@ -1030,6 +1040,8 @@
 奧里利奧 奥里利奥 [Ao4 li3 li4 ao4] /Aurelio/
 奧里莉亞 奥里莉亚 [Ao4 li3 li4 ya4] /Aurelia/
 奧里諾科河 奥里诺科河 [Ao4 li3 nuo4 ke1 he2] /Orinoco (river)/
+奧里亞文 奥里亚文 [Ao4 li3 ya4 wen2] /Odia (written language)/
+奧里亞語 奥里亚语 [Ao4 li3 ya4 yu3] /Odia (language)/
 奧利 奥利 [Ao4 li4] /Olih/
 奧利佛 奥利佛 [Ao4 li4 fo2] /Oliver/
 奧利弗 奥利弗 [Ao4 li4 fu2] /Oliver/
@@ -1059,6 +1071,7 @@
 奧倫 奥伦 [Ao4 lun2] /Orin/
 奧倫堡 奥伦堡 [Ao4 lun2 bao3] /Orenburg/
 奧蘿拉 奥萝拉 [Ao4 luo2 la1] /Aurora (name)/
+奧羅莫語 奥罗莫语 [Ao4 luo2 mo4 yu3] /Oromo (language)/
 奧羅斯科 奥罗斯科 [Ao4 luo2 si1 ke1] /Orosco/
 奧洛夫 奥洛夫 [Ao4 luo4 fu1] /Olof/
 奧洛莫語 奥洛莫语 [Ao4 luo4 mo4 yu3] /Oromo (language)/
@@ -1094,6 +1107,7 @@
 奧斯陸 奥斯陆 [Ao4 si1 lu4] /Oslo/
 奧斯曼 奥斯曼 [Ao4 si1 man4] /Ottoman/
 奧斯曼 奧斯曼 [Ao4 si1 man4] /Osman/
+奧斯曼亞文 奥斯曼亚文 [Ao4 si1 man4 ya4 wen2] /Osmanya (written language)/
 奧斯尼 奥斯尼 [Ao4 si1 ni2] /Ozni/
 奧斯坦德 奥斯坦德 [Ao4 si1 tan3 de2] /Ostend/
 奧斯特霍爾姆 奥斯特霍尔姆 [Ao4 si1 te4 huo4 er3 mu3] /Osterholm/
@@ -1250,6 +1264,7 @@
 巴雷托 巴雷托 [Ba1 lei2 tuo1] /Barreto/
 巴黎國立高等音樂舞蹈學院 巴黎国立高等音乐舞蹈学院 [Ba1 li2_Guo2 li4_Gao1 deng3_Yin1 yue4_Wu3 dao3_Xue2 yuan4] /Paris Conservatory/Conservatory, Paris/
 巴釐巴板 巴厘巴板 [Ba1 li2 ba1 ban3] /Balikpapan/
+巴釐文 巴厘文 [Ba1 li2 wen2] /Balinese (written language)/
 巴釐語 巴厘语 [Ba1 li2 yu3] /Balinese (language)/
 巴里坤縣 巴里坤县 [Ba1 li3 kun1_Xian4] /Barköl (Kazakh county, in Xinjiang)/
 巴里語 巴里语 [Ba1 li3 yu3] /Bari (language)/
@@ -1266,6 +1281,7 @@
 巴力夏瑣 巴力夏琐 [Ba1 li4 xia4 suo3] /Baal-hazor/
 巴利亞 巴利亚 [Ba1 li4 ya4] /Bariah/
 巴利亞利 巴利亚利 [Ba1 li4 ya4 li4] /Balearic/
+巴利語 巴利语 [Ba1 li4 yu3] /Pali (language)/
 巴列 巴列 [Ba1 lie4] /Bered/
 巴烈 巴烈 [Ba1 lie4] /Baalah/
 巴列斯特羅斯 巴列斯特罗斯 [Ba1 lie4 si1 te4 luo2 si1] /Ballesteros/
@@ -1304,6 +1320,7 @@
 巴丘德約 巴丘德约 [Ba1 qiu1 de2 yao1] /Bacudio (pinyin uncertain)/
 巴撒巴 巴撒巴 [Ba1 sa1 ba1] /Barsabbas/
 巴薩 巴萨 [Ba1 sa4] /Pasach/
+巴薩文 巴萨文 [Ba1 sa4 wen2] /Bassa Vah (written language)/
 巴塞羅那 巴塞罗那 [Ba1 se4 luo2 na4] /Barcelona/
 巴沙 巴沙 [Ba1 sha1] /Baasha/
 巴珊 巴珊 [Ba1 shan1] /Bashan/
@@ -1322,6 +1339,7 @@
 巴斯 巴斯 [Ba1 si1] /baz/Bath/
 巴斯市 巴斯市 [Ba1 si1_Shi4] /Bath (city)/
 巴斯海峽 巴斯海峡 [Ba1 si1_hai3 xia2] /Bass Strait/Strait, Bass/
+八思巴文 八思巴文 [Ba1 si1 ba1 wen2] /Phags-pa (written language)/
 巴斯德 巴斯德 [Ba1 si1 de2] /Pasteur/
 巴斯蒂德 巴斯蒂德 [Ba1 si1 di4 de2] /Bastide/
 巴斯加 巴斯加 [Ba1 si1 jia1] /Blaise/
@@ -1335,6 +1353,7 @@
 巴索夫 巴索夫 [Ba1 suo3 fu1] /Basov/
 巴塔德 巴塔德 [Ba1 ta3 de2] /Batad/
 巴塔克人 巴塔克人 [Ba1 ta3 ke4 ren2] /Batak (person)/
+巴塔克文 巴塔克文 [Ba1 ta3 ke4 wen2] /Batak (written language)/
 巴塔克語 巴塔克语 [Ba1 ta3 ke4 yu3] /Batak (language)/
 巴塘縣 巴塘县 [Ba1 tang2_Xian4] /Batang (county, in Sichuan)/
 巴特爾 巴特尔 [Ba1 te4 er3] /Bartle/
@@ -2111,6 +2130,7 @@
 布基 布基 [Bu4 ji1] /Bukki/
 布基納法索 布基纳法索 [Bu4 ji1 na4_Fa3 suo3] /Burkina Faso/Faso, Burkina/
 布吉納法索 布吉纳法索 [Bu4 ji2 na4_Fa3 suo3] /Burkina Faso/Faso, Burkina/
+布吉文 布吉文 [Bu4 ji2 wen2] /Buginese (written language)/
 布加勒斯特 布加勒斯特 [Bu4 jia1 le4 si1 te4] /Bucharest/
 布卡爾 布卡尔 [Bu4 ka3 er3] /Bukar/
 布卡武 布卡武 [Bu4 ka3 wu3] /Bukavu/
@@ -2276,6 +2296,7 @@
 布田 布田 [Bu4 tian2] /Pudens/
 布拖縣 布拖县 [Bu4 tuo1_Xian4] /Butuo (county, in Sichuan)/
 布西 布西 [Bu4 xi1] /Buzi/
+布希德文 布希德文 [Bu4 xi1 de2 wen2] /Buhid (written language)/
 布西科 布西科 [Bu4 xi1 ke1] /Boucicaut/
 布須曼族 布须曼族 [Bu4 xu1 man4 zu2] /Bushmen/
 布宜諾斯艾利斯 布宜诺斯艾利斯 [Bu4 yi2 nuo4 si1_Ai4 li4 si1] /Buenos Aires/Aires, Buenos/
@@ -2315,6 +2336,7 @@
 察合台語 察合台语 [Cha2 he2 tai2 yu3] /Chagatai (language)/
 查卡 查卡 [Cha2 ka3] /Chaka/
 查科 查科 [Cha2 ke1] /Chaco/
+查克馬文 查克马文 [Cha2 ke4 ma3 wen2] /Chakma (written language)/
 查理 查理 [Cha2 li3] /Charles (king)/
 查理曼 查理曼 [Cha2 li3 man4] /Charlemagne/
 查理斯 查理斯 [Cha2 li3 si1] /Charles/
@@ -2465,6 +2487,7 @@
 慈溪 慈溪 [Ci2 xi1] /Cixi (in Zhejiang)/
 慈溪市 慈溪市 [Ci2 xi1_Shi4] /Cixi (in Zhejiang)/
 匆匆那年 匆匆那年 [Cong1 cong1_Na4_Nian2] /Fleet of Time (lit. hurriedly that year, 2014 film)/Time, Fleet of (lit. hurriedly that year, 2014 film)/
+聰加語 聪加语 [Cong1 jia1 yu3] /Tsonga (language)/
 樅陽縣 枞阳县 [Cong1 yang2_Xian4] /Congyang (county, in Anhui)/
 從地球到月球 从地球到月球 [Cong2_Di4 qiu2_Dao4_Yue4 qiu2] /From the Earth to the Moon (Verne book)/Earth to the Moon, From the (Verne book)/
 從化區 从化区 [Cong2 hua4_Qu1] /Conghua (district, in Guangdong)/
@@ -2484,6 +2507,7 @@
 韃靼人 鞑靼人 [Da2 da2 ren2] /Tatars (people)/
 韃靼斯坦 鞑靼斯坦 [Da2 da2 si1 tan3] /Tatarstan/
 韃靼斯坦共和國 鞑靼斯坦共和国 [Da2 da2 si1 tan3_Gong4 he2 guo2] /Republic of Tatarstan/Tatarstan, Republic of/
+韃靼語 鞑靼语 [Da2 da2 yu3] /Tatar (language)/
 達大 达大 [Da2 da4] /Darda/
 韃旦 鞑旦 [Da2 dan4] /Tatarstan/
 達德利 达德利 [Da2 de2 li4] /Dudley/
@@ -2731,6 +2755,7 @@
 德布勒森 德布勒森 [De2 bu4 le4 sen1] /Debrecen/
 德昌縣 德昌县 [De2 chang1_Xian4] /Dechang (county, in Sichuan)/
 徳島 徳岛 [De2 dao3] /Tokushima/
+德頓語 德顿语 [De2 dun4 yu3] /Tetum (language)/
 德弗 德弗 [De2 fu2] /Dever (pinyin uncertain)/
 德格縣 德格县 [De2 ge2_Xian4] /Dege (county, in Sichuan)/
 德古拉 德古拉 [De2 gu3 la1] /Dracula/
@@ -2810,6 +2835,7 @@
 得撒洛尼后書 得撒洛尼后书 [De2 sa1 luo4 ni2_Hou4 shu1] /2 Thessalonians (book, Catholic version)/Thessalonians, 2 (book, Catholic version)/
 得撒洛尼前書 得撒洛尼前书 [De2 sa1 luo4 ni2_Qian2 shu1] /1 Thessalonians (book, Catholic version)/Thessalonians, 1 (book, Catholic version)/
 得撒王 得撒王 [De2 sa1 wang2] /king of Tirzah/Tirzah, king of/
+德塞萊特文 德塞莱特文 [De2 sai1 lai2 te4 wen2] /Deseret (written language)/
 德賽 德赛 [De2 sai4] /Desai/
 德斯蒙德 德斯蒙德 [De2 si1 meng2 de2] /Desmond/
 德蘇扎 德苏扎 [De2 su1 zha1] /D’Souza/
@@ -2907,6 +2933,7 @@
 迪亞斯 迪亚斯 [Di2 ya4 si1] /Dias/
 迪亞茲 迪亚兹 [Di2 ya4 zi1] /Diaz/
 迪尤爾 迪尤尔 [Di2 you2 er3] /Dewar/
+迪尤拉語 迪尤拉语 [Di2 you2 la1 yu3] /Dyula (language)/
 底本迦得 底本迦得 [Di3 ben3 jia1 de2] /Dibon/
 底本迦得 底本迦得 [Di3 ben3 jia1 de2] /Dibon-gad/
 底比斯 底比斯 [Di3 bi3 si1] /Thebes/
@@ -3246,12 +3273,14 @@
 恩多拉 恩多拉 [En1 duo1 la1] /Ndola/
 恩蓋迪 恩盖迪 [En1 gai4 di2] /En-gedi/
 恩蓋桑 恩盖桑 [En1 gai4 sang1] /NʹGuessan/
+恩甘澎語 恩甘澎语 [En1 gan1 peng2 yu3] /Ngiemboon (language)/
 恩格爾 恩格尔 [En1 ge2 er3] /Engel/
 恩格爾伍德 恩格尔伍德 [En1 ge2 er3 wu3 de2] /Englewood/
 恩格萊納 恩格莱纳 [En1 ge2 lai2 na4] /Engleitner/
 恩格勒 恩格勒 [En1 ge2 le4] /Engler/
 恩格斯 恩格斯 [En1 ge2 si1] /Engels/
 恩吉利 恩吉利 [En1 ji2 li4] /Ndjili/
+恩濟馬語 恩济马语 [En1 ji4 ma3 yu3] /Nzima (language)/
 恩加丁谷 恩加丁谷 [En1 jia1 ding1 gu3] /Engadine Valley/Valley, Engadine/
 恩加米湖 恩加米湖 [En1 jia1 mi3_Hu2] /Lake Ngami/Ngami, Lake/
 恩賈梅納 恩贾梅纳 [En1 jia3 mei2 na4] /N’Djamena/
@@ -3379,6 +3408,7 @@
 菲莉斯 菲莉斯 [Fei1 li4 si1] /Phyllis/
 菲利亞 菲利亚 [Fei1 li4 ya4] /Filia/
 非羅羅古 非罗罗古 [Fei1 luo2 luo2 gu3] /Philologus/
+菲律賓語 菲律宾语 [Fei1 lu:4 bin1 yu3] /Filipino (language)/
 菲瑪 菲玛 [Fei1 ma3] /Feema/
 非尼哈 非尼哈 [Fei1 ni2 ha1] /Phinehas/
 菲尼斯 菲尼斯 [Fei1 ni2 si1] /Phoenix/
@@ -3407,6 +3437,8 @@
 腓利門 腓利门 [Fei2 li4 men2] /Philemon/
 腓利門書 腓利门书 [Fei2 li4 men2 shu1] /Philemon (Bible book)/
 腓力斯 腓力斯 [Fei2 li4 si1] /Felix/
+腓尼基文 腓尼基文 [Fei2 ni2 ji1 wen2] /Phoenician (written language)/
+腓尼基語 腓尼基语 [Fei2 ni2 ji1 yu3] /Phoenician (language)/
 腓特烈 腓特烈 [Fei2 te4 lie4] /Frederick/
 肥沃新月 肥沃新月 [Fei2 wo4_Xin1 yue4] /Fertile Crescent/Crescent, Fertile/
 肥西縣 肥西县 [Fei2 xi1_Xian4] /Feixi (county, in Anhui)/
@@ -3562,6 +3594,7 @@
 弗拉基米爾 弗拉基米尔 [Fu2 la1 ji1 mi3 er3] /Vladimir/
 弗拉季卡夫卡茲 弗拉季卡夫卡兹 [Fu2 la1 ji4 ka3 fu1 ka3 zi1] /Vladikavkaz/
 弗拉季斯拉夫 弗拉季斯拉夫 [Fu2 la1 ji4 si1 la1 fu1] /Vratislaus/
+弗拉芒語 弗拉芒语 [Fu2 la1 mang2 yu3] /Flemish (language)/
 弗拉米尼亞大道 弗拉米尼亚大道 [Fu2 la1 mi3 ni2 ya4_Da4 dao4] /Via Flaminia/Flaminia, Via/
 弗拉納根 弗拉纳根 [Fu2 la1 na4 gen1] /Flanagan/
 弗拉尼奧 弗拉尼奥 [Fu2 la1 ni2 ao4] /Franjo/
@@ -3634,6 +3667,7 @@
 弗林德斯 弗林德斯 [Fu2 lin2 de2 si1] /Flinders/
 涪陵 涪陵 [Fu2 ling2] /Fuling (in Sichuan)/
 涪陵市 涪陵市 [Fu2 ling2_Shi4] /Fuling (in Sichuan)/
+弗留利語 弗留利语 [Fu2 liu2 li4 yu3] /Friulian (language)/
 弗盧 弗卢 [Fu2 lu2] /Flew (Antony)/
 扶輪社 扶轮社 [Fu2 lun2 she4] /Rotary Club/Club, Rotary/
 福羅 福罗 [Fu2 luo2] /Foro/
@@ -3700,6 +3734,7 @@
 富錦市 富锦市 [Fu4 jin3_Shi4] /Fujin (in Heilongjiang)/
 阜康市 阜康市 [Fu4 kang1_Shi4] /Fukang (in Xinjiang)/
 富克斯 富克斯 [Fu4 ke4 si1] /Fuchs/
+富拉語 富拉语 [Fu4 la1 yu3] /Fulah (language)/
 富蘭克林 富兰克林 [Fu4 lan2 ke4 lin2] /Franklin/
 富勒 富勒 [Fu4 le4] /Fuller (surname)/
 傅立葉 傅立叶 [Fu4 li4 ye4] /Fourier/
@@ -3773,6 +3808,7 @@
 岡恩 冈恩 [Gang1 en1] /Gunn/
 岡比西斯 冈比西斯 [Gang1 bi3 xi1 si1] /Cambyses/
 剛察縣 刚察县 [Gang1 cha2_Xian4] /Gangcha (county, in Qinghai)/
+岡德語 冈德语 [Gang1 de2 yu3] /Gondi (language)/
 剛果民主共和國 刚果民主共和国 [Gang1 guo3_min2 zhu3_gong4 he2 guo2] /Democratic Republic of Congo/Republic of Congo, Democratic/
 剛果語 刚果语 [Gang1 guo3 yu3] /Kikongo/Kongo (language)/
 岡薩雷斯 冈萨雷斯 [Gang1 sa4 lei2 si1] /González/Gonzalez/
@@ -3800,6 +3836,7 @@
 高麗青瓷 高丽青瓷 [Gao1 li2_qing1 ci2] /Koryo celadon/celadon, Koryo/
 高密 高密 [Gao1 mi4] /Gaomi (in Shandong)/
 高密市 高密市 [Gao1 mi4_Shi4] /Gaomi (in Shandong)/
+高棉文 高棉文 [Gao1 mian2 wen2] /Khmer (written language)/
 高棉語 高棉语 [Gao1 mian2 yu3] /Khmer (language)/
 高平 高平 [Gao1 ping2] /Gaoping (in Shanxi)/
 高平市 高平市 [Gao1 ping2_Shi4] /Gaoping (in Shanxi)/
@@ -3882,7 +3919,9 @@
 戈特霍爾德 戈特霍尔德 [Ge1 te4 huo4 er3 de2] /Gotthold/
 戈特利布 戈特利布 [Ge1 te4 li4 bu4] /Gottlieb/
 哥特人 哥特人 [Ge1 te4 ren2] /Goths (enemies of ancient Rome)/
+哥特文 哥特文 [Ge1 te4 wen2] /Gothic (written language)/
 哥特語 哥特语 [Ge1 te4 yu3] /Gothic (language)/
+哥威迅語 哥威迅语 [Ge1 wei1 xun4 yu3] /Gwich'in (language)/
 戈維亞 戈维亚 [Ge1 wei2 ya4] /Gouveia/
 哥西巴 哥西巴 [Ge1 xi1 ba1] /Cozeba/
 哥轄 哥辖 [Ge1 xia2] /Kohath/
@@ -3919,6 +3958,7 @@
 格拉丁 格拉丁 [Ge2 la1 ding1] /Gradin/
 格拉夫 格拉夫 [Ge2 la1 fu1] /Graf/
 格拉夫頓 格拉夫顿 [Ge2 la1 fu1 dun4] /Grafton/
+格拉哥里文 格拉哥里文 [Ge2 la1 ge1 li3 wen2] /Glagolitic (written language)/
 格拉姆什 格拉姆什 [Ge2 la1 mu3 shi2] /Gramsh/
 格拉納達 格拉纳达 [Ge2 la1 na4 da2] /Granada/
 格拉齊 格拉齐 [Ge2 la1 qi2] /Gruchy/
@@ -4107,6 +4147,7 @@
 古典主義音樂 古典主义音乐 [Gu3 dian3 zhu3 yi4_yin1 yue4] /Classical music (specifically from the Classical period i.e. 18th-cenutry, not the general term)/music, Classical (specifically from the Classical period i.e. 18th-cenutry, not the general term)/
 谷歌大 谷歌大 [Gu3 ge1 da4] /Gudgodah/
 古吉拉特 古吉拉特 [Gu3 ji2 la1 te4] /Gujarat/
+古吉拉特文 古吉拉特文 [Gu3 ji2 la1 te4 wen2] /Gujarati (written language)/
 古吉拉特語 古吉拉特语 [Gu3 ji2 la1 te4 yu3] /Gujarati/
 古交 古交 [Gu3 jiao1] /Gujiao (in Shanxi)/
 古交市 古交市 [Gu3 jiao1_Shi4] /Gujiao (in Shanxi)/
@@ -4120,6 +4161,7 @@
 古尼 古尼 [Gu3 ni2] /Guni/
 古尼人 古尼人 [Gu3 ni2 ren2] /Gunites/
 古農西托利 古农西托利 [Gu3 nong2 xi1 tuo1 li4] /Gunungsitoli/
+古諾爾斯語 古诺尔斯语 [Gu3 nuo4 er3 si1 yu3] /Old Norse (language)/Norse, Old (language)/
 古奇 古奇 [Gu3 qi2] /Gooch/
 古撒 古撒 [Gu3 sa1] /Chuza/
 古森 古森 [Gu3 sen1] /Gusen/
@@ -4142,6 +4184,7 @@
 古騰堡 古腾堡 [Gu3 teng2 bao3] /Gutenberg/
 古田縣 古田县 [Gu3 tian2_Xian4] /Gutian (county, in Fujian)/
 古鐵雷斯 古铁雷斯 [Gu3 tie3 lei2 si1] /Gutiérrez/
+古西語 古西语 [Gu3 xi1 yu3] /Gusii (language)/
 古丈縣 古丈县 [Gu3 zhang4_Xian4] /Guzhang (county, in Hunan)/
 固安縣 固安县 [Gu4 an1_Xian4] /Gu'an (county, in Hebei)/
 固始縣 固始县 [Gu4 shi3_Xian4] /Gushi (county, in Henan)/
@@ -4224,6 +4267,7 @@
 國家人權委員會 国家人权委员会 [Guo2 jia1_Ren2 quan2_Wei3 yuan2 hui4] /National Human Rights Committee/Human Rights Committee, National/
 國民保健服務 国民保健服务 [Guo2 min2_Bao3 jian4_Fu2 wu4] /National Health Service (Britain)/Health Service, National (Britain)/
 果阿 果阿 [Guo3 a1] /Goa/
+果魯穆奇文 果鲁穆奇文 [Guo3 lu3 mu4 qi2 wen2] /Gurmukhi (written language)/
 哈恩 哈恩 [Ha1 en1] /Hahn/
 哈爾 哈尔 [Ha1 er3] /Hall (surname)/
 哈爾濱市 哈尔滨市 [Ha1 er3 bin1_Shi4] /Harbin (in Heilongjiang)/
@@ -4424,6 +4468,7 @@
 海城市 海城市 [Hai3 cheng2_Shi4] /Haicheng (in Liaoning)/
 海城市 海城市 [Hai3 cheng2_Shi4] /city of Haicheng/Haicheng, city of/
 海達 海达 [Hai3 da2] /Haida/
+海達語 海达语 [Hai3 da2 yu3] /Haida (language)/
 海德 海德 [Hai3 de2] /Heide/
 海德堡 海德堡 [Hai3 de2 bao3] /Heidelberg/
 海得拉巴 海得拉巴 [Hai3 de2 la1 ba1] /Hyderabad/
@@ -4505,6 +4550,8 @@
 含米特人 含米特人 [Han2 mi3 te4 ren2] /Hamitic people/people, Hamitic/
 含山縣 含山县 [Han2 shan1_Xian4] /Hanshan (county, in Anhui)/
 韓素爾 韩素尔 [Han2 su4 er3] /Henschel/
+韓文 韩文 [Han2 wen2] /Korean (written language)/
+韓文字母 韩文字母 [Han2 wen2 zi4 mu3] /Jamo (written language)/
 寒武紀大爆發 寒武纪大爆发 [Han2 wu3 ji4_da4_bao4 fa1] /Cambrian explosion/explosion, Cambrian/
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
@@ -4618,6 +4665,7 @@
 何提 何提 [He2 ti2] /Hothir/
 和田 和田 [He2 tian2] /Hotan (in Xinjiang)/
 和田市 和田市 [He2 tian2_Shi4] /Hotan (in Xinjiang)/
+和田語 和田语 [He2 tian2 yu3] /Khotanese (language)/
 荷西 荷西 [He2 xi1] /José/
 何西阿 何西阿 [He2 xi1 a1] /Hosea (prophet)/
 何西阿書 何西阿书 [He2 xi1 a1 shu1] /Hosea (Bible book)/
@@ -4704,6 +4752,7 @@
 赫塔 赫塔 [He4 ta3] /Herta/
 赫特 赫特 [He4 te4] /chehth/het (Hebrew letter)/
 赫特福德郡 赫特福德郡 [He4 te4 fu2 de2 jun4] /Hertfordshire (county)/
+赫梯語 赫梯语 [He4 ti1 yu3] /Hittite (language)/
 赫西奧德 赫西奥德 [He4 xi1 ao4 de2] /Hesiod/
 赫歇耳 赫歇耳 [He4 xie1 er3] /Herschel/
 赫胥黎 赫胥黎 [He4 xu1 li2] /Huxley (Aldous; Thomas)/
@@ -5233,6 +5282,7 @@
 吉福德 吉福德 [Ji2 fu2 de2] /Gifford/
 吉甲 吉甲 [Ji2 jia3] /Gilgal/
 急救部 急救部 [Ji2 jiu4 bu4] /First Aid Department (at assembly etc)/Department, First Aid (at assembly etc)/
+吉庫尤語 吉库尤语 [Ji2 ku4 you2 yu3] /Kikuyu (language)/
 吉拉德 吉拉德 [Ji2 la1 de2] /Girard/
 吉朗市 吉朗市 [Ji2 lang3_Shi4] /Geelong (city)/
 吉勞里 吉劳里 [Ji2 lao2 li3] /Gilauri/
@@ -5269,6 +5319,7 @@
 集賢縣 集贤县 [Ji2 xian2_Xian4] /Jixian (county, in Heilongjiang)/
 吉亞奇諾 吉亚奇诺 [Ji2 ya4 qi2 nuo4] /Giacchino/
 吉州窯 吉州窑 [Ji2 zhou1 yao2] /Jizhou ware (pottery type)/ware, Jizhou (pottery type)/
+吉茲語 吉兹语 [Ji2 zi1 yu3] /Geez (language)/
 吉宗 吉宗 [Ji2 zong1] /Gichon/
 吉佐鎮 吉佐镇 [Ji2 zuo3 zhen4] /Gizo (town)/
 濟南市 济南市 [Ji3 nan2_Shi4] /Jinan (in Shandong)/
@@ -5337,6 +5388,7 @@
 嘉芙蓮 嘉芙莲 [Jia1 fu2 lian2] /Katherine/
 加芙列拉 加芙列拉 [Jia1 fu2 lie4 la1] /Gabriela/
 佳港 佳港 [Jia1 gang3] /Fair Havens/Havens, Fair/
+加告茲語 加告兹语 [Jia1 gao4 zi1 yu3] /Gagauz (language)/
 加格達奇 加格达奇 [Jia1 ge2 da2 qi2] /Jiagedaqi (in Heilongjiang)/
 加各 加各 [Jia1 ge4] /Karkor/
 迦哈 迦哈 [Jia1 ha1] /Gahar/
@@ -5457,6 +5509,7 @@
 嘉蔭縣 嘉荫县 [Jia1 yin4_Xian4] /Jiayin (county, in Heilongjiang)/
 加語 加语 [Jia1 yu3] /Ga (language)/
 嘉峪關市 嘉峪关市 [Jia1 yu4 guan1_Shi4] /Jiayuguan (in Gansu)/
+迦約語 迦约语 [Jia1 yue1 yu3] /Gayo (language)/
 賈比 贾比 [Jia3 bi3] /Gyabi/
 賈德森 贾德森 [Jia3 de2 sen1] /Judson/
 賈貢 贾贡 [Jia3 gong4] /Djagun/
@@ -5589,6 +5642,7 @@
 金庸 金庸 [Jin1_Yong1] /Jin Yong (writer)/Yong, Jin (writer)/
 金正日 金正日 [Jin1_Zheng4 ri4] /Kim Jong-il/Jong-il, Kim/
 金柏莉 金柏莉 [Jin1 bai3 li4] /Kimberly/
+金邦杜語 金邦杜语 [Jin1 bang1 du4 yu3] /Kimbundu (language)/
 金本杜語 金本杜语 [Jin1 ben3 du4 yu3] /Kimbundu (language)/
 金伯利 金伯利 [Jin1 bo2 li4] /Kimberley (place)/
 金昌 金昌 [Jin1 chang1] /Jinchang (in Gansu)/
@@ -5745,12 +5799,15 @@
 卡爾文 卡尔文 [Ka3 er3 wen2] /Calvin/
 卡爾遜 卡尔逊 [Ka3 er3 xun4] /Carlson/
 卡巴爾達 卡巴尔达 [Ka3 ba1 er3 da2] /Kabardino/
+卡巴爾德語 卡巴尔德语 [Ka3 ba1 er3 de2 yu3] /Kabardian (language)/
 卡巴萊 卡巴莱 [Ka3 ba1 lai2] /Kabale/
+卡拜爾語 卡拜尔语 [Ka3 bai4 er3 yu3] /Kabyle (language)/
 卡貝洛 卡贝洛 [Ka3 bei4 luo4] /Carrbello/
 卡比爾語 卡比尔语 [Ka3 bi3 er3 yu3] /Kabyle (language)/
 卡波艾拉 卡波艾拉 [Ka3 bo1 ai4 la1] /Capoeira/
 卡伯勒 卡伯勒 [Ka3 bo2 lei1] /Cabrera/
 卡伯特 卡伯特 [Ka3 bo2 te4] /Cabot/
+卡布佛得魯語 卡布佛得鲁语 [Ka3 bu4 fo2 de5 lu3 yu3] /Kabuverdianu (language)/
 卡布拉爾 卡布拉尔 [Ka3 bu4 la1 er3] /Cabral/
 卡徹 卡彻 [Ka3 che4] /Karcher/
 卡茨 卡茨 [Ka3 ci2] /Katz/
@@ -5802,6 +5859,7 @@
 卡雷爾和 卡雷尔和 [Ka3 lei2 er3 he2] /Carel (river)/
 卡雷斯 卡雷斯 [Ka3 lei2 si1] /Cázares/
 卡累利阿 卡累利阿 [Ka3 lei4 li4 a1] /Karelia/
+卡累利阿語 卡累利阿语 [Ka3 lei4 li4 a1 yu3] /Karelian (language)/
 卡里 卡里 [Ka3 li3] /Kari/
 卡里加斯涅米 卡里加斯涅米 [Ka3 li3 jia1 si1 nie4 mi3] /Karigasniemi/
 卡里科 卡里科 [Ka3 li3 ke1] /Carico/
@@ -5810,6 +5868,7 @@
 卡里莎 卡里莎 [Ka3 li3 sha1] /Carissa/
 卡里亞庫 卡里亚库 [Ka3 li3 ya4 ku4] /Carriacou/
 卡里亞人 卡里亚人 [Ka3 li3 ya4 ren2] /Carians/
+卡里亞文 卡里亚文 [Ka3 li3 ya4 wen2] /Carian (written language)/
 卡利 卡利 [Ka3 li4] /Carey/
 卡莉 卡莉 [Ka3 li4] /Carly/
 卡利奧 卡利奥 [Ka3 li4 ao4] /Kallio/
@@ -5844,6 +5903,7 @@
 卡羅琳娜 卡罗琳娜 [Ka3 luo2 lin2 na4] /Carolina (name)/
 卡羅林斯卡 卡罗林斯卡 [Ka3 luo2 lin2 si1 ka3] /Karolinska/
 卡羅維發利 卡罗维发利 [Ka3 luo2 wei2 fa1 li4] /Karlovy/
+卡羅須提文 卡罗须提文 [Ka3 luo2 xu1 ti2 wen2] /Kharoshthi (written language)/
 卡洛 卡洛 [Ka3 luo4] /Carlo/
 卡洛琳 卡洛琳 [Ka3 luo4 lin2] /Carolyn/
 卡洛斯 卡洛斯 [Ka3 luo4 si1] /Carlos/
@@ -5871,8 +5931,11 @@
 卡蜜拉 卡蜜拉 [Ka3 mi4 la1] /Camilla/
 卡明斯 卡明斯 [Ka3 ming2 si1] /Cummins/
 卡明斯基 卡明斯基 [Ka3 ming2 si1 ji1] /Kaminský/
+卡姆巴語 卡姆巴语 [Ka3 mu3 ba1 yu3] /Kamba (language)/
 卡姆登 卡姆登 [Ka3 mu3 deng1] /Camden (New Jersey)/
 卡穆祖 卡穆祖 [Ka3 mu4 zu3] /Kamuzu/
+卡納達文 卡纳达文 [Ka3 na4 da2 wen2] /Kannada (written language)/
+卡納達語 卡纳达语 [Ka3 na4 da2 yu3] /Kannada (language)/
 卡那封 卡那封 [Ka3 na4 feng1] /Caernarvon/
 卡納語 卡纳语 [Ka3 na4 yu3] /Khana (language)/
 卡南加 卡南加 [Ka3 nan2 jia1] /Kananga/
@@ -5880,6 +5943,7 @@
 卡內基梅隆大學 卡内基梅隆大学 [Ka3 nei4 ji1_Mei2 long2_Da4 xue2] /Carnegie Mellon University/Mellon University, Carnegie/
 卡尼 卡尼 [Ka3 ni2] /Kani/
 卡尼亞爾 卡尼亚尔 [Ka3 ni2 ya4 er3] /Cañar/
+卡努里語 卡努里语 [Ka3 nu3 li3 yu3] /Kanuri (language)/
 卡帕多西亞 卡帕多西亚 [Ka3 pa4 duo1 xi1 ya4] /Cappadocia/
 卡彭 卡彭 [Ka3 peng2] /Capen/
 卡彭特 卡彭特 [Ka3 peng2 te4] /Carpenter (surname)/
@@ -6018,6 +6082,7 @@
 凱特莉 凯特莉 [Kai3 te4 li4] /Ketly/
 凱特林 凯特林 [Kai3 te4 lin2] /Kettering (name)/
 凱特琳 凯特琳 [Kai3 te4 lin2] /Caitlyn/
+凱提文 凯提文 [Kai3 ti2 wen2] /Kaithi (written language)/
 凱文 凯文 [Kai3 wen2] /Kevin/
 凱希 凯希 [Kai3 xi1] /Kyhe/
 凱茜 凯茜 [Kai3 xi1] /Kathy/
@@ -6112,6 +6177,7 @@
 科爾迪斯 科尔迪斯 [Ke1 er3 di2 si1] /Cordis/
 科爾頓 科尔顿 [Ke1 er3 dun4] /Colton/
 科爾多瓦 科尔多瓦 [Ke1 er3 duo1 wa3] /Córdoba/
+柯爾克孜語 柯尔克孜语 [Ke1 er3 ke4 zi1 yu3] /Kyrgyz (language)/
 柯爾律治 柯尔律治 [Ke1 er3 lu:4 zhi4] /Coleridge/
 科爾曼 科尔曼 [Ke1 er3 man4] /Colman/
 科爾恰克 科尔恰克 [Ke1 er3 qia4 ke4] /Korczak/
@@ -6332,6 +6398,7 @@
 克里德 克里德 [Ke4 li3 de2] /Creed (surname)/
 克里科爾 克里科尔 [Ke4 li3 ke1 er3] /Krikor/
 克里克 克里克 [Ke4 li3 ke4] /Crick/Creek (in place names)/
+克里克語 克里克语 [Ke4 li3 ke4 yu3] /Creek (language)/
 克里馬 克里马 [Ke4 li3 ma3] /Crim/
 克里米亞 克里米亚 [Ke4 li3 mi3 ya4] /Crimea/
 克里莫夫 克里莫夫 [Ke4 li3 mo4 fu1] /Klimov/
@@ -6397,6 +6464,7 @@
 克羅斯 克罗斯 [Ke4 luo2 si1] /Cross (surname)/
 克羅伊登 克罗伊登 [Ke4 luo2 yi1 deng1] /Croydon/
 克羅伊斯 克罗伊斯 [Ke4 luo2 yi1 si1] /Croesus/
+克羅語 克罗语 [Ke4 luo2 yu3] /Koro (language)/
 克洛德 克洛德 [Ke4 luo4 de2] /Claude/
 克洛迪娜 克洛迪娜 [Ke4 luo4 di2 na4] /Claudina/
 克洛諾斯 克洛诺斯 [Ke4 luo4 nuo4 si1] /Cronus/
@@ -6408,11 +6476,13 @@
 克努茲 克努兹 [Ke4 nu3 zi1] /Knud/
 克諾索斯 克诺索斯 [Ke4 nuo4 suo3 si1] /Knossos/
 克佩勒語 克佩勒语 [Ke4 pei4 lei1 yu3] /Kpelle (language)/
+克佩列語 克佩列语 [Ke4 pei4 lie4 yu3] /Kpelle (language)/
 克欽語 克钦语 [Ke4 qin1 yu3] /Kachin (language)/
 克丘亞 克丘亚 [Ke4 qiu1 ya4] /Quechua/
 克薩爾特佩克鎮 克萨尔特佩克镇 [Ke4 sa4 er3 te4 pei4 ke4 zhen4] /Quezaltepeque (town)/
 克山縣 克山县 [Ke4 shan1_Xian4] /Keshan (county, in Heilongjiang)/
 克什克騰旗 克什克腾旗 [Ke4 shi2 ke4 teng2_Qi2] /Heshigten (banner, in Inner Mongolia)/
+克什米爾語 克什米尔语 [Ke4 shi2 mi3 er3 yu3] /Kashmiri (language)/
 克斯頓 克斯顿 [Ke4 si1 dun4] /Kersten/
 克特西亞斯 克特西亚斯 [Ke4 te4 xi1 ya4 si1] /Ctesias/
 克韋多 克韦多 [Ke4 wei2 duo1] /Quevedo/
@@ -6463,6 +6533,7 @@
 庫利 库利 [Ku4 li4] /Cooley/
 庫利亞坎 库利亚坎 [Ku4 li4 ya4 kan3] /Culiacán/
 庫魯 库鲁 [Ku4 lu3] /Kourou/
+庫魯克語 库鲁克语 [Ku4 lu3 ke4 yu3] /Kurukh (language)/
 庫魯曼 库鲁曼 [Ku4 lu3 man4] /Kuruman/
 庫馬爾 库马尔 [Ku4 ma3 er3] /Kumar/
 庫馬里 库马里 [Ku4 ma3 li3] /Kumari/
@@ -6488,6 +6559,7 @@
 庫斯托 库斯托 [Ku4 si1 tuo1] /Cousteau/
 庫塔伊西 库塔伊西 [Ku4 ta3 yi1 xi1] /Kutaisi/
 庫特 库特 [Ku4 te4] /Coote/
+庫特奈語 库特奈语 [Ku4 te4 nai4 yu3] /Kutenai (language)/
 庫圖佐夫 库图佐夫 [Ku4 tu2 zuo3 fu1] /Kutuzov/
 庫伊語 库伊语 [Ku4 yi1 yu3] /Kuy (language)/
 庫茲涅佐夫 库兹涅佐夫 [Ku4 zi1 nie4 zuo3 fu1] /Kuznetsov/
@@ -6553,6 +6625,7 @@
 拉德洛 拉德洛 [La1 de2 luo4] /Ludlow/
 拉登 拉登 [La1 deng1] /Ladin/
 拉登語 拉登语 [La1 deng1 yu3] /Ladin (language)/
+拉迪諾語 拉迪诺语 [La1 di2 nuo4 yu3] /Ladino (language)/
 拉迪斯拉夫 拉迪斯拉夫 [La1 di2 si1 la1 fu1] /Ladislav/
 拉迪亞德 拉迪亚德 [La1 di2 ya4 de2] /Rudyard/
 拉帝 拉帝 [La1 di4] /Laddie/
@@ -6593,6 +6666,7 @@
 拉加科斯 拉加科斯 [La1 jia1 ke1 si1] /Lagakos/
 拉甲 拉甲 [La1 jia3] /Rakkath/
 拉賈斯坦 拉贾斯坦 [La1 jia3 si1 tan3] /Rajasthan/
+拉賈斯坦語 拉贾斯坦语 [La1 jia3 si1 tan3 yu3] /Rajasthani (language)/
 拉傑 拉杰 [La1 jie2] /Raj/
 拉結 拉结 [La1 jie2] /Rachel (Bible)/
 拉婕兒 拉婕儿 [La1 jie2 er2] /Rachel (modern)/
@@ -6649,6 +6723,7 @@
 拉普蘭德 拉普兰德 [La1 pu3 lan2 de2] /Lapland (alternate translation)/
 拉齊 拉齐 [La1 qi2] /Rhazes/
 拉喬斯 拉乔斯 [La1 qiao2 si1] /Lajos/
+拉讓文 拉让文 [La1 rang4 wen2] /Rejang (written language)/
 拉瑞斯 拉瑞斯 [La1 rui4 si1] /Lares (Roman god)/
 拉撒路 拉撒路 [La1 sa1 lu4] /Lazarus (Bible)/
 拉薩市 拉萨市 [La1 sa4_Shi4] /Lhasa (in Tibet)/
@@ -6802,6 +6877,7 @@
 蘭考縣 兰考县 [Lan2 kao3_Xian4] /Lankao (county, in Henan)/
 蘭利 兰利 [Lan2 li4] /Langley/
 蘭米德 兰米德 [Lan2 mi3 de2] /Langmead/
+蘭拿文 兰拿文 [Lan2 na2 wen2] /Lanna (written language)/
 蘭妮 兰妮 [Lan2 ni1] /Lani/
 蘭坪縣 兰坪县 [Lan2 ping2_Xian4] /Lanping (county, in Yunnan)/
 蘭塞 兰塞 [Lan2 sai4] /Raamses/
@@ -6826,6 +6902,7 @@
 郎溪縣 郎溪县 [Lang2 xi1_Xian4] /Langxi (county, in Anhui)/
 朗多尼亞州 朗多尼亚州 [Lang3 duo1 ni2 ya4_Zhou1] /Rondônia/
 朗費羅 朗费罗 [Lang3 fei4 luo2] /Longfellow/
+朗格朗格文 朗格朗格文 [Lang3 ge2 lang3 ge2 wen2] /Rongorongo (written language)/
 朗根 朗根 [Lang3 gen1] /Langan/
 朗科恩 朗科恩 [Lang3 ke1 en1] /Runcorn/
 朗娜 朗娜 [Lang3 na4] /Ragna/
@@ -6857,6 +6934,7 @@
 老底嘉人 老底嘉人 [Lao3 di3 jia1 ren2] /Laodicean person/person, Laodicean/
 老河口 老河口 [Lao3 he2 kou3] /Laohekou (in Hubei)/
 老河口市 老河口市 [Lao3 he2 kou3_Shi4] /Laohekou (in Hubei)/
+老撾文 老挝文 [Lao3 wo1 wen2] /Lao (written language)/
 勒甘 勒甘 [Le4_Gan1] /Le Guin/Guin, Le/
 樂安縣 乐安县 [Le4 an1_Xian4] /Le'an (county, in Jiangxi)/
 勒伯夫 勒伯夫 [Le4 bo2 fu1] /LeBoeuf/
@@ -6894,6 +6972,7 @@
 雷恩福德 雷恩福德 [Lei2 en1 fu2 de2] /Rainford/
 雷巴齊 雷巴齐 [Lei2 ba1 qi2] /Rebacz/
 雷波縣 雷波县 [Lei2 bo1_Xian4] /Leibo (county, in Sichuan)/
+雷布查文 雷布查文 [Lei2 bu4 cha2 wen2] /Lepcha (written language)/
 雷布曼 雷布曼 [Lei2 bu4 man4] /Rebmann/
 雷德菲爾德 雷德菲尔德 [Lei2 de2 fei1 er3 de2] /Redfield/
 雷迪 雷迪 [Lei2 di2] /Reddy/
@@ -7133,6 +7212,7 @@
 利斯卡 利斯卡 [Li4 si1 ka3] /Liska/
 利斯特 利斯特 [Li4 si1 te4] /Lester/
 利蘇圖 利苏图 [Li4 su1 tu2] /Lesotho (old translation)/
+傈僳文 傈僳文 [Li4 su4 wen2] /Fraser (written language)/
 傈僳語 傈僳语 [Li4 su4 yu3] /Lisu (language)/
 麗塔 丽塔 [Li4 ta3] /Rita/
 立陶宛語 立陶宛语 [Li4 tao2 wan3 yu3] /Lithuanian (language)/
@@ -7161,6 +7241,7 @@
 利西馬科斯 利西马科斯 [Li4 xi1 ma3 ke1 si1] /Lysimachus/
 利希滕貝格 利希滕贝格 [Li4 xi1 teng2 bei4 ge2] /Lichtenburg/
 利希維 利希维 [Li4 xi1 wei2] /Lichfield (name)/
+利西亞文 利西亚文 [Li4 xi1 ya4 wen2] /Lycian (written language)/
 利鮮 利鲜 [Li4 xian1] /Resen/
 利謝 利谢 [Li4 xie4] /Rizia/
 利辛縣 利辛县 [Li4 xin1_Xian4] /Lixin (county, in Anhui)/
@@ -7243,7 +7324,9 @@
 琳恩 琳恩 [Lin2 en1] /Lynn/
 林白 林白 [Lin2 bai2] /Lambeth/Lindbergh/
 林寶堅尼 林宝坚尼 [Lin2 bao3 jian1 ni2] /Lamborghini (alternate translation)/
+林堡語 林堡语 [Lin2 bao3 yu3] /Limburgish (language)/
 林波波省 林波波省 [Lin2 bo1 bo1_sheng3] /Limpopo Province/Province, Limpopo/
+林布文 林布文 [Lin2 bu4 wen2] /Limbu (written language)/
 臨滄 临沧 [Lin2 cang1] /Lincang (in Yunnan)/
 臨滄市 临沧市 [Lin2 cang1_Shi4] /Lincang (in Yunnan)/
 臨城縣 临城县 [Lin2 cheng2_Xian4] /Lincheng (county, in Hebei)/
@@ -7361,6 +7444,7 @@
 龍城區 龙城区 [Long2 cheng2_Qu1] /Longcheng (district, in Liaoning)/
 龍川縣 龙川县 [Long2 chuan1_Xian4] /Longchuan (county, in Guangdong)/
 隆達語 隆达语 [Long2 da2 yu3] /Lunda (language)/
+隆迪語 隆迪语 [Long2 di2 yu3] /Rundi (language)/
 龍港區 龙港区 [Long2 gang3_Qu1] /Longgang (district, in Liaoning)/
 龍海 龙海 [Long2 hai3] /Longhai (in Fujian)/
 龍海市 龙海市 [Long2 hai3_Shi4] /Longhai (in Fujian)/
@@ -7454,6 +7538,7 @@
 盧瓦勒語 卢瓦勒语 [Lu2 wa3 lei1 yu3] /Luvale (language)/
 盧萬 卢万 [Lu2 wan4] /Louvain/
 盧萬市 卢万市 [Lu2 wan4_Shi4] /Louvain/
+盧旺達語 卢旺达语 [Lu2 wang4 da2 yu3] /Kinyarwanda (language)/
 盧維耶 卢维耶 [Lu2 wei2 ye1] /Louviers/
 盧沃斯灣 卢沃斯湾 [Lu2 wo4 si1 wan1] /Lulworth Cove/Cove, Lulworth/
 瀘溪縣 泸溪县 [Lu2 xi1_Xian4] /Luxi (county, in Hunan)/
@@ -7462,6 +7547,7 @@
 盧西奧 卢西奥 [Lu2 xi1 ao4] /Lúcio/
 盧西亞諾 卢西亚诺 [Lu2 xi1 ya4 nuo4] /Luciano/
 盧修斯 卢修斯 [Lu2 xiu1 si1] /Lucius/
+盧雅語 卢雅语 [Lu2 ya3 yu3] /Luyia (language)/
 盧伊塞諾語 卢伊塞诺语 [Lu2 yi1 se4 nuo4 yu3] /Luiseno (language)/
 瀘州市 泸州市 [Lu2 zhou1_Shi4] /Luzhou (in Sichuan)/
 盧茲維克 卢兹维克 [Lu2 zi1 wei2 ke4] /Ludwik/
@@ -7631,6 +7717,7 @@
 羅傑 罗杰 [Luo2 jie2] /Roger/
 羅傑森 罗杰森 [Luo2 jie2 sen1] /Rogerson/
 羅傑斯 罗杰斯 [Luo2 jie2 si1] /Rogers/
+邏輯語 逻辑语 [Luo2 ji5 yu3] /Lojban (language)/
 羅克漢普頓 罗克汉普顿 [Luo2 ke4 han4 pu3 dun4] /Rockhampton/
 羅克桑娜 罗克桑娜 [Luo2 ke4 sang1 na4] /Roxana/
 羅克珊娜 罗克珊娜 [Luo2 ke4 shan1 na4] /Roxane/
@@ -7723,6 +7810,7 @@
 羅田縣 罗田县 [Luo2 tian2_Xian4] /Luotian (county, in Hubei)/
 羅托路亞 罗托路亚 [Luo2 tuo1 lu4 ya4] /Rotorua/
 羅瓦斯 罗瓦斯 [Luo2 wa3 si1] /Robas/
+羅瓦語 罗瓦语 [Luo2 wa3 yu3] /Rwa (language)/
 羅茜 罗茜 [Luo2 xi1] /Rossi/
 羅西 罗西 [Luo2 xi1] /Rossi/
 羅西奧 罗西奥 [Luo2 xi1 ao4] /Rocio/
@@ -7807,6 +7895,7 @@
 呂德爾 吕德尔 [Lu:3 de2 er3] /Rydell/
 呂德曼 吕德曼 [Lu:3 de2 man4] /Lüdemann/
 呂底亞 吕底亚 [Lu:3 di3 ya4] /Lydia (Bible)/
+呂底亞文 吕底亚文 [Lu:3 di3 ya4 wen2] /Lydian (written language)/
 呂基亞 吕基亚 [Lu:3 ji1 ya4] /Lycia/
 呂卡 吕卡 [Lu:3 ka3] /Luca/
 呂克 吕克 [Lu:3 ke4] /Luc/
@@ -7863,6 +7952,7 @@
 瑪爾塔 玛尔塔 [Ma3 er3 ta3] /Marta/
 馬爾塔克爾特 马尔塔克尔特 [Ma3 er3 ta3 ke4 er3 te4] /Martakert/
 瑪爾特 玛尔特 [Ma3 er3 te4] /Marthe/
+馬爾瓦里語 马尔瓦里语 [Ma3 er3 wa3 li3 yu3] /Marwari (language)/
 馬爾溫 马尔温 [Ma3 er3 wen1] /Marvin/
 瑪比 玛比 [Ma3 bi3] /Magbish/
 馬比拉 马比拉 [Ma3 bi3 la1] /Mabilat/
@@ -7905,6 +7995,8 @@
 馬都拉島 马都拉岛 [Ma3 du1 la1 dao3] /Madura (island)/
 瑪頓 玛顿 [Ma3 dun4] /Madon/
 瑪多縣 玛多县 [Ma3 duo1_Xian4] /Maduo (county, in Qinghai)/
+馬恩語 马恩语 [Ma3 en1 yu3] /Manx (language)/
+馬法語 马法语 [Ma3 fa3 yu3] /Mafa (language)/
 馬費奧 马费奥 [Ma3 fei4 ao4] /Maffeo/
 馬高 马高 [Ma3 gao1] /Marco/
 瑪戈 玛戈 [Ma3 ge1] /Margot/
@@ -7968,21 +8060,25 @@
 瑪克辛 玛克辛 [Ma3 ke4 xin1] /Maxine/
 馬克耶夫卡 马克耶夫卡 [Ma3 ke4 ye1 fu1 ka3] /Makeyevka/
 馬克耶夫卡市 马克耶夫卡市 [Ma3 ke4 ye1 fu1 ka3_Shi4] /Makeyevka/
+馬庫阿語 马库阿语 [Ma3 ku4 a1 yu3] /Makhuwa-Meetto (language)/
 馬庫斯 马库斯 [Ma3 ku4 si1] /Markus/Marcus/
 馬奎斯 马奎斯 [Ma3 kui2 si1] /Marquis/
 瑪拉 玛拉 [Ma3 la1] /Mara/
 瑪拉 玛拉 [Ma3 la1] /Marla/
 馬拉 马拉 [Ma3 la1] /Marah/
 馬拉巴 马拉巴 [Ma3 la1 ba1] /Malabar/
+馬拉地語 马拉地语 [Ma3 la1 di4 yu3] /Marathi (language)/
 瑪拉基 玛拉基 [Ma3 la1 ji1] /Malachi (prophet)/
 瑪拉基書 玛拉基书 [Ma3 la1 ji1 shu1] /Malachi (Bible book)/
 瑪拉基亞 玛拉基亚 [Ma3 la1 ji1 ya4] /Malachi (book, Catholic version)/
 馬拉加 马拉加 [Ma3 la1 jia1] /Malaga/Málaga/
 馬拉加市 马拉加市 [Ma3 la1 jia1_Shi4] /Malaga/Málaga (city in Spain)/
+馬拉加斯語 马拉加斯语 [Ma3 la1 jia1 si1 yu3] /Malagasy (language)/
 馬拉凱 马拉凯 [Ma3 la1 kai3] /Maracay/
 馬拉瑙語 马拉瑙语 [Ma3 la1 nao3 yu3] /Maranaw (language)/
 馬拉松戰役 马拉松战役 [Ma3 la1 song1_zhan4 yi4] /battle of Marathon/Marathon, battle of/
 馬拉提語 马拉提语 [Ma3 la1 ti2 yu3] /Marathi (language)/
+馬拉雅拉姆文 马拉雅拉姆文 [Ma3 la1 ya3 la1 mu3 wen2] /Malayalam (written language)/
 馬拉雅拉姆語 马拉雅拉姆语 [Ma3 la1 ya3 la1 mu3 yu3] /Malayalam (language)/
 瑪臘 玛腊 [Ma3 la4] /Maarath/
 馬來人 马来人 [Ma3 lai2 ren2] /Malays (people)/
@@ -8084,6 +8180,7 @@
 馬奇溫洛克 马奇温洛克 [Ma3 qi2 wen1 luo4 ke4] /Much Wenlock/Wenlock, Much/
 瑪喬麗 玛乔丽 [Ma3 qiao2 li4] /Marjorie/
 馬喬莉 马乔莉 [Ma3 qiao2 li4] /Marjorie/
+馬切姆語 马切姆语 [Ma3 qie1 mu3 yu3] /Machame (language)/
 瑪切 玛切 [Ma3 qie4] /Maatje/
 瑪沁縣 玛沁县 [Ma3 qin4_Xian4] /Maqin (county, in Qinghai)/
 馬丘比丘 马丘比丘 [Ma3 qiu1_Bi3 qiu1] /Machu Picchu/Picchu, Machu/
@@ -8176,6 +8273,7 @@
 瑪約拉 玛约拉 [Ma3 yue1 la1] /Maiola/
 馬約特 马约特 [Ma3 yue1 te4] /Mayotte/
 瑪云 玛云 [Ma3 yun2] /Maon (old translation?)/
+馬贊德蘭語 马赞德兰语 [Ma3 zan4 de2 lan2 yu3] /Mazanderani (language)/
 馬澤爾 马泽尔 [Ma3 ze2 er3] /Mazel/
 馬朱羅島 马朱罗岛 [Ma3 zhu1 luo2 dao3] /Majuro (island)/
 麥大維 麦大维 [Mai4_Da4 wei2] /David McMullen/McMullen, David/
@@ -8188,6 +8286,8 @@
 麥當娜 麦当娜 [Mai4 dang1 na4] /Madonna (pop star)/
 麥當奴 麦当奴 [Mai4 dang1 nu2] /McDonnell/
 麥德林 麦德林 [Mai4 de2 lin2] /Medellín/
+邁蒂利文 迈蒂利文 [Mai4 di4 li4 wen2] /Tirhuta (written language)/
+邁蒂利語 迈蒂利语 [Mai4 di4 li4 yu3] /Maithili (language)/
 麥都思 麦都思 [Mai4 dou1 si1] /Medhurst (Walter Henry, 1796-1857)/
 麥蓋提縣 麦盖提县 [Mai4 gai4 ti2_Xian4] /Makit (county, in Xinjiang)/
 麥格拉思 麦格拉思 [Mai4 ge2 la1 si1] /McGrath/
@@ -8265,6 +8365,7 @@
 曼德勒 曼德勒 [Man4 de2 le4] /Mandalay/
 曼德茲 曼德兹 [Man4 de2 zi1] /Méndez/
 曼迪普 曼迪普 [Man4 di2 pu3] /Mundip/
+曼丁哥語 曼丁哥语 [Man4 ding1 ge1 yu3] /Mandingo (language)/
 曼弗雷德 曼弗雷德 [Man4 fu2 lei2 de2] /Manfred/
 曼戈馬 曼戈马 [Man4 ge1 ma3] /Mangoma/
 曼格利西 曼格利西 [Man4 ge2 li4 xi1] /Manglisi/
@@ -8275,6 +8376,7 @@
 幔利 幔利 [Man4 li4] /Mamre/
 曼羅蘭 曼罗兰 [Man4 luo2 lan2] /MAN Roland (printing press model)/Roland, MAN (printing press model)/
 曼尼諾 曼尼诺 [Man4 ni2 nuo4] /Mannino/
+曼尼普爾文 曼尼普尔文 [Man4 ni2 pu3 er3 wen2] /Meitei Mayek (written language)/Mayek, Meitei (written language)/
 曼尼普爾語 曼尼普尔语 [Man4 ni2 pu3 er3 yu3] /Manipuri (language)/
 曼涅里克 曼涅里克 [Man4 nie4 li3 ke4] /Menelik/
 曼紐 曼纽 [Man4 niu3] /Mazda (god)/
@@ -8432,6 +8534,7 @@
 蒙城縣 蒙城县 [Meng2 cheng2_Xian4] /Mengcheng (county, in Anhui)/
 蒙達 蒙达 [Meng2 da2] /Munda/
 蒙大拿州 蒙大拿州 [Meng2 da4 na2_Zhou1] /Montana/
+蒙當語 蒙当语 [Meng2 dang1 yu3] /Mundang (language)/
 蒙德 蒙德 [Meng2 de2] /Mende/
 蒙得維的亞 蒙得维的亚 [Meng2 de2 wei2 di4 ya4] /Montevideo/
 蒙迪 蒙迪 [Meng2 di2] /Monday (name of person)/
@@ -8475,6 +8578,7 @@
 孟村縣 孟村县 [Meng4 cun1_Xian4] /Mengcun (county, in Hebei)/
 孟德爾 孟德尔 [Meng4 de2 er3] /Mendel (as in heredity theory)/
 孟斐斯 孟斐斯 [Meng4 fei3 si1] /Memphis/
+孟加拉文 孟加拉文 [Meng4 jia1 la1 wen2] /Bangla (written language)/
 孟津縣 孟津县 [Meng4 jin1_Xian4] /Mengjin (county, in Henan)/
 孟連縣 孟连县 [Meng4 lian2_Xian4] /Menglian (county, in Yunnan)/
 夢露 梦露 [Meng4 lu4] /Monroe (actor)/
@@ -8568,6 +8672,7 @@
 米蘭 米兰 [Mi3 lan2] /Milan/
 米蘭市 米兰市 [Mi3 lan2_Shi4] /Milan (city)/
 米蘭達 米兰达 [Mi3 lan2 da2] /Miranda/
+米蘭德斯語 米兰德斯语 [Mi3 lan2 de2 si1 yu3] /Mirandese (language)/
 米蘭熱 米兰热 [Mi3 lan2 re4] /Milange/
 米勒 米勒 [Mi3 le4] /Melech/
 米勒 米勒 [Mi3 le4] /Miller (William)/
@@ -8600,6 +8705,7 @@
 米瑪 米玛 [Mi3 ma3] /Mirmah/
 米拿現 米拿现 [Mi3 na2 xian4] /Menahem/
 米納瓦 米纳瓦 [Mi3 na4 wa3] /Minerva (place)/
+米南佳保語 米南佳保语 [Mi3 nan2 jia1 bao3 yu3] /Minangkabau (language)/
 米尼 米尼 [Mi3 ni2] /Minni/
 米努哈 米努哈 [Mi3 nu3 ha1] /Menuhoth/
 米諾斯 米诺斯 [Mi3 nuo4 si1] /Minos/
@@ -8666,8 +8772,10 @@
 綿竹 绵竹 [Mian2 zhu2] /Mianzhu (in Sichuan)/
 綿竹市 绵竹市 [Mian2 zhu2_Shi4] /Mianzhu (in Sichuan)/
 澠池縣 渑池县 [Mian3 chi2_Xian4] /Mianchi (county, in Henan)/
+緬甸文 缅甸文 [Mian3 dian4 wen2] /Myanmar (written language)/
 冕寧縣 冕宁县 [Mian3 ning2_Xian4] /Mianning (county, in Sichuan)/
 緬族 缅族 [Mian3 zu2] /Mien (tribe, alternate translation of Yao)/
+苗語 苗语 [Miao2 yu3] /Hmong (language)/
 繆蘭 缪兰 [Miao4 lan2] /Mullane/
 繆里爾 缪里尔 [Miao4 li3 er3] /Muriel/
 繆利斯 缪利斯 [Miao4 li4 si1] /Marius/
@@ -8693,16 +8801,20 @@
 明斯基 明斯基 [Ming2 si1 ji1] /Minsky/
 明斯特 明斯特 [Ming2 si1 te4] /Münster/
 明溪縣 明溪县 [Ming2 xi1_Xian4] /Mingxi (county, in Fujian)/
+謬文 谬文 [Miu4 wen2] /Mro (written language)/
 魔戒 魔戒 [Mo2_Jie4] /The Lord of the Rings (novel)/Lord of the Rings, The (novel)/
 摩爾 摩尔 [Mo2 er3] /Moore/
 摩爾達維亞 摩尔达维亚 [Mo2 er3 da2 wei2 ya4] /Moldavia/
 摩爾多瓦 摩尔多瓦 [Mo2 er3 duo1 wa3] /Moldova/
+摩爾多瓦語 摩尔多瓦语 [Mo2 er3 duo1 wa3 yu3] /Moldavian (language)/
 摩爾曼斯克州 摩尔曼斯克州 [Mo2 er3 man4 si1 ke4 zhou1] /Murmansk Region/Region, Murmansk/
 摩爾斯 摩尔斯 [Mo2 er3 si1] /Morse/
 摩爾斯電碼 摩尔斯电码 [Mo2 er3 si1_dian4 ma3] /Morse code/code, Morse/
 摩根 摩根 [Mo2 gen1] /Morgan/
 模漢 模汉 [Mo2 han4] /Mohan/
+摩霍克語 摩霍克语 [Mo2 huo4 ke4 yu3] /Mohawk (language)/
 摩加迪沙 摩加迪沙 [Mo2 jia1 di2 sha1] /Mogadishu/
+摩揭陀語 摩揭陀语 [Mo2 jie1 tuo2 yu3] /Magahi (language)/
 摩拉達 摩拉达 [Mo2 la1 da2] /Moladah/
 摩拉維亞 摩拉维亚 [Mo2 la1 wei2 ya4] /Moravia(n)/
 摩雷 摩雷 [Mo2 lei2] /Molid/
@@ -8712,6 +8824,7 @@
 摩門之書 摩门之书 [Mo2 men2_Zhi1_Shu1] /The Book Of Mormon (musical, Broadway 2011)/Book Of Mormon, The (musical, Broadway 2011)/
 摩門經 摩门经 [Mo2 men2 jing1] /Book of Mormon/Mormon, Book of/
 摩門書 摩门书 [Mo2 men2 shu1] /Mormon (book in Book of Mormon)/
+摩尼教文 摩尼教文 [Mo2 ni2 jiao4 wen2] /Manichaean (written language)/
 模擬聯合國 模拟联合国 [Mo2 ni3_Lian2 he2 guo2] /Model United Nations (for schools)/United Nations, Model (for schools)/
 摩撒 摩撒 [Mo2 sa1] /Moza/
 摩薩 摩萨 [Mo2 sa4] /Mozah/
@@ -8938,6 +9051,7 @@
 納巴泰 纳巴泰 [Na4 ba1 tai4] /Nabataean/
 納波卡 纳波卡 [Na4 bo1 ka3] /Napoca/
 那波帕拉薩爾 那波帕拉萨尔 [Na4 bo1 pa4 la1 sa4 er3] /Nabopolassar/
+那不勒斯語 那不勒斯语 [Na4 bu2 le4 si1 yu3] /Neapolitan (language)/
 納布科 纳布科 [Na4 bu4 ke1] /Nabuco/
 那不勒斯 那不勒斯 [Na4 bu4 le4 si1] /Naples/
 納布盧斯 纳布卢斯 [Na4 bu4 lu2 si1] /Nablus/
@@ -9049,6 +9163,7 @@
 男青年會 男青年会 [Nan2 qing1 nian2 hui4] /YMCA/Young Men's Christian Association/
 南森 南森 [Nan2 sen1] /Nansen/
 南斯 南斯 [Nan2 si1] /Nancy (older translation)/
+南索托語 南索托语 [Nan2 suo3 tuo1 yu3] /Southern Sotho (language)/Sotho, Southern (language)/
 南塔魯 南塔鲁 [Nan2 ta3 lu3] /Namtaru/
 南通 南通 [Nan2 tong1] /Nantong (in Jiangsu)/
 南通市 南通市 [Nan2 tong1_Shi4] /Nantong (in Jiangsu)/
@@ -9112,6 +9227,7 @@
 妮塔 妮塔 [Ni1 ta3] /Nita/
 尼安達 尼安达 [Ni2 an1 da2] /Neander/
 尼奧基 尼奥基 [Ni2 ao4 ji1] /Nioki/
+尼奧羅語 尼奥罗语 [Ni2 ao4 luo2 yu3] /Nyoro (language)/
 尼奧瑪 尼奥玛 [Ni2 ao4 ma3] /Nyoma/
 尼爾 尼尔 [Ni2 er3] /Neil/
 尼珥 尼珥 [Ni2 er3] /Ner/
@@ -9206,6 +9322,7 @@
 尼探雅 尼探雅 [Ni2 tan4 ya3] /Nethaniah/
 尼提寧 尼提宁 [Ni2 ti2 ning2] /Nethinim/
 尼瓦爾語 尼瓦尔语 [Ni2 wa3 er3 yu3] /Newari (language)/
+尼瓦文 尼瓦文 [Ni2 wa3 wen2] /Newa (written language)/
 尼維斯 尼维斯 [Ni2 wei2 si1] /Nevis/
 尼沃 尼沃 [Ni2 wo4] /Nevo/
 尼悉 尼悉 [Ni2 xi1] /Nezib/
@@ -9303,6 +9420,7 @@
 諾頓 诺顿 [Nuo4 dun4] /Norton/
 諾福克 诺福克 [Nuo4 fu2 ke4] /Norfolk/
 諾福克郡 诺福克郡 [Nuo4 fu2 ke4 jun4] /Norfolk (county)/
+諾蓋語 诺盖语 [Nuo4 gai4 yu3] /Nogai (language)/
 諾基亞 诺基亚 [Nuo4 ji1 ya4] /Nokia/
 諾克斯 诺克斯 [Nuo4 ke4 si1] /Knox/
 諾拉 诺拉 [Nuo4 la1] /Nora/
@@ -9338,7 +9456,9 @@
 諾伊曼 诺伊曼 [Nuo4 yi1 man4] /Newman/
 女神節 女神节 [Nu:3 shen2 jie2] /Women's Day (lit. goddess holiday)/
 女巫之錘 女巫之锤 [Nu:3 wu1_Zhi1_Chui2] /The Hammer of Witches/Malleus Maleficarum (Inquisition book)/Hammer of Witches, The (Inquisition book)/Maleficarum, Malleus (Inquisition book)/
+女真文 女真文 [Nu:3 zhen1 wen2] /Jurchen (written language)/
 歐巴馬 欧巴马 [Ou1 ba1 ma3] /Obama (alternate translation)/
+歐甘文 欧甘文 [Ou1 gan1 wen2] /Ogham (written language)/
 歐朗 欧朗 [Ou1 lang3] /Auron/
 歐里庇得斯 欧里庇得斯 [Ou1 li3 bi4 de2 si1] /Euripides/
 歐內斯特 欧内斯特 [Ou1 nei4 si1 te4] /Ernest/
@@ -9361,6 +9481,7 @@
 帕爾克 帕尔克 [Pa4 er3 ke4] /Park (station name in Johannesburg)/
 帕爾馬 帕尔马 [Pa4 er3 ma3] /Palma/
 帕爾馬斯角 帕尔马斯角 [Pa4 er3 ma3 si1 jiao3] /Cape Palmas/Palmas, Cape/
+帕爾邁拉文 帕尔迈拉文 [Pa4 er3 mai4 la1 wen2] /Palmyrene (written language)/
 帕爾默 帕尔默 [Pa4 er3 mo4] /Palmer/
 帕徹利 帕彻利 [Pa4 che4 li4] /Pacelli/
 帕大拉 帕大拉 [Pa4 da4 la1] /Patara/
@@ -9422,6 +9543,7 @@
 帕諾斯 帕诺斯 [Pa4 nuo4 si1] /Panos/
 帕帕斯 帕帕斯 [Pa4 pa4 si1] /Pappas/
 帕帕佐普洛斯 帕帕佐普洛斯 [Pa4 pa4 zuo3 pu3 luo4 si1] /Papadopulos/
+帕皮阿門托語 帕皮阿门托语 [Pa4 pi2 a1 men2 tuo1 yu3] /Papiamento (language)/
 帕皮亞門托 帕皮亚门托 [Pa4 pi2 ya4 men2 tuo1] /Papiamento/
 帕皮亞門托語 帕皮亚门托语 [Pa4 pi2 ya4 men2 tuo1 yu3] /Papiamento (language)/
 帕皮亞斯 帕皮亚斯 [Pa4 pi2 ya4 si1] /Papias/
@@ -9642,6 +9764,7 @@
 平輿縣 平舆县 [Ping2 yu2_Xian4] /Pingyu (county, in Henan)/
 平遠縣 平远县 [Ping2 yuan3_Xian4] /Pingyuan (county, in Guangdong)/
 坡幣 坡币 [Po1 bi4] /Singapore dollar (old version?)/dollar, Singapore (old version?)/
+婆羅米文字 婆罗米文字 [Po2 luo2 mi3 wen2 zi4] /Brahmi (written language)/
 鄱陽縣 鄱阳县 [Po2 yang2_Xian4] /Poyang (county, in Jiangxi)/
 珀爾 珀尔 [Po4 er3] /Pearl (name)/
 珀杜大學 珀杜大学 [Po4 du4_da4 xue2] /Purdue (university)/
@@ -9717,6 +9840,7 @@
 普盧塔克 普卢塔克 [Pu3 lu2 ta3 ke4] /Plutarch/
 普盧瓦特 普卢瓦特 [Pu3 lu2 wa3 te4] /Polowat/
 普魯士 普鲁士 [Pu3 lu3 shi4] /Prussia/
+普魯士語 普鲁士语 [Pu3 lu3 shi4 yu3] /Prussian (language)/
 普羅夫迪夫 普罗夫迪夫 [Pu3 luo2 fu1 di2 fu1] /Plovdiv/
 普羅赫拉德內 普罗赫拉德内 [Pu3 luo2 he4 la1 de2 nei4] /Prohladniy/
 普羅科皮奧斯 普罗科皮奥斯 [Pu3 luo2 ke1 pi2 ao4 si1] /Prokopios/
@@ -9805,6 +9929,7 @@
 契克斯 契克斯 [Qi4 ke4 si1] /Chequers (country house)/
 契盧巴語 契卢巴语 [Qi4 lu2 ba1 yu3] /Kiluba (language)/
 契瑪羅薩 契玛罗萨 [Qi4 ma3 luo2 sa4] /Cimarosa/
+契維語 契维语 [Qi4 wei2 yu3] /Twi (language)/
 恰加斯氏病 恰加斯氏病 [Qia4 jia1 si1 shi4 bing4] /Chagas' Disease/Disease, Chagas'/
 恰帕斯 恰帕斯 [Qia4 pa4 si1] /Chiapas/
 恰斯 恰斯 [Qia4 si1] /Chelsea (old translation)/
@@ -9870,6 +9995,7 @@
 巧家縣 巧家县 [Qiao3 jia1_Xian4] /Qiaojia (county, in Yunnan)/
 切恩 切恩 [Qie1 en1] /Cheyne/
 切爾沃諾格勒 切尔沃诺格勒 [Qie1 er3 wo4 nuo4 ge2 le4] /Cervonograd/
+切羅基文 切罗基文 [Qie1 luo2 ji1 wen2] /Cherokee (written language)/
 切羅基語 切罗基语 [Qie1 luo2 ji1 yu3] /Cherokee (language)/
 且末縣 且末县 [Qie3 mo4_Xian4] /Qiemo (county, in Xinjiang)/
 切爾尼科夫 切尔尼科夫 [Qie4 er3 ni2 ke1 fu1] /Chernikov/
@@ -9887,6 +10013,7 @@
 欽巴扎 钦巴扎 [Qin1 ba1 zha1] /Chimbaza/
 欽博拉索 钦博拉索 [Qin1 bo2 la1 suo3] /Chimborazo/
 欽西安人 钦西安人 [Qin1 xi1 an1 ren2] /Tsimshian community/community, Tsimshian/
+欽西安語 钦西安语 [Qin1 xi1 an1 yu3] /Tsimshian (language)/
 欽語 钦语 [Qin1 yu3] /Chin (language)/
 欽州 钦州 [Qin1 zhou1] /Qinzhou (in Guangxi)/
 欽州市 钦州市 [Qin1 zhou1_Shi4] /Qinzhou (in Guangxi)/
@@ -10119,6 +10246,7 @@
 撒馬利亞陶片 撒马利亚陶片 [Sa1 ma3 li4 ya4_tao2 pian4] /Samaria ostraca/ostraca, Samaria/
 撒瑪利亞會 撒玛利亚会 [Sa1 ma3 li4 ya4 hui4] /the Samaritans (modern UK organization)/Samaritans, the (modern UK organization)/
 撒馬利亞人 撒马利亚人 [Sa1 ma3 li4 ya4 ren2] /Samaritan/
+撒馬利亞文 撒马利亚文 [Sa1 ma3 li4 ya4 wen2] /Samaritan (written language)/
 撒縵 撒缦 [Sa1 man4] /Shalman/
 撒縵以色 撒缦以色 [Sa1 man4 yi3 se4] /Shalmaneser/
 撒們 撒们 [Sa1 men5] /Zalmon/
@@ -10148,6 +10276,7 @@
 薩拜 萨拜 [Sa4 bai4] /Zabbai/
 薩貝納 萨贝纳 [Sa4 bei4 na4] /Sabena (name)/
 薩比娜 萨比娜 [Sa4 bi3 na4] /Sabine/
+薩波蒂克語 萨波蒂克语 [Sa4 bo1 di4 ke4 yu3] /Zapotec (language)/
 薩波特克語 萨波特克语 [Sa4 bo1 te4 ke4 yu3] /Zapotec (language)/
 薩博 萨博 [Sa4 bo2] /Sabo/
 薩達諾夫 萨达诺夫 [Sa4 da2 nuo4 fu1] /Satdanov/
@@ -10163,6 +10292,7 @@
 薩哈羅夫 萨哈罗夫 [Sa4 ha1 luo2 fu1] /Sakharov/
 薩哈伊 萨哈伊 [Sa4 ha1 yi1] /Sahaï/
 薩赫勒地區 萨赫勒地区 [Sa4 he4 le4_di4 qu1] /Sahel region/region, Sahel/
+薩霍語 萨霍语 [Sa4 huo4 yu3] /Saho (language)/
 薩金特 萨金特 [Sa4 jin1 te4] /Sargent/
 薩凱 萨凯 [Sa4 kai3] /Zaccai/
 薩克拉門托 萨克拉门托 [Sa4 ke4 la1 men2 tuo1] /Sacramento/
@@ -10218,6 +10348,7 @@
 薩穆埃爾 萨穆埃尔 [Sa4 mu4 ai1 er3] /Samuel (modern, in some languages)/
 薩那 萨那 [Sa4 na4] /Sana/
 薩帕塔 萨帕塔 [Sa4 pa4 ta3] /Zapata/
+薩薩克文 萨萨克文 [Sa4 sa4 ke4 wen2] /Sasak (language)/
 薩瑟克 萨瑟克 [Sa4 se4 ke4] /Southwark/
 薩塞克斯郡 萨塞克斯郡 [Sa4 se4 ke4 si1 jun4] /Sussex/
 薩瑟蘭 萨瑟兰 [Sa4 se4 lan2] /Sutherland/
@@ -10236,12 +10367,14 @@
 薩維奇 萨维奇 [Sa4 wei2 qi2] /Savage (surname)/
 薩西 萨西 [Sa4 xi1] /Susi/
 薩伊爾 萨伊尔 [Sa4 yi1 er3] /Zaire/Zaïre (older translation)/
+塞爾庫普語 塞尔库普语 [Sai1 er3 ku4 pu3 yu3] /Selkup (language)/
 塞爾希奧 塞尔希奥 [Sai1 er3 xi1 ao4] /Sergio/
 塞弗 塞弗 [Sai1 fu2] /Safer (surname)/
 塞赫邁特 塞赫迈特 [Sai1 he4 mai4 te4] /Sekhmet/
 塞克什白堡 塞克什白堡 [Sai1 ke4 shi2 bai2 bao3] /Székesfehérvár/
 塞拉 塞拉 [Sai1 la1] /Cera/
 塞拉諾 塞拉诺 [Sai1 la1 nuo4] /Serrano/
+塞內卡語 塞内卡语 [Sai1 nei4 ka3 yu3] /Seneca (language)/
 塞韋爾 塞韦尔 [Sai1 wei2 er3] /Sever (surname)/
 塞西爾 塞西尔 [Sai1 xi1 er3] /Cecil/
 塞西莉 塞西莉 [Sai1 xi1 li4] /Cecilie/
@@ -10295,6 +10428,7 @@
 塞內加 塞内加 [Sai4 nei4 jia1] /Seneca/
 塞皮克河 塞皮克河 [Sai4 pi2 ke4 he2] /Sepik (river)/
 塞浦路斯人 塞浦路斯人 [Sai4 pu3 lu4 si1 ren2] /men of Cyprus/Cyprus, men of/
+塞浦路斯文 塞浦路斯文 [Sai4 pu3 lu4 si1 wen2] /Cypriot (written language)/
 塞薩爾 塞萨尔 [Sai4 sa4 er3] /Cesare/
 塞薩爾 塞萨尔 [Sai4 sa4 er3] /Cézar/
 塞舌爾群島 塞舌尔群岛 [Sai4 she2 er3_qun2 dao3] /Seychelles (islands)/
@@ -10335,6 +10469,7 @@
 三原縣 三原县 [San1 yuan2_Xian4] /Sanyuan (county, in Shaanxi)/
 桑巴拉 桑巴拉 [Sang1 ba1 la1] /Sanballat/
 桑比西 桑比西 [Sang1 bi3 xi1] /Zambezi (older translation)/
+桑達韋語 桑达韦语 [Sang1 da2 wei2 yu3] /Sandawe (language)/
 桑丹斯基 桑丹斯基 [Sang1 dan1 si1 ji1] /Sandanski/
 桑德 桑德 [Sang1 de2] /Shanda/
 桑德拉 桑德拉 [Sang1 de2 la1] /Sandra/
@@ -10365,6 +10500,7 @@
 桑喬 桑乔 [Sang1 qiao2] /Sancho/
 桑切斯 桑切斯 [Sang1 qie4 si1] /Sánchez/
 桑斯 桑斯 [Sang1 si1] /Sanz/
+桑塔利文 桑塔利文 [Sang1 ta3 li4 wen2] /Ol Chiki (written language)/Chiki, Ol (written language)/
 桑塔利語 桑塔利语 [Sang1 ta3 li4 yu3] /Santhali (language)/
 桑坦德 桑坦德 [Sang1 tan3 de2] /Santander (Spanish port)/
 桑托斯 桑托斯 [Sang1 tuo1 si1] /Santos/
@@ -10393,11 +10529,13 @@
 色諾芬 色诺芬 [Se4 nuo4 fen1] /Xenophon/
 色薩利 色萨利 [Se4 sa4 li4] /Thessaly/
 瑟斯頓 瑟斯顿 [Se4 si1 dun4] /Thurston/
+色斯文 色斯文 [Se4 si1 wen5] /Cirth (written language)/
 塞蘇陀語 塞苏陀语 [Se4 su1 tuo2 yu3] /Sesotho (language) (pinyin uncertain)/
 塞維爾斯基 塞维尔斯基 [Se4 wei2 er3 si1 ji1] /Sivulskiy (pinyin uncertain)/
 森迪 森迪 [Sen1 di2] /Sunday (surname)/
 森托薩 森托萨 [Sen1 tuo1 sa4] /Sentosa (name)/
 僧伽羅 僧伽罗 [Seng1 jia1 luo2] /Sinhala (ethnicity)/
+僧伽羅文 僧伽罗文 [Seng1 jia1 luo2 wen2] /Sinhala (written language)/
 莎劇 莎剧 [Sha1_ju4] /Shakespeare play (abbreviation)/play, Shakespeare (abbreviation)/
 沙阿 沙阿 [Sha1 a1] /Shāh/
 沙恩 沙恩 [Sha1 en1] /Shane/
@@ -10526,6 +10664,7 @@
 上思縣 上思县 [Shang4 si1_Xian4] /Shangsi (county, in Guangxi)/
 上蘇爾姆 上苏尔姆 [Shang4 su1 er3 mu3] /Obersulm/
 上蘇爾姆市 上苏尔姆市 [Shang4 su1 er3 mu3_Shi4] /Obersulm/
+上索布語 上索布语 [Shang4 suo3 bu4 yu3] /Upper Sorbian (language)/Sorbian, Upper (language)/
 上猶縣 上犹县 [Shang4 you2_Xian4] /Shangyou (county, in Jiangxi)/
 上虞市 上虞市 [Shang4 yu2_Shi4] /Shangyu (city, in Zhejiang)/
 尚志市 尚志市 [Shang4 zhi4_Shi4] /Shangzhi (in Heilongjiang)/
@@ -11045,6 +11184,7 @@
 斯托特 斯托特 [Si1 tuo1 te4] /Stott/
 斯托辛格 斯托辛格 [Si1 tuo1 xin1 ge2] /Stoessinger/
 斯瓦爾巴 斯瓦尔巴 [Si1 wa3 er3 ba1] /Svalbard/
+斯瓦蒂語 斯瓦蒂语 [Si1 wa3 di4 yu3] /Swati (language)/
 斯瓦涅季 斯瓦涅季 [Si1 wa3 nie4 ji4] /Svaneti/
 斯瓦特語 斯瓦特语 [Si1 wa3 te4 yu3] /Swati (language)/
 斯萬人 斯万人 [Si1 wan4 ren2] /Svan (people)/
@@ -11107,6 +11247,7 @@
 蘇格蘭蓋爾語 苏格兰盖尔语 [Su1 ge2 lan2_Gai4 er3 yu3] /Scottish Gaelic/Gaelic, Scottish/
 蘇格蘭長老會 苏格兰长老会 [Su1 ge2 lan2_Zhang3 lao3 hui4] /Church of Scotland/Scotland, Church of/
 蘇格蘭人報 苏格兰人报 [Su1 ge2 lan2 ren2_Bao4] /The Scotsman (newspaper)/Scotsman, The (newspaper)/
+蘇格蘭語 苏格兰语 [Su1 ge2 lan2 yu3] /Scots (language)/
 蘇赫拉卜 苏赫拉卜 [Su1 he4 la1 bu3] /Suhrab/
 蘇呼米 苏呼米 [Su1 hu1 mi3] /Sokhumi/
 蘇基 苏基 [Su1 ji1] /Sukkiim/
@@ -11129,6 +11270,7 @@
 蘇梅島 苏梅岛 [Su1 mei2 dao3] /Ko Samui (island)/Samui, Ko (island)/
 蘇美爾 苏美尔 [Su1 mei3 er3] /Sumer/
 蘇美爾人 苏美尔人 [Su1 mei3 er3 ren2] /Sumerian (person|people)/
+蘇美爾語 苏美尔语 [Su1 mei3 er3 yu3] /Sumerian (language)/
 蘇納爾 苏纳尔 [Su1 na4 er3] /Sunal/
 蘇尼特右旗 苏尼特右旗 [Su1 ni2 te4 you4_Qi2] /Sonid Right (banner, in Inner Mongolia)/Right, Sonid (banner, in Inner Mongolia)/
 蘇尼特左旗 苏尼特左旗 [Su1 ni2 te4 zuo3_Qi2] /Sonid Left (banner, in Inner Mongolia)/Left, Sonid (banner, in Inner Mongolia)/
@@ -11216,6 +11358,7 @@
 索福克勒斯 索福克勒斯 [Suo3 fu2 ke4 le4 si1] /Sophocles/
 索福尼亞 索福尼亚 [Suo3 fu2 ni2 ya4] /Zephaniah (book, Catholic version)/
 索格 索格 [Suo3 ge2] /Zog/
+索加語 索加语 [Suo3 jia1 yu3] /Soga (language)/
 索卡爾 索卡尔 [Suo3 ka3 er3] /Sokal (surname)/
 索拉去 索拉去 [Suo3 la1 qu4] /Sawla/
 瑣拉人 琐拉人 [Suo3 la1 ren2] /Zorathites/
@@ -11243,6 +11386,7 @@
 索妮亞 索妮亚 [Suo3 ni1 ya4] /Sonja/
 索尼愛立信 索尼爱立信 [Suo3 ni2 Ai4 li4 xin4] /Sony-Ericsson/
 索尼婭 索尼娅 [Suo3 ni2 ya4] /Sonya/
+索寧克語 索宁克语 [Suo3 ning4 ke4 yu3] /Soninke (language)/
 索諾拉州 索诺拉州 [Suo3 nuo4 la1_Zhou1] /Sonora/
 索普 索普 [Suo3 pu3] /Thorpe/
 索齊尼派 索齐尼派 [Suo3 qi2 ni2 pai4] /Socinians/
@@ -11256,6 +11400,7 @@
 瑣轄 琐辖 [Suo3 xia2] /Zohar/
 索緒爾 索绪尔 [Suo3 xu4 er3] /Saussure/
 索伊拉 索伊拉 [Suo3 yi1 la1] /Zoila/
+索永布文 索永布文 [Suo3 yong3 bu4 wen2] /Soyombo (written language)/
 他珥探 他珥探 [Ta1 er3 tan4] /Tartan (old translation?)/
 他巴 他巴 [Ta1 ba1] /Tabbath/
 他貝拉 他贝拉 [Ta1 bei4 la1] /Taberah/
@@ -11270,6 +11415,7 @@
 他普亞 他普亚 [Ta1 pu3 ya4] /Tappuah/
 他施 他施 [Ta1 shi1] /Tarshish/
 塔橋 塔桥 [Ta3_Qiao2] /Tower Bridge/Bridge, Tower/
+塔安那文 塔安那文 [Ta3 an1 na4 wen2] /Thaana (written language)/
 塔爾曼 塔尔曼 [Ta3 er3 man4] /Thalemann/
 塔爾喬 塔尔乔 [Ta3 er3 qiao2] /Tárcio/
 塔爾圖 塔尔图 [Ta3 er3 tu2] /Tartu/
@@ -11284,6 +11430,7 @@
 塔蒂亞娜 塔蒂亚娜 [Ta3 di4 ya4 na4] /Tanya (older translation)/
 塔甘羅格 塔甘罗格 [Ta3 gan1 luo2 ge2] /Taganrog/
 塔甘羅格市 塔甘罗格市 [Ta3 gan1 luo2 ge2_Shi4] /city of Taganrog/Taganrog, city of/
+塔格班瓦文 塔格班瓦文 [Ta3 ge2 ban1 wa3 wen2] /Tagbanwa (written language)/
 塔古姆 塔古姆 [Ta3 gu3 mu3] /Targum/
 塔古斯 塔古斯 [Ta3 gu3 si1] /Tagus/
 塔哈島 塔哈岛 [Ta3 ha1 dao3] /Tahaa (island)/
@@ -11293,6 +11440,7 @@
 塔吉克斯坦 塔吉克斯坦 [Ta3 ji2 ke4 si1 tan3] /Tajikistan/
 塔吉克語 塔吉克语 [Ta3 ji2 ke4 yu3] /Tajiki (language)/
 塔季揚娜 塔季扬娜 [Ta3 ji4 yang2 na4] /Tatjana/
+塔加路文 塔加路文 [Ta3 jia1 lu4 wen2] /Tagalog (written language)/
 塔科馬 塔科马 [Ta3 ke1 ma3] /Tacoma/
 塔克 塔克 [Ta3 ke4] /Tuck (surname)/
 塔克拉瑪干沙漠 塔克拉玛干沙漠 [Ta3 ke4 la1 ma3 gan1_sha1 mo4] /Takla Makan Desert/Makan Desert, Takla/
@@ -11308,6 +11456,7 @@
 塔馬 塔马 [Ta3 ma3] /Tamar (modern)/
 塔瑪拉 塔玛拉 [Ta3 ma3 la1] /Tamara/
 塔馬齊格特語 塔马齐格特语 [Ta3 ma3 qi2 ge2 te4 yu3] /Tamazight (language)/
+塔馬奇克語 塔马奇克语 [Ta3 ma3 qi2 ke4 yu3] /Tamashek (language)/
 塔木德 塔木德 [Ta3 mu4 de2] /Talmud/
 塔納 塔纳 [Ta3 na4] /Tana/
 塔納克 塔纳克 [Ta3 na4 ke4] /Tanakh (Jewish term for Hebrew scriptures)/
@@ -11382,11 +11531,14 @@
 泰利獎 泰利奖 [Tai4 li4_Jiang3] /Telly Award/Award, Telly/
 泰麗斯 泰丽斯 [Tai4 li4 si1] /Therese/
 泰利文 泰利文 [Tai4 li4 wen2] /Telemann/
+泰盧固文 泰卢固文 [Tai4 lu2 gu4 wen2] /Telugu (written language)/
 泰盧固語 泰卢固语 [Tai4 lu2 gu4 yu3] /Telugu (language)/
 太魯閣語 太鲁阁语 [Tai4 lu3 ge2 yu3] /Taroko (language)/
 泰倫斯 泰伦斯 [Tai4 lun2 si1] /Terrence/
 泰馬里 泰马里 [Tai4 ma3 li3] /Temarii/
 泰米爾 泰米尔 [Tai4 mi3 er3] /Tamil (ethnicity)/
+泰米爾文 泰米尔文 [Tai4 mi3 er3 wen2] /Tamil (written language)/
+泰姆奈語 泰姆奈语 [Tai4 mu3 nai4 yu3] /Timne (language)/
 泰穆爾 泰穆尔 [Tai4 mu4 er3] /Teymur/
 泰娜 泰娜 [Tai4 na4] /Tara/
 泰寧縣 泰宁县 [Tai4 ning2_Xian4] /Taining (county, in Fujian)/
@@ -11402,6 +11554,7 @@
 太特 太特 [Tai4 te4] /Tete/
 泰特 泰特 [Tai4 te4] /Tait/
 泰特斯 泰特斯 [Tai4 te4 si1] /Titus (Shakespeare)/
+泰文 泰文 [Tai4 wen2] /Thai (written language)/
 泰晤士報 泰晤士报 [Tai4 wu4 shi4 bao4] /The Times newspaper (London)/Times newspaper, The (London)/
 泰晤士河 泰晤士河 [Tai4 wu4 shi4 he2] /River Thames/Thames, River/
 泰興 泰兴 [Tai4 xing4] /Taixing (in Jiangsu)/
@@ -11446,6 +11599,7 @@
 湯原縣 汤原县 [Tang1 yuan2_Xian4] /Tangyuan (county, in Heilongjiang)/
 唐吉訶德 唐吉诃德 [Tang2_Ji2 he1 de2] /Don Quixote/Quixote, Don/
 唐恩 唐恩 [Tang2 en1] /Dan (modern name)/
+唐古特文 唐古特文 [Tang2 gu3 te4 wen2] /Tangut (written language)/
 唐海縣 唐海县 [Tang2 hai3_Xian4] /Tanghai (county, in Hebei)/
 唐河縣 唐河县 [Tang2 he2_Xian4] /Tanghe (county, in Henan)/
 唐娜 唐娜 [Tang2 na4] /Donna/
@@ -11524,6 +11678,7 @@
 特莉 特莉 [Te4 li4] /Terry (female)/
 特麗莎 特丽莎 [Te4 li4 sha1] /Trisha/
 特林吉特人 特林吉特人 [Te4 lin2 ji2 te4 ren2] /Klinket community/community, Klinket/
+特林吉特語 特林吉特语 [Te4 lin2 ji2 te4 yu3] /Tlingit (language)/
 特隆赫姆 特隆赫姆 [Te4 long2 he4 mu3] /Trondheim/
 特魯克 特鲁克 [Te4 lu3 ke4] /Chuuk/
 特魯克群島 特鲁克群岛 [Te4 lu3 ke4_qun2 dao3] /Chuuk Islands/Islands, Chuuk/
@@ -11553,6 +11708,7 @@
 特普費爾 特普费尔 [Te4 pu3 fei4 er3] /Toepfer/
 特斯法馬里亞姆 特斯法马里亚姆 [Te4 si1 fa3 ma3 li3 ya4 mu3] /Tesfamariam/
 特斯拉 特斯拉 [Te4 si1 la1] /Tesla/
+特索語 特索语 [Te4 suo3 yu3] /Teso (language)/
 特瓦 特瓦 [Te4 wa3] /Tikvah/
 特威德 特威德 [Te4 wei1 de2] /Tweed/
 特威克納姆 特威克纳姆 [Te4 wei1 ke4 na4 mu3] /Twickenham/
@@ -11563,6 +11719,7 @@
 忒修斯 忒修斯 [Te4 xiu1 si1] /Theseus/
 騰沖 腾冲 [Teng2 chong1] /Tengchong (in Yunnan)/
 騰沖市 腾冲市 [Teng2 chong1_Shi4] /Tengchong (in Yunnan)/
+騰格瓦文字 腾格瓦文字 [Teng2 ge2 wa3 wen2 zi4] /Tengwar (written language)/
 滕納 滕纳 [Teng2 na4] /Tenneh/
 滕斯托爾 滕斯托尔 [Teng2 si1 tuo1 er3] /Tunstall/
 騰訊 腾讯 [Teng2 xun4] /Tencent (QQ company)/
@@ -11583,9 +11740,12 @@
 提達 提达 [Ti2 da2] /Tidal/
 提多 提多 [Ti2 duo1] /Titus (Christian)/
 提多書 提多书 [Ti2 duo1 shu1] /Titus (Bible book)/
+提非納文 提非纳文 [Ti2 fei1 na4 wen2] /Tifinagh (written language)/
 提哥亞 提哥亚 [Ti2 ge1 ya4] /Tekoa/
 提哥亞人 提哥亚人 [Ti2 ge1 ya4 ren2] /Tekoite/
+提格雷語 提格雷语 [Ti2 ge2 lei2 yu3] /Tigre (language)/
 提格里尼亞語 提格里尼亚语 [Ti2 ge2 li3 ni2 ya4 yu3] /Tigrinya (language)/
+提格利尼亞語 提格利尼亚语 [Ti2 ge2 li4 ni2 ya4 yu3] /Tigrinya (language)/
 提哈 提哈 [Ti2 ha1] /Tibhath/
 提拉 提拉 [Ti2 la1] /Tiras/
 提拉特 提拉特 [Ti2 la1 te4] /Tirath/
@@ -11616,6 +11776,7 @@
 天峨縣 天峨县 [Tian1 e2_Xian4] /Tian'e (county, in Guangxi)/
 天長 天长 [Tian1 chang2] /Tianchang (in Anhui)/
 天長市 天长市 [Tian1 chang2_Shi4] /Tianchang (in Anhui)/
+天城文 天城文 [Tian1 cheng2 wen2] /Devanagari (written language)/
 天等縣 天等县 [Tian1 deng3_Xian4] /Tiandeng (county, in Guangxi)/
 天津市 天津市 [Tian1 jin1_Shi4] /Tianjin (in Hebei)/
 天峻縣 天峻县 [Tian1 jun4_Xian4] /Tianjun (county, in Qinghai)/
@@ -11774,6 +11935,7 @@
 托克勞 托克劳 [Tuo1 ke4 lao2] /Tokelau/
 托克勞語 托克劳语 [Tuo1 ke4 lao2 yu3] /Tokelauan (language)/
 托克馬克 托克马克 [Tuo1 ke4 ma3 ke4] /Tokmok/
+托克皮辛語 托克皮辛语 [Tuo1 ke4 pi2 xin1 yu3] /Tok Pisin (language)/Pisin, Tok (language)/
 托克托縣 托克托县 [Tuo1 ke4 tuo1_Xian4] /Togtoh (county, in Inner Mongolia)/
 托克遜縣 托克逊县 [Tuo1 ke4 xun4_Xian4] /Toksun (county, in Xinjiang)/
 托拉 托拉 [Tuo1 la1] /Torah/
@@ -11816,6 +11978,8 @@
 瓦爾海姆 瓦尔海姆 [Wa3 er3 hai3 mu3] /Waldheim/
 瓦爾納瓦斯 瓦尔纳瓦斯 [Wa3 er3 na4 wa3 si1] /Varnavas/
 瓦爾帕萊索 瓦尔帕莱索 [Wa3 er3 pa4 lai2 suo3] /Valparaiso/
+瓦爾皮瑞語 瓦尔皮瑞语 [Wa3 er3 pi2 rui4 yu3] /Warlpiri (language)/
+瓦爾瑟語 瓦尔瑟语 [Wa3 er3 se4 yu3] /Walser (language)/
 瓦爾特 瓦尔特 [Wa3 er3 te4] /Walter (older translation)/
 瓦爾特堡 瓦尔特堡 [Wa3 er3 te4 bao3] /Wartburg/
 瓦爾沃克 瓦尔沃克 [Wa3 er3 wo4 ke4] /Wallwork/
@@ -11834,6 +11998,7 @@
 瓦卡里 瓦卡里 [Wa3 ka3 li3] /Vaccari/
 瓦科 瓦科 [Wa3 ke1] /Wakaw/
 瓦拉爾 瓦拉尔 [Wa3 la1 er3] /Valard/
+瓦拉莫語 瓦拉莫语 [Wa3 la1 mo4 yu3] /Wolaytta (language)/
 瓦拉納西 瓦拉纳西 [Wa3 la1 na4 xi1] /Varanasi/
 瓦萊麗 瓦莱丽 [Wa3 lai2 li4] /Valerie/
 瓦萊麗 瓦莱丽 [Wa3 lai2 li4] /Valérie/
@@ -11846,6 +12011,7 @@
 瓦蓮京娜 瓦莲京娜 [Wa3 lian2 jing1 na4] /Valentina/
 瓦列里 瓦列里 [Wa3 lie4 li3] /Valeriy/
 瓦琳 瓦琳 [Wa3 lin2] /Vaslyn/
+瓦隆語 瓦隆语 [Wa3 long2 yu3] /Walloon (language)/
 瓦倫蒂諾 瓦伦蒂诺 [Wa3 lun2 di4 nuo4] /Valentino/
 瓦倫丁 瓦伦丁 [Wa3 lun2 ding1] /Valentine (surname)/
 瓦倫丁娜 瓦伦丁娜 [Wa3 lun2 ding1 na4] /Valentina/
@@ -11860,6 +12026,7 @@
 瓦努瓦斯 瓦努瓦斯 [Wa3 nu3 wa3 si1] /Vanoise/
 瓦奇爾 瓦奇尔 [Wa3 qi2 er3] /Vazir/
 瓦瑞瓦瑞語 瓦瑞瓦瑞语 [Wa3 rui4 wa3 rui4 yu3] /Waray-Waray (language)/
+瓦瑞語 瓦瑞语 [Wa3 rui4 yu3] /Waray (language)/
 瓦實提 瓦实提 [Wa3 shi2 ti2] /Vashti/
 瓦斯蒂安 瓦斯蒂安 [Wa3 si1 di4 an1] /Sebastián/
 瓦斯潘 瓦斯潘 [Wa3 si1 pan1] /Waspam/
@@ -11872,6 +12039,7 @@
 瓦西里 瓦西里 [Wa3 xi1 li3] /Vasile/
 瓦西里 瓦西里 [Wa3 xi1 li3] /Vasili/
 瓦耶撒他 瓦耶撒他 [Wa3 ye1 sa1 ta1] /Vaizatha/
+瓦伊語 瓦伊语 [Wa3 yi1 yu3] /Vai (language)/
 瓦因 瓦因 [Wa3 yin1] /Vine's (as in Vine's Expository Dictionary)/
 瓦英阿普 瓦英阿普 [Wa3 ying1 a1 pu3] /Waingapu/
 瓦語 瓦语 [Wa3 yu3] /Wa (language)/
@@ -12059,6 +12227,7 @@
 韋納奇 韦纳奇 [Wei2 na4 qi2] /Wenatchee/
 維納斯 维纳斯 [Wei2 na4 si1] /Venus (Roman god)/
 韋納伊 韦纳伊 [Wei2 na4 yi1] /Verneil/
+維普森語 维普森语 [Wei2 pu3 sen1 yu3] /Veps (language)/
 韋塞克斯 韦塞克斯 [Wei2 sai4 ke4 si1] /Wessex/
 韋塞爾 韦塞尔 [Wei2 se4 er3] /Wessel (pinyin uncertain)/
 維森特 维森特 [Wei2 sen1 te4] /Vicente/
@@ -12135,6 +12304,7 @@
 溫蓋特 温盖特 [Wen1 gai4 te4] /Wingate/
 溫哥華 温哥华 [Wen1 ge1 hua2] /Vancouver/
 溫格特 温格特 [Wen1 ge2 te4] /Wengert/
+溫舊語 温旧语 [Wen1 jiu4 yu3] /Vunjo (language)/
 溫克勒 温克勒 [Wen1 ke4 le4] /Winkler/
 溫嶺 温岭 [Wen1 ling3] /Wenling (in Zhejiang)/
 溫嶺市 温岭市 [Wen1 ling3_Shi4] /Wenling (in Zhejiang)/
@@ -12216,6 +12386,7 @@
 沃格特 沃格特 [Wo4 ge2 te4] /Vogt/
 臥虎藏龍協奏曲 卧虎藏龙协奏曲 [Wo4 hu3 cang2 long2_Xie2 zou4 qu3] /Crouching Tiger Concerto/Tiger Concerto, Crouching/
 沃克 沃克 [Wo4 ke4] /Walker (surname)/
+沃拉普克語 沃拉普克语 [Wo4 la1 pu3 ke4 yu3] /Volapük (language)/
 沃勒斯坦 沃勒斯坦 [Wo4 le4 si1 tan3] /Wallerstein/
 沃里克 沃里克 [Wo4 li3 ke4] /Warwick/
 沃里克郡 沃里克郡 [Wo4 li3 ke4 jun4] /Warwickshire/
@@ -12238,6 +12409,7 @@
 沃特金斯克 沃特金斯克 [Wo4 te4 jin1 si1 ke4] /Votkinsk/
 沃特拉 沃特拉 [Wo4 te4 la1] /Huautla/
 沃特斯 沃特斯 [Wo4 te4 si1] /Waters (surname)/
+沃提克語 沃提克语 [Wo4 ti2 ke4 yu3] /Votic (language)/
 沃威克 沃威克 [Wo4 wei1 ke4] /Warwick (New York)/
 沃維 沃维 [Wo4 wei2] /Wavy (surname)/
 沃肖 沃肖 [Wo4 xiao4] /Warshaw/
@@ -12267,6 +12439,8 @@
 烏海市 乌海市 [Wu1 hai3_Shi4] /Wuhai (in Inner Mongolia)/
 烏吉吉 乌吉吉 [Wu1 ji2 ji2] /Ujiji/
 烏加里特 乌加里特 [Wu1 jia1 li3 te4] /Ugarit/
+烏加里特文 乌加里特文 [Wu1 jia1 li3 te4 wen2] /Ugaritic (written language)/
+烏加里特語 乌加里特语 [Wu1 jia1 li3 te4 yu3] /Ugaritic (language)/
 烏加特 乌加特 [Wu1 jia1 te4] /Ugarte/
 烏卡 乌卡 [Wu1 ka3] /Ucal/
 烏克蘭語 乌克兰语 [Wu1 ke4 lan2 yu3] /Ukrainian (language)/
@@ -12417,6 +12591,7 @@
 西珥地 西珥地 [Xi1 er3 di4] /Seir (place)/
 希爾頓 希尔顿 [Xi1 er3 dun4] /Hilton/
 希爾弗瑟姆 希尔弗瑟姆 [Xi1 er3 fu2 se4 mu3] /Hilversum/
+錫爾赫特文 锡尔赫特文 [Xi1 er3 he4 te4 wen2] /Syloti Nagri (written language)/Nagri, Syloti (written language)/
 希爾克內斯 希尔克内斯 [Xi1 er3 ke4 nei4 si1] /Kirkenes/
 希爾勒 希尔勒 [Xi1 er3 le4] /Searle/
 西珥人 西珥人 [Xi1 er3 ren2] /person of Seir/Seir, person of/
@@ -12481,6 +12656,7 @@
 淅川縣 淅川县 [Xi1 chuan1_Xian4] /Xichuan (county, in Henan)/
 西答 西答 [Xi1 da2] /Biztha/
 西達 西达 [Xi1 da2] /Zedad/
+悉達摩語 悉达摩语 [Xi1 da2 mo2 yu3] /Sidamo (language)/
 錫達莫語 锡达莫语 [Xi1 da2 mo4 yu3] /Sidama (language)/
 希戴 希戴 [Xi1 dai4] /Hiddai/
 希玳 希玳 [Xi1 dai4] /Heldai/
@@ -12560,6 +12736,7 @@
 希勒家 希勒家 [Xi1 le4 jia1] /Hilkiah/
 希里 希里 [Xi1 li3] /Heli/
 西里爾 西里尔 [Xi1 li3 er3] /Cyril/
+西里爾文 西里尔文 [Xi1 li3 er3 wen2] /Cyrillic (written language)/
 希里芬 希里芬 [Xi1 li3 fen1] /Schlieffen/
 希里莫圖語 希里莫图语 [Xi1 li3 mo4 tu2 yu3] /Hiri Motu (language)/Motu, Hiri (language)/
 西里西亞 西里西亚 [Xi1 li3 xi1 ya4] /Silesia/
@@ -12698,6 +12875,7 @@
 西西拉 西西拉 [Xi1 xi1 la1] /Sisera/
 西西理 西西理 [Xi1 xi1 li3] /Sicily/
 西西里 西西里 [Xi1 xi1 li3] /Sicily/
+西西里語 西西里语 [Xi1 xi1 li3 yu3] /Sicilian (language)/
 西峽縣 西峡县 [Xi1 xia2_Xian4] /Xixia (county, in Henan)/
 西鄉縣 西乡县 [Xi1 xiang1_Xian4] /Xixiang (county, in Shaanxi)/
 西徐亞 西徐亚 [Xi1 xu2 ya4] /Scythia/
@@ -12745,6 +12923,7 @@
 夏河縣 夏河县 [Xia4 he2_Xian4] /Xiahe (county, in Gansu)/
 夏甲 夏甲 [Xia4 jia3] /Hagar/
 夏甲人 夏甲人 [Xia4 jia3 ren2] /Hagrites/Hagarite/
+夏拉達文 夏拉达文 [Xia4 la1 da2 wen2] /Sharada (written language)/
 夏樂蒂 夏乐蒂 [Xia4 le4 di4] /Charlotte/
 夏洛茨維爾 夏洛茨维尔 [Xia4 luo4 ci2 wei2 er3] /Charlottesville/
 夏洛蒂 夏洛蒂 [Xia4 luo4 di4] /Charlotte/
@@ -12758,6 +12937,7 @@
 夏瑣王 夏琐王 [Xia4 suo3 wang2] /king of Hazor/Hazor, king of/
 夏特納 夏特纳 [Xia4 te4 na4] /Shatner/
 夏威夷四弦琴 夏威夷四弦琴 [Xia4 wei1 yi2_si4 xian2 qin2] /ukulele/
+夏威夷語 夏威夷语 [Xia4 wei1 yi2 yu3] /Hawaiian (language)/
 夏延人 夏延人 [Xia4 yan2 ren2] /Cheyennes (people)/
 夏邑縣 夏邑县 [Xia4 yi4_Xian4] /Xiayi (county, in Henan)/
 仙荻 仙荻 [Xian1 di2] /Cindy/
@@ -12888,6 +13068,7 @@
 新蔡縣 新蔡县 [Xin1 cai4_Xian4] /Xincai (county, in Henan)/
 新昌縣 新昌县 [Xin1 chang1_Xian4] /Xinchang (county, in Zhejiang)/
 忻城縣 忻城县 [Xin1 cheng2_Xian4] /Xincheng (county, in Guangxi)/
+新傣文 新傣文 [Xin1 dai3 wen2] /New Tai Lue (written language)/
 欣迪 欣迪 [Xin1 di2] /Cindy/
 莘迪 莘迪 [Xin1 di2] /Cindy/
 辛迪 辛迪 [Xin1 di2] /Cindy/
@@ -12965,6 +13146,7 @@
 忻州市 忻州市 [Xin1 zhou1_Shi4] /Xinzhou (in Shanxi)/
 新竹 新竹 [Xin1 zhu2] /Xinzhu/Hsinchu (Taiwan)/
 新莊 新庄 [Xin1 zhuang1] /Hsinchuang/Xinzhuang (Taiwan)/
+信德文 信德文 [Xin4 de2 wen2] /Khudawadi (written language)/
 信丰縣 信丰县 [Xin4 feng1_Xian4] /Xinfeng (county, in Jiangxi)/
 信陽 信阳 [Xin4 yang2] /Xinyang (in Henan)/
 信陽市 信阳市 [Xin4 yang2_Shi4] /Xinyang (in Henan)/
@@ -13061,6 +13243,7 @@
 遜城 逊城 [Xun4 cheng2] /Sin (city in Egypt)/
 訓道篇 训道篇 [Xun4 dao4 pian1] /Ecclesiastes (Catholic name)/
 遜克縣 逊克县 [Xun4 ke4_Xian4] /Xunke (county, in Heilongjiang)/
+巽他文 巽他文 [Xun4 ta1 wen2] /Sundanese (written language)/
 巽他語 巽他语 [Xun4 ta1 yu3] /Sunda (language)/
 押卜 押卜 [Ya1 bu3] /Azbuk/
 押頓 押顿 [Ya1 dun4] /Abdon/
@@ -13530,6 +13713,7 @@
 楊憲益 杨宪益 [Yang2_Xian4 yi4] /Yang Xianyi (translator)/Xianyi, Yang (translator)/
 楊雪儀 杨雪仪 [Yang2_Xue3 yi2] /Cheri Yeung Suet-Yee (actor|producer)/Yeung Suet-Yee, Cheri (actor|producer)/
 楊安 杨安 [Yang2 an1] /Jean/
+洋卞語 洋卞语 [Yang2 bian4 yu3] /Yangben (language)/
 楊布 杨布 [Yang2 bu4] /Jambres/
 陽城縣 阳城县 [Yang2 cheng2_Xian4] /Yangcheng (county, in Shanxi)/
 陽春市 阳春市 [Yang2 chun1_Shi4] /Yangchun (in Guangdong)/
@@ -13551,6 +13735,7 @@
 陽泉市 阳泉市 [Yang2 quan2_Shi4] /Yangquan (in Shanxi)/
 陽山縣 阳山县 [Yang2 shan1_Xian4] /Yangshan (county, in Guangdong)/
 陽朔縣 阳朔县 [Yang2 shuo4_Xian4] /Yangshuo (county, in Guangxi)/
+楊松錄苗文 杨松录苗文 [Yang2 song1 lu4 miao2 wen2] /Pahawh Hmong (written language)/Hmong, Pahawh (written language)/
 陽西縣 阳西县 [Yang2 xi1_Xian4] /Yangxi (county, in Guangdong)/
 陽新縣 阳新县 [Yang2 xin1_Xian4] /Yangxin (county, in Hubei)/
 陽原縣 阳原县 [Yang2 yuan2_Xian4] /Yangyuan (county, in Hebei)/
@@ -13562,6 +13747,7 @@
 漾濞縣 漾濞县 [Yang4 bi4_Xian4] /Yangbi (county, in Yunnan)/
 姚安縣 姚安县 [Yao2 an1_Xian4] /Yao'an (county, in Yunnan)/
 瑤語 瑶语 [Yao2 yu3] /Iu Mien (language)/Mien, Iu (language)/
+瑤族語 瑶族语 [Yao2 zu2 yu3] /Yao (language)/
 耀州區 耀州区 [Yao4 zhou1_Qu1] /Yaozhou (district, in Shaanxi)/
 耶爾穆克 耶尔穆克 [Ye1 er3 mu4 ke4] /Yarmuk (Torrent Valley)/
 耶賓 耶宾 [Ye1 bin1] /Jabin/
@@ -13698,6 +13884,7 @@
 伊頓語 伊顿语 [Yi1 dun4 yu3] /Eton (language)/
 伊多 伊多 [Yi1 duo1] /Iddo/
 伊多馬語 伊多马语 [Yi1 duo1 ma3 yu3] /Idoma (language)/
+伊多語 伊多语 [Yi1 duo1 yu3] /Ido (language)/
 伊凡 伊凡 [Yi1 fan2] /Ivan/
 伊馮娜 伊冯娜 [Yi1 feng2 na4] /Yvonne/
 伊鳳 伊凤 [Yi1 feng4] /Yvonne/
@@ -13789,6 +13976,7 @@
 伊妮德 伊妮德 [Yi1 ni1 de2] /Enid/
 伊寧 伊宁 [Yi1 ning2] /Yining (in Xinjiang)/
 伊寧市 伊宁市 [Yi1 ning2_Shi4] /Yining (in Xinjiang)/
+伊努皮克語 伊努皮克语 [Yi1 nu3 pi2 ke4 yu3] /Inupiaq (language)/
 伊努伊特 伊努伊特 [Yi1 nu3 yi1 te4] /Inuit/
 伊努伊特語 伊努伊特语 [Yi1 nu3 yi1 te4 yu3] /Inuktitut (language)/
 伊普斯威奇 伊普斯威奇 [Yi1 pu3 si1 wei1 qi2] /Ipswich/
@@ -13881,6 +14069,7 @@
 宜良縣 宜良县 [Yi2 liang2_Xian4] /Yiliang (county, in Yunnan)/
 彞良縣 彝良县 [Yi2 liang2_Xian4] /Yiliang (county, in Yunnan)/
 儀隴縣 仪陇县 [Yi2 long3_Xian4] /Yilong (county, in Sichuan)/
+彞文 彝文 [Yi2 wen2] /Yi (written language)/
 宜興 宜兴 [Yi2 xing4] /Yixing (in Jiangsu)/
 宜興市 宜兴市 [Yi2 xing4_Shi4] /Yixing (in Jiangsu)/
 宜陽縣 宜阳县 [Yi2 yang2_Xian4] /Yiyang (county, in Henan)/
@@ -14026,6 +14215,7 @@
 義大利 义大利 [Yi4 da4 li4] /Italy (alternate translation)/
 意大利人 意大利人 [Yi4 da4 li4 ren2] /Italian person/Italians/person, Italian/
 意大利語 意大利语 [Yi4 da4 li4 yu3] /Italian (language)/
+意第緒語 意第绪语 [Yi4 di4 xu4 yu3] /Yiddish (language)/
 易多 易多 [Yi4 duo1] /Iddo (old translation?)/
 益吉 益吉 [Yi4 ji2] /Ikkesh/
 亦迦 亦迦 [Yi4 jia1] /Iscah/
@@ -14074,6 +14264,7 @@
 印度榕樹 印度榕树 [Yin4 du4_rong2 shu4] /banyan tree (Indian)/tree, banyan (Indian)/
 印度河 印度河 [Yin4 du4 he2] /Indus (river)/
 印度教徒 印度教徒 [Yin4 du4 jiao4 tu2] /Hindu (follower)/
+印度尼西亞語 印度尼西亚语 [Yin4 du4 ni2 xi1 ya4 yu3] /Indonesian (language)/
 印度人 印度人 [Yin4 du4 ren2] /Indian (person)/
 印古什語 印古什语 [Yin4 gu3 shi2 yu3] /Ingush (language)/
 印加語 印加语 [Yin4 jia1 yu3] /Inga (language)/
@@ -14413,6 +14604,7 @@
 月光曲 月光曲 [Yue4 guang1_Qu3] /Moonlight Melody (Chinese title of "Moonlight" sonata, old translation?)/Melody, Moonlight (Chinese title of "Moonlight" sonata, old translation?)/
 月光奏鳴曲 月光奏鸣曲 [Yue4 guang1_Zou4 ming2 qu3] /Moonlight Sonata/Sonata, Moonlight/
 樂記 乐记 [Yue4 ji4] /Record of Music (Han dynasty?)/Music, Record of (Han dynasty?)/
+越南傣文 越南傣文 [Yue4 nan2 dai3 wen2] /Tai Viet (written language)/Viet, Tai (written language)/
 岳普湖縣 岳普湖县 [Yue4 pu3 hu2_Xian4] /Yopurga (county, in Xinjiang)/
 樂清 乐清 [Yue4 qing1] /Yueqing (in Zhejiang)/
 樂清市 乐清市 [Yue4 qing1_Shi4] /Yueqing (in Zhejiang)/
@@ -14491,6 +14683,7 @@
 詹寧斯 詹宁斯 [Zhan1 ning2 si1] /Jennings/
 詹森 詹森 [Zhan1 sen1] /Jensen (older translation)/
 占士 占士 [Zhan1 shi4] /James (older translation)/
+占文 占文 [Zhan1 wen2] /Cham (written language)/
 沾益縣 沾益县 [Zhan1 yi4_Xian4] /Zhanyi (county, in Yunnan)/
 戰記 戰記 [Zhan4 ji4] /Book of Wars/Wars, Book of/
 湛江 湛江 [Zhan4 jiang1] /Zhanjiang (in Guangdong)/
@@ -14530,6 +14723,7 @@
 朝陽市 朝阳市 [Zhao1 yang2_Shi4] /Chaoyang (in Liaoning)/
 招遠 招远 [Zhao1 yuan3] /Zhaoyuan (in Shandong)/
 招遠市 招远市 [Zhao1 yuan3_Shi4] /Zhaoyuan (in Shandong)/
+爪哇文 爪哇文 [Zhao3 wa1 wen2] /Javanese (written language)/
 爪哇語 爪哇语 [Zhao3 wa1 yu3] /Javanese (language)/
 趙彥春 赵彦春 [Zhao4_Yan4 chun1] /Zhao Yanchun (translator)/Yanchun, Zhao (translator)/
 詔安縣 诏安县 [Zhao4 an1_Xian4] /Zhao'an (county, in Fujian)/
@@ -14728,6 +14922,7 @@
 宗教法 宗教法 [Zong1 jiao4_Fa3] /Religion Law/
 宗教改革運動 宗教改革运动 [Zong1 jiao4_Gai3 ge2_Yun4 dong4] /Reformation/
 宗教知識辭典 宗教知识辞典 [Zong1 jiao4_Zhi1 shi5_Ci2 dian3] /A Dictionary of Religious Knowledge/Dictionary of Religious Knowledge, A/
+宗卡語 宗卡语 [Zong1 ka3 yu3] /Dzongkha (language)/
 棕櫚泉 棕榈泉 [Zong1 lu:2 quan2] /Palm Springs/Springs, Palm/
 宗齊 宗齐 [Zong1 qi2] /Zongezile/
 宗徒大事錄 宗徒大事录 [Zong1 tu2_Da4 shi4 lu4] /Acts of Apostles (book, Catholic version)/Apostles, Acts of (book, Catholic version)/
@@ -14744,6 +14939,7 @@
 祖魯蘭 祖鲁兰 [Zu3 lu3 lan2] /Zululand/
 祖魯語 祖鲁语 [Zu3 lu3 yu3] /Zulu (language)/
 祖母節 祖母节 [Zu3 mu3 jie2] /Grandmother's Day/
+祖尼語 祖尼语 [Zu3 ni2 yu3] /Zuni (language)/
 組圖 组图 [Zu3 tu2] /In Pictures: (used in newspaper headings etc)/Pictures:, In (used in newspaper headings etc)/
 遵化 遵化 [Zun1 hua4] /Zunhua (in Hebei)/
 遵化市 遵化市 [Zun1 hua4_Shi4] /Zunhua (in Hebei)/
@@ -14910,6 +15106,7 @@
 寶貴的光陰 宝贵的光阴 [bao3 gui4_de5_guang1 yin1] /valuable time/time, valuable/
 保護兒童 保护儿童 [bao3 hu4_er2 tong2] /child protection/protection, child/
 保護環境 保护环境 [bao3 hu4_huan2 jing4] /protect the environment/environment, protect the/
+保護膜 保护膜 [bao3 hu4 mo2] /protective film/film, protective/
 保護罩 保护罩 [bao3 hu4 zhao4] /shield/protective cover (of planet etc)/
 保惠師 保惠师 [bao3 hui4 shi1] /the helper/helper, the/
 飽經 饱经 [bao3 jing1] /had enough of/enough of, had/
@@ -14919,6 +15116,7 @@
 保證物 保证物 [bao3 zheng4 wu4] /security (for a pledge)/
 保重身體 保重身体 [bao3 zhong4_shen1 ti3] /take care of yourself (in managing stress etc)/care of yourself, take (in managing stress etc)/
 寶座廊 宝座廊 [bao3 zuo4 lang2] /Porch of the Throne/Throne, Porch of the/
+抱大腿 抱大腿 [bao4_da4 tui3] /flatter someone in power/hug big legs (of Buddha statue)/someone in power, flatter (of Buddha statue)/legs, hug big (of Buddha statue)/
 報哀 报哀 [bao4 ai1] /report a mournful event?/mournful event?, report a/
 抱抱 抱抱 [bao4 bao5] /embrace (affectionately?)/
 爆表 爆表 [bao4 biao3] /off the scale|charts/scale|charts, off the/
@@ -17067,6 +17265,7 @@
 嘉年華會 嘉年华会 [jia1 nian2 hua2 hui4] /carnival/
 家庭暴力 家庭暴力 [jia1 ting2_bao4 li4] /domestic violence/violence, domestic/
 家庭的衝突 家庭的冲突 [jia1 ting2_de5_chong1 tu1] /family conflict/conflict, family/
+家庭地址 家庭地址 [jia1 ting2_di4 zhi3] /home address/address, home/
 家庭服務機構 家庭服务机构 [jia1 ting2_fu2 wu4_ji1 gou4] /family help organizations/help organizations, family/
 家庭關系 家庭关系 [jia1 ting2_guan1 xi5] /(type of) family relationship/relationship, family/
 家庭教會 家庭教会 [jia1 ting2_jiao4 hui4] /house church/church, house/
@@ -17150,6 +17349,7 @@
 間接提到 间接提到 [jian4 jie1_ti2 dao4] /allude to (lit. indirect mention)/
 健康體重 健康体重 [jian4 kang1_ti3 zhong4] /healthy (body) weight/weight, healthy/
 劍蘭 剑兰 [jian4 lan2] /gladiolus/
+鍵盤俠 键盘侠 [jian4 pan2 xia2] /keyboard warrior (in flame war etc)/warrior, keyboard (in flame war etc)/
 健全的思想 健全的思想 [jian4 quan2_de5_si1 xiang3] /soundness of mind/mind, soundness of/
 箭蛇 箭蛇 [jian4 she2] /arrow snake/snake, arrow/
 劍身 剑身 [jian4 shen1] /blade of a sword (lit. sword body)/sword, blade of a (lit. sword body)/
@@ -17241,6 +17441,7 @@
 結果實的 结果实的 [jie2_guo3 shi2_de5] /fruit-producing/
 結案陳詞 结案陈词 [jie2 an4_chen2 ci2] /closing arguments (in a court case)/arguments, closing (in a court case)/
 潔白如雪 洁白如雪 [jie2 bai2_ru2_xue3] /(made) white as snow/snow, white as/
+劫車者 劫车者 [jie2 che1 zhe3] /car thief/thief, car/
 結構絕緣板 结构绝缘板 [jie2 gou4_jue2 yuan2_ban3] /structural insulated panels/SIPs/insulated panels, structural/
 結婚戒指 结婚戒指 [jie2 hun1_jie4 zhi5] /wedding ring/ring in marriage/ring, wedding/marriage, ring in/
 結婚禮物 结婚礼物 [jie2 hun1_li3 wu4] /wedding gift/gift, wedding/
@@ -18811,6 +19012,7 @@
 上善若水 上善若水 [shang4_shan4_ruo4_shui3] /The highest good is like that of water (from the Classic of the Virtue of the Tao)/highest good is like that of water, The (from the Classic of the Virtue of the Tao)/
 上一次 上一次 [shang4_yi5_ci4] /last time/time, last/
 上一段 上一段 [shang4_yi1_duan4] /the previous paragraph/previous paragraph, the/
+上周末 上周末 [shang4_zhou1 mo4] /last weekend/weekend, last/
 上鞍 上鞍 [shang4 an1] /saddle up/
 上冊 上册 [shang4 ce4] /first of two volumes etc/volumes etc, first of two/
 上池 上池 [shang4 chi2] /upper pool/pool, upper/
