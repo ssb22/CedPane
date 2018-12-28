@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-12-25
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2018-12-28
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -3382,6 +3382,7 @@
 芳蒂語 芳蒂语 [Fang1 di4 yu3] /Fante (language)/
 方濟各會 方济各会 [Fang1 ji4 ge4 hui4] /Franciscan/
 方山縣 方山县 [Fang1 shan1_Xian4] /Fangshan (county, in Shanxi)/
+芳廷 芳廷 [Fang1 ting2] /Fonteyn/
 芳語 芳语 [Fang1 yu3] /Fang (language)/
 房飛 房飞 [Fang2_Fei1] /Fei Fang (conductor)/Fang, Fei (conductor)/
 防城港 防城港 [Fang2 cheng2 gang3] /Fangchenggang (in Guangxi)/
@@ -8027,6 +8028,7 @@
 馬費奧 马费奥 [Ma3 fei4 ao4] /Maffeo/
 馬高 马高 [Ma3 gao1] /Marco/
 瑪戈 玛戈 [Ma3 ge1] /Margot/
+瑪歌 玛歌 [Ma3 ge1] /Margot/
 瑪格達 玛格达 [Ma3 ge2 da2] /Magda/
 馬格達萊娜 马格达莱娜 [Ma3 ge2 da2 lai2 na4] /Magdalena/
 馬格達萊納 马格达莱纳 [Ma3 ge2 da2 lai2 na4] /Magdalena/
@@ -17817,6 +17819,7 @@
 扛抬 扛抬 [kang2 tai2] /carry on the shoulder/shoulder, carry on the/
 抗逆轉錄病毒藥物 抗逆转录病毒药物 [kang4_ni4 zhuan3 lu4_bing4 du2_yao4 wu4] /antiretroviral drugs/ARVs/drugs, antiretroviral/
 抗菌布料 抗菌布料 [kang4 jun1_bu4 liao4] /antibacterial cloth/cloth, antibacterial/
+抗壓性 抗压性 [kang4 ya1 xing4] /resilience (to pressure etc)/
 抗氧化劑 抗氧化剂 [kang4 yang3 hua4 ji4] /antioxidants/
 抗抑郁藥 抗抑郁药 [kang4 yi4 yu4 yao4] /antidepressants/
 抗組胺藥 抗组胺药 [kang4 zu3 an4 yao4] /antihistamines/
@@ -18770,8 +18773,10 @@
 普緒克 普绪克 [pu3 xu4 ke4] /psykhe (ψυχή)/
 七宗罪 七宗罪 [qi1_zong1_zui4] /"seven deadly sins"/deadly sins", "seven/
 七八十 七八十 [qi1 ba1 shi2] /70 or 80/
+欺負者 欺负者 [qi1 fu5 zhe3] /bully/
 凄凉人 凄凉人 [qi1 liang2 ren2] /desolate person/person, desolate/
 欺凌人 欺凌人 [qi1 ling2_ren2] /bullying/
+欺凌者 欺凌者 [qi1 ling2 zhe3] /bully/
 欺騙者 欺骗者 [qi1 pian4 zhe3] /deceiver/
 七頭十角 七头十角 [qi1 tou2 shi2 jiao3] /seven heads and ten horns/heads and ten horns, seven/
 七眼 七眼 [qi1 yan3] /seven eyes/eyes, seven/
