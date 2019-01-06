@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-01-05
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-01-06
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -2910,7 +2910,6 @@
 登封 登封 [Deng1 feng1] /Dengfeng (in Henan)/
 登封市 登封市 [Deng1 feng1_Shi4] /Dengfeng (in Henan)/
 登戈 登戈 [Deng1 ge1] /Dengo/
-登革熱 登革热 [Deng1 ge2 re4] /Dengue/
 登京格 登京格 [Deng1 jing1 ge2] /Tenzing/
 登山寶訓 登山宝训 [Deng1 shan1 bao3 xun4] /Sermon on the Mount/Mount, Sermon on the/
 燈塔市 灯塔市 [Deng1 ta3_Shi4] /Dengta (in Liaoning)/
@@ -7375,6 +7374,7 @@
 聯合航空公司 联合航空公司 [Lian2 he2_Hang2 kong1_Gong1 si1] /United Airlines/Airlines, United/
 聯合聖經公會 联合圣经公会 [Lian2 he2_Sheng4 jing1_Gong1 hui4] /United Bible Societies/UBS/Bible Societies, United/
 聯合碳化物公司 联合碳化物公司 [Lian2 he2_Tan4 hua4 wu4_Gong1 si1] /Union Carbide (company)/Carbide, Union (company)/
+聯合國兒童基金會 联合国儿童基金会 [Lian2 he2 guo2_Er2 tong2_Ji1 jin1 hui4] /United Nations Children's Fund/Nations Children's Fund, United/
 聯合國教科文組織 联合国教科文组织 [Lian2 he2 guo2_Jiao4 Ke1 Wen2_Zu3 zhi1] /United Nations Educational Scientific and Cultural Organization/UNESCO/Nations Educational Scientific and Cultural Organization, United/
 聯合國人權事務委員會 联合国人权事务委员会 [Lian2 he2 guo2_Ren2 quan2_Shi4 wu4_Wei3 yuan2 hui4] /UN Human Rights Committee/UNHRC/Rights Committee, UN Human/
 聯合國新聞部 联合国新闻部 [Lian2 he2 guo2_Xin1 wen2 bu4] /United Nations Department of Public Information/Nations Department of Public Information, United/
@@ -10299,6 +10299,7 @@
 日韓 日韩 [Ri4 Han2] /Japan-Korea (used of international relations etc)/
 日本皇軍 日本皇军 [Ri4 ben3_Huang2 jun1] /Imperial Japanese Army/Japanese Army, Imperial/
 日本黑社會 日本黑社会 [Ri4 ben3_hei1 she4 hui4] /yakuza/Japanese Mafia/
+日本腦炎 日本脑炎 [Ri4 ben3_nao3 yan2] /Japanese encephalitis/encephalitis, Japanese/
 日本舞蹈 日本舞蹈 [Ri4 ben3_wu3 dao3] /Japanese dancing/dancing, Japanese/
 日本語 日本语 [Ri4 ben3 yu3] /nihongo (Japanese word for Japanese language)/
 日德蘭 日德兰 [Ri4 de2 lan2] /Jutland/
@@ -15327,6 +15328,7 @@
 白餅 白饼 [bai2 bing3] /white bread (ancient)/bread, white (ancient)/
 白富美 白富美 [bai2 fu4 mei3] /pale rich beauty (stereotype)/rich beauty, pale (stereotype)/
 白鶴芋 白鹤芋 [bai2 he4 yu4] /peace lily/lily, peace/
+白喉 白喉 [bai2 hou2] /diphtheria/
 白花蛇舌草 白花蛇舌草 [bai2 hua1_she2 she2 cao3] /hedyotis diffusa/oldenlandia/diffusa, hedyotis/
 白馬 白马 [bai2 ma3] /white horse/horse, white/
 白袍 白袍 [bai2 pao2] /white robe/robe, white/
@@ -16349,6 +16351,8 @@
 得到靈感 得到灵感 [de5 dao4_ling2 gan3] /get inspiration/be inspired by something (in creativity etc)/inspiration, get (in creativity etc)/inspired by something, be (in creativity etc)/
 得等 得等 [dei3_deng3] /have to wait/wait, have to/
 得面對 得面对 [dei3_mian4 dui4] /have to face/face, have to/
+登革熱 登革热 [deng1 ge2 re4] /dengue/
+登革熱病 登革热病 [deng1 ge2 re4 bing4] /dengue fever/fever, dengue/
 燈光節 灯光节 [deng1 guang1 jie2] /light festival (in city)/festival, light (in city)/
 登記戶口 登记户口 [deng1 ji4_hu4 kou3] /registration (of a population)/
 登記冊 登记册 [deng1 ji4 ce4] /enrollment book (scroll)/book, enrollment (scroll)/
@@ -16794,6 +16798,7 @@
 匪淺 匪浅 [fei3 qian3] /deeply (of benefit etc)/
 廢城 废城 [fei4 cheng2] /waste city/devastated city/city, waste/
 廢土堆 废土堆 [fei4 tu3 dui1] /rubbish heap/heap, rubbish/
+肺炎球菌 肺炎球菌 [fei4 yan2_qiu2 jun1] /pneumococcus/
 費音 费音 [fei4 yin1] /pim/
 分蹄 分蹄 [fen1_ti2] /splitting the hoof/hoof, splitting the/
 分辨出 分辨出 [fen1 bian4 chu1] /distinguish (between etc)/
@@ -18457,6 +18462,7 @@
 倫理課 伦理课 [lun2 li3 ke4] /ethics class/class, ethics/
 倫理學家 伦理学家 [lun2 li3 xue2 jia1] /moralist (person)/
 輪聲 轮声 [lun2 sheng1] /wheel sound/sound, wheel/
+輪狀病毒 轮状病毒 [lun2 zhuang4_bing4 du2] /rotavirus/
 囉囉唆唆 啰啰唆唆 [luo1 luo5 suo1 suo1] /long-winded or wordy/wordy, long-winded or/
 羅革 罗革 [luo2 ge2] /log (liquid measure, possibly 310ml)/
 螺肉 螺肉 [luo2 rou4] /conch (meat)/
@@ -18762,6 +18768,7 @@
 腦癇症 脑痫症 [nao3_xian2 zheng4] /epilepsy (alternative term)/
 腦海里 脑海里 [nao3 hai3_li5] /in the mind/mind, in the/
 腦科手術 脑科手术 [nao3 ke1_shou3 shu4] /brain surgery/surgery, brain/
+腦膜炎球菌 脑膜炎球菌 [nao3 mo2 yan2_qiu2 jun1] /meningococcus/
 惱人難題 恼人难题 [nao3 ren2_nan2 ti2] /disruptive problems (lit. irritating problems)/problems, disruptive (lit. irritating problems)/
 鬧上 闹上 [nao4 shang5] /go in for (court etc) (?)/
 內共生理論 内共生理论 [nei4_gong4 sheng1_li3 lun4] /endosymbiotic theory/theory, endosymbiotic/
@@ -21105,6 +21112,7 @@
 儀器科學與技術 仪器科学与技术 [yi2 qi4_ke1 xue2_yu3_ji4 shu4] /instrumentation science and technology/science and technology, instrumentation/
 以愛為本 以爱为本 [yi3_ai4_wei2_ben3] /using love as a basis/love as a basis, using/
 已今非昔比 已今非昔比 [yi3_jin1 fei1 xi1 bi3] /come a long way (advertisement slogan)/long way, come a (advertisement slogan)/
+乙型流感嗜血桿菌 乙型流感嗜血杆菌 [yi3_xing2_liu2 gan3_shi4 xue4_gan3 jun1] /haemophilus influenzae type B/influenzae type B, haemophilus/
 以血肉之軀 以血肉之躯 [yi3_xue4 rou4 zhi1 qu1] /in the flesh (lit. using flesh-and-blood body)/flesh, in the (lit. using flesh-and-blood body)/
 以自我為中心 以自我为中心 [yi3_zi4 wo3_wei2_zhong1 xin1] /be self-centred/self-centred, be/
 以最低成本 以最低成本 [yi3_zui4 di1_cheng2 ben3] /with minimal cost (do something)/minimal cost, with (do something)/

@@ -12128,10 +12128,10 @@ characters 登戈
 serial-number CedPane2429
 definition Dengo
 *** 
-pinyin Dēnggérè
+pinyin dēnggérè
 characters 登革热[--熱]
 serial-number CedPane2430
-definition Dengue
+definition dengue
 *** 
 pinyin děnghòu míngdān
 characters 等候名单[---單]
@@ -110071,3 +110071,43 @@ pinyin wèibǔ
 characters 喂哺
 serial-number CedPane22175
 definition feed (a baby)
+*** 
+pinyin báihóu
+characters 白喉
+serial-number CedPane22176
+definition diphtheria
+*** 
+pinyin dēnggérèbìng
+characters 登革热病[--熱-]
+serial-number CedPane22177
+definition dengue fever
+*** 
+pinyin fèiyán qiújūn
+characters 肺炎球菌
+serial-number CedPane22178
+definition pneumococcus
+*** 
+pinyin Liánhéguó Értóng Jījīnhuì
+characters 联合国儿童基金会[聯-國兒---會]
+serial-number CedPane22179
+definition United Nations Children's Fund
+*** 
+pinyin lúnzhuàng bìngdú
+characters 轮状病毒[輪狀--]
+serial-number CedPane22180
+definition rotavirus
+*** 
+pinyin nǎomóyán qiújūn
+characters 脑膜炎球菌[腦----]
+serial-number CedPane22181
+definition meningococcus
+*** 
+pinyin Rìběn nǎoyán
+characters 日本脑炎[--腦-]
+serial-number CedPane22182
+definition Japanese encephalitis
+*** 
+pinyin yǐ xíng liúgǎn shìxuè gǎnjūn
+characters 乙型流感嗜血杆菌[------桿-]
+serial-number CedPane22183
+definition haemophilus influenzae type B

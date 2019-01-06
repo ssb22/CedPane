@@ -4651,7 +4651,8 @@ Dengfeng (in Henan)	登封市	登封市	Dēngfēng Shì	Dāng-fūng Síh
 Dengkou (county, in Inner Mongolia)	磴口县	磴口縣	Dèngkǒu Xiàn	Dang-háu Yún	
 Dengo	登戈	登戈	Dēnggē	Dāng-gwō	
 Dengta (in Liaoning)	灯塔市	燈塔市	Dēngtǎ Shì	Dāng-taap Síh	
-Dengue	登革热	登革熱	Dēnggérè	Dāng-gaak-yiht	
+dengue	登革热	登革熱	dēnggérè	dāng-gaak-yiht	
+dengue fever	登革热病	登革熱病	dēnggérèbìng	dāng-gaak-yiht-behng	
 Dengzhou (in Henan)	邓州	鄧州	Dèngzhōu	Dahng-jāu	
 Dengzhou (in Henan)	邓州市	鄧州市	Dèngzhōu Shì	Dahng-jāu Síh	
 Denis	德尼	德尼	Déní	Dāk-nèih	
@@ -4859,6 +4860,7 @@ Dioscorides	迪奥斯科里	迪奧斯科里	Dí'àosīkēlǐ	Dihk-ou-sī-fō-lé
 Diosdado	迪奥斯达多	迪奧斯達多	Dí'àosīdáduō	Dihk-ou-sī-daaht-dō	
 Diouf	迪乌夫	迪烏夫	Díwūfū	Dihk-wū-fū	
 Diphath	迪法特	迪法特	Dífǎtè	Dihk-faat-dahk	
+diphtheria	白喉	白喉	báihóu	baahk-hàuh	
 dipping sauces	蘸酱	蘸醬	zhànjiàng	jaam-jeung	
 Dircks	迪克斯	迪克斯	Díkèsī	Dihk-hāk-sī	
 directly close in on?	直逼	直逼	zhíbī	jihk-bīk	
@@ -7780,6 +7782,7 @@ Hadrach	哈得拉地	哈得拉地	Hādélādì	Hā-dāk-lāai-deih	hˈeɪdɹæk
 Hadrian	哈德良	哈德良	Hādéliáng	Hā-dāk-lèuhng	
 Hadrian (variant?)	哈德森	哈德森	Hādésēn	Hā-dāk-sām	
 Hadyn	哈顿	哈頓	Hādùn	Hā-deuhn	
+haemophilus influenzae type B	乙型流感嗜血杆菌	乙型流感嗜血桿菌	yǐ xíng liúgǎn shìxuè gǎnjūn	yuht yìhng làuh-gám si-hyut gón-kwán	
 Haffner	哈夫纳	哈夫納	Hāfūnà	Hā-fū-naahp	
 Hagab	哈甲	哈甲	Hājiǎ	Hā-gaap	hˈeɪɡæb
 Hagar	夏甲	夏甲	Xiàjiǎ	Hah-gaap	hˈeɪɡæɹ
@@ -9475,6 +9478,7 @@ Janusz	雅努什	雅努什	Yǎnǔshí	Ngáh-nóuh-sahm
 Janík	雅尼克	雅尼克	Yǎníkè	Ngáh-nèih-hāk	
 Japan-Korea (used of international relations etc)	日韩	日韓	Rì-Hán	Yaht-hòhn	
 Japanese dancing	日本舞蹈	日本舞蹈	Rìběn wǔdǎo	Yaht-bún móuh-douh	
+Japanese encephalitis	日本脑炎	日本腦炎	Rìběn nǎoyán	Yaht-bún nóuh-yìhm	
 Japheth	雅弗	雅弗	Yǎfú	Ngáh-fāt	dʒˈeɪfɛθ
 Japhia	雅非亚	雅非亞	Yǎfēiyà	Ngáh-fēi-nga	dʒəfˈaɪʌ
 Japhlet	雅弗勒	雅弗勒	Yǎfúlè	Ngáh-fāt-lahk	dʒˈæflɛt
@@ -12567,6 +12571,7 @@ Mengzhou (in Henan)	孟州	孟州	Mèngzhōu	Maahng-jāu
 Mengzhou (in Henan)	孟州市	孟州市	Mèngzhōu Shì	Maahng-jāu Síh	
 Mengzi (in Yunnan)	蒙自	蒙自	Méngzì	Mùhng-jih	
 Mengzi (in Yunnan)	蒙自市	蒙自市	Méngzì Shì	Mùhng-jih Síh	
+meningococcus	脑膜炎球菌	腦膜炎球菌	nǎomóyán qiújūn	nóuh-mohk-yìhm kàuh-kwán	
 men (males)	男人们	男人們	nánrénmen	nàahm-yán-mùhn	
 Menna	门拿	門拿	Ménná	Mùhn-nàh	mˈɛnʌ
 Mennonites	门诺会	門諾會	Ménnuòhuì	Mùhn-nohk-wúi	
@@ -15130,6 +15135,7 @@ Plymouth Brethren	普利茅斯弟兄会	普利茅斯弟兄會	Pǔlìmáosī Dìx
 Plymouth Rock (chicken breed)	普利茅斯洛克鸡	普利茅斯洛克雞	Pǔlìmáosīluòkèjī	Póu-leih-màauh-sī-lohk-hāk-gāi	
 Plínio	普利尼奥	普利尼奧	Pǔlìní'ào	Póu-leih-nèih-ou	
 pneuma	普纽马	普紐馬	pǔniǔmǎ	póu-náu-máh	
+pneumococcus	肺炎球菌	肺炎球菌	fèiyán qiújūn	fai-yìhm kàuh-kwán	
 poaching	非法猎杀	非法獵殺	fēifǎ lièshā	fēi-faat lihp-saat	
 Podilskyi	波季利西基	波季利西基	Bōjìlìxījī	Bō-gwai-leih-sāi-gēi	
 poetics	诗论	詩論	shīlùn	sī-leuhn	
@@ -16461,6 +16467,7 @@ Rossouw	罗梭	羅梭	Luósuō	Lòh-sō
 Rostov (region in Russia)	罗斯托夫州	羅斯托夫州	Luósītuōfū Zhōu	Lòh-sī-tok-fū Jāu	
 Rota	罗塔岛	羅塔島	Luótǎdǎo	Lòh-taap-dóu	ɹˈəʊtə
 Rotary Club	扶轮社	扶輪社	Fúlúnshè	Fùh-lèuhn-séh	
+rotavirus	轮状病毒	輪狀病毒	lúnzhuàng bìngdú	lèuhn-johng behng-duhk	
 Roth	罗夫	羅夫	Luófū	Lòh-fū	
 Rothenberger	罗森博格	羅森博格	Luósēnbógé	Lòh-sām-bok-gaak	
 Rotherham	罗瑟勒姆	羅瑟勒姆	Luósèlèmǔ	Lòh-sāt-lahk-móuh	ɹˈɒðəɹəm
@@ -20028,6 +20035,7 @@ unite as one	团结一心	團結一心	tuánjiéyīxīn	tyùhn-git-yāt-sām
 United Airlines	联合航空公司	聯合航空公司	Liánhé Hángkōng Gōngsī	Lyùhn-hahp Hòhng-hūng Gūng-sī	
 United Bible Societies; UBS	联合圣经公会	聯合聖經公會	Liánhé Shèngjīng Gōnghuì	Lyùhn-hahp Sing-gīng Gūng-wúi	
 United Kingdom of Great Britain and Northern Ireland	大不列颠及北爱尔兰联合王国	大不列顛及北愛爾蘭聯合王國	Dàbùlièdiān jí Běi Ài'ěrlán Liánhé Wángguó	Daaih-bāt-liht-dīn kahp Bāk Ngoi-yíh-làahn Lyùhn-hahp Wòhng-gwok	
+United Nations Children's Fund	联合国儿童基金会	聯合國兒童基金會	Liánhéguó Értóng Jījīnhuì	Lyùhn-hahp-gwok Yìh-tùhng Gēi-gām-wúi	
 United Nations Department of Public Information	联合国新闻部	聯合國新聞部	Liánhéguó Xīnwénbù	Lyùhn-hahp-gwok Sān-màhn-bouh	
 United Nations Educational Scientific and Cultural Organization; UNESCO	联合国教科文组织	聯合國教科文組織	Liánhéguó Jiào-Kē-Wén Zǔzhī	Lyùhn-hahp-gwok Gaau-fō-màhn Jóu-jīk	
 United States Commission on International Religious Freedom	美国国际宗教自由委员会	美國國際宗教自由委員會	Měiguó Guójì Zōngjiào Zìyóu Wěiyuánhuì	Méih-gwok Gwok-jai Jūng-gaau Jih-yàuh Wái-yùhn-wúi	
