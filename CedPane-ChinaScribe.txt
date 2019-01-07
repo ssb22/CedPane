@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-01-06
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-01-07
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -327,6 +327,7 @@
 阿納斯塔斯 阿纳斯塔斯 [A1 na4 si1 ta3 si1] /Anastas/
 阿納斯塔西奧 阿纳斯塔西奥 [A1 na4 si1 ta3 xi1 ao4] /Anastasio/
 阿納斯塔西婭 阿纳斯塔西娅 [A1 na4 si1 ta3 xi1 ya4] /Anastasia/
+阿納托里 阿纳托里 [A1 na4 tuo1 li3] /Anatori/
 阿納托利 阿纳托利 [A1 na4 tuo1 li4] /Anatoly/
 阿納托力 阿纳托力 [A1 na4 tuo1 li4] /Anatoly/
 阿納托列 阿纳托列 [A1 na4 tuo1 lie4] /Anatolie/
@@ -596,6 +597,7 @@
 埃斯德賴隆平原 埃斯德赖隆平原 [Ai1 si1 de2 lai4 long2_ping2 yuan2] /Plain of Esdraelon/Esdraelon, Plain of/
 埃斯科瓦爾 埃斯科瓦尔 [Ai1 si1 ke1 wa3 er3] /Escobar/
 埃斯克里瓦諾 埃斯克里瓦诺 [Ai1 si1 ke4 li3 wa3 nuo4] /Escribano/
+埃斯庫德羅 埃斯库德罗 [Ai1 si1 ku4 de2 luo2] /Escudeiro/
 埃斯庫羅斯 埃斯库罗斯 [Ai1 si1 ku4 luo2 si1] /Aeschylus/
 埃斯奎利諾山 埃斯奎利诺山 [Ai1 si1 kui2 li4 nuo4_shan1] /Esquiline (hill)/
 埃斯梅拉爾多 埃斯梅拉尔多 [Ai1 si1 mei2 la1 er3 duo1] /Esmeraldo/
@@ -782,6 +784,7 @@
 安布魯瓦茲 安布鲁瓦兹 [An1 bu4 lu3 wa3 zi1] /Ambroise/
 安布羅拉烏里 安布罗拉乌里 [An1 bu4 luo2 la1 wu1 li3] /Ambrolauri/
 安布羅斯 安布罗斯 [An1 bu4 luo2 si1] /Ambrose/
+安布羅西奧 安布罗西奥 [An1 bu4 luo2 xi1 ao4] /Ambrocio/
 安城 安城 [An1 cheng2] /On (city)/
 安達 安达 [An1 da2] /Anda (in Heilongjiang)/
 安達市 安达市 [An1 da2_Shi4] /Anda (in Heilongjiang)/
@@ -2847,6 +2850,7 @@
 德里梅 德里梅 [De2 li3 mei2] /Drimmer/
 德利 德利 [De2 li4] /Deli (surname)/
 德林格 德林格 [De2 lin2 ge2] /Dellinger/
+德林克沃特 德林克沃特 [De2 lin2 ke4 wo4 te4] /Drinkwater (surname)/
 德令哈 德令哈 [De2 ling4 ha1] /Delingha (in Qinghai)/
 德令哈市 德令哈市 [De2 ling4 ha1_Shi4] /Delingha (in Qinghai)/
 德魯 德鲁 [De2 lu3] /Drew/
@@ -2892,6 +2896,7 @@
 德提 德提 [De2 ti2] /Tertius/
 德圖什 德图什 [De2 tu2 shi2] /Destouches/
 德威特 德威特 [De2 wei1 te4] /Dewitt/
+德維恩 德维恩 [De2 wei2 en1] /Devynn/
 德韋恩 德韦恩 [De2 wei2 en1] /Dwayne/
 德維澤 德维泽 [De2 wei2 ze2] /Devidze/
 德文郡 德文郡 [De2 wen2 jun4] /county of Devon/Devon, county of/
@@ -5067,6 +5072,7 @@
 琿春市 珲春市 [Hui1 chun1_Shi4] /Hunchun (in Jilin)/
 恢復本 恢复本 [Hui1 fu4_Ben3] /Recovery Version (?)/Version, Recovery (?)/
 輝南縣 辉南县 [Hui1 nan2_Xian4] /Huinan (county, in Jilin)/
+輝瑞 辉瑞 [Hui1 rui4] /Pfizer (American pharmaceutical company)/
 輝縣 辉县 [Hui1 xian4] /Huixian (in Henan)/
 輝縣市 辉县市 [Hui1 xian4_Shi4] /Huixian (in Henan)/
 徽語 徽语 [Hui1 yu3] /Huizhou (topolect group)/
@@ -5086,6 +5092,7 @@
 惠萍 惠萍 [Hui4 ping2] /Huiping/
 惠喬爾人 惠乔尔人 [Hui4 qiao2 er3 ren2] /Huichol (people|person)/
 惠喬爾族 惠乔尔族 [Hui4 qiao2 er3 zu2] /Huichol (tribe)/
+惠氏 惠氏 [Hui4 shi4] /Wyeth (American pharmaceutical brand)/
 惠水縣 惠水县 [Hui4 shui3_Xian4] /Huishui (county, in Guizhou)/
 惠斯頓 惠斯顿 [Hui4 si1 dun4] /Whiston/
 惠特比 惠特比 [Hui4 te4 bi3] /Whitby/
@@ -5276,6 +5283,7 @@
 基瑪利雅 基玛利雅 [Ji1 ma3 li4 ya3] /Gemariah/
 基邁 基迈 [Ji1 mai4] /Chilmad/
 基抹 基抹 [Ji1 mo3] /Chemosh/
+基莫維奇 基莫维奇 [Ji1 mo4 wei2 qi2] /Kimovich/
 基拿 基拿 [Ji1 na2] /Kinah/
 基拿尼 基拿尼 [Ji1 na2 ni2] /Chenani/
 基拿尼雅 基拿尼雅 [Ji1 na2 ni2 ya3] /Chenaniah/
@@ -5880,6 +5888,7 @@
 卡恩 卡恩 [Ka3 en1] /Khan (surname)/
 卡爾 卡尔 [Ka3 er3] /Karl/
 卡爾大火 卡尔大火 [Ka3 er3_da4 huo3] /Carr wildfire (2018)/wildfire, Carr (2018)/
+卡爾波夫 卡尔波夫 [Ka3 er3 bo1 fu1] /Karpov/
 卡爾博諾 卡尔博诺 [Ka3 er3 bo2 nuo4] /Carbonneau/
 卡爾頓 卡尔顿 [Ka3 er3 dun4] /Carleton/
 卡爾海因茨 卡尔海因茨 [Ka3 er3 hai3 yin1 ci2] /Karlheinz/
@@ -5891,7 +5900,7 @@
 卡爾梅克語 卡尔梅克语 [Ka3 er3 mei2 ke4 yu3] /Kalmyk (language)/
 卡爾梅拉 卡尔梅拉 [Ka3 er3 mei2 la1] /Carmela/
 卡爾梅特 卡尔梅特 [Ka3 er3 mei2 te4] /Calmet/
-卡爾森 卡尔森 [Ka3 er3 sen1] /Carlson/
+卡爾森 卡尔森 [Ka3 er3 sen1] /Carlson/Carlsen/
 卡爾斯巴德 卡尔斯巴德 [Ka3 er3 si1 ba1 de2] /Carlsbad/
 卡爾文 卡尔文 [Ka3 er3 wen2] /Calvin/
 卡爾遜 卡尔逊 [Ka3 er3 xun4] /Carlson/
@@ -6071,6 +6080,7 @@
 卡斯蒂利亞語 卡斯蒂利亚语 [Ka3 si1 di4 li4 ya4 yu3] /Castilian (standard Spanish)/
 卡斯蒂略 卡斯蒂略 [Ka3 si1 di4 lu:e4] /Castillo/
 卡斯帕 卡斯帕 [Ka3 si1 pa4] /Caspar/
+卡斯帕羅夫 卡斯帕罗夫 [Ka3 si1 pa4 luo2 fu1] /Kasparov/
 卡斯特 卡斯特 [Ka3 si1 te4] /Custer/
 卡斯特羅 卡斯特罗 [Ka3 si1 te4 luo2] /Castro/
 卡斯滕 卡斯滕 [Ka3 si1 teng2] /Carsten/
@@ -6487,6 +6497,7 @@
 克勒士 克勒士 [Ke4 le4 shi4] /Crescens/
 克雷 克雷 [Ke4 lei2] /Clay (surname)/
 克雷爾 克雷尔 [Ke4 lei2 er3] /Creel/
+克雷波 克雷波 [Ke4 lei2 bo1] /Crépeau/
 克雷格 克雷格 [Ke4 lei2 ge2] /Craig/
 克雷芒 克雷芒 [Ke4 lei2 mang2] /Clement/
 克雷默 克雷默 [Ke4 lei2 mo4] /Kramer/
@@ -8134,6 +8145,7 @@
 瑪格蕾 玛格蕾 [Ma3 ge2 lei3] /Margarette/
 瑪格麗塔 玛格丽塔 [Ma3 ge2 li4 ta3] /Margarita/
 瑪格麗特 玛格丽特 [Ma3 ge2 li4 te4] /Margaret/
+馬格努斯 马格努斯 [Ma3 ge2 nu3 si1] /Magnus/
 瑪各 玛各 [Ma3 ge4] /Magog (old translation?)/
 馬根海姆 马根海姆 [Ma3 gen1 hai3 mu3] /Magenheim/
 馬更些 马更些 [Ma3 geng4 xie1] /Mackenzie/
@@ -13249,6 +13261,7 @@
 孝昌縣 孝昌县 [Xiao4 chang1_Xian4] /Xiaochang (county, in Hubei)/
 孝感 孝感 [Xiao4 gan3] /Xiaogan (in Hubei)/
 孝感市 孝感市 [Xiao4 gan3_Shi4] /Xiaogan (in Hubei)/
+肖特 肖特 [Xiao4 te4] /Short (surname)/
 孝義市 孝义市 [Xiao4 yi4_Shi4] /Xiaoyi (in Shanxi)/
 寫作部 写作部 [Xie3 zuo4_Bu4] /Writing Department/Department, Writing/
 謝艾 谢艾 [Xie4 ai4] /Shae/
@@ -14096,6 +14109,7 @@
 葉爾金 叶尔金 [Ye4 er3 jin1] /Yerkin/
 葉城縣 叶城县 [Ye4 cheng2_Xian4] /Yecheng (county, in Xinjiang, also called Kargilik)/
 葉夫根尼 叶夫根尼 [Ye4 fu1 gen1 ni2] /Yevgeny/
+葉夫根耶維奇 叶夫根耶维奇 [Ye4 fu1 gen1 ye1 wei2 qi2] /Yevgenyevich/
 葉卡捷琳堡 叶卡捷琳堡 [Ye4 ka3 jie2 lin2 bao3] /Yekaterinburg/
 葉卡捷琳娜 叶卡捷琳娜 [Ye4 ka3 jie2 lin2 na4] /Ekaterina/
 葉利欽 叶利钦 [Ye4 li4 qin1] /Yeltsin/
@@ -14181,6 +14195,7 @@
 伊迦爾 伊迦尔 [Yi1 jia1 er3] /Jegar/
 伊加德 伊加德 [Yi1 jia1 de2] /Irmgard/
 伊金霍洛旗 伊金霍洛旗 [Yi1 jin1 huo4 luo4_Qi2] /Ejin Horo (banner, in Inner Mongolia)/Horo, Ejin (banner, in Inner Mongolia)/
+一九八四 一九八四 [Yi1 jiu3 ba1 si4] /Nineteen Eighty-four/Eighty-four, Nineteen/
 伊卡 伊卡 [Yi1 ka3] /Ich/
 伊拉 伊拉 [Yi1 la1] /Ira/
 伊拉克利翁 伊拉克利翁 [Yi1 la1 ke4 li4 weng1] /Iráklion/
@@ -14673,6 +14688,7 @@
 尤利塞斯 尤利塞斯 [You2 li4 sai4 si1] /Ulysses/
 尤利烏斯 尤利乌斯 [You2 li4 wu1 si1] /Julius/
 尤利婭 尤利娅 [You2 li4 ya4] /Yulia/
+尤利亞娜 尤利亚娜 [You2 li4 ya4 na4] /Juliana/
 尤麗葉 尤丽叶 [You2 li4 ye4] /Julie/
 猶流 犹流 [You2 liu2] /Julius/
 尤妮克 尤妮克 [You2 ni1 ke4] /Eunike/
@@ -16288,6 +16304,7 @@
 當地稱 当地称 [dang1 di4_cheng1] /locally known as/known as, locally/
 當地的 当地的 [dang1 di4_de5] /local/
 當地政府 当地政府 [dang1 di4_zheng4 fu3] /local authorities/authorities, local/
+黨領袖 党领袖 [dang3 ling3 xiu4] /leader of political party/political party, leader of/
 擋牌 挡牌 [dang3 pai2] /shield/
 黨員證 党员证 [dang3 yuan2 zheng4] /party card/party membership card/card, party/membership card, party/
 蕩到 荡到 [dang4 dao4] /stagger to/
@@ -16864,6 +16881,7 @@
 複合樹脂 复合树脂 [fu4 he2_shu4 zhi1] /composite resin/resin, composite/
 副祭司 副祭司 [fu4 ji4 si1] /priests of the second rank/assistant priests/second rank, priests of the/
 副監督 副监督 [fu4 jian1 du1] /second (assistant) overseer/overseer, second/
+附例 附例 [fu4 li4] /by-law/
 富麗堂皇的建築物 富丽堂皇的建筑物 [fu4 li4 tang2 huang2_de5_jian4 zhu4 wu4] /sumptuous buildings/impressive architecture/buildings, sumptuous/architecture, impressive/
 復臨 复临 [fu4 lin2] /second coming/return/coming, second/
 付録 付録 [fu4 lu4] /appendix/supplement (Japanese version)/
@@ -21368,6 +21386,7 @@
 原牛 原牛 [yuan2 niu2] /wild bull/aurochs/bull, wild/
 原生植物 原生植物 [yuan2 sheng1_zhi2 wu4] /native plant species/plant species, native/
 圓廳 圆厅 [yuan2 ting1] /rotunda/
+元音符號 元音符号 [yuan2 yin1_fu2 hao4] /vowel points (Heb.)/points, vowel (Heb.)/
 原因之一 原因之一 [yuan2 yin1_zhi1 yi1] /one motivating factor (lit. one reason)/motivating factor, one (lit. one reason)/
 源于異教 源于异教 [yuan2 yu2_yi4 jiao4] /of pagan origin/pagan origin, of/
 援助金 援助金 [yuan2 zhu4 jin1] /relief funds (for poor etc)/funds, relief (for poor etc)/
