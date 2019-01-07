@@ -103046,8 +103046,8 @@ characters 喷墨打印机[噴---機]
 serial-number CedPane20760
 definition inkjet printer
 *** 
-pinyin qiāo hēibǎn huá zhòngdiǎn
-characters 敲黑板划重点[-----點]
+pinyin qiāo hēibǎn huà zhòngdiǎn
+characters 敲黑板划重点[---劃-點]
 serial-number CedPane20761
 definition emphasizing the take-away point
 *** 
@@ -110206,3 +110206,48 @@ pinyin yuányīn fúhào
 characters 元音符号[---號]
 serial-number CedPane22202
 definition vowel points (Heb.)
+*** 
+pinyin Dùniáng
+characters 度娘
+serial-number CedPane22203
+definition Miss Du (Baidu mascot)
+*** 
+pinyin Fúlǎngnīkǎ
+characters 弗朗妮卡
+serial-number CedPane22204
+definition Véronique
+*** 
+pinyin huà zhòngdiǎn
+characters 划重点[劃-點]
+serial-number CedPane22205
+definition emphasize a key point
+*** 
+pinyin Jīn Qiú Jiǎng
+characters 金球奖[--獎]
+serial-number CedPane22206
+definition Golden Globe Award
+*** 
+pinyin ménghuà
+characters 萌化
+serial-number CedPane22207
+definition moe personification (cartoon-girl mascot)
+*** 
+pinyin méng nǐrénhuà
+characters 萌拟人化[-擬--]
+serial-number CedPane22208
+definition moe anthropomorphism (cartoon-girl personification)
+*** 
+pinyin mìqiè xiāngguān
+characters 密切相关[---關]
+serial-number CedPane22209
+definition closely linked
+*** 
+pinyin qiāo hēibǎn
+characters 敲黑板
+serial-number CedPane22210
+definition knock blackboard (to emphasize a point)
+*** 
+pinyin qīnmì dù
+characters 亲密度[親--]
+serial-number CedPane22211
+definition (degree of) friendship/intimacy (among computer-game characters etc)

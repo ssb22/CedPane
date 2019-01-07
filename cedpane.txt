@@ -3739,6 +3739,7 @@ cloning (techniques)	复制技术	複製技術	fùzhì jìshù	fūk-jai geih-seu
 Clopas	克罗巴	克羅巴	Kèluóbā	Hāk-lòh-bā	klˈəʊpəs
 close association	密切来往	密切來往	mìqiè láiwang	maht-chit lòih-wóhng	
 close friend (usually of woman)	闺密	閨密	guīmì	gwāi-maht	
+closely linked	密切相关	密切相關	mìqiè xiāngguān	maht-chit sēung-gwāan	
 close your eyes	闭上眼睛	閉上眼睛	bìshang yǎnjing	bai-séuhng ngáahn-jīng	
 closing arguments (in a court case)	结案陈词	結案陳詞	jié'àn chéncí	git-ngon chàhn-chìh	
 cloth bands	布带	布帶	bùdài	bou-daai	
@@ -4599,6 +4600,7 @@ definitely don't identify with	决不认同	決不認同	juébú rèntóng	kyut-
 definitely shouldn't; would never want to	绝不该	絕不該	jué bù gāi	jyuht bāt gōi	
 de Gaulle	戴高乐	戴高樂	Dàigāolè	Daai-gōu-lohk	
 Dege (county, in Sichuan)	德格县	德格縣	Dégé Xiàn	Dāk-gaak Yún	
+(degree of) friendship/intimacy (among computer-game characters etc)	亲密度	親密度	qīnmì dù	chān-maht douh	
 Deheyn	德汉	德漢	Déhàn	Dāk-hon	
 Dehui (in Jilin)	德惠	德惠	Déhuì	Dāk-waih	
 Dehui (in Jilin)	德惠市	德惠市	Déhuì Shì	Dāk-waih Síh	
@@ -5648,7 +5650,8 @@ emotional pressure	感情压力	感情壓力	gǎnqíng yālì	gám-chìhng ngaat
 empathy	体恤之心	體恤之心	tǐxù zhī xīn	tái-sēut jī sām	ˈɛmpəθi
 Empedocles	恩培多克勒	恩培多克勒	Ēnpéiduōkèlè	Yān-pùih-dō-hāk-lahk	
 emperor penguin	皇帝企鹅	皇帝企鵝	huángdì qǐ'é	wòhng-dai kéih-ngòh	
-emphasizing the take-away point	敲黑板划重点	敲黑板划重點	qiāo hēibǎn huá zhòngdiǎn	hāau hāk-báan waahk juhng-dím	
+emphasize a key point	划重点	劃重點	huà zhòngdiǎn	waahk juhng-dím	
+emphasizing the take-away point	敲黑板划重点	敲黑板劃重點	qiāo hēibǎn huà zhòngdiǎn	hāau hāk-báan waahk juhng-dím	
 empowering; cool (net usage)	给力	給力	gěi lì	kāp lihk	
 Empson	燕卜荪	燕卜蓀	Yànbǔsūn	Yin-būk-syūn	
 empty covenant	空约	空約	kōngyuē	hūng-yeuk	
@@ -7316,6 +7319,7 @@ golden bowl	金碗	金碗	jīn wǎn	gām wún
 golden calf	金牛犊	金牛犢	jīnniúdú	gām-ngàuh-duhk	
 Golden Delicious (apple variety)	金香苹果	金香蘋果	Jīn Xiāng píngguǒ	Gām Hēung pìhng-gwó	
 golden door (US immigration poem)	金色的门	金色的門	jīnsè de mén	gām-sīk dīk mùhn	
+Golden Globe Award	金球奖	金球獎	Jīn Qiú Jiǎng	Gām Kàuh Jéung	
 Golden Horse film festival	金马影展	金馬影展	Jīnmǎ yǐngzhǎn	Gām-máh yíng-jín	
 golden lampstand	金灯台	金燈台	jīndēngtái	gām-dāng-tòih	
 golden scepter	金杖	金杖	jīnzhàng	gām-jeuhng	
@@ -10530,6 +10534,7 @@ kneading trough	揉面盆	揉面盆	róumiànpén	yàuh-mihn-pùhn
 kneel down	跪下来	跪下來	guìxiàlai	gwaih-hah-lòih	
 Knežević	克内热维奇	克內熱維奇	Kènèirèwéiqí	Hāk-noih-yiht-wàih-kèih	
 knock! knock!	咚咚咚	咚咚咚	dōngdōngdōng	dūng-dūng-dūng	
+knock blackboard (to emphasize a point)	敲黑板	敲黑板	qiāo hēibǎn	hāau hāk-báan	
 Knossos	克诺索斯	克諾索斯	Kènuòsuǒsī	Hāk-nohk-sok-sī	
 knot-tying method (in ties etc)	打结法	打結法	dǎ jié fǎ	dá git faat	
 (know) from personal experience	亲身体验到	親身體驗到	qīnshēn tǐyàn dào	chān-sān tái-yihm dou	
@@ -12868,6 +12873,7 @@ misinformation	错误资讯	錯誤資訊	cuòwù zīxùn	cho-ngh jī-seun
 Miskito (language)	米斯基托语	米斯基托語	Mǐsījītuōyǔ	Máih-sī-gēi-tok-yúh	
 misreading theory (in deconstructionism)	误读理论	誤讀理論	wùdúlǐlùn	ngh-duhk-léih-leuhn	
 Misrephoth-maim	米斯利弗玛音	米斯利弗瑪音	Mǐsīlìfúmǎyīn	Máih-sī-leih-fāt-máh-yām	mˌɪsɹifɒθmˈeɪəm
+Miss Du (Baidu mascot)	度娘	度娘	Dùniáng	Douh-nèuhng	
 missed a good opportunity	错失良机	錯失良機	cuòshī liángjī	cho-sāt lèuhng-gēi	
 Miss Hong Kong	香港小姐	香港小姐	Xiānggǎng Xiǎojie	Hēung-góng Síu-jé	
 missionary trip; missionary journey	传道旅程	傳道旅程	chuándào lǚchéng	chyùhn-douh léuih-chìhng	
@@ -12928,7 +12934,9 @@ modern university education	今天的大学教育	今天的大學教育	jīntiā
 modest (of clothing; lit. dignified and proper)	端庄得体	端莊得體	duānzhuāng-détǐ	dyūn-jōng-dāk-tái	mˈɒdɪst
 modulation (voice)	语调变化	語調變化	yǔdiào biànhuà	yúh-diuh bin-fa	
 Moe	莫伊	莫伊	Mòyī	Mohk-yī	
+moe anthropomorphism (cartoon-girl personification)	萌拟人化	萌擬人化	méng nǐrénhuà	màhng yíh-yàhn-fa	
 Moen	莫恩	莫恩	Mò'ēn	Mohk-yān	
+moe personification (cartoon-girl mascot)	萌化	萌化	ménghuà	màhng-fa	
 Moffat	莫法特	莫法特	Mòfǎtè	Mohk-faat-dahk	
 Mogadishu	摩加迪沙	摩加迪沙	Mójiādíshā	Mō-gā-dihk-sā	
 Mogos	莫戈	莫戈	Mògē	Mohk-gwō	
@@ -20429,6 +20437,7 @@ Vyborg	维堡	維堡	Wéibǎo	Wàih-bóu
 Várguez	巴尔格斯	巴爾格斯	Bā'ěrgésī	Bā-yíh-gaak-sī	
 Vásquez	巴斯克斯	巴斯克斯	Bāsīkèsī	Bā-sī-hāk-sī	
 Véchot	韦尚	韋尚	Wéishàng	Wáih-seuhng	
+Véronique	弗朗妮卡	弗朗妮卡	Fúlǎngnīkǎ	Fāt-lóhng-nèih-kā	
 Víctor	比克托	比克托	Bǐkètuō	Béi-hāk-tok	
 Waco	韦科镇	韋科鎮	Wéikēzhèn	Wáih-fō-jan	
 Wacław	瓦茨拉夫	瓦茨拉夫	Wǎcílāfū	Ngáh-chìh-lāai-fū	
