@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-01-09
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-01-10
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -3058,6 +3058,7 @@
 蒂芬妮 蒂芬妮 [Di4 fen1 ni1] /Tiffany/
 蒂夫語 蒂夫语 [Di4 fu1 yu3] /Tiv (language)/
 第谷 第谷 [Di4 gu3] /Tycho/
+蒂華納 蒂华纳 [Di4 hua2 na4] /Tijuana/
 蒂庫納語 蒂库纳语 [Di4 ku4 na4 yu3] /Ticuna (language)/
 蒂勒爾 蒂勒尔 [Di4 lei1 er3] /Tyrrell (pinyin uncertain)/
 蒂蕾 蒂蕾 [Di4 lei3] /Tuire/
@@ -6564,6 +6565,7 @@
 克賴斯勒 克赖斯勒 [Ke4 lai4 si1 le4] /Crisler/
 克賴斯特徹奇 克赖斯特彻奇 [Ke4 lai4 si1 te4 che4 qi2] /Christchurch/
 克蘭菲爾德 克兰菲尔德 [Ke4 lan2 fei1 er3 de2] /Cranfield/
+克蘭菲爾德大學 克兰菲尔德大学 [Ke4 lan2 fei1 er3 de2_Da4 xue2] /Cranfield University/University, Cranfield/
 克蘭麥 克兰麦 [Ke4 lan2 mai4] /Cranmer/
 克朗代克 克朗代克 [Ke4 lang3 dai4 ke4] /Klondike/
 克勞爾 克劳尔 [Ke4 lao2 er3] /Crowl/
@@ -15946,6 +15948,7 @@
 才行 才行 [cai2_xing2] /only-then OK/
 財閥統治 财阀统治 [cai2 fa2_tong3 zhi4] /plutocracy/
 材料科學與工程 材料科学与工程 [cai2 liao4_ke1 xue2_yu3_gong1 cheng2] /materials science and engineering/science and engineering, materials/
+材料系 材料系 [cai2 liao4 xi4] /materials science department (in a university)/science department, materials (in a university)/
 裁判法院 裁判法院 [cai2 pan4_fa3 yuan4] /trial court/court, trial/
 裁判官 裁判官 [cai2 pan4 guan1] /magistrate/
 裁切 裁切 [cai2 qie1] /cut out a section/section, cut out a/
@@ -16947,6 +16950,7 @@
 犯罪組織 犯罪组织 [fan4 zui4_zu3 zhi1] /criminal organization/organization, criminal/
 犯罪者 犯罪者 [fan4 zui4 zhe3] /criminal/
 方塊地毯 方块地毯 [fang1 kuai4_di4 tan3] /carpet tiles/tiles, carpet/
+防蟲水 防虫水 [fang2 chong2 shui3] /insect repellant/repellant, insect/
 防盜設備 防盗设备 [fang2 dao4_she4 bei4] /burglar alarm/alarm, burglar/
 防護塗料 防护涂料 [fang2 hu4_tu2 liao4] /protective coating/coating, protective/
 防火布料 防火布料 [fang2 huo3_bu4 liao4] /fire-resistant blanket/blanket, fire-resistant/
@@ -16957,6 +16961,7 @@
 防曬液 防晒液 [fang2 shai4 ye4] /sunscreen (liquid)/
 防水電筒 防水电筒 [fang2 shui3_dian4 tong3] /waterproof flashlight/flashlight, waterproof/
 防水膜 防水膜 [fang2 shui3 mo2] /waterproofing (layer)/
+防蚊水 防蚊水 [fang2 wen2 shui3] /mosquito repellant/repellant, mosquito/
 防御武器 防御武器 [fang2 yu4_wu3 qi4] /defense weapon/weapon, defense/
 紡杆 纺杆 [fang3 gan1] /distaff/
 訪客停車場 访客停车场 [fang3 ke4_ting2 che1 chang3] /visitor parking/parking, visitor/
@@ -19288,6 +19293,8 @@
 汽車失事 汽车失事 [qi4 che1_shi1 shi4] /automobile accident/accident, automobile/
 氣焊槍 气焊枪 [qi4 han4 qiang1] /industrial gas torch/torch, industrial gas/
 氣候劇變 气候剧变 [qi4 hou4_ju4 bian4] /runaway climate change/climate change, runaway/
+氣象信息 气象信息 [qi4 xiang4_xin4 xi1] /weather information/meterological information/information, weather/
+氣象資料 气象资料 [qi4 xiang4_zi1 liao4] /meterological data/weather data/data, meterological/
 汽油費 汽油费 [qi4 you2 fei4] /cost of fuel/fuel, cost of/
 千千 千千 [qian1_qian1] /thousands/
 千百年 千百年 [qian1 bai3_nian2] /for a long time (lit. thousand hundred years)/long time, for a (lit. thousand hundred years)/
@@ -21469,6 +21476,7 @@
 應用題 应用题 [ying4 yong4 ti2] /word problem/problem, word/
 硬著頸項 硬着颈项 [ying4 zhe5_jing3 xiang4] /obstinate/stiff-necked/
 擁有土地 拥有土地 [yong1 you3_tu3 di4] /landowner/
+擁有者 拥有者 [yong1 you3 zhe3] /owner/
 永存留 永存留 [yong3_cun2 liu2] /always keep or remain/keep or remain, always/
 永結同心 永结同心 [yong3_jie2_tong2 xin1] /always united as one (in marriage etc) (?)/united as one, always (in marriage etc) (?)/
 永不放棄 永不放弃 [yong3 bu2_fang4 qi4] /stick to (lit. never abandon)/
