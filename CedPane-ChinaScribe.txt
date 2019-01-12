@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-01-10
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-01-12
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -1129,6 +1129,7 @@
 奧沙茨 奥沙茨 [Ao4 sha1 ci2] /Oschatz/
 奧姍娜 奥姗娜 [Ao4 shan1 na4] /Oxana/
 奧施納 奥施纳 [Ao4 shi1 na4] /Auschner/
+奧什 奥什 [Ao4 shi2] /Osh/
 奧什市 奥什市 [Ao4 shi2_Shi4] /Osh (town)/
 奧什科什 奥什科什 [Ao4 shi2 ke1 shi2] /Oshkosh/
 奧絲 奥丝 [Ao4 si1] /Aasy/
@@ -1767,6 +1768,7 @@
 比加轄 比加辖 [Bi3 jia1 xia2] /Pekahiah/
 比結 比结 [Bi3 jie2] /Becher/
 比科爾語 比科尔语 [Bi3 ke1 er3 yu3] /Bicol language/language, Bicol/
+比克瑙 比克瑙 [Bi3 ke4 nao3] /Birkenau/
 比克托 比克托 [Bi3 ke4 tuo1] /Víctor/
 彼拉 彼拉 [Bi3 la1] /Beera (son of Zophah)/
 比拉 比拉 [Bi3 la1] /Bela/Beulah/
@@ -5699,6 +5701,7 @@
 賈斯丁 贾斯丁 [Jia3 si1 ding1] /Justin/
 賈絲明 贾丝明 [Jia3 si1 ming2] /Jasmine/
 賈斯珀 贾斯珀 [Jia3 si1 po4] /Jasper (place in Alberta)/
+賈斯汀 贾斯汀 [Jia3 si1 ting1] /Justin/
 賈維斯 贾维斯 [Jia3 wei2 si1] /Jarvis/
 甲仙區 甲仙区 [Jia3 xian1_Qu1] /Jiaxian (Jiasian) District (in Kaohsiung)/District, Jiaxian/
 甲薛 甲薛 [Jia3 xue1] /Kabzeel/
@@ -7000,6 +7003,7 @@
 萊迪 莱迪 [Lai2 di2] /Leidy/
 萊蒂 莱蒂 [Lai2 di4] /Lettie/
 萊頓 莱顿 [Lai2 dun4] /Leiden (city near Antwerp)/
+萊頓瓶 莱顿瓶 [Lai2 dun4_ping2] /Leyden jar (early capacitor)/
 萊番 莱番 [Lai2 fan1] /Rhai‧phan/
 來鳳縣 来凤县 [Lai2 feng4_Xian4] /Laifeng (county, in Hubei)/
 萊佛士 莱佛士 [Lai2 fo2 shi4] /Raffles (surname)/
@@ -9188,6 +9192,7 @@
 莫妮卡 莫妮卡 [Mo4 ni1 ka3] /Monika/
 莫妮克 莫妮克 [Mo4 ni1 ke4] /Monique/
 墨涅拉俄斯 墨涅拉俄斯 [Mo4 nie4 la1 e2 si1] /Menelaus/
+莫諾威辛 莫诺威辛 [Mo4 nuo4 wei1 xin1] /Monowitz/
 莫潘 莫潘 [Mo4 pan1] /Mopán/
 莫皮蒂島 莫皮蒂岛 [Mo4 pi2 di4 dao3] /Maupiti (island)/
 莫奇尼克 莫奇尼克 [Mo4 qi2 ni2 ke4] /Moc̆nik/
@@ -10866,7 +10871,7 @@
 色諾芬 色诺芬 [Se4 nuo4 fen1] /Xenophon/
 色薩利 色萨利 [Se4 sa4 li4] /Thessaly/
 瑟斯頓 瑟斯顿 [Se4 si1 dun4] /Thurston/
-色斯文 色斯文 [Se4 si1 wen5] /Cirth (written language)/
+色斯文 色斯文 [Se4 si1 wen2] /Cirth (written language)/
 塞蘇陀語 塞苏陀语 [Se4 su1 tuo2 yu3] /Sesotho (language) (pinyin uncertain)/
 塞維爾斯基 塞维尔斯基 [Se4 wei2 er3 si1 ji1] /Sivulskiy (pinyin uncertain)/
 森迪 森迪 [Sen1 di2] /Sunday (surname)/
@@ -12068,6 +12073,7 @@
 特林吉特人 特林吉特人 [Te4 lin2 ji2 te4 ren2] /Klinket community/community, Klinket/
 特林吉特語 特林吉特语 [Te4 lin2 ji2 te4 yu3] /Tlingit (language)/
 特隆赫姆 特隆赫姆 [Te4 long2 he4 mu3] /Trondheim/
+特魯迪 特鲁迪 [Te4 lu3 di2] /Trudy (name)/
 特魯克 特鲁克 [Te4 lu3 ke4] /Chuuk/
 特魯克群島 特鲁克群岛 [Te4 lu3 ke4_qun2 dao3] /Chuuk Islands/Islands, Chuuk/
 特魯瓦 特鲁瓦 [Te4 lu3 wa3] /Troyes/
@@ -15329,6 +15335,7 @@
 朱爾薩 朱尔萨 [Zhu1 er3 sa4] /Jursa/
 朱爾斯 朱尔斯 [Zhu1 er3 si1] /Jules/
 朱庇特 朱庇特 [Zhu1 bi4 te4] /Jupiter (god)/
+朱伯特 朱伯特 [Zhu1 bo2 te4] /Joubert/
 諸城 诸城 [Zhu1 cheng2] /Zhucheng (in Shandong)/
 諸城市 诸城市 [Zhu1 cheng2_Shi4] /Zhucheng (in Shandong)/
 朱迪 朱迪 [Zhu1 di2] /Judy/
@@ -15456,6 +15463,7 @@
 左營區 左营区 [Zuo3 ying2_Qu1] /Zuoying District (in Kaohsiung)/District, Zuoying (in Kaohsiung)/
 左云縣 左云县 [Zuo3 yun2_Xian4] /Zuoyun (county, in Shanxi)/
 左鎮區 左镇区 [Zuo3 zhen4_Qu1] /Zuozhen District/Zuojhen District (in Tainan)/District, Zuozhen (in Tainan)/
+佐治 佐治 [Zuo3 zhi4] /Jorge/
 柞水縣 柞水县 [Zuo4 shui3_Xian4] /Zuoshui (county, in Shaanxi)/
 阿爾卑斯長號角 阿尔卑斯长号角 [a1 er3 bei1 si1_chang2 hao4 jiao3] /alpenhorn/
 阿巴 阿巴 [a1 ba1] /abba (transliteration)/
@@ -15586,6 +15594,7 @@
 邦茹 邦茹 [bang1 ru2] /bonjour (French greeting)/
 幫助別人 帮助别人 [bang1 zhu4_bie2 ren5] /helping others/helping the community/others, helping/community, helping the/
 幫助記憶 帮助记忆 [bang1 zhu4_ji4 yi4] /act as a memory aid (lit. help memory)/memory aid, act as a (lit. help memory)/
+幫轉 帮转 [bang1 zhuan3] /help pass on (on social media etc)/pass on, help (on social media etc)/
 綁定 绑定 [bang3 ding4] /bind (e.g. a mobile to an account)/
 綁架者 绑架者 [bang3 jia4 zhe3] /kidnapper/
 綁索 绑索 [bang3 suo3] /lashings (ropes tying e.g. rudder oars together)/
@@ -16902,6 +16911,7 @@
 發光器 发光器 [fa1 guang1 qi4] /lantern/light organ (of firefly etc)/
 發酵的面團 发酵的面团 [fa1 jiao4_de5_mian4 tuan2] /sourdough/
 發盡 发尽 [fa1 jin4] /let out all of (one's rage etc)/
+發了財 发了财 [fa1 le5_cai2] /become rich/rich, become/
 發嫩長葉 发嫩长叶 [fa1 nen4 zhang3 ye4] /grow tender and grow new leaves (annual tree development)/tender and grow new leaves, grow (annual tree development)/
 發音准確 发音准确 [fa1 yin1_zhun3 que4] /correct pronunciation/pronunciation, correct/
 發展潛能 发展潜能 [fa1 zhan3_qian2 neng2] /potential for growth/growth, potential for/
@@ -18485,6 +18495,7 @@
 浪費時間 浪费时间 [lang4 fei4_shi2 jian1] /waste time/time, waste/
 浪聲 浪声 [lang4 sheng1] /sound of sea waves/waves, sound of sea/
 浪子的比喻 浪子的比喻 [lang4 zi3_de5_bi3 yu4] /parable of the prodigal son/prodigal son, parable of the/
+勞動帶來自由 劳动带来自由 [lao2 dong4_dai4 lai2_zi4 you2] /arbeit macht frei/work makes free (Nazi camp sign)/macht frei, arbeit (Nazi camp sign)/makes free, work (Nazi camp sign)/
 勞動營 劳动营 [lao2 dong4 ying2] /labour camp/camp, labour/
 勞心勞力 劳心劳力 [lao2 xin1 lao2 li4] /hardworking/
 老盯著 老盯着 [lao3_ding1 zhe5] /stare at/
@@ -19287,6 +19298,7 @@
 其他人 其他人 [qi2 ta1_ren2] /other people/people, other/
 啟露 启露 [qi3 lu4] /revealing/
 啟蒙主義 启蒙主义 [qi3 meng2 zhu3 yi4] /enlightenment (philosophy etc)/
+乞討者 乞讨者 [qi3 tao3 zhe3] /beggar/
 企圖粉飾 企图粉饰 [qi3 tu2_fen3 shi4] /attempt to whitewash (gloss over a serious matter)/whitewash, attempt to (gloss over a serious matter)/
 起源于 起源于 [qi3 yuan2 yu2] /originates|derives from/can be traced to/from, originates|derives/traced to, can be/
 棄惡擇善 弃恶择善 [qi4 e4 ze2 shan4] /choose what is right and avoid what is wrong/what is right and avoid what is wrong, choose/
@@ -19844,6 +19856,7 @@
 施行拯救 施行拯救 [shi1 xing2_zheng3 jiu4] /perform salvation/salvation, perform/
 失血量 失血量 [shi1 xue4 liang4] /amount of blood loss/blood loss, amount of/
 失用症 失用症 [shi1 yong4 zheng4] /apraxia/
+施與者 施与者 [shi1 yu3 zhe3] /giver/
 施咒 施咒 [shi1 zhou4] /casting spells (curses)/spells, casting (curses)/
 獅子坑 狮子坑 [shi1 zi5 keng1] /lions' pit/
 十場災殃 十场灾殃 [shi2_chang2_zai1 yang1] /ten plagues/plagues, ten/
@@ -20627,6 +20640,7 @@
 未必不好 未必不好 [wei4 bi4_bu4_hao3] /not always wrong/not necessarily wrong/always wrong, not/necessarily wrong, not/
 喂哺 喂哺 [wei4 bu3] /feed (a baby)/
 喂槽 喂槽 [wei4 cao2] /feeder (for birds etc, old translation?)/
+未富先老 未富先老 [wei4 fu4 xian1 lao3] /getting old before getting rich/before getting rich, getting old/
 位高 位高 [wei4 gao1] /high in position/position, high in/
 位高權重 位高权重 [wei4 gao1 quan2 zhong4] /powerful (politically)/
 未婚同居 未婚同居 [wei4 hun1_tong2 ju1] /living together (unmarried)/cohabitation/together cohabitation, living/
@@ -21102,6 +21116,7 @@
 修道院女院長 修道院女院长 [xiu1 dao4 yuan4_nu:3 yuan4 zhang3] /mother superior/convent headmistress/superior, mother/headmistress, convent/
 修道院院長 修道院院长 [xiu1 dao4 yuan4_yuan4 zhang3] /prelate/archimandrite/abbot/
 修高 修高 [xiu1 gao1] /elevate (a road etc) (?)/
+修理員 修理员 [xiu1 li3 yuan2] /repairman/
 修平 修平 [xiu1 ping2] /smooth out (in road repair etc?)/
 羞辱國旗 羞辱国旗 [xiu1 ru3_guo2 qi2] /flag desecration/desecration, flag/
 休閑閱讀 休闲阅读 [xiu1 xian2_yue4 du2] /recreational reading/reading, recreational/
@@ -21386,6 +21401,7 @@
 譯法 译法 [yi4 fa3] /rendering/way of translating/translating, way of/
 翼鋒 翼锋 [yi4 feng1] /wing (job on football team)/
 異父弟 异父弟 [yi4 fu4 di4] /half brother (younger, different father)/brother, half (younger, different father)/
+異國他鄉 异国他乡 [yi4 guo2 ta1 xiang1] /foreign lands/lands, foreign/
 意即 意即 [yi4 ji2] /meaning (as in "X, meaning Y")/
 翼龍 翼龙 [yi4 long2] /pterosaur/
 義路 义路 [yi4 lu4] /tracks of righteousness/path of righteousness/righteousness, tracks of/
@@ -21910,6 +21926,7 @@
 植物目 植物目 [zhi2 wu4 mu4] /plant order (classification)/order, plant (classification)/
 職業倦怠 职业倦怠 [zhi2 ye4_juan4 dai4] /burnout (syndrome)/
 職業培訓 职业培训 [zhi2 ye4_pei2 xun4] /vocational training/training, vocational/
+職業乞丐 职业乞丐 [zhi2 ye4_qi3 gai4] /professional beggar/beggar, professional/
 職業拳擊手 职业拳击手 [zhi2 ye4_quan2 ji1 shou3] /prizefighter/professional boxer/
 職業網球選手 职业网球选手 [zhi2 ye4_wang3 qiu2_xuan3 shou3] /professional tennis player/tennis player, professional/
 直柱 直柱 [zhi2 zhu4] /upright (tent) pole/pole, upright/
