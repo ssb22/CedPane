@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-01-12
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-01-14
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -11,6 +11,7 @@
 阿爾巴 阿尔巴 [A1 er3 ba1] /Alba/
 阿爾巴尼亞語 阿尔巴尼亚语 [A1 er3 ba1 ni2 ya4 yu3] /Albanian (language)/
 阿爾拔 阿尔拔 [A1 er3 ba2] /Albert (old translation)/
+阿爾拜辛 阿尔拜辛 [A1 er3 bai4 xin1] /Albaicin/
 阿爾邦 阿尔邦 [A1 er3 bang1] /Arben/
 阿爾卑斯 阿尔卑斯 [A1 er3 bei1 si1] /Alpine/
 阿爾卑斯山脈 阿尔卑斯山脉 [A1 er3 bei1 si1_shan1 mai4] /Alps/
@@ -26,6 +27,7 @@
 阿爾弗雷多 阿尔弗雷多 [A1 er3 fu2 lei2 duo1] /Alfredo/
 阿爾甘 阿尔甘 [A1 er3 gan1] /Argand/
 阿爾哈曾 阿尔哈曾 [A1 er3 ha1 ceng2] /Alhazen/
+阿爾罕布拉宮 阿尔罕布拉宫 [A1 er3 han3 bu4 la1 gong1] /Alhambra (palace)/
 阿爾汗布拉宮 阿尔汗布拉宫 [A1 er3 han4 bu4 la1 gong1] /Alhambra (palace)/
 阿爾漢格爾斯克州 阿尔汉格尔斯克州 [A1 er3 han4 ge2 er3 si1 ke4_Zhou1] /Arkhangelsk (region in Russia)/
 阿爾卡拉 阿尔卡拉 [A1 er3 ka3 la1] /Alcalá/
@@ -119,6 +121,7 @@
 阿德里亞海 阿德里亚海 [A1 de2 li3 ya4 hai3] /Adriatic sea/
 阿德里亞娜 阿德里亚娜 [A1 de2 li3 ya4 na4] /Adriana/
 阿德里亞諾 阿德里亚诺 [A1 de2 li3 ya4 nuo4] /Adriano/
+阿德琳 阿德琳 [A1 de2 lin2] /Adeline/
 阿德南 阿德南 [A1 de2 nan2] /Adnan/
 阿德斯 阿德斯 [A1 de2 si1] /Ordaz/
 阿德松 阿德松 [A1 de2 song1] /Adson/
@@ -233,6 +236,7 @@
 阿萊亞斯 阿莱亚斯 [A1 lai2 ya4 si1] /Arius/
 阿蘭 阿兰 [A1 lan2] /Alana/
 阿闌 阿阑 [A1 lan2] /Alain/
+阿蘭布拉 阿兰布拉 [A1 lan2 bu4 la1] /Alhambra/
 阿蘭德 阿兰德 [A1 lan2 de2] /Aland/
 阿蘭娜 阿兰娜 [A1 lan2 na4] /Alana/
 阿勞霍 阿劳霍 [A1 lao2 huo4] /Araujo/Araújo/
@@ -695,6 +699,7 @@
 艾德加 艾德加 [Ai4 de2 jia1] /Eldar/
 艾德勒 艾德勒 [Ai4 de2 le4] /Adler (Mortimer)/
 艾德里安 艾德里安 [Ai4 de2 li3 an1] /Adrian/
+愛德琳 爱德琳 [Ai4 de2 lin2] /Adeline/
 艾登 艾登 [Ai4 deng1] /Eden (modern name)/
 艾迪 艾迪 [Ai4 di2] /Eddie/
 愛迪生 爱迪生 [Ai4 di2 sheng1] /Edison/
@@ -2056,6 +2061,7 @@
 伯和崙 伯和仑 [Bo2 he2 lun2] /Beth-horon/
 博湖縣 博湖县 [Bo2 hu2_Xian4] /Bohu (county, in Xinjiang)/
 博胡斯拉夫 博胡斯拉夫 [Bo2 hu2 si1 la1 fu1] /Bohuslav/
+伯基特 伯基特 [Bo2 ji1 te4] /Burkitt/
 伯吉甲 伯吉甲 [Bo2 ji2 jia3] /Beth-gilgal/
 伯吉斯 伯吉斯 [Bo2 ji2 si1] /Burgess/
 伯迦 伯迦 [Bo2 jia1] /Beth-car/
@@ -4735,6 +4741,7 @@
 漢中市 汉中市 [Han4 zhong1_Shi4] /Hanzhong (in Shaanxi)/
 杭錦旗 杭锦旗 [Hang2 jin3_Qi2] /Hanggin (banner, in Inner Mongolia)/
 杭錦后旗 杭锦后旗 [Hang2 jin3 hou4_Qi2] /Hanggin Rear (banner, in Inner Mongolia)/Rear, Hanggin (banner, in Inner Mongolia)/
+航特部 航特部 [Hang2 te4 bu4] /Army Aviation and Special Forces Command/Aviation and Special Forces Command, Army/
 杭州市 杭州市 [Hang2 zhou1_Shi4] /Hangzhou (in Zhejiang)/
 豪厄爾 豪厄尔 [Hao2 e4 er3] /Howell/
 豪爾赫 豪尔赫 [Hao2 er3 he4] /Jorge/
@@ -4883,6 +4890,7 @@
 赫蒙人 赫蒙人 [He4 meng2 ren2] /Hmong (people)/
 赫米內 赫米内 [He4 mi3 nei4] /Hermine/
 赫姆斯沃思 赫姆斯沃思 [He4 mu3 si1 wo4 si1] /Hemsworth/
+赫內拉利費宮 赫内拉利费宫 [He4 nei4 la1 li4 fei4 gong1] /Palacio de Generalife/Generalife, Palacio de/
 赫尼 赫尼 [He4 ni2] /Hennie/
 赫尼希 赫尼希 [He4 ni2 xi1] /Hörnig/
 赫奇帕奇 赫奇帕奇 [He4 qi2 pa4 qi2] /Hufflepuff/
@@ -5845,6 +5853,7 @@
 金馬影展 金马影展 [Jin1 ma3_ying3 zhan3] /Golden Horse film festival/Horse film festival, Golden/
 金馬倫 金马伦 [Jin1 ma3 lun2] /Cameron (old translation)/
 金美 金美 [Jin1 mei3] /Kim/
+金門縣 金门县 [Jin1 men2_Xian4] /Jinmen County/Kinmen County (Taiwan)/County, Jinmen (Taiwan)/
 金尼頓 金尼顿 [Jin1 ni2 dun4] /Ginnethon/
 金女院 金女院 [Jin1 nu:3 yuan4] /Ginling College (women's college in Nanjing)/College, Ginling (women's college in Nanjing)/
 金平縣 金平县 [Jin1 ping2_Xian4] /Jinping (county, in Yunnan)/
@@ -6101,6 +6110,7 @@
 卡馬戈 卡马戈 [Ka3 ma3 ge1] /Camargo/
 卡馬格 卡马格 [Ka3 ma3 ge2] /Camargue/
 卡馬河畔切爾內 卡马河畔切尔内 [Ka3 ma3 he2 pan4 qie4 er3 nei4] /Naberezhnye Chelny/Chelny, Naberezhnye/
+卡馬克 卡马克 [Ka3 ma3 ke4] /Carmack/
 卡馬拉 卡马拉 [Ka3 ma3 la1] /Kamara/
 卡馬里略 卡马里略 [Ka3 ma3 li3 lu:e4] /Camarillo/
 卡馬森 卡马森 [Ka3 ma3 sen1] /Carmarthen/
@@ -6554,6 +6564,8 @@
 克萊爾 克莱尔 [Ke4 lai2 er3] /Claire/
 克萊德 克莱德 [Ke4 lai2 de2] /Clyde/
 克萊德河 克莱德河 [Ke4 lai2 de2 he2] /river Clyde/Clyde, river/
+克萊德曼 克莱德曼 [Ke4 lai2 de2 man4] /Clayderman/
+克萊德門 克莱德门 [Ke4 lai2 de2 men2] /Clayderman/
 克萊頓 克莱顿 [Ke4 lai2 dun4] /Clayton/
 克萊夫 克莱夫 [Ke4 lai2 fu1] /Clive/
 克萊格 克莱格 [Ke4 lai2 ge2] /Clegg/
@@ -7379,6 +7391,7 @@
 利卡塔 利卡塔 [Li4 ka3 ta3] /Licata/
 利考尼亞 利考尼亚 [Li4 kao3 ni2 ya4] /Lycaonia/
 利克希 利克希 [Li4 ke4 xi1] /Likhi/
+麗拉 丽拉 [Li4 la1] /Leela/
 莉拉 莉拉 [Li4 la1] /Lira/Leila/
 利萊 利莱 [Li4 lai2] /Lilley/
 利來雅 利来雅 [Li4 lai2 ya3] /Reelaiah/
@@ -7498,6 +7511,7 @@
 廉江 廉江 [Lian2 jiang1] /Lianjiang (in Guangdong)/
 廉江市 廉江市 [Lian2 jiang1_Shi4] /Lianjiang (in Guangdong)/
 連江縣 连江县 [Lian2 jiang1_Xian4] /Lianjiang (county, in Fujian)/
+連江縣 连江县 [Lian2 jiang1_Xian4] /Lienchiang County (Taiwan)/County, Lienchiang (Taiwan)/
 連南縣 连南县 [Lian2 nan2_Xian4] /Liannan (county, in Guangdong)/
 連平縣 连平县 [Lian2 ping2_Xian4] /Lianping (county, in Guangdong)/
 漣水縣 涟水县 [Lian2 shui3_Xian4] /Lianshui (county, in Jiangsu)/
@@ -7847,6 +7861,7 @@
 陸河縣 陆河县 [Lu4 he2_Xian4] /Luhe (county, in Guangdong)/
 路加 路加 [Lu4 jia1] /Luke (person)/
 路加福音 路加福音 [Lu4 jia1_Fu2 yin1] /Luke (gospel)/
+陸軍航空特戰指揮部 陆军航空特战指挥部 [Lu4 jun1_Hang2 kong1_Te4 zhan4_Zhi3 hui1 bu4] /Army Aviation and Special Forces Command/Aviation and Special Forces Command, Army/
 露蓮 露莲 [Lu4 lian2] /Laura/
 陸良縣 陆良县 [Lu4 liang2_Xian4] /Luliang (county, in Yunnan)/
 路求 路求 [Lu4 qiu2] /Lucius/
@@ -8266,6 +8281,7 @@
 瑪各 玛各 [Ma3 ge4] /Magog (old translation?)/
 馬根海姆 马根海姆 [Ma3 gen1 hai3 mu3] /Magenheim/
 馬更些 马更些 [Ma3 geng4 xie1] /Mackenzie/
+馬公市 马公市 [Ma3 gong1_Shi4] /Magong City (Taiwan)/City, Magong (Taiwan)/
 馬圭爾 马圭尔 [Ma3 gui1 er3] /Maguire/
 瑪哈 玛哈 [Ma3 ha1] /Mahath/
 馬哈河 马哈河 [Ma3 ha1 he2] /Maha (river)/
@@ -9048,6 +9064,8 @@
 緬甸文 缅甸文 [Mian3 dian4 wen2] /Myanmar (written language)/
 冕寧縣 冕宁县 [Mian3 ning2_Xian4] /Mianning (county, in Sichuan)/
 緬族 缅族 [Mian3 zu2] /Mien (tribe, alternate translation of Yao)/
+苗栗市 苗栗市 [Miao2 li4_Shi4] /Miaoli City (Taiwan)/City, Miaoli (Taiwan)/
+苗栗縣 苗栗县 [Miao2 li4_Xian4] /Miaoli Township (Taiwan)/Township, Miaoli (Taiwan)/
 苗語 苗语 [Miao2 yu3] /Hmong (language)/
 繆蘭 缪兰 [Miao4 lan2] /Mullane/
 繆里爾 缪里尔 [Miao4 li3 er3] /Muriel/
@@ -9422,6 +9440,7 @@
 南非語 南非语 [Nan2 fei1 yu3] /Afrikaans/
 南芬區 南芬区 [Nan2 fen1_Qu1] /Nanfen (district, in Liaoning)/
 南丰縣 南丰县 [Nan2 feng1_Xian4] /Nanfeng (county, in Jiangxi)/
+南竿鄉 南竿乡 [Nan2 gan1_Xiang1] /Nangan Township (Taiwan)/Township, Nangan (Taiwan)/
 南港區 南港区 [Nan2 gang3_Qu1] /Nangang District (in Taipei)/District, Nangang (in Taipei)/
 南宮市 南宫市 [Nan2 gong1_Shi4] /Nangong (in Hebei)/
 南和縣 南和县 [Nan2 he2_Xian4] /Nanhe (county, in Hebei)/
@@ -9451,6 +9470,8 @@
 南塔魯 南塔鲁 [Nan2 ta3 lu3] /Namtaru/
 南通 南通 [Nan2 tong1] /Nantong (in Jiangsu)/
 南通市 南通市 [Nan2 tong1_Shi4] /Nantong (in Jiangsu)/
+南投市 南投市 [Nan2 tou2_Shi4] /Nantou City (Taiwan)/City, Nantou (Taiwan)/
+南投縣 南投县 [Nan2 tou2_Xian4] /Nantou County (Taiwan)/County, Nantou (Taiwan)/
 南屯區 南屯区 [Nan2 tun2_Qu1] /Nantun District (in Taichung)/District, Nantun (in Taichung)/
 南希 南希 [Nan2 xi1] /Nancy/
 楠西區 楠西区 [Nan2 xi1_Qu1] /Nanxi (Nansi) District (in Tainan)/District, Nanxi/
@@ -9953,6 +9974,7 @@
 彭布羅克 彭布罗克 [Peng2 bu4 luo2 ke4] /Pembroke/
 彭德語 彭德语 [Peng2 de2 yu3] /Kipende (language)/
 彭頓 彭顿 [Peng2 dun4] /Penton/
+澎湖縣 澎湖县 [Peng2 hu2_Xian4] /Penghu County (Taiwan)/County, Penghu (Taiwan)/
 蓬萊市 蓬莱市 [Peng2 lai2_Shi4] /Penglai (in Shandong)/
 彭內 彭内 [Peng2 nei4] /Penne/
 彭妮 彭妮 [Peng2 ni1] /Penny (name)/
@@ -10028,6 +10050,7 @@
 平頂山 平顶山 [Ping2 ding3 shan1] /Pingdingshan (in Henan)/
 平頂山市 平顶山市 [Ping2 ding3 shan1_Shi4] /Pingdingshan (in Henan)/
 屏東 屏东 [Ping2 dong1] /Pingtung/Pingdong (Taiwan county)/
+屏東市 屏东市 [Ping2 dong1_Shi4] /Pingtung City (Taiwan)/City, Pingtung (Taiwan)/
 平度 平度 [Ping2 du4] /Pingdu (in Shandong)/
 平度市 平度市 [Ping2 du4_Shi4] /Pingdu (in Shandong)/
 平果縣 平果县 [Ping2 guo3_Xian4] /Pingguo (county, in Guangxi)/
@@ -10201,6 +10224,8 @@
 祁連縣 祁连县 [Qi2 lian2_Xian4] /Qilian (county, in Qinghai)/
 奇洛埃島 奇洛埃岛 [Qi2 luo4 ai1 dao3] /Chilo (island)/
 祁門縣 祁门县 [Qi2 men2_Xian4] /Qimen (county, in Anhui)/
+奇摩 奇摩 [Qi2 mo2] /Kimo (Taiwan web portal)/
+奇摩站 奇摩站 [Qi2 mo2_Zhan4] /Kimo (Taiwan web portal)/
 齊默爾曼 齐默尔曼 [Qi2 mo4 er3 man4] /Zimmermann/
 齊拿 齐拿 [Qi2 na2] /Zina/
 耆那教 耆那教 [Qi2 na4 jiao4] /Jainism/
@@ -11867,6 +11892,7 @@
 臺北市 台北市 [Tai2 bei3_Shi4] /Taipei (city)/
 台伯河 台伯河 [Tai2 bo2 he2] /Tiber (river)/
 台東 台东 [Tai2 dong1] /Taitung (county in Taiwan)/
+臺東市 台东市 [Tai2 dong1_Shi4] /Taitung City (Taiwan)/City, Taitung (Taiwan)/
 台江縣 台江县 [Tai2 jiang1_Xian4] /Taijiang (county, in Guizhou)/
 台階 台阶 [Tai2 jie1] /Stairway/
 臺南市 台南市 [Tai2 nan2_Shi4] /Tainan (city)/
@@ -14544,6 +14570,9 @@
 宜丰縣 宜丰县 [Yi2 feng1_Xian4] /Yifeng (county, in Jiangxi)/
 宜黃縣 宜黄县 [Yi2 huang2_Xian4] /Yihuang (county, in Jiangxi)/
 宜君縣 宜君县 [Yi2 jun1_Xian4] /Yijun (county, in Shaanxi)/
+宜蘭 宜兰 [Yi2 lan2] /Yilan (in Taiwan)/
+宜蘭市 宜兰市 [Yi2 lan2_Shi4] /Yilan City (Taiwan)/City, Yilan (Taiwan)/
+宜蘭縣 宜兰县 [Yi2 lan2_Xian4] /Yilan County (Taiwan)/County, Yilan (Taiwan)/
 宜良縣 宜良县 [Yi2 liang2_Xian4] /Yiliang (county, in Yunnan)/
 彞良縣 彝良县 [Yi2 liang2_Xian4] /Yiliang (county, in Yunnan)/
 儀隴縣 仪陇县 [Yi2 long3_Xian4] /Yilong (county, in Sichuan)/
@@ -15108,6 +15137,7 @@
 云浮 云浮 [Yun2 fu2] /Yunfu (in Guangdong)/
 云浮市 云浮市 [Yun2 fu2_Shi4] /Yunfu (in Guangdong)/
 云和縣 云和县 [Yun2 he2_Xian4] /Yunhe (county, in Zhejiang)/
+雲林縣 云林县 [Yun2 lin2_Xian4] /Yunlin County (Taiwan)/County, Yunlin (Taiwan)/
 云龍縣 云龙县 [Yun2 long2_Xian4] /Yunlong (county, in Yunnan)/
 云夢縣 云梦县 [Yun2 meng4_Xian4] /Yunmeng (county, in Hubei)/
 云南話 云南话 [Yun2 nan2 hua4] /Yunnanese/
@@ -15764,6 +15794,7 @@
 編排方式 编排方式 [bian1 pai2_fang1 shi4] /format/(page) layout/
 編排設計 编排设计 [bian1 pai2_she4 ji4] /format/(page) layout/
 鞭聲 鞭声 [bian1 sheng1] /whip sound/sound, whip/
+編寫員 编写员 [bian1 xie3 yuan2] /writer|compiler/
 編者回應 编者回应 [bian1 zhe3_hui2 ying1] /editor's response (to a letter in a magazine)/response, editor's (to a letter in a magazine)/
 編織工 编织工 [bian1 zhi1 gong1] /weaver/
 編纂者 编纂者 [bian1 zuan3 zhe3] /compiler (of dictionary etc)/
@@ -16147,6 +16178,7 @@
 成群結夥 成群结夥 [cheng2 qun2 jie2 huo3] /gang up in a mob/
 成聖 成圣 [cheng2 sheng4] /sanctify/make holy/consecrate/
 誠實無偽 诚实无伪 [cheng2 shi2 wu2 wei3] /honesty (poetic term?)/
+程式編寫員 程式编写员 [cheng2 shi4_bian1 xie3 yuan2] /computer programmer/programmer, computer/
 成胎 成胎 [cheng2 tai1] /conceived (in the womb; lit. become foetus)/
 承托 承托 [cheng2 tuo1] /support (with pillars etc, in architecture)/
 呈獻給 呈献给 [cheng2 xian4_gei3] /respectfully present to/present to, respectfully/
@@ -16681,6 +16713,7 @@
 電腦輔助設計 电脑辅助设计 [dian4 nao3_fu3 zhu4_she4 ji4] /Computer Aided Design/CAD/Aided Design, Computer/
 電腦科技 电脑科技 [dian4 nao3_ke1 ji4] /computer technology/technology, computer/
 電腦控制 电脑控制 [dian4 nao3_kong4 zhi4] /computer-controlled/
+電腦游戲 电脑游戏 [dian4 nao3_you2 xi4] /computer game/game, computer/
 電腦專家 电脑专家 [dian4 nao3_zhuan1 jia1] /computer scientists/scientists, computer/
 電腦科 电脑科 [dian4 nao3 ke1] /computer science (old translation)/science, computer (old translation)/
 電氣工程 电气工程 [dian4 qi4_gong1 cheng2] /electrical engineering/engineering, electrical/
@@ -16773,6 +16806,7 @@
 陡岩 陡岩 [dou3 yan2] /steep rock/craggy place/rock, steep/place, craggy/
 鬥獸場 斗兽场 [dou4 shou4 chang3] /Colosseum (lit. Fight beast site)/
 讀本科 读本科 [du2_ben3 ke1] /read an undergraduate degree/undergraduate degree, read an/
+讀不出來 读不出来 [du2_bu4_chu1 lai5] /unable to read (due to physical difficulty etc)/read, unable to (due to physical difficulty etc)/
 讀屏軟件 读屏软件 [du2_ping2_ruan3 jian4] /screen reader/reader, screen/
 讀我檔案 读我档案 [du2_wo3_dang4 an4] /readme file/file, readme/
 讀一讀 读一读 [du2_yi5_du2] /read (informal?)/
@@ -17011,6 +17045,7 @@
 非典型性 非典型性 [fei1 dian3 xing2 xing4] /atypical/
 非法獵殺 非法猎杀 [fei1 fa3_lie4 sha1] /poaching/
 非法移民 非法移民 [fei1 fa3_yi2 min2] /illegal immigration/immigration, illegal/
+飛官 飞官 [fei1 guan1] /flying officer/officer, flying/
 非官式 非官式 [fei1 guan1 shi4] /unofficial (old translation?)/
 飛回 飞回 [fei1 hui2] /fly back/back, fly/
 飛箭 飞箭 [fei1 jian4] /flying arrow/arrow, flying/
@@ -18243,6 +18278,7 @@
 菊石目 菊石目 [ju2 shi2 mu4] /ammonite (type of fossil)/
 舉個例子 举个例子 [ju3_ge5_li4 zi5] /for example (at beginning of sentence)/example, for (at beginning of sentence)/
 舉薦人 举荐人 [ju3 jian4 ren2] /referee/reference (person, for employment applications)/
+舉重室 举重室 [ju3 zhong4 shi4] /weight room (for exercise)/room, weight (for exercise)/
 據報道 据报道 [ju4_bao4 dao4] /reportedly,/
 懼高心理 惧高心理 [ju4_gao1_xin1 li3] /fear of heights/heights, fear of/
 聚了聚 聚了聚 [ju4_le5_ju4] /hung out (with friends)/
@@ -18822,6 +18858,7 @@
 悶聲 闷声 [men1 sheng1] /muffled sound/sound, muffled/
 悶聲發大財 闷声发大财 [men1 sheng1_fa1_da4 cai2] /make money without boasting/money without boasting, make/
 門頂 门顶 [men2 ding3] /roof of a (city) gate/gate, roof of a/
+門戶網站 门户网站 [men2 hu4_wang3 zhan4] /Web portal/portal, Web/
 門鉸鏈 门铰链 [men2 jiao3 lian4] /door hinge/hinge, door/
 門孔 门孔 [men2 kong3] /hole of a door/door, hole of a/
 萌擬人化 萌拟人化 [meng2_ni3 ren2 hua4] /moe anthropomorphism (cartoon-girl personification)/anthropomorphism, moe (cartoon-girl personification)/
@@ -20141,6 +20178,7 @@
 死後解剖 死后解剖 [si3 hou4_jie3 pou1] /postmortem dissection/dissection, postmortem/
 死機 死机 [si3 ji1] /crash/
 死人卻毫無知覺 死人却毫无知觉 [si3 ren2_que4_hao2 wu2_zhi1 jue2] /but the dead are conscious of nothing at all/dead are conscious of nothing at all, but the/
+死亡決賽 死亡决赛 [si3 wang2_jue2 sai4] /death match (in Quake game etc)/match, death (in Quake game etc)/
 死亡行軍 死亡行军 [si3 wang2_xing2 jun1] /death march(es)/march(es), death/
 死域 死域 [si3 yu4] /death as a metaphorical place/metaphorical place, death as a/
 四級颶風 四级飓风 [si4_ji2_ju4 feng1] /category 4 storm/storm, category 4/
@@ -20293,6 +20331,7 @@
 特殊利益集團 特殊利益集团 [te4 shu1_li4 yi4_ji2 tuan2] /special interest group (profiteering etc)/interest group, special (profiteering etc)/
 特殊興趣小組 特殊兴趣小组 [te4 shu1_xing4 qu4_xiao3 zu3] /special interest group (conferences etc)/interest group, special (conferences etc)/
 特特 特特 [te4 te4] /tehth/tet (Hebrew letter)/
+特戰 特战 [te4 zhan4] /special warfare/special forces/warfare, special/forces, special/
 特征 特征 [te4 zheng1] /cachet (good feature)/
 踢到 踢到 [ti1 dao4] /kick toward|against (an obstacle etc)/toward|against, kick (an obstacle etc)/
 梯頂 梯顶 [ti1 ding3] /ladder's top/
@@ -22169,6 +22208,7 @@
 自願加入 自愿加入 [zi4 yuan4_jia1 ru4] /volunteer to join (an army etc)/join, volunteer to (an army etc)/
 自治鎮 自治镇 [zi4 zhi4 zhen4] /borough (lit. self-governing town)/
 自助掛號機 自助挂号机 [zi4 zhu4_gua4 hao4 ji1] /self-service check-in machine/check-in machine, self-service/
+自助餐桌 自助餐桌 [zi4 zhu4 can1 zhuo1] /buffet table/smörgåsbord/table, buffet/
 宗徒繼承 宗徒继承 [zong1_tu2_ji4 cheng2] /apostolic succession (Catholic doctrine)/succession, apostolic (Catholic doctrine)/
 棕黃色 棕黄色 [zong1 huang2 se4] /yellowish-red/pale brown/
 宗教百科全書 宗教百科全书 [zong1 jiao4_bai3 ke1 quan2 shu1] /The Encyclopedia of Religion/Encyclopedia of Religion, The/
