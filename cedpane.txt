@@ -206,6 +206,7 @@ Adelina	亚德莉娜	亞德莉娜	Yàdélìnà	Nga-dāk-leih-nàh
 Adeline	爱德琳	愛德琳	Àidélín	Ngoi-dāk-làhm	
 Adeline	阿德琳	阿德琳	Ādélín	A-dāk-làhm	
 adenine	腺嘌呤	腺嘌呤	xiànpiàolìng	sin-pīu-lìhng	
+adenosine triphosphate; ATP	腺苷三磷酸	腺苷三磷酸	xiàngān-sānlínsuān	sin-gām-sāam-lèuhn-syūn	
 adept (in sthg)	玩转	玩轉	wánzhuǎn	wáan-jyún	
 adequate/ample time; whatever time is necessary	充足的时间	充足的時間	chōngzú de shíjiān	chūng-jūk dīk sìh-gāan	
 adhonai	阿多奈	阿多奈	āduōnài	a-dō-noih	
@@ -575,6 +576,7 @@ Alps	阿尔卑斯山脉	阿爾卑斯山脈	Ā'ěrbēisī shānmài	A-yíh-bēi-s
 already in progress	进行中	進行中	jìnxíng zhōng	jeun-hàhng jūng	
 Alsace	阿尔萨斯	阿爾薩斯	Ā'ěrsàsī	A-yíh-saat-sī	
 also translated as	又译	又譯	yòuyì	yauh-yihk	
+also translated as	或译	或譯	huò yì	waahk yihk	
 Alta	阿尔塔	阿爾塔	Ā'ěrtǎ	A-yíh-taap	
 Altaic	阿尔泰	阿爾泰	Ā'ěrtài	A-yíh-taai	
 Altai (language)	阿尔泰语	阿爾泰語	Ā'ěrtàiyǔ	A-yíh-taai-yúh	
@@ -690,6 +692,7 @@ Amon (god)	阿蒙神	阿蒙神	Āméng shén	A-mùhng sàhn	ˈeɪmən
 Amor	亚摩利	亞摩利	Yàmólì	Nga-mō-leih	
 Amores	阿莫雷斯	阿莫雷斯	Āmòléisī	A-mohk-lèuih-sī	
 Amorgos (island)	阿莫尔戈斯岛	阿莫爾戈斯島	Āmò'ěrgēsīdǎo	A-mohk-yíh-gwō-sī-dóu	
+Amorgós	阿穆尔戈斯	阿穆爾戈斯	Āmù'ěrgēsī	A-muhk-yíh-gwō-sī	
 Amorite	亚摩利人	亞摩利人	Yàmólìrén	Nga-mō-leih-yàhn	ˈæmɒɹaɪt
 Amor (surname)	阿莫尔	阿莫爾	Āmò'ěr	A-mohk-yíh	
 Amos (Bible book)	阿摩司书	阿摩司書	Āmósīshū	A-mō-sī-syū	ˈeɪməs
@@ -1026,6 +1029,7 @@ Aram	阿拉姆	阿拉姆	Ālāmǔ	A-lāai-móuh
 Aram	阿拉米	阿拉米	Ālāmǐ	A-lāai-máih	ˈeɪɹæm
 Aram-naharaim	阿拉米纳哈连	阿拉米納哈連	Ālāmǐnàhālián	A-lāai-máih-naahp-hā-lìhn	ˌeɪɹəmnɑhʌɹˈeɪəm
 Aram-Zobah	阿拉米琐巴	阿拉米瑣巴	Ālāmǐsuǒbā	A-lāai-máih-só-bā	ˌeɪɹæmzˈəʊbʌ
+Aramaeans	阿拉米人	阿拉米人	Ālāmǐrén	A-lāai-máih-yàhn	
 Aramaic language	阿拉米语	阿拉米語	Ālāmǐyǔ	A-lāai-máih-yúh	
 Aramaic (script)	亚拉姆文	亞拉姆文	Yàlāmǔwén	Nga-lāai-móuh-màhn	
 Aran	亚兰	亞蘭	Yàlán	Nga-làahn	ˈeɪɹæn
@@ -1507,6 +1511,7 @@ Baicheng (county, in Xinjiang)	拜城县	拜城縣	Bàichéng Xiàn	Baai-sìhng 
 Baicheng (in Jilin)	白城	白城	Báichéng	Baahk-sìhng	
 Baicheng (in Jilin)	白城市	白城市	Báichéng Shì	Baahk-sìhng Síh	
 Baidu (company)	百度	百度	Bǎidù	Baak-douh	
+Baidu Web Drive (data-storage service)	百度网盘	百度網盤	Bǎidù Wǎngpán	Baak-douh Móhng-pùhn	
 Baihe (county, in Shaanxi)	白河县	白河縣	Báihé Xiàn	Baahk-hòh Yún	
 Baihe District (in Tainan)	白河区	白河區	Báihé Qū	Baahk-hòh Kēui	
 Bailén	拜伦镇	拜倫鎮	Bàilúnzhèn	Baai-lèuhn-jan	
@@ -1804,6 +1809,7 @@ become manifest	显明出来	顯明出來	xiǎnmíng chulai	hín-mìhng chēut-l
 become manifested	显露出来	顯露出來	xiǎnlù chulai	hín-louh chēut-lòih	
 become nothing	为零	為零	wéi líng	wàih lìhng	
 become one (acting in unity etc)	合而为一	合而為一	hé'érwéiyī	hahp-yìh-wàih-yāt	
+become plump	变胖	變胖	biàn pàng	bin buhn	
 become rich	发了财	發了財	fāle cái	faat-líuh chòih	
 becomes when doubled (folded)	叠成	疊成	diéchéng	dihp-sìhng	
 become well	好过来	好過來	hǎo guolai	hóu gwo-lòih	
@@ -1946,6 +1952,7 @@ Benguela	本格拉	本格拉	Běngélā	Bún-gaak-lāai
 Benguet province (Philippines)	本格特省	本格特省	Běngétèshěng	Bún-gaak-dahk-sáang	
 Ben Hur; son of Hur	便户珥	便戶珥	Biànhù'ěr	Pìhn-wuh-yih	
 benign prostatic hyperplasia; BPH	良性前列腺增生	良性前列腺增生	liángxìng qiánlièxiàn zēngshēng	lèuhng-sing chìhn-liht-sin jāng-sāang	
+Benin City	贝宁市	貝寧市	Bèinìng Shì	Bui-nìhng Síh	
 Beninu	比尼努	比尼努	Bǐnínǔ	Béi-nèih-nóuh	bʌnˈaɪnʉː
 Benitez	贝尼特斯	貝尼特斯	Bèinítèsī	Bui-nèih-dahk-sī	
 Benjamin (in Bible)	便雅悯	便雅憫	Biànyǎmǐn	Pìhn-ngáh-máhn	bˈɛndʒəmɪn
@@ -2320,6 +2327,7 @@ blinking	眨眨	眨眨	zhǎzha	jáam-jáam
 Blin (language)	比林语	比林語	Bǐlínyǔ	Béi-làhm-yúh	
 Bliss (surname)	布利斯	布利斯	Bùlìsī	Bou-leih-sī	
 Blitt	布利特	布利特	Bùlìtè	Bou-leih-dahk	
+blizzard (metaphorical)	雪花般	雪花般	xuěhuābān	syut-fā-būn	
 blockage (in pipeline)	堵塞点	堵塞點	dǔsèdiǎn	dóu-choi-dím	
 blocker (medication)	阻断剂	阻斷劑	zǔduànjì	jó-tyúhn-jāi	
 block (on weixin etc)	拉黑	拉黑	lā hēi	lāai hāk	
@@ -2631,6 +2639,7 @@ Bristow; Bristol (Cantonese version?)	布里斯托	布里斯托	Bùlǐsītuō	Bo
 Britain leaving Europe; Brexit	英国脱欧	英國脫歐	Yīngguó tuō Ōu	Yīng-gwok tyut Ngāu	
 British Academy	英国国家学术院	英國國家學術院	Yīngguó Guójiā Xuéshùyuàn	Yīng-gwok Gwok-gā Hohk-seuht-yún	
 British Antarctic Survey	英国南极考察队	英國南極考察隊	Yīngguó Nánjí Kǎocháduì	Yīng-gwok Nàahm-gihk Háau-chaat-deuih	
+British Chinese	英国华侨	英國華僑	Yīngguó Huáqiáo	Yīng-gwok Wàh-kìuh	
 British English	英式英语	英式英語	Yīngshì Yīngyǔ	Yīng-sīk Yīng-yúh	
 British flapjack; oat bar	燕麦棒	燕麥棒	yànmàibàng	yin-mahk-páahng	
 British Library	英国图书馆	英國圖書館	Yīngguó Túshūguǎn	Yīng-gwok Tòuh-syū-gún	
@@ -3364,6 +3373,10 @@ chapter number	章数	章數	zhāngshù	jēung-sou
 Charanjit	查伦吉	查倫吉	Chálúnjí	Chàh-lèuhn-gāt	
 Charene	查伦妮	查倫妮	Chálúnnī	Chàh-lèuhn-nèih	
 Chargaff	查戈夫	查戈夫	Chágēfū	Chàh-gwō-fū	
+Charing Cross	查宁十字	查寧十字	Chánìng Shízì	Chàh-nìhng Sahp-jih	
+Charing Cross	查宁阁	查寧閣	Chánìnggé	Chàh-nìhng-gok	
+Charing Cross	查灵十字	查靈十字	Chálíng Shízì	Chàh-lìhng Sahp-jih	
+Charing Cross	查灵歌斯	查靈歌斯	Chálínggēsī	Chàh-lìhng-gō-sī	
 charioteer	车兵	車兵	chēbīng	chē-bīng	
 chariot team?	马车队	馬車隊	mǎchēduì	máh-chē-deuih	
 Charité (name of a university hospital etc)	查理特	查理特	Chálǐtè	Chàh-léih-dahk	
@@ -3704,6 +3717,7 @@ city of Jericho	耶利哥城	耶利哥城	Yēlìgē chéng	Yèh-leih-gō sìhng
 city of refuge	庇护城	庇護城	bìhùchéng	bei-wuh-sìhng	
 City of Salt	盐城	鹽城	Yánchéng	Yìhm-sìhng	
 city of Taganrog	塔甘罗格市	塔甘羅格市	Tǎgānluógé Shì	Taap-gām-lòh-gaak Síh	
+City of Westminster	威斯敏斯特市	威斯敏斯特市	Wēisīmǐnsītè Shì	Wāi-sī-máhn-sī-dahk Síh	
 civilian service	民役	民役	mínyì	màhn-yihk	
 civil law (for marriages etc)	民事法	民事法	mínshìfǎ	màhn-sih-faat	
 Civin	齐温	齊溫	Qíwēn	Chàih-wān	
@@ -5182,6 +5196,7 @@ drawn away (from a city etc, e.g. in battle)	引离	引離	yǐnlí	yáhn-lèih
 drawn (of sword, lit. go-out sheath)	出鞘	出鞘	chūqiào	chēut-chiu	
 drawn up (specs etc)	画好了	畫好了	huàhǎole	wá-hóu-líuh	
 draw out (a fish)	钓上	釣上	diàoshang	diu-séuhng	
+draw pictures (child activity)	画画	畫畫	huàhuà	waahk-wá	
 draw up in battle order	列阵	列陣	lièzhèn	liht-jahn	
 Dream's End (variety of gladiolus flower)	梦终	夢終	Mèng Zhōng	Muhng Jūng	
 dream come true	梦想成真	夢想成真	mèngxiǎngchéngzhēn	muhng-séung-sìhng-jān	
@@ -6097,6 +6112,7 @@ extensive discussion (between different parties etc)	广泛的讨论	廣泛的�
 exteriors team (in construction industry)	外墙组	外牆組	wàiqiángzǔ	ngoih-chèuhng-jóu	
 external walls and windows	外墙和窗户	外牆和窗戶	wàiqiáng hé chuānghu	ngoih-chèuhng wòh chēung-wuh	
 extinguish by crushing	打碎灭绝	打碎滅絕	dǎsuì-mièjué	dá-seui-miht-jyuht	
+extraterrestrial	外星	外星	wàixīng	ngoih-sīng	
 extraterrestrials	外星生物	外星生物	wàixīng shēngwù	ngoih-sīng sāang-maht	
 extraterrestrials; ET	外太空生物	外太空生物	wàitàikōng shēngwù	ngoih-taai-hūng sāang-maht	
 extraterrestrials invade Earth; invaders from outer space (scenario)	外星人侵略地球	外星人侵略地球	wàixīngrén qīnlüè dìqiú	ngoih-sīng-yàhn chām-leuhk deih-kàuh	
@@ -7112,6 +7128,7 @@ gentile times (old translation?)	外邦人的日期	外邦人的日期	wàibāng
 Gentiloni	真蒂洛尼	真蒂洛尼	Zhēndìluòní	Jān-dai-lohk-nèih	
 gentle; serene	温文有礼	溫文有禮	wēnwén yǒulǐ	wān-màhn yáuh-láih	
 gentleness	温柔和蔼	溫柔和藹	wēnróu hé'ǎi	wān-yàuh wòh-ói	
+gentle waves	柔波	柔波	róubō	yàuh-bō	
 genuine for a certainty; truthfully	真真正正	真真正正	zhēnzhēn-zhèngzhèng	jān-jān-jing-jing	
 genuine gold	真金	真金	zhēnjīn	jān-gām	
 genuine silver	真银	真銀	zhēnyín	jān-ngàhn	
@@ -8487,6 +8504,7 @@ hiding place	隐藏处	隱藏處	yǐncángchù	yán-chòhng-chyu
 Hiebert	希伯特	希伯特	Xībótè	Hēi-baak-dahk	
 Hierapolis	希拉波利斯	希拉波利斯	Xīlābōlìsī	Hēi-lāai-bō-leih-sī	hˌaɪɹˈɑpəlɪs
 high-density compact disc (Professional Disc etc)	压缩光盘	壓縮光盤	yāsuō guāngpán	ngaat-sūk gwōng-pùhn	
+high-energy	高能量	高能量	gāo néngliàng	gōu nàhng-leuhng	
 high-level; of high rank	高层次	高層次	gāocéngcì	gōu-chàhng-chi	
 high-paying job	高薪的工作	高薪的工作	gāoxīn de gōngzuò	gōu-sān dīk gūng-jok	
 high-quality	高品质	高品質	gāo pǐnzhì	gōu bán-jāt	
@@ -9330,6 +9348,8 @@ in what way	在哪一方面	在哪一方面	zài nǎ yī fāngmiàn	joih náh y�
 in what way?	在哪方面	在哪方面	zài něi fāngmiàn	joih náh fōng-mihn	
 Ioana	伊万娜	伊萬娜	Yīwànnà	Yī-maahn-nàh	
 Ioannis	扬尼斯	揚尼斯	Yángnísī	Yèuhng-nèih-sī	
+Ioannis	杨尼斯	楊尼斯	Yángnísī	Yèuhng-nèih-sī	
+Ioannis (alternate translation)	爱奥尼斯	愛奧尼斯	Ài'àonísī	Ngoi-ou-nèih-sī	
 Iob	约布	約布	Yuēbù	Yeuk-bou	
 Iona (island)	艾奥纳岛	艾奧納島	Ài'àonàdǎo	Ngaaih-ou-naahp-dóu	
 Ionash	约纳什	約納什	Yuēnàshí	Yeuk-naahp-sahm	
@@ -10366,6 +10386,7 @@ keep a stiff upper lip; feign calmness	装作若无其事	裝作若無其事	zhu
 keep awake	保持警醒	保持警醒	bǎochí jǐngxǐng	bóu-chìh gíng-síng	
 keep balanced	保持平衡	保持平衡	bǎochí pínghéng	bóu-chìh pìhng-hàhng	
 keep calm/cool/composed; keep a stiff upper lip	保持镇定	保持鎮定	bǎochí zhèndìng	bóu-chìh jan-dihng	
+keep company; play together with (someone)	陪玩	陪玩	péiwán	pùih-wáan	
 keep drinking constantly (lit. often drunk not sober)	长醉不醒	長醉不醒	chángzuì-bùxǐng	chèuhng-jeui-bāt-síng	
 keeping going; persisting	持续不懈	持續不懈	chíxù-bùxiè	chìh-juhk-bāt-haaih	
 keeping one's word	守诺言	守諾言	shǒu nuòyán	sáu nohk-yìhn	
@@ -10983,6 +11004,7 @@ Lapland	拉普兰	拉普蘭	Lāpǔlán	Lāai-póu-làahn
 Lapland (alternate translation)	拉普兰德	拉普蘭德	Lāpǔlándé	Lāai-póu-làahn-dāk	
 Lappidoth	拉比多	拉比多	Lābǐduō	Lāai-béi-dō	lˈæpɪdɒθ
 laptop computer	手提电脑	手提電腦	shǒutí diànnǎo	sáu-tàih dihn-nóuh	
+Lapu-Lapu City	拉普拉普市	拉普拉普市	Lāpǔlāpǔ Shì	Lāai-póu-lāai-póu Síh	
 Laputa (film title, Chinese version)	天空之城	天空之城	tiānkōng zhī chéng	tīn-hūng jī sìhng	
 La Repubblica	共和国报	共和國報	Gònghéguóbào	Guhng-wòh-gwok-bou	
 Lares (Roman god)	拉瑞斯	拉瑞斯	Lāruìsī	Lāai-seuih-sī	
@@ -11537,6 +11559,7 @@ Liuzhou (in Guangxi)	柳州市	柳州市	Liǔzhōu Shì	Láuh-jāu Síh
 live-action camera	直播镜头	直播鏡頭	zhíbō jìngtóu	jihk-bo geng-tàuh	
 live/pass a year	过一年	過一年	guò yī nián	gwo yāt nìhn	
 live; stay up (in a place for a while etc)	住上	住上	zhùshang	jyuh-séuhng	
+live (a life)	过上	過上	guòshang	gwo-séuhng	
 live bird	活鸟	活鳥	huóniǎo	wuht-níuh	
 lived (a life)	过着	過著	guòzhe	gwo-jyu	
 live one's life	过一生	過一生	guò yīshēng	gwo yāt-sāang	
@@ -12794,6 +12817,7 @@ metal hook/buckle	金属扣	金屬扣	jīnshǔkòu	gām-suhk-kau
 metalworker	金属技工	金屬技工	jīnshǔ jìgōng	gām-suhk geih-gūng	mˈɛtəlwəːkɚ
 metamelomai (Greek remorse)	梅塔梅洛迈	梅塔梅洛邁	méitǎméiluòmài	mùih-taap-mùih-lohk-maaih	
 metanoia (Greek repent)	梅塔尼阿	梅塔尼阿	méitǎní'ā	mùih-taap-nèih-a	
+Metaxas	梅塔克萨斯	梅塔克薩斯	Méitǎkèsàsī	Mùih-taap-hāk-saat-sī	
 Metcalfe	梅特卡夫	梅特卡夫	Méitèkǎfū	Mùih-dahk-kā-fū	
 meteor (body entering the atmosphere)	流星体	流星體	liúxīngtǐ	làuh-sīng-tái	mˈitiʌ
 meterological data; weather data	气象资料	氣象資料	qìxiàng zīliào	hei-jeuhng jī-líu	
@@ -12987,6 +13011,7 @@ Minotaur	弥诺陶洛斯	彌諾陶洛斯	Mínuòtáoluòsī	Mèih-nohk-tòuh-loh
 Minqin (county, in Gansu)	民勤县	民勤縣	Mínqín Xiàn	Màhn-kàhn Yún	
 Minqing (county, in Fujian)	闽清县	閩清縣	Mǐnqīng Xiàn	Máhn-chīng Yún	
 Minsky	明斯基	明斯基	Míngsījī	Mìhng-sī-gēi	
+Minsky	闵斯基	閔斯基	Mǐnsījī	Máhn-sī-gēi	
 Miranda	米兰达	米蘭達	Mǐlándá	Máih-làahn-daaht	
 Mirandese (language)	米兰德斯语	米蘭德斯語	Mǐlándésīyǔ	Máih-làahn-dāk-sī-yúh	
 Miriam (Bible)	米利暗	米利暗	Mǐlì'àn	Máih-leih-ngam	mˈɪɹiəm
@@ -13020,6 +13045,7 @@ misuse (of medicine)	滥服	濫服	lànfú	laahm-fuhk
 Mitchell	米切尔	米切爾	Mǐqiè'ěr	Máih-chit-yíh	mˈɪttʃəl
 Mithkah	密加	密加	Mìjiā	Maht-gā	mˈɪθkʌ
 Mithra	密特拉	密特拉	Mìtèlā	Maht-dahk-lāai	
+mitochondria	线粒体	線粒體	xiànlìtǐ	sin-lāp-tái	
 Mitra	密多罗	密多羅	Mìduōluó	Maht-dō-lòh	
 Mitrega	米特伦加	米特倫加	Mǐtèlúnjiā	Máih-dahk-lèuhn-gā	
 Mittleman	米特尔曼	米特爾曼	Mǐtè'ěrmàn	Máih-dahk-yíh-maahn	
@@ -13183,6 +13209,8 @@ Moral Majority	道德多数派	道德多數派	Dàodé Duōshù pài	Douh-dāk D
 moral protection (lit. moral defense-line)	道德防线	道德防線	dàodé fángxiàn	douh-dāk fòhng-sin	
 moral sense	道德感	道德感	dàodégǎn	douh-dāk-gám	
 moral values	道德标准	道德標準	dàodé biāozhǔn	douh-dāk bīu-jéun	
+Moravec	莫拉维克	莫拉維克	Mòlāwéikè	Mohk-lāai-wàih-hāk	
+Moravec's paradox	莫拉维克悖论	莫拉維克悖論	Mòlāwéikè bèilùn	Mohk-lāai-wàih-hāk bui-leuhn	
 Moravia(n)	摩拉维亚	摩拉維亞	Mólāwéiyà	Mō-lāai-wàih-nga	
 Morcillo	莫尔西略	莫爾西略	Mò'ěrxīlüè	Mohk-yíh-sāi-leuhk	
 Mordecai	末底改	末底改	Mòdǐgǎi	Muht-dái-gói	mˈʊədɪkaɪ
@@ -13735,6 +13763,7 @@ neuroplasticity	神经可塑性	神經可塑性	shénjīng kěsùxìng	sàhn-gī
 neuropsychologist	神经心理学家	神經心理學家	shénjīng xīnlǐxuéjiā	sàhn-gīng sām-léih-hohk-gā	
 neuroscience (lit. nervous system science)	神经系统科学	神經系統科學	shénjīng xìtǒng kēxué	sàhn-gīng haih-túng fō-hohk	
 neutrino	中微子	中微子	zhōngwēizǐ	jūng-mèih-jí	
+neutron star	中子星	中子星	zhōngzǐxīng	jūng-jí-sīng	
 Nevada	内华达州	內華達州	Nèihuádázhōu	Noih-wàh-daaht-jāu	
 never again	永不再	永不再	yǒngbù zài	wíhng-bāt joi	
 never ending	永无穷尽	永無窮盡	yǒngwú-qióngjìn	wíhng-mòuh-kùhng-jeuhn	
@@ -14184,6 +14213,7 @@ Oboth	奥伯	奧伯	Àobó	Ou-baak	ˈəʊbɒθ
 obscurity (with darkness etc)	昏暗不明	昏暗不明	hūn'àn-bùmíng	fān-ngam-bāt-mìhng	ˌəbskjˈʊəɹɪti
 observable universe	可观测宇宙	可觀測宇宙	kě guāncè yǔzhòu	hó gūn-chāak yúh-jauh	
 observe intently	细心观察	細心觀察	xìxīn guānchá	sai-sām gūn-chaat	
+observer; watcher (of nature etc)	观赏者	觀賞者	guānshǎngzhě	gūn-séung-jé	
 obstinate; stiff-necked	硬着颈项	硬著頸項	yìngzhe jǐngxiàng	ngaahng-jyu géng-hohng	ˈɒbstɪnət
 obtain a pardon	得赦	得赦	déshè	dāk-se	
 obtain atonement	得赎	得贖	déshú	dāk-suhk	
@@ -14634,6 +14664,7 @@ palm leaves	棕榈叶	棕櫚葉	zōnglǘyè	jūng-léui-yihp
 Palm Springs	棕榈泉	棕櫚泉	Zōnglǘquán	Jūng-léui-chyùhn	
 Palmyra	巴尔米拉	巴爾米拉	Bā'ěrmǐlā	Bā-yíh-máih-lāai	
 Palmyrene (written language)	帕尔迈拉文	帕爾邁拉文	Pà'ěrmàilāwén	Paak-yíh-maaih-lāai-màhn	
+Palo	帕洛	帕洛	Pàluò	Paak-lohk	
 Paloheimo	帕洛黑莫	帕洛黑莫	Pàluòhēimò	Paak-lohk-hāk-mohk	
 palpebral fissure; eye opening (between the eyelids)	睑裂	瞼裂	jiǎnliè	gím-liht	
 Palti	帕提	帕提	Pàtí	Paak-tàih	pˈəʊltaɪ
@@ -14932,6 +14963,7 @@ Perez (Bible)	法勒斯	法勒斯	Fǎlèsī	Faat-lahk-sī	pˈiɹɛz
 Perez (modern); Pérez	佩雷斯	佩雷斯	Pèiléisī	Pui-lèuih-sī	
 perfectionist	完美主义者	完美主義者	wánměizhǔyìzhě	yùhn-méih-jyú-yih-jé	
 perfectly pure?	精洁	精潔	jīngjié	jīng-git	
+perform (on stage) together (with)	同台演出	同台演出	tóngtái yǎnchū	tùhng-tòih yín-chēut	
 perform salvation	施行拯救	施行拯救	shīxíng zhěngjiù	sī-hàhng chíng-gau	
 perfumed oil	馨香油	馨香油	xīnxiāngyóu	hīng-hēung-yàuh	
 Perga	佩尔吉	佩爾吉	Pèi'ěrjí	Pui-yíh-gāt	
@@ -15712,6 +15744,7 @@ Puning (in Guangdong)	普宁	普寧	Pǔníng	Póu-nìhng
 Puning (in Guangdong)	普宁市	普寧市	Pǔníng Shì	Póu-nìhng Síh	
 Punon	普嫩	普嫩	Pǔnèn	Póu-nyuhn	pˈʉːnɒn
 Punta	蓬塔	蓬塔	Péngtǎ	Pùhng-taap	
+punting pole	长篙	長篙	chánggāo	chèuhng-gōu	
 Pupa	普帕	普帕	Pǔpà	Póu-paak	
 Pur	普珥	普珥	Pǔ'ěr	Póu-yih	
 Purah	普拉	普拉	Pǔlā	Póu-lāai	pˈɒɹæɹ
@@ -16077,6 +16110,7 @@ reach to (a time)	摘到	摘到	zhāidào	jaahk-dou
 reach to (carry on until)	打到	打到	dǎdào	dá-dou	
 read	读读	讀讀	dúdú	duhk-duhk	
 read aloud for (someone)	念给	念給	niàngěi	nihm-kāp	
+read and read, write and write	读读写写	讀讀寫寫	dúdú-xiěxiě	duhk-duhk-sé-sé	
 read an undergraduate degree	读本科	讀本科	dú běnkē	duhk bún-fō	
 readers (the reading public)	广大读者	廣大讀者	guǎngdà dúzhě	gwóng-daaih duhk-jé	
 readily-available materials; local materials	现成的材料	現成的材料	xiànchéng de cáiliào	yihn-sìhng dīk chòih-líu	
@@ -16123,6 +16157,7 @@ Rechabites	利甲人	利甲人	Lìjiǎrén	Leih-gaap-yàhn	ɹˈikæbaɪts
 Recife	累西腓	累西腓	Lèixīféi	Leuih-sāi-fèih	ɹˌɛsˈifə
 recite from memory	背出	背出	bèichū	bui-chēut	
 recognized experts	知名专家	知名專家	zhīmíng zhuānjiā	jī-mìhng jyūn-gā	
+recommended reading	荐读	薦讀	jiàndú	jin-duhk	
 recommend forcefully	怒赞	怒贊	nùzàn	nouh-jaan	
 recommend oneself	自我推荐	自我推薦	zìwǒ tuījiàn	jih-ngóh tēui-jin	
 reconstruction after disaster	灾后重建	災後重建	zāihòu chóngjiàn	jōi-hauh chùhng-gin	
@@ -16194,6 +16229,7 @@ Reginald	雷金纳德	雷金納德	Léijīnnàdé	Lèuih-gām-naahp-dāk
 regional wars	地区战争	地區戰爭	dìqū zhànzhēng	deih-kēui jin-jāng	
 register as a member (of an association)	注册成为会员	注冊成為會員	zhùcè chéngwéi huìyuán	jyu-chaak sìhng-wàih wúi-yùhn	
 registered nurse; State-certified nurse	注册护士	注冊護士	zhùcè hùshi	jyu-chaak wuh-sih	
+registered trademark	注册商标	注冊商標	zhùcè shāngbiāo	jyu-chaak sēung-bīu	
 register (for a class etc)	报读	報讀	bàodú	bou-duhk	ɹˈɛdʒɪstɚ
 registration	人口登记	人口登記	rénkǒu dēngjì	yàhn-háu dāng-gei	
 registration machine (for self-service check-in etc)	挂号机	掛號機	guàhàojī	gwa-houh-gēi	
@@ -16485,6 +16521,7 @@ Rivera	里韦拉	里韋拉	Lǐwéilā	Léih-wáih-lāai	ɹɪbˈɛɹə
 River Beni	贝尼河	貝尼河	Bèiní Hé	Bui-nèih Hòh	
 River Cam	剑河	劍河	Jiàn Hé	Gim Hòh	
 River Cam Breeze (publication & group)	剑河风	劍河風	Jiàn Hé Fēng	Gim Hòh Fūng	
+River Cam (old name)	康河	康河	Kāng Hé	Hōng Hòh	
 river Clyde	克莱德河	克萊德河	Kèláidéhé	Hāk-lòih-dāk-hòh	
 River of Egypt	埃及河	埃及河	Āijí hé	Āai-kahp hòh	
 River Seine (Normandy; pinyin uncertain)	塞纳河	塞納河	Sàinàhé	Choi-naahp-hòh	
@@ -17437,6 +17474,7 @@ Serug	西鹿	西鹿	Xīlù	Sāi-luhk	sˈiɹəɡ
 servants (plural)	仆人们	僕人們	púrénmen	buhk-yàhn-mùhn	
 serve	事奉	事奉	shìfèng	sih-fuhng	
 Servetus	塞尔维特	塞爾維特	Sè'ěrwéitè	Choi-yíh-wàih-dahk	
+Servetus	塞尔韦特	塞爾韋特	Sè'ěrwéitè	Choi-yíh-wáih-dahk	
 serving as high priest	做大祭司	做大祭司	zuò dàjìsī	jouh daaih-jai-sī	
 Sesotho (language) (pinyin uncertain)	塞苏陀语	塞蘇陀語	Sèsūtuóyǔ	Choi-sōu-tòh-yúh	sˌɪsˈʉːtʉː
 Sestroretskiy	谢斯特罗列茨克	謝斯特羅列茨克	Xièsītèluóliècíkè	Jeh-sī-dahk-lòh-liht-chìh-hāk	
@@ -17583,6 +17621,7 @@ Shapiro	夏皮罗	夏皮羅	Xiàpíluó	Hah-pèih-lòh	ʃəpˈiɹəʊ
 Sharada (written language)	夏拉达文	夏拉達文	Xiàlādáwén	Hah-lāai-daaht-màhn	
 Sharadze	沙拉泽	沙拉澤	Shālāzé	Sā-lāai-jaahk	
 Sharai	沙莱	沙萊	Shālái	Sā-lòih	ʃˈeɪɹaɪ
+share a stage with (in performance etc)	同台	同台	tóngtái	tùhng-tòih	
 Share feature (on website)	分享功能	分享功能	fēnxiǎng gōngnéng	fān-héung gūng-nàhng	
 share in the honour	与有荣焉	與有榮焉	yǔyǒuróngyān	yúh-yáuh-wìhng-yīn	
 Sharezer	沙利薛	沙利薛	Shālìxuē	Sā-leih-sit	ʃɑɹˈizəː
@@ -18824,6 +18863,7 @@ Surabaya (alternate translation)	苏腊巴亚	蘇臘巴亞	Sūlàbāyà	Sōu-laa
 Surigaonon (language)	苏里高农语	蘇里高農語	Sūlǐgāonóngyǔ	Sōu-léih-gōu-nùhng-yúh	
 surpassing many?	超众	超眾	chāozhòng	chīu-jung	
 surpassing way	至善之道	至善之道	zhìshàn zhī dào	ji-sihn jī douh	
+surprise appearance	惊现	驚現	jīngxiàn	gīng-yihn	
 Surrey	萨里	薩里	Sàlǐ	Saat-léuih	sˈʌɹi
 Surrey (county)	萨里郡	薩里郡	Sàlǐjùn	Saat-léuih-gwahn	sˈʌɹi
 surround; encircle	包围住	包圍住	bāowéizhù	bāau-wàih-jyuh	
@@ -19157,6 +19197,7 @@ Taw; Tav (Hebrew letter)	塔乌	塔烏	tǎwū	taap-wū	tɒɹ
 tax-exempt year	豁免年	豁免年	huòmiǎnnián	kut-míhn-nìhn	
 taxation	征税	征稅	zhēngshuì	jīng-seui	
 tax collector	收税人	收稅人	shōushuìrén	sāu-seui-yàhn	
+taxed; pay tax on	交税	交稅	jiāoshuì	gāau-seui	
 Taxkorgan (Tajik county, in Xinjiang)	塔什库尔干县	塔什庫爾干縣	Tǎshíkù'ěrgān Xiàn	Taap-sahm-fu-yíh-gōn Yún	
 tax office (first-century)	收税处	收税處	shōushuìchù	sāu-seui-chyu	
 Taylene	塔伦	塔倫	Tǎlún	Taap-lèuhn	
@@ -19198,6 +19239,7 @@ Telah	特拉赫	特拉赫	Tèlāhè	Dahk-lāai-hāk	tˈilʌ
 Telaim	特拉因	特拉因	Tèlāyīn	Dahk-lāai-yān	təlˈeɪəm
 Telam	特兰	特蘭	Tèlán	Dahk-làahn	tˈilæm
 Telavi	泰拉维	泰拉維	Tàilāwéi	Taai-lāai-wàih	
+Tel Dan	泰勒丹	泰勒丹	Tàilè Dān	Taai-lahk Dāan	
 Telegraph (newspaper)	电讯报	電訊報	Diànxùnbào	Dihn-seun-bou	tˈɛlɪɡɹɑf
 telehandling (of construction equipment)	伸缩臂式	伸縮臂式	shēnsuōbìshì	sān-sūk-bei-sīk	
 Telem	特伦	特倫	Tèlún	Dahk-lèuhn	tˈilæm
@@ -19589,6 +19631,7 @@ thumb cuffs	拇指铐	拇指銬	mǔzhǐ kào	móuh-jí kaau
 Thummim	土明	土明	Tǔmíng	Tóu-mìhng	θˈʌmɪm
 Thun	图恩	圖恩	Tú'ēn	Tòuh-yān	
 thunder boom; thunders	雷轰	雷轟	léihōng	lèuih-gwāng	
+thunderous; stormlike	暴风雨般	暴風雨般	bàofēngyǔ bān	bouh-fūng-yúh būn	
 Thurston	瑟斯顿	瑟斯頓	Sèsīdùn	Sāt-sī-deuhn	
 Thutmose	图特摩斯	圖特摩斯	Tútèmósī	Tòuh-dahk-mō-sī	
 Thyatira	推雅推拉	推雅推拉	Tuīyǎtuīlā	Tēui-ngáh-tēui-lāai	θaɪətˈaɪɹʌ
@@ -21058,6 +21101,7 @@ Whittier	惠蒂埃	惠蒂埃	Huìdì'āi	Waih-dai-āai
 Whittington	惠廷顿	惠廷頓	Huìtíngdùn	Waih-tìhng-deuhn	
 whole-grain flour; wholemeal flour	全麦粉	全麥粉	quánmàifěn	chyùhn-mahk-fán	
 whole body	百体	百體	bǎitǐ	baak-tái	
+whole country	全境	全境	quánjìng	chyùhn-gíng	
 whole earth	全地	全地	quándì	chyùhn-deih	
 whole heart rejoice	满心欢喜	滿心歡喜	mǎnxīn huānxǐ	múhn-sām fūn-héi	
 whole intellect	全智	全智	quánzhì	chyùhn-ji	
@@ -21304,6 +21348,7 @@ wow!	哇塞	哇塞	wāsāi	wā-choi
 wow! (neologism)	哇噻	哇噻	wāsāi		
 Woyang (county, in Anhui)	涡阳县	渦陽縣	Wōyáng Xiàn	Gwō-yèuhng Yún	
 Wozniak	沃兹尼亚克	沃茲尼亞克	Wòzīníyàkè	Yūk-jī-nèih-nga-hāk	
+wrangled	吵过闹过	吵過鬧過	chǎoguò-nàoguò	cháau-gwo-naauh-gwo	
 wrap/bind up well	裹好	裹好	guǒhǎo	gwó-hóu	
 wrapped around one's finger (figurative, of other people)	玩得团团转	玩得團團轉	wán de tuántuánzhuàn	wáan dāk tyùhn-tyùhn-jyún	
 Wrath of Khan (1982 film)	可汗怒吼	可汗怒吼	Kèhán Nùhǒu	Hó-hohn Nouh-hāau	
@@ -21322,6 +21367,7 @@ write out well	写好	寫好	xiěhǎo	sé-hóu
 writer/compiler	编写员	編寫員	biānxiěyuán	pīn-sé-yùhn	
 writer; penman	执笔者	執筆者	zhíbǐzhě	jāp-bāt-jé	ɹˈaɪtɚ
 Writing Department	写作部	寫作部	Xiězuò Bù	Sé-jok Bouh	
+writing not finished	写不完	寫不完	xiěbùwán	sé-bāt-yùhn	
 writing on the wall; handwriting on the wall (Daniel etc)	墙上的字迹	牆上的字跡	qiáng shàng de zìjì	chèuhng seuhng dīk jih-jīk	
 written by Morrison	莫里森著	莫里森著	Mòlǐsēn zhù	Mohk-léih-sām jyu	
 Wrobel	洛鲍尔	洛鮑爾	Luòbào'ěr	Lohk-bāau-yíh	
