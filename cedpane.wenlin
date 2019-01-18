@@ -111898,3 +111898,79 @@ pinyin Yángnísī
 characters 杨尼斯[楊--]
 serial-number CedPane22540
 definition Ioannis
+*** 
+pinyin dàilǐ fúwùqì
+characters 代理服务器[---務-]
+serial-number CedPane22541
+definition proxy server
+*** 
+pinyin dúqǔ
+characters 读取[讀-]
+serial-number CedPane22542
+environment   comp.
+definition fetch (of CPU instruction)
+*** 
+pinyin fāngàihé
+characters 翻盖盒[-蓋-]
+serial-number CedPane22543
+definition clamshell box
+*** 
+pinyin fùkè
+characters 复刻[復-]
+serial-number CedPane22544
+environment   comp.
+definition fork (of software)
+*** 
+pinyin hēi cùlì
+characters 黑醋栗
+serial-number CedPane22545
+definition blackcurrant
+*** 
+pinyin hézi móxíng
+characters 盒子模型
+serial-number CedPane22546
+environment   comp.
+definition box model (in CSS)
+*** 
+pinyin hóng cùlì
+characters 红醋栗[紅--]
+serial-number CedPane22547
+definition red currant
+*** 
+pinyin lāqǔ qǐngqiú
+characters 拉取请求[--請-]
+serial-number CedPane22548
+environment   comp.
+definition pull request
+*** 
+pinyin shānméi
+characters 山莓
+serial-number CedPane22549
+definition raspberry
+*** 
+pinyin shùméi
+characters 树莓[樹-]
+serial-number CedPane22550
+definition Asian raspberry; rubus corchorifolius
+*** 
+pinyin Shùméi Pài
+characters 树莓派[樹--]
+serial-number CedPane22551
+environment   comp.
+definition Raspberry Pi
+*** 
+pinyin xiànliào
+characters 馅料[餡-]
+serial-number CedPane22552
+definition filling (in cookery)
+*** 
+pinyin xuéshù chūbǎnwù
+characters 学术出版物[學術---]
+serial-number CedPane22553
+definition academic publications
+*** 
+pinyin zhǐlìng zhōuqī
+characters 指令周期
+serial-number CedPane22554
+environment   comp.
+definition instruction cycle

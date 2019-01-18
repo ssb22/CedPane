@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-01-17
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-01-18
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -11401,6 +11401,7 @@
 舒亞地 舒亚地 [Shu1 ya4 di4] /Shual/
 書亞人 书亚人 [Shu1 ya4 ren2] /Shuhite/
 樹林區 树林区 [Shu4 lin2_Qu1] /Shulin District (in New Taipei)/District, Shulin (in New Taipei)/
+樹莓派 树莓派 [Shu4 mei2_Pai4] /Raspberry Pi/
 沭陽縣 沭阳县 [Shu4 yang2_Xian4] /Shuyang (county, in Jiangsu)/
 雙柏縣 双柏县 [Shuang1 bo2_Xian4] /Shuangbo (county, in Yunnan)/
 雙城記 双城记 [Shuang1 cheng2_Ji4] /A Tale of Two Cities (by Charles Dickens)/Tale of Two Cities, A (by Charles Dickens)/
@@ -16544,6 +16545,7 @@
 代溝問題 代沟问题 [dai4 gou1_wen4 ti2] /generation gap/
 代號為 代号为 [dai4 hao4_wei2] /code-named/
 袋口 袋口 [dai4 kou3] /mouth of a bag/
+代理服務器 代理服务器 [dai4 li3_fu2 wu4 qi4] /proxy server/server, proxy/
 戴滿 戴满 [dai4 man3] /richly adorned (wearing lots of ornaments)/adorned, richly (wearing lots of ornaments)/
 代求 代求 [dai4 qiu2] /intercede (for someone)/
 戴勝鳥 戴胜鸟 [dai4 sheng4 niao3] /hoopoe/
@@ -16848,6 +16850,7 @@
 毒麥 毒麦 [du2 mai4] /weeds/
 獨木式 独木式 [du2 mu4 shi4] /simplex (as in crux simplex)/
 毒品文化 毒品文化 [du2 pin3_wen2 hua4] /drug culture/culture, drug/
+讀取 读取 [du2 qu3] /fetch (of CPU instruction)/
 毒蛇蛋 毒蛇蛋 [du2 she2 dan4] /eggs of a poisonous snake/poisonous snake, eggs of a/
 獨身女子 独身女子 [du2 shen1_nu:3 zi3] /single woman/woman, single/
 讀書心得 读书心得 [du2 shu1_xin1 de2] /what we learn from books/learn from books, what we/
@@ -16984,6 +16987,7 @@
 法律系學生 法律系学生 [fa3 lu:4 xi4_xue2 sheng5] /law-school students/students, law-school/
 法團 法团 [fa3 tuan2] /corporation/legal entity/
 髮頂 发顶 [fa4 ding3] /hairy crown of the head (lit. hair top)/crown of the head, hairy (lit. hair top)/
+翻蓋盒 翻盖盒 [fan1 gai4 he2] /clamshell box/
 翻舊賬 翻旧账 [fan1 jiu4 zhang4] /talking about an old matter again/about an old matter again, talking/
 帆具 帆具 [fan1 ju4] /gear (of a sail; lit. sail tool)/
 番茄湯 番茄汤 [fan1 qie2_tang1] /tomato soup/soup, tomato/
@@ -17160,6 +17164,7 @@
 複合樹脂 复合树脂 [fu4 he2_shu4 zhi1] /composite resin/resin, composite/
 副祭司 副祭司 [fu4 ji4 si1] /priests of the second rank/assistant priests/second rank, priests of the/
 副監督 副监督 [fu4 jian1 du1] /second (assistant) overseer/overseer, second/
+復刻 复刻 [fu4 ke4] /fork (of software)/
 附例 附例 [fu4 li4] /by-law/
 富麗堂皇的建築物 富丽堂皇的建筑物 [fu4 li4 tang2 huang2_de5_jian4 zhu4 wu4] /sumptuous buildings/impressive architecture/buildings, sumptuous/architecture, impressive/
 復臨 复临 [fu4 lin2] /second coming/return/coming, second/
@@ -17616,11 +17621,13 @@
 核武 核武 [he2 wu3] /nuclear weapon/weapon, nuclear/
 核物理學 核物理学 [he2 wu4 li3 xue2] /nuclear physics/physics, nuclear/
 合著者 合著者 [he2 zhu4 zhe3] /co-authors/
+盒子模型 盒子模型 [he2 zi5_mo2 xing2] /box model (in CSS)/model, box (in CSS)/
 盒子魚 盒子鱼 [he2 zi5_yu2] /boxfish/
 核子導彈 核子导弹 [he2 zi3_dao3 dan4] /nuclear missile/missile, nuclear/
 核子冬天 核子冬天 [he2 zi3_dong1 tian1] /nuclear winter/winter, nuclear/
 赫萊 赫莱 [he4 lai2] /hehlel (Hebrew for shining one)/
 賀梅珥 贺梅珥 [he4 mei2 er3] /homer (dry measure, possibly 220 liters)/
+黑醋栗 黑醋栗 [hei1_cu4 li4] /blackcurrant/
 黑白照 黑白照 [hei1 bai2_zhao4] /black-and-white photograph/photograph, black-and-white/
 黑斑羚 黑斑羚 [hei1 ban1 ling2] /impala/
 黑帶 黑带 [hei1 dai4] /black belt/belt, black/
@@ -17644,6 +17651,7 @@
 橫屍 横尸 [heng2 shi1] /corpse lying down/lying down, corpse/
 烘穀 烘谷 [hong1 gu3] /roasted grain/grain, roasted/
 烘好 烘好 [hong1 hao3] /roasted/
+紅醋栗 红醋栗 [hong2_cu4 li4] /red currant/currant, red/
 紅斑狼瘡 红斑狼疮 [hong2 ban1_lang2 chuang1] /lupus/
 紅超巨星 红超巨星 [hong2 chao1 ju4 xing1] /red supergiant (star)/supergiant, red (star)/
 紅綢 红绸 [hong2 chou2] /red sari/sari, red/
@@ -18526,6 +18534,7 @@
 垃圾回收員 垃圾回收员 [la1 ji1_hui2 shou1 yuan2] /garbage collector/collector, garbage/
 垃圾堆填區 垃圾堆填区 [la1 ji1 dui1 tian2_qu1] /landfill site/site, landfill/
 拉梅德 拉梅德 [la1 mei2 de2] /lamedh/lamed (Hebrew letter)/
+拉取請求 拉取请求 [la1 qu3_qing3 qiu2] /pull request/request, pull/
 辣麼 辣么 [la4 me5] /so much/much, so/
 蠟製 蜡制 [la4 zhi4] /waxen/made of wax/
 來不了 来不了 [lai2_bu4_liao3] /unable to come/come, unable to/
@@ -19705,6 +19714,7 @@
 煽點 煽点 [shan1 dian3] /to fan a fire (starting it?)/fire, to fan a (starting it?)/
 煽動叛亂 煽动叛乱 [shan1 dong4_pan4 luan4] /sedition/
 山梨 山梨 [shan1 li2] /rowan/mountain ash (tree)/
+山莓 山莓 [shan1 mei2] /raspberry/
 煽情故事 煽情故事 [shan1 qing2_gu4 shi5] /sensational tales/tales, sensational/
 煽煽 煽煽 [shan1 shan5] /fan (the flames of a fire etc)/
 山上 山上 [shan1 shang5] /on the mountain/mountain, on the/
@@ -20121,6 +20131,7 @@
 數百萬 数百万 [shu4_bai3 wan4] /millions/
 數綿羊 数绵羊 [shu4_mian2 yang2] /counting sheep (ineffective sleep method)/sheep, counting (ineffective sleep method)/
 數碼錄音磁帶 数码录音磁带 [shu4 ma3_lu4 yin1_ci2 dai4] /digital audio tape/DAT/audio tape, digital/
+樹莓 树莓 [shu4 mei2] /Asian raspberry/rubus corchorifolius/raspberry, Asian/corchorifolius, rubus/
 樹木年代學 树木年代学 [shu4 mu4_nian2 dai4 xue2] /dendrochronology (lit. "tree chronology")/
 束起 束起 [shu4 qi5] /bundle up (and come?)/
 豎起耳朵 竖起耳朵 [shu4 qi3_er3 duo5] /ears prick up (?)/prick up, ears (?)/
@@ -20965,6 +20976,7 @@
 腺苷三磷酸 腺苷三磷酸 [xian4 gan1 san1 lin2 suan1] /adenosine triphosphate/ATP/triphosphate, adenosine/
 現金卡 现金卡 [xian4 jin1 ka3] /debit card/card, debit/
 線粒體 线粒体 [xian4 li4 ti3] /mitochondria/
+餡料 馅料 [xian4 liao4] /filling (in cookery)/
 腺嘌呤 腺嘌呤 [xian4 piao4 ling4] /adenine/
 現世主義 现世主义 [xian4 shi4_zhu3 yi4] /secularism/
 獻完 献完 [xian4 wan2] /finished offering|donating/offering|donating, finished/
@@ -21245,6 +21257,7 @@
 學生聯誼 学生联谊 [xue2 sheng5_lian2 yi4] /fraternity (student club in America etc)/
 學生人數 学生人数 [xue2 sheng5_ren2 shu4] /number of students/students, number of/
 學術成果 学术成果 [xue2 shu4_cheng2 guo3] /academic achievement/achievement, academic/
+學術出版物 学术出版物 [xue2 shu4_chu1 ban3 wu4] /academic publications/publications, academic/
 學術問題 学术问题 [xue2 shu4_wen4 ti2] /scholarly question/question, scholarly/
 學術研究 学术研究 [xue2 shu4_yan2 jiu1] /academic research/research, academic/
 學術知識 学术知识 [xue2 shu4_zhi1 shi5] /academic knowledge/knowledge, academic/
@@ -22017,6 +22030,7 @@
 指寬度 指宽度 [zhi3_kuan1 du4] /fingerbreadth/
 止汗劑 止汗剂 [zhi3 han4 ji4] /antiperspirant/
 只會 只会 [zhi3 hui4] /can only/only, can/
+指令周期 指令周期 [zhi3 ling4_zhou1 qi1] /instruction cycle/cycle, instruction/
 只是形式而已 只是形式而已 [zhi3 shi4_xing2 shi4_er2 yi3] /just going through the motions/going through the motions, just/
 指示牌 指示牌 [zhi3 shi4 pai2] /signpost/
 指數五顆星 指数五颗星 [zhi3 shu4_wu3_ke1_xing1] /five-star rating/rating, five-star/

@@ -111,6 +111,7 @@ acacia wood	金合欢木	金合歡木	jīnhéhuānmù	gām-hahp-fūn-muhk
 academic achievement	学术成果	學術成果	xuéshù chéngguǒ	hohk-seuht sìhng-gwó	
 academic gown	学袍	學袍	xuépáo	hohk-pòuh	
 academic knowledge	学术知识	學術知識	xuéshù zhīshi	hohk-seuht ji-sīk	
+academic publications	学术出版物	學術出版物	xuéshù chūbǎnwù	hohk-seuht chēut-báan-maht	
 academic research	学术研究	學術研究	xuéshù yánjiū	hohk-seuht yìhn-gau	
 a calling that one has been granted as a favour	承蒙召唤	承蒙召喚	chéngméngzhàohuàn	sìhng-mùhng-jiuh-wuhn	
 a calling that one has been granted as a favour	蒙召	蒙召	méngzhào	mùhng-jiuh	
@@ -1212,6 +1213,7 @@ Ashur	亚书利	亞書利	Yàshūlì	Nga-syū-leih
 Ashurbanipal	亚述巴尼拔	亞述巴尼拔	Yàshùbāníbá	Nga-seuht-bā-nèih-baht	
 Ash Wednesday (church festival established in 1091)	圣灰星期三	聖灰星期三	Shènghuī Xīngqīsān	Sing-fūi Sīng-kèih-sāam	
 Asia Minor	小亚细亚	小亞細亞	Xiǎo Yàxìyà	Síu Nga-sai-nga	
+Asian raspberry; rubus corchorifolius	树莓	樹莓	shùméi	syuh-mùih	
 Asiaweek	亚洲週刊	亞洲週刊	Yàzhōu zhōukān	Nga-jāu jāu-hōn	
 AsiaWorld Expo (place in Hong Kong)	亚洲国际博览馆	亞洲國際博覽館	Yàzhōu Guójì Bólǎnguǎn	Nga-jāu Gwok-jai Bok-láahm-gún	
 as if	像是	像是	xiàng shì	jeuhng sih	
@@ -2277,6 +2279,7 @@ black-and-white photograph	黑白照	黑白照	hēibái zhào	hāk-baahk jiu
 black-currant juice	黑葡萄汁	黑葡萄汁	hēipútáozhī	hāk-pòuh-tòuh-jāp	
 black belt	黑带	黑帶	hēidài	hāk-daai	
 Blackburn (surname)	布莱克本	布萊克本	Bùláikèběn	Bou-lòih-hāk-bún	
+blackcurrant	黑醋栗	黑醋栗	hēi cùlì	hāk chou-leuht	
 blacken (a compromised website, burnt slice of toast, etc)	黑掉	黑掉	hēidiào	hāk-diuh	
 black eyeliner	黑眼线	黑眼線	hēiyǎnxiàn	hāk-ngáahn-sin	
 black fire beetle	烟甲虫	煙甲蟲	yānjiǎchóng	yīn-gaap-chùhng	
@@ -2497,6 +2500,7 @@ Bowman	鲍曼	鮑曼	Bàomàn	Bāau-maahn
 Bowring	鲍林	鮑林	Bàolín	Bāau-làhm	
 box cover; chest lid	箱盖	箱蓋	xiānggài(r)	sēung-goi	
 boxfish	盒子鱼	盒子魚	hézi yú	hahp-jí yùh	
+<comp.> box model (in CSS)	盒子模型	盒子模型	hézi móxíng	hahp-jí mòuh-yìhng	
 Boyce	博伊斯	博伊斯	Bóyīsī	Bok-yī-sī	
 Boyd	博伊德	博伊德	Bóyīdé	Bok-yī-dāk	
 Boye (county, in Hebei)	博野县	博野縣	Bóyě Xiàn	Bok-yéh Yún	
@@ -3726,6 +3730,7 @@ Cixi (in Zhejiang)	慈溪	慈溪	Cíxī	Chìh-kāi
 Cixi (in Zhejiang)	慈溪市	慈溪市	Cíxī Shì	Chìh-kāi Síh	
 Claire	克莱儿	克萊兒	Kèlái'ér	Hāk-lòih-yìh	
 Claire	克莱尔	克萊爾	Kèlái'ěr	Hāk-lòih-yíh	
+clamshell box	翻盖盒	翻蓋盒	fāngàihé	fāan-goi-hahp	
 clan of one's father	父族	父族	fùzú	fuh-juhk	
 Clara	克拉拉	克拉拉	Kèlālā	Hāk-lāai-lāai	
 Clarence	克拉伦斯	克拉倫斯	Kèlālúnsī	Hāk-lāai-lèuhn-sī	
@@ -6394,6 +6399,7 @@ Festival of Trumpet Blast	吹号日	吹號日	chuīhào rì	chēui-houh yaht
 festival of weeks	七七节	七七節	Qīqījié	Chāt-chāt-jit	
 Festus	非斯都	非斯都	Fēisīdū	Fēi-sī-dōu	
 fetch and take away	取走	取走	qǔzǒu	chéui-jáu	
+<comp.> fetch (of CPU instruction)	读取	讀取	dúqǔ	duhk-chéui	
 Feteşti	费泰什蒂	費泰什蒂	Fèitàishídì	Fai-taai-sahm-dai	
 Feuerstein	福伊尔斯坦	福伊爾斯坦	Fúyī'ěrsītǎn	Fūk-yī-yíh-sī-táan	
 few and without (military) power	势孤力弱	勢孤力弱	shìgū-lìruò	sai-gū-lihk-yeuhk	
@@ -6432,6 +6438,7 @@ filled with marrow	满髓	滿髓	mǎnsuǐ	múhn-séuih
 fill full (a water bottle etc)	打满	打滿	dǎmǎn	dá-múhn	
 fill in (a form)	填好	填好	tiánhǎo	tìhn-hóu	
 fill in and hand in (a form)	填交	填交	tiánjiāo	tìhn-gāau	
+filling (in cookery)	馅料	餡料	xiànliào	háahm-líu	
 fill one's bosom	抱满怀	抱滿懷	bàomǎn huái	póuh-múhn wàaih	
 fill (whole earth or land)	遍满	遍滿	biànmǎn	pin-múhn	
 film director	电影导演	電影導演	diànyǐng dǎoyǎn	dihn-yíng douh-yín	
@@ -6652,6 +6659,7 @@ for example (at beginning of sentence)	举个例子	舉個例子	jǔ ge lìzi	g�
 forfeit one's life (?)	命丧	命喪	mìngsàng	mihng-song	
 for good or for bad	或好或坏	或好或壞	huòhǎo-huòhuài	waahk-hóu-waahk-waaih	
 forgotten far from the foot; footprints rarely seen (at a place)	足迹罕至	足跡罕至	zújì-hǎnzhì	jūk-jīk-hón-ji	
+<comp.> fork (of software)	复刻	復刻	fùkè	fuhk-hāk	
 formal dinner	正式宴会	正式宴會	zhèngshì yànhuì	jing-sīk yin-wuih	
 formal schooling	正规教育	正規教育	zhèngguī jiàoyù	jing-kwāi gaau-yuhk	
 formal training	正式训练	正式訓練	zhèngshì xùnliàn	jing-sīk fan-lihn	
@@ -9272,6 +9280,7 @@ installation ceremony (of a priest in ancient Israel)	就职礼	就職禮	jiùzh
 install electronic surveillance (systems)	安装电子监控系统	安裝電子監控系統	ānzhuāng diànzǐ jiānkòng xìtǒng	ngōn-jōng dihn-jí gāam-hung haih-túng	
 instant messages; instant messaging	即时信息	即時信息	jíshí xìnxī	jīk-sìh seun-sīk	
 institutions of higher education	高等学府	高等學府	gāoděng xuéfǔ	gōu-dáng hohk-fú	
+<comp.> instruction cycle	指令周期	指令周期	zhǐlìng zhōuqī	jí-lihng jāu-kèih	
 instrumentation science and technology	仪器科学与技术	儀器科學與技術	yíqì kēxué yǔ jìshù	yìh-hei fō-hohk yúh geih-seuht	
 insulated support brackets (for heating pipes)	隔热支架	隔熱支架	gérè zhījià	gaak-yiht jī-gá	
 Inta	因塔	因塔	Yīntǎ	Yān-taap	
@@ -15673,6 +15682,7 @@ provoke (an oppressive regime etc)	惹怒	惹怒	rěnù	yéh-nouh
 provoked	被激怒	被激怒	bèi jīnù	beih gīk-nouh	
 Proxima Centauri	半人马座比邻星	半人馬座比鄰星	Bànrénmǎzuò bǐlínxīng	Bun-yàhn-máh-joh béi-lèuhn-sīng	
 Proxima Centauri	比邻星	比鄰星	bǐlínxīng	béi-lèuhn-sīng	
+proxy server	代理服务器	代理服務器	dàilǐ fúwùqì	doih-léih fuhk-mouh-hei	
 prunes	梅脯	梅脯	méifǔ	mùih-póu	
 prunes	西梅干	西梅乾	xīméigān	sāi-mùih-gōn	
 Prussia	普鲁士	普魯士	Pǔlǔshì	Póu-lóuh-sih	
@@ -15738,6 +15748,7 @@ Pullman (1831-97 built luxury train carriages in America)	普尔曼	普爾曼	P�
 pull off (one's body etc)	扯下	扯下	chěxia	ché-hah	
 pull out (e.g. pulling a timber out of a house; lit. take-apart out)	拆出	拆出	chāichū	chaak-chēut	
 pull out with tongs etc (e.g. in surgery)	钳出	鉗出	qiánchū	kìhm-chēut	
+<comp.> pull request	拉取请求	拉取請求	lāqǔ qǐngqiú	lāai-chéui chíng-kàuh	
 pull short (of pulling a rope apart)	拉断	拉斷	lāduàn	lāai-tyúhn	
 pump concrete; pour concrete	灌混凝土	灌混凝土	guàn hùnníngtǔ	gun wahn-yìhng-tóu	
 Puning (in Guangdong)	普宁	普寧	Pǔníng	Póu-nìhng	
@@ -16077,6 +16088,8 @@ Rashi	拉希	拉希	Lāxī	Lāai-hēi
 Rasmus	拉斯穆斯	拉斯穆斯	Lāsīmùsī	Lāai-sī-muhk-sī	
 Rasmussen	拉斯穆森	拉斯穆森	Lāsīmùsēn	Lāai-sī-muhk-sām	
 Rasmussen	拉斯马森	拉斯馬森	Lāsīmǎsēn	Lāai-sī-máh-sām	
+raspberry	山莓	山莓	shānméi	sāan-mùih	
+<comp.> Raspberry Pi	树莓派	樹莓派	Shùméi Pài	Syuh-mùih Paai	
 Ras Shamra	沙姆拉角	沙姆拉角	Shāmǔlājiǎo	Sā-móuh-lāai-gok	
 Ratana	拉塔娜	拉塔娜	Lātǎnà	Lāai-taap-nàh	
 rate of skin cancer (in a population)	皮肤癌的发病率	皮膚癌的發病率	pífū'ái de fābìnglǜ	pèih-fū-ngàahm dīk faat-behng-leuht	
@@ -16173,6 +16186,7 @@ recruiting officer	征兵官	徵兵官	zhēngbīngguān	jīng-bīng-gūn
 rectory	教区长住所	教區長住所	jiàoqūzhǎng zhùsuǒ	gaau-kēui-jéung jyuh-só	
 recycling	循环再用	循環再用	xúnhuán zài yòng	chèuhn-wàahn joi yuhng	
 red cow	红母牛	紅母牛	hóngmǔniú	hùhng-móuh-ngàuh	
+red currant	红醋栗	紅醋栗	hóng cùlì	hùhng chou-leuht	
 reddening trees (in autumn)	层林尽染	層林盡染	cénglínjìnrǎn	chàhng-làhm-jeuhn-yíhm	
 reddish-black colour	天青色	天青色	tiānqīngsè	tīn-chīng-sīk	
 reddish purple cloth	紫红布	紫紅布	zǐhóngbù	jí-hùhng-bou	
