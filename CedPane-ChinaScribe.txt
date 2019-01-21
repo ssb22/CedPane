@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-01-20
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-01-21
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -1559,6 +1559,7 @@
 寶珊 宝珊 [Bao3 shan1] /Baoshan (in place names)/
 保山市 保山市 [Bao3 shan1_Shi4] /Baoshan (in Yunnan)/
 保時捷 保时捷 [Bao3 shi2 jie2] /Porsche/
+保妥適 保妥适 [Bao3 tuo3 shi4] /Botox (commercial mix of botulinum toxins)/
 寶興縣 宝兴县 [Bao3 xing4_Xian4] /Baoxing (county, in Sichuan)/
 寶應縣 宝应县 [Bao3 ying1_Xian4] /Baoying (county, in Jiangsu)/
 鮑恩 鲍恩 [Bao4 en1] /Bowen/
@@ -13227,6 +13228,7 @@
 西法瓦音人 西法瓦音人 [Xi1 fa3 wa3 yin1 ren2] /Sepharvites/
 西番雅 西番雅 [Xi1 fan1 ya3] /Zephaniah (prophet)/
 西番雅書 西番雅书 [Xi1 fan1 ya3 shu1] /Zephaniah (Bible book)/
+西方社會 西方社会 [Xi1 fang1_she4 hui4] /the Western world/Western world, the/
 息烽縣 息烽县 [Xi1 feng1_Xian4] /Xifeng (county, in Guizhou)/
 西丰縣 西丰县 [Xi1 feng1_Xian4] /Xifeng (county, in Liaoning)/
 希弗 希弗 [Xi1 fu2] /Hepher/
@@ -16653,6 +16655,7 @@
 淡水鱸魚 淡水鲈鱼 [dan4 shui3_lu2 yu2] /perch (type of freshwater fish)/
 當中國統治世界 当中国统治世界 [dang1_Zhong1 guo2_tong3 zhi4_shi4 jie4] /when China rules the world (book)/China rules the world, when (book)/
 當導游 当导游 [dang1_dao3 you2] /work as a tour guide/tour guide, work as a/
+當代中國 当代中国 [dang1 dai4_Zhong1 guo2] /modern China/contemporary China/China, modern/
 當代宗教 当代宗教 [dang1 dai4_zong1 jiao4] /contemporary religion/religion, contemporary/
 噹噹噹噹 当当当当 [dang1 dang1 dang1 dang1] /drumroll/
 當地華人社團 当地华人社团 [dang1 di4_Hua2 ren2_she4 tuan2] /Chinese organizations (of local Chinese people)/organizations, Chinese (of local Chinese people)/
@@ -17891,6 +17894,7 @@
 穢坑 秽坑 [hui4 keng1] /(dirty) pit/
 惠然 惠然 [hui4 ran2] /kindly/
 絵文字 絵文字 [hui4 wen2 zi4] /emoji (Japanese version)/
+會員制 会员制 [hui4 yuan2 zhi4] /affiliate programme/corporate membership system/programme, affiliate/membership system, corporate/
 會長杯 会长杯 [hui4 zhang3 bei1] /President's Cup (award)/
 昏暗不明 昏暗不明 [hun1 an4 bu4 ming2] /obscurity (with darkness etc)/
 婚卡 婚卡 [hun1 ka3] /wedding (invitation) card/card, wedding/
@@ -19741,6 +19745,7 @@
 柔波 柔波 [rou2 bo1] /gentle waves/waves, gentle/
 揉好 揉好 [rou2 hao3] /well-kneaded/
 揉面盆 揉面盆 [rou2 mian4 pen2] /kneading trough/trough, kneading/
+肉毒桿菌毒素 肉毒杆菌毒素 [rou4_du2_gan3 jun1_du2 su4] /botulinum toxin/toxin, botulinum/
 肉钩 肉钩 [rou4 gou1] /butcher hooks/hooks, butcher/
 肉鍋 肉锅 [rou4 guo1] /pots of meat/meat, pots of/
 肉紅玉髓 肉红玉髓 [rou4 hong2_yu4 sui3] /sardius/
@@ -20401,6 +20406,9 @@
 所差 所差 [suo3_chai1] /sent-forth/
 所給的 所给的 [suo3_gei3_de5] /given/
 所說是 所说是 [suo3_shuo1_shi4] /that (you) say is/
+鎖定屏幕 锁定屏幕 [suo3 ding4_ping2 mu4] /lockscreen/
+鎖屏 锁屏 [suo3 ping2] /lockscreen/
+鎖屏界面 锁屏界面 [suo3 ping2_jie4 mian4] /lockscreen interface (for phone app)/interface, lockscreen (for phone app)/
 鎖上門 锁上门 [suo3 shang5_men2] /lock the door/door, lock the/
 所剩無幾 所剩无几 [suo3 sheng4 wu2 ji3] /be few in remaining/remaining, be few in/
 所言所行 所言所行 [suo3 yan2 suo3 xing2] /tongue and dealings/words and actions/dealings, tongue and/actions, words and/
@@ -22264,6 +22272,7 @@
 主流教會 主流教会 [zhu3 liu2_jiao4 hui4] /established church (lit. mainstream church)/church, established (lit. mainstream church)/
 主流宗教 主流宗教 [zhu3 liu2_zong1 jiao4] /major faiths/mainstream religions/faiths, major/religions, mainstream/
 主人們 主人们 [zhu3 ren2 men5] /owners/masters/
+主題曲 主题曲 [zhu3 ti2_qu3] /theme music (of film etc)/music, theme (of film etc)/
 主要任務 主要任务 [zhu3 yao4_ren4 wu5] /main work (assignment)/work, main (assignment)/
 主要通道 主要通道 [zhu3 yao4_tong1 dao4] /main entryway/entryway, main/
 主要因素 主要因素 [zhu3 yao4_yin1 su4] /primary factor/factor, primary/
