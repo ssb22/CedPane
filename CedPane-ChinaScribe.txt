@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-01-29
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-02-06
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -6189,6 +6189,7 @@
 建寧縣 建宁县 [Jian4 ning2_Xian4] /Jianning (county, in Fujian)/
 建平縣 建平县 [Jian4 ping2_Xian4] /Jianping (county, in Liaoning)/
 劍橋大學圖書館 剑桥大学图书馆 [Jian4 qiao2_Da4 xue2_Tu2 shu1 guan3] /Cambridge University Library/University Library, Cambridge/
+劍橋市 剑桥市 [Jian4 qiao2_Shi4] /City of Cambridge/Cambridge, City of/
 劍橋語言百科全書 剑桥语言百科全书 [Jian4 qiao2_Yu3 yan2_Bai3 ke1 quan2 shu1] /The Cambridge Encyclopedia of Language/Cambridge Encyclopedia of Language, The/
 劍橋郡 剑桥郡 [Jian4 qiao2 jun4] /Cambridgeshire/
 建始縣 建始县 [Jian4 shi3_Xian4] /Jianshi (county, in Hubei)/
@@ -7346,6 +7347,7 @@
 奎屯市 奎屯市 [Kui2 tun2_Shi4] /Kuytun (in Xinjiang)/
 奎文區 奎文区 [Kui2 wen2_Qu1] /Kuiwen District/District, Kuiwen/
 奎因 奎因 [Kui2 yin1] /Quinn/
+崑曲 崑曲 [Kun1_Qu3] /Melody of Kunshan/Kunshan, Melody of/
 昆都侖區 昆都仑区 [Kun1 du1 lun2_Qu1] /Hondlon District/District, Hondlon/
 昆杜 昆杜 [Kun1 du4] /Koundou/
 昆卡 昆卡 [Kun1 ka3] /Cuenca/
@@ -8265,7 +8267,6 @@
 靈武 灵武 [Ling2 wu3] /Lingwu (in Ningxia)/
 靈武市 灵武市 [Ling2 wu3_Shi4] /Lingwu (in Ningxia)/
 苓雅區 苓雅区 [Ling2 ya3_Qu1] /Lingya District (in Kaohsiung)/District, Lingya (in Kaohsiung)/
-靈應盤 灵应盘 [Ling2 ying4 pan2] /Ouija board/board, Ouija/
 凌源 凌源 [Ling2 yuan2] /Lingyuan (in Liaoning)/
 凌源市 凌源市 [Ling2 yuan2_Shi4] /Lingyuan (in Liaoning)/
 凌云縣 凌云县 [Ling2 yun2_Xian4] /Lingyun County/County, Lingyun/
@@ -14571,6 +14572,7 @@
 小亞細亞 小亚细亚 [Xiao3_Ya4 xi4 ya4] /Asia Minor/Minor, Asia/
 小普林尼 小普林尼 [Xiao3 Pu3 lin2 ni2] /Pliny the Younger/Younger, Pliny the/
 小比格霍恩 小比格霍恩 [Xiao3 bi3 ge2 huo4 en1] /Little Bighorn/Bighorn, Little/
+小冰 小冰 [Xiao3 bing1] /Xiaoice (Microsoft chatbot)/
 小店區 小店区 [Xiao3 dian4_Qu1] /Xiaodian District/District, Xiaodian/
 小港區 小港区 [Xiao3 gang3_Qu1] /Xiaogang District/Siaogang District (in Kaohsiung)/District, Xiaogang (in Kaohsiung)/
 小紅帽 小红帽 [Xiao3 hong2 mao4] /Red Riding Hood (story)/Riding Hood, Red (story)/
@@ -16941,6 +16943,7 @@
 幫幫 帮帮 [bang1 bang5] /help (in an entreaty?)/
 幫幫忙 帮帮忙 [bang1 bang5 mang2] /help (desperate?)/
 幫不了 帮不了 [bang1 bu4 liao5] /unable to help/help, unable to/
+梆笛 梆笛 [bang1 di2] /bangdi (high-pitched dizi)/
 幫派分子 帮派分子 [bang1 pai4_fen1 zi3] /gang member/member, gang/
 邦茹 邦茹 [bang1 ru2] /bonjour (French greeting)/
 幫助別人 帮助别人 [bang1 zhu4_bie2 ren5] /helping others/helping the community/others, helping/community, helping the/
@@ -17998,6 +18001,7 @@
 第一個人 第一个人 [di4_yi1_ge5_ren2] /the first man/first man, the/
 第一篇文章 第一篇文章 [di4_yi1_pian1_wen2 zhang1] /the first article/first article, the/
 第八調 第八调 [di4 ba1_diao4] /Sheminith (lit. 8th tone)/
+第二代華人 第二代华人 [di4 er4_dai4_Hua2 ren2] /second-generation Chinese (children of emigrants)/Chinese, second-generation (children of emigrants)/
 第二個家 第二个家 [di4 er4_ge5_jia1] /home away from home (corporate office, lit. second home)/away from home, home (corporate office, lit. second home)/
 第三大 第三大 [di4 san1_da4] /third largest/largest, third/
 地底 地底 [di4 di3] /earth's bottom/bottom, earth's/
@@ -18281,6 +18285,7 @@
 耳麥 耳麦 [er3 mai4] /ear microphone/microphone, ear/
 耳石 耳石 [er3 shi2] /otolith (lit. ear stone; senses gravity|acceleration)/
 餌誘 饵诱 [er3 you4] /to bait/to lay bait for (lit. bait to-lure)/bait, to (lit. bait to-lure)/
+二代華人 二代华人 [er4_dai4_Hua2 ren2] /second-generation Chinese (children of emigrants)/Chinese, second-generation (children of emigrants)/
 二語習得 二语习得 [er4_yu3_xi2 de2] /second language acquisition/language acquisition, second/
 二次創作 二次创作 [er4 ci4_chuang4 zuo4] /derivative work (of film|drama|etc)/work, derivative (of film|drama|etc)/
 二進制運算符 二进制运算符 [er4 jin4 zhi4_yun4 suan4 fu2] /binary operator (and|or|not|etc)/operator, binary (and|or|not|etc)/
@@ -20011,6 +20016,7 @@
 連接器 连接器 [lian2 jie1 qi4] /connector/
 憐憫 怜悯 [lian2 min3] /pity/
 連人帶城 连人带城 [lian2 ren2 dai4 cheng2] /both people and cities/people and cities, both/
+連體雙胞胎 连体双胞胎 [lian2 ti3_shuang1 bao1 tai1] /conjoined twins/Saimese twins/twins, conjoined/
 聯同 联同 [lian2 tong2] /unite with (in military etc?)/
 連繫 连系 [lian2 xi4] /link (variant?)/
 聯系到 联系到 [lian2 xi4_dao4] /reach/contact (a person)/
@@ -20084,6 +20090,7 @@
 零碎資料 零碎资料 [ling2 sui4_zi1 liao4] /bits and pieces (of information)/pieces, bits and (of information)/
 靈體 灵体 [ling2 ti3] /spirit person/person, spirit/
 靈液 灵液 [ling2 ye4] /ichor/
+靈應盤 灵应盘 [ling2 ying4 pan2] /Ouija board/board, Ouija/
 領出 领出 [ling3 chu1] /bring forth (lit. lead out)/forth, bring (lit. lead out)/
 領導階層 领导阶层 [ling3 dao3_jie1 ceng2] /top ranks/those with positions of responsibility/ranks, top/positions of responsibility, those with/
 領軍 领军 [ling3 jun1] /lead an army/army, lead an/
@@ -20757,6 +20764,7 @@
 騎山地自行車 骑山地自行车 [qi2_shan1 di4_zi4 xing2 che1] /mountain biking/biking, mountain/
 騎兵隊 骑兵队 [qi2 bing1 dui4] /troops of cavalry/armies of cavalry/cavalry, troops of/
 骑兵长 騎兵長 [qi2 bing1 zhang3] /cavalry chief/chief, cavalry/
+奇幻故事 奇幻故事 [qi2 huan4_gu4 shi5] /fantasy tale/tale, fantasy/
 騎馬尋馬 骑马寻马 [qi2 ma3 xun2 ma3] /stopgap/hold one job etc while looking for a better/
 騎牛搵馬 骑牛揾马 [qi2 niu2 wen4 ma3] /stopgap/hold one job etc while looking for a better/
 騎上 骑上 [qi2 shang5] /ride on (an animal)/
@@ -20802,6 +20810,7 @@
 钱囊 錢囊 [qian2 nang2] /purse/moneybag (ancient?)/
 潛水采珍珠 潜水采珍珠 [qian2 shui3_cai3_zhen1 zhu1] /pearl diving/diving, pearl/
 前行 前行 [qian2 xing2] /go forward/forward, go/
+潛在危險 潜在危险 [qian2 zai4_wei1 xian3] /potential danger/danger, potential/
 前座 前座 [qian2 zuo4] /front seat (in synagogue)/seat, front (in synagogue)/
 遣走 遣走 [qian3 zou3] /send out (of the room etc)/
 欠債人 欠债人 [qian4 zhai4 ren2] /debtor/
@@ -20884,6 +20893,7 @@
 趨之若鶩 趋之若鹜 [qu1 zhi1 ruo4 wu4] /gaggle after something (popular)/after something, gaggle (popular)/
 驅走 驱走 [qu1 zou3] /drive out/
 取餐 取餐 [qu3 can1] /order collection (in fast-food restaurant)/collection, order (in fast-food restaurant)/
+曲笛 曲笛 [qu3 di2] /qudi (dizi variant)/
 齲洞 龋洞 [qu3 dong4] /cavity (in a tooth)/
 取名叫 取名叫 [qu3 ming2_jiao4] /naming (a child) as/
 取消預訂 取消预订 [qu3 xiao1_yu4 ding4] /cancel an order/order, cancel an/
@@ -21135,6 +21145,7 @@
 傷心欲絕 伤心欲绝 [shang1 xin1 yu4 jue2] /greatest grief/grief, greatest/
 商業管理學院 商业管理学院 [shang1 ye4_guan3 li3_xue2 yuan4] /business schools/schools, business/
 商業活動 商业活动 [shang1 ye4_huo2 dong4] /business activities/activities, business/
+商業機密 商业机密 [shang1 ye4_ji1 mi4] /trade secrets/secrets, trade/
 商業投資 商业投资 [shang1 ye4_tou2 zi1] /business venture (lit. business investment, monetary)/venture, business (lit. business investment, monetary)/
 商業制度 商业制度 [shang1 ye4_zhi4 du4] /commercial system/system, commercial/
 傷重垂危 伤重垂危 [shang1 zhong4 chui2 wei1] /mortally wounded/deadly wounded/wounded, mortally/
@@ -21884,6 +21895,7 @@
 通過決議 通过决议 [tong1 guo4_jue2 yi4] /by resolution (of a society's members etc)/resolution, by (of a society's members etc)/
 通姦 通奸 [tong1 jian1] /adultery/
 通姦罪 通奸罪 [tong1 jian1 zui4] /adultery/
+通靈板 通灵板 [tong1 ling2 ban3] /Ouija board/board, Ouija/
 通靈術 通灵术 [tong1 ling2 shu4] /spiritistic practice/spiritism/practice, spiritistic/
 通配符 通配符 [tong1 pei4 fu2] /wildcard character/character, wildcard/
 通勝 通胜 [tong1 sheng4] /Tung Shing (Chinese divination guide)/Shing, Tung (Chinese divination guide)/
@@ -22593,6 +22605,7 @@
 興奮莫名 兴奋莫名 [xing1 fen4_mo4 ming2] /excitement without name/be excited beyond one's ability to express/have great ecstasy/without name, excitement/excited beyond one's ability to express, be/great ecstasy, have/
 星級 星级 [xing1 ji2] /star rating/rating, star/
 星神 星神 [xing1 shen2] /star of a god/
+星座運勢 星座运势 [xing1 zuo4 yun4 shi4] /horoscope/
 型超新星 型超新星 [xing2_chao1 xin1 xing1] /type supernova/supernova, type/
 行惡 行恶 [xing2 e4] /do evil/evil, do/
 行車線 行车线 [xing2 che1_xian4] /traffic lanes/lanes, traffic/
@@ -23155,6 +23168,7 @@
 預言書 预言书 [yu4 yan2 shu1] /prophetic book or scroll/book or scroll, prophetic/
 獄長 狱长 [yu4 zhang3] /Commandant of a prison/prison, Commandant of a/
 預知能力 预知能力 [yu4 zhi1_neng2 li4] /foreknowledge/
+預知未來 预知未来 [yu4 zhi1_wei4 lai2] /predict the future/future, predict the/
 玉子焼 玉子焼 [yu4 zi3 shao1] /tamagoyaki (Japanese omelette)/
 冤聲 冤声 [yuan1 sheng1] /outcry (lit. injustice sound)/
 原核細胞 原核细胞 [yuan2_he2_xi4 bao1] /prokaryotic cells/cells, prokaryotic/
