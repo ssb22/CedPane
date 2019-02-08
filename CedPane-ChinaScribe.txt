@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-02-07
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-02-08
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -3751,6 +3751,7 @@
 菲利沛 菲利沛 [Fei1 li4 pei4] /Filipe/
 菲利普 菲利普 [Fei1 li4 pu3] /Philip (modern)/
 菲利浦 菲利浦 [Fei1 li4 pu3] /Philip/
+飛利浦 飞利浦 [Fei1 li4 pu3] /Philips/
 菲利普斯 菲利普斯 [Fei1 li4 pu3 si1] /Phillips/Philips/
 非利士 非利士 [Fei1 li4 shi4] /Philistia/
 非利士地 非利士地 [Fei1 li4 shi4 di4] /Philistia/
@@ -4223,6 +4224,7 @@
 岡維爾 冈维尔 [Gang1 wei2 er3] /Gonville/
 綱走 纲走 [Gang1 zou3] /Abashiri (place in Hokkaido)/
 港女 港女 [Gang3_nu:3] /Hong Kong girl (usu. derogatory)/Kong girl, Hong (usu. derogatory)/
+港珠澳大橋 港珠澳大桥 [Gang3 Zhu1 Ao4_Da4 qiao2] /HKZM bridge/Hong Kong-Zhuhai-Macao bridge/bridge, HKZM/Kong-Zhuhai-Macao bridge, Hong/
 崗巴縣 岗巴县 [Gang3 ba1_Xian4] /Gangba County/County, Gangba/
 港北區 港北区 [Gang3 bei3_Qu1] /Gangbei District/District, Gangbei/
 港口區 港口区 [Gang3 kou3_Qu1] /Gangkou District/District, Gangkou/
@@ -5425,6 +5427,7 @@
 虎林市 虎林市 [Hu3 lin2_Shi4] /Hulin (in Heilongjiang)/
 虎丘區 虎丘区 [Hu3 qiu1_Qu1] /Huqiu District/District, Huqiu/
 戶珥 户珥 [Hu4 er3] /Hur/
+互動百科 互动百科 [Hu4 dong4_Bai3 ke1] /Hudong Encyclopaedia (commercial wiki)/Encyclopaedia, Hudong (commercial wiki)/
 戶范 户范 [Hu4 fan4] /Hupham/
 戶割 户割 [Hu4 ge1] /Hukok/
 戶籍紀 户籍纪 [Hu4 ji2 ji4] /Numbers (Catholic version)/
@@ -9818,6 +9821,7 @@
 摩門經 摩门经 [Mo2 men2 jing1] /Book of Mormon/Mormon, Book of/
 摩門書 摩门书 [Mo2 men2 shu1] /Mormon (book in Book of Mormon)/
 摩尼教文 摩尼教文 [Mo2 ni2 jiao4 wen2] /Manichaean (written language)/
+模擬城市 模拟城市 [Mo2 ni3_Cheng2 shi4] /SimCity (game)/
 模擬聯合國 模拟联合国 [Mo2 ni3_Lian2 he2 guo2] /Model United Nations (for schools)/United Nations, Model (for schools)/
 摩撒 摩撒 [Mo2 sa1] /Moza/
 摩薩 摩萨 [Mo2 sa4] /Mozah/
@@ -9850,6 +9854,7 @@
 莫城 莫城 [Mo4 cheng2] /Meaux (in France)/
 莫茨庫特 莫茨库特 [Mo4 ci2 ku4 te4] /Mockutė/
 末大拉 末大拉 [Mo4 da4 la1] /Magdala/
+末代皇帝 末代皇帝 [Mo4 dai4_Huang2 di4] /the last emperor (of China)/last emperor, the (of China)/
 莫德 莫德 [Mo4 de2] /Maud/
 莫德洛監獄 莫德洛监狱 [Mo4 de2 luo4 jian1 yu4] /Cárcel Modelo/Modelo Prison/Modelo, Cárcel/Prison, Modelo/
 莫迪凱 莫迪凯 [Mo4 di2 kai3] /Mordechai/
@@ -11182,6 +11187,8 @@
 沁陽 沁阳 [Qin4 yang2] /Qinyang (in Henan)/
 沁陽市 沁阳市 [Qin4 yang2_Shi4] /Qinyang (in Henan)/
 沁源縣 沁源县 [Qin4 yuan2_Xian4] /Qinyuan (county, in Shanxi)/
+清帝 清帝 [Qing1_Di4] /Qing Emperor/Emperor, Qing/
+清末帝 清末帝 [Qing1_Mo4_Di4] /the last emperor of the Qing dynasty/last emperor of the Qing dynasty, the/
 青縣 青县 [Qing1_Xian4] /Qing County/County, Qing/
 青奧會 青奥会 [Qing1 ao4 hui4] /Youth Olympic Games (abbreviated version)/Olympic Games, Youth (abbreviated version)/
 青白江區 青白江区 [Qing1 bai2 jiang1_Qu1] /Qingbaijiang District/District, Qingbaijiang/
@@ -11324,6 +11331,7 @@
 任丘 任丘 [Ren4 qiu1] /Renqiu (in Hebei)/
 任丘市 任丘市 [Ren4 qiu1_Shi4] /Renqiu (in Hebei)/
 日韓 日韩 [Ri4 Han2] /Japan-Korea (used of international relations etc)/
+日中戦爭 日中戦争 [Ri4 Zhong1_Zhan4 zheng1] /Japan-China War (Japanese term for WW2)/
 日本皇軍 日本皇军 [Ri4 ben3_Huang2 jun1] /Imperial Japanese Army/Japanese Army, Imperial/
 日本黑社會 日本黑社会 [Ri4 ben3_hei1 she4 hui4] /yakuza/Japanese Mafia/
 日本腦炎 日本脑炎 [Ri4 ben3_nao3 yan2] /Japanese encephalitis/encephalitis, Japanese/
@@ -12837,6 +12845,7 @@
 塔伊納 塔伊纳 [Ta3 yi1 na4] /Taina/
 踏莎行 踏莎行 [Ta4_Suo1_Xing2] /Stepping on sedge (poem)/sedge, Stepping on (poem)/
 台州市 台州市 [Tai1 zhou1_Shi4] /Taizhou (in Zhejiang)/
+臺科大 台科大 [Tai2_Ke1_Da4] /Taiwan University of Science and Technology/Taiwan Tech (in Taipei)/University of Science and Technology, Taiwan (in Taipei)/Tech, Taiwan (in Taipei)/
 台譯 台译 [Tai2_yi4] /Taiwanese translation/translation, Taiwanese/
 台安縣 台安县 [Tai2 an1_Xian4] /Tai'an County/County, Tai'an/
 台兒莊區 台儿庄区 [Tai2 er2 zhuang1_Qu1] /Tai'erzhuang District/District, Tai'erzhuang/
@@ -14431,6 +14440,7 @@
 西秀區 西秀区 [Xi1 xiu4_Qu1] /Xixiu District/District, Xixiu/
 西徐亞 西徐亚 [Xi1 xu2 ya4] /Scythia/
 西徐亞人 西徐亚人 [Xi1 xu2 ya4 ren2] /Scythians (people)/
+西學中源 西学中源 [Xi1 xue2_Zhong1_yuan2] /Western knowledge has Chinese origins (Ming|Qing-era belief)/knowledge has Chinese origins, Western (Ming|Qing-era belief)/
 西雅 西雅 [Xi1 ya3] /Siaha/Sia/
 昔陽縣 昔阳县 [Xi1 yang2_Xian4] /Xiyang (county, in Shanxi)/
 錫耶納 锡耶纳 [Xi1 ye1 na4] /Siena (Italy)/
@@ -16176,6 +16186,7 @@
 游仙區 游仙区 [You2 xian1_Qu1] /Youxian District/District, Youxian/
 游行大道 游行大道 [You2 xing2_Da4 dao4] /Processional Way/
 尤因氏肉瘤 尤因氏肉瘤 [You2 yin1 shi4_rou4 liu2] /Ewing's sarcoma/sarcoma, Ewing's/
+郵政式拼音 邮政式拼音 [You2 zheng4 shi4_Pin1 yin1] /postal romanisation (1900s-1980s)/romanisation, postal (1900s-1980s)/
 游子吟 游子吟 [You2 zi3_Yin2] /Wandering-son's Song (poem by 孟郊)/Song, Wandering-son's (poem by 孟郊)/
 友布羅 友布罗 [You3 bu4 luo2] /Eubulus/
 友好區 友好区 [You3 hao3_Qu1] /Youhao District/District, Youhao/
@@ -16899,6 +16910,7 @@
 昂然無懼 昂然无惧 [ang2 ran2 wu2 ju4] /with uplifted hand/unafraid/uplifted hand, with/
 昂薩塔 昂萨塔 [ang2 sa4 ta3] /ansata/
 凹斑 凹斑 [ao1 ban1] /depression (in house wall)/
+八年抗戰 八年抗战 [ba1_nian2_kang4 zhan4] /eight-year war of resistance (1937-1945, term used by textbooks before 2017)/resistance, eight-year war of (1937-1945, term used by textbooks before 2017)/
 巴卡樹 巴卡树 [ba1 ka3_shu4] /baca (plant)/
 巴適 巴适 [ba1 shi4] /fits (lit. clings appropriately)/
 巴先 巴先 [ba1 xian1] /percent (loan word)/
@@ -18080,6 +18092,7 @@
 殿頂 殿顶 [dian4 ding3] /temple top or roof/roof, temple top or/
 電動工具 电动工具 [dian4 dong4_gong1 ju4] /power tools/tools, power/
 電動切磚機 电动切砖机 [dian4 dong4_qie1 zhuan1 ji1] /electric masonry saw/masonry saw, electric/
+電鬍刀 电胡刀 [dian4 hu2 dao1] /electric shaver/shaver, electric/
 電話連線 电话连线 [dian4 hua4_lian2 xian4] /telephone hookup (to a meeting etc)/hookup, telephone (to a meeting etc)/
 電話收費 电话收费 [dian4 hua4_shou1 fei4] /phone tariffs/tariffs, phone/
 電話推銷員 电话推销员 [dian4 hua4_tui1 xiao1 yuan2] /telemarketing operator/operator, telemarketing/
@@ -19065,6 +19078,7 @@
 紅葡萄樹 红葡萄树 [hong2 pu2 tao5 shu4] /red vine/vine, red/
 紅糖水 红糖水 [hong2 tang2 shui3] /brown sugar syrup/sugar syrup, brown/
 紅細胞生成素 红细胞生成素 [hong2 xi4 bao1_sheng1 cheng2 su4] /erythropoietin/EPO (hormone that stimulates red blood cell production)/
+喉嚨痛 喉咙痛 [hou2 long2 tong4] /sore throat/throat, sore/
 后倚音 后倚音 [hou4_yi3 yin1] /after-beat grace note (in Chinese music)/grace note, after-beat (in Chinese music)/
 後殖民 后殖民 [hou4_zhi2 min2] /postcolonial/
 厚德載物 厚德载物 [hou4 de2 zai4 wu4] /bear things with kindness (?)/things with kindness, bear (?)/
@@ -21127,6 +21141,8 @@
 灑禮 洒礼 [sa3 li3] /sprinkling ceremony/ceremony, sprinkling/
 撒下 撒下 [sa3 xia5] /sprinkle (on the ground)/
 撒種的人 撒种的人 [sa3 zhong3_de5_ren2] /sower/
+薩米亞特 萨米亚特 [sa4 mi3 ya4 te4] /samizdat/
+薩密茲達 萨密兹达 [sa4 mi4 zi1 da2] /samizdat/
 薩它爾 萨它尔 [sa4 ta1 er3] /sataer (Uyghur lute)/
 塞進 塞进 [sai1 jin4] /stuff|block-up into (the midst of)/
 賽博格 赛博格 [sai4 bo2 ge2] /cyborg/
@@ -21435,6 +21451,7 @@
 食人者 食人者 [shi2 ren2 zhe3] /cannibal/
 十三四歲 十三四岁 [shi2 san1 si4_sui4] /(in one's) early teens (lit. 13 or 14 years old)/teens, early (lit. 13 or 14 years old)/
 時時警惕 时时警惕 [shi2 shi2_jing3 ti4] /keep on guard/guard, keep on/
+十四年抗戰 十四年抗战 [shi2 si4_nian2_kang4 zhan4] /fourteen-year war of resistance (1931-1945, term used by textbooks since 2017)/resistance, fourteen-year war of (1931-1945, term used by textbooks since 2017)/
 實體經濟 实体经济 [shi2 ti3_jing1 ji4] /the economy/economy, the/
 石隙 石隙 [shi2 xi4] /clefts of the crags/crags, clefts of the/
 十弦琴 十弦琴 [shi2 xian2 qin2] /an instrument of ten strings/instrument of ten strings, an/
@@ -22487,6 +22504,7 @@
 獻出自己 献出自己 [xian4 chu1_zi4 ji3] /make yourself available/offer oneself/yourself available, make/oneself, offer/
 現代科技 现代科技 [xian4 dai4_ke1 ji4] /modern technology/technology, modern/
 現代奇跡 现代奇迹 [xian4 dai4_qi2 ji4] /modern-day miracle/miracle, modern-day/
+現代語言 现代语言 [xian4 dai4_yu3 yan2] /modern languages/languages, modern/
 腺苷三磷酸 腺苷三磷酸 [xian4 gan1 san1 lin2 suan1] /adenosine triphosphate/ATP/triphosphate, adenosine/
 現金卡 现金卡 [xian4 jin1 ka3] /debit card/card, debit/
 線粒體 线粒体 [xian4 li4 ti3] /mitochondria/
