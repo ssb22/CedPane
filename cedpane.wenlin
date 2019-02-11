@@ -8941,11 +8941,6 @@ characters 彩虹色
 serial-number CedPane1792
 definition iridescence
 *** 
-pinyin cǎihóngsè
-characters 彩虹色
-serial-number CedPane1792
-definition iridescence (lit. rainbow colour)
-*** 
 pinyin cǎi huábǎn
 characters 踩滑板
 serial-number CedPane1793
@@ -73344,6 +73339,11 @@ characters 马鞍山[馬--]
 serial-number CedPane14718
 definition Ma'anshan (in Anhui)
 *** 
+pinyin Mǎ'ānshān
+characters 马鞍山[馬--]
+serial-number CedPane14718
+definition Ma'anshan (in Anhui); Ma On Shan (peak in HK)
+*** 
 pinyin Sùzhōu Shì
 characters 宿州市
 serial-number CedPane14719
@@ -120051,3 +120051,158 @@ pinyin pǐnpǐn
 characters 品品
 serial-number CedPane24158
 definition have a taste (of food etc)
+*** 
+pinyin Mósū'ěr
+characters 摩苏尔[-蘇爾]
+serial-number CedPane24159
+definition Mosul
+*** 
+pinyin shídàijù
+characters 时代剧[時-劇]
+serial-number CedPane24160
+definition period drama
+*** 
+pinyin wú xuě
+characters 无雪[無-]
+serial-number CedPane24161
+definition no snow
+*** 
+pinyin Tàipíng Shān
+characters 太平山
+serial-number CedPane24162
+definition Victoria Peak (HK); Mt Taiping (TW)
+*** 
+pinyin Dàmào Shān
+characters 大帽山
+serial-number CedPane24163
+definition Tai Mo Shan (HK)
+*** 
+pinyin Huáng Lǐng
+characters 黄岭[黃嶺]
+serial-number CedPane24164
+definition Wong Leng (ridge in HK)
+*** 
+pinyin Fènghuáng Shān
+characters 凤凰山[鳳--]
+serial-number CedPane24165
+definition Lantau Peak (HK)
+*** 
+pinyin Dàdōng Shān
+characters 大东山[-東-]
+serial-number CedPane24166
+definition Sunset Peak (HK)
+*** 
+pinyin Fēi'é Shān
+characters 飞鹅山[飛鵝-]
+serial-number CedPane24167
+definition Kowloon Peak (HK)
+*** 
+pinyin Dàdāorèn
+characters 大刀屻
+serial-number CedPane24168
+definition Tai To Yan (ridge in HK)
+*** 
+pinyin Ránshéjiān
+characters 蚺蛇尖
+serial-number CedPane24169
+definition Sharp Peak (HK)
+*** 
+pinyin Dàlǎo Shān
+characters 大老山
+serial-number CedPane24170
+definition Tate's Cairn (peak in HK)
+*** 
+pinyin Bēidù Shān
+characters 杯渡山
+serial-number CedPane24171
+definition Castle Peak (HK)
+*** 
+pinyin Léiní'ěr Shān
+characters 雷尼尔山[--爾-]
+serial-number CedPane24172
+definition Mt Rainier
+*** 
+pinyin Jīgōnglǐng
+characters 鸡公岭[雞-嶺]
+serial-number CedPane24173
+definition Kai Kung Leng (HK hiking trail)
+*** 
+pinyin diàoyúwēng
+characters 钓鱼翁[釣魚-]
+serial-number CedPane24174
+definition old fisherman; High Junk Peak (HK)
+*** 
+pinyin Héyāng Shān
+characters 禾秧山
+serial-number CedPane24175
+definition Wo Yeung Shan (peak in HK)
+*** 
+pinyin Sìfāng Shān
+characters 四方山
+serial-number CedPane24176
+definition Sei Fong Shan (peak in HK)
+*** 
+pinyin Móguǐ Shān
+characters 魔鬼山
+serial-number CedPane24177
+definition Devil's Peak (HK)
+*** 
+pinyin Jīgōng Shān
+characters 鸡公山[雞--]
+serial-number CedPane24178
+definition Kai Kung Shan (peak in HK)
+*** 
+pinyin Guānyīn Shān
+characters 观音山[觀--]
+serial-number CedPane24179
+definition Kwun Yam Shan (hill in HK)
+*** 
+pinyin Hónghuālǐng
+characters 红花岭[紅-嶺]
+serial-number CedPane24180
+definition Robin's Nest (hill in HK)
+*** 
+pinyin Máquèlǐng
+characters 麻雀岭[--嶺]
+serial-number CedPane24181
+definition Robin's Nest (hill in HK, old name)
+*** 
+pinyin Èrdōng Shān
+characters 二东山[-東-]
+serial-number CedPane24182
+definition Yi Tung Shan (hill in HK)
+*** 
+pinyin Shuǐniú Shān
+characters 水牛山
+serial-number CedPane24183
+definition Buffalo Hill (HK)
+*** 
+pinyin Ángpíng
+characters 昂坪
+serial-number CedPane24184
+definition Ngong Ping (HK monastery site)
+*** 
+pinyin Féngjiǎ Yèshì
+characters 逢甲夜市
+serial-number CedPane24185
+definition Feng Chia Night Market (in Taichung)
+*** 
+pinyin Yōuyóukǎ
+characters 悠遊卡
+serial-number CedPane24186
+definition EasyCard (TW public transport etc)
+*** 
+pinyin Yīkǎtōng
+characters 一卡通
+serial-number CedPane24187
+definition iPass (TW public transport etc)
+*** 
+pinyin gāotiězhàn
+characters 高铁站[-鐵-]
+serial-number CedPane24188
+definition high-speed rail station; HSR station
+*** 
+pinyin nìmíng píngshěn
+characters 匿名评审[--評審]
+serial-number CedPane24189
+definition anonymous peer review

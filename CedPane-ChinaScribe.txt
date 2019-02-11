@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-02-10
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-02-11
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -1001,6 +1001,7 @@
 昂昂溪區 昂昂溪区 [Ang2 ang2 xi1_Qu1] /Ang'angxi District/District, Ang'angxi/
 昂格爾 昂格尔 [Ang2 ge2 er3] /Unger/
 昂古拉 昂古拉 [Ang2 gu3 la1] /Angkura/
+昂坪 昂坪 [Ang2 ping2] /Ngong Ping (HK monastery site)/Ping, Ngong (HK monastery site)/
 昂仁縣 昂仁县 [Ang2 ren2_Xian4] /Angren County/County, Angren/
 昂斯貝特朗 昂斯贝特朗 [Ang2 si1 bei4 te4 lang3] /Anse-Bertrand/
 盎格魯 盎格鲁 [Ang4 ge2 lu3] /Anglo- (Saxon)/
@@ -1619,6 +1620,7 @@
 鮑姆加特納 鲍姆加特纳 [Bao4 mu3 jia1 te4 na4] /Baumgartner/
 鮑威爾 鲍威尔 [Bao4 wei1 er3] /Powell/
 卑爾根 卑尔根 [Bei1 er3 gen1] /Bergen/
+杯渡山 杯渡山 [Bei1 du4_Shan1] /Castle Peak (HK)/Peak, Castle (HK)/
 碑林區 碑林区 [Bei1 lin2_Qu1] /Beilin District/District, Beilin/
 卑南語 卑南语 [Bei1 nan2 yu3] /Puyuma (language)/
 北愛爾蘭 北爱尔兰 [Bei3_Ai4 er3 lan2] /Northern Ireland/Ireland, Northern/
@@ -2828,7 +2830,9 @@
 大廠縣 大厂县 [Da4 chang3_Xian4] /Dachang (county, in Hebei)/
 大城縣 大城县 [Da4 cheng2_Xian4] /Dacheng County/County, Dacheng/
 大村鄉 大村乡 [Da4 cun1_xiang1] /Dacun Township/Township, Dacun/
+大刀屻 大刀屻 [Da4 dao1 ren4] /Tai To Yan (ridge in HK)/
 大東區 大东区 [Da4 dong1_Qu1] /Dadong (district, in Liaoning)/
+大東山 大东山 [Da4 dong1_Shan1] /Sunset Peak (HK)/Peak, Sunset (HK)/
 大肚區 大肚区 [Da4 du4_Qu1] /Dadu District (in Taichung)/District, Dadu (in Taichung)/
 大渡口區 大渡口区 [Da4 du4 kou3_Qu1] /Dadukou (district, in Chongqing)/
 大方縣 大方县 [Da4 fang1_Xian4] /Dafang County/County, Dafang/
@@ -2843,6 +2847,7 @@
 大甲區 大甲区 [Da4 jia3_Qu1] /Dajia District (in Taichung)/District, Dajia (in Taichung)/
 大久保 大久保 [Da4 jiu3 bao3] /Okubo/
 大開殺戒 大开杀戒 [Da4 kai1_Sha1 jie4] /Operation No Living Thing (Freetown 1999)/Living Thing, Operation No (Freetown 1999)/
+大老山 大老山 [Da4 lao3_Shan1] /Tate's Cairn (peak in HK)/Cairn, Tate's (peak in HK)/
 大里區 大里区 [Da4 li3_Qu1] /Dali District (in Taichung)/District, Dali (in Taichung)/
 大理市 大理市 [Da4 li3_Shi4] /Dali (in Yunnan)/
 大荔縣 大荔县 [Da4 li4_Xian4] /Dali (county, in Shaanxi)/
@@ -2852,6 +2857,7 @@
 大流士 大流士 [Da4 liu2 shi4] /Darius/
 大馬色 大马色 [Da4 ma3 se4] /Damascus (old translation?)/
 大馬士革人 大马士革人 [Da4 ma3 shi4 ge2 ren2] /person of Damascus/Damascus, person of/
+大帽山 大帽山 [Da4 mao4_Shan1] /Tai Mo Shan (HK)/Shan, Tai Mo (HK)/
 大名縣 大名县 [Da4 ming2_Xian4] /Daming County/County, Daming/
 大內區 大内区 [Da4 nei4_Qu1] /Danei District (in Tainan)/District, Danei (in Tainan)/
 大寧縣 大宁县 [Da4 ning2_Xian4] /Daning (county, in Shanxi)/
@@ -3640,6 +3646,7 @@
 二世 二世 [Er4_Shi4] /the Second (of kings etc)/Second, the (of kings etc)/
 二道區 二道区 [Er4 dao4_Qu1] /Erdao District/District, Erdao/
 二道江區 二道江区 [Er4 dao4 jiang1_Qu1] /Erdaojiang District/District, Erdaojiang/
+二東山 二东山 [Er4 dong1_Shan1] /Yi Tung Shan (hill in HK)/Tung Shan, Yi (hill in HK)/
 二階堂 二阶堂 [Er4 jie1 tang2] /Nikaidou/
 二連浩特 二连浩特 [Er4 lian2 hao4 te4] /Erenhot (in Inner Mongolia)/
 二連浩特市 二连浩特市 [Er4 lian2 hao4 te4_Shi4] /Erenhot (in Inner Mongolia)/
@@ -3728,6 +3735,7 @@
 房龍 房龙 [Fang2 long2] /van Loon/Loon, van/
 房山區 房山区 [Fang2 shan1_Qu1] /Fangshan District (in Beijing)/District, Fangshan (in Beijing)/
 菲奧娜 菲奥娜 [Fei1 ao4 na4] /Fiona/
+飛鵝山 飞鹅山 [Fei1 e2_Shan1] /Kowloon Peak (HK)/Peak, Kowloon (HK)/
 菲恩 菲恩 [Fei1 en1] /Finn (given name)/
 菲爾 菲尔 [Fei1 er3] /Phil/
 菲爾比 菲尔比 [Fei1 er3 bi3] /Philib/
@@ -3897,12 +3905,14 @@
 丰澤區 丰泽区 [Feng1 ze2_Qu1] /Fengze District/District, Fengze/
 丰鎮 丰镇 [Feng1 zhen4] /Fengzhen (in Inner Mongolia)/
 丰鎮市 丰镇市 [Feng1 zhen4_Shi4] /Fengzhen (in Inner Mongolia)/
+逢甲夜市 逢甲夜市 [Feng2 jia3_Ye4 shi4] /Feng Chia Night Market (in Taichung)/Chia Night Market, Feng (in Taichung)/
 馮克 冯克 [Feng2 ke4] /Funk/
 鳳縣 凤县 [Feng4_Xian4] /Feng County/County, Feng/
 鳳城市 凤城市 [Feng4 cheng2_Shi4] /Fengcheng (in Liaoning)/
 鳳岡縣 凤冈县 [Feng4 gang1_Xian4] /Fenggang (county, in Guizhou)/
 奉化區 奉化区 [Feng4 hua4_Qu1] /Fenghua District/District, Fenghua/
 奉化市 奉化市 [Feng4 hua4_Shi4] /Fenghua (city, in Zhejiang)/
+鳳凰山 凤凰山 [Feng4 huang2_Shan1] /Lantau Peak (HK)/Peak, Lantau (HK)/
 鳳凰衛視 凤凰卫视 [Feng4 huang2_Wei4 shi4] /Phoenix Television/Television, Phoenix/
 鳳凰縣 凤凰县 [Feng4 huang2_Xian4] /Fenghuang County/County, Fenghuang/
 奉節縣 奉节县 [Feng4 jie2_Xian4] /Fengjie (county, in Chongqing)/
@@ -4672,6 +4682,7 @@
 觀塘區 观塘区 [Guan1 tang2_Qu1] /Kwun Tong District (HK)/Tong District, Kwun (HK)/
 官田區 官田区 [Guan1 tian2_Qu1] /Guantian District (in Tainan)/District, Guantian (in Tainan)/
 觀音區 观音区 [Guan1 yin1_Qu1] /Guanyin District (in Taoyuan)/District, Guanyin (in Taoyuan)/
+觀音山 观音山 [Guan1 yin1_Shan1] /Kwun Yam Shan (hill in HK)/Shan, Kwun Yam (hill in HK)/
 管城回族區 管城回族区 [Guan3 cheng2 hui2 zu2_Qu1] /Guanchenghuizu District/District, Guanchenghuizu/
 館陶縣 馆陶县 [Guan3 tao2_Xian4] /Guantao (county, in Hebei)/
 灌南縣 灌南县 [Guan4 nan2_Xian4] /Guannan (county, in Jiangsu)/
@@ -5193,6 +5204,7 @@
 何西阿書 何西阿书 [He2 xi1 a1 shu1] /Hosea (Bible book)/
 何西亞 何西亚 [He2 xi1 ya4] /Hoshea/
 何細亞 何细亚 [He2 xi4 ya4] /Hoshea/
+禾秧山 禾秧山 [He2 yang1_Shan1] /Wo Yeung Shan (peak in HK)/Yeung Shan, Wo (peak in HK)/
 合陽縣 合阳县 [He2 yang2_Xian4] /Heyang (county, in Shaanxi)/
 荷語 荷语 [He2 yu3] /Dutch (language) (short form)/
 河源市 河源市 [He2 yuan2_Shi4] /Heyuan (in Guangdong)/
@@ -5351,6 +5363,7 @@
 洪湖 洪湖 [Hong2 hu2] /Honghu (in Hubei)/
 洪湖市 洪湖市 [Hong2 hu2_Shi4] /Honghu (in Hubei)/
 紅花崗區 红花岗区 [Hong2 hua1 gang3_Qu1] /Honghuagang District/District, Honghuagang/
+紅花嶺 红花岭 [Hong2 hua1 ling3] /Robin's Nest (hill in HK)/Nest, Robin's (hill in HK)/
 洪江 洪江 [Hong2 jiang1] /Hongjiang (in Hunan)/
 洪江市 洪江市 [Hong2 jiang1_Shi4] /Hongjiang (in Hunan)/
 紅磡 红磡 [Hong2 kan4] /Hung Hom (place in HK)/
@@ -5540,6 +5553,7 @@
 荒涼山莊 荒凉山庄 [Huang1 liang2_Shan1 zhuang1] /Bleak House (Dickens)/House, Bleak (Dickens)/
 黃輔棠 黄辅棠 [Huang2_Fu3 tang2] /Fu Tong Wong (composer b.1948)/Tong Wong, Fu (composer b.1948)/
 黃俊宗 黄俊宗 [Huang2_Jun4 zong1] /Gene Hwang/Hwang, Gene/
+黃嶺 黄岭 [Huang2_Ling3] /Wong Leng (ridge in HK)/Leng, Wong (ridge in HK)/
 黃廬隱 黄庐隐 [Huang2_Lu2 yin3] /Lu Yin (1899–1934)/
 黃明志 黄明志 [Huang2_Ming2 zhi4] /Wee Meng Chee/Namewee (controversial Malaysian pop singer)/Meng Chee, Wee (controversial Malaysian pop singer)/
 潢川縣 潢川县 [Huang2 chuan1_Xian4] /Huangchuan (county, in Henan)/
@@ -5736,6 +5750,8 @@
 基輔 基辅 [Ji1 fu3] /Kiev/
 基富 基富 [Ji1 fu4] /Keith/
 基根 基根 [Ji1 gen1] /Keegan/
+雞公山 鸡公山 [Ji1 gong1_Shan1] /Kai Kung Shan (peak in HK)/Kung Shan, Kai (peak in HK)/
+雞公嶺 鸡公岭 [Ji1 gong1 ling3] /Kai Kung Leng (HK hiking trail)/Kung Leng, Kai (HK hiking trail)/
 雞冠區 鸡冠区 [Ji1 guan1_Qu1] /Jiguan District/District, Jiguan/
 基哈西 基哈西 [Ji1 ha1 xi1] /Gehazi/
 磯漢拿 矶汉拿 [Ji1 han4 na2] /Gehenna/geenna (γέεννα)/
@@ -7807,6 +7823,7 @@
 雷納托 雷纳托 [Lei2 na4 tuo1] /Renato/
 雷內 雷内 [Lei2 nei4] /René/
 雷尼 雷尼 [Lei2 ni2] /Rainey/
+雷尼爾山 雷尼尔山 [Lei2 ni2 er3_Shan1] /Mt Rainier/Rainier, Mt/
 雷娜特 雷娜特 [Lei2 nuo2 te4] /Renate/
 雷諾 雷诺 [Lei2 nuo4] /Reynolds/
 雷切爾 雷切尔 [Lei2 qie4 er3] /Rachelle/
@@ -8862,6 +8879,7 @@
 麻豆區 麻豆区 [Ma2 dou4_Qu1] /Madou District (in Tainan)/District, Madou (in Tainan)/
 麻江縣 麻江县 [Ma2 jiang1_Xian4] /Majiang (county, in Guizhou)/
 麻栗坡縣 麻栗坡县 [Ma2 li4 po1_Xian4] /Malipo (county, in Yunnan)/
+麻雀嶺 麻雀岭 [Ma2 que4 ling3] /Robin's Nest (hill in HK, old name)/Nest, Robin's (hill in HK, old name)/
 麻山區 麻山区 [Ma2 shan1_Qu1] /Mashan District/District, Mashan/
 麻陽縣 麻阳县 [Ma2 yang2_Xian4] /Mayang (county, in Hunan)/
 麻章區 麻章区 [Ma2 zhang1_Qu1] /Mazhang District/District, Mazhang/
@@ -8870,6 +8888,7 @@
 瑪安 玛安 [Ma3 an1] /Maon/
 馬安 马安 [Ma3 an1] /Maan/
 馬鞍山 马鞍山 [Ma3 an1 shan1] /Ma'anshan (in Anhui)/
+馬鞍山 马鞍山 [Ma3 an1 shan1] /Ma'anshan (in Anhui)/Ma On Shan (peak in HK)/Shan, Ma On/
 馬鞍山市 马鞍山市 [Ma3 an1 shan1_Shi4] /Ma'anshan (in Anhui)/
 馬奧 马奥 [Ma3 ao4] /Mao (place name e.g. in Dominican Republic)/
 瑪俄 玛俄 [Ma3 e2] /Maoch/
@@ -9815,6 +9834,7 @@
 摩爾斯電碼 摩尔斯电码 [Mo2 er3 si1_dian4 ma3] /Morse code/code, Morse/
 摩菲 摩菲 [Mo2 fei1] /Morphy/
 摩根 摩根 [Mo2 gen1] /Morgan/
+魔鬼山 魔鬼山 [Mo2 gui3_Shan1] /Devil's Peak (HK)/Peak, Devil's (HK)/
 模漢 模汉 [Mo2 han4] /Mohan/
 摩霍克語 摩霍克语 [Mo2 huo4 ke4 yu3] /Mohawk (language)/
 摩加迪沙 摩加迪沙 [Mo2 jia1 di2 sha1] /Mogadishu/
@@ -9836,6 +9856,7 @@
 摩賽亞書 摩赛亚书 [Mo2 sai4 ya4 shu1] /Mosiah (in Book of Mormon)/
 摩斯 摩斯 [Mo2 si1] /Morse (surname, alternate translation)/
 摩斯密碼 摩斯密码 [Mo2 si1_mi4 ma3] /Morse code (alternative version)/code, Morse (alternative version)/
+摩蘇爾 摩苏尔 [Mo2 su1 er3] /Mosul/
 摩西律法 摩西律法 [Mo2 xi1_Lu:4 fa3] /Mosaic Law/
 摩西拉 摩西拉 [Mo2 xi1 la1] /Moserah/
 摩西五經 摩西五经 [Mo2 xi1 wu3 jing1] /Pentateuch/
@@ -11305,6 +11326,7 @@
 雀兒喜 雀儿喜 [Que4 er2 xi3] /Chelsea (girl's name)/
 確山縣 确山县 [Que4 shan1_Xian4] /Queshan (county, in Henan)/
 群馬 群马 [Qun2 ma3] /Gunma (Japan prefecture)/
+蚺蛇尖 蚺蛇尖 [Ran2 she2 jian1] /Sharp Peak (HK)/Peak, Sharp (HK)/
 壤塘縣 壤塘县 [Rang3 tang2_Xian4] /Rangtang (county, in Sichuan)/
 讓胡路區 让胡路区 [Rang4 hu2 lu4_Qu1] /Ranghulu District/District, Ranghulu/
 讓凱 让凯 [Rang4 kai3] /Jahnke/
@@ -12350,6 +12372,7 @@
 水富縣 水富县 [Shui3 fu4_Xian4] /Shuifu (county, in Yunnan)/
 水墨宏村 水墨宏村 [Shui3 mo4_Hong2 cun1] /Shuimo Hongcun (at Huangshan)/Hongcun, Shuimo (at Huangshan)/
 水磨溝區 水磨沟区 [Shui3 mo4 gou1_Qu1] /Shuimogou District/District, Shuimogou/
+水牛山 水牛山 [Shui3 niu2_Shan1] /Buffalo Hill (HK)/Hill, Buffalo (HK)/
 水原 水原 [Shui3 yuan2] /Suwon (Korean city)/
 順安 顺安 [Shun4 an1] /Sunan (in Pyongyang)/
 順昌縣 顺昌县 [Shun4 chang1_Xian4] /Shunchang (county, in Fujian)/
@@ -12558,6 +12581,7 @@
 四世 四世 [Si4_Shi4] /the Fourth (of kings etc)/Fourth, the (of kings etc)/
 泗縣 泗县 [Si4_Xian4] /Si (county, in Anhui)/
 四川話 四川话 [Si4 chuan1 hua4] /Sichuanese/
+四方山 四方山 [Si4 fang1_Shan1] /Sei Fong Shan (peak in HK)/Fong Shan, Sei (peak in HK)/
 四方台區 四方台区 [Si4 fang1 tai2_Qu1] /Sifangtai District/District, Sifangtai/
 四福音合參 四福音合参 [Si4 fu2 yin1 he2 can1] /Diatessaron (combination of 4 Gospels)/
 泗洪縣 泗洪县 [Si4 hong2_Xian4] /Sihong (county, in Jiangsu)/
@@ -12933,6 +12957,7 @@
 泰寧縣 泰宁县 [Tai4 ning2_Xian4] /Taining (county, in Fujian)/
 泰諾 泰诺 [Tai4 nuo4] /Taino/
 太平區 太平区 [Tai4 ping2_Qu1] /Taiping District (in Taichung)/District, Taiping (in Taichung)/
+太平山 太平山 [Tai4 ping2_Shan1] /Victoria Peak (HK)/Mt Taiping (TW)/Peak Mt Taiping, Victoria/
 太平洋海嘯警報中心 太平洋海啸警报中心 [Tai4 ping2 yang2_Hai3 xiao4_Jing3 bao4_Zhong1 xin1] /Pacific Tsunami Warning Centre/Tsunami Warning Centre, Pacific/
 太平洋海嘯預警中心 太平洋海啸预警中心 [Tai4 ping2 yang2_Hai3 xiao4_Yu4 jing3_Zhong1 xin1] /Pacific Tsunami Warning Center/Tsunami Warning Center, Pacific/
 太仆寺旗 太仆寺旗 [Tai4 pu1 si4_Qi2] /Taibus (banner, in Inner Mongolia)/
@@ -15639,6 +15664,7 @@
 伊金霍洛旗 伊金霍洛旗 [Yi1 jin1 huo4 luo4_Qi2] /Ejin Horo (banner, in Inner Mongolia)/Horo, Ejin (banner, in Inner Mongolia)/
 一九八四 一九八四 [Yi1 jiu3 ba1 si4] /Nineteen Eighty-four/Eighty-four, Nineteen/
 伊卡 伊卡 [Yi1 ka3] /Ich/
+一卡通 一卡通 [Yi1 ka3 tong1] /iPass (TW public transport etc)/
 伊拉 伊拉 [Yi1 la1] /Ira/
 伊拉克利翁 伊拉克利翁 [Yi1 la1 ke4 li4 weng1] /Iráklion/
 伊拉斯謨 伊拉斯谟 [Yi1 la1 si1 mo2] /Erasmus/
@@ -16132,6 +16158,7 @@
 幽靈公主 幽灵公主 [You1 ling2_Gong1 zhu3] /Princess Mononoke (ghost princess)/Mononoke, Princess (ghost princess)/
 優素福 优素福 [You1 su4 fu2] /Yousef/
 優西比烏斯 优西比乌斯 [You1 xi1 bi3 wu1 si1] /Eusebius/
+悠遊卡 悠遊卡 [You1 you2 ka3] /EasyCard (TW public transport etc)/
 尤恩森 尤恩森 [You2 en1 sen1] /Eunson/
 尤爾 尤尔 [You2 er3] /Yuille/
 尤爾根 尤尔根 [You2 er3 gen1] /Jürgen/
@@ -17381,7 +17408,6 @@
 彩布 彩布 [cai3 bu4] /coloured cloth/cloth, coloured/
 彩虹飛蜥 彩虹飞蜥 [cai3 hong2 fei1 xi1] /agama/
 彩虹色 彩虹色 [cai3 hong2 se4] /iridescence/
-彩虹色 彩虹色 [cai3 hong2 se4] /iridescence (lit. rainbow colour)/
 踩酒 踩酒 [cai3 jiu3] /treading wine/wine, treading/
 彩票售賣亭 彩票售卖亭 [cai3 piao4_shou4 mai4 ting2] /lottery booth/booth, lottery/
 採取觀望態度 采取观望态度 [cai3 qu3_guan1 wang4_tai4 du5] /sit on the fence (lit. adopt a wait and see attitude)/fence, sit on the (lit. adopt a wait and see attitude)/
@@ -18177,6 +18203,7 @@
 吊下 吊下 [diao4 xia5] /hang down?/down?, hang/
 吊唁簿 吊唁簿 [diao4 yan4 bu4] /condolence book/book, condolence/
 釣魚郵件 钓鱼邮件 [diao4 yu2_you2 jian4] /phishing email/email, phishing/
+釣魚翁 钓鱼翁 [diao4 yu2 weng1] /old fisherman/High Junk Peak (HK)/fisherman, old (HK)/Junk Peak, High (HK)/
 疊餅 叠饼 [die2 bing3] /layer bread/bread, layer/
 疊成 叠成 [die2 cheng2] /becomes when doubled (folded)/when doubled, becomes (folded)/
 釘槍 钉枪 [ding1_qiang1] /nailer/nail gun/
@@ -18683,6 +18710,7 @@
 高天 高天 [gao1 tian1] /heavens (high heavens)/
 高鐵 高铁 [gao1 tie3] /high-speed rail/rail, high-speed/
 高鐵票 高铁票 [gao1 tie3_piao4] /high-speed rail ticket/rail ticket, high-speed/
+高鐵站 高铁站 [gao1 tie3 zhan4] /high-speed rail station/HSR station/rail station, high-speed/station, HSR/
 高校教師 高校教师 [gao1 xiao4_jiao4 shi1] /postsecondary teacher/teacher, postsecondary/
 高薪的工作 高薪的工作 [gao1 xin1_de5_gong1 zuo4] /high-paying job/
 高壓電變壓器 高压电变压器 [gao1 ya1 dian4_bian4 ya1 qi4] /high voltage transformer unit/voltage transformer unit, high/
@@ -20616,6 +20644,7 @@
 你們好 你们好 [ni3 men5_hao3] /Good day! greetings (to several people)/day! greetings, Good (to several people)/
 你們倆 你们俩 [ni3 men5_lia3] /you both/both, you/
 你推我擠 你推我挤 [ni3 tui1 wo3 ji3] /shove one another (in dense crowd)/another, shove one (in dense crowd)/
+匿名評審 匿名评审 [ni4 ming2_ping2 shen3] /anonymous peer review/peer review, anonymous/
 蔫壞 蔫坏 [nian1 huai4] /underhanded/
 年度報告 年度报告 [nian2 du4_bao4 gao4] /annual report/report, annual/
 年祭 年祭 [nian2 ji4] /yearly sacrifice/sacrifice, yearly/
@@ -21457,6 +21486,7 @@
 十場災殃 十场灾殃 [shi2_chang2_zai1 yang1] /ten plagues/plagues, ten/
 十分鐘 十分钟 [shi2_fen1 zhong1] /ten minutes/minutes, ten/
 食櫥 食橱 [shi2 chu2] /food cupboard/cupboard, food/
+時代劇 时代剧 [shi2 dai4 ju4] /period drama/drama, period/
 食道痙攣 食道痉挛 [shi2 dao4_jing4 luan2] /esophageal spasms/spasms, esophageal/
 十動然拒 十动然拒 [shi2 dong4 ran2 ju4] /touched but refused/refused, touched but/
 十分珍視 十分珍视 [shi2 fen1_zhen1 shi4] /regard highly/show a high regard for (lit. very cherish)/highly, regard (lit. very cherish)/high regard for, show a (lit. very cherish)/
@@ -22347,6 +22377,7 @@
 烏水 乌水 [wu1 shui3] /dark waters/waters, dark/
 嗚嗚聲 呜呜声 [wu1 wu1 sheng1] /purring sound/sound, purring/
 嗚嗚祖拉 呜呜祖拉 [wu1 wu1 zu3 la1] /vuvuzela/
+無雪 无雪 [wu2_xue3] /no snow/snow, no/
 無主題 无主题 [wu2_zhu3 ti2] /no subject (in emails etc)/subject, no (in emails etc)/
 無襯線體 无衬线体 [wu2 chen4 xian4 ti3] /sans-serif (typeface)/
 無處不在 无处不在 [wu2 chu4 bu4 zai4] /omnipresent (mistaken idea)/
