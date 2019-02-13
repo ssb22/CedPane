@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-02-12
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-02-13
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -4717,6 +4717,8 @@
 廣州市 广州市 [Guang3 zhou1_Shi4] /Guangzhou (in Guangdong)/
 廣宗縣 广宗县 [Guang3 zong1_Xian4] /Guangzong (county, in Hebei)/
 圭多 圭多 [Gui1 duo1] /Guido/
+規範漢字 规范汉字 [Gui1 fan4_Han4 zi4] /(PRC) Standard Chinese Characters (a standardised subset of Simple-form characters)/Chinese Characters, Standard (a standardised subset of Simple-form characters)/
+規范字 规范字 [Gui1 fan4 zi4] /(PRC) Standard Chinese Character/Chinese Character, Standard/
 圭米語 圭米语 [Gui1 mi3 yu3] /Guaymi (language)/
 歸仁區 归仁区 [Gui1 ren2_Qu1] /Guiren (Gueiren) District (in Tainan)/District, Guiren/
 龜山區 龟山区 [Gui1 shan1_Qu1] /Guishan District (in Taoyuan)/District, Guishan (in Taoyuan)/
@@ -18147,6 +18149,7 @@
 電話線槽 电话线槽 [dian4 hua4 xian4 cao2] /telephone wire duct (in building)/wire duct, telephone (in building)/
 奠基日 奠基日 [dian4 ji1 ri4] /foundation-laying day/
 電解質飲料 电解质饮料 [dian4 jie3 zhi4_yin3 liao4] /electrolyte drink/sports drink/drink, electrolyte/
+電競 电竞 [dian4 jing4] /E-sports (video-game competitions)/
 電烙術 电烙术 [dian4 lao4 shu4] /electrocautery/
 電力短缺 电力短缺 [dian4 li4_duan3 que1] /power shortage (electrical)/shortage, power (electrical)/
 電力供應 电力供应 [dian4 li4_gong1 ying4] /electricity supply/supply, electricity/
@@ -18189,6 +18192,7 @@
 電子工程學 电子工程学 [dian4 zi3_gong1 cheng2 xue2] /electronic engineering/engineering, electronic/
 電子監聽器 电子监听器 [dian4 zi3_jian1 ting1 qi4] /electronic bug (listening device)/
 電子鍵盤琴 电子键盘琴 [dian4 zi3_jian4 pan2 qin2] /electronic keyboards (musical)/keyboards, electronic (musical)/
+電子競技 电子竞技 [dian4 zi3_jing4 ji4] /E-sports (video-game competitions)/
 電子殼層 电子壳层 [dian4 zi3_ke2 ceng2] /electron shell/shell, electron/
 電子設備 电子设备 [dian4 zi3_she4 bei4] /electronics (equipment)/
 電子通信工程 电子通信工程 [dian4 zi3_tong1 xin4_gong1 cheng2] /Electronic and Communications Engineering/Communications Engineering, Electronic and/
@@ -18492,6 +18496,7 @@
 非編碼 非编码 [fei1_bian1 ma3] /noncoding/
 非處方 非处方 [fei1_chu3 fang1] /nonprescription/
 非繁忙時間 非繁忙时间 [fei1_fan2 mang2_shi2 jian1] /off-peak times (in phone network etc, lit. non-busy)/times, off-peak (in phone network etc, lit. non-busy)/
+非工作人員請勿進入 非工作人员请勿进入 [fei1_gong1 zuo4_ren2 yuan2_qing3 wu4_jin4 ru4] /staff only (door sign)/only, staff (door sign)/
 非全職 非全职 [fei1_quan2 zhi2] /part-time/
 非猶太人 非犹太人 [fei1 You2 tai4 ren2] /gentile/
 非全時 非全时 [fei1 quan2 shi2] /part-time (lit. not full-time)/
@@ -18562,6 +18567,7 @@
 峰巒起伏 峰峦起伏 [feng1 luan2 qi3 fu2] /ridges and peaks rising and falling/peaks rising and falling, ridges and/
 風螺 风螺 [feng1 luo2] /conch/
 丰滿多汁 丰满多汁 [feng1 man3_duo1 zhi1] /fat and juicy/sweet and juicy (fruit)/juicy, fat and (fruit)/
+蜂蜜檸檬水 蜂蜜柠檬水 [feng1 mi4_ning2 meng2 shui3] /honey and lemon water/lemon water, honey and/
 封面內頁 封面内页 [feng1 mian4_nei4 ye4] /page inside the front cover/inside the front cover, page/
 封面設計 封面设计 [feng1 mian4_she4 ji4] /cover design (of publication)/design, cover (of publication)/
 封面文章 封面文章 [feng1 mian4_wen2 zhang1] /cover article/from our cover/article, cover/
@@ -19063,6 +19069,7 @@
 喝盡 喝尽 [he1 jin4] /drink completely/completely, drink/
 核冬天 核冬天 [he2_dong1 tian1] /nuclear winter/winter, nuclear/
 核廢料 核废料 [he2_fei4 liao4] /nuclear waste/waste, nuclear/
+核結構 核结构 [he2_jie2 gou4] /nuclear structures/structures, nuclear/
 核掩護所 核掩护所 [he2_yan3 hu4 suo3] /nuclear shelter/shelter, nuclear/
 合而為一 合而为一 [he2 er2 wei2 yi1] /become one (acting in unity etc)/
 和唱 和唱 [he2 chang4] /sing as a chorus/chorus, sing as a/
@@ -20605,6 +20612,8 @@
 囊胚 囊胚 [nang2 pei1] /blastocyst (old translation)/
 腦補 脑补 [nao3_bu3] /(sthg) good for the brain/brain, good for the/
 腦癇症 脑痫症 [nao3_xian2 zheng4] /epilepsy (alternative term)/
+腦與認知科學 脑与认知科学 [nao3_yu3_ren4 zhi1_ke1 xue2] /brain and cognition science/cognition science, brain and/
+腦磁波圖 脑磁波图 [nao3 ci2 bo1 tu2] /MEG/magnetoencephalogram/
 腦海里 脑海里 [nao3 hai3_li5] /in the mind/mind, in the/
 腦科手術 脑科手术 [nao3 ke1_shou3 shu4] /brain surgery/surgery, brain/
 腦膜炎球菌 脑膜炎球菌 [nao3 mo2 yan2_qiu2 jun1] /meningococcus/
@@ -21132,6 +21141,9 @@
 忍耐到底 忍耐到底 [ren3 nai4_dao4 di3] /endure to the end/
 認得出 认得出 [ren4_de5_chu1] /make out/
 任擇其一 任择其一 [ren4_ze2_qi2_yi1] /choose any one (out of a list etc)/
+認知神經機制 认知神经机制 [ren4 zhi1_shen2 jing1_ji1 zhi4] /cognitive and neural mechanisms/neural mechanisms, cognitive and/
+認知神經科學 认知神经科学 [ren4 zhi1_shen2 jing1_ke1 xue2] /cognitive neuroscience/neuroscience, cognitive/
+認知神經心理學 认知神经心理学 [ren4 zhi1_shen2 jing1_xin1 li3 xue2] /cognitive neuropsychology/neuropsychology, cognitive/
 扔到 扔到 [reng1 dao4] /throw to/
 扔給 扔给 [reng1 gei3] /throw to (dogs etc)/
 扔進 扔进 [reng1 jin4] /throw into/
@@ -21358,6 +21370,7 @@
 神父 神父 [shen2 fu4] /Catholic priest/priest, Catholic/
 神話傳奇 神话传奇 [shen2 hua4_chuan2 qi2] /myths and legends/legends, myths and/
 神跡奇事 神迹奇事 [shen2 ji4 qi2 shi4] /signs and miracles/miracles, signs and/
+神經科學 神经科学 [shen2 jing1_ke1 xue2] /neuroscience/
 神經可塑性 神经可塑性 [shen2 jing1_ke3 su4 xing4] /neuroplasticity/
 神經系統科學 神经系统科学 [shen2 jing1_xi4 tong3_ke1 xue2] /neuroscience (lit. nervous system science)/
 神經心理學家 神经心理学家 [shen2 jing1_xin1 li3 xue2 jia1] /neuropsychologist/
@@ -22576,6 +22589,7 @@
 腺嘌呤 腺嘌呤 [xian4 piao4 ling4] /adenine/
 現世主義 现世主义 [xian4 shi4_zhu3 yi4] /secularism/
 獻完 献完 [xian4 wan2] /finished offering|donating/offering|donating, finished/
+線下 线下 [xian4 xia4] /offline/
 現正 现正 [xian4 zheng4] /now (less common way of saying 'now'?)/
 線子 线子 [xian4 zi5] /thread (of cotton etc)/secret/
 獻做 献做 [xian4 zuo4] /donate as/
@@ -22929,6 +22943,7 @@
 沿河逆流而上 沿河逆流而上 [yan2 he2_ni4 liu2 er2 shang4] /upstream (along the river)/
 延後 延后 [yan2 hou4] /postpone/
 研究基金 研究基金 [yan2 jiu1_ji1 jin1] /research funding/funding, research/
+研究團隊 研究团队 [yan2 jiu1_tuan2 dui4] /research team/team, research/
 研究小組 研究小组 [yan2 jiu1_xiao3 zu3] /study group/group, study/
 研究班 研究班 [yan2 jiu1 ban1] /study class/class, study/
 研究家 研究家 [yan2 jiu1 jia1] /researcher/
@@ -22945,6 +22960,7 @@
 掩面 掩面 [yan3_mian4] /conceal one's face/one's face, conceal/
 掩耳不聽 掩耳不听 [yan3 er3 bu4 ting1] /stop one's ears and not listen/one's ears and not listen, stop/
 演變為 演变为 [yan3 bian4_wei2] /developed into/
+眼動數據 眼动数据 [yan3 dong4_shu4 ju4] /eye movement data/movement data, eye/
 眼光要放遠一點 眼光要放远一点 [yan3 guang1_yao4_fang4 yuan3_yi1 dian3] /see the big picture (stop focusing on details)/picture, see the big (stop focusing on details)/
 衍化 衍化 [yan3 hua4] /develop-change(?)/
 眼疾 眼疾 [yan3 ji2] /eye affliction/affliction, eye/
@@ -22952,9 +22968,11 @@
 演講能力 演讲能力 [yan3 jiang3_neng2 li4] /speaking skills/presentation competence/skills, speaking/competence, presentation/
 演講廳 演讲厅 [yan3 jiang3 ting1] /lecture hall/hall, lecture/
 演講者 演讲者 [yan3 jiang3 zhe3] /speaker (person who gives a talk)/
+眼睛狀況 眼睛状况 [yan3 jing5_zhuang4 kuang4] /condition of one's eyes/eye condition/one's eyes, condition of/
 掩面不看 掩面不看 [yan3 mian4 bu4 kan4] /conceal face and not look/face and not look, conceal/
 眼明 眼明 [yan3 ming2] /clear-sighted/
 眼球震顫 眼球震颤 [yan3 qiu2_zhen4 chan4] /nystagmus/
+眼水 眼水 [yan3 shui3] /eye drops/drops, eye/
 眼瞎 眼瞎 [yan3 xia1] /blind/
 驗一驗 验一验 [yan4_yi5_yan4] /examine (goods associated with a purchase, etc)/
 燕麥棒 燕麦棒 [yan4 mai4 bang4] /British flapjack/oat bar/flapjack, British/
@@ -23802,6 +23820,7 @@
 磚模 砖模 [zhuan1 mu2] /brick mold (for making bricks)/mold, brick (for making bricks)/
 磚台 砖台 [zhuan1 tai2] /brick stand/terrace of bricks/stand, brick/bricks, terrace of/
 專業輔導 专业辅导 [zhuan1 ye4_fu3 dao3] /professional counseling (for depression etc)/counseling, professional (for depression etc)/
+專業研究團隊 专业研究团队 [zhuan1 ye4_yan2 jiu1_tuan2 dui4] /(speciality) research team/team, research/
 專業醫護人員 专业医护人员 [zhuan1 ye4_yi1 hu4_ren2 yuan2] /health-care professionals/professionals, health-care/
 專責小組 专责小组 [zhuan1 ze2_xiao3 zu3] /panel (group of people)/
 專注力 专注力 [zhuan1 zhu4 li4] /power of concentration/concentration, power of/
