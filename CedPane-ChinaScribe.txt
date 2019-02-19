@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-02-17
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-02-19
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -6347,6 +6347,7 @@
 金庸 金庸 [Jin1_Yong1] /Jin Yong (writer)/Yong, Jin (writer)/
 金正日 金正日 [Jin1_Zheng4 ri4] /Kim Jong-il/Jong-il, Kim/
 金安區 金安区 [Jin1 an1_Qu1] /Jin'an District/District, Jin'an/
+金馬地區 金马地区 [Jin1 Ma3_di4 qu1] /Kinmen and Matsu districts (TW)/Matsu districts, Kinmen and (TW)/
 金柏莉 金柏莉 [Jin1 bai3 li4] /Kimberly/
 金邦杜語 金邦杜语 [Jin1 bang1 du4 yu3] /Kimbundu (language)/
 金本杜語 金本杜语 [Jin1 ben3 du4 yu3] /Kimbundu (language)/
@@ -10246,6 +10247,7 @@
 南塔魯 南塔鲁 [Nan2 ta3 lu3] /Namtaru/
 南通 南通 [Nan2 tong1] /Nantong (in Jiangsu)/
 南通市 南通市 [Nan2 tong1_Shi4] /Nantong (in Jiangsu)/
+南投 南投 [Nan2 tou2] /Nantou (Taiwan interior)/
 南投市 南投市 [Nan2 tou2_Shi4] /Nantou City (Taiwan)/City, Nantou (Taiwan)/
 南投縣 南投县 [Nan2 tou2_Xian4] /Nantou County (Taiwan)/County, Nantou (Taiwan)/
 南屯區 南屯区 [Nan2 tun2_Qu1] /Nantun District (in Taichung)/District, Nantun (in Taichung)/
@@ -11108,6 +11110,7 @@
 契盧巴語 契卢巴语 [Qi4 lu2 ba1 yu3] /Kiluba (language)/
 契瑪羅薩 契玛罗萨 [Qi4 ma3 luo2 sa4] /Cimarosa/
 契維語 契维语 [Qi4 wei2 yu3] /Twi (language)/
+氣象辦公室 气象办公室 [Qi4 xiang4_Ban4 gong1 shi4] /Met Office/Office, Met/
 恰加斯氏病 恰加斯氏病 [Qia4 jia1 si1 shi4 bing4] /Chagas' Disease/Disease, Chagas'/
 恰帕斯 恰帕斯 [Qia4 pa4 si1] /Chiapas/
 恰斯 恰斯 [Qia4 si1] /Chelsea (old translation)/
@@ -16695,6 +16698,7 @@
 鍾子期 钟子期 [Zhong1_Zi3 qi1] /Zhong Ziqi (legendary music appreciator)/Ziqi, Zhong (legendary music appreciator)/
 中西方 中西方 [Zhong1 Xi1 fang1] /China-Western (contrasts etc)/
 中英國際 中英国际 [Zhong1 Ying1_guo2 ji4] /Sino-British/UK-China (of institution)/
+中英雙語 中英双语 [Zhong1 Ying1_shuang1 yu3] /Chinese-English bilingual/bilingual, Chinese-English/
 中英文 中英文 [Zhong1 Ying1 wen2] /Chinese and English (printed together)/English, Chinese and (printed together)/
 中方縣 中方县 [Zhong1 fang1_Xian4] /Zhongfang County/County, Zhongfang/
 中古法語 中古法语 [Zhong1 gu3_Fa3 yu3] /Middle French/French, Middle/
@@ -16702,6 +16706,7 @@
 中國科學技術大學 中国科学技术大学 [Zhong1 guo2_Ke1 xue2_Ji4 shu4_Da4 xue2] /University of Science and Technology of China/USTC/Science and Technology of China, University of/
 中國民族報 中国民族报 [Zhong1 guo2_Min2 zu2_Bao4] /China Ethnic News/Ethnic News, China/
 中國南極天文中心 中国南极天文中心 [Zhong1 guo2_Nan2 ji2_Tian1 wen2_Zhong1 xin1] /Chinese Center for Antarctic Astronomy/Center for Antarctic Astronomy, Chinese/
+中國氣象局 中国气象局 [Zhong1 guo2_Qi4 xiang4 ju2] /China Meterological Association/Meterological Association, China/
 中國學生學者聯誼會 中国学生学者联谊会 [Zhong1 guo2_Xue2 sheng5_Xue2 zhe3_Lian2 yi4 hui4] /Chinese Students and Scholars Association/CSSA/Students and Scholars Association, Chinese/
 中國移動 中国移动 [Zhong1 guo2_Yi2 dong4] /China Mobile (telephone company)/Mobile, China (telephone company)/
 中國移動香港 中国移动香港 [Zhong1 guo2_Yi2 dong4_Xiang1 gang3] /China Mobile Hong Kong (telephone company)/Mobile Hong Kong, China (telephone company)/
@@ -17377,6 +17382,7 @@
 不肯讓步 不肯让步 [bu4 ken3_rang4 bu4] /be unyielding/unyielding, be/
 不離不棄 不离不弃 [bu4 li2 bu2 qi4] /not give up on/not abandon/give up on, not/abandon, not/
 不利于 不利于 [bu4 li4_yu2] /unsuitable for/
+步量 步量 [bu4 liang4] /measure with steps/visit to see for oneself (a place)/steps, measure with (a place)/oneself, visit to see for (a place)/
 布洛芬 布洛芬 [bu4 luo4 fen1] /ibuprofen/
 部落格 部落格 [bu4 luo4 ge2] /blog (alternative translation)/
 布幔 布幔 [bu4 man4] /tent cloths/cloths, tent/
@@ -17723,6 +17729,7 @@
 儲水池 储水池 [chu3 shui3 chi2] /pit of impounded waters/impounded waters, pit of/
 儲蓄賬戶 储蓄账户 [chu3 xu4_zhang4 hu4] /savings account/account, savings/
 儲值額 储值额 [chu3 zhi2 e2] /prepaid credit/credit, prepaid/
+儲值金 储值金 [chu3 zhi2 jin1] /balance (on EasyCard etc)/
 儲值卡 储值卡 [chu3 zhi2 ka3] /prepaid card/prepaid SIM/card, prepaid/
 黜臭 黜臭 [chu4 chou4] /publically expose shortcomings/expose shortcomings, publically/
 觸控式 触控式 [chu4 kong4 shi4] /touch-controlled/
@@ -17827,6 +17834,7 @@
 從此以后 从此以后 [cong2 ci3 yi3 hou4] /henceforth/
 從何入手 从何入手 [cong2 he2 ru4 shou3] /where to start (where to put one's hand in)/start, where to (where to put one's hand in)/
 從實 从实 [cong2 shi2] /from reality/reality, from/
+從業者 从业者 [cong2 ye4 zhe3] /professional (in a line of business)/
 從眾心理 从众心理 [cong2 zhong4_xin1 li3] /conformity/follow-the-crowd behaviour/
 粗麥 粗麦 [cu1 mai4] /spelt (type of wheat)/
 粗麵 粗面 [cu1 mian4] /coarse meal/meal, coarse/
@@ -18280,6 +18288,7 @@
 斗犬 斗犬 [dou3 quan3] /pitbull (dog)/
 陡崖 陡崖 [dou3 ya2] /escarpment/
 陡岩 陡岩 [dou3 yan2] /steep rock/craggy place/rock, steep/place, craggy/
+豆乾 豆干 [dou4 gan1] /(semi-) dry tofu/tofu, dry/
 鬥獸場 斗兽场 [dou4 shou4 chang3] /Colosseum (lit. Fight beast site)/
 讀本科 读本科 [du2_ben3 ke1] /read an undergraduate degree/undergraduate degree, read an/
 讀不出來 读不出来 [du2_bu4_chu1 lai5] /unable to read (due to physical difficulty etc)/read, unable to (due to physical difficulty etc)/
@@ -18648,6 +18657,7 @@
 富有人 富有人 [fu4 you3 ren2] /rich person/person, rich/
 復育 复育 [fu4 yu4] /drilling (training)/
 複雜的因素 复杂的因素 [fu4 za2_de5_yin1 su4] /complicating factor/factor, complicating/
+負載平衡 负载平衡 [fu4 zai4_ping2 heng2] /load balancing/balancing, load/
 負債人 负债人 [fu4 zhai4 ren2] /debtor/
 複製動物 复制动物 [fu4 zhi4_dong4 wu4] /cloning of animals/animals, cloning of/
 複製技術 复制技术 [fu4 zhi4_ji4 shu4] /cloning (techniques)/
@@ -18708,6 +18718,7 @@
 感情上 感情上 [gan3 qing2_shang5] /emotionally/
 感情壓力 感情压力 [gan3 qing2_ya1 li4] /emotional pressure/pressure, emotional/
 趕往 赶往 [gan3 wang3] /dash toward/toward, dash/
+感應區 感应区 [gan3 ying4 qu1] /sensor area (for contactless card)/area, sensor (for contactless card)/
 剛結婚的人 刚结婚的人 [gang1_jie2 hun1_de5_ren2] /newlyweds/
 鋼架 钢架 [gang1 jia4] /steel frame/frame, steel/
 缸口 缸口 [gang1 kou3] /brim|mouth of a jar or vat/
@@ -19371,6 +19382,7 @@
 基因組 基因组 [ji1 yin1 zu3] /genome/
 及得上 及得上 [ji2_de5_shang4] /become as good as/reach up to in greatness etc/good as, become as/greatness etc, reach up to in/
 即插即用 即插即用 [ji2 cha1 ji2 yong4] /plug and play/play, plug and/
+集點 集点 [ji2 dian3] /collect points (retail promotions etc)/points, collect (retail promotions etc)/
 極度寒冷 极度寒冷 [ji2 du4_han2 leng3] /extremely cold/cold, extremely/
 極端分子 极端分子 [ji2 duan1_fen1 zi3] /extremists/
 極端主義 极端主义 [ji2 duan1 zhu3 yi4] /extremist/extremism/
@@ -19973,6 +19985,7 @@
 可赞 可赞 [ke3 zan4] /can praise/meritorious/praise, can/
 可憎之事 可憎之事 [ke3 zeng1_zhi1_shi4] /abomination/
 可證偽性 可证伪性 [ke3 zheng4 wei3 xing4] /falsifiability/
+客服 客服 [ke4 fu2] /customer service/service, customer/
 客觀地看待 客观地看待 [ke4 guan1_de5_kan4 dai4] /objectively view/view, objectively/
 客戶對象 客户对象 [ke4 hu4_dui4 xiang4] /target customer(s)/customer(s), target/
 客戶服務熱線 客户服务热线 [ke4 hu4_fu2 wu4_re4 xian4] /customer services hotline/services hotline, customer/
@@ -20422,6 +20435,7 @@
 梅塔梅洛邁 梅塔梅洛迈 [mei2 ta3 mei2 luo4 mai4] /metamelomai (Greek remorse)/
 梅塔尼阿 梅塔尼阿 [mei2 ta3 ni2 a1] /metanoia (Greek repent)/
 媒體訪問 媒体访问 [mei2 ti3_fang3 wen4] /media interview/interview, media/
+媒體研究 媒体研究 [mei2 ti3_yan2 jiu1] /media studies/studies, media/
 沒藥救了 没药救了 [mei2 yao4 jiu4 le5] /no medicine can save the situation/medicine can save the situation, no/
 沒有辦法 没有办法 [mei2 you3_ban4 fa3] /no way (to do something)/
 沒有被嚇倒 没有被吓倒 [mei2 you3_bei4_xia4 dao3] /not intimidated/intimidated, not/
@@ -21582,6 +21596,7 @@
 實用價值 实用价值 [shi2 yong4_jia4 zhi2] /practical value/value, practical/
 食用日期 食用日期 [shi2 yong4_ri4 qi1] /"use by" date/date, "use by"/
 石油平台 石油平台 [shi2 you2_ping2 tai2] /oil rig/
+時正 时正 [shi2 zheng4] /o'clock/
 識字不多 识字不多 [shi2 zi4_bu4_duo1] /having difficulty reading (semi-illiterate)/difficulty reading, having (semi-illiterate)/
 十字包 十字包 [shi2 zi4 bao1] /hot cross bun/cross bun, hot/
 使人信服 使人信服 [shi3_ren2_xin4 fu2] /persuade (in a positive sense, lit. "cause people to be convinced")/
@@ -22216,6 +22231,7 @@
 頹垣 颓垣 [tui2 yuan2] /remains of a wall|house|etc/wall|house|etc, remains of a/
 退到 退到 [tui4 dao4] /withdraw (in)to/
 退返 退返 [tui4 fan3] /return to/
+退費 退费 [tui4 fei4] /refund (a fee)/
 退課 退课 [tui4 ke4] /drop a course/withdraw from a course/course, drop a/
 退課率 退课率 [tui4 ke4 lu:4] /dropout rate (of course|school)/rate, dropout (of course|school)/
 退休計劃 退休计划 [tui4 xiu1_ji4 hua4] /pension plan/plan, pension/
@@ -22866,8 +22882,10 @@
 性濫交 性滥交 [xing4_lan4 jiao1] /promiscuous sexual behavior/sexual behavior, promiscuous/
 性奴 性奴 [xing4_nu2] /sex slaves/slaves, sex/
 性侵犯 性侵犯 [xing4_qin1 fan4] /sexual assault/sexual abuse/assault, sexual/abuse, sexual/
+性別研究 性别研究 [xing4 bie2_yan2 jiu1] /gender studies/studies, gender/
 性格和氣質 性格和气质 [xing4 ge2_he2_qi4 zhi4] /makeup/nature (of a person)/
 姓名學 姓名学 [xing4 ming2 xue2] /naming-ology (astrology when naming a child)/
+性能分析 性能分析 [xing4 neng2_fen1 xi5] /profiling/performance analysis/
 性侵 性侵 [xing4 qin1] /sexual violation (crime)/violation, sexual (crime)/
 性情暴烈 性情暴烈 [xing4 qing2_bao4 lie4] /violent temper/temper, violent/
 性情殘暴 性情残暴 [xing4 qing2_can2 bao4] /violent (in disposition)/
@@ -23320,6 +23338,7 @@
 油樹葉 油树叶 [you2 shu4 ye4] /leaves of oil trees/trees, leaves of oil/
 油汀 油汀 [you2 ting1] /oil-filled (of radiator)/
 游完泳 游完泳 [you2 wan2 yong3] /finished swimming/swimming, finished/
+游戲障礙 游戏障碍 [you2 xi4_zhang4 ai4] /gaming disorder/disorder, gaming/
 郵鎮 邮镇 [you2 zhen4] /post town (in UK addresses)/town, post (in UK addresses)/
 疣豬 疣猪 [you2 zhu1] /warthog/
 有袋動物 有袋动物 [you3_dai4_dong4 wu4] /marsupial (lit. with-pouch animal)/
