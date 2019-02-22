@@ -80,6 +80,7 @@ Abobral	阿博布	阿博布	Ābóbù	A-bok-bou
 abode; big house	大宅	大宅	dàzhái	daaih-jaahk	ˌəbˈəʊd
 Abomey	亚波美	亞波美	Yàbōměi	Nga-bō-méih	
 abomination	可憎之事	可憎之事	kězēng zhī shì	hó-jāng jī sih	
+<TW> aboriginal	原住民族	原住民族	yuánzhùmínzú	yùhn-jyuh-màhn-juhk	
 Aboriginal community (village etc)	原住民社区	原住民社區	yuánzhùmín shèqū	yùhn-jyuh-màhn séh-kēui	
 aborigines (lit. original inhabitants)	土著居民	土著居民	tǔzhù jūmín	tóu-jyu gēui-màhn	
 Aboth (in Mishnah)	阿伯特	阿伯特	Ābótè	A-ba-dahk	
@@ -1318,6 +1319,7 @@ A Tale of Two Cities (by Charles Dickens)	双城记	雙城記	Shuāngchéng Jì	
 at all (as in no X at all)	可言	可言	kěyán	hó-yìhn	
 Atarah	亚塔拉	亞塔拉	Yàtǎlā	Nga-taap-lāai	ˈætɚʌ
 Atayal (language)	泰雅语	泰雅語	Tàiyǎyǔ	Taai-ngáh-yúh	
+Atayal (Nantou indigenous tribe)	泰雅族	泰雅族	Tàiyǎzú	Taai-ngáh-juhk	
 Atbara (river)	阿特巴拉河	阿特巴拉河	Ātèbālāhé	A-dahk-bā-lāai-hòh	
 ate; eaten	吃过	吃過	chīguo	hek-gwo	ˈɛt
 at ease	安逸无忧	安逸無憂	ānyì-wúyōu	ngōn-yaht-mòuh-yāu	
@@ -1542,6 +1544,7 @@ bad smell and taste	难闻气味	難聞氣味	nánwén qìwèi	nàahn-màhn hei-
 Baffin Island	巴芬岛	巴芬島	Bāfēndǎo	Bā-fān-dóu	
 Baffour	巴富尔	巴富爾	Bāfù'ěr	Bā-fu-yíh	
 Bagabag Island	巴加巴格岛	巴加巴格島	Bājiābāgédǎo	Bā-gā-bā-gaak-dóu	
+baggage service	行李服务	行李服務	xíngli fúwù	hàhng-léih fuhk-mouh	
 Baggao (city)	巴高市	巴高市	Bāgāo Shì	Bā-gōu Síh	
 Bagongshan District	八公山区	八公山區	Bāgōngshān Qū	Baat-gūng-sāan Kēui	
 Baguio	碧瑶	碧瑤	Bìyáo	Bīk-yìuh	
@@ -3169,6 +3172,7 @@ Caofeidian District	曹妃甸区	曹妃甸區	Cáofēidiàn Qū	Chòuh-fēi-dihn
 Cap-de-la-Madeleine	卡普德拉马德莱娜	卡普德拉馬德萊娜	Kǎpǔdélāmǎdéláinà	Kā-póu-dāk-lāai-máh-dāk-lòih-nàh	
 capable (person)	精明能干	精明能幹	jīngmíng-nénggàn	jīng-mìhng-nàhng-gon	
 Cape Cod	科德角	科德角	Kēdéjiǎo	Fō-dāk-gok	
+Cape gooseberry (physalis peruviana)	灯笼果	燈籠果	dēnglong guǒ	dāng-lùhng gwó	
 Cape Hatteras	哈特拉斯角	哈特拉斯角	Hātèlāsījiǎo	Hā-dahk-lāai-sī-gok	
 Cape Horn	合恩角	合恩角	Hé'ēnjiǎo	Hahp-yān-gok	
 Capen	卡彭	卡彭	Kǎpéng	Kā-pàahng	
@@ -3195,6 +3199,7 @@ Cara	卡拉	卡拉	Kǎlā	Kā-lāai
 Caracas	加拉加斯	加拉加斯	Jiālājiāsī	Gā-lāai-gā-sī	kˌəɹˈækəs
 Carapegu	卡拉佩瓜	卡拉佩瓜	Kǎlāpèiguā	Kā-lāai-pui-gwā	
 carbon-oxygen cycle (?)	碳氧循环	碳氧循環	tànyǎng xúnhuán	taan-yéuhng chèuhn-wàahn	
+carbonara (cheese pasta)	卡波纳拉	卡波納拉	kǎbōnàlā	kā-bō-naahp-lāai	
 carbon fibre	碳纤维	碳纖維	tànxiānwéi	taan-chīm-wàih	
 Carbonneau	卡尔博诺	卡爾博諾	Kǎ'ěrbónuò	Kā-yíh-bok-nohk	
 Carchemish	迦基米施	迦基米施	Jiājīmǐshī	Gā-gēi-máih-sī	kˈɑkəmɪʃ
@@ -3583,6 +3588,8 @@ Chechnya	车臣	車臣	Chēchén	Chē-sàhn
 check-in (airport)	办理登机手续	辦理登機手續	bànlǐ dēngjī shǒuxù	baahn-léih dāng-gēi sáu-juhk	
 check for updates	检查更新	檢查更新	jiǎnchá gēngxīn	gím-chàh gāng-sān	
 check it; look into	查一下	查一下	cháyīxià	chàh-yāt-háh	
+check out of a hotel room	退房	退房	tuì fáng	teui fòhng	
+checkout time (in hotel)	退房时间	退房時間	tuì fáng shíjiān	teui fòhng sìh-gāan	
 Cheddar cheese	切达干酪	切達乾酪	Qièdá gānlào	Chit-daaht gōn-lok	
 cheesecake	乳酪饼	乳酪餅	rǔlàobǐng	yúh-lok-béng	
 Chefoo (old name of Yantai)	芝罘	芝罘	Zhīfú	Jī-fàuh	
@@ -3900,6 +3907,7 @@ Cindy	欣迪	欣迪	Xīndí	Yān-dihk
 Cindy	莘蒂	莘蒂	Xīndì	Sān-dai	
 Cindy	莘迪	莘迪	Xīndí	Sān-dihk	
 Cindy	辛迪	辛迪	Xīndí	Sān-dihk	
+Cingjing area (in Nantou)	清境地区	清境地區	Qīngjìng dìqū	Chīng-gíng deih-kēui	
 (circle of) friends	朋友圈	朋友圈	péngyouquān	pàhng-yáuh-hyūn	
 (circle of) friends (abbreviated)	票圈	票圈	piàoquān	piu-hyūn	
 circuit (in sports tours)	巡回赛	巡回賽	xúnhuísài	chèuhn-wùih-choi	
@@ -3916,6 +3924,7 @@ city-level	市级	市級	shì jí	síh kāp
 City Court	市法院	市法院	shì fǎyuàn	síh faat-yún	
 city foundation	城基	城基	chéngjī	sìhng-gēi	
 city gate	城门口	城門口	chéngménkǒu	sìhng-mùhn-háu	
+city life	都市生活	都市生活	dūshì shēnghuó	dōu-síh sāang-wuht	
 city of Alicante	阿利坎特市	阿利坎特市	Ālìkǎntè Shì	A-leih-hām-dahk Síh	
 city of Babylon	巴比伦城	巴比倫城	Bābǐlún chéng	Bā-béi-lèuhn sìhng	
 city of Bethel	伯特利城	伯特利城	Bótèlì chéng	Baak-dahk-leih sìhng	
@@ -4061,6 +4070,7 @@ Codex Sinaiticus; Sinaiticus	西奈抄本	西奈抄本	Xīnài chāoběn	Sāi-no
 Cody	科迪	科迪	Kēdí	Fō-dihk	
 COFCO (abbreviation)	中粮	中糧	Zhōng Liáng	Jūng Lèuhng	
 COFCO (China Oil and Food Company)	中粮集团	中糧集團	Zhōng Liáng Jítuán	Jūng Lèuhng Jaahp-tyùhn	
+coffee machine	咖啡机	咖啡機	kāfēijī	ga-fē-gēi	
 Coffin (surname)	科芬	科芬	Kēfēn	Fō-fān	
 Cognac (town and brandy)	干邑	干邑	Gānyì	Gōn-yāp	
 cognitive and neural mechanisms	认知神经机制	認知神經機制	rènzhī shénjīng jīzhì	yihng-jī sàhn-gīng gēi-jai	
@@ -4154,6 +4164,7 @@ communication skills	沟通技巧	溝通技巧	gōutōng jìqiǎo	kāu-tūng gei
 communicative approach (language learning via real communication)	交际法	交際法	jiāojìfǎ	gāau-jai-faat	
 Como	科莫	科莫	Kēmò	Fō-mohk	
 Comorian (language)	科摩罗语	科摩羅語	Kēmóluóyǔ	Fō-mō-lòh-yúh	
+company philosophy (lit. brand belief)	品牌信仰	品牌信仰	pǐnpái xìnyǎng	bán-pàaih seun-yéuhng	
 compared to last time	跟上次	跟上次	gēn shàngcì	gān seuhng-chi	
 compared to the virtue of jade; (of a person) as virtuous as jade	比德于玉	比德于玉	bǐdéyúyù	béi-dāk-yū-yuhk	
 compare with	比作	比作	bǐzuò	béi-jok	
@@ -4201,6 +4212,7 @@ computer scientists	电脑专家	電腦專家	diànnǎo zhuānjiā	dihn-nóuh jy
 (computer) server (Cantonese version?)	伺服器	伺服器	sìfúqì	sih-fuhk-hei	
 computer technology	电脑科技	電腦科技	diànnǎo kējì	dihn-nóuh fō-geih	
 computer translation	电脑翻译	電腦翻譯	diànnǎo fānyì	dihn-nóuh fāan-yihk	
+<netspeak?> comrade	小伙伴	小伙伴	xiǎohuǒbàn	síu-fó-buhn	
 Conakry	科纳克里	科納克里	Kēnàkèlǐ	Fō-naahp-hāk-léih	
 Conan	柯南	柯南	Kēnán	Ō-nàahm	kˈɒnən
 con artist	大骗子	大騙子	dàpiànzi	daaih-pin-jí	
@@ -4226,6 +4238,7 @@ concrete pump	混凝土泵	混凝土泵	hùnníngtǔ bèng	wahn-yìhng-tóu bām
 concrete slab	混凝土板块	混凝土板塊	hùnníngtǔ bǎnkuài	wahn-yìhng-tóu báan-faai	
 condition of one's eyes; eye condition	眼睛状况	眼睛狀況	yǎnjing zhuàngkuàng	ngáahn-jīng johng-fong	
 condolence book	吊唁簿	吊唁簿	diàoyànbù	diu-yihn-bouh	
+conference information	会讯	會訊	huìxùn	wúi-seun	
 confidential/intimate thing	密事	密事	mìshì	maht-sih	
 "conflict diamonds"	冲突钻石	衝突鑽石	chōngtū zuànshí	chūng-daht jyun-sehk	
 conformity; follow-the-crowd behaviour	从众心理	從眾心理	cóngzhòng xīnlǐ	chùhng-jung sām-léih	
@@ -4606,6 +4619,7 @@ Custer	卡斯特	卡斯特	Kǎsītè	Kā-sī-dahk
 custody (of children)	抚养权	撫養權	fǔyǎngquán	fú-yéuhng-kyùhn	
 customer service	客服	客服	kèfú	haak-fuhk	
 customer services hotline	客户服务热线	客戶服務熱線	kèhù fúwù rèxiàn	haak-wuh fuhk-mouh yiht-sin	
+customer suggestion form; customer feedback form	顾客意见表	顧客意見表	gùkè yìjian biǎo	gu-haak yi-gin bíu	
 customized (lit. self-defined)	自定义	自定義	zìdìngyì	jih-dihng-yih	
 Customs Department	海关部门	海關部門	Hǎiguān Bùmén	Hói-gwāan Bouh-mùhn	
 cut/break to pieces	砍碎	砍碎	kǎnsuì	hám-seui	
@@ -4933,6 +4947,7 @@ decision paralysis	选择困难症	選擇困難症	xuǎnzé kùnnánzhèng	syún
 Decker	德克尔	德克爾	Dékè'ěr	Dāk-hāk-yíh	
 declare righteous	称义	稱義	chēngyì	chīng-yih	
 decolonisation	去殖民化	去殖民化	qùzhímínhuà	heui-jihk-màhn-fa	
+decompress (data); dispel stress	解压	解壓	jiěyā	gáai-ngaat	
 deconstruction (literary)	解构主义	解構主義	jiěgòuzhǔyì	gáai-kau-jyú-yih	
 De Custine	德屈斯蒂纳	德屈斯蒂納	Déqūsīdìnà	Dāk-wāt-sī-dai-naahp	
 Dedan	底但	底但	Dǐdàn	Dái-daahn	dˈidæn
@@ -4984,6 +4999,7 @@ Deli (surname)	德利	德利	Délì	Dāk-leih
 Deli (surname)	戴利	戴利	Dàilì	Daai-leih	
 delivered up to (execution etc)	交去	交去	jiāoqu	gāau-heui	
 <HK?> delivery	派递	派遞	pàidì	paai-daih	
+delivery box (for mail, forms etc)	投递箱	投遞箱	tóudìxiāng	tàuh-daih-sēung	
 Dell (given name)	德尔	德爾	Dé'ěr	Dāk-yíh	
 Dellinger	德林格	德林格	Délíngé	Dāk-làhm-gaak	
 Dello	德洛	德洛	Déluò	Dāk-lohk	
@@ -5272,6 +5288,7 @@ dislike	不喜欢	不喜歡	bù xǐhuan	bāt héi-fūn
 disloyal	不忠贞	不忠貞	bù zhōngzhēn	bāt jūng-jīng	
 dismantle into components	分拆	分拆	fēnchāi	fān-chaak	
 dismiss; put out of (a stewardship etc)	革去	革去	géqu	gaak-heui	
+dismiss with one laugh	一笑而过	一笑而過	yīxiào'érguò	yāt-siu-yìh-gwo	
 Disney	迪士尼	迪士尼	Díshìní	Dihk-sih-nèih	
 disorderly (person etc; lit. not accept rule)	不守规矩	不守規矩	bù shǒu guīju	bāt sáu kwāi-géui	dˌɪsˈʊədəli
 (disorderly) pile of stones	乱石堆	亂石堆	luànshíduī	lyuhn-sehk-dēui	
@@ -5553,6 +5570,7 @@ drink completely	喝尽	喝盡	hējìn	hot-jeuhn
 drink dry (?)	喝干	喝乾	hēgān	hot-gōn	
 drinking matches	竞饮	競飲	jìngyǐn	gihng-yám	
 drink offering	浇祭	澆祭	jiāojì	gīu-jai	
+drinks bar (at buffet etc)	饮料吧	飲料吧	yǐnliào bā	yám-líu bā	
 drink to the full; be drenched with	喝饱	喝飽	hēbǎo	hot-báau	
 drink until	喝到	喝到	hēdào	hot-dou	
 Drinkwater (surname)	德林克沃特	德林克沃特	Délínkèwòtè	Dāk-làhm-hāk-yūk-dahk	
@@ -6676,6 +6694,7 @@ feel devastated	濒临崩溃边缘	瀕臨崩潰邊緣	bīnlín bēngkuì biānyu
 feel discouraged	感到灰心	感到灰心	gǎndào huīxīn	gám-dou fūi-sām	
 feel guilty; feel responsible (for another's misdeed etc)	感到内疚	感到內疚	gǎndào nèijiù	gám-dou noih-gau	
 <netspeak> feeling left out of the crowd	说闹觉余	說鬧覺余	shuōnàojuéyú	syut-naauh-gok-yùh	
+feeling of frustration or defeat	挫败感	挫敗感	cuòbàigǎn	cho-baaih-gám	
 feeling OK?	还好吗	還好嗎	hái hǎo ma	wàahn hóu mā	
 feelings of guilt	愧疚感	愧疚感	kuìjiùgǎn	kwai-gau-gám	
 feel much emotional distress	感到非常难过	感到非常難過	gǎndào fēicháng nánguò	gám-dou fēi-sèuhng nàahn-gwo	
@@ -6795,6 +6814,7 @@ Festus	非斯都	非斯都	Fēisīdū	Fēi-sī-dōu
 fetch and take away	取走	取走	qǔzǒu	chéui-jáu	
 <comp.> fetch (of CPU instruction)	读取	讀取	dúqǔ	duhk-chéui	
 Feteşti	费泰什蒂	費泰什蒂	Fèitàishídì	Fai-taai-sahm-dai	
+fettuccine (broad pasta)	宽面	寬麵	kuānmiàn	fūn-mihn	
 Feuerstein	福伊尔斯坦	福伊爾斯坦	Fúyī'ěrsītǎn	Fūk-yī-yíh-sī-táan	
 few and without (military) power	势孤力弱	勢孤力弱	shìgū-lìruò	sai-gū-lihk-yeuhk	
 Feynman	范曼	范曼	Fànmàn	Faahn-maahn	
@@ -8002,6 +8022,7 @@ government shutdown (US)	政府关门	政府關門	zhèngfǔ guānmén	jing-fú 
 Governor's Cup (award)	省长杯	省長杯	shěngzhǎngbēi	sáang-jéung-būi	
 Gower	高尔	高爾	Gāo'ěr	Gōu-yíh	
 go while holding in the mouth	叼去	叼去	diāoqu	dīu-heui	
+go with the flow	随大流	隨大流	suídàliú	chèuih-daaih-làuh	
 Goya	戈雅	戈雅	Gēyǎ	Gwō-ngáh	
 Gozan	歌散	歌散	Gēsàn	Gō-saan	ɡˈəʊzæn
 Gozo (island)	戈佐岛	戈佐島	Gēzuǒdǎo	Gwō-jo-dóu	
@@ -9022,6 +9043,7 @@ hewn; chiseled well	凿好	鑿好	záohǎo	johk-hóu
 hew out (lit. chisel become)	凿成	鑿成	záochéng	johk-sìhng	
 hew (stones etc)	凿石	鑿石	záoshí	johk-sehk	
 Hexi District (in Tianjin)	河西区	河西區	Héxī Qū	Hòh-sāi Kēui	
+hey-ha!	嘿哈	嘿哈	hēihā	hēi-hā	
 Heyang (county, in Shaanxi)	合阳县	合陽縣	Héyáng Xiàn	Hahp-yèuhng Yún	
 Heydrich	海德里希	海德里希	Hǎidélǐxī	Hói-dāk-léuih-hēi	
 Heydrich (old translation)	海德勒	海德勒	Hǎidélè	Hói-dāk-lahk	
@@ -9750,6 +9772,7 @@ Ili Kazakh Autonomous Prefecture (in Xinjiang)	伊犁哈萨克自治州	伊犁�
 Ilkham	伊利哈姆	伊利哈姆	Yīlìhāmǔ	Yī-leih-hā-móuh	
 illegal immigration	非法移民	非法移民	fēifǎ yímín	fēi-faat yìh-màhn	
 Illia	伊利亚	伊利亞	Yīlìyà	Yī-leih-nga	
+illicit drugs	违禁药物	違禁藥物	wéijìn yàowù	wàih-gam yeuhk-maht	
 illicit pleasure	肉体欢愉	肉體歡愉	ròutǐ huānyú	yuhk-tái fūn-yùh	
 Illinger	伊林加	伊林加	Yīlínjiā	Yī-làhm-gā	
 Illinois (older translation?)	伊利诺州	伊利諾州	Yīlìnuò Zhōu	Yī-leih-nohk Jāu	
@@ -9814,6 +9837,7 @@ inauguration	落成礼	落成禮	luòchénglǐ	lohk-sìhng-láih	ˈɪnˈʊəɡj�
 inclement weather; bad weather	天气恶劣	天氣惡劣	tiānqì èliè	tīn-hei ngok-lyut	
 inclement weather (cold wind and rain)	寒风冷雨	寒風冷雨	hánfēnglěngyǔ	hòhn-fūng-láahng-yúh	
 incline to doing(?)	偏行	偏行	piānxíng	pīn-hàhng	
+<TW> include (in the price etc)	含附	含附	hánfù	hàhm-fuh	
 inclusive design; universal design	包容性设计	包容性設計	bāoróngxìng shèjì	bāau-yùhng-sing chit-gai	
 income (Cantonese?)	入息	入息	rùxī	yahp-sīk	ˈɪŋkʌm
 in comparison by far (?)	远比	遠比	yuǎnbǐ	yúhn-béi	
@@ -9827,6 +9851,7 @@ index entry	索引条目	索引條目	suǒyǐn tiáomù	sok-yáhn tìuh-muhk
 Indiana	印第安纳州	印第安納州	Yìndì'ānnà Zhōu	Yan-daih-ngōn-naahp Jāu	ˌɪndɪˈænə
 Indian (person)	印度人	印度人	Yìndùrén	Yan-douh-yàhn	
 indicator (on a balance; lit. balance mark)	秤标	秤標	chèngbiāo	ching-bīu	ˈɪndɪkeɪtɚ
+indigenous (culture etc)	原生态	原生態	yuánshēngtài	yùhn-sāang-taai	
 indigenous language	原住民语	原住民語	yuánzhùmínyǔ	yùhn-jyuh-màhn-yúh	
 indigenous language	原住民语言	原住民語言	yuánzhùmín yǔyán	yùhn-jyuh-màhn yúh-yìhn	
 indispensable	非有不可	非有不可	fēiyǒu-bùkě	fēi-yáuh-bāt-hó	
@@ -9861,6 +9886,7 @@ Inger; Inge	英格	英格	Yīnggé	Yīng-gaak
 Ingersoll	英格索尔	英格索爾	Yīnggésuǒ'ěr	Yīng-gaak-sok-yíh	
 Ingo	英戈	英戈	Yīnggē	Yīng-gwō	
 Ingolstadt	戈尔施塔特	戈爾施塔特	Gē'ěrshītǎtè	Gwō-yíh-sī-taap-dahk	
+ingredient (food)	食材	食材	shícái	sihk-chòih	
 Ingrid	英格丽	英格麗	Yīnggélì	Yīng-gaak-laih	
 Ingush (language)	印古什语	印古什語	Yìngǔshíyǔ	Yan-gú-sahm-yúh	
 Ingvard	英瓦尔德	英瓦爾德	Yīngwǎ'ěrdé	Yīng-ngáh-yíh-dāk	
@@ -9891,6 +9917,7 @@ in overflowing measure; in full might	滥施	濫施	lànshī	laahm-sī
 In Pictures: (used in newspaper headings etc)	组图	組圖	Zǔtú	Jóu-tòuh	
 (in process of) drowning	快要淹死	快要淹死	kuàiyào yānsǐ	faai-yiu yīm-séi	
 <comp.> input field	输入字段	輸入字段	shūrù zìduàn	syū-yahp jih-dyuhn	
+inquire about the price; ask for a quote	询价	詢價	xúnjià	sēun-ga	
 inquire of	求问	求問	qiúwèn	kàuh-mahn	
 inquirer (of fortune-teller etc)	求问者	求問者	qiúwènzhě	kàuh-mahn-jé	
 inquisition	异端裁判所	異端裁判所	yìduān cáipànsuǒ	yih-dyūn chòih-pun-só	
@@ -9945,6 +9972,7 @@ international human rights law	国际人权法	國際人權法	guójì rénquán
 international school	国际学校	國際學校	guójì xuéxiào	gwok-jai hohk-haauh	
 International Space Station; ISS	国际太空站	國際太空站	Guójì Tàikōngzhàn	Gwok-jai Taai-hūng-jaahm	
 International Standard Bible Encyclopedia	国际标准圣经百科全书	國際標準聖經百科全書	Guójì Biāozhǔn Shèngjīng Bǎikēquánshū	Gwok-jai Bīu-jéun Sing-gīng Baak-fō-chyùhn-syū	
+international student	国际生	國際生	guójìshēng	gwok-jai-sāang	
 Internet cable (to a house)	牵网线	牽網線	qiānwǎngxiàn	hīn-móhng-sin	
 Internet celebrity	网红	網紅	wǎnghóng	móhng-hùhng	
 Internet chat rooms	网上聊天室	網上聊天室	wǎngshàng liáotiānshì	móhng-seuhng lìuh-tīn-sāt	
@@ -11629,6 +11657,8 @@ lacked all hope of being happy (lit. felt despair/hopeless)	感到绝望	感到�
 lack nothing; complete with nothing lacking	一无所缺	一無所缺	yīwú-suǒquē	yāt-mòuh-só-kyut	
 Lacour	拉库尔	拉庫爾	Lākù'ěr	Lāai-fu-yíh	
 La Croix (Catholic newspaper)	十字架报	十字架報	Shízìjiàbào	Sahp-jih-gá-bou	
+lacto-ovo vegetarian	奶蛋素	奶蛋素	nǎidànsù	náaih-dáan-sou	
+lacto-ovo vegetarian	蛋奶素	蛋奶素	dànnǎisù	dáan-náaih-sou	
 lactose intolerance	乳糖不耐症	乳糖不耐症	rǔtáng bùnàizhèng	yúh-tòhng bāt-noih-jing	
 Ladan	拉但	拉但	Lādàn	Lāai-daahn	lˈeɪdæn
 ladder's top	梯顶	梯頂	tīdǐng	tāi-díng	
@@ -12277,6 +12307,7 @@ Lingshou (county, in Hebei)	灵寿县	靈壽縣	Língshòu Xiàn	Lìhng-sauh Yú
 Lingtai County	灵台县	靈台縣	Língtái Xiàn	Lìhng-tòih Yún	
 Lingui (county, in Guangxi)	临桂县	臨桂縣	Línguì Xiàn	Làhm-gwai Yún	
 Lingui District	临桂区	臨桂區	Línguì Qū	Làhm-gwai Kēui	
+linguine	细扁面	細扁麵	xìbiǎnmiàn	sai-bín-mihn	
 linguistic expertise	语言造诣	語言造詣	yǔyán zàoyì	yúh-yìhn chou-ngaih	
 Lingwu (in Ningxia)	灵武	靈武	Língwǔ	Lìhng-móuh	
 Lingwu (in Ningxia)	灵武市	靈武市	Língwǔ Shì	Lìhng-móuh Síh	
@@ -12642,6 +12673,7 @@ Lourenço; Lorenz	洛伦索	洛倫索	Luòlúnsuǒ	Lohk-lèuhn-sok
 Louvain	卢万	盧萬	Lúwàn	Lòuh-maahn	
 Louvain	卢万市	盧萬市	Lúwàn Shì	Lòuh-maahn Síh	
 Louviers	卢维耶	盧維耶	Lúwéiyē	Lòuh-wàih-yèh	
+Louvre (museum)	卢浮宫	盧浮宮	Lúfúgōng	Lòuh-fàuh-gūng	
 Louxing District	娄星区	婁星區	Lóuxīng Qū	Làuh-sīng Kēui	
 Louy	卢伊	盧伊	Lúyī	Lòuh-yī	
 lovable	可喜爱	可喜愛	kě xǐ'ài	hó héi-ngoi	
@@ -12908,6 +12940,7 @@ Maaz	玛斯	瑪斯	Mǎsī	Máh-sī	mˈeɪæz
 Maaziah	玛西亚	瑪西亞	Mǎxīyà	Máh-sāi-nga	
 Mabian (county, in Sichuan)	马边县	馬邊縣	Mǎbiān Xiàn	Máh-bīn Yún	
 Mabilat	马比拉	馬比拉	Mǎbǐlā	Máh-béi-lāai	
+Macadamia nut 	夏威夷果仁	夏威夷果仁	Xiàwēiyí guǒrén	Hah-wāi-yìh gwó-yàhn	
 MacArthur	麦克阿瑟	麥克阿瑟	Màikè'āsè	Mahk-hāk-a-sāt	
 Macbeth (pinyin uncertain)	马克白	馬克白	Mǎkèbó	Máh-hāk-baahk	mækbˈɛθ
 Maccabee(an)	马加比	馬加比	Mǎjiābǐ	Máh-gā-béi	
@@ -13968,6 +14001,7 @@ Ministry of Tourism and Sports (Thailand 2003-)	旅游与体育部	旅游與體�
 minivan	小型货车	小型貨車	xiǎoxíng huòchē	síu-yìhng fo-chē	
 Minnesota	明尼苏达州	明尼蘇達州	Míngnísūdá Zhōu	Mìhng-nèih-sōu-daaht Jāu	mˌɪnɪsˈəʊtə
 Minni	米尼	米尼	Mǐní	Máih-nèih	mˈɪnaɪ
+minority group	少数群体	少數群體	shǎoshù qúntǐ	síu-sou kwàhn-tái	
 minor prophets	小先知书	小先知書	xiǎo xiānzhī shū	síu sīn-jī syū	
 Minos	米诺斯	米諾斯	Mǐnuòsī	Máih-nohk-sī	
 Minotaur	弥诺陶洛斯	彌諾陶洛斯	Mínuòtáoluòsī	Mèih-nohk-tòuh-lohk-sī	mˈaɪnətʊə
@@ -15097,6 +15131,7 @@ Norwich (New York state)	诺威奇	諾威奇	Nuòwēiqí	Nohk-wāi-kèih
 nose ring	鼻环	鼻環	bíhuán	beih-wàahn	
 nose slit	裂鼻	裂鼻	lièbí	liht-beih	
 <TW> no smoking	禁止吸菸	禁止吸菸	jìnzhǐ xīyān	gam-jí kāp-yīn	
+<TW> no smoking	禁菸	禁菸	jìnyān	gam-yīn	
 no snow	无雪	無雪	wú xuě	mòuh syut	
 no speech and no words	无言无语	無言無語	wúyán-wúyǔ	mòuh-yìhn-mòuh-yúh	
 Nostradamus (pinyin uncertain)	诺斯特拉达穆斯	諾斯特拉達穆斯	Nuòsītèledámùsī	Nohk-sī-dahk-lāai-daaht-muhk-sī	
@@ -15170,6 +15205,7 @@ Novik	诺维克	諾維克	Nuòwéikè	Nohk-wàih-hāk
 Novoazovsk	新亚速斯克	新亞速斯克	Xīnyàsùsīkè	Sān-nga-chūk-sī-hāk	
 Novosibirsk (lit. New Siberia)	新西伯利亚	新西伯利亞	Xīnxībólìyà	Sān-sāi-ba-leih-nga	nˌɒvəsɪbˈɪəsk
 no way (to do something)	没有办法	沒有辦法	méiyǒu bànfǎ	muht-yáuh baahn-faat	
+no way to go back	无路可退	無路可退	wúlùkětuì	mòuh-louh-hó-teui	
 no way to survive	无法生存	無法生存	wúfǎ shēngcún	mòuh-faat sāang-chyùhn	
 now known as; now called	现称	現稱	xiànchēng	yihn-chīng	
 now (less common way of saying 'now'?)	现正	現正	xiànzhèng	yihn-jing	
@@ -15499,6 +15535,7 @@ Oren (Bible)	奥连	奧連	Àolián	Ou-lìhn	ˈʊəɛn
 Orenburg	奥伦堡	奧倫堡	Àolúnbǎo	Ou-lèuhn-bóu	
 Oren (modern)	奥云	奧雲	Àoyún	Ou-wàhn	ˈʊəɛn
 organic food	有机食物	有機食物	yǒujī shíwù	yáuh-gēi sihk-maht	
+organic (without farm chemicals)	无农药	無農藥	wú nóngyào	mòuh nùhng-yeuhk	
 organized (into filing cabinets etc)	分类归档	分類歸檔	fēnlèi guīdàng	fān-leuih gwāi-dong	ˈʊəɡənaɪzd
 organizer (individual organising an event etc)	策展人	策展人	cèzhǎnrén	chaak-jín-yàhn	ˈʊəɡənaɪzɚ
 Oriana	奥里安娜	奧里安娜	Àolǐ'ānnà	Ou-léih-ngōn-nàh	
@@ -15691,6 +15728,8 @@ Pailing	派林	派林	Pàilín	Paai-làhm
 painful grief	痛悲	痛悲	tòngbēi	tung-bēi	
 pain of grief (of losing loved ones in death)	丧亲之痛	喪親之痛	sàngqīnzhītòng	song-chān-jī-tung	
 painted lady butterfly; vanessa cardui	小红蛱蝶	小紅蛺蝶	xiǎohóng-jiádié	síu-hùhng-gaap-dihp	
+painting (artist's activity)	画作	畫作	huàzuò	wá-jok	
+painting (work of art)	画作品	畫作品	huàzuòpǐn	wá-jok-bán	
 paint sprayer	喷涂机	噴塗機	pēntújī	pan-tòuh-gēi	
 pair of horns	双角	雙角	shuāngjiǎo	sēung-gok	
 pair of legs	双腿	雙腿	shuāngtuǐ	sēung-téui	
@@ -15699,6 +15738,8 @@ Paisiello	帕伊西埃洛	帕伊西埃洛	Pàyīxī'āiluò	Paak-yī-sāi-āai-l
 Paisley	佩斯利	佩斯利	Pèisīlì	Pui-sī-leih	
 Paiwan (language)	排湾语	排灣語	Páiwānyǔ	Pàaih-wāan-yúh	
 Paiwan tribe (Taiwan)	排湾族	排灣族	Páiwānzú	Pàaih-wāan-juhk	
+Paiyi (ethnicity from Yunnan)	摆夷	擺夷	Bǎiyí	Báai-yìh	
+Paiyi tribe (from Yunnan)	摆夷族	擺夷族	Bǎiyízú	Báai-yìh-juhk	
 <coll./PRC?> pal; compatriot	胞友	胞友	bāoyǒu	bāau-yáuh	
 Palacio de Generalife	赫内拉利费宫	赫內拉利費宮	Hènèilālìfèigōng	Hāk-noih-lāai-leih-fai-gūng	
 palaeography	古代文献记载	古代文獻記載	gǔdài wénxiàn jìzǎi	gú-doih màhn-hin gei-joi	
@@ -16115,6 +16156,7 @@ Peruda; Perida	比路达	比路達	Bǐlùdá	Béi-louh-daaht	pɚˈʉːdʌ
 Peruvians	秘鲁人	秘魯人	Bìlǔrén	Bei-lóuh-yàhn	
 Pesantes	佩桑特斯	佩桑特斯	Pèisāngtèsī	Pui-sōng-dahk-sī	
 Peshitta (Syriac version)	伯西托	伯西托	Bóxītuō	Baak-sāi-tok	
+pesto sauce (pine nuts etc)	青酱	青醬	qīngjiàng	chīng-jeung	
 Pest (plains near Budapest)	佩斯	佩斯	Pèisī	Pui-sī	
 Petaluma	佩塔卢马	佩塔盧馬	Pèitǎlúmǎ	Pui-taap-lòuh-máh	
 Peter	彼得	彼得	Bǐdé	Béi-dāk	
@@ -16194,6 +16236,7 @@ phone calls within the same network	网内互打	網內互打	wǎngnèi-hùdǎ	m
 phone tariffs	电话收费	電話收費	diànhuà shōufèi	dihn-wah sāu-fai	
 phonocentrism	语音中心主义	語音中心主義	yǔyīnzhōngxīnzhǔyì	yúh-yām-jūng-sām-jyú-yih	
 phony check; fake cheque	假支票	假支票	jiǎ zhīpiào	gá jī-piu	
+photography point (for tourists)	摄影点	攝影點	shèyǐng diǎn	sip-yíng dím	
 photolysis	光解作用	光解作用	guāngjiězuòyòng	gwōng-gáai-jok-yuhng	
 Phrygia	弗里吉亚	弗里吉亞	Fúlǐjíyà	Fāt-léih-gāt-nga	fɹˈɪɡiʌ
 Phygelus	腓吉路	腓吉路	Féijílù	Fèih-gāt-louh	fˌaɪdʒˈɛləs
@@ -16539,6 +16582,7 @@ Porath	波拉特	波拉特	Bōlātè	Bō-lāai-dahk
 porcelain artisan	瓷匠	瓷匠	cíjiàng	chìh-jeuhng	
 porcelain powder	瓷粉	瓷粉	cífěn	chìh-fán	
 Porch of the Throne	宝座廊	寶座廊	bǎozuòláng	bóu-joh-lòhng	
+porcini mushroom (boletus edulis)	牛肝菌	牛肝菌	niúgānjūn	ngàuh-gōn-kwán	
 porneia	波尼亚	波尼亞	bōníyà	bō-nèih-nga	
 porneia (πορνεία)	波尼阿	波尼阿	bōní'ā	bō-nèih-a	
 porridge (made of oats)	燕麦粥	燕麥粥	yànmàizhōu	yin-mahk-jūk	
@@ -16727,6 +16771,7 @@ procrastinationitis	拖延症	拖延症	tuōyánzhèng	tō-yìhn-jing
 Proctor (surname)	普罗克特	普羅克特	Pǔluókètè	Póu-lòh-hāk-dahk	
 produce baldness; shave all hair off	剃光头发	剃光頭髮	tìguāng tóufa	tai-gwōng tàuh-faat	
 producing fruit	结果实	結果實	jiē guǒshí	git gwó-saht	
+production-oriented approach (language teaching via simulated situations/tasks)	产出导向法	產出導向法	chǎnchū dǎoxiàng fǎ	cháan-chēut douh-heung faat	
 product placement (marketing method)	植入式营销	植入式營銷	zhírùshì yíngxiāo	jihk-yahp-sīk yìhng-sīu	
 professed Christian	自称基督徒	自稱基督徒	zìchēng Jīdūtú	jih-chīng Gēi-dūk-tòuh	
 professional beggar	职业乞丐	職業乞丐	zhíyè qǐgài	jīk-yihp hāt-koi	
@@ -16914,6 +16959,7 @@ Putin (alternate translation)	普丁	普丁	Pǔdīng	Póu-dīng
 put in first place	放在首位	放在首位	fàng zài shǒuwèi	fong joih sáu-waih	
 put off; later on	迟些	遲些	chíxiē	chìh-sē	
 put someone to death	置之死地	置之死地	zhìzhī-sǐdì	ji-jī-séi-deih	
+put together a jigsaw puzzle	拼拼图	拼拼圖	pīn pīntú	ping ping-tòuh	
 Putuo District	普陀区	普陀區	Pǔtuó Qū	Póu-tòh Kēui	
 Putuo District	普陀区	普陀區	Pǔtuó Qū	Póu-tòh Kēui	
 Puyang County	濮阳县	濮陽縣	Púyáng Xiàn	Buhk-yèuhng Yún	
@@ -17368,6 +17414,7 @@ received free	白白地得来	白白地得來	báibái de dé lái	baahk-baahk d
 received no announcement or news (?)	一无所闻	一無所聞	yīwú-suǒwén	yāt-mòuh-só-màhn	
 receive in a big way	大受	大受	dàshòu	daaih-sauh	
 receive one's soul (life) as a spoil	捡回性命	撿回性命	jiǎnhuí xìngmìng	gím-wùih sing-mihng	
+recent developments; recent progress	最新进展	最新進展	zuìxīn jìnzhǎn	jeui-sān jeun-jín	
 Reception Day; open day; open house	开放日	開放日	kāifàngrì	hōi-fong-yaht	
 recessive genes	隐性基因	隱性基因	yǐnxìng jīyīn	yán-sing gēi-yān	
 Rechab	利甲	利甲	Lìjiǎ	Leih-gaap	ɹˈikæb
@@ -18192,6 +18239,7 @@ Sajia County	萨迦县	薩迦縣	Sàjiā Xiàn	Saat-gā Yún
 Sakae Kubo (author)	久保荣	久保榮	Jiǔ Bǎoróng	Gáu Bóu-wìhng	
 Sakharov	萨哈罗夫	薩哈羅夫	Sàhāluófū	Saat-hā-lòh-fū	sˈækəɹəv
 Sakkuth	撒固	撒固	Sāgù	Saat-gu	sˈækəθ
+salad bar	沙拉吧	沙拉吧	shālā bā	sā-lāai bā	
 Salamanca	萨拉曼卡	薩拉曼卡	Sàlāmànkǎ	Saat-lāai-maahn-kā	
 Salamea	萨拉梅亚	薩拉梅亞	Sàlāméiyà	Saat-lāai-mùih-nga	
 Salamis	撒拉米	撒拉米	Sālāmǐ	Saat-lāai-máih	
@@ -18582,7 +18630,9 @@ Seder	逾越节家宴	逾越節家宴	Yúyuèjié jiāyàn	Yùh-yuht-jit gā-yin
 sedges	莎草	莎草	suōcǎo	sā-chóu	
 sedition	煽动叛乱	煽動叛亂	shāndòng pànluàn	sin-duhng buhn-lyuhn	sˌɪdˈɪʃən
 see/find what one was searching for (?)	寻见	尋見	xúnjian	chàhm-gin	
+Seediq Bale	赛德克巴莱	賽德克巴萊	Sàidékè Bālái	Choi-dāk-hāk Bā-lòih	
 Seediq (language)	赛德克语	賽德克語	Sàidékèyǔ	Choi-dāk-hāk-yúh	
+Seediq (Nantou aboriginal tribe)	赛德克	賽德克	Sàidékè	Choi-dāk-hāk	
 seedless grapes	无核葡萄	無核葡萄	wúhé pútao	mòuh-haht pòuh-tòuh	
 seedlings of fragrant flowers (?)	香花苗	香花苗	xiānghuāmiáo	hēung-fā-mìuh	
 see everything	遍察	遍察	biànchá	pin-chaat	
@@ -18638,6 +18688,7 @@ self-service check-in machine	自助挂号机	自助掛號機	zìzhù guàhàoj�
 self-sown?	自生	自生	zìshēng	jih-sāang	
 self-sustaining	能自给自足	能自給自足	néng zìjǐ-zìzú	nàhng jih-kāp-jih-jūk	
 self-will	坚持己见	堅持己見	jiānchí jǐjiàn	gīn-chìh géi-gin	
+self-worth	自我价值	自我價值	zìwǒ jiàzhí	jih-ngóh ga-jihk	
 self check-in (at library)	自助还书	自助還書	zìzhù huánshū	jih-joh wàahn-syū	
 selfie (informal photographic self-portrait)	自拍照	自拍照	zìpāizhào	jih-paak-jiu	
 selfie stick (for self-portraits without a timer)	自拍杆	自拍桿	zìpāigǎn	jih-paak-gōn	
@@ -18695,6 +18746,7 @@ Seni District	色尼区	色尼區	Sèní Qū	Sīk-nèih Kēui
 senior female schoolmate	学姐	學姐	xuéjiě	hohk-jé	
 <TW> senior (lit. age of leisure)	乐龄	樂齡	lèlíng	lohk-lìhng	
 senior research assistant	资深研究助理	資深研究助理	zīshēn yánjiū zhùlǐ	jī-sām yìhn-gau joh-léih	
+seniors (older than oneself in college etc)	前辈们	前輩們	qiánbèimen	chìhn-bui-mùhn	
 Senir	示尼珥	示尼珥	Shìní'ěr	Sih-nèih-yih	sˈinʌ
 Sennacherib	西拿基立	西拿基立	Xīnájīlì	Sāi-nàh-gēi-lahp	sənˈækʌɹɪb
 sensational tales	煽情故事	煽情故事	shānqíng gùshi	sin-chìhng gu-sih	
@@ -19265,6 +19317,8 @@ Shushan District	蜀山区	蜀山區	Shǔshān Qū	Suhk-sāan Kēui
 Shuster	舒斯特	舒斯特	Shūsītè	Syū-sī-dahk	
 Shuthelah	书提拉	書提拉	Shūtílā	Syū-tàih-lāai	ʃˈʉːθəlʌ
 shut the door	关上门	關上門	guānshang mén	gwāan-séuhng mùhn	
+shuttle service	接驳专车服务	接駁專車服務	jiēbó zhuānchē fúwù	jip-bok jyūn-chē fuhk-mouh	
+shuttle service	接驳服务	接駁服務	jiēbó fúwù	jip-bok fuhk-mouh	
 shut well (?)	关好	關好	guānhǎo	gwāan-hóu	
 Shuyang (county, in Jiangsu)	沭阳县	沭陽縣	Shùyáng Xiàn	Seuht-yèuhng Yún	
 Shāh	沙阿	沙阿	Shā'ā	Sā-a	
@@ -19501,6 +19555,7 @@ Slovenian (language)	斯洛文尼亚语	斯洛文尼亞語	Sīluòwénníyàyǔ	
 Slovenians; Slovenian person or people	斯洛文尼亚人	斯洛文尼亞人	Sīluòwénníyàrén	Sī-lohk-màhn-nèih-nga-yàhn	
 slow as a tortoise	龟速	龜速	guīsù	gwāi-chūk	
 slow down	拖慢	拖慢	tuōmàn	tō-maahn	
+slow down (one's pace)	放缓脚步	放緩腳步	fàng huǎn jiǎobù	fong wùhn geuk-bouh	
 slowed down	缓慢下来	緩慢下來	huǎnmàn xialai	wùhn-maahn hah-lòih	
 slow to anger	不轻易发怒	不輕易發怒	bù qīngyì fānù	bāt hēng-yih faat-nouh	
 Slytherin	斯莱特林	斯萊特林	Sīláitèlín	Sī-lòih-dahk-làhm	
@@ -19560,6 +19615,8 @@ social anthropology	社会人类学	社會人類學	shèhuì rénlèixué	séh-w
 <PRC> social art	社会艺术	社會藝術	shèhuì yìshù	séh-wúi ngaih-seuht	
 Social Art Grade Exams (China's 10-grade music-exam system)	社会艺术水平考级	社會藝術水平考級	Shèhuì Yìshù Shuǐpíng Kǎojí	Séh-wúi Ngaih-seuht Séui-pìhng Háau-kāp	
 social centre (house with many visitors)	社交中心	社交中心	shèjiāo zhōngxīn	séh-gāau jūng-sām	
+social culture (of students etc)	社交文化	社交文化	shèjiāo wénhuà	séh-gāau màhn-fa	
+social environment (of students etc)	社交环境	社交環境	shèjiāo huánjìng	séh-gāau wàahn-gíng	
 social gatherings	社交聚会	社交聚會	shèjiāo jùhuì	séh-gāau jeuih-wuih	
 social history	社会史	社會史	shèhuìshǐ	séh-wúi-sí	
 <HK> social housing	公屋	公屋	gōngwū	gūng-ngūk	
@@ -19568,6 +19625,7 @@ socializing (lit. attending social activities)	参加社交活动	參加社交�
 social media	社交媒体	社交媒體	shèjiāo méitǐ	séh-gāau mùih-tái	
 social networking (browsing social networks)	浏览社交网站	瀏覽社交網站	liúlǎn shèjiāo wǎngzhàn	làuh-láahm séh-gāau móhng-jaahm	
 social networking websites	社交网站	社交網站	shèjiāo wǎngzhàn	séh-gāau móhng-jaahm	
+social orientation (in student community etc)	社交定位	社交定位	shèjiāo dìngwèi	séh-gāau dihng-wái	
 social psychologist	社会心理学家	社會心理學家	shèhuì xīnlǐxuéjiā	séh-wuih sām-léih-hohk-gā	
 Society of Friends	公谊会	公誼會	Gōngyìhuì	Gūng-yìh-wúi	
 Socinians	索齐尼派	索齊尼派	Suǒqínípài	Sok-chàih-nèih-paai	
@@ -19732,6 +19790,7 @@ Sozos	索罗兹	索羅茲	Suǒluózī	Sok-lòh-jī
 space debris; space junk	太空废物	太空廢物	tàikōng fèiwù	taai-hūng fai-maht	
 space travel	太空旅行	太空旅行	tàikōng lǚxíng	taai-hūng léuih-hàhng	
 Spacil	斯帕奇尔	斯帕奇爾	Sīpàqí'ěr	Sī-paak-kèih-yíh	
+spaghetti bolognaise (non-vegetarian)	肉酱面	肉醬麵	ròujiàngmiàn	yuhk-jeung-mihn	
 Spalletti	史巴利堤	史巴利堤	Shǐbālìdī	Sí-bā-leih-tàih	
 Spalletti	斯帕莱蒂	斯帕萊蒂	Sīpàláidì	Sī-paak-lòih-dai	
 Spanish-type	西班牙式	西班牙式	Xībānyáshì	Sāi-bāan-ngàh-sīk	
@@ -19975,6 +20034,7 @@ step on; (start) walking on	踏上	踏上	tàshang	daahp-séuhng
 Stepping on sedge (poem)	踏莎行	踏莎行	Tà Suō Xíng	Daahp Sā Hàhng	
 Steptoe	斯特普托	斯特普托	Sītèpǔtuō	Sī-dahk-póu-tok	
 step towards	步向	步向	bùxiàng	bouh-heung	
+stereo (equipment) volume	音响音量	音響音量	yīnxiǎng yīnliàng	yām-héung yām-leuhng	
 stereotypical	标签化	標簽化	biāoqiānhuà	bīu-chīm-fa	
 sterilization surgery	绝育手术	絕育手術	juéyù shǒushù	jyuht-yuhk sáu-seuht	
 Sterling (surname)	斯特林	斯特林	Sītèlín	Sī-dahk-làhm	
@@ -20111,6 +20171,7 @@ Stuart	斯图尔特	斯圖爾特	Sītú'ěrtè	Sī-tòuh-yíh-dahk
 stubble (of thorns etc)	残秆	殘稈	cángǎn(r)	chàahn-gón	
 Stubbs	斯塔布斯	斯塔布斯	Sītǎbùsī	Sī-taap-bou-sī	
 Stubenvoll	施图本福尔	施圖本福爾	Shītúběnfú'ěr	Sī-tòuh-bún-fūk-yíh	
+student society	学生社团	學生社團	xuésheng shètuán	hohk-sāang séh-tyùhn	
 Studium Biblicum (abbreviation)	思高	思高	Sī Gāo	Sī Gōu	
 Studium Biblicum version	思高译本	思高譯本	Sī Gāo Yìběn	Sī Gōu Yihk-bún	
 studs of silver	银钉	銀釘	yíndīng	ngàhn-dēng	
@@ -20376,6 +20437,7 @@ Tabitha	塔比莎	塔比莎	Tǎbǐshā	Taap-béi-sā	tˈæbəθʌ
 Tabitha (old translation?)	大比大	大比大	Dàbǐdà	Daaih-béi-daaih	
 table border or frame	桌框	桌框	zhuōkuàng	cheuk-kwāang	
 table manners	餐桌礼仪	餐桌禮儀	cānzhuō lǐyí	chāan-cheuk láih-yìh	
+table reservation	预约用餐	預約用餐	yùyuē yòngcān	yuh-yeuk yuhng-chāan	
 tablet; writing board	字板	字板	zìbǎn	jih-báan	
 tabletop game	桌面游戏	桌面游戲	zhuōmiàn yóuxì	cheuk-mín yàuh-hei	
 tablets of the covenant	约版	約版	yuēbǎn	yeuk-báan	
@@ -20895,6 +20957,7 @@ Theophilus (modern)	狄奥菲鲁斯	狄奧菲魯斯	Dí'àofēilǔsī	Dihk-ou-f�
 theoretical physicist	理论物理学家	理論物理學家	lǐlùn wùlǐxuéjiā	léih-leuhn maht-léih-hohk-gā	
 the original Hebrew	希伯来原文	希伯來原文	Xībólái yuánwén	Hēi-ba-lòih yùhn-màhn	
 the origin of life	生命的起源	生命的起源	shēngmìng de qǐyuán	sāang-mihng dīk héi-yùhn	
+theory and practice	理论与应用	理論與應用	lǐlùn yǔ yìngyòng	léih-leuhn yúh ying-yuhng	
 theos (transliteration)	提奥斯	提奧斯	tí'àosī	tàih-ou-sī	
 the path ahead	前路	前路	qiánlù	chìhn-louh	
 the path of justice (?)	义道	義道	yìdào	yih-douh	
@@ -21039,6 +21102,7 @@ thrill (of fast cars etc)	刺激好玩	刺激好玩	cìjī hǎowán(r)	chi-gīk 
 thrive; grow luxuriantly	生长茂盛	生長茂盛	shēngzhǎng màoshèng	sāng-jéung mauh-sihng	
 throat cancer	咽喉癌	咽喉癌	yānhóu'ái	yīn-hàuh-ngàahm	
 throat(s) stretched forth (lit. crane neck and raise head)	引颈翘首	引頸翹首	yǐnjǐng-qiáoshǒu	yáhn-géng-kìuh-sáu	
+throughout the house or building	全栋	全棟	quándòng	chyùhn-duhng	
 through the Red Sea	过红海	過紅海	guò Hónghǎi	gwo Hùhng-hói	
 throw (away) into	丢入	丟入	diūrù	dīu-yahp	
 throw (away) to	丢到	丟到	diūdào	dīu-dou	
@@ -21550,6 +21614,7 @@ Troy (given name)	特洛伊	特洛伊	Tèluòyī	Dahk-lohk-yī
 Troy (surname)	特罗伊	特羅伊	Tèluóyī	Dahk-lòh-yī	
 truck-mounted (loader) crane	随车起重机	隨車起重機	suíchē qǐzhòngjī	chèuih-chē héi-chúhng-gēi	
 Trudy (name)	特鲁迪	特魯迪	Tèlǔdí	Dahk-lóuh-dihk	
+truffle (food)	松露	松露	sōnglù	chùhng-louh	
 Trujillo	特鲁希略	特魯希略	Tèlǔxīlüè	Dahk-lóuh-hēi-leuhk	
 truly isn't	并没有	並沒有	bìng méiyǒu	bihng muht-yáuh	
 truly not know	并不知道	並不知道	bìng bù zhīdào	bihng bāt jī-dou	
@@ -21741,6 +21806,7 @@ ultimately (all data considered etc)	归根究柢	歸根究柢	guīgēnjiūdǐ	g
 ultraviolet radiation; UV radiation	紫外线辐射	紫外線輻射	zǐwàixiàn fúshè	jí-ngoih-sin fūk-seh	
 Ulysses	尤利塞斯	尤利塞斯	Yóulìsàisī	Yàuh-leih-choi-sī	
 Umberto	翁贝托	翁貝托	Wēngbèituō	Yūng-bui-tok	
+umbrella rack	伞架	傘架	sǎnjià	saan-ga	
 Ummah	乌玛	烏瑪	Wūmǎ	Wū-máh	ˈʌmʌ
 Umoh	乌模	烏模	Wūmó	Wū-mòuh	
 Una	婉娜	婉娜	Wǎnnà	Yún-nàh	
@@ -22072,6 +22138,7 @@ Versailles	凡尔赛	凡爾賽	Fán'ěrsài	Fàahn-yíh-choi	vəːsˈaɪ
 verse number	节数	節數	jiéshù	jit-sou	
 <comp.> version number	版本号	版本號	bǎnběn hào	báan-bún houh	
 very; even to the point of being (something)	至为	至為	zhìwéi	ji-wàih	
+very clear	真真切切	真真切切	zhēnzhēn-qièqiè	jān-jān-chit-chit	
 (very) few; seldom	很少	很少	hěn shǎo	hán síu	
 very glad; glad to (do something)	很高兴	很高興	hěn gāoxìng	hán gōu-hing	
 very glad (variant)	非常的高兴	非常的高興	fēicháng de gāoxìng	fēi-sèuhng dīk gōu-hing	
