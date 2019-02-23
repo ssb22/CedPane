@@ -1414,12 +1414,14 @@ Australia Day	澳大利亚国庆日	澳大利亞國慶日	Àodàlìyà Guóqìng
 Australorp (Australian chicken breed)	澳洲黑鸡	澳洲黑雞	Àozhōu hēi jī	Ou-jāu hāk gāi	
 Austria-Hungary	奥匈帝国	奧匈帝國	Ào-Xiōng Dìguó	Ou-hūng Dai-gwok	
 Austrian (person)	奥地利人	奧地利人	Àodìlìrén	Ou-deih-leih-yàhn	
+authentication successful	认证成功	認證成功	rènzhèng chénggōng	yihng-jing sìhng-gūng	
 authoritative reference works	权威著作	權威著作	quánwēi zhùzuò	kyùhn-wāi jyu-jok	
 authorities; government agency	政府机构	政府機構	zhèngfǔ jīgòu	jing-fú gēi-kau	
 autoimmune diseases	免疫系统疾病	免疫系統疾病	miǎnyì xìtǒng jíbìng	míhn-yihk haih-túng jaht-behng	
 autologous blood	自体血液	自體血液	zìtǐ xuèyè	jih-tái hyut-yihk	
 Autolycus	奥托利库斯	奧托利庫斯	Àotuōlìkùsī	Ou-tok-leih-fu-sī	
 <comp.> automatically generate	自动生成	自動生成	zìdòng shēngchéng	jih-duhng sāang-sìhng	
+automatic door	自动门	自動門	zìdòng mén	jih-duhng mùhn	
 automatic transmission; automatic gearbox	自动变速器	自動變速器	zìdòng biànsùqì	jih-duhng bin-chūk-hei	
 automobile accident	交通意外	交通意外	jiāotōng yìwài	gāau-tūng yi-ngoih	
 automobile accident	汽车失事	汽車失事	qìchē shīshì	hei-chē sāt-sih	
@@ -4325,6 +4327,7 @@ Cook (name)	库克	庫克	Kùkè	Fu-hāk
 cook well	烤好	烤好	kǎohǎo	hāau-hóu	
 cool chamber	凉堂	涼堂	liángtáng	lèuhng-tòhng	
 Cool Dog (kugou.com)	酷狗	酷狗	Kùgǒu	Huhk-gáu	
+cooled boiled water	冰开水	冰開水	bīngkāishuǐ	bīng-hōi-séui	
 Cooley	库利	庫利	Kùlì	Fu-leih	
 Coons	孔斯	孔斯	Kǒngsī	Húng-sī	
 cooper	制桶工人	制桶工人	zhìtǒnggōngrén	jai-túng-gūng-yàhn	
@@ -5925,6 +5928,7 @@ electric shaver	电胡刀	電鬍刀	diànhúdāo	dihn-wùh-dōu
 electric water boiler (for on-demand hot water)	电热水壶	電熱水壺	diànrèshuǐhú	dihn-yiht-séui-wùh	
 electrocautery	电烙术	電烙術	diànlàoshù	dihn-lok-seuht	
 electrolyte drink; sports drink	电解质饮料	電解質飲料	diànjiězhì yǐnliào	dihn-gáai-jāt yám-líu	
+electrolyte solution	电解质溶液	電解質溶液	diànjiězhì róngyè	dihn-gáai-jāt yùhng-yihk	
 electromagnetic pulse; EMP	电磁脉冲	電磁脈衝	diàncí màichōng	dihn-chìh mahk-chūng	
 electromagnetism; electromagnetic force	电磁力	電磁力	diàncílì	dihn-chìh-lihk	ˈɪlˈɛktɹəʊmˈæɡnɪtɪzəm
 Electronic and Communications Engineering	电子通信工程	電子通信工程	diànzǐ tōngxìn gōngchéng	dihn-jí tūng-seun gūng-chìhng	
@@ -6045,8 +6049,10 @@ Emeishan (in Sichuan)	峨眉山市	峨眉山市	Éméishān Shì	Ngòh-mèih-sā
 Emerald (place in Australia)	埃默拉尔德	埃默拉爾德	Āimòlā'ěrdé	Āai-mahk-lāai-yíh-dāk	
 emerald (stone)	绿柱玉	綠柱玉	lǜzhùyù	luhk-chyúh-yuhk	
 emerge from its cocoon	破茧而出	破繭而出	pò jiǎn ér chū	po gáan yìh chēut	
+emergency brake valve (on train)	车长阀	車長閥	chēchángfá	chē-chèuhng-faht	
 (emergency) evacuation	紧急撤离	緊急撤離	jǐnjí chèlí	gán-gāp chit-lèih	
 emergency evacuation	紧急逃生	緊急逃生	jǐnjí táoshēng	gán-gāp tòuh-sāang	
+emergency evacuation plan (map)	逃生路线图	逃生路線圖	táoshēng lùxiàntú	tòuh-sāang louh-sin-tòuh	
 emergency evacuation route map; escape route map	紧急逃生路线图	緊急逃生路線圖	jǐnjí táoshēng lùxiàntú	gán-gāp tòuh-sāang louh-sin-tòuh	
 emergency exit	紧急出口	緊急出口	jǐnjí chūkǒu	gán-gāp chēut-háu	
 emergency services	紧急救援服务	緊急救援服務	jǐnjí jiùyuán fúwù	gán-gāp gau-wùhn fuhk-mouh	
@@ -6904,6 +6910,7 @@ fire department	消防局	消防局	xiāofángjú	sīu-fòhng-guhk
 fire department	消防部门	消防部門	xiāofáng bùmén	sīu-fòhng bouh-mùhn	
 fire drill	消防演习	消防演習	xiāofáng yǎnxí	sīu-fòhng yín-jaahp	
 fire drill	防火演习	防火演習	fánghuǒ yǎnxí	fòhng-fó yín-jaahp	
+(fire) extinguisher	灭器	滅器	mièqì	miht-hei	
 firefighting water	消防水	消防水	xiāofángshuǐ	sīu-fòhng-séui	
 fire holder	火盘	火盤	huǒpán	fó-pùhn	
 fire hose reel	消防喉辘	消防喉轆	xiāofáng hóulù	sīu-fòhng hàuh-lūk	
@@ -7262,6 +7269,7 @@ Fuding (in Fujian)	福鼎	福鼎	Fúdǐng	Fūk-díng
 Fuding (in Fujian)	福鼎市	福鼎市	Fúdǐng Shì	Fūk-díng Síh	
 Fuente	富恩特	富恩特	Fù'ēntè	Fu-yān-dahk	
 Fufeng (county, in Shaanxi)	扶风县	扶風縣	Fúfēng Xiàn	Fùh-fūng Yún	
+Fugang (in Yangmei District)	富冈	富岡	Fùgāng	Fu-gōng	
 Fugong (county, in Yunnan)	福贡县	福貢縣	Fúgòng Xiàn	Fūk-gung Yún	
 Fugou (county, in Henan)	扶沟县	扶溝縣	Fúgōu Xiàn	Fùh-kāu Yún	
 Fugu (county, in Shaanxi)	府谷县	府谷縣	Fǔgǔ Xiàn	Fú-gūk Yún	
@@ -9385,6 +9393,7 @@ hostile meaning	贬意	貶意	biǎnyì	bín-yi
 host (of guests etc; old word?)	东道	東道	dōngdào	dūng-douh	
 Hotan (in Xinjiang)	和田	和田	Hétián	Wòh-tìhn	
 Hotan (in Xinjiang)	和田市	和田市	Hétián Shì	Wòh-tìhn Síh	
+hot boiled water	热开水	熱開水	rèkāishuǐ	yiht-hōi-séui	
 hot chocolate	热巧克力	熱巧克力	rè qiǎokèlì	yiht háau-hāk-lihk	
 hot cross bun	十字包	十字包	shízìbāo	sahp-jih-bāau	
 Hotham	何坦	何坦	Hétǎn	Hòh-táan	hˈəʊθəm
@@ -9392,6 +9401,7 @@ Hothir	何提	何提	Hétí	Hòh-tàih	hˈəʊθəː
 hot meal (instead of literature)	热腾腾的饭菜	熱騰騰的飯菜	rètēngtēng de fàncài	yiht-tàhng-tàhng dīk faahn-choi	
 Ho Tram (in Vietnam)	后川	后川	Hòuchuān	Hauh-chyūn	
 hot water bottle	暖水袋	暖水袋	nuǎnshuǐdài	nyúhn-séui-doih	
+hot water machine	热水机	熱水機	rèshuǐjī	yiht-séui-gēi	
 Houbi District (in Tainan)	后壁区	後壁區	Hòubì Qū	Hauh-bik Kēui	
 Houli District (in Taichung)	后里区	后里區	Hòulǐ Qū	Hauh-léuih Kēui	
 Houma (in Shanxi)	侯马	侯馬	Hóumǎ	Hàuh-máh	
@@ -11871,6 +11881,7 @@ laugh (and spit out one's drink etc)	笑喷	笑噴	xiàopēn	siu-pan
 laugh(ing)	喜笑	喜笑	xǐxiào	héi-siu	
 laundry basket	洗衣篮	洗衣籃	xǐyīlán	sái-yi-làahm	
 Laundry Department	洗熨部	洗熨部	Xǐ-yùn Bù	Sái-tong Bouh	
+laundry department	洗衣部	洗衣部	xǐyībù	sái-yi-bouh	
 laundry (lit. wash and iron)	洗熨	洗熨	xǐ-yùn	sái-tong	lˈʊəndɹi
 laundryman	洗衣工人	洗衣工人	xǐyī gōngrén	sái-yi gūng-yàhn	lˈʊəndɹɪmæn
 Laura	劳拉	勞拉	Láolā	Lòuh-lāai	lˈʊəɹə
@@ -12216,6 +12227,7 @@ life story	人物生平	人物生平	rénwù shēngpíng	yàhn-maht sāang-pìhn
 life story	生平故事	生平故事	shēngpíng gùshi	sāang-pìhng gu-sih	
 Lifou	利富	利富	Lìfù	Leih-fu	
 lifter (machine)	搬运机	搬運機	bānyùnjī	būn-wahn-gēi	
+lift handset (of phone)	提起听筒	提起聽筒	tíqǐ tīngtǒng	tàih-héi ting-túng	
 lift up (of face)	仰起	仰起	yǎngqi	yéuhng-héi	
 ligase	连接酶	連接酶	liánjiēméi	lìhn-jip-mùih	
 light-emitting diode; LED	发光二极管	發光二極管	fāguāng èrjíguǎn	faat-gwōng yih-gihk-gún	
@@ -12296,6 +12308,7 @@ Lingchuan (county, in Guangxi)	灵川县	靈川縣	Língchuān Xiàn	Lìhng-chy�
 Lingchuan (county, in Shanxi)	陵川县	陵川縣	Língchuān Xiàn	Lìhng-chyūn Yún	
 Lingding Channel (under HKZM Bridge)	伶仃洋	伶仃洋	Língdīngyáng	Lìhng-dīng-yèuhng	
 Lingdong District	岭东区	嶺東區	Lǐngdōng Qū	Léhng-dūng Kēui	
+linger (at a place)	伫留	佇留	zhùliú	chyúh-làuh	
 Linghai (in Liaoning)	凌海	凌海	Línghǎi	Lìhng-hói	
 Linghai (in Liaoning)	凌海市	凌海市	Línghǎi Shì	Lìhng-hói Síh	
 Linghe (district, in Liaoning)	凌河区	凌河區	Línghé Qū	Lìhng-hòh Kēui	
@@ -16745,6 +16758,7 @@ print preview	打印预览	打印預覽	dǎyìn yùlǎn	dá-yan yuh-láahm
 print seal deeply (?)	深印	深印	shēnyìn	sām-yan	
 prion	朊病毒	朊病毒	ruǎnbìngdú	gún-behng-duhk	
 priorities	优先考虑的事	優先考慮的事	yōuxiān kǎolǜ de shì	yāu-sīn háau-leuih dīk sih	pɹˌaɪˈɒɹɪtɪz
+<TW> priority seat	博爱座	博愛座	bó'ài zuò	bok-ngoi joh	
 Pripet	普里佩特	普里佩特	Pǔlǐpèitè	Póu-léih-pui-dahk	
 Priscilla	普里西拉	普里西拉	Pǔlǐxīlā	Póu-léih-sāi-lāai	
 Priscilla; Prisca	百基拉	百基拉	Bǎijīlā	Baak-gēi-lāai	pɹˌɪsˈɪlə
@@ -16917,6 +16931,7 @@ Pulan County	普兰县	普蘭縣	Pǔlán Xiàn	Póu-làahn Yún
 Pulandian (city, in Liaoning)	普兰店市	普蘭店市	Pǔlándiàn Shì	Póu-làahn-dim Síh	
 Pulandian District	普兰店区	普蘭店區	Pǔlándiàn Qū	Póu-làahn-dim Kēui	
 Puli (town in Nantou)	埔里镇	埔里鎮	Pǔlǐ Zhèn	Bou-léuih Jan	
+pull down	扳下	扳下	bānxià	pāan-hah	
 Pullman (1831-97 built luxury train carriages in America)	普尔曼	普爾曼	Pǔ'ěrmàn	Póu-yíh-maahn	
 pull off (one's body etc)	扯下	扯下	chěxia	ché-hah	
 pull out (e.g. pulling a timber out of a house; lit. take-apart out)	拆出	拆出	chāichū	chaak-chēut	
@@ -17416,6 +17431,7 @@ receive in a big way	大受	大受	dàshòu	daaih-sauh
 receive one's soul (life) as a spoil	捡回性命	撿回性命	jiǎnhuí xìngmìng	gím-wùih sing-mihng	
 recent developments; recent progress	最新进展	最新進展	zuìxīn jìnzhǎn	jeui-sān jeun-jín	
 Reception Day; open day; open house	开放日	開放日	kāifàngrì	hōi-fong-yaht	
+reception desk; lobby	服务台	服務台	fúwùtái	fuhk-mouh-tòih	
 recessive genes	隐性基因	隱性基因	yǐnxìng jīyīn	yán-sing gēi-yān	
 Rechab	利甲	利甲	Lìjiǎ	Leih-gaap	ɹˈikæb
 Rechabites	利甲人	利甲人	Lìjiǎrén	Leih-gaap-yàhn	ɹˈikæbaɪts
@@ -19971,6 +19987,7 @@ start school/university; be a fresher	进校	進校	jìnxiào	jeun-haauh
 start work (at a new job)	入职	入職	rùzhí	yahp-jīk	
 statement (in conference etc)	声明稿	聲明稿	shēngmínggǎo	sēng-mìhng-góu	
 Staten (island)	斯塔登岛	斯塔登島	Sītǎdēngdǎo	Sī-taap-dāng-dóu	stˈætən
+station staff	站务人员	站務人員	zhànwù rényuán	jaahm-mouh yàhn-yùhn	
 statistical models	统计模型	統計模型	tǒngjì móxíng	túng-gai mòuh-yìhng	
 statue of a calf	牛犊像	牛犢像	niúdúxiàng	ngàuh-duhk-jeuhng	
 Statue of Liberty	自由女神像	自由女神像	Zìyóu Nǚshénxiàng	Jih-yàuh Néuih-sàhn-jeuhng	
@@ -20671,6 +20688,7 @@ tax-exempt year	豁免年	豁免年	huòmiǎnnián	kut-míhn-nìhn
 taxation	征税	征稅	zhēngshuì	jīng-seui	
 tax collector	收税人	收稅人	shōushuìrén	sāu-seui-yàhn	
 taxed; pay tax on	交税	交稅	jiāoshuì	gāau-seui	
+<TW> taxi stand	计程车招呼站	計程車招呼站	jìchéngchē zhāohuzhàn	gai-chìhng-chē jīu-fū-jaahm	
 Taxkorgan	塔什库尔干	塔什庫爾干	Tǎshíkù'ěrgān	Taap-sahm-fu-yíh-gōn	
 Taxkorgan (Tajik county, in Xinjiang)	塔什库尔干县	塔什庫爾干縣	Tǎshíkù'ěrgān Xiàn	Taap-sahm-fu-yíh-gōn Yún	
 tax office (first-century)	收税处	收税處	shōushuìchù	sāu-seui-chyu	
@@ -23515,6 +23533,7 @@ Yekaterinburg	叶卡捷琳堡	葉卡捷琳堡	Yèkǎjiélínbǎo	Yihp-kā-jiht-l
 Yelena	叶莲娜	葉蓮娜	Yèliánnà	Yihp-lìhn-nàh	
 yell	大叫大嚷	大叫大嚷	dàjiào-dàrǎng	daaih-giu-daaih-yéuhng	
 yellowish-red; pale brown	棕黄色	棕黃色	zōnghuángsè	jūng-wòhng-sīk	
+yellow line (on platform etc)	黄线	黃線	huángxiàn	wòhng-sin	
 Yeltsin	叶利钦	葉利欽	Yèlìqīn	Yihp-leih-yām	
 Yemen (alternate translation)	叶门	葉門	Yèmén	Yihp-mùhn	
 Yemiru	伊梅鲁	伊梅魯	Yīméilǔ	Yī-mùih-lóuh	

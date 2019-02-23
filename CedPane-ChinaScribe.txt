@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-02-22
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-02-23
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -4140,6 +4140,7 @@
 富爾科 富尔科 [Fu4 er3 ke1] /Fourcault/
 阜城縣 阜城县 [Fu4 cheng2_Xian4] /Fucheng (county, in Hebei)/
 富川縣 富川县 [Fu4 chuan1_Xian4] /Fuchuan (county, in Guangxi)/
+富岡 富冈 [Fu4 gang1] /Fugang (in Yangmei District)/
 復活兔子 复活兔子 [Fu4 huo2_tu4 zi5] /Easter rabbit/rabbit, Easter/
 復活節島 复活节岛 [Fu4 huo2 jie2 dao3] /Easter Island/Island, Easter/
 富錦 富锦 [Fu4 jin3] /Fujin (in Heilongjiang)/
@@ -17037,6 +17038,7 @@
 斑鬣狗 斑鬣狗 [ban1 lie4 gou3] /spotted hyena/hyena, spotted/
 頒令 颁令 [ban1 ling4] /issue a command/command, issue a/
 頒下 颁下 [ban1 xia5] /issue forth (of a royal instruction etc)/forth, issue (of a royal instruction etc)/
+扳下 扳下 [ban1 xia4] /pull down/down, pull/
 搬運自 搬运自 [ban1 yun4_zi4] /transported from (a Western website to a Chinese one, to avert firewall)/
 搬運機 搬运机 [ban1 yun4 ji1] /lifter (machine)/
 版本號 版本号 [ban3 ben3_hao4] /version number/number, version/
@@ -17284,6 +17286,7 @@
 瀕危野花 濒危野花 [bin1 wei1_ye3 hua1] /endangered wildflower/wildflower, endangered/
 冰凍三尺非一日之寒 冰冻三尺非一日之寒 [bing1 dong4_san1_chi3_fei1_yi1_ri4_zhi1_han2] /three feet of ice isn't just a one-day freeze/feet of ice isn't just a one-day freeze, three/
 冰酒 冰酒 [bing1 jiu3] /icewine/
+冰開水 冰开水 [bing1 kai1 shui3] /cooled boiled water/boiled water, cooled/
 檳榔西施 槟榔西施 [bing1 lang2_xi1 shi1] /betel nut beauty (Taiwan)/beauty, betel nut (Taiwan)/
 冰山一角 冰山一角 [bing1 shan1 yi1 jiao3] /tip of the iceberg/iceberg, tip of the/
 冰天雪窖 冰天雪窖 [bing1 tian1 xue3 jiao4] /extremely cold/cold, extremely/
@@ -17313,6 +17316,7 @@
 波濤聲 波涛声 [bo1 tao1 sheng1] /sound of the sea/
 撥弦 拨弦 [bo1 xian2] /stringed instruments (ancient?)/instruments, stringed (ancient?)/
 駁不倒 驳不倒 [bo2_bu5_dao3] /indisputable/
+博愛座 博爱座 [bo2 ai4_zuo4] /priority seat/seat, priority/
 博得了 博得了 [bo2 de2 le5] /won/gained/
 博客 博客 [bo2 ke4] /blog/
 博友 博友 [bo2 you3] /blog friend (fan etc)/friend, blog (fan etc)/
@@ -17598,6 +17602,7 @@
 炒面 炒面 [chao3 mian4] /chow mein (stir-fried noodles)/mein, chow (stir-fried noodles)/
 車上 车上 [che1_shang5] /on the vehicle (bus, car, truck etc)/vehicle, on the (bus, car, truck etc)/
 車兵 车兵 [che1 bing1] /charioteer/
+車長閥 车长阀 [che1 chang2 fa2] /emergency brake valve (on train)/brake valve, emergency (on train)/
 車聲轔轔 车声辚辚 [che1 sheng1 lin2 lin2] /rattling of chariot/chariot, rattling of/
 車繩 车绳 [che1 sheng2] /wagon cord/cord, wagon/
 車位 车位 [che1 wei4] /parking (space)/
@@ -18203,6 +18208,7 @@
 電話線杆 电话线杆 [dian4 hua4 xian4_gan1] /telephone pole/pole, telephone/
 電話線槽 电话线槽 [dian4 hua4 xian4 cao2] /telephone wire duct (in building)/wire duct, telephone (in building)/
 奠基日 奠基日 [dian4 ji1 ri4] /foundation-laying day/
+電解質溶液 电解质溶液 [dian4 jie3 zhi4_rong2 ye4] /electrolyte solution/solution, electrolyte/
 電解質飲料 电解质饮料 [dian4 jie3 zhi4_yin3 liao4] /electrolyte drink/sports drink/drink, electrolyte/
 電競 电竞 [dian4 jing4] /E-sports (video-game competitions)/
 電烙術 电烙术 [dian4 lao4 shu4] /electrocautery/
@@ -18657,6 +18663,7 @@
 弗拉門科 弗拉门科 [fu2 la1 men2 ke1] /flamenco (music genre)/
 俘擄 俘掳 [fu2 lu3] /captivity/
 浮潛 浮潜 [fu2 qian2] /snorkel/swim underwater/
+服務台 服务台 [fu2 wu4 tai2] /reception desk/lobby/desk, reception/
 浮游植物 浮游植物 [fu2 you2_zhi2 wu4] /phytoplankton/
 俯聽 俯听 [fu3 ting1] /bend to listen (?)/listen, bend to (?)/
 撫心自問 抚心自问 [fu3 xin1_zi4 wen4] /honestly examine oneself/examine oneself, honestly/
@@ -19324,6 +19331,7 @@
 黃金角 黄金角 [huang2 jin1_jiao3] /"golden angle"/angle", "golden/
 黃金准則 黄金准则 [huang2 jin1_zhun3 ze2] /gold standard (of medical care etc)/standard, gold (of medical care etc)/
 黃裳鳳蝶 黄裳凤蝶 [huang2 shang5_feng4 die2] /golden birdwing butterfly/birdwing butterfly, golden/
+黃線 黄线 [huang2 xian4] /yellow line (on platform etc)/line, yellow (on platform etc)/
 灰常 灰常 [hui1 chang2] /extremely/
 灰堆 灰堆 [hui1 dui1] /ash heap(s)/heap(s), ash/
 灰飛煙滅 灰飞烟灭 [hui1 fei1 yan1 mie4] /come to one's end in smoke/one's end in smoke, come to/
@@ -19467,6 +19475,7 @@
 寄回來 寄回来 [ji4_hui2 lai5] /send it back (through the post)/back, send it (through the post)/
 祭餅 祭饼 [ji4 bing3] /sacrificial cakes/cakes, sacrificial/
 繼承產業 继承产业 [ji4 cheng2_chan3 ye4] /inheritance/
+計程車招呼站 计程车招呼站 [ji4 cheng2 che1_zhao1 hu5 zhan4] /taxi stand/stand, taxi/
 計劃生育政策 计划生育政策 [ji4 hua4_sheng1 yu4_zheng4 ce4] /family-planning policy/policy, family-planning/
 寂寂無聞 寂寂无闻 [ji4 ji4 wu2 wen2] /become insignificant (lit. quiet without news?)/insignificant, become (lit. quiet without news?)/
 寄件人地址 寄件人地址 [ji4 jian4 ren2_di4 zhi3] /sender's address/address, sender's/
@@ -20589,6 +20598,7 @@
 乜嘢 乜嘢 [mie1 ye3] /what? (Cantonese)/
 滅盡 灭尽 [mie4 jin4] /completely destroy/destroy, completely/
 滅命 灭命 [mie4 ming4] /inflict death/death, inflict/
+滅器 灭器 [mie4 qi4] /(fire) extinguisher/
 民樂團 民乐团 [min2_yue4 tuan2] /Chinese orchestra (PRC)/orchestra, Chinese (PRC)/
 民間習俗 民间习俗 [min2 jian1_xi2 su2] /popular customs/customs, popular/
 民曆 民历 [min2 li4] /secular calendar/calendar, secular/
@@ -21240,11 +21250,13 @@
 熱風 热风 [re4 feng1] /searing wind/wind, searing/
 熱核戰爭 热核战争 [re4 he2_zhan4 zheng1] /thermonuclear war/
 熱核彈 热核弹 [re4 he2 dan4] /thermonuclear bomb/bomb, thermonuclear/
+熱開水 热开水 [re4 kai1 shui3] /hot boiled water/boiled water, hot/
 熱力學第二定律 热力学第二定律 [re4 li4 xue2_di4 er4_ding4 lu:4] /second law of thermodynamics/thermodynamics, second law of/
 熱療法 热疗法 [re4 liao2 fa3] /heat therapy/therapy, heat/
 熱烈地討論 热烈地讨论 [re4 lie4_de5_tao3 lun4] /have an animated discussion/animated discussion, have an/
 熱氣流 热气流 [re4 qi4 liu2] /thermal (warm air stream)/
 熱熔焊機 热熔焊机 [re4 rong2 han4 ji1] /butt-fusion machine/machine, butt-fusion/
+熱水機 热水机 [re4 shui3 ji1] /hot water machine/water machine, hot/
 熱騰騰的飯菜 热腾腾的饭菜 [re4 teng1 teng1_de5_fan4 cai4] /hot meal (instead of literature)/meal, hot (instead of literature)/
 熱物理學 热物理学 [re4 wu4 li3 xue2] /thermal physics/physics, thermal/
 熱液泉口 热液泉口 [re4 ye4_quan2 kou3] /hydrothermal vents (on ocean floor)/vents, hydrothermal (on ocean floor)/
@@ -21284,6 +21296,7 @@
 忍耐到底 忍耐到底 [ren3 nai4_dao4 di3] /endure to the end/
 認得出 认得出 [ren4_de5_chu1] /make out/
 任擇其一 任择其一 [ren4_ze2_qi2_yi1] /choose any one (out of a list etc)/
+認證成功 认证成功 [ren4 zheng4_cheng2 gong1] /authentication successful/successful, authentication/
 認知神經機制 认知神经机制 [ren4 zhi1_shen2 jing1_ji1 zhi4] /cognitive and neural mechanisms/neural mechanisms, cognitive and/
 認知神經科學 认知神经科学 [ren4 zhi1_shen2 jing1_ke1 xue2] /cognitive neuroscience/neuroscience, cognitive/
 認知神經心理學 认知神经心理学 [ren4 zhi1_shen2 jing1_xin1 li3 xue2] /cognitive neuropsychology/neuropsychology, cognitive/
@@ -22102,6 +22115,7 @@
 陶器碎片 陶器碎片 [tao2 qi4_sui4 pian4] /potsherd/
 逃去 逃去 [tao2 qu4] /flee/run away/away, run/
 逃去無蹤 逃去无踪 [tao2 qu4 wu2 zong1] /flee/take flight (without trace)/
+逃生路線圖 逃生路线图 [tao2 sheng1_lu4 xian4 tu2] /emergency evacuation plan (map)/evacuation plan, emergency (map)/
 逃脫懲罰 逃脱惩罚 [tao2 tuo1_cheng2 fa2] /get away with it (lit. succeed in escaping punishment)/away with it, get (lit. succeed in escaping punishment)/
 逃獄 逃狱 [tao2 yu4] /jailbreak (crime)/
 討回 讨回 [tao3 hui2] /put in a claim for the return of something (financial etc)/claim for the return of something, put in a (financial etc)/
@@ -22135,6 +22149,7 @@
 提胡 提胡 [ti2 hu2] /tihu (variant of gaohu instrument)/
 提客勒 提客勒 [ti2 ke4 le4] /Tekel/
 題名頁 题名页 [ti2 ming2 ye4] /title page/page, title/
+提起聽筒 提起听筒 [ti2 qi3_ting1 tong3] /lift handset (of phone)/handset, lift (of phone)/
 蹄聲 蹄声 [ti2 sheng1] /hoof sound/sound, hoof/
 提示點 提示点 [ti2 shi4_dian3] /hint point (in Adobe Flash drawing etc)/point, hint (in Adobe Flash drawing etc)/
 蹄兔 蹄兔 [ti2 tu4] /rock badger/badger, rock/
@@ -22684,6 +22699,7 @@
 洗洗 洗洗 [xi3 xi5] /wash/
 喜笑 喜笑 [xi3 xiao4] /laugh(ing)/
 洗衣工人 洗衣工人 [xi3 yi1_gong1 ren2] /laundryman/
+洗衣部 洗衣部 [xi3 yi1 bu4] /laundry department/department, laundry/
 洗衣籃 洗衣篮 [xi3 yi1 lan2] /laundry basket/basket, laundry/
 系啊 系啊 [xi4 a5] /oh yes (Cantonese)/
 細胞生物學家 细胞生物学家 [xi4 bao1_sheng1 wu4 xue2 jia1] /cell biologist/biologist, cell/
@@ -23723,6 +23739,7 @@
 蘸醬 蘸酱 [zhan4 jiang4] /dipping sauces/sauces, dipping/
 站滿 站满 [zhan4 man3] /to cover (a place, with camels etc; lit. stand full)/cover, to (a place, with camels etc; lit. stand full)/
 站起 站起 [zhan4 qi5] /stand up (from sitting etc)/
+站務人員 站务人员 [zhan4 wu4_ren2 yuan2] /station staff/staff, station/
 戰靴 战靴 [zhan4 xue1] /war boot/boot, war/
 戰衣 战衣 [zhan4 yi1] /war garments/garments, war/
 張網子 张网子 [zhang1_wang3 zi5] /spread a net/
@@ -24021,6 +24038,7 @@
 住進 住进 [zhu4 jin4] /begin dwelling in/dwelling in, begin/
 柱廊殿 柱廊殿 [zhu4 lang2 dian4] /Hall of Columns/Columns, Hall of/
 築壘 筑垒 [zhu4 lei3] /fortifications/
+佇留 伫留 [zhu4 liu2] /linger (at a place)/
 住上 住上 [zhu4 shang5] /live/stay up (in a place for a while etc)/
 祝聖 祝圣 [zhu4 sheng4] /consecration (by a church)/
 注釋家 注释家 [zhu4 shi4 jia1] /commentator/
@@ -24110,6 +24128,7 @@
 自動變速器 自动变速器 [zi4 dong4_bian4 su4 qi4] /automatic transmission/automatic gearbox/transmission, automatic/gearbox, automatic/
 自動關掉 自动关掉 [zi4 dong4_guan1 diao4] /turn itself off/shut itself down (computer)/itself off, turn (computer)/down, shut itself (computer)/
 自動駕駛汽車 自动驾驶汽车 [zi4 dong4_jia4 shi3_qi4 che1] /self-driving car/
+自動門 自动门 [zi4 dong4_men2] /automatic door/door, automatic/
 自動生成 自动生成 [zi4 dong4_sheng1 cheng2] /automatically generate/generate, automatically/
 自高自傲 自高自傲 [zi4 gao1 zi4 ao4] /behave haughtily/haughtily, behave/
 自己做生意 自己做生意 [zi4 ji3_zuo4_sheng1 yi5] /be self-employed/self-employed, be/
