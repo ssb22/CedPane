@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-02-23
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-02-24
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -5807,6 +5807,7 @@
 基列雅比 基列雅比 [Ji1 lie4 ya3 bi3] /Jabesh-gilead/
 基列耶琳 基列耶琳 [Ji1 lie4 ye1 lin2] /Kiriath-jearim/
 基林 基林 [Ji1 lin2] /Kilin/
+基隆 基隆 [Ji1 long2] /Keelung (near Taipei)/
 基隆市 基隆市 [Ji1 long2_Shi4] /Keelung (city)/
 基隆迪語 基隆迪语 [Ji1 long2 di2 yu3] /Kirundi (language)/
 基祿 基禄 [Ji1 lu4] /Cheluhi/
@@ -16718,6 +16719,7 @@
 中英國際 中英国际 [Zhong1 Ying1_guo2 ji4] /Sino-British/UK-China (of institution)/
 中英雙語 中英双语 [Zhong1 Ying1_shuang1 yu3] /Chinese-English bilingual/bilingual, Chinese-English/
 中英文 中英文 [Zhong1 Ying1 wen2] /Chinese and English (printed together)/English, Chinese and (printed together)/
+中越戰爭 中越战争 [Zhong1 Yue4_Zhan4 zheng1] /Sino-Vietnamese War (1979)/
 中方縣 中方县 [Zhong1 fang1_Xian4] /Zhongfang County/County, Zhongfang/
 中古法語 中古法语 [Zhong1 gu3_Fa3 yu3] /Middle French/French, Middle/
 中古英語 中古英语 [Zhong1 gu3_Ying1 yu3] /Middle English/English, Middle/
@@ -17606,6 +17608,7 @@
 車聲轔轔 车声辚辚 [che1 sheng1 lin2 lin2] /rattling of chariot/chariot, rattling of/
 車繩 车绳 [che1 sheng2] /wagon cord/cord, wagon/
 車位 车位 [che1 wei4] /parking (space)/
+車站大廳 车站大厅 [che1 zhan4_da4 ting1] /(railway) station concourse/concourse, station/
 車主手冊 车主手册 [che1 zhu3_shou3 ce4] /owner's manual (of vehicle)/manual, owner's (of vehicle)/
 扯斷 扯断 [che3 duan4] /tear off/
 扯上關系 扯上关系 [che3 shang5_guan1 xi5] /become associated|linked (with each other)/associated|linked, become (with each other)/
@@ -17816,12 +17819,14 @@
 純淨 纯淨 [chun2 jing4] /pure/clean (variant?)/
 純全 纯全 [chun2 quan2] /faultless/
 純全無疵 纯全无疵 [chun2 quan2 wu2 ci1] /faultlessness/
+純水 纯水 [chun2 shui3] /purified water/water, purified/
 純文本 纯文本 [chun2 wen2 ben3] /plain text/text, plain/
 純文本格式 纯文本格式 [chun2 wen2 ben3_ge2 shi4] /plain text format/text format, plain/
 純文本文檔 纯文本文档 [chun2 wen2 ben3_wen2 dang4] /plain text document/text document, plain/
 純文本文件 纯文本文件 [chun2 wen2 ben3_wen2 jian4] /plain text file/text file, plain/
 戳透 戳透 [chuo1 tou4] /cut up by stabbing (to kill etc)/stabbing, cut up by (to kill etc)/
 綽號叫 绰号叫 [chuo4 hao4_jiao4] /nicknamed/
+磁白板 磁白板 [ci2_bai2 ban3] /magnetic whiteboard/whiteboard, magnetic/
 磁共振成像術 磁共振成像术 [ci2_gong4 zhen4_cheng2 xiang4 shu4] /magnetic resonance imaging/MRI (shorter version)/resonance imaging, magnetic (shorter version)/
 慈悲為懷 慈悲为怀 [ci2 bei1 wei2 huai2] /full of mercy/mercy, full of/
 辭掉工作 辞掉工作 [ci2 diao4_gong1 zuo4] /quit a job/
@@ -18113,6 +18118,7 @@
 登記戶口 登记户口 [deng1 ji4_hu4 kou3] /registration (of a population)/
 登記冊 登记册 [deng1 ji4 ce4] /enrollment book (scroll)/book, enrollment (scroll)/
 登記證 登记证 [deng1 ji4 zheng4] /registration receipt/receipt, registration/
+燈具型式 灯具型式 [deng1 ju4_xing2 shi4] /lamp type (in lightbulb etc)/type, lamp (in lightbulb etc)/
 燈籠果 灯笼果 [deng1 long5_guo3] /Cape gooseberry (physalis peruviana)/gooseberry, Cape (physalis peruviana)/
 登山遠足 登山远足 [deng1 shan1_yuan3 zu2] /mountain hiking/hiking, mountain/
 登山家 登山家 [deng1 shan1 jia1] /mountain climber/climber, mountain/
@@ -18260,6 +18266,7 @@
 電子文檔 电子文档 [dian4 zi3_wen2 dang4] /file (electronic)/
 電子小雞 电子小鸡 [dian4 zi3_xiao3 ji1] /electronic chick/tamagotchi/chick, electronic/
 電子郵件服務供應商 电子邮件服务供应商 [dian4 zi3_you2 jian4_fu2 wu4_gong1 ying4 shang1] /email service provider/service provider, email/
+電子檔 电子档 [dian4 zi3 dang4] /electronic files/files, electronic/
 電子盤 电子盘 [dian4 zi3 pan2] /electronic disk (Flash|USB)/disk, electronic (Flash|USB)/
 叼去 叼去 [diao1 qu5] /go while holding in the mouth/while holding in the mouth, go/
 雕鴞 雕鸮 [diao1 xiao1] /eagle owl/
@@ -18422,6 +18429,7 @@
 墮落的天使 堕落的天使 [duo4 luo4_de5_tian1 shi3] /The Fallen Angel (statue title in Madrid)/Fallen Angel, The (statue title in Madrid)/
 墮落天使 堕落天使 [duo4 luo4_tian1 shi3] /fallen angel/angel, fallen/
 剁手 剁手 [duo4 shou3] /quit Internet shopping (by metaphorically cutting off hand)/Internet shopping, quit (by metaphorically cutting off hand)/
+額定頻率 额定频率 [e2 ding4_pin2 lu:4] /rated frequency (of electrical item)/frequency, rated (of electrical item)/
 額堅心硬 额坚心硬 [e2 jian1 xin1 ying4] /hardheaded and hardhearted/hardhearted, hardheaded and/
 蛾繭 蛾茧 [e2 jian3] /moth cocoon/cocoon, moth/
 俄梅珥 俄梅珥 [e2 mei2 er3] /omer (dry measure, possibly 2.2 liters)/
@@ -18509,6 +18517,7 @@
 凡事謹慎 凡事谨慎 [fan2 shi4_jin3 shen4] /exercise caution in all we do/caution in all we do, exercise/
 繁瑣 繁琐 [fan2 suo3] /loaded down with minor details/down with minor details, loaded/
 繁體字版 繁体字版 [fan2 ti3 zi4 ban3] /traditional script edition/script edition, traditional/
+反滲透 反渗透 [fan3_shen4 tou4] /reverse osmosis/RO/osmosis, reverse/
 反貪腐 反贪腐 [fan3_tan1 fu3] /anticorruption/
 反邪教 反邪教 [fan3_xie2 jiao4] /anticult/
 反法西斯 反法西斯 [fan3 fa3 xi1 si1] /anti-Fascist/
@@ -19290,6 +19299,7 @@
 劃下 划下 [hua4 xia5] /scratch under (in marking a line on the ground etc)/under, scratch (in marking a line on the ground etc)/
 化學定律 化学定律 [hua4 xue2_ding4 lu:4] /chemical laws/laws, chemical/
 化學物質 化学物质 [hua4 xue2_wu4 zhi4] /chemical (substance)/
+化學製品 化学制品 [hua4 xue2_zhi4 pin3] /chemical product/product, chemical/
 化學系 化学系 [hua4 xue2 xi4] /chemistry department/department, chemistry/
 畫作 画作 [hua4 zuo4] /painting (artist's activity)/
 畫作品 画作品 [hua4 zuo4 pin3] /painting (work of art)/
@@ -20339,6 +20349,7 @@
 淋浴間 淋浴间 [lin2 yu4 jian1] /shower room/room, shower/
 鈴鼓聲 铃鼓声 [ling2 gu3 sheng1] /tambourine sound/sound, tambourine/
 靈活變通 灵活变通 [ling2 huo2_bian4 tong5] /flexibility (of a language)/
+零錢捐 零钱捐 [ling2 qian2 juan1] /donations of small change (for charity)/small change, donations of (for charity)/
 零碎資料 零碎资料 [ling2 sui4_zi1 liao4] /bits and pieces (of information)/pieces, bits and (of information)/
 靈體 灵体 [ling2 ti3] /spirit person/person, spirit/
 靈液 灵液 [ling2 ye4] /ichor/
@@ -20737,6 +20748,7 @@
 男神 男神 [nan2 shen2] /male deity (of Baal etc)/deity, male (of Baal etc)/
 男胎 男胎 [nan2 tai1] /male foetus/foetus, male/
 難聞氣味 难闻气味 [nan2 wen2_qi4 wei4] /bad smell and taste/smell and taste, bad/
+南下月台 南下月台 [nan2 xia4_yue4 tai2] /southbound platform/platform, southbound/
 難以管束 难以管束 [nan2 yi3_guan3 shu4] /difficult to control (restrain)/control, difficult to (restrain)/
 難以駕馭 难以驾驭 [nan2 yi3_jia4 yu4] /driving (chariot) with difficulty/difficulty, driving with/
 難以勝數 难以胜数 [nan2 yi3 sheng4 shu3] /difficult to count/count, difficult to/
@@ -20790,6 +20802,7 @@
 你們好 你们好 [ni3 men5_hao3] /Good day! greetings (to several people)/day! greetings, Good (to several people)/
 你們倆 你们俩 [ni3 men5_lia3] /you both/both, you/
 你推我擠 你推我挤 [ni3 tui1 wo3 ji3] /shove one another (in dense crowd)/another, shove one (in dense crowd)/
+逆滲透 逆渗透 [ni4_shen4 tou4] /reverse osmosis/RO/osmosis, reverse/
 匿名評審 匿名评审 [ni4 ming2_ping2 shen3] /anonymous peer review/peer review, anonymous/
 蔫壞 蔫坏 [nian1 huai4] /underhanded/
 年度報告 年度报告 [nian2 du4_bao4 gao4] /annual report/report, annual/
@@ -20992,6 +21005,7 @@
 平安康泰 平安康泰 [ping2 an1 kang1 tai4] /safe, healthy and carefree/healthy and carefree, safe,/
 平版印刷機 平版印刷机 [ping2 ban3_yin4 shua1 ji1] /lithographic web-offset press/web-offset press, lithographic/
 平凡人 平凡人 [ping2 fan2 ren2] /commonplace men/
+蘋果醋 苹果醋 [ping2 guo3_cu4] /apple cider vinegar/cider vinegar, apple/
 蘋果派 苹果派 [ping2 guo3_pai4] /apple pie (alternative version?)/
 蘋果樹 苹果树 [ping2 guo3 shu4] /apple tree/tree, apple/
 平假名 平假名 [ping2 jia3 ming2] /hiragana/
@@ -21189,6 +21203,7 @@
 去羅馬 去罗马 [qu4_Luo2 ma3] /journey to Rome/Rome, journey to/
 去火車站 去火车站 [qu4_huo3 che1 zhan4] /go to train station/train station, go to/
 去死吧 去死吧 [qu4_si3_ba5] /Die! (exclamation while playing electronic games)/
+去顫器 去颤器 [qu4 chan4 qi4] /defibrillator/
 去水 去水 [qu4 shui3] /draining (of water in sink etc)/
 去殖民化 去殖民化 [qu4 zhi2 min2 hua4] /decolonisation/
 圈餅 圈饼 [quan1 bing3] /ring-shaped cakes/cakes, ring-shaped/
@@ -21244,6 +21259,7 @@
 熱巧克力 热巧克力 [re4_qiao3 ke4 li4] /hot chocolate/chocolate, hot/
 熱帶疾病 热带疾病 [re4 dai4_ji2 bing4] /tropical diseases/diseases, tropical/
 熱帶氣旋 热带气旋 [re4 dai4_qi4 xuan2] /tropical cyclone/cyclone, tropical/
+熱帶水果 热带水果 [re4 dai4_shui3 guo3] /tropical fruits/fruits, tropical/
 熱帶病 热带病 [re4 dai4 bing4] /tropical diseases/diseases, tropical/
 熱導管 热导管 [re4 dao3 guan3] /heating pipe/pipe, heating/
 熱墊 热垫 [re4 dian4] /heating pad (cushion)/
@@ -22664,6 +22680,7 @@
 物質至上 物质至上 [wu4 zhi4_zhi4 shang4] /material is supreme (materialism)/supreme, material is (materialism)/
 物種的多樣性 物种的多样性 [wu4 zhong3_de5_duo1 yang4 xing4] /biodiversity/
 吸塵裝置 吸尘装置 [xi1 chen2_zhuang1 zhi4] /dust-extraction system/system, dust-extraction/
+西瓜甜不甜 西瓜甜不甜 [xi1 gua1_tian2_bu4_tian2] /are watermelons sweet? (photograph "say cheese" equivalent)/watermelons sweet?, are (photograph "say cheese" equivalent)/
 西海 西海 [xi1 hai3] /western sea/
 西界 西界 [xi1 jie4] /western side|boundary/side|boundary, western/
 昔今 昔今 [xi1 jin1] /past and present/present, past and/
@@ -23536,6 +23553,7 @@
 愚蠢人 愚蠢人 [yu2 chun3 ren2] /foolish person ('s ...)/person, foolish ('s ...)/
 魚腹 鱼腹 [yu2 fu4] /inward parts of fish (lit. fish belly)/parts of fish, inward (lit. fish belly)/
 娛樂圈 娱乐圈 [yu2 le4 quan1] /entertainment scene/scene, entertainment/
+魚鱗刺 鱼鳞刺 [yu2 lin2 ci4] /verruca/
 愚昧人 愚昧人 [yu2 mei4 ren2] /stupid one/
 余日無多 余日无多 [yu2 ri4_wu2_duo1] /days are numbered/numbered, days are/
 愚妄人 愚妄人 [yu2 wang4 ren2] /senseless one/
@@ -23925,6 +23943,7 @@
 智慧型手機 智慧型手机 [zhi4 hui4 xing2_shou3 ji1] /smartphone (alternate translation)/
 智力游戲 智力游戏 [zhi4 li4_you2 xi4] /puzzle game/game, puzzle/
 質量控制 质量控制 [zhi4 liang4_kong4 zhi4] /quality control (in construction, air force, etc)/control, quality (in construction, air force, etc)/
+治療劑 治疗剂 [zhi4 liao2 ji4] /treatment/medication/
 治療師 治疗师 [zhi4 liao2 shi1] /therapist/
 治療學家 治疗学家 [zhi4 liao2 xue2 jia1] /therapist (older translation)/
 致命病毒 致命病毒 [zhi4 ming4_bing4 du2] /deadly virus/virus, deadly/
