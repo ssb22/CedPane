@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-02-24
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-02-25
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -9831,6 +9831,7 @@
 閩方言 闽方言 [Min3_fang1 yan2] /the Min dialect/dialect, the Min/
 閔采爾 闵采尔 [Min3 cai3 er3] /Müntzer/
 敏迪 敏迪 [Min3 di2] /Mindy/
+閩東語 闽东语 [Min3 dong1 yu3] /Min Dong/Eastern Min (language group including Fuzhou|Fuqing)/Dong, Min (language group including Fuzhou|Fuqing)/
 閩侯縣 闽侯县 [Min3 hou2_Xian4] /Minhou (county, in Fujian)/
 閩清縣 闽清县 [Min3 qing1_Xian4] /Minqing (county, in Fujian)/
 閔斯基 闵斯基 [Min3 si1 ji1] /Minsky/
@@ -14961,6 +14962,7 @@
 薛城區 薛城区 [Xue1 cheng2_Qu1] /Xuecheng District/District, Xuecheng/
 薛力克 薛力克 [Xue1 li4 ke4] /Sydlik/
 薛西斯 薛西斯 [Xue1 xi1 si1] /Xerxes/
+學習強國 学习强国 [Xue2_Xi2_Qiang2 guo2] /study Xi strong country (2019 Xi Jinping|CCP app)/strong country, study Xi (2019 Xi Jinping|CCP app)/
 學甲區 学甲区 [Xue2 jia3_Qu1] /Xuejia District/Syuejia District (in Tainan)/District, Xuejia (in Tainan)/
 雪萊 雪莱 [Xue3 lai2] /Sheryl/
 雪莉 雪莉 [Xue3 li4] /Shirley/
@@ -18115,6 +18117,7 @@
 登革熱 登革热 [deng1 ge2 re4] /dengue/
 登革熱病 登革热病 [deng1 ge2 re4 bing4] /dengue fever/fever, dengue/
 燈光節 灯光节 [deng1 guang1 jie2] /light festival (in city)/festival, light (in city)/
+登機門 登机门 [deng1 ji1 men2] /boarding gate (at airport)/gate, boarding (at airport)/
 登記戶口 登记户口 [deng1 ji4_hu4 kou3] /registration (of a population)/
 登記冊 登记册 [deng1 ji4 ce4] /enrollment book (scroll)/book, enrollment (scroll)/
 登記證 登记证 [deng1 ji4 zheng4] /registration receipt/receipt, registration/
@@ -18206,6 +18209,8 @@
 電磁力 电磁力 [dian4 ci2 li4] /electromagnetism/electromagnetic force/
 殿頂 殿顶 [dian4 ding3] /temple top or roof/roof, temple top or/
 電動工具 电动工具 [dian4 dong4_gong1 ju4] /power tools/tools, power/
+電動滑輪車 电动滑轮车 [dian4 dong4_hua2 lun2_che1] /hoverboard/
+電動平衡車 电动平衡车 [dian4 dong4_ping2 heng2_che1] /electric balancing device/balancing device, electric/
 電動切磚機 电动切砖机 [dian4 dong4_qie1 zhuan1 ji1] /electric masonry saw/masonry saw, electric/
 電鬍刀 电胡刀 [dian4 hu2 dao1] /electric shaver/shaver, electric/
 電話連線 电话连线 [dian4 hua4_lian2 xian4] /telephone hookup (to a meeting etc)/hookup, telephone (to a meeting etc)/
@@ -18268,6 +18273,7 @@
 電子郵件服務供應商 电子邮件服务供应商 [dian4 zi3_you2 jian4_fu2 wu4_gong1 ying4 shang1] /email service provider/service provider, email/
 電子檔 电子档 [dian4 zi3 dang4] /electronic files/files, electronic/
 電子盤 电子盘 [dian4 zi3 pan2] /electronic disk (Flash|USB)/disk, electronic (Flash|USB)/
+電子煙 电子烟 [dian4 zi3 yan1] /e-cigarettes/
 叼去 叼去 [diao1 qu5] /go while holding in the mouth/while holding in the mouth, go/
 雕鴞 雕鸮 [diao1 xiao1] /eagle owl/
 雕柱 雕柱 [diao1 zhu4] /carved pillar/pillar, carved/
@@ -20178,6 +20184,7 @@
 萊姆病 莱姆病 [lai2 mu3_bing4] /lyme disease/disease, lyme/
 來晚 来晚 [lai2 wan3] /come late/arrive late/late, come/
 藍閃光 蓝闪光 [lan2_shan3 guang1] /blue flash (in sunset)/flash, blue (in sunset)/
+藍焰打火機 蓝焰打火机 [lan2_yan4_da3 huo3 ji1] /blue fire lighter/flame torch/fire lighter, blue/torch, flame/
 藍蝶 蓝蝶 [lan2 die2] /blue butterfly/butterfly, blue/
 藍巨星 蓝巨星 [lan2 ju4 xing1] /blue giant (star)/giant, blue (star)/
 藍鈴花 蓝铃花 [lan2 ling2 hua1] /bluebell (hyacinthoides non-scripta)/
@@ -20237,6 +20244,7 @@
 犁出 犁出 [li2 chu1] /plow out/
 離合詩 离合诗 [li2 he2 shi1] /acrostic poetry/poetry, acrostic/
 離開主人 离开主人 [li2 kai1_zhu3 ren2] /escape from one's master (lit. leave one's master)/one's master, escape from (lit. leave one's master)/
+鋰電池 锂电池 [li3_dian4 chi2] /lithium batteries/batteries, lithium/
 禮拜儀式 礼拜仪式 [li3 bai4_yi2 shi4] /liturgy (church)/
 理財方式 理财方式 [li3 cai2_fang1 shi4] /method of handling money/handling money, method of/
 理科生 理科生 [li3 ke1 sheng1] /science students/students, science/
@@ -20520,6 +20528,7 @@
 霉臭 霉臭 [mei2 chou4] /musty smell (lit. mold stink)/smell, musty (lit. mold stink)/
 梅脯 梅脯 [mei2 fu3] /prunes/
 玫瑰經 玫瑰经 [mei2 gui5_jing1] /rosary text (Catholic; older translation?)/text, rosary (Catholic; older translation?)/
+梅花香自苦寒來 梅花香自苦寒来 [mei2 hua1_xiang1_zi4_ku3 han2_lai2] /flower scent from bitter cold/April showers bring May flowers/scent from bitter cold, flower/showers bring May flowers, April/
 梅塔梅洛邁 梅塔梅洛迈 [mei2 ta3 mei2 luo4 mai4] /metamelomai (Greek remorse)/
 梅塔尼阿 梅塔尼阿 [mei2 ta3 ni2 a1] /metanoia (Greek repent)/
 媒體訪問 媒体访问 [mei2 ti3_fang3 wen4] /media interview/interview, media/
@@ -21904,6 +21913,7 @@
 數學系 数学系 [shu4 xue2 xi4] /maths department/department, maths/
 束腰衣 束腰衣 [shu4 yao1 yi1] /tunic/
 數之不盡 数之不尽 [shu4 zhi1 bu4 jin4] /endless in number/number, endless in/
+數字時代 数字时代 [shu4 zi4_shi2 dai4] /digital age/
 數字命理學 数字命理学 [shu4 zi4 ming4 li3 xue2] /numerology/
 數字化基礎 数字化基础 [shu4 zi4 hua4_ji1 chu3] /digital foundation (IT infrastructure of organisation)/foundation, digital (IT infrastructure of organisation)/
 刷抖音 刷抖音 [shua1_Dou3 yin1] /swipe (through videos on) Douyin (TikTok)/Douyin, swipe/
@@ -23010,6 +23020,7 @@
 行動比言語更有力 行动比言语更有力 [xing2 dong4_bi3_yan2 yu3_geng4_you3 li4] /actions speak louder than words/speak louder than words, actions/
 行動比語言更有力 行动比语言更有力 [xing2 dong4_bi3_yu3 yan2_geng4_you3 li4] /actions speak louder than words/speak louder than words, actions/
 行動不便 行动不便 [xing2 dong4_bu4 bian4] /lame/
+行動電源 行动电源 [xing2 dong4_dian4 yuan2] /power bank/bank, power/
 行動勝于雄辯 行动胜于雄辩 [xing2 dong4_sheng4 yu2_xiong2 bian4] /actions speak louder than words/speak louder than words, actions/
 行宮總管 行宫总管 [xing2 gong1_zong3 guan3] /quartermaster/
 行李服務 行李服务 [xing2 li5_fu2 wu4] /baggage service/service, baggage/
@@ -23491,6 +23502,7 @@
 優質的 优质的 [you1 zhi4_de5] /high quality/top grade/quality, high/grade, top/
 油類火災 油类火灾 [you2_lei4_huo3 zai1] /burning oil/grease fire/oil, burning/fire, grease/
 游一游 游一游 [you2_yi5_you2] /have a tour (informal)/look around/tour look around, have a/
+油電暖爐 油电暖炉 [you2 dian4_nuan3 lu2] /kerosene stove/stove, kerosene/
 游客中心 游客中心 [you2 ke4_zhong1 xin1] /visitor centre (at tourist site)/centre, visitor (at tourist site)/
 尤克里里琴 尤克里里琴 [you2 ke4 li3 li3 qin2] /ukulele (older translation)/
 游來逛去 游来逛去 [you2 lai2 guang4 qu4] /walk around (e.g. as a public show-off)/around, walk (e.g. as a public show-off)/
