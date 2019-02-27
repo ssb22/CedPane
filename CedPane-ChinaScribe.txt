@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-02-26
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-02-27
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -2378,6 +2378,7 @@
 布里安娜 布里安娜 [Bu4 li3 an1 na4] /Breanna/
 布里德波特 布里德波特 [Bu4 li3 de2 bo1 te4] /Bridport (Dorset)/
 布里德赫德 布里德赫德 [Bu4 li3 de2 he4 de2] /Bridehead/
+布里頓 布里顿 [Bu4 li3 dun4] /Britten (Benjamin)/
 布里格斯 布里格斯 [Bu4 li3 ge2 si1] /Briggs/
 布里赫德 布里赫德 [Bu4 li3 he4 de2] /Bridehead/
 布里吉特 布里吉特 [Bu4 li3 ji2 te4] /Brigitte/
@@ -6193,6 +6194,7 @@
 加語 加语 [Jia1 yu3] /Ga (language)/
 嘉峪關市 嘉峪关市 [Jia1 yu4 guan1_Shi4] /Jiayuguan (in Gansu)/
 迦約語 迦约语 [Jia1 yue1 yu3] /Gayo (language)/
+嘉治商學院 嘉治商学院 [Jia1 zhi4_Shang1 xue2 yuan4] /Judge Business School (Cambridge)/Business School, Judge (Cambridge)/
 加州大學 加州大学 [Jia1 zhou1_Da4 xue2] /University of California/California, University of/
 加州大學伯克利分校 加州大学伯克利分校 [Jia1 zhou1_Da4 xue2_Bo2 ke4 li4_Fen1 xiao4] /University of California, Berkeley/California, Berkeley, University of/
 郟縣 郏县 [Jia2_Xian4] /Jia County/County, Jia/
@@ -11291,6 +11293,7 @@
 青山區 青山区 [Qing1 shan1_Qu1] /Qingshan District/District, Qingshan/
 青山區 青山区 [Qing1 shan1_Qu1] /Qingshan District/District, Qingshan/
 青山湖區 青山湖区 [Qing1 shan1 hu2_Qu1] /Qingshanhu District/District, Qingshanhu/
+青少年管弦樂指南 青少年管弦乐指南 [Qing1 shao3 nian2_Guan3 xian2 yue4_Zhi3 nan2] /Young Person's Guide to the Orchestra (Britten)/Person's Guide to the Orchestra, Young (Britten)/
 青神縣 青神县 [Qing1 shen2_Xian4] /Qingshen (county, in Sichuan)/
 清水區 清水区 [Qing1 shui3_Qu1] /Qingshui District (in Taichung)/District, Qingshui (in Taichung)/
 清水縣 清水县 [Qing1 shui3_Xian4] /Qingshui County/County, Qingshui/
@@ -16109,6 +16112,7 @@
 印台區 印台区 [Yin4 tai2_Qu1] /Yintai District/District, Yintai/
 應縣 应县 [Ying1_Xian4] /Ying County/County, Ying/
 鷹狀星云 鹰状星云 [Ying1_zhuang4_xing1 yun2] /Eagle Nebula (M16, NGC 6611)/Nebula, Eagle (M16, NGC 6611)/
+英中 英中 [Ying1 Zhong1] /UK-China/
 應城 应城 [Ying1 cheng2] /Yingcheng (in Hubei)/
 應城市 应城市 [Ying1 cheng2_Shi4] /Yingcheng (in Hubei)/
 英德市 英德市 [Ying1 de2_Shi4] /Yingde (in Guangdong)/
@@ -17229,6 +17233,7 @@
 鼻環 鼻环 [bi2 huan2] /nose ring/ring, nose/
 比你好 比你好 [bi3_ni3_hao3] /better than you/
 比奧斯 比奥斯 [bi3 ao4 si1] /bios (Greek word for life)/
+筆刨 笔刨 [bi3 bao4] /pencil sharpener/sharpener, pencil/
 彼此仇恨 彼此仇恨 [bi3 ci3_chou2 hen4] /hating one another/another, hating one/
 彼此相愛 彼此相爱 [bi3 ci3_xiang1 ai4] /love one another/another, love one/
 彼此間 彼此间 [bi3 ci3 jian1] /mutual/
@@ -17761,6 +17766,7 @@
 醜聲 丑声 [chou3 sheng1] /cry of complaint/complaint, cry of/
 臭草 臭草 [chou4 cao3] /stinking weeds/weeds, stinking/
 出埃及 出埃及 [chu1_Ai1 ji2] /exodus (deliverance from Egypt)/
+初創企業 初创企业 [chu1 chuang4_qi3 ye4] /startup (business)/
 出到 出到 [chu1 dao4] /go out to (an outbuilding etc)/
 初級班 初级班 [chu1 ji2 ban1] /primary (school) class/class, primary/
 出監 出监 [chu1 jian1] /go out from prison/prison, go out from/
@@ -17821,6 +17827,7 @@
 創立者 创立者 [chuang4 li4 zhe3] /founder/
 創始成終 创始成终 [chuang4 shi3_cheng2 zhong1] /(making?) the beginning and the end/beginning and the end, the/
 創世 创世 [chuang4 shi4] /world's creation/creation, world's/
+創新獎 创新奖 [chuang4 xin1_jiang3] /innovation award/award, innovation/
 創造物 创造物 [chuang4 zao4 wu4] /creation/
 吹長笛 吹长笛 [chui1_chang2 di2] /play(ing) the flute/flute, play(ing) the/
 吹氣泡 吹气泡 [chui1_qi4 pao4] /blow bubbles/bubbles, blow/
@@ -17910,6 +17917,7 @@
 促進健康 促进健康 [cu4 jin4_jian4 kang1] /improve health/health, improve/
 促進科學 促进科学 [cu4 jin4_ke1 xue2] /further the interests of science/interests of science, further the/
 催淚氣體 催泪气体 [cui1 lei4 qi4 ti3] /tear gas/
+存廢討論 存废讨论 [cun2 fei4_tao3 lun4] /deletion discussion (wiki)/discussion, deletion (wiki)/
 存到 存到 [cun2 dao4] /left over until/over until, left/
 存款利率 存款利率 [cun2 kuan3_li4 lu:4] /deposit interest rate/savings interest rate/interest rate, deposit/rate, savings interest/
 挫敗感 挫败感 [cuo4 bai4 gan3] /feeling of frustration or defeat/frustration or defeat, feeling of/
@@ -18589,6 +18597,7 @@
 防水電筒 防水电筒 [fang2 shui3_dian4 tong3] /waterproof flashlight/flashlight, waterproof/
 防水膜 防水膜 [fang2 shui3 mo2] /waterproofing (layer)/
 防蚊水 防蚊水 [fang2 wen2 shui3] /mosquito repellant/repellant, mosquito/
+防煙門 防烟门 [fang2 yan1 men2] /smoke door/door, smoke/
 防御武器 防御武器 [fang2 yu4_wu3 qi4] /defense weapon/weapon, defense/
 紡杆 纺杆 [fang3 gan1] /distaff/
 訪客停車場 访客停车场 [fang3 ke4_ting2 che1 chang3] /visitor parking/parking, visitor/
@@ -19252,6 +19261,7 @@
 烘穀 烘谷 [hong1 gu3] /roasted grain/grain, roasted/
 烘好 烘好 [hong1 hao3] /roasted/
 紅醋栗 红醋栗 [hong2_cu4 li4] /red currant/currant, red/
+紅白波 红白波 [hong2 bai2_bo1] /watermelon ball (HK sports ball)/ball, watermelon (HK sports ball)/
 紅斑狼瘡 红斑狼疮 [hong2 ban1_lang2 chuang1] /lupus/
 紅超巨星 红超巨星 [hong2 chao1 ju4 xing1] /red supergiant (star)/supergiant, red (star)/
 紅綢 红绸 [hong2 chou2] /red sari/sari, red/
@@ -20676,6 +20686,7 @@
 銘記在心 铭记在心 [ming2 ji4_zai4 xin1] /remember well/be attentive to/fix firmly in heart (etc)/well, remember (etc)/attentive to, be (etc)/firmly in heart, fix (etc)/
 明亮之星 明亮之星 [ming2 liang4_zhi1_xing1] /shining one/
 明瞭 明瞭 [ming2 liao3] /to understand or be clear about/understand or be clear about, to/
+名人堂 名人堂 [ming2 ren2 tang2] /hall of fame/fame, hall of/
 名詩 名诗 [ming2 shi1] /famous poem/poem, famous/
 鳴飾 鸣饰 [ming2 shi4] /ornamental humming shells (lit. bird-cry decoration)/humming shells, ornamental (lit. bird-cry decoration)/
 明細賬 明细账 [ming2 xi4 zhang4] /subsidiary account/detailed account (of transactions)/account, subsidiary (of transactions)/
@@ -20735,6 +20746,7 @@
 拇指銬 拇指铐 [mu3 zhi3_kao4] /thumb cuffs/cuffs, thumb/
 姆尊古 姆尊古 [mu3 zun1 gu3] /Mzungu (Swahili word for white man)/
 木軛 木轭 [mu4 e4] /yoke bar(s) of wood/bar(s) of wood, yoke/
+木刨 木刨 [mu4 bao4] /wood planer/planer, wood/
 木工部 木工部 [mu4 gong1 bu4] /carpenter shop (in an organisation)/shop, carpenter (in an organisation)/
 木工組 木工组 [mu4 gong1 zu3] /carpentry team/team, carpentry/
 目光接觸 目光接触 [mu4 guang1_jie1 chu4] /visual contact/eye contact/contact, visual/
@@ -20922,6 +20934,7 @@
 暖人心窩 暖人心窝 [nuan3 ren2 xin1 wo1] /heartwarming(?)/
 暖水袋 暖水袋 [nuan3 shui3 dai4] /hot water bottle/water bottle, hot/
 暖意 暖意 [nuan3 yi4] /warmth (emotional)/
+女企業家 女企业家 [nu:3_qi3 ye4 jia1] /woman entrepreneur/entrepreneur, woman/
 女神童 女神童 [nu:3_shen2 tong2] /child prodigy (female)/prodigy, child (female)/
 女同性戀 女同性恋 [nu:3_tong2 xing4 lian4] /lesbianism/
 女先知 女先知 [nu:3_xian1 zhi1] /prophetess/
@@ -21122,6 +21135,7 @@
 千千 千千 [qian1_qian1] /thousands/
 千百年 千百年 [qian1 bai3_nian2] /for a long time (lit. thousand hundred years)/long time, for a (lit. thousand hundred years)/
 謙卑人 谦卑人 [qian1 bei1 ren2] /humble people/people, humble/
+鉛筆刨 铅笔刨 [qian1 bi3 bao4] /pencil sharpener/sharpener, pencil/
 牽出 牵出 [qian1 chu1] /lead out (of sheep etc) (?)/
 牽到 牵到 [qian1 dao4] /lead (animal etc) to/
 千夫長 千夫长 [qian1 fu1 zhang3] /chief over a thousand/over a thousand, chief/
@@ -21553,6 +21567,7 @@
 社會安定 社会安定 [she4 hui4_an1 ding4] /integrity and security (of a country etc)/security, integrity and (of a country etc)/
 社會保險金 社会保险金 [she4 hui4_bao3 xian3 jin1] /social insurance/insurance, social/
 社會服務 社会服务 [she4 hui4_fu2 wu4] /alternative civilian service/civilian service, alternative/
+社會企業 社会企业 [she4 hui4_qi3 ye4] /social enterprise/enterprise, social/
 社會人類學 社会人类学 [she4 hui4_ren2 lei4 xue2] /social anthropology/anthropology, social/
 社會心理學家 社会心理学家 [she4 hui4_xin1 li3 xue2 jia1] /social psychologist/psychologist, social/
 社會藝術 社会艺术 [she4 hui4_yi4 shu4] /social art/
@@ -21593,6 +21608,7 @@
 身體上 身体上 [shen1 ti3_shang5] /physically (of human body)/
 伸向 伸向 [shen1 xiang4] /stretch toward/toward, stretch/
 身心俱疲 身心俱疲 [shen1 xin1 ju4 pi2] /physically and emotionally exhausted/emotionally exhausted, physically and/
+身腰 身腰 [shen1 yao1] /waist/
 深印 深印 [shen1 yin4] /print seal deeply (?)/seal deeply, print (?)/
 神父 神父 [shen2 fu4] /Catholic priest/priest, Catholic/
 神話傳奇 神话传奇 [shen2 hua4_chuan2 qi2] /myths and legends/legends, myths and/
@@ -22135,6 +22151,7 @@
 太空垃圾 太空垃圾 [tai4 kong1_la1 ji1] /debris from space/space, debris from/
 太空旅行 太空旅行 [tai4 kong1_lu:3 xing2] /space travel/travel, space/
 太空遠航 太空远航 [tai4 kong1_yuan3 hang2] /long-haul mission (in space)/mission, long-haul (in space)/
+太空館 太空馆 [tai4 kong1 guan3] /space museum/museum, space/
 泰洛斯 泰洛斯 [tai4 luo4 si1] /telos (τέλος)/
 太陽核心 太阳核心 [tai4 yang2_he2 xin1] /sun's core/centre of sun/core, sun's/
 太陽耀斑 太阳耀斑 [tai4 yang2_yao4 ban1] /solar flares/flares, solar/
@@ -22727,6 +22744,7 @@
 物質至上 物质至上 [wu4 zhi4_zhi4 shang4] /material is supreme (materialism)/supreme, material is (materialism)/
 物種的多樣性 物种的多样性 [wu4 zhong3_de5_duo1 yang4 xing4] /biodiversity/
 吸塵裝置 吸尘装置 [xi1 chen2_zhuang1 zhi4] /dust-extraction system/system, dust-extraction/
+西瓜波 西瓜波 [xi1 gua1_bo1] /watermelon ball (HK sports ball)/ball, watermelon (HK sports ball)/
 西瓜甜不甜 西瓜甜不甜 [xi1 gua1_tian2_bu4_tian2] /are watermelons sweet? (photograph "say cheese" equivalent)/watermelons sweet?, are (photograph "say cheese" equivalent)/
 西海 西海 [xi1 hai3] /western sea/
 西界 西界 [xi1 jie4] /western side|boundary/side|boundary, western/
@@ -23158,6 +23176,8 @@
 學術研究 学术研究 [xue2 shu4_yan2 jiu1] /academic research/research, academic/
 學術知識 学术知识 [xue2 shu4_zhi1 shi5] /academic knowledge/knowledge, academic/
 學術著作 学术著作 [xue2 shu4_zhu4 zuo4] /scholarly work/work, scholarly/
+學術型 学术型 [xue2 shu4 xing2] /academic-type/
+學術型企業家 学术型企业家 [xue2 shu4 xing2_qi3 ye4 jia1] /academic entrepreneur/entrepreneur, academic/
 學習工具 学习工具 [xue2 xi2_gong1 ju4] /learning tools/tools, learning/
 學業報告 学业报告 [xue2 ye4_bao4 gao4] /school report/report, school/
 學業優異獎 学业优异奖 [xue2 ye4_you1 yi4_jiang3] /awards for academic achievement (in school)/academic achievement, awards for (in school)/
@@ -23194,6 +23214,7 @@
 馴鹿牧人 驯鹿牧人 [xun4 lu4_mu4 ren2] /reindeer herders/herders, reindeer/
 壓成 压成 [ya1 cheng2] /press into (when making something)/
 押到 押到 [ya1 dao4] /detain (bring in custody) to/
+押店 押店 [ya1 dian4] /pawn shop/shop, pawn/
 壓毀 压毁 [ya1 hui3] /grind (lit. press destroy)/
 壓力測試 压力测试 [ya1 li4_ce4 shi4] /pressure test/test, pressure/
 壓迫人民 压迫人民 [ya1 po4_ren2 min2] /oppress people/people, oppress/
@@ -23753,6 +23774,7 @@
 在職媽媽 在职妈妈 [zai4 zhi2_ma1 ma5] /working mothers/mothers, working/
 暫譯 暂译 [zan4_yi4] /temporary translation/translation, temporary/
 暫時撤銷 暂时撤销 [zan4 shi2_che4 xiao1] /suspend (a person's job)/
+贊助廣告 赞助广告 [zan4 zhu4_guang3 gao4] /supporting advertisements (for WiFi etc)/advertisements, supporting (for WiFi etc)/
 贊助商 赞助商 [zan4 zhu4 shang1] /(corporate) sponsor (of sport etc)/
 遭災禍 遭灾祸 [zao1_zai1 huo4] /meet with calamity/calamity, meet with/
 遭禍 遭祸 [zao1 huo4] /calamity/
@@ -24025,6 +24047,7 @@
 中年危機 中年危机 [zhong1 nian2_wei1 ji1] /midlife crisis/crisis, midlife/
 中氣層 中气层 [zhong1 qi4 ceng2] /mesosphere/
 中阮 中阮 [zhong1 ruan3] /alto ruan/ruan, alto/
+終身成就 终身成就 [zhong1 shen1_cheng2 jiu4] /lifetime achievement (in business etc)/achievement, lifetime (in business etc)/
 終審判決 终审判决 [zhong1 shen3_pan4 jue2] /final judgment (of court system)/judgment, final (of court system)/
 終生職業 终生职业 [zhong1 sheng1_zhi2 ye4] /job for life/life, job for/
 中圖 中图 [zhong1 tu2] /centre picture (in news article etc)/picture, centre (in news article etc)/
