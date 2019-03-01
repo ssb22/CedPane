@@ -37717,11 +37717,6 @@ characters 尼尼微王
 serial-number CedPane7558
 definition king of Nineveh
 *** 
-pinyin Nīnuó
-characters 妮娜
-serial-number CedPane7559
-definition Niina
-*** 
 pinyin Nīnà
 characters 妮娜
 serial-number CedPane7559
@@ -62666,11 +62661,6 @@ characters 支援人员[---員]
 serial-number CedPane12559
 definition support personnel
 *** 
-pinyin zhīyuán rényuán
-characters 支援人员[---員]
-serial-number CedPane12559
-definition supporting personnel
-*** 
 pinyin zhìyuànzhě
 characters 志愿者[-願-]
 serial-number CedPane12560
@@ -73347,11 +73337,6 @@ definition Ma'anshan (in Anhui)
 pinyin Mǎ'ānshān
 characters 马鞍山[馬--]
 serial-number CedPane14718
-definition Ma'anshan (in Anhui)
-*** 
-pinyin Mǎ'ānshān
-characters 马鞍山[馬--]
-serial-number CedPane14718
 definition Ma'anshan (in Anhui); Ma On Shan (peak in HK)
 *** 
 pinyin Sùzhōu Shì
@@ -78984,14 +78969,9 @@ characters 安宁市[-寧-]
 serial-number CedPane15910
 definition Anning (in Yunnan)
 *** 
-pinyin Chuxióng Shì
+pinyin Chǔxióng Shì
 characters 楚雄市
 serial-number CedPane15912
-definition Chuxiong (in Yunnan)
-*** 
-pinyin Chuxióng
-characters 楚雄
-serial-number CedPane15913
 definition Chuxiong (in Yunnan)
 *** 
 pinyin Chǔxióng
@@ -119370,7 +119350,7 @@ definition Yuen Long (in HK)
 pinyin quánrì
 characters 全日
 serial-number CedPane24022
-environment HK
+environment   HK
 definition all day; 24 hours
 *** 
 pinyin bīngtiān-xuějiào
@@ -119461,13 +119441,13 @@ definition customer services hotline
 pinyin zuò nièyě
 characters 做乜嘢
 serial-number CedPane24040
-environment Cantonese
+environment   Cantonese
 definition what are you doing?
 *** 
 pinyin diǎnjiě
 characters 点解[點-]
 serial-number CedPane24041
-environment Cantonese
+environment   Cantonese
 definition why?
 *** 
 pinyin guǐlǎo
@@ -119478,36 +119458,31 @@ definition foreign devil (sometimes used for white people in Hong Kong)
 pinyin gěngxì
 characters 梗系[-係]
 serial-number CedPane24043
-environment Cantonese
+environment   Cantonese
 definition of course
-*** 
-pinyin nídù
-characters 呢度
-serial-number CedPane24044
-definition here
 *** 
 pinyin biāndù
 characters 边度[邊-]
 serial-number CedPane24045
-environment Cantonese
+environment   Cantonese
 definition where?
 *** 
 pinyin yānyān
 characters 啱啱
 serial-number CedPane24046
-environment Cantonese
+environment   Cantonese
 definition just now
 *** 
 pinyin tīngdémíng
 characters 听得明[聽--]
 serial-number CedPane24047
-environment Cantonese
+environment   Cantonese
 definition understand
 *** 
 pinyin zhōngyì
 characters 钟意[鍾-]
 serial-number CedPane24048
-environment Cantonese
+environment   Cantonese
 definition like; enjoy
 *** 
 pinyin qǐng xiǎoxīn yuètái kōngxì
@@ -119518,17 +119493,17 @@ definition please mind the gap (on railway platform)
 pinyin wúgāi
 characters 唔该[-該]
 serial-number CedPane24050
-environment Cantonese
+environment   Cantonese
 definition thanks
 *** 
 pinyin wúgāishài
 characters 唔该晒[-該曬]
 serial-number CedPane24051
-environment Cantonese
+environment   Cantonese
 definition thanks very much
 *** 
 pinyin jìnghuàqì
-characters 浄化器[淨--]
+characters 浄化器
 serial-number CedPane24052
 definition purifier
 *** 
@@ -119555,7 +119530,7 @@ definition reliable sources (term used by Wikipedia editors)
 pinyin cǐgǎng
 characters 此港
 serial-number CedPane24057
-environment HK
+environment   HK
 definition this port (i.e. Hong Kong)
 *** 
 pinyin wánwan
@@ -119616,7 +119591,7 @@ definition new year sacrifices to ancestors
 pinyin yíshìgǎn
 characters 仪式感[儀--]
 serial-number CedPane24069
-definition sense of ritual
+definition sense of ritual
 *** 
 pinyin fúchǎng
 characters 巿场[-場]
@@ -119776,7 +119751,7 @@ definition try on (clothes in shop)
 pinyin bù shè shìshēn
 characters 不设试身[-設試-]
 serial-number CedPane24101
-environment HK
+environment   HK
 definition no fitning facilities; no trying on (of clothes in shop)
 *** 
 pinyin Xīn Guāng Sānyuè
@@ -119987,19 +119962,19 @@ definition easy to open; easy-open
 pinyin mā tǔsī
 characters 抹土司
 serial-number CedPane24143
-environment TW?
+environment   TW?
 definition spread on toast
 *** 
 pinyin shìduōpílí
 characters 士多啤梨
 serial-number CedPane24144
-environment Cantonese
+environment   Cantonese
 definition strawberry
 *** 
 pinyin dāngzào
 characters 当造[當-]
 serial-number CedPane24145
-environment Cantonese?
+environment   Cantonese?
 definition seasonal; in season (of fruit etc)
 *** 
 pinyin Yīdá'ěrgē
@@ -120255,7 +120230,7 @@ definition E-sports (video-game competitions)
 pinyin xiànxià
 characters 线下[線-]
 serial-number CedPane24196
-environment comp.
+environment   comp.
 definition offline
 *** 
 pinyin Guīfàn Hànzì
@@ -120271,7 +120246,7 @@ definition (PRC) Standard Chinese Character
 pinyin yǎnshuǐ
 characters 眼水
 serial-number CedPane24199
-environment HK
+environment   HK
 definition eye drops
 *** 
 pinyin rènzhī shénjīng kēxué
@@ -120302,7 +120277,7 @@ definition cognitive and neural mechanisms
 pinyin hé jiégòu
 characters 核结构[-結構]
 serial-number CedPane24205
-environment lg
+environment   lg
 definition nuclear structures
 *** 
 pinyin yǎndòng shùjù
@@ -120333,7 +120308,7 @@ definition (speciality) research team
 pinyin fēi gōngzuò rényuán qǐngwù jìnrù
 characters 非工作人员请勿进入[----員請-進-]
 serial-number CedPane24211
-environment TW
+environment   TW
 definition staff only (door sign)
 *** 
 pinyin fēngmì níngméngshuǐ
@@ -120419,7 +120394,7 @@ definition audio-visual room; AV room
 pinyin zīxùn zhōngxīn
 characters 资讯中心[資訊--]
 serial-number CedPane24228
-environment TW
+environment   TW
 definition information centre
 *** 
 pinyin tīngshìzhàng
@@ -120450,7 +120425,7 @@ definition naming-ology (astrology when naming a child)
 pinyin Jīngpiànkǎ
 characters 晶片卡
 serial-number CedPane24234
-environment TW
+environment   TW
 definition MasterCard
 *** 
 pinyin tiáomǎkǎ
@@ -120471,7 +120446,7 @@ definition charging station (for mobile devices)
 pinyin Guólì Gōnggòng Zīxùn Túshūguǎn
 characters 国立公共资讯图书馆[國---資訊圖書館]
 serial-number CedPane24238
-environment TW
+environment   TW
 definition National Library of Public Information
 *** 
 pinyin cānkǎo gōngjùshū
@@ -120492,13 +120467,13 @@ definition in the building; on the premises
 pinyin bǔjírǔ
 characters 哺集乳
 serial-number CedPane24242
-environment TW
+environment   TW
 definition breastfeed
 *** 
 pinyin bǔjírǔ shì
 characters 哺集乳室
 serial-number CedPane24243
-environment TW
+environment   TW
 definition breastfeeding room
 *** 
 pinyin duōyuán wénhuà
@@ -120514,7 +120489,7 @@ definition reading area
 pinyin lèlíng
 characters 乐龄[樂齡]
 serial-number CedPane24246
-environment TW
+environment   TW
 definition senior (lit. age of leisure)
 *** 
 pinyin měishù zhōngxīn
@@ -120525,7 +120500,7 @@ definition arts centre
 pinyin zīxúntái
 characters 谘询台[諮詢檯]
 serial-number CedPane24248
-environment TW
+environment   TW
 definition information desk
 *** 
 pinyin jǐnjí táoshēng
@@ -120616,7 +120591,7 @@ definition warmth (emotional)
 pinyin Fǔguó
 characters 腐国[-國]
 serial-number CedPane24266
-environment netspeak
+environment   netspeak
 definition Immoral England
 *** 
 pinyin Hūxiào Shānzhuāng
@@ -120707,19 +120682,19 @@ definition balance (on EasyCard etc)
 pinyin jídiǎn
 characters 集点[-點]
 serial-number CedPane24284
-environment TW?
+environment   TW?
 definition collect points (retail promotions etc)
 *** 
 pinyin fùzài pínghéng
 characters 负载平衡[負載--]
 serial-number CedPane24285
-environment comp.
+environment   comp.
 definition load balancing
 *** 
 pinyin xìngnéng fēnxi
 characters 性能分析
 serial-number CedPane24286
-environment comp.
+environment   comp.
 definition profiling; performance analysis
 *** 
 pinyin Qìxiàng Bàngōngshì
@@ -120765,7 +120740,7 @@ definition measure with steps; visit to see for oneself (a place)
 pinyin shízhèng
 characters 时正[時-]
 serial-number CedPane24295
-environment Cantonese
+environment   Cantonese
 definition o'clock
 *** 
 pinyin yóuxì zhàng'ài
@@ -120921,7 +120896,7 @@ definition collagen
 pinyin xiàngliàn
 characters 项鍊[項-]
 serial-number CedPane24326
-environment TW
+environment   TW
 definition necklace
 *** 
 pinyin niúnǎi qiǎokèlì
@@ -120957,19 +120932,19 @@ definition driving speed (of car etc)
 pinyin zhuānyòng pōdào
 characters 专用坡道[專---]
 serial-number CedPane24333
-environment TW
+environment   TW
 definition special ramp (for wheelchairs); wheelchair ramp
 *** 
 pinyin xīyān
 characters 吸菸
 serial-number CedPane24334
-environment TW
+environment   TW
 definition smoking
 *** 
 pinyin jìnzhǐ xīyān
 characters 禁止吸菸
 serial-number CedPane24335
-environment TW
+environment   TW
 definition no smoking
 *** 
 pinyin yuánqū nèi
@@ -120990,7 +120965,7 @@ definition English-style afternoon tea
 pinyin mínsù
 characters 民宿
 serial-number CedPane24339
-environment TW
+environment   TW
 definition homestay
 *** 
 pinyin qùshuǐ
@@ -121131,7 +121106,7 @@ definition classic popular music
 pinyin chōushījī
 characters 抽湿机[-濕機]
 serial-number CedPane24367
-environment HK
+environment   HK
 definition dehumidifier
 *** 
 pinyin qùzhímínhuà
@@ -121142,7 +121117,7 @@ definition decolonisation
 pinyin xiǎohuǒbàn
 characters 小伙伴
 serial-number CedPane24369
-environment netspeak?
+environment   netspeak?
 definition comrade
 *** 
 pinyin sǎnjià
@@ -121268,7 +121243,7 @@ definition lacto-ovo vegetarian
 pinyin hánfù
 characters 含附
 serial-number CedPane24394
-environment TW
+environment   TW
 definition include (in the price etc)
 *** 
 pinyin xìbiǎnmiàn
@@ -121314,7 +121289,7 @@ definition Cingjing area (in Nantou)
 pinyin yuánzhùmínzú
 characters 原住民族
 serial-number CedPane24403
-environment TW
+environment   TW
 definition aboriginal
 *** 
 pinyin Sàidékè
@@ -121380,7 +121355,7 @@ definition company philosophy (lit. brand belief)
 pinyin jìnyān
 characters 禁菸
 serial-number CedPane24416
-environment TW
+environment   TW
 definition no smoking
 *** 
 pinyin quándòng
@@ -121441,7 +121416,7 @@ definition table reservation
 pinyin Xiàwēiyí guǒrén
 characters 夏威夷果仁
 serial-number CedPane24428
-definition Macadamia nut 
+definition Macadamia nut
 *** 
 pinyin yuánshēngtài
 characters 原生态[--態]
@@ -121496,7 +121471,7 @@ definition lift handset (of phone)
 pinyin bó'ài zuò
 characters 博爱座[-愛-]
 serial-number CedPane24439
-environment TW
+environment   TW
 definition priority seat
 *** 
 pinyin huángxiàn
@@ -121512,7 +121487,7 @@ definition electrolyte solution
 pinyin jìchéngchē zhāohuzhàn
 characters 计程车招呼站[計-車---]
 serial-number CedPane24442
-environment TW
+environment   TW
 definition taxi stand
 *** 
 pinyin zhùliú
@@ -121583,19 +121558,19 @@ definition electronic files
 pinyin língqiánjuān
 characters 零钱捐[-錢-]
 serial-number CedPane24456
-environment TW
+environment   TW
 definition donations of small change (for charity)
 *** 
 pinyin zhìliáojì
 characters 治疗剂[-療劑]
 serial-number CedPane24457
-environment TW
+environment   TW
 definition treatment; medication
 *** 
 pinyin yúlíncì
 characters 鱼鳞刺[魚鱗-]
 serial-number CedPane24458
-environment TW
+environment   TW
 definition verruca
 *** 
 pinyin rèdài shuǐguǒ
@@ -121651,7 +121626,7 @@ definition Keelung (near Taipei)
 pinyin xīguā tián bù tián
 characters 西瓜甜不甜
 serial-number CedPane24469
-environment TW?
+environment   TW?
 definition are watermelons sweet? (photograph "say cheese" equivalent)
 *** 
 pinyin Zhōng-Yuè Zhànzhēng
@@ -121772,7 +121747,7 @@ definition put on clothes
 pinyin chádiànqì
 characters 叉电器[-電-]
 serial-number CedPane24493
-environment Cantonese
+environment   Cantonese
 definition charger
 *** 
 pinyin Jiānshājǔ
@@ -121788,19 +121763,19 @@ definition national anthem is played
 pinyin kēxuéguǎn
 characters 科学馆[-學館]
 serial-number CedPane24496
-environment HK
+environment   HK
 definition science museum
 *** 
 pinyin pàobāo
 characters 麭包
 serial-number CedPane24497
-environment Cantonese
+environment   Cantonese
 definition bread
 *** 
 pinyin zhúshēng
 characters 竹升
 serial-number CedPane24498
-environment Cant., derog. 
+environment   Cant., derog.
 definition Westernized Chinese person
 *** 
 pinyin Zhōngguó Zhīwǎng
@@ -121981,7 +121956,7 @@ definition waist
 pinyin tàikōngguǎn
 characters 太空馆[--館]
 serial-number CedPane24534
-environment HK
+environment   HK
 definition space museum
 *** 
 pinyin Bùlǐdùn
@@ -122002,7 +121977,7 @@ definition smoke door
 pinyin yādiàn
 characters 押店
 serial-number CedPane24538
-environment HK
+environment   HK
 definition pawn shop
 *** 
 pinyin mùbào
@@ -122013,13 +121988,13 @@ definition wood planer
 pinyin qiānbǐbào
 characters 铅笔刨[鉛筆-]
 serial-number CedPane24540
-environment Cantonese
+environment   Cantonese
 definition pencil sharpener
 *** 
 pinyin bǐbào
 characters 笔刨[筆-]
 serial-number CedPane24541
-environment Cantonese
+environment   Cantonese
 definition pencil sharpener
 *** 
 pinyin xīguā bō
@@ -122055,13 +122030,13 @@ definition (supermarket) checkout
 pinyin yōuxiān zuò
 characters 优先座[優--]
 serial-number CedPane24548
-environment HK
+environment   HK
 definition priority seat
 *** 
 pinyin zēngzhíjī
 characters 增值机[--機]
 serial-number CedPane24549
-environment HK
+environment   HK
 definition add-value machine (for topping up Octopus card)
 *** 
 pinyin Bādátōngkǎ
@@ -122137,7 +122112,7 @@ definition a good night's sleep
 pinyin bāshìzhàn
 characters 巴士站
 serial-number CedPane24564
-environment HK
+environment   HK
 definition bus stop
 *** 
 pinyin Rìshì
@@ -122153,7 +122128,7 @@ definition wife cake (HK snack)
 pinyin dīshìzhàn
 characters 的士站
 serial-number CedPane24567
-environment HK
+environment   HK
 definition taxi stand
 *** 
 pinyin Shānlǎnchē
@@ -122315,3 +122290,24 @@ pinyin zìdòng kòuchú
 characters 自动扣除[-動--]
 serial-number CedPane24599
 definition automatic deduction (of credit etc)
+*** 
+pinyin jìxù zuòzhe
+characters 继续坐着[繼續-著]
+serial-number CedPane24600
+definition remain seated
+*** 
+pinyin nídù
+characters 呢度
+serial-number CedPane24601
+environment   Cantonese
+definition here
+*** 
+pinyin xiūxián zhōngxīn
+characters 休闲中心[-閑--]
+serial-number CedPane24602
+definition leisure centre
+*** 
+pinyin xiūxián zhōngxīn
+characters 休閒中心
+serial-number CedPane24603
+definition leisure centre
