@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-03-01
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-03-03
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -18296,6 +18296,7 @@
 電腦科 电脑科 [dian4 nao3 ke1] /computer science (old translation)/science, computer (old translation)/
 電腦桌 电脑桌 [dian4 nao3 zhuo1] /computer desk/desk, computer/
 電氣工程 电气工程 [dian4 qi4_gong1 cheng2] /electrical engineering/engineering, electrical/
+電器店 电器店 [dian4 qi4 dian4] /electrical shop (for phones, laptops etc)/shop, electrical (for phones, laptops etc)/
 電熱油汀 电热油汀 [dian4 re4_you2 ting1] /oil-filled radiator (abbreviated form)/radiator, oil-filled (abbreviated form)/
 電熱油汀取暖器 电热油汀取暖器 [dian4 re4_you2 ting1_qu3 nuan3 qi4] /oil-filled radiator/radiator, oil-filled/
 電熱水壺 电热水壶 [dian4 re4 shui3 hu2] /electric water boiler (for on-demand hot water)/water boiler, electric (for on-demand hot water)/
@@ -19427,6 +19428,7 @@
 灰岩坑 灰岩坑 [hui1 yan2 keng1] /sinkhole/
 回到過去 回到过去 [hui2_dao4_guo4 qu4] /go back in time/back in time, go/
 回正文 回正文 [hui2_zheng4 wen2] /returning to the text (after a footnote)/text, returning to the (after a footnote)/
+回港 回港 [hui2 gang3] /return to Hong Kong (from a trip)/Hong Kong, return to (from a trip)/
 回聲定位法 回声定位法 [hui2 sheng1_ding4 wei4 fa3] /echo location/location, echo/
 回收區 回收区 [hui2 shou1 qu1] /recycling area/area, recycling/
 回想起 回想起 [hui2 xiang3 qi3] /remember/recall/think of again/again, think of/
@@ -19514,6 +19516,7 @@
 機器人手臂 机器人手臂 [ji1 qi4 ren2_shou3 bi4] /robotic arm/
 肌肉緊張 肌肉紧张 [ji1 rou4_jin3 zhang1] /muscle tension/tension, muscle/
 擊殺 击杀 [ji1 sha1] /strike down/down, strike/
+機上娛樂 机上娱乐 [ji1 shang5_yu2 le4] /in-flight entertainment (on aeroplane)/entertainment, in-flight (on aeroplane)/
 几十年來 几十年来 [ji1 shi2_nian2_lai2] /for decades/decades, for/
 激素補充療法 激素补充疗法 [ji1 su4_bu3 chong1_liao2 fa3] /hormone replacement therapy/replacement therapy, hormone/
 激素分泌過多 激素分泌过多 [ji1 su4_fen1 mi4_guo4 duo1] /hormonal surges (lit. hormone secrete excessive)/surges, hormonal (lit. hormone secrete excessive)/
@@ -19566,6 +19569,7 @@
 寄件人地址 寄件人地址 [ji4 jian4 ren2_di4 zhi3] /sender's address/address, sender's/
 季節性情緒失調 季节性情绪失调 [ji4 jie2 xing4_qing2 xu4_shi1 tiao2] /seasonal affective disorder/SAD/affective disorder, seasonal/
 記錄派遞 记录派递 [ji4 lu4_pai4 di4] /recorded delivery/delivery, recorded/
+紀律委員 纪律委员 [ji4 lu:4_wei3 yuan2] /school prefect/class monitor/prefect, school/monitor, class/
 紀念墓 纪念墓 [ji4 nian4 mu4] /memorial tombs/tombs, memorial/
 紀念牌 纪念牌 [ji4 nian4 pai2] /memorial plaque/plaque, memorial/
 繼親 继亲 [ji4 qin1] /step (as in stepfamilies)/
@@ -21986,6 +21990,7 @@
 數百 数百 [shu4_bai3] /hundreds/
 數百萬 数百万 [shu4_bai3 wan4] /millions/
 數綿羊 数绵羊 [shu4_mian2 yang2] /counting sheep (ineffective sleep method)/sheep, counting (ineffective sleep method)/
+數據服務 数据服务 [shu4 ju4_fu2 wu4] /data service (for mobile phone etc)/service, data (for mobile phone etc)/
 數據包 数据包 [shu4 ju4 bao1] /packet/
 數碼錄音磁帶 数码录音磁带 [shu4 ma3_lu4 yin1_ci2 dai4] /digital audio tape/DAT/audio tape, digital/
 樹莓 树莓 [shu4 mei2] /Asian raspberry/rubus corchorifolius/raspberry, Asian/corchorifolius, rubus/
@@ -22435,6 +22440,7 @@
 突擊行動 突击行动 [tu1 ji1_xing2 dong4] /sting operation/operation, sting/
 凸塊 凸块 [tu1 kuai4] /bumps (on surface of something)/
 突如其來的情況 突如其来的情况 [tu1 ru2 qi2 lai2_de5_qing2 kuang4] /unexpected situation/situation, unexpected/
+途步 途步 [tu2 bu4] /hiking/
 圖片來源網絡 图片来源网络 [tu2 pian4_lai2 yuan2_wang3 luo4] /picture from the Web (lazy attribution)/
 圖片來源于網絡 图片来源于网络 [tu2 pian4_lai2 yuan2 yu2_wang3 luo4] /picture from the Web (common lazy attribution)/
 圖簽 图签 [tu2 qian1] /icon/
@@ -23668,6 +23674,7 @@
 又譯 又译 [you4 yi4] /also translated as/translated as, also/
 淤青 淤青 [yu1 qing1] /bruise/
 漁鏢 渔镖 [yu2_biao1] /harpoon (lit. fish dart)/
+餘額不足 余额不足 [yu2 e2_bu4 zu2] /insufficient credit (on prepaid card etc)/credit, insufficient (on prepaid card etc)/
 愚蠢的人 愚蠢的人 [yu2 chun3_de5_ren2] /fool (foolish person)/
 愚蠢人 愚蠢人 [yu2 chun3 ren2] /foolish person ('s ...)/person, foolish ('s ...)/
 魚腹 鱼腹 [yu2 fu4] /inward parts of fish (lit. fish belly)/parts of fish, inward (lit. fish belly)/
