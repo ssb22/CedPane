@@ -6538,6 +6538,7 @@ explosives	爆炸品	爆炸品	bàozhàpǐn	baau-ja-bán
 export as plain text	导出为纯文本	導出為純文本	dǎochū wéi chúnwénběn	douh-chēut wàih sèuhn-màhn-bún	
 express an opinion	表达意见	表達意見	biǎodá yìjian	bíu-daaht yi-gin	
 express in words	言喻	言喻	yányù	yìhn-yuh	
+expropriation	圈钱	圈錢	quānqián	hyūn-chín	
 extend a helping hand	伸出援手	伸出援手	shēnchū yuánshǒu	sān-chēut wùhn-sáu	
 extensive (description etc)	巨细无遗	巨細無遺	jùxìwúyí	geuih-sai-mòuh-wàih	ˌɪkstˈɛnsɪv
 extensive discussion (between different parties etc)	广泛的讨论	廣泛的討論	guǎngfàn de tǎolùn	gwóng-faan dīk tóu-leuhn	
@@ -6608,6 +6609,7 @@ faithfully; honestly	衷心地	衷心地	zhōngxīn de	jūng-sām deih	fˈeɪθf
 faithfully do one's duty as a subject (?)	尽忠职守	盡忠職守	jìnzhōng-zhíshǒu	jeuhn-jūng-jīk-sáu	
 Faith (given name)	费丝	費絲	Fèisī	Fai-sī	
 Fajardo	法哈多	法哈多	Fǎhāduō	Faat-hā-dō	
+fake news	假新闻	假新聞	jiǎ xīnwén	gá sān-màhn	
 fake Web site	冒名网站	冒名網站	màomíng wǎngzhàn	mouh-mìhng móhng-jaahm	
 Faku (county, in Liaoning)	法库县	法庫縣	Fǎkù Xiàn	Faat-fu Yún	
 Falam	法兰	法蘭	Fǎlán	Faat-làahn	
@@ -10013,6 +10015,7 @@ institutions of higher education	高等学府	高等學府	gāoděng xuéfǔ	gō
 <comp.> instruction cycle	指令周期	指令周期	zhǐlìng zhōuqī	jí-lihng jāu-kèih	
 instrumentation science and technology	仪器科学与技术	儀器科學與技術	yíqì kēxué yǔ jìshù	yìh-hei fō-hohk yúh geih-seuht	
 insufficient credit (on prepaid card etc)	余额不足	餘額不足	yú'é bùzú	yùh-ngaahk bāt-jūk	
+insufficiently smooth	麻赖	麻賴	málài	màh-laaih	
 insulated support brackets (for heating pipes)	隔热支架	隔熱支架	gérè zhījià	gaak-yiht jī-gá	
 Inta	因塔	因塔	Yīntǎ	Yān-taap	
 integrity and security (of a country etc)	社会安定	社會安定	shèhuì āndìng	séh-wúi ngōn-dihng	
@@ -11390,6 +11393,7 @@ kidney failure	肾衰竭	腎衰竭	shèn shuāijié	sahn sēui-kit
 kidney science	肾脏科	腎臟科	shènzàngkē	sahn-johng-fō	
 kid of the goats	山羊羔	山羊羔	shānyánggāo	sāan-yèuhng-gōu	
 Kidron	汲沦	汲淪	Jílún	Kāp-lèuhn	kˈɪdɹɒn
+Kiera	琪拉	琪拉	Qílā	Kèih-lāai	
 Kierkegaard	吉尔凯高尔	吉爾凱高爾	Jí'ěrkǎigāo'ěr	Gāt-yíh-hói-gōu-yíh	
 Kiernan	基尔南	基爾南	Jī'ěrnán	Gēi-yíh-nàahm	
 Kiev	基辅	基輔	Jīfǔ	Gēi-fuh	kˈiɛf
@@ -14314,7 +14318,7 @@ morally	道德上	道德上	dàodé shang	douh-dāk séuhng	mˈɒɹəli
 Moral Majority	道德多数派	道德多數派	Dàodé Duōshù pài	Douh-dāk Dō-sou paai	
 moral protection (lit. moral defense-line)	道德防线	道德防線	dàodé fángxiàn	douh-dāk fòhng-sin	
 moral sense	道德感	道德感	dàodégǎn	douh-dāk-gám	
-moral values	道德标准	道德標準	dàodé biāozhǔn	douh-dāk bīu-jéun	
+moral values; moral standards	道德标准	道德標準	dàodé biāozhǔn	douh-dāk bīu-jéun	
 Moravec	莫拉维克	莫拉維克	Mòlāwéikè	Mohk-lāai-wàih-hāk	
 Moravec's paradox	莫拉维克悖论	莫拉維克悖論	Mòlāwéikè bèilùn	Mohk-lāai-wàih-hāk bui-leuhn	
 Moravia(n)	摩拉维亚	摩拉維亞	Mólāwéiyà	Mō-lāai-wàih-nga	
@@ -17282,6 +17286,7 @@ Quelimane	克利马内	克利馬內	Kèlìmǎnèi	Hāk-leih-máh-noih
 Queshan (county, in Henan)	确山县	確山縣	Quèshān Xiàn	Kok-sāan Yún	
 question-and-answer session (on a programme)	问答环节	問答環節	wèn-dá huánjié	mahn-daap wàahn-jit	
 questioner (person who asks a question)	提问者	提問者	tíwènzhě	tàih-mahn-jé	kwˈɛstʃənɚ
+Questionnaire Net (Chinese survey platform)	问卷网	問卷網	Wènjuàn Wǎng	Mahn-gyún Móhng	
 Quetta (place in Pakistan)	奎达	奎達	Kuídá	Fūi-daaht	
 queueing area	排队区	排隊區	páiduìqū	pàaih-deuih-kēui	
 Quevedo	克韦多	克韋多	Kèwéiduō	Hāk-wáih-dō	
@@ -18019,6 +18024,7 @@ roller (of wagon etc)	碌轴	碌軸	liùzhóu	lūk-juhk	ɹˈəʊlɚ
 rolling on the floor	在地上翻滚	在地上翻滾	zài dìshang fāngǔn	joih deih-seuhng fāan-gwán	
 Rollins	羅林斯	羅林斯	Luólínsī	Lòh-làhm-sī	
 Rolls-Royce	劳斯莱斯	勞斯萊斯	Láosīláisī	Lòuh-sī-lòih-sī	
+roll (sthg) around in one's hand	盘玩	盤玩	pánwán	pùhn-wáan	
 roll toward	滚到	滾到	gǔndào	gwán-dou	
 roll up one's sleeves	卷起袖子	捲起袖子	juǎnqǐ xiùzi	gyún-héi jauh-jí	
 Romagna	罗马涅	羅馬涅	Luómǎniè	Lòh-máh-nihp	
@@ -18151,6 +18157,7 @@ Roxane	罗克珊娜	羅克珊娜	Luókèshānnà	Lòh-hāk-sāan-nàh
 Roxanne	罗克珊	羅克珊	Luókèshān	Lòh-hāk-sāan	
 Roy	洛伊	洛伊	Luòyī	Lohk-yī	
 Roy	罗伊	羅伊	Luóyī	Lòh-yī	
+Royal Ascot	皇家赛马会	皇家賽馬會	Huángjiā Sàimǎhuì	Wòhng-gā Choi-máh-wúi	
 Royal Ballet School	皇家芭蕾舞学院	皇家芭蕾舞學院	Huángjiā Bālěiwǔ Xuéyuàn	Wòhng-gā Bā-lèuih-móuh Hohk-yún	
 Royal Birmingham Conservatoire	伯明翰音乐学院	伯明翰音樂學院	Bómínghàn Yīnyuè Xuéyuàn	Baak-mìhng-hohn Yām-ngohk Hohk-yún	
 Royal College of Art	皇家艺术学院	皇家藝術學院	Huángjiā Yìshù Xuéyuàn	Wòhng-gā Ngaih-seuht Hohk-yún	
@@ -21224,6 +21231,8 @@ Thorn (surname)	索恩	索恩	Suǒ'ēn	Sok-yān
 thoroughly search	搜遍	搜遍	sōubiàn	sáu-pin	
 thorough search (of confiscated building)	彻底搜查	徹底搜查	chèdǐ sōuchá	chit-dái sáu-chàh	
 Thorpe	索普	索普	Suǒpǔ	Sok-póu	
+those who help themselves	自助者	自助者	zìzhùzhě	jih-joh-jé	
+those who help themselves get help from heaven (attr. Aesop)	自助者天助之	自助者天助之	zìzhùzhě tiānzhù zhī	jih-joh-jé tīn-joh jī	
 Thoth	透特	透特	Tòutè	Tau-dahk	
 thought	想过	想過	xiǎngguo	séung-gwo	
 "thought experiments" (Galileo)	思考实验	思考實驗	sīkǎo shíyàn	sī-háau saht-yihm	
@@ -22008,6 +22017,7 @@ Union Carbide (company)	联合碳化物公司	聯合碳化物公司	Liánhé Tà
 unite	团结合一	團結合一	tuánjié-héyī	tyùhn-git-hahp-yāt	jˌʉːnˈaɪt
 unite as one	团结一心	團結一心	tuánjiéyīxīn	tyùhn-git-yāt-sām	
 United Airlines	联合航空公司	聯合航空公司	Liánhé Hángkōng Gōngsī	Lyùhn-hahp Hòhng-hūng Gūng-sī	
+United Arab Emirates (abbr)	阿联	阿聯	Ā Lián	A Lyùhn	
 United Bible Societies; UBS	联合圣经公会	聯合聖經公會	Liánhé Shèngjīng Gōnghuì	Lyùhn-hahp Sing-gīng Gūng-wúi	
 United Kingdom of Great Britain and Northern Ireland	大不列颠及北爱尔兰联合王国	大不列顛及北愛爾蘭聯合王國	Dàbùlièdiān jí Běi Ài'ěrlán Liánhé Wángguó	Daaih-bāt-liht-dīn kahp Bāk Ngoi-yíh-làahn Lyùhn-hahp Wòhng-gwok	
 United Nations Children's Fund	联合国儿童基金会	聯合國兒童基金會	Liánhéguó Értóng Jījīnhuì	Lyùhn-hahp-gwok Yìh-tùhng Gēi-gām-wúi	
@@ -22847,6 +22857,7 @@ white noise	白噪音	白噪音	bái zàoyīn	baahk chou-yām
 white pebble (lit. white stone)	白石	白石	báishí	baahk-sehk	
 white robe	白袍	白袍	báipáo	baahk-pòuh	
 White (surname)	怀特	懷特	Huáitè	Wàaih-dahk	
+whitewash (figurative)	洗白	洗白	xǐbái	sái-baahk	
 Whitley	惠特利	惠特利	Huìtèlì	Waih-dahk-leih	
 Whitman	惠特曼	惠特曼	Huìtèmàn	Waih-dahk-maahn	
 Whitney	惠特尼	惠特尼	Huìtèní	Waih-dahk-nèih	
