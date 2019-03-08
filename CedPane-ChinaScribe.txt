@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-03-05
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-03-08
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -2283,6 +2283,7 @@
 布爾津縣 布尔津县 [Bu4 er3 jin1_Xian4] /Burqin (county, in Xinjiang)/
 布爾諾 布尔诺 [Bu4 er3 nuo4] /Brno/
 部百流 部百流 [Bu4 bai3 liu2] /Publius/
+布伯 布伯 [Bu4 bo2] /Buber/
 布達佩斯 布达佩斯 [Bu4 da2 pei4 si1] /Budapest/
 布德爾 布德尔 [Bu4 de2 er3] /Bourdel/
 布德內 布德内 [Bu4 de2 nei4] /Budny/
@@ -3816,6 +3817,7 @@
 腓立比書 腓立比书 [Fei2 li4 bi3 shu1] /Philippians (Bible book)/
 腓利門 腓利门 [Fei2 li4 men2] /Philemon/
 腓利門書 腓利门书 [Fei2 li4 men2 shu1] /Philemon (Bible book)/
+腓立普 腓立普 [Fei2 li4 pu3] /Philip (modern, older translation)/
 腓力斯 腓力斯 [Fei2 li4 si1] /Felix/
 腓尼基文 腓尼基文 [Fei2 ni2 ji1 wen2] /Phoenician (written language)/
 腓尼基語 腓尼基语 [Fei2 ni2 ji1 yu3] /Phoenician (language)/
@@ -4283,6 +4285,7 @@
 高港區 高港区 [Gao1 gang3_Qu1] /Gaogang District/District, Gaogang/
 高格爾 高格尔 [Gao1 ge2 er3] /Koegel/
 高庚 高庚 [Gao1 geng1] /Gauguin/
+高級督察 高级督察 [Gao1 ji2_Du1 cha2] /Senior Supervisor/Supervisor, Senior/
 高加米拉 高加米拉 [Gao1 jia1 mi3 la1] /Gaugamela/
 皋蘭縣 皋兰县 [Gao1 lan2_Xian4] /Gaolan (county, in Gansu)/
 高麗青瓷 高丽青瓷 [Gao1 li2_qing1 ci2] /Koryo celadon/celadon, Koryo/
@@ -4513,6 +4516,7 @@
 格魯吉亞語 格鲁吉亚语 [Ge2 lu3 ji2 ya4 yu3] /Georgian (language)/
 格魯克 格鲁克 [Ge2 lu3 ke4] /Gluck/
 格魯珀 格鲁珀 [Ge2 lu3 po4] /Gruppe/
+格露德 格露德 [Ge2 lu4 de2] /Gertrude (older translation)/
 格倫 格伦 [Ge2 lun2] /Gerem/Groen/
 格倫代爾 格伦代尔 [Ge2 lun2 dai4 er3] /Glendale/
 格倫費爾 格伦费尔 [Ge2 lun2 fei4 er3] /Grenfell/
@@ -5078,6 +5082,7 @@
 海珠區 海珠区 [Hai3 zhu1_Qu1] /Haizhu District/District, Haizhu/
 亥維賽 亥维赛 [Hai4 wei2 sai4] /Heaviside/
 韓石山 韩石山 [Han2_Shi2 shan1] /Shishan Han (editor of books about Xu Zhimo)/
+韓正 韩正 [Han2_Zheng4] /Han Zheng (politician)/Zheng, Han (politician)/
 韓城 韩城 [Han2 cheng2] /Hancheng (in Shaanxi)/
 韓城市 韩城市 [Han2 cheng2_Shi4] /Hancheng (in Shaanxi)/
 邯鄲 邯郸 [Han2 dan1] /Handan (in Hebei)/
@@ -5313,6 +5318,7 @@
 鶴山區 鹤山区 [He4 shan1_Qu1] /Heshan District/District, Heshan/
 鶴山市 鹤山市 [He4 shan1_Shi4] /Heshan (in Guangdong)/
 赫舍汪月 赫舍汪月 [He4 she4 wang1 yue4] /month of Marheshvan (alternate translation)/Marheshvan, month of (alternate translation)/
+賀斯 贺斯 [He4 si1] /Hoess/Höss/
 赫斯 赫斯 [He4 si1] /Hess/
 赫斯基 赫斯基 [He4 si1 ji1] /Hesky/
 赫斯勒 赫斯勒 [He4 si1 le4] /Hessler/
@@ -6072,6 +6078,7 @@
 加佛港 加佛港 [Jia1 fo2 gang3] /Gulfport/
 加夫里爾 加夫里尔 [Jia1 fu1 li3 er3] /Gavriil/
 加夫里利德斯 加夫里利德斯 [Jia1 fu1 li3 li4 de2 si1] /Gavrielides/
+嘉芙 嘉芙 [Jia1 fu2] /Kaethe/
 嘉芙蓮 嘉芙莲 [Jia1 fu2 lian2] /Katherine/
 加芙列拉 加芙列拉 [Jia1 fu2 lie4 la1] /Gabriela/
 佳港 佳港 [Jia1 gang3] /Fair Havens/Havens, Fair/
@@ -6380,6 +6387,7 @@
 金球獎 金球奖 [Jin1_Qiu2_Jiang3] /Golden Globe Award/Globe Award, Golden/
 金香蘋果 金香苹果 [Jin1_Xiang1_ping2 guo3] /Golden Delicious (apple variety)/Delicious, Golden (apple variety)/
 金庸 金庸 [Jin1_Yong1] /Jin Yong (writer)/Yong, Jin (writer)/
+金正恩 金正恩 [Jin1_Zheng4 en1] /Kim Jong-un (North Korea leader)/Jong-un, Kim (North Korea leader)/
 金正日 金正日 [Jin1_Zheng4 ri4] /Kim Jong-il/Jong-il, Kim/
 金安區 金安区 [Jin1 an1_Qu1] /Jin'an District/District, Jin'an/
 金馬地區 金马地区 [Jin1 Ma3_di4 qu1] /Kinmen and Matsu districts (TW)/Matsu districts, Kinmen and (TW)/
@@ -6618,6 +6626,7 @@
 卡多語 卡多语 [Ka3 duo1 yu3] /Caddo (language)/
 卡多佐 卡多佐 [Ka3 duo1 zuo3] /Cardoso/
 卡菲利 卡菲利 [Ka3 fei1 li4] /Caerphilly/
+卡格斯 卡格斯 [Ka3 ge2 si1] /Cargas/
 卡赫季 卡赫季 [Ka3 he4 ji4] /Kakheti/
 卡霍奧拉維島 卡霍奥拉维岛 [Ka3 huo4 ao4 la1 wei2 dao3] /Kahoolawe (island)/
 卡加萊 卡加莱 [Ka3 jia1 lai2] /Kangale/
@@ -7991,6 +8000,7 @@
 理亞 理亚 [Li3 ya4] /Ria/
 里亞茲 里亚兹 [Li3 ya4 zi1] /Riaz/
 里約熱內盧 里约热内卢 [Li3 yue1 Re4 nei4 lu2] /Rio de Janeiro/Janeiro, Rio de/
+栗戰書 栗战书 [Li4_Zhan4 shu1] /Li Zhanshu (policitian)/Zhanshu, Li (policitian)/
 利安 利安 [Li4 an1] /Léone/
 莉安 莉安 [Li4 an1] /Leanne/
 利昂 利昂 [Li4 ang2] /Leon/
@@ -9057,6 +9067,7 @@
 瑪加伯下 玛加伯下 [Ma3 jia1 bo2_Xia4] /2 Maccabees (apocryphal book)/Maccabees, 2 (apocryphal book)/
 馬加丹 马加丹 [Ma3 jia1 dan1] /Magadan/
 瑪加莉 玛加莉 [Ma3 jia1 li4] /Magaly/
+瑪嘉烈 玛嘉烈 [Ma3 jia1 lie4] /Margarete/
 瑪迦人 玛迦人 [Ma3 jia1 ren2] /Maacathite/
 瑪迦斯 玛迦斯 [Ma3 jia1 si1] /Makaz/
 瑪結 玛结 [Ma3 jie2] /Malchiel/
@@ -9527,6 +9538,7 @@
 梅州 梅州 [Mei2 zhou1] /Meizhou (in Guangdong)/
 梅州市 梅州市 [Mei2 zhou1_Shi4] /Meizhou (in Guangdong)/
 美魏茶 美魏茶 [Mei3_Wei4 cha2] /William Milne (helped Morrison)/Milne, William (helped Morrison)/
+美朝 美朝 [Mei3 Chao2] /US-North Korea (relations etc)/Korea, US-North (relations etc)/
 美墨 美墨 [Mei3 Mo4] /US-Mexico/
 美蒂 美蒂 [Mei3 di4] /Maite/
 美第奇 美第奇 [Mei3 di4 qi2] /Médicis/
@@ -10528,6 +10540,7 @@
 農神節 农神节 [Nong2 shen2_jie2] /Saturnalia/
 努埃爾語 努埃尔语 [Nu3 ai1 er3 yu3] /Nuer (language)/
 努埃拉 努埃拉 [Nu3 ai1 la1] /Manuela/
+努爾 努尔 [Nu3 er3] /Knoll (surname)/
 努爾蘇丹 努尔苏丹 [Nu3 er3 su1 dan1] /Nursultan/
 努比亞 努比亚 [Nu3 bi3 ya4] /Nubia/
 努登舍爾德 努登舍尔德 [Nu3 deng1 she4 er3 de2] /Nordenskiöld/
@@ -12307,6 +12320,7 @@
 市北區 市北区 [Shi4 bei3_Qu1] /Shibei District/District, Shibei/
 示玻 示玻 [Shi4 bo1] /Shepho/
 示播列 示播列 [Shi4 bo1 lie4] /Shibboleth/
+視察營房 视察营房 [Shi4 cha2_Ying2 fang2] /Inspection Block (in Nazi camp)/Block, Inspection (in Nazi camp)/
 視窗操作系統 视窗操作系统 [Shi4 chuang1_cao1 zuo4_xi4 tong3] /Windows operating system/Microsoft Windows/operating system, Windows/
 示達 示达 [Shi4 da2] /Shethar/
 示法 示法 [Shi4 fa3] /Sheva/
@@ -12682,6 +12696,7 @@
 松滋市 松滋市 [Song1 zi1_Shi4] /Songzi (in Hubei)/
 宋乾節 宋干节 [Song4 gan1 jie2] /Songkran (water-sprinkling festival)/
 搜狗 搜狗 [Sou1 gou3] /Sogou (company, lit. Search Dog)/
+蘇輝 苏辉 [Su1_Hui1] /Su Hui (politician)/
 蘇埃倫 苏埃伦 [Su1 ai1 lun2] /Suellen/
 蘇埃托尼烏斯 苏埃托尼乌斯 [Su1 ai1 tuo1 ni2 wu1 si1] /Suetonius/
 蘇艾 苏艾 [Su1 ai4] /Suai/
@@ -13632,6 +13647,7 @@
 汪加奴 汪加奴 [Wang1 jia1 nu2] /Wanganui/
 汪清縣 汪清县 [Wang1 qing1_Xian4] /Wangqing (county, in Jilin)/
 王菲 王菲 [Wang2_Fei1] /Faye Wong (singer)/Wong, Faye (singer)/
+王滬寧 王沪宁 [Wang2_Hu4 ning4] /Wang Huning (politician)/Huning, Wang (politician)/
 王力帆 王力帆 [Wang2_Li4 fan1] /Lifan Wang (astronomy director)/Wang, Lifan (astronomy director)/
 王立平 王立平 [Wang2_Li4 ping2] /Liping Wang (composer b.1941)/Wang, Liping (composer b.1941)/
 王熙鳳 王熙凤 [Wang2_Xi1 feng4] /Wang Xifeng (character in Dream of the Red Chamber)/Xifeng, Wang (character in Dream of the Red Chamber)/
@@ -13826,6 +13842,7 @@
 維斯瓦瀉湖 维斯瓦泻湖 [Wei2 si1 wa3_Xie4 hu2] /Vistula Lagoon/Lagoon, Vistula/
 維斯瓦河 维斯瓦河 [Wei2 si1 wa3 he2] /Vistula River/River, Vistula/
 維蘇威 维苏威 [Wei2 su1 wei1] /Vesuvius/
+韋素爾 韦素尔 [Wei2 su4 er3] /Wiesel (older translation)/
 維塔利 维塔利 [Wei2 ta3 li4] /Vitaly/
 維坦托 维坦托 [Wei2 tan3 tuo1] /Witanto/
 維特 维特 [Wei2 te4] /Witt (surname)/
@@ -14837,7 +14854,7 @@
 心利 心利 [Xin1 li4] /Zimri/
 新龍縣 新龙县 [Xin1 long2_Xian4] /Xinlong (county, in Sichuan)/
 新羅區 新罗区 [Xin1 luo2_Qu1] /Xinluo District/District, Xinluo/
-辛瑪 辛玛 [Xin1 ma3] /Zimmah/
+辛瑪 辛玛 [Xin1 ma3] /Zimmah/Zimmer/
 辛梅里安人 辛梅里安人 [Xin1 mei2 li3 an1 ren2] /Cimmerians/
 新密 新密 [Xin1 mi4] /Xinmi (in Henan)/
 新密市 新密市 [Xin1 mi4_Shi4] /Xinmi (in Henan)/
@@ -16646,6 +16663,7 @@
 占士邦 占士邦 [Zhan4 shi4 bang1] /James Bond/Bond, James/
 張愛玲 张爱玲 [Zhang1_Ai4 ling2] /Eileen Chang (writer)/Chang, Eileen (writer)/
 漳河 漳河 [Zhang1_He2] /Zhang River/River, Zhang/
+張慶黎 张庆黎 [Zhang1_Qing4 li2] /Zhang Qingli (politician)/Qingli, Zhang (politician)/
 漳縣 漳县 [Zhang1_Xian4] /Zhang County/County, Zhang/
 章曉雯 章晓雯 [Zhang1_Xiao3 wen2] /Zhang Xiaowen (Chess player)/Xiaowen, Zhang (Chess player)/
 張幼儀 张幼仪 [Zhang1_You4 yi2] /Zhang Youyi (Xu Zhimo's first wife, arranged by his parents)/Youyi, Zhang (Xu Zhimo's first wife, arranged by his parents)/
@@ -16688,6 +16706,7 @@
 招遠市 招远市 [Zhao1 yuan3_Shi4] /Zhaoyuan (in Shandong)/
 爪哇文 爪哇文 [Zhao3 wa1 wen2] /Javanese (written language)/
 爪哇語 爪哇语 [Zhao3 wa1 yu3] /Javanese (language)/
+趙樂際 赵乐际 [Zhao4_Le4 ji4] /Zhao Leji (politician)/Leji, Zhao (politician)/
 趙縣 赵县 [Zhao4_Xian4] /Zhao County/County, Zhao/
 趙彥春 赵彦春 [Zhao4_Yan4 chun1] /Zhao Yanchun (translator)/Yanchun, Zhao (translator)/
 詔安縣 诏安县 [Zhao4 an1_Xian4] /Zhao'an (county, in Fujian)/
@@ -18094,6 +18113,7 @@
 擔罪 担罪 [dan1 zui4] /bear sin/
 膽小懦弱的人 胆小懦弱的人 [dan3 xiao3_nuo4 ruo4_de5_ren2] /cowards/
 氮循環 氮循环 [dan4_xun2 huan2] /nitrogen cycle/cycle, nitrogen/
+蛋奶糕 蛋奶糕 [dan4 nai3 gao1] /baked flan (American)/flan, baked (American)/
 蛋奶素 蛋奶素 [dan4 nai3 su4] /lacto-ovo vegetarian/vegetarian, lacto-ovo/
 但求 但求 [dan4 qiu2] /only seek/seek, only/
 誕生石 诞生石 [dan4 sheng1 shi2] /birthstone/
@@ -19143,6 +19163,7 @@
 裹好 裹好 [guo3 hao3] /wrap|bind up well/well, wrap|bind up/
 裹尸布 裹尸布 [guo3 shi1 bu4] /shroud (a cloth to wrap up a dead person)/
 裹頭巾 裹头巾 [guo3 tou2 jin1] /bind a headdress (?)/headdress, bind a (?)/
+果餡餅 果馅饼 [guo3 xian4 bing3] /flan (British)/
 過紅海 过红海 [guo4_Hong2 hai3] /through the Red Sea/
 過更好的生活 过更好的生活 [guo4_geng4 hao3_de5_sheng1 huo2] /lead a better life (materially etc)/better life, lead a (materially etc)/
 過馬路 过马路 [guo4_ma3 lu4] /cross the road/road, cross the/
@@ -19516,6 +19537,7 @@
 機會主義者 机会主义者 [ji1 hui4 zhu3 yi4 zhe3] /opportunist/
 激進主義 激进主义 [ji1 jin4 zhu3 yi4] /radicalism (students etc)/
 基里奧斯 基里奥斯 [ji1 li3 ao4 si1] /kyrios/
+雞毛蒜皮的事 鸡毛蒜皮的事 [ji1 mao2 suan4 pi2_de5_shi4] /trifle (minor matter)/
 機器聲音 机器声音 [ji1 qi4_sheng1 yin1] /speech synthesizer/text to speech/computer voice/synthesizer, speech/
 機器人手臂 机器人手臂 [ji1 qi4 ren2_shou3 bi4] /robotic arm/
 肌肉緊張 肌肉紧张 [ji1 rou4_jin3 zhang1] /muscle tension/tension, muscle/
@@ -21080,7 +21102,7 @@
 皮皮蝦 皮皮虾 [pi2 pi2 xia1] /dissatisfying/
 皮欽 皮钦 [pi2 qin1] /pidgin (language)/
 皮肉潰爛 皮肉溃烂 [pi2 rou4_kui4 lan4] /ulcer/
-皮質醇 皮质醇 [pi2 zhi4 chun2] /cortisol/
+皮質醇 皮质醇 [pi2 zhi4 chun2] /cortisol/hydrocortisone/
 僻靜的地方 僻静的地方 [pi4 jing4_de5_di4 fang5] /lonely place/place, lonely/
 偏待人 偏待人 [pian1 dai4_ren2] /favour people/people, favour/
 偏逢 偏逢 [pian1 feng2] /slant upon??/upon??, slant/
@@ -21404,6 +21426,7 @@
 人腦科學 人脑科学 [ren2 nao3_ke1 xue2] /brain sciences/sciences, brain/
 人肉 人肉 [ren2 rou4] /real-life person (to do something, etc)/person, real-life (to do something, etc)/
 人如其名 人如其名 [ren2 ru2 qi2 ming2] /the person is as the name/person is as the name, the/
+人乳頭瘤病毒 人乳头瘤病毒 [ren2 ru3 tou2 liu2 bing4 du2] /human papillomavirus/HPV/papillomavirus, human/
 人生不過是一個行走的影子 人生不过是一个行走的影子 [ren2 sheng1_bu4 guo4 shi4_yi1_ge5_xing2 zou3_de5_ying3 zi5] /life's but a walking shadow (Macbeth quote)/passing shadow/walking shadow, life's but a/shadow, passing/
 人生的意義 人生的意义 [ren2 sheng1_de5_yi4 yi4] /meaning and purpose of life/purpose of life, meaning and/
 人生經驗 人生经验 [ren2 sheng1_jing1 yan4] /life experience/experience, life/
@@ -21466,6 +21489,7 @@
 乳糖不耐症 乳糖不耐症 [ru3 tang2_bu4 nai4 zheng4] /lactose intolerance/intolerance, lactose/
 乳香岡 乳香冈 [ru3 xiang1 gang1] /hill of frankincense/frankincense, hill of/
 乳脂軟糖 乳脂软糖 [ru3 zhi1_ruan3 tang2] /fudge (sweet)/
+乳脂鬆糕 乳脂松糕 [ru3 zhi1_song1 gao1] /trifle (type of English dessert)/
 入不敷支 入不敷支 [ru4 bu4_fu1 zhi1] /unable to make ends meet/make ends meet, unable to/
 入籍考試 入籍考试 [ru4 ji2_kao3 shi4] /citizenship test/test, citizenship/
 入黎 入黎 [ru4 li2] /come inside (Cantonese)/inside, come (Cantonese)/
@@ -22165,6 +22189,7 @@
 縮減人手 缩减人手 [suo1 jian3_ren2 shou3] /downsize/cut staff/staff, cut/
 縮略本 缩略本 [suo1 lu:e4 ben3] /abridged edition/edition, abridged/
 縮微出版 缩微出版 [suo1 wei1_chu1 ban3] /micropublishing (publishing airline manuals etc directly to microfilm)/
+梭織 梭织 [suo1 zhi1] /weaving/
 所差 所差 [suo3_chai1] /sent-forth/
 所給的 所给的 [suo3_gei3_de5] /given/
 所說是 所说是 [suo3_shuo1_shi4] /that (you) say is/
