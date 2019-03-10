@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-03-08
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-03-10
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -5153,6 +5153,7 @@
 豪森 豪森 [Hao2 sen1] /Howson/
 浩蘭 浩兰 [Hao4 lan2] /Hauran/
 呵叻 呵叻 [He1 le4] /Korat/
+何家義 何家义 [He2_Jia1 yi4] /Jia-Yi He (harmonica player)/
 何文龍 何文龙 [He2_Wen2 long2] /Wenlong He/
 和縣 和县 [He2_Xian4] /He (county, in Anhui)/
 和埃迪塔 和埃迪塔 [He2 ai1 di2 ta3] /Edyta/
@@ -5599,6 +5600,7 @@
 黃嶺 黄岭 [Huang2_Ling3] /Wong Leng (ridge in HK)/Leng, Wong (ridge in HK)/
 黃廬隱 黄庐隐 [Huang2_Lu2 yin3] /Lu Yin (1899–1934)/
 黃明志 黄明志 [Huang2_Ming2 zhi4] /Wee Meng Chee/Namewee (controversial Malaysian pop singer)/Meng Chee, Wee (controversial Malaysian pop singer)/
+黃青白 黄青白 [Huang2_Qing1 bai2] /Cham-Ber Huang (harmonica player 1925-2014)/Huang, Cham-Ber (harmonica player 1925-2014)/
 潢川縣 潢川县 [Huang2 chuan1_Xian4] /Huangchuan (county, in Henan)/
 黃大仙區 黄大仙区 [Huang2 da4 xian1_Qu1] /Wong Tai Sin District (HK)/District, Wong Tai Sin (HK)/
 黃島區 黄岛区 [Huang2 dao3_Qu1] /Huangdao District/District, Huangdao/
@@ -16790,6 +16792,7 @@
 中方縣 中方县 [Zhong1 fang1_Xian4] /Zhongfang County/County, Zhongfang/
 中古法語 中古法语 [Zhong1 gu3_Fa3 yu3] /Middle French/French, Middle/
 中古英語 中古英语 [Zhong1 gu3_Ying1 yu3] /Middle English/English, Middle/
+中國朝鮮語 中国朝鲜语 [Zhong1 guo2_Chao2 xian3 yu3] /Chinese Korean (Korean as spoken in Heilongjiang etc)/Korean, Chinese (Korean as spoken in Heilongjiang etc)/
 中國科學技術大學 中国科学技术大学 [Zhong1 guo2_Ke1 xue2_Ji4 shu4_Da4 xue2] /University of Science and Technology of China/USTC/Science and Technology of China, University of/
 中國民族報 中国民族报 [Zhong1 guo2_Min2 zu2_Bao4] /China Ethnic News/Ethnic News, China/
 中國南極天文中心 中国南极天文中心 [Zhong1 guo2_Nan2 ji2_Tian1 wen2_Zhong1 xin1] /Chinese Center for Antarctic Astronomy/Center for Antarctic Astronomy, Chinese/
@@ -19731,6 +19734,7 @@
 間接提到 间接提到 [jian4 jie1_ti2 dao4] /allude to (lit. indirect mention)/
 健康體重 健康体重 [jian4 kang1_ti3 zhong4] /healthy (body) weight/weight, healthy/
 劍蘭 剑兰 [jian4 lan2] /gladiolus/
+漸慢 渐慢 [jian4 man4] /ritenuto/rit/
 鍵盤俠 键盘侠 [jian4 pan2 xia2] /keyboard warrior (in flame war etc)/warrior, keyboard (in flame war etc)/
 健全的思想 健全的思想 [jian4 quan2_de5_si1 xiang3] /soundness of mind/mind, soundness of/
 箭蛇 箭蛇 [jian4 she2] /arrow snake/snake, arrow/
@@ -20216,6 +20220,7 @@
 口沒遮攔 口没遮拦 [kou3 mei2 zhe1 lan2] /not impeding one's mouth/opening wide one's lips/impeding one's mouth, not/wide one's lips, opening/
 口腔疾病 口腔疾病 [kou3 qiang1_ji2 bing4] /oral diseases/diseases, oral/
 口腔癌 口腔癌 [kou3 qiang1 ai2] /mouth cancer/cancer, mouth/
+口琴家 口琴家 [kou3 qin2 jia1] /harmonicist (harmonica player)/
 口哨聲 口哨声 [kou3 shao4 sheng1] /whistle (sound)/
 口套 口套 [kou3 tao4] /muzzle/
 口甜舌滑 口甜舌滑 [kou3 tian2 she2 hua2] /persuasive/
@@ -23778,6 +23783,7 @@
 園區內 园区内 [yuan2 qu1_nei4] /within the garden/within the park (of rule jurisdiction)/garden, within the (of rule jurisdiction)/park, within the (of rule jurisdiction)/
 原生植物 原生植物 [yuan2 sheng1_zhi2 wu4] /native plant species/plant species, native/
 原生態 原生态 [yuan2 sheng1 tai4] /indigenous (culture etc)/
+原速 原速 [yuan2 su4] /tempo I/a tempo (original speed)/
 圓廳 圆厅 [yuan2 ting1] /rotunda/
 元音符號 元音符号 [yuan2 yin1_fu2 hao4] /vowel points (Heb.)/points, vowel (Heb.)/
 原因之一 原因之一 [yuan2 yin1_zhi1 yi1] /one motivating factor (lit. one reason)/motivating factor, one (lit. one reason)/
