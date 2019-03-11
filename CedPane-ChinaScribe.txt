@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-03-10
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-03-11
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -6408,6 +6408,7 @@
 金德爾 金德尔 [Jin1 de2 er3] /Gündel/
 金德拜恩 金德拜恩 [Jin1 de2 bai4 en1] /Jindabyne/
 金東區 金东区 [Jin1 dong1_Qu1] /Jindong District/District, Jindong/
+金盾工程 金盾工程 [Jin1 dun4_Gong1 cheng2] /Golden Shield Project (Internet filter etc)/Shield Project, Golden (Internet filter etc)/
 金鳳區 金凤区 [Jin1 feng4_Qu1] /Jinfeng District/District, Jinfeng/
 金格 金格 [Jin1 ge2] /King (surname)/
 金格里奇 金格里奇 [Jin1 ge2 li3 qi2] /Gingerich/
@@ -17185,6 +17186,7 @@
 報告廳 报告厅 [bao4 gao4 ting1] /lecture hall/hall, lecture/
 報給 报给 [bao4 gei3] /report for (a king etc)/
 暴力罪行 暴力罪行 [bao4 li4_zui4 xing2] /(act of) violent crime/crime, violent/
+暴露的衣服 暴露的衣服 [bao4 lu4_de5_yi1 fu5] /revealing clothing/clothing, revealing/
 抱滿 抱满 [bao4 man3] /hold a full (bosom etc)/full, hold a (bosom etc)/
 抱滿懷 抱满怀 [bao4 man3_huai2] /fill one's bosom/one's bosom, fill/
 暴民橫行 暴民横行 [bao4 min2_heng2 xing2] /mob rule/rule, mob/
@@ -20910,6 +20912,7 @@
 能行事 能行事 [neng2_xing2 shi4] /can behave (or handle)/behave, can (or handle)/
 能朽壞 能朽坏 [neng2_xiu3 huai4] /corruptible/
 能自給自足 能自给自足 [neng2_zi4 ji3 zi4 zu2] /self-sustaining/
+能力不足 能力不足 [neng2 li4_bu4 zu2] /inadequate (in ability etc)/
 能源開支 能源开支 [neng2 yuan2_kai1 zhi1] /energy costs/costs, energy/
 能征善戰 能征善战 [neng2 zheng1 shan4 zhan4] /able to march and good at fighting/march and good at fighting, able to/
 泥塵 泥尘 [ni2 chen2] /dirt/
@@ -21144,6 +21147,7 @@
 平假名 平假名 [ping2 jia3 ming2] /hiragana/
 平平整整 平平整整 [ping2 ping2 zheng3 zheng3] /nice and flat/flat, nice and/
 评评理 評評理 [ping2 ping5 li3] /judge between (?)/between, judge (?)/
+憑啥 凭啥 [ping2 sha2] /why/
 平台 平台 [ping2 tai2] /platform/
 平信徒 平信徒 [ping2 xin4 tu2] /laity/
 平行宇宙 平行宇宙 [ping2 xing2_yu3 zhou4] /parallel universes/universes, parallel/
@@ -22779,6 +22783,7 @@
 無花果樹上 无花果树上 [wu2 hua1 guo3 shu4_shang5] /on fig tree/tree, on fig/
 無悔 无悔 [wu2 hui3] /without regrets/regrets, without/
 無機鹽 无机盐 [wu2 ji1 yan2] /inorganic salts/salts, inorganic/
+無跡可尋 无迹可寻 [wu2 ji4 ke3 xun2] /without a trace/trace, without a/
 無酵 无酵 [wu2 jiao4] /unfermented/unleavened/
 無酵餅 无酵饼 [wu2 jiao4 bing3] /unleavened bread/bread, unleavened/
 無咎 无咎 [wu2 jiu4] /without harm|blame/harm|blame, without/
@@ -22946,6 +22951,8 @@
 顯露無遺 显露无遗 [xian3 lu4 wu2 yi2] /made manifest with nothing kept back (?)/manifest with nothing kept back, made (?)/
 顯明出來 显明出来 [xian3 ming2_chu5 lai5] /become manifest/manifest, become/
 顯淺易明 显浅易明 [xian3 qian3 yi4 ming2] /clear and simple/simple, clear and/
+顯肉 显肉 [xian3 rou4] /showing flesh/revealing (of clothing)/flesh, showing (of clothing)/
+顯瘦 显瘦 [xian3 shou4] /skin-tight (of clothing)/
 險死還生 险死还生 [xian3 si3 hai2 sheng1] /narrow escape/danger of death but still alive/escape, narrow/death but still alive, danger of/
 現稱 现称 [xian4 cheng1] /now known as/now called/known as, now/called, now/
 線程 线程 [xian4 cheng2] /thread/
