@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-03-11
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-03-12
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -169,6 +169,7 @@
 阿霍寧 阿霍宁 [A1 huo4 ning2] /Ahonen/
 阿基 阿基 [A1 ji1] /Ark (name)/
 阿基勞斯 阿基劳斯 [A1 ji1 lao2 si1] /Archelaus/
+阿基米德 阿基米德 [A1 ji1 mi3 de2] /Archimedes/
 阿基人 阿基人 [A1 ji1 ren2] /Arkite/
 阿吉拉爾 阿吉拉尔 [A1 ji2 la1 er3] /Aguilar/
 阿吉雷 阿吉雷 [A1 ji2 lei2] /Aguirre/
@@ -496,6 +497,7 @@
 埃爾云克 埃尔云克 [Ai1 er3 yun2 ke4] /El Yunque/Yunque, El/
 埃巴拉德 埃巴拉德 [Ai1 ba1 la1 de2] /ElBaradei/
 埃貝耶島 埃贝耶岛 [Ai1 bei4 ye1 dao3] /Ebeye/
+埃庇卡摩斯 埃庇卡摩斯 [Ai1 bi4 ka3 mo2 si1] /Epicharmus/
 埃庇米尼得斯 埃庇米尼得斯 [Ai1 bi4 mi3 ni2 de2 si1] /Epimenides/
 埃別 埃别 [Ai1 bie2] /Ebez/
 埃伯哈德 埃伯哈德 [Ai1 bo2 ha1 de2] /Eberhard/
@@ -1535,6 +1537,7 @@
 拜特 拜特 [Bai4 te4] /Beit/
 拜因頓 拜因顿 [Bai4 yin1 dun4] /Byington (person)/
 拜占廷 拜占廷 [Bai4 zhan1 ting2] /Byzantine/
+班恩 班恩 [Ban1 en1] /Ben/
 班巴拉語 班巴拉语 [Ban1 ba1 la1 yu3] /Bambara (language)/
 班茨 班茨 [Ban1 ci2] /Banz/
 班達 班达 [Ban1 da2] /Banda/
@@ -5104,6 +5107,7 @@
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-03-12/this is version 2019-03-12, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
 漢柏 汉柏 [Han4 bo2] /Hamper (surname)/
@@ -7327,6 +7331,7 @@
 克什克騰旗 克什克腾旗 [Ke4 shi2 ke4 teng2_Qi2] /Heshigten (banner, in Inner Mongolia)/
 克什米爾語 克什米尔语 [Ke4 shi2 mi3 er3 yu3] /Kashmiri (language)/
 克斯頓 克斯顿 [Ke4 si1 dun4] /Kersten/
+克特西比烏斯 克特西比乌斯 [Ke4 te4 xi1 bi3 wu1 si1] /Ctesibius/
 克特西亞斯 克特西亚斯 [Ke4 te4 xi1 ya4 si1] /Ctesias/
 克韋多 克韦多 [Ke4 wei2 duo1] /Quevedo/
 客西馬尼 客西马尼 [Ke4 xi1 ma3 ni2] /Gethsemane/
@@ -17924,6 +17929,7 @@
 磁石貼 磁石贴 [ci2 shi2 tie1] /magnetic sticker/sticker, magnetic/
 雌體 雌体 [ci2 ti3] /female (creature)/
 磁鐵貼 磁铁贴 [ci2 tie3 tie1] /magnetic sticker/fridge magnet/sticker, magnetic/magnet, fridge/
+詞語解釋 词语解释 [ci2 yu3_jie3 shi4] /expression explained/explained, expression/
 詞語索引 词语索引 [ci2 yu3_suo3 yin3] /concordance/
 辭源學 辞源学 [ci2 yuan2 xue2] /etymology study/study, etymology/
 磁振造影 磁振造影 [ci2 zhen4_zao4 ying3] /MRI (abbreviated version)/
@@ -19970,6 +19976,7 @@
 經濟支持 经济支持 [jing1 ji4_zhi1 chi2] /material support/support, material/
 經濟狀況 经济状况 [jing1 ji4_zhuang4 kuang4] /economic situation/situation, economic/
 精簡扼要 精简扼要 [jing1 jian3_e4 yao4] /concise/
+精簡指令集 精简指令集 [jing1 jian3_zhi3 ling4 ji2] /reduced instruction set/RISC instruction set/instruction set, reduced/
 精潔 精洁 [jing1 jie2] /perfectly pure?/pure?, perfectly/
 精明能幹 精明能干 [jing1 ming2 neng2 gan4] /capable (person)/
 精明人 精明人 [jing1 ming2 ren2] /shrewd person/person, shrewd/
@@ -22495,6 +22502,7 @@
 圖書館長 图书馆长 [tu2 shu1 guan3 zhang3] /librarian/
 圖書區 图书区 [tu2 shu1 qu1] /book area/collection (of related books in part of a library)/area, book (of related books in part of a library)/
 圖騰柱 图腾柱 [tu2 teng2_zhu4] /totem pole/pole, totem/
+圖形用戶界面 图形用户界面 [tu2 xing2_yong4 hu4_jie4 mian4] /graphical user interface/GUI/user interface, graphical/
 圖樣圖森破 图样图森破 [tu2 yang4 tu2 sen1 po4] /too young too simple/young too simple, too/
 徒有 徒有 [tu2 you3] /have by following ???/following ???, have by/
 土民 土民 [tu3_min2] /people of the land/land, people of the/
@@ -23563,6 +23571,7 @@
 音樂短片 音乐短片 [yin1 yue4_duan3 pian4] /music videos/videos, music/
 音樂流派 音乐流派 [yin1 yue4_liu2 pai4] /fringe musical genres (of rock etc)/musical genres, fringe (of rock etc)/
 音樂天分 音乐天分 [yin1 yue4_tian1 fen4] /musical talent/talent, musical/
+音樂會節目 音乐会节目 [yin1 yue4 hui4_jie2 mu4] /concert programme/programme, concert/
 烎 烎 [yin2] /make every effort (to do sthg)/every effort, make (to do sthg)/
 銀釘 银钉 [yin2 ding1] /studs of silver/silver, studs of/
 銀行倒閉 银行倒闭 [yin2 hang2_dao3 bi4] /bank failure/failure, bank/
@@ -23654,6 +23663,7 @@
 永遠長存 永远长存 [yong3 yuan3 chang2 cun2] /exist forever/forever, exist/
 用護符 用护符 [yong4_hu4 fu2] /use charms (amulets for protection in some religions)/charms, use (amulets for protection in some religions)/
 用自己的話 用自己的话 [yong4_zi4 ji3_de5_hua4] /using your own words/words, using your own/
+用戶界面 用户界面 [yong4 hu4_jie4 mian4] /user interface/interface, user/
 幽暗無光 幽暗无光 [you1 an4 wu2 guang1] /gloominess with no brightness/brightness, gloominess with no/
 憂慮症 忧虑症 [you1 lu:4 zheng4] /anxiety disorder (less common translation)/disorder, anxiety (less common translation)/
 優美絕倫 优美绝伦 [you1 mei3 jue2 lun2] /superlative/unsurpassed in exquisiteness etc/
@@ -24303,6 +24313,7 @@
 准繩 准绳 [zhun3 sheng2] /measuring line/line, measuring/
 准時啊 准时啊 [zhun3 shi2_a5] /sharp! (of time)/
 桌框 桌框 [zhuo1 kuang4] /table border or frame/border or frame, table/
+桌面環境 桌面环境 [zhuo1 mian4_huan2 jing4] /desktop environment/environment, desktop/
 桌面游戲 桌面游戏 [zhuo1 mian4_you2 xi4] /tabletop game/game, tabletop/
 桌上型 桌上型 [zhuo1 shang4 xing2] /desktop (type of computer)/
 資歷過高 资历过高 [zi1 li4_guo4 gao1] /overqualified/
