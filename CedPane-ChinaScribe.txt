@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-03-12
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-03-16
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -813,6 +813,7 @@
 艾西爾 艾西尔 [Ai4 xi1 er3] /Eisele/
 艾希特 艾希特 [Ai4 xi1 te4] /Exeter/
 艾歇爾 艾歇尔 [Ai4 xie1 er3] /Eicher/
+艾衣提 艾衣提 [Ai4 yi1 ti2] /Heyit/
 艾因 艾因 [Ai4 yin1] /Ain/
 艾于蘭 艾于兰 [Ai4 yu2 lan2] /Aurland/
 愛媛縣 爱媛县 [Ai4 yuan4 xian4] /Ehime/
@@ -5107,7 +5108,7 @@
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-03-12/this is version 2019-03-12, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-03-16/this is version 2019-03-16, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
 漢柏 汉柏 [Han4 bo2] /Hamper (surname)/
@@ -5513,6 +5514,7 @@
 花溪區 花溪区 [Hua1 xi1_Qu1] /Huaxi District/District, Huaxi/
 花垣縣 花垣县 [Hua1 yuan2_Xian4] /Huayuan (county, in Hunan)/
 花之安 花之安 [Hua1 zhi1 an1] /Ernst Faber (1839-99)/Faber, Ernst (1839-99)/
+華春瑩 华春莹 [Hua2_Chun1 ying2] /Hua Chunying (foreign ministry spokeswoman)/Chunying, Hua (foreign ministry spokeswoman)/
 滑縣 滑县 [Hua2_Xian4] /Hua County/County, Hua/
 華樂 华乐 [Hua2_yue4] /Chinese music/music, Chinese/
 華安縣 华安县 [Hua2 an1_Xian4] /Hua'an (county, in Fujian)/
@@ -9796,6 +9798,7 @@
 米奇斯瓦夫 米奇斯瓦夫 [Mi3 qi2 si1 wa3 fu1] /Mieczysław/
 米切爾 米切尔 [Mi3 qie4 er3] /Mitchell/
 米卻肯州 米却肯州 [Mi3 que4 ken3 zhou1] /Michoacán (Mexico state)/
+米日古麗 米日古丽 [Mi3 ri4 gu3 li4] /Mihrigul/
 米撒 米撒 [Mi3 sa1] /Mizzah/
 米薩爾 米萨尔 [Mi3 sa4 er3] /Misael/
 米沙 米沙 [Mi3 sha1] /Mesha/
@@ -17551,6 +17554,7 @@
 踩碎 踩碎 [cai3 sui4] /crush by stepping on/stepping on, crush by/
 彩信 彩信 [cai3 xin4] /multimedia message/message, multimedia/
 彩頁 彩页 [cai3 ye4] /color page/colour page (in a reference book etc)/page, color (in a reference book etc)/
+菜單工程 菜单工程 [cai4 dan1_gong1 cheng2] /menu engineering (layout etc)/engineering, menu (layout etc)/
 菜式 菜式 [cai4 shi4] /dish types (culinary)/types, dish (culinary)/
 餐單 餐单 [can1 dan1] /diet (foods one eats)/
 餐盒 餐盒 [can1 he2] /prepackaged meal/meal, prepackaged/
@@ -20371,6 +20375,7 @@
 鋰電池 锂电池 [li3_dian4 chi2] /lithium batteries/batteries, lithium/
 禮拜儀式 礼拜仪式 [li3 bai4_yi2 shi4] /liturgy (church)/
 理財方式 理财方式 [li3 cai2_fang1 shi4] /method of handling money/handling money, method of/
+理解為 理解为 [li3 jie3_wei2] /understand as/
 理科生 理科生 [li3 ke1 sheng1] /science students/students, science/
 理論物理學家 理论物理学家 [li3 lun4_wu4 li3 xue2 jia1] /theoretical physicist/physicist, theoretical/
 理論與應用 理论与应用 [li3 lun4_yu3_ying4 yong4] /theory and practice/practice, theory and/
@@ -21109,7 +21114,7 @@
 披金戴玉 披金戴玉 [pi1 jin1 dai4 yu4] /wear gold and jade (wear lots of jewelry)/gold and jade, wear (wear lots of jewelry)/
 劈下 劈下 [pi1 xia5] /hew down?/down?, hew/
 皮層性 皮层性 [pi2 ceng2 xing4] /cortical/
-皮層性視損傷 皮层性视损伤 [pi2 ceng2 xing4_shi4_sun3 shang1] /cortical visual impairment/CVI/visual impairment, cortical/
+皮層性視損傷 皮层性视损伤 [pi2 ceng2 xing4_shi4 sun3 shang1] /cortical visual impairment/CVI/visual impairment, cortical/
 皮搋子 皮搋子 [pi2 chuai1 zi5] /plunger/
 皮膚癌的發病率 皮肤癌的发病率 [pi2 fu1 ai2_de5_fa1 bing4 lu:4] /rate of skin cancer (in a population)/skin cancer, rate of (in a population)/
 皮酒袋 皮酒袋 [pi2 jiu3 dai4] /wine skin-bottles/skin-bottles, wine/
@@ -21439,6 +21444,7 @@
 人口稠密的地區 人口稠密的地区 [ren2 kou3_chou2 mi4_de5_di4 qu1] /densely populated areas/populated areas, densely/
 人口登記 人口登记 [ren2 kou3_deng1 ji4] /registration/
 人來人往的地方 人来人往的地方 [ren2 lai2 ren2 wang3_de5_di4 fang5] /high-traffic areas (of a building etc)/areas, high-traffic (of a building etc)/
+人類基因組 人类基因组 [ren2 lei4_ji1 yin1 zu3] /human genome/genome, human/
 人流量 人流量 [ren2 liu2 liang4] /pedestrian traffic/traffic, pedestrian/
 人民的意志 人民的意志 [ren2 min2_de5_yi4 zhi4] /Jana Gana Mana (Indian national anthem; lit. the people's will)/Gana Mana, Jana (Indian national anthem; lit. the people's will)/
 人腦 人脑 [ren2 nao3] /the (human) brain/brain, the/
@@ -21704,6 +21710,8 @@
 神父 神父 [shen2 fu4] /Catholic priest/priest, Catholic/
 神話傳奇 神话传奇 [shen2 hua4_chuan2 qi2] /myths and legends/legends, myths and/
 神跡奇事 神迹奇事 [shen2 ji4 qi2 shi4] /signs and miracles/miracles, signs and/
+神經多樣性 神经多样性 [shen2 jing1_duo1 yang4 xing4] /neurodiversity/
+神經功能障礙 神经功能障碍 [shen2 jing1_gong1 neng2_zhang4 ai4] /neurological condition/condition, neurological/
 神經科學 神经科学 [shen2 jing1_ke1 xue2] /neuroscience/
 神經可塑性 神经可塑性 [shen2 jing1_ke3 su4 xing4] /neuroplasticity/
 神經系統科學 神经系统科学 [shen2 jing1_xi4 tong3_ke1 xue2] /neuroscience (lit. nervous system science)/
@@ -22296,6 +22304,7 @@
 逃脫懲罰 逃脱惩罚 [tao2 tuo1_cheng2 fa2] /get away with it (lit. succeed in escaping punishment)/away with it, get (lit. succeed in escaping punishment)/
 逃獄 逃狱 [tao2 yu4] /jailbreak (crime)/
 討回 讨回 [tao3 hui2] /put in a claim for the return of something (financial etc)/claim for the return of something, put in a (financial etc)/
+討論小組 讨论小组 [tao3 lun4_xiao3 zu3] /discussion group (Internet etc)/group, discussion (Internet etc)/
 討論群 讨论群 [tao3 lun4 qun2] /discussion group/newsgroup/group, discussion/
 討論組 讨论组 [tao3 lun4 zu3] /discussion group (in instant messaging etc)/group, discussion (in instant messaging etc)/
 討戰 讨战 [tao3 zhan4] /demand a fight/fight, demand a/
@@ -24319,6 +24328,7 @@
 資歷過高 资历过高 [zi1 li4_guo4 gao1] /overqualified/
 資深研究助理 资深研究助理 [zi1 shen1_yan2 jiu1_zhu4 li3] /senior research assistant/research assistant, senior/
 諮詢檯 谘询台 [zi1 xun2 tai2] /information desk/desk, information/
+資訊高速公路 资讯高速公路 [zi1 xun4_gao1 su4_gong1 lu4] /information superhighway/superhighway, information/
 資訊中心 资讯中心 [zi1 xun4_zhong1 xin1] /information centre/centre, information/
 子上帝 子上帝 [zi3_Shang4 di4] /God the Son (in Trinity doctrine)/
 子彈火車 子弹火车 [zi3 dan4_huo3 che1] /bullet train/train, bullet/
@@ -24424,6 +24434,7 @@
 奏國歌 奏国歌 [zou4_guo2 ge1] /play the national anthem/national anthem, play the/
 奏告 奏告 [zou4 gao4] /report (to ancient king etc)/
 奏起 奏起 [zou4 qi5] /strike up (a melody)/
+租房 租房 [zu1_fang2] /rent rooms/rooms, rent/
 租來 租来 [zu1 lai5] /obtained by hire/rented/hire, obtained by/
 足夠的保證金 足够的保证金 [zu2 gou4_de5_bao3 zheng4 jin1] /sufficient security/sufficient bail/security, sufficient/bail, sufficient/
 足跡罕至 足迹罕至 [zu2 ji4 han3 zhi4] /forgotten far from the foot/footprints rarely seen (at a place)/foot, forgotten far from the (at a place)/rarely seen, footprints (at a place)/
