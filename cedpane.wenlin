@@ -19545,10 +19545,10 @@ characters 哈特菲尔德[---爾-]
 serial-number CedPane3914
 definition Hatfield
 *** 
-pinyin Hātèfú
-characters 哈特福
+pinyin Hātèfútè
+characters 哈特福特
 serial-number CedPane3915
-definition Hartford
+definition Hartford (old translation)
 *** 
 pinyin Hātèlāsījiǎo
 characters 哈特拉斯角
@@ -53866,7 +53866,7 @@ definition New Atlantis (Bacon)
 pinyin xīndí
 characters 新笛
 serial-number CedPane10794
-definition ("new flute") a chromatic bamboo flute
+definition xindi (a chromatic bamboo flute)
 *** 
 pinyin Xīndí
 characters 欣迪
@@ -122672,7 +122672,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-03-16
+definition CedPane: this is version 2019-03-21
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -122728,3 +122728,254 @@ pinyin Mǐrìgǔlì
 characters 米日古丽[---麗]
 serial-number CedPane24685
 definition Mihrigul
+*** 
+pinyin chánglòuzhèng
+characters 肠漏症[腸--]
+serial-number CedPane24686
+definition leaky gut syndrome (unproven; nocebo)
+*** 
+pinyin fǎn'ānwèijì
+characters 反安慰剂[---劑]
+serial-number CedPane24687
+definition nocebo
+*** 
+pinyin fǎn'ānwèijì xiàoyìng
+characters 反安慰剂效应[---劑-應]
+serial-number CedPane24688
+definition nocebo effect
+*** 
+pinyin Gélái
+characters 革来[-來]
+serial-number CedPane24689
+definition Chloe (old translation?)
+*** 
+pinyin gōngnéng yīxué
+characters 功能医学[--醫學]
+serial-number CedPane24690
+definition functional medicine (unproven approach using homeopathy etc)
+*** 
+pinyin Kèluò'ài
+characters 克洛艾
+serial-number CedPane24691
+definition Chloe (modern)
+*** 
+pinyin lóngwū
+characters 笼屋[籠-]
+serial-number CedPane24692
+definition cage apartments
+*** 
+pinyin mòshā
+characters 黙杀[-殺]
+serial-number CedPane24693
+definition silent treatment (Japanese version)
+*** 
+pinyin páidú
+characters 排毒
+serial-number CedPane24694
+definition detox (in alternative medicine etc)
+*** 
+pinyin shénjīngzhèng
+characters 神经症[-經-]
+serial-number CedPane24695
+definition psychoneurosis
+*** 
+pinyin shòushēn
+characters 瘦身
+serial-number CedPane24696
+definition slim (one's body)
+*** 
+pinyin tìdài yīxué
+characters 替代医学[--醫學]
+serial-number CedPane24697
+definition alternative medicine (unproven treatments like homeopathy)
+*** 
+pinyin Wàngjiǎoqū
+characters 旺角区[--區]
+serial-number CedPane24698
+definition Mong Kok district (in HK)
+*** 
+pinyin wèicháng shénjīng guānnéngzhèng
+characters 胃肠神经官能症[-腸-經---]
+serial-number CedPane24699
+definition gastrointestinal dysfunction
+*** 
+pinyin xiǎolǜrén
+characters 小绿人[-綠-]
+serial-number CedPane24700
+environment   TW
+definition green man (traffic signal)
+*** 
+pinyin xiǎoxíng fēijī
+characters 小型飞机[--飛機]
+serial-number CedPane24701
+definition light aircraft
+*** 
+pinyin xìbāo fēnzǐ jiǎozhèng yīxué
+characters 细胞分子矫正医学[細---矯-醫學]
+serial-number CedPane24702
+definition orthomolecular medicine (unproven vitamin treatments)
+*** 
+pinyin zhānwàngzhèng
+characters 谵妄症[譫--]
+serial-number CedPane24703
+definition delirium
+*** 
+pinyin zhūxīnsuàn
+characters 珠心算
+serial-number CedPane24704
+definition mental abacus
+*** 
+pinyin Ādísī'ābèibā
+characters 阿迪斯阿贝巴[----貝-]
+serial-number CedPane24705
+definition Addis Ababa (alternate translation)
+*** 
+pinyin Ài'ěrmò
+characters 艾尔默[-爾-]
+serial-number CedPane24706
+definition Aylmer
+*** 
+pinyin Āiluòyīsī
+characters 埃洛伊丝[---絲]
+serial-number CedPane24707
+definition Eloise
+*** 
+pinyin díyuè
+characters 笛乐[-樂]
+serial-number CedPane24708
+definition flute music
+*** 
+pinyin dòngjìngmài
+characters 动静脉[動靜脈]
+serial-number CedPane24709
+definition arteriovenous
+*** 
+pinyin értóng quánlì
+characters 儿童权利[兒-權-]
+serial-number CedPane24710
+definition children's rights
+*** 
+pinyin fúxiànchū
+characters 浮现出[-現-]
+serial-number CedPane24711
+definition superimposed (with a figure) showing
+*** 
+pinyin hángpāi
+characters 航拍
+serial-number CedPane24712
+definition aerial photography
+*** 
+pinyin Hātèfúdé
+characters 哈特福德
+serial-number CedPane24713
+definition Hartford
+*** 
+pinyin Hātèfútè Shì
+characters 哈特福特市
+serial-number CedPane24714
+definition Hartford (city, old translation)
+*** 
+pinyin Héféi Gōngyè Dàxué
+characters 合肥工业大学[---業-學]
+serial-number CedPane24715
+definition Hefei University of Technology
+*** 
+pinyin jiǎncèqì
+characters 检测器[檢測-]
+serial-number CedPane24716
+definition detection device
+*** 
+pinyin Jiàntuóluóyǔ
+characters 健驮逻语[-馱邏語]
+serial-number CedPane24717
+definition Gāndhārī (ancient Indian language)
+*** 
+pinyin Lǐgésī
+characters 里格斯
+serial-number CedPane24718
+definition Riggs
+*** 
+pinyin Mànzuǒní
+characters 曼佐尼
+serial-number CedPane24719
+definition Manzoni
+*** 
+pinyin Měiguó Guójiā Biāozhǔn Yǔ Jìshù Yánjiūyuàn
+characters 美国国家标准与技术研究院[-國國-標準與-術---]
+serial-number CedPane24720
+definition U.S. National Institute of Standards and Technology; NIST
+*** 
+pinyin píngfāng límǐ
+characters 平方厘米[--釐-]
+serial-number CedPane24721
+definition square centimetre
+*** 
+pinyin Qūnà
+characters 屈纳[-納]
+serial-number CedPane24722
+definition Kühner
+*** 
+pinyin rècí
+characters 热词[熱詞]
+serial-number CedPane24723
+definition popular word; trending word
+*** 
+pinyin Rén Fújì
+characters 任福继[--繼]
+serial-number CedPane24724
+definition Ren Fuji (Hefei professor)
+*** 
+pinyin Rén Sīsī
+characters 任思思
+serial-number CedPane24725
+definition Ren Sisi (Hefei robot)
+*** 
+pinyin Rén Xiǎngxiang
+characters 任想想
+serial-number CedPane24726
+definition Ren Xiangxiang (Hefei robot)
+*** 
+pinyin sì fēnzhī yī
+characters 四分之一
+serial-number CedPane24727
+definition a quarter
+*** 
+pinyin Tèlěizé
+characters 特蕾泽[--澤]
+serial-number CedPane24728
+definition Therese
+*** 
+pinyin tǐcéng zhàoxiàngshù
+characters 体层照相术[體層--術]
+serial-number CedPane24729
+definition tomography
+*** 
+pinyin túpiàn miáoshù
+characters 图片描述[圖---]
+serial-number CedPane24730
+definition picture description (for blind people etc)
+*** 
+pinyin túyòu
+characters 图右[圖-]
+serial-number CedPane24731
+definition right (on the right-hand side) in picture
+*** 
+pinyin xiándí
+characters 弦笛
+serial-number CedPane24732
+definition string and flute (music)
+*** 
+pinyin xìng jīngyàn
+characters 性经验[-經驗]
+serial-number CedPane24733
+definition sexual experience
+*** 
+pinyin xiùqū niánmó
+characters 嗅区黏膜[-區--]
+serial-number CedPane24734
+definition olfactory region
+*** 
+pinyin zhǎnbǎn
+characters 展板
+serial-number CedPane24735
+definition panel (at an exhibition)
