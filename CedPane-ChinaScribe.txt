@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-03-21
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-03-23
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -3659,6 +3659,7 @@
 恩培多克勒 恩培多克勒 [En1 pei2 duo1 ke4 le4] /Empedocles/
 恩平 恩平 [En1 ping2] /Enping (in Guangdong)/
 恩平市 恩平市 [En1 ping2_Shi4] /Enping (in Guangdong)/
+恩森吉尤姆瓦 恩森吉尤姆瓦 [En1 sen1 ji2 you2 mu3 wa3] /Nsengiyumva/
 恩莎 恩莎 [En1 sha1] /Enza/
 恩施 恩施 [En1 shi1] /Enshi (in Hubei)/
 恩施市 恩施市 [En1 shi1_Shi4] /Enshi (in Hubei)/
@@ -5114,7 +5115,7 @@
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-03-21/this is version 2019-03-21, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-03-23/this is version 2019-03-23, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
 漢柏 汉柏 [Han4 bo2] /Hamper (surname)/
@@ -13407,6 +13408,7 @@
 通渭縣 通渭县 [Tong1 wei4_Xian4] /Tongwei (county, in Gansu)/
 通許縣 通许县 [Tong1 xu3_Xian4] /Tongxu (county, in Henan)/
 通用公共授權 通用公共授权 [Tong1 yong4_Gong1 gong4_Shou4 quan2] /GPL/General Public License (unofficial translation)/
+通用拼音 通用拼音 [Tong1 yong4_Pin1 yin1] /Tongyong Pinyin (old Taiwan standard)/Pinyin, Tongyong (old Taiwan standard)/
 通榆縣 通榆县 [Tong1 yu2_Xian4] /Tongyu (county, in Jilin)/
 通州區 通州区 [Tong1 zhou1_Qu1] /Tongzhou District (in Beijing)/District, Tongzhou (in Beijing)/
 同安區 同安区 [Tong2 an1_Qu1] /Tong'an District/District, Tong'an/
@@ -18857,6 +18859,7 @@
 父族 父族 [fu4 zu2] /clan of one's father/one's father, clan of/
 父祖 父祖 [fu4 zu3] /fathers (ancestors)/
 尬聊 尬聊 [ga4 liao2] /awkward chat/chat, awkward/
+尬舞 尬舞 [ga4 wu3] /funny dance/dance, funny/
 該年 该年 [gai1_nian2] /that year/year, that/
 該怎麼辦 该怎么办 [gai1_zen3 me5_ban4] /what to do? (about sthg)/
 該國 该国 [gai1 guo2] /the country (in question)/this country/country, the/

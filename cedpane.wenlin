@@ -122672,7 +122672,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-03-21
+definition CedPane: this is version 2019-03-23
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -122979,3 +122979,18 @@ pinyin zhǎnbǎn
 characters 展板
 serial-number CedPane24735
 definition panel (at an exhibition)
+*** 
+pinyin Ēnsēnjíyóumǔwǎ
+characters 恩森吉尤姆瓦
+serial-number CedPane24736
+definition Nsengiyumva
+*** 
+pinyin gàwǔ
+characters 尬舞
+serial-number CedPane24737
+definition funny dance
+*** 
+pinyin Tōngyòng Pīnyīn
+characters 通用拼音
+serial-number CedPane24738
+definition Tongyong Pinyin (old Taiwan standard)
