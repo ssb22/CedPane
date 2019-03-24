@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-03-23
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-03-24
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -60,6 +60,7 @@
 阿爾坦 阿尔坦 [A1 er3 tan3] /Artan/
 阿耳忒彌斯 阿耳忒弥斯 [A1 er3 te4 mi2 si1] /Artemis/
 阿爾廷 阿尔廷 [A1 er3 ting2] /Alting/
+阿爾圖爾 阿尔图尔 [A1 er3 tu2 er3] /Artur (Russian)/
 阿爾瓦科語 阿尔瓦科语 [A1 er3 wa3 ke1 yu3] /Arhuaco (language)/
 阿爾瓦拉多 阿尔瓦拉多 [A1 er3 wa3 la1 duo1] /Alvarado/
 阿爾瓦拉辛 阿尔瓦拉辛 [A1 er3 wa3 la1 xin1] /Albarracín/
@@ -5115,7 +5116,7 @@
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-03-23/this is version 2019-03-23, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-03-24/this is version 2019-03-24, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
 漢柏 汉柏 [Han4 bo2] /Hamper (surname)/
@@ -8234,6 +8235,7 @@
 梁平縣 梁平县 [Liang2 ping2_Xian4] /Liangping (county, in Chongqing)/
 良慶區 良庆区 [Liang2 qing4_Qu1] /Liangqing District/District, Liangqing/
 梁山縣 梁山县 [Liang2 shan1_Xian4] /Liangshan County/County, Liangshan/
+良托爾 良托尔 [Liang2 tuo1 er3] /Lyantor/
 梁溪區 梁溪区 [Liang2 xi1_Qu1] /Liangxi District/District, Liangxi/
 梁園區 梁园区 [Liang2 yuan2_Qu1] /Liangyuan District/District, Liangyuan/
 涼州區 凉州区 [Liang2 zhou1_Qu1] /Liangzhou District/District, Liangzhou/
@@ -8878,6 +8880,7 @@
 漯河市 漯河市 [Luo4 he2_Shi4] /Luohe (in Henan)/
 洛基 洛基 [Luo4 ji1] /Loki/
 落基山脈 落基山脉 [Luo4 ji1_Shan1 mai4] /Rocky Mountains/Mountains, Rocky/
+洛吉諾夫 洛吉诺夫 [Luo4 ji2 nuo4 fu1] /Loginov/
 洛江區 洛江区 [Luo4 jiang1_Qu1] /Luojiang District/District, Luojiang/
 洛科 洛科 [Luo4 ke1] /Lak/
 洛可兒 洛可儿 [Luo4 ke3 er2] /Rakel/
@@ -9452,6 +9455,7 @@
 曼森 曼森 [Man4 sen1] /Manson/
 曼斯菲爾德 曼斯菲尔德 [Man4 si1 fei1 er3 de2] /Mansfield/
 曼蘇爾 曼苏尔 [Man4 su1 er3] /Mansur/
+曼西斯克 曼西斯克 [Man4 xi1 si1 ke4] /Mansiysk/
 曼佐尼 曼佐尼 [Man4 zuo3 ni2] /Manzoni/
 芒市 芒市 [Mang2_Shi4] /Mang (in Yunnan)/
 芒德維爾 芒德维尔 [Mang2 de2 wei2 er3] /Moundsville/
