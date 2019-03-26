@@ -123105,12 +123105,12 @@ definition another group
 pinyin Liùyuèfèn
 characters 六月份
 serial-number CedPane24760
-definition June
+definition June (month)
 *** 
 pinyin lüèméng
 characters 略萌
 serial-number CedPane24761
-environment   netspeak?
+environment   netspeak
 definition cute
 *** 
 pinyin Niújīnjiē
@@ -123146,7 +123146,7 @@ definition October
 pinyin Sìyuèfèn
 characters 四月份
 serial-number CedPane24768
-definition April
+definition April (month)
 *** 
 pinyin Tǎlín
 characters 塔林
@@ -123198,3 +123198,53 @@ characters 主机设定[-機設-]
 serial-number CedPane24778
 environment   comp./gaming
 definition console settings
+*** 
+pinyin Āpǔlì'ěr
+characters 阿普丽尔[--麗爾]
+serial-number CedPane24779
+definition April (name)
+*** 
+pinyin Gǔzélā
+characters 古泽拉[-澤-]
+serial-number CedPane24780
+definition Gulzira
+*** 
+pinyin jūzhùzhě
+characters 居住者
+serial-number CedPane24781
+definition resident
+*** 
+pinyin Láibāpǔ
+characters 莱巴普[萊--]
+serial-number CedPane24782
+definition Lebap
+*** 
+pinyin qūyù fǎyuàn
+characters 区域法院[區---]
+serial-number CedPane24783
+definition regional court
+*** 
+pinyin Sàiyìdí
+characters 赛义迪[賽義-]
+serial-number CedPane24784
+definition Seydi
+*** 
+pinyin sùguǎn
+characters 宿管
+serial-number CedPane24785
+definition residence supervisor; accommodation manager
+*** 
+pinyin wèiyù
+characters 卫浴[衛-]
+serial-number CedPane24786
+definition bathroom
+*** 
+pinyin yī shì yī tīng
+characters 一室一厅[---廳]
+serial-number CedPane24787
+definition one bedroom and one living room (in apartment)
+*** 
+pinyin yuèzū
+characters 月租
+serial-number CedPane24788
+definition monthly rent (amount)
