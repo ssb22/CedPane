@@ -8593,7 +8593,7 @@ definition Bruce (given name)
 pinyin Bùlǔsī
 characters 布鲁斯[-魯-]
 serial-number CedPane1723
-definition Bruce (surname)
+definition Bruce (surname); Burrus
 *** 
 pinyin bùmàn
 characters 布幔
@@ -46347,10 +46347,10 @@ characters 酸奶油
 serial-number CedPane9290
 definition sour cream
 *** 
-pinyin suān rǔlào
+pinyin suānrǔlào
 characters 酸乳酪
 serial-number CedPane9291
-definition yogurt
+definition yoghurt; yogurt
 *** 
 pinyin suàn shénme
 characters 算什么[--麼]
@@ -122672,7 +122672,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-03-24
+definition CedPane: this is version 2019-03-26
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -123014,3 +123014,187 @@ pinyin Mànxīsīkè
 characters 曼西斯克
 serial-number CedPane24742
 definition Mansiysk
+*** 
+pinyin pǔtōng shìbīng
+characters 普通士兵
+serial-number CedPane24743
+definition rank and file soldier
+*** 
+pinyin fùfèiqiáng
+characters 付费墙[-費牆]
+serial-number CedPane24744
+definition paywall (on website)
+*** 
+pinyin Bāyuèfèn
+characters 八月份
+serial-number CedPane24745
+definition August
+*** 
+pinyin bùlāduō
+characters 布拉多
+serial-number CedPane24746
+definition labrador
+*** 
+pinyin dàpào hōngjī
+characters 大炮轰击[--轟擊]
+serial-number CedPane24747
+definition artillery fire
+*** 
+pinyin diànyuán chāzuò
+characters 电源插座[電---]
+serial-number CedPane24748
+definition electrical outlet; socket
+*** 
+pinyin diànyuánxiàn
+characters 电源线[電-線]
+serial-number CedPane24749
+environment   comp./elec.
+definition power supply cord
+*** 
+pinyin Èryuèfèn
+characters 二月份
+serial-number CedPane24750
+definition February
+*** 
+pinyin Fújǐng Xiàn
+characters 福井县[--縣]
+serial-number CedPane24751
+definition Fukui Prefecture (Japan)
+*** 
+pinyin guǒrén yànmàipiàn
+characters 果仁燕麦片[---麥-]
+serial-number CedPane24752
+definition granola
+*** 
+pinyin jiàohuì rénshì
+characters 教会人士[-會--]
+serial-number CedPane24753
+definition churchmen
+*** 
+pinyin jiēdì chājiǎo
+characters 接地插脚[---腳]
+serial-number CedPane24754
+environment   elec.
+definition grounding pin; earth pin (on a plug)
+*** 
+pinyin Jiǔyuèfèn
+characters 九月份
+serial-number CedPane24755
+definition September
+*** 
+pinyin Kǎléi
+characters 卡雷
+serial-number CedPane24756
+definition Carey
+*** 
+pinyin liǎng zhōu
+characters 两周[兩-]
+serial-number CedPane24757
+definition two weeks
+*** 
+pinyin liǎng zhōu nèi
+characters 两周内[兩-內]
+serial-number CedPane24758
+definition within two weeks
+*** 
+pinyin lìng yī huǒ
+characters 另一伙
+serial-number CedPane24759
+definition another group
+*** 
+pinyin Liùyuèfèn
+characters 六月份
+serial-number CedPane24760
+definition June
+*** 
+pinyin lüèméng
+characters 略萌
+serial-number CedPane24761
+environment   netspeak?
+definition cute
+*** 
+pinyin Niújīnjiē
+characters 牛津街
+serial-number CedPane24762
+definition Oxford Street (in London)
+*** 
+pinyin Qīyuèfèn
+characters 七月份
+serial-number CedPane24763
+definition July
+*** 
+pinyin Sānyuèfèn
+characters 三月份
+serial-number CedPane24764
+definition March
+*** 
+pinyin Shí'èryuèfèn
+characters 十二月份
+serial-number CedPane24765
+definition December
+*** 
+pinyin Shíyīyuèfèn
+characters 十一月份
+serial-number CedPane24766
+definition November
+*** 
+pinyin Shíyuèfèn
+characters 十月份
+serial-number CedPane24767
+definition October
+*** 
+pinyin Sìyuèfèn
+characters 四月份
+serial-number CedPane24768
+definition April
+*** 
+pinyin Tǎlín
+characters 塔林
+serial-number CedPane24769
+definition Tallinn
+*** 
+pinyin Táogéfūpǐ'ěrsī
+characters 陶格夫匹尔斯[----爾-]
+serial-number CedPane24770
+definition Daugavpils
+*** 
+pinyin Wǔyuèfèn
+characters 五月份
+serial-number CedPane24771
+definition May (month)
+*** 
+pinyin Xīnxì Xiàn
+characters 新潟县[--縣]
+serial-number CedPane24772
+definition Niigata Prefecture (Japan)
+*** 
+pinyin xiōngxiōng
+characters 凶凶
+serial-number CedPane24773
+definition fierce; vicious
+*** 
+pinyin yáogǔn yīnyuè
+characters 摇滚音乐[搖滾-樂]
+serial-number CedPane24774
+definition rock music
+*** 
+pinyin Yēsī
+characters 耶斯
+serial-number CedPane24775
+definition Jess
+*** 
+pinyin yī huǒ rén
+characters 一伙人
+serial-number CedPane24776
+definition a group of people
+*** 
+pinyin Yīyuèfèn
+characters 一月份
+serial-number CedPane24777
+definition January
+*** 
+pinyin zhǔjī shèdìng
+characters 主机设定[-機設-]
+serial-number CedPane24778
+environment   comp./gaming
+definition console settings

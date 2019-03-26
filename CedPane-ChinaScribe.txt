@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-03-24
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-03-26
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -1478,6 +1478,7 @@
 巴伊亞 巴伊亚 [Ba1 yi1 ya4] /Bahia/
 巴宜區 巴宜区 [Ba1 yi2_Qu1] /Bayi District/District, Bayi/
 巴音郭楞 巴音郭楞 [Ba1 yin1 guo1 leng4] /Bayingolin/
+八月份 八月份 [Ba1 yue4 fen4] /August/
 巴中 巴中 [Ba1 zhong1] /Bazhong (in Sichuan)/
 巴中市 巴中市 [Ba1 zhong1_Shi4] /Bazhong (in Sichuan)/
 巴州區 巴州区 [Ba1 zhou1_Qu1] /Bazhou District/District, Bazhou/
@@ -2446,7 +2447,7 @@
 布魯奈爾 布鲁奈尔 [Bu4 lu3 nai4 er3] /Brunel/
 布魯內爾 布鲁内尔 [Bu4 lu3 nei4 er3] /Brunel/
 布魯諾 布鲁诺 [Bu4 lu3 nuo4] /Bruno/
-布魯斯 布鲁斯 [Bu4 lu3 si1] /Bruce (surname)/
+布魯斯 布鲁斯 [Bu4 lu3 si1] /Bruce (surname)/Burrus/Burrus, Bruce/
 布魯斯特 布鲁斯特 [Bu4 lu3 si1 te4] /Brust/
 布祿士 布禄士 [Bu4 lu4 shi4] /Bruce (given name)/
 布倫 布伦 [Bu4 lun2] /Brend/
@@ -3678,6 +3679,7 @@
 二連浩特 二连浩特 [Er4 lian2 hao4 te4] /Erenhot (in Inner Mongolia)/
 二連浩特市 二连浩特市 [Er4 lian2 hao4 te4_Shi4] /Erenhot (in Inner Mongolia)/
 二七區 二七区 [Er4 qi1_Qu1] /Erqi District/District, Erqi/
+二月份 二月份 [Er4 yue4 fen4] /February/
 二戰期間 二战期间 [Er4 zhan4_qi1 jian1] /during World War II/World War II, during/
 發羅拉 发罗拉 [Fa1 luo2 la1] /Vlor/
 法恩根 法恩根 [Fa3 en1 gen1] /Finegan/
@@ -4000,6 +4002,7 @@
 福建話 福建话 [Fu2 jian4 hua4] /Fujian dialect (topolect)/dialect, Fujian (topolect)/
 福建省 福建省 [Fu2 jian4 sheng3] /Fujian province/province, Fujian/
 福井 福井 [Fu2 jing3] /Fukui (Japan prefecture)/
+福井縣 福井县 [Fu2 jing3_Xian4] /Fukui Prefecture (Japan)/Prefecture, Fukui (Japan)/
 福克蘭 福克兰 [Fu2 ke4 lan2] /Falkland/
 福克納 福克纳 [Fu2 ke4 na4] /Faulkner/
 福克斯 福克斯 [Fu2 ke4 si1] /Foxe/Fawkes/
@@ -5116,7 +5119,7 @@
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-03-24/this is version 2019-03-24, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-03-26/this is version 2019-03-26, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
 漢柏 汉柏 [Han4 bo2] /Hamper (surname)/
@@ -6553,6 +6556,7 @@
 九台市 九台市 [Jiu3 tai2_Shi4] /Jiutai (city, in Jilin)/
 九陽 九阳 [Jiu3 yang2] /Joyoung (appliance maker)/
 九原區 九原区 [Jiu3 yuan2_Qu1] /Jiuyuan District/District, Jiuyuan/
+九月份 九月份 [Jiu3 yue4 fen4] /September/
 九寨溝縣 九寨沟县 [Jiu3 zhai4 gou1_Xian4] /Jiuzhaigou County/County, Jiuzhaigou/
 久治縣 久治县 [Jiu3 zhi4_Xian4] /Jiuzhi (county, in Qinghai)/
 舊城門 旧城门 [Jiu4 cheng2 men2] /Gate of the Old City/City, Gate of the Old/
@@ -6676,6 +6680,7 @@
 卡勒漢 卡勒汉 [Ka3 le4 han4] /Callahan/
 卡勒姆 卡勒姆 [Ka3 le4 mu3] /Callum/
 卡勒 卡勒 [Ka3 lei1] /Kahle/
+卡雷 卡雷 [Ka3 lei2] /Carey/
 卡雷恩 卡雷恩 [Ka3 lei2 en1] /Carreón/
 卡雷爾 卡雷尔 [Ka3 lei2 er3] /Karel/
 卡雷爾和 卡雷尔和 [Ka3 lei2 er3 he2] /Carel (river)/
@@ -8423,6 +8428,7 @@
 六盤水 六盘水 [Liu4 pan2 shui3] /Liupanshui (in Guizhou)/
 六盤水市 六盘水市 [Liu4 pan2 shui3_Shi4] /Liupanshui (in Guizhou)/
 六世 六世 [Liu4 shi4] /VI/Sixth (in line of kings etc)/
+六月份 六月份 [Liu4 yue4 fen4] /June/
 六枝特區 六枝特区 [Liu4 zhi1 te4_Qu1] /Liuzhite (district, in Guizhou)/
 龍安區 龙安区 [Long2 an1_Qu1] /Long'an District/District, Long'an/
 隆安縣 隆安县 [Long2 an1_Xian4] /Long'an (county, in Guangxi)/
@@ -10541,6 +10547,7 @@
 牛劍 牛剑 [Niu2 Jian4] /Oxford and Cambridge/Cambridge, Oxford and/
 牛津大學 牛津大学 [Niu2 jin1_Da4 xue2] /Oxford University/University, Oxford/
 牛津大學出版社 牛津大学出版社 [Niu2 jin1_Da4 xue2_Chu1 ban3 she4] /Oxford University Press/OUP/University Press, Oxford/
+牛津街 牛津街 [Niu2 jin1 jie1] /Oxford Street (in London)/Street, Oxford (in London)/
 牛頭角 牛头角 [Niu2 tou2 jiao3] /Ngau Tau Kok (area in Kowloon, HK)/
 紐埃 纽埃 [Niu3 ai1] /Niue/
 紐埃語 纽埃语 [Niu3 ai1 yu3] /Niuean (language)/
@@ -11125,6 +11132,7 @@
 棲霞市 栖霞市 [Qi1 xia2_Shi4] /Qixia (in Shandong)/
 七星區 七星区 [Qi1 xing1_Qu1] /Qixing District/District, Qixing/
 七星關區 七星关区 [Qi1 xing1 guan1_Qu1] /Qixingguan District/District, Qixingguan/
+七月份 七月份 [Qi1 yue4 fen4] /July/
 淇縣 淇县 [Qi2_Xian4] /Qi County/County, Qi/
 祁縣 祁县 [Qi2_Xian4] /Qi County/County, Qi/
 奇阿圖拉 奇阿图拉 [Qi2 a1 tu2 la1] /Chiatura/
@@ -11848,6 +11856,7 @@
 三一學院 三一学院 [San1 yi1_xue2 yuan4] /Trinity college (Cambridge)/college, Trinity (Cambridge)/
 三元區 三元区 [San1 yuan2_Qu1] /Sanyuan District/District, Sanyuan/
 三原縣 三原县 [San1 yuan2_Xian4] /Sanyuan (county, in Shaanxi)/
+三月份 三月份 [San1 yue4 fen4] /March/
 三芝區 三芝区 [San1 zhi1_Qu1] /Sanzhi District (in New Taipei)/District, Sanzhi (in New Taipei)/
 桑巴拉 桑巴拉 [Sang1 ba1 la1] /Sanballat/
 桑比西 桑比西 [Sang1 bi3 xi1] /Zambezi (older translation)/
@@ -12273,6 +12282,7 @@
 施亞雅述 施亚雅述 [Shi1 ya4 ya3 shu4] /Shear-jashub/
 師宗縣 师宗县 [Shi1 zong1_Xian4] /Shizong (county, in Yunnan)/
 石澳 石澳 [Shi2 ao4] /Shek O (village on HK island)/
+十二月份 十二月份 [Shi2 er4 yue4 fen4] /December/
 石城縣 石城县 [Shi2 cheng2_Xian4] /Shicheng (county, in Jiangxi)/
 石川 石川 [Shi2 chuan1] /Ishikawa (Japan prefecture)/
 石碇區 石碇区 [Shi2 ding4_Qu1] /Shiding District (in New Taipei)/District, Shiding (in New Taipei)/
@@ -12309,6 +12319,8 @@
 實欣 实欣 [Shi2 xin1] /Shilhim/
 十堰 十堰 [Shi2 yan4] /Shiyan (in Hubei)/
 十堰市 十堰市 [Shi2 yan4_Shi4] /Shiyan (in Hubei)/
+十一月份 十一月份 [Shi2 yi1 yue4 fen4] /November/
+十月份 十月份 [Shi2 yue4 fen4] /October/
 十月鎮 十月镇 [Shi2 yue4 zhen4] /Oktyabrskiy/
 十字架報 十字架报 [Shi2 zi4 jia4 bao4] /La Croix (Catholic newspaper)/Croix, La (Catholic newspaper)/
 十字軍東征 十字军东征 [Shi2 zi4 jun1_dong1_zheng1] /Crusades/
@@ -12707,6 +12719,7 @@
 泗水 泗水 [Si4 shui3] /Surabaya/
 泗水縣 泗水县 [Si4 shui3_Xian4] /Sishui County/County, Sishui/
 泗陽縣 泗阳县 [Si4 yang2_Xian4] /Siyang (county, in Jiangsu)/
+四月份 四月份 [Si4 yue4 fen4] /April/
 四子王旗 四子王旗 [Si4 zi3 wang2_Qi2] /Siziwang (banner, in Inner Mongolia)/
 嵩縣 嵩县 [Song1_Xian4] /Song County/County, Song/
 松巴 松巴 [Song1 ba1] /Zomba/
@@ -12964,6 +12977,7 @@
 塔里什語 塔里什语 [Ta3 li3 shi2 yu3] /Talysh (language)/
 塔利亞 塔利亚 [Ta3 li4 ya4] /Tarea/
 塔莉婭 塔莉娅 [Ta3 li4 ya4] /Talia/
+塔林 塔林 [Ta3 lin2] /Tallinn/
 塔倫 塔伦 [Ta3 lun2] /Taylene/
 塔瑪 塔玛 [Ta3 ma3] /Tamar (Bible)/
 塔馬 塔马 [Ta3 ma3] /Tamar (modern)/
@@ -13159,6 +13173,7 @@
 淘寶 淘宝 [Tao2 bao3] /Taobao (company)/
 洮北區 洮北区 [Tao2 bei3_Qu1] /Taobei District/District, Taobei/
 桃城區 桃城区 [Tao2 cheng2_Qu1] /Taocheng District/District, Taocheng/
+陶格夫匹爾斯 陶格夫匹尔斯 [Tao2 ge2 fu1 pi3 er3 si1] /Daugavpils/
 桃江縣 桃江县 [Tao2 jiang1_Xian4] /Taojiang (county, in Hunan)/
 洮南 洮南 [Tao2 nan2] /Taonan (in Jilin)/
 洮南市 洮南市 [Tao2 nan2_Shi4] /Taonan (in Jilin)/
@@ -14251,6 +14266,7 @@
 武邑縣 武邑县 [Wu3 yi4_Xian4] /Wuyi (county, in Hebei)/
 五營區 五营区 [Wu3 ying2_Qu1] /Wuying District/District, Wuying/
 五原縣 五原县 [Wu3 yuan2_Xian4] /Wuyuan (county, in Inner Mongolia)/
+五月份 五月份 [Wu3 yue4 fen4] /May (month)/
 五寨縣 五寨县 [Wu3 zhai4_Xian4] /Wuzhai (county, in Shanxi)/
 五指山 五指山 [Wu3 zhi3 shan1] /Wuzhishan (in Hainan)/
 五指山市 五指山市 [Wu3 zhi3 shan1_Shi4] /Wuzhishan (in Hainan)/
@@ -14921,6 +14937,7 @@
 辛茜婭 辛茜娅 [Xin1 xi1 ya4] /Cynthia/
 辛西婭 辛西娅 [Xin1 xi1 ya4] /Cynthia/
 新潟 新潟 [Xin1 xi4] /Niigata (Japan prefecture)/
+新潟縣 新潟县 [Xin1 xi4_Xian4] /Niigata Prefecture (Japan)/Prefecture, Niigata (Japan)/
 新鄉 新乡 [Xin1 xiang1] /Xinxiang (in Henan)/
 新鄉市 新乡市 [Xin1 xiang1_Shi4] /Xinxiang (in Henan)/
 新鄉縣 新乡县 [Xin1 xiang1_Xian4] /Xinxiang County/County, Xinxiang/
@@ -15681,6 +15698,7 @@
 耶書崙 耶书仑 [Ye1 shu1 lun2] /Jeshurun/
 耶書亞 耶书亚 [Ye1 shu1 ya4] /Jeshua/
 耶數 耶数 [Ye1 shu4] /Jesus (not Christ)/
+耶斯 耶斯 [Ye1 si1] /Jess/
 耶斯列 耶斯列 [Ye1 si1 lie4] /Jezreel/
 耶斯佩森 耶斯佩森 [Ye1 si1 pei4 sen1] /Jespersen/
 耶穌基督后期聖徒教會 耶稣基督后期圣徒教会 [Ye1 su1_Ji1 du1_hou4 qi1_sheng4 tu2_jiao4 hui4] /Church of Jesus Christ of Latter-day Saints/Jesus Christ of Latter-day Saints, Church of/
@@ -15935,6 +15953,7 @@
 伊西多爾 伊西多尔 [Yi1 xi1 duo1 er3] /Isidore/
 伊希斯 伊希斯 [Yi1 xi1 si1] /Isis/
 伊亞蘇 伊亚苏 [Yi1 ya4 su1] /Eyassu/
+一月份 一月份 [Yi1 yue4 fen4] /January/
 伊扎克 伊扎克 [Yi1 zha1 ke4] /Yitzhak/
 伊州區 伊州区 [Yi1 zhou1_Qu1] /Yizhou District/District, Yizhou/
 伊朱 伊朱 [Yi1 zhu1] /Ifju/
@@ -17517,6 +17536,7 @@
 不潔 不洁 [bu4 jie2] /unclean/
 不敬虔 不敬虔 [bu4 jing4 qian2] /ungodly/
 不肯讓步 不肯让步 [bu4 ken3_rang4 bu4] /be unyielding/unyielding, be/
+布拉多 布拉多 [bu4 la1 duo1] /labrador/
 不離不棄 不离不弃 [bu4 li2 bu2 qi4] /not give up on/not abandon/give up on, not/abandon, not/
 不利于 不利于 [bu4 li4_yu2] /unsuitable for/
 步量 步量 [bu4 liang4] /measure with steps/visit to see for oneself (a place)/steps, measure with (a place)/oneself, visit to see for (a place)/
@@ -18097,6 +18117,7 @@
 大怒傷肝 大怒伤肝 [da4 nu4_shang1_gan1] /anger damages the liver/damages the liver, anger/
 大琶琴 大琶琴 [da4 pa2 qin2] /bass paqin (stringed instrument)/paqin, bass (stringed instrument)/
 大磐石 大磐石 [da4 pan2 shi2] /heavy crag/crag, heavy/
+大炮轟擊 大炮轰击 [da4 pao4_hong1 ji1] /artillery fire/fire, artillery/
 大騙子 大骗子 [da4 pian4 zi5] /con artist/artist, con/
 大蕁麻 大荨麻 [da4 qian2 ma2] /stinging nettle (lit. big nettle)/nettle, stinging (lit. big nettle)/
 大阮 大阮 [da4 ruan3] /bass ruan/ruan, bass/
@@ -18379,7 +18400,9 @@
 電線槽 电线槽 [dian4 xian4 cao2] /(electric) cable duct (in building)/duct, cable (in building)/
 殿役 殿役 [dian4 yi4] /Nethinim/
 電影導演 电影导演 [dian4 ying3_dao3 yan3] /film director/director, film/
+電源插座 电源插座 [dian4 yuan2_cha1 zuo4] /electrical outlet/socket/outlet, electrical/
 電圓鋸 电圆锯 [dian4 yuan2 ju4] /circular saw (electric)/
+電源線 电源线 [dian4 yuan2 xian4] /power supply cord/supply cord, power/
 電震器 电震器 [dian4 zhen4 qi4] /electroshock devices/devices, electroshock/
 電子產品 电子产品 [dian4 zi3_chan3 pin3] /electronic device/gadget/device, electronic/
 電子出版物 电子出版物 [dian4 zi3_chu1 ban3 wu4] /electronic publications/publications, electronic/
@@ -18828,6 +18851,7 @@
 覆庇 覆庇 [fu4 bi4] /screen off/cover over/off, screen/over, cover/
 副車 副车 [fu4 che1] /second chariot (lit. assist car)/chariot, second (lit. assist car)/
 復得 复得 [fu4 de2] /regain/
+付費牆 付费墙 [fu4 fei4 qiang2] /paywall (on website)/
 複合樹脂 复合树脂 [fu4 he2_shu4 zhi1] /composite resin/resin, composite/
 副祭司 副祭司 [fu4 ji4 si1] /priests of the second rank/assistant priests/second rank, priests of the/
 副監督 副监督 [fu4 jian1 du1] /second (assistant) overseer/overseer, second/
@@ -19212,6 +19236,7 @@
 國族 国族 [guo2 zu2] /nation/
 果醋 果醋 [guo3 cu4] /fruit vinegar (vinegar made by fermenting fruits)/vinegar, fruit (vinegar made by fermenting fruits)/
 裹好 裹好 [guo3 hao3] /wrap|bind up well/well, wrap|bind up/
+果仁燕麥片 果仁燕麦片 [guo3 ren2_yan4 mai4 pian4] /granola/
 裹尸布 裹尸布 [guo3 shi1 bu4] /shroud (a cloth to wrap up a dead person)/
 裹頭巾 裹头巾 [guo3 tou2 jin1] /bind a headdress (?)/headdress, bind a (?)/
 果餡餅 果馅饼 [guo3 xian4 bing3] /flan (British)/
@@ -19865,6 +19890,7 @@
 較低 较低 [jiao4 di1] /lower/less/
 校對員 校对员 [jiao4 dui4 yuan2] /proofreader/
 教會會議 教会会议 [jiao4 hui4_hui4 yi4] /synod/
+教會人士 教会人士 [jiao4 hui4_ren2 shi4] /churchmen/
 教會法 教会法 [jiao4 hui4 fa3] /canon law/
 叫來 叫来 [jiao4 lai5] /call to come here/come here, call to/
 教區長住所 教区长住所 [jiao4 qu1 zhang3_zhu4 suo3] /rectory/
@@ -19880,6 +19906,7 @@
 接駁專車服務 接驳专车服务 [jie1 bo2_zhuan1 che1_fu2 wu4] /shuttle service/service, shuttle/
 接觸管理 接触管理 [jie1 chu4_guan3 li3] /contact management/management, contact/
 接單 接单 [jie1 dan1] /take orders (from customers)/orders, take (from customers)/
+接地插腳 接地插脚 [jie1 di4_cha1 jiao3] /grounding pin/earth pin (on a plug)/pin, grounding (on a plug)/
 接合處 接合处 [jie1 he2 chu4] /joint (mechanical)/
 接機 接机 [jie1 ji1] /welcome at an airport/airport, welcome at an/
 階級之分 阶级之分 [jie1 ji2_zhi1_fen1] /class distinctions/distinctions, class/
@@ -20481,6 +20508,8 @@
 兩室 两室 [liang3_shi4] /two-room/
 兩位 两位 [liang3_wei4] /two (people, polite)/
 兩文三語 两文三语 [liang3_wen2_san1_yu3] /two written and three spoken languages (HK advocacy 1997)/written and three spoken languages, two (HK advocacy 1997)/
+兩周 两周 [liang3_zhou1] /two weeks/weeks, two/
+兩周內 两周内 [liang3_zhou1_nei4] /within two weeks/weeks, within two/
 兩三 两三 [liang3 san1] /two or three/three, two or/
 兩部族 两部族 [liang3 bu4 zu2] /two-tribe/
 兩腳 两脚 [liang3 jiao3] /both feet/feet, both/
@@ -20536,6 +20565,7 @@
 另一次 另一次 [ling4_yi1_ci4] /another time/time, another/
 另一個例子 另一个例子 [ling4_yi1_ge5_li4 zi5] /another example/example, another/
 另一個人 另一个人 [ling4_yi1_ge5_ren2] /another person/person, another/
+另一伙 另一伙 [ling4_yi1_huo3] /another group/group, another/
 另一件事 另一件事 [ling4_yi1_jian4_shi4] /another thing/thing, another/
 另一匹馬 另一匹马 [ling4_yi1_pi3_ma3] /another horse/horse, another/
 另一種文化 另一种文化 [ling4_yi1_zhong3_wen2 hua4] /another culture/culture, another/
@@ -20631,6 +20661,7 @@
 綠玉髓 绿玉髓 [lu:4 yu4 sui3] /chrysoprase (gemstone)/
 律則 律则 [lu:4 ze2] /law (as in principle of nature)/
 綠柱玉 绿柱玉 [lu:4 zhu4 yu4] /emerald (stone)/
+略萌 略萌 [lu:e4 meng2] /cute/
 掠去 掠去 [lu:e4 qu5] /pillage/capture/
 掠物 掠物 [lu:e4 wu4] /spoil (obtained by plunder etc)/
 掠走 掠走 [lu:e4 zou3] /take/capture/
@@ -21230,6 +21261,7 @@
 普紐馬 普纽马 [pu3 niu3 ma3] /pneuma/
 普世 普世 [pu3 shi4] /worldwide/
 普世教會運動 普世教会运动 [pu3 shi4_jiao4 hui4_yun4 dong4] /ecumenical movement/movement, ecumenical/
+普通士兵 普通士兵 [pu3 tong1_shi4 bing1] /rank and file soldier/file soldier, rank and/
 普通字體 普通字体 [pu3 tong1_zi4 ti3] /regular (ordinary, non-bold) type/type, regular/
 普緒克 普绪克 [pu3 xu4 ke4] /psykhe (ψυχή)/
 七宗罪 七宗罪 [qi1_zong1_zui4] /"seven deadly sins"/deadly sins", "seven/
@@ -22232,9 +22264,9 @@
 塑料布 塑料布 [su4 liao4 bu4] /plastic sheeting/sheeting, plastic/
 塑造你 塑造你 [su4 zao4_ni3] /mold you/
 塑造我們 塑造我们 [su4 zao4_wo3 men5] /mold us/
-酸乳酪 酸乳酪 [suan1_ru3 lao4] /yogurt/
 酸酒 酸酒 [suan1 jiu3] /sour wine/wine, sour/
 酸奶油 酸奶油 [suan1 nai3 you2] /sour cream/cream, sour/
+酸乳酪 酸乳酪 [suan1 ru3 lao4] /yoghurt/yogurt/
 酸葉 酸叶 [suan1 ye4] /sorrel/
 酸葉草 酸叶草 [suan1 ye4 cao3] /sorrel/
 算什麼 算什么 [suan4_shen2 me5] /amounts to what?/what?, amounts to/
@@ -23285,6 +23317,7 @@
 胸腔外科 胸腔外科 [xiong1 qiang1_wai4 ke1] /cardiothoracic surgery/surgery, cardiothoracic/
 胸外科醫生 胸外科医生 [xiong1 wai4 ke1_yi1 sheng1] /thoracic surgeon/chest surgeon/surgeon, thoracic/
 胸腺嘧啶 胸腺嘧啶 [xiong1 xian4_mi4 ding4] /thymine/
+凶凶 凶凶 [xiong1 xiong1] /fierce/vicious/
 凶言 凶言 [xiong1 yan2] /terrible words/words, terrible/
 胸章套 胸章套 [xiong1 zhang1 tao4] /badge card holder/card holder, badge/
 凶咒 凶咒 [xiong1 zhou4] /unlucky spell/spell, unlucky/
@@ -23470,6 +23503,7 @@
 養壯 养壮 [yang3 zhuang4] /strengthen (a sick person etc; lit. raise robust)/
 邀請卡 邀请卡 [yao1 qing3 ka3] /invitation card (for party etc)/card, invitation (for party etc)/
 搖一搖 摇一摇 [yao2_yi5_yao2] /wiggle (as in wiggle branches to make ripe fruits fall off)/
+搖滾音樂 摇滚音乐 [yao2 gun3_yin1 yue4] /rock music/music, rock/
 搖滾樂隊 摇滚乐队 [yao2 gun3_yue4 dui4] /rock group/rock-and-roll band/group, rock/band, rock-and-roll/
 窯灰 窑灰 [yao2 hui1] /kiln soot/soot, kiln/
 搖祭 摇祭 [yao2 ji4] /wave offering/offering, wave/
@@ -23504,6 +23538,7 @@
 一代人 一代人 [yi1_dai4_ren2] /generation/
 一道光 一道光 [yi1_dao4_guang1] /a streak of light/streak of light, a/
 一個半小時 一个半小时 [yi1_ge5_ban4_xiao3 shi2] /an hour and a half/hour and a half, an/
+一伙人 一伙人 [yi1_huo3_ren2] /a group of people/group of people, a/
 一家三口 一家三口 [yi1_jia1_san1_kou3] /family of three/three, family of/
 一件事 一件事 [yi1_jian4_shi4] /one thing/thing, one/
 一塊石頭 一块石头 [yi1_kuai4_shi2 tou5] /a stone/stone, a/
@@ -24294,6 +24329,7 @@
 主持公道 主持公道 [zhu3 chi2_gong1 dao4] /do justice/execute judgment/justice, do/judgment, execute/
 主動安樂死 主动安乐死 [zhu3 dong4_an1 le4 si3] /positive euthanasia (deliberate act, as opposed to omitting life support)/euthanasia, positive (deliberate act, as opposed to omitting life support)/
 煮好 煮好 [zhu3 hao3] /well-boiled/
+主機設定 主机设定 [zhu3 ji1_she4 ding4] /console settings/settings, console/
 主教團 主教团 [zhu3 jiao4 tuan2] /Bishops' Conference/Conference, Bishops'/
 主流教會 主流教会 [zhu3 liu2_jiao4 hui4] /established church (lit. mainstream church)/church, established (lit. mainstream church)/
 主流宗教 主流宗教 [zhu3 liu2_zong1 jiao4] /major faiths/mainstream religions/faiths, major/religions, mainstream/
