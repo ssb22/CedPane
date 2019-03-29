@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-03-26
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-03-29
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -2111,6 +2111,7 @@
 博城 博城 [Bo2_cheng2] /Bo (city in Sierra Leone)/
 博愛縣 博爱县 [Bo2 ai4_Xian4] /Bo'ai County/County, Bo'ai/
 伯安納特 伯安纳特 [Bo2 an1 na4 te4] /Beth-anath/
+博鰲 博鳌 [Bo2 ao2] /Bo'ao (in Hainan)/
 伯恩 伯恩 [Bo2 en1] /Byrne/
 博恩 博恩 [Bo2 en1] /Boann/
 伯恩鮑姆 伯恩鲍姆 [Bo2 en1 bao4 mu3] /Bernbaum/
@@ -5121,7 +5122,7 @@
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-03-26/this is version 2019-03-26, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-03-29/this is version 2019-03-29, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
 漢柏 汉柏 [Han4 bo2] /Hamper (surname)/
@@ -5380,6 +5381,7 @@
 黑斯廷斯戰役 黑斯廷斯战役 [Hei1 si1 ting2 si1_Zhan4 yi4] /Battle of Hastings (1066)/Hastings, Battle of (1066)/
 黑玉 黑玉 [Hei1 yu4] /Jet (magazine)/
 黑澤 黑泽 [Hei1 ze2] /Blackpool/
+黑茲爾 黑兹尔 [Hei1 zi1 er3] /Hazel (name)/
 亨茨維爾 亨茨维尔 [Heng1 ci2 wei2 er3] /Huntsville/
 亨德里克 亨德里克 [Heng1 de2 li3 ke4] /Hendrik/
 亨德里克森 亨德里克森 [Heng1 de2 li3 ke4 sen1] /Hendrickson/
@@ -12200,6 +12202,7 @@
 聖保羅 圣保罗 [Sheng4 bao3 luo2] /São Paulo/Paulo, São/
 聖保羅大學 圣保罗大学 [Sheng4 bao3 luo2_Da4 xue2] /University of São Paulo/São Paulo, University of/
 聖保羅市 圣保罗市 [Sheng4 bao3 luo2_Shi4] /São Paulo/Paulo, São/
+聖誕燈飾 圣诞灯饰 [Sheng4 dan4_deng1 shi4] /Christmas lights/lights, Christmas/
 聖誕歌曲 圣诞歌曲 [Sheng4 dan4_ge1 qu3] /Christmas carol/carol, Christmas/
 聖誕花紅 圣诞花红 [Sheng4 dan4_hua1 hong2] /Christmas bonus/bonus, Christmas/
 聖誕獎金 圣诞奖金 [Sheng4 dan4_jiang3 jin1] /Christmas bonus/bonus, Christmas/
@@ -14841,6 +14844,7 @@
 新譯 新译 [Xin1_Yi4] /CNV/NCV (Chinese New Version, at one time called New Chinese Version)/
 新英王欽定本 新英王钦定本 [Xin1_Ying1 wang2_Qin1 ding4 ben3] /New King James Version/King James Version, New/
 新澤西州 新泽西州 [Xin1_Ze2 xi1_Zhou1] /New Jersey/Jersey, New/
+新中國 新中国 [Xin1_Zhong1 guo2] /New China (1949-)/China, New (1949-)/
 新周刊 新周刊 [Xin1_Zhou1 kan1] /New Weekly (magazine 1996-)/Weekly, New (magazine 1996-)/
 新世紀運動 新世纪运动 [Xin1_shi4 ji4_yun4 dong4] /New Age (movement)/
 新安縣 新安县 [Xin1 an1_Xian4] /Xin'an (county, in Henan)/
@@ -16857,6 +16861,7 @@
 中國學生學者聯誼會 中国学生学者联谊会 [Zhong1 guo2_Xue2 sheng5_Xue2 zhe3_Lian2 yi4 hui4] /Chinese Students and Scholars Association/CSSA/Students and Scholars Association, Chinese/
 中國移動 中国移动 [Zhong1 guo2_Yi2 dong4] /China Mobile (telephone company)/Mobile, China (telephone company)/
 中國移動香港 中国移动香港 [Zhong1 guo2_Yi2 dong4_Xiang1 gang3] /China Mobile Hong Kong (telephone company)/Mobile Hong Kong, China (telephone company)/
+中國音樂著作權協會 中国音乐著作权协会 [Zhong1 guo2_Yin1 yue4_Zhu4 zuo4 quan2_Xie2 hui4] /Music Copyright Society of China/MCSC/Copyright Society of China, Music/
 中國原子能科學研究院 中国原子能科学研究院 [Zhong1 guo2_Yuan2 zi3 neng2_Ke1 xue2_Yan2 jiu1 yuan4] /China Institute of Atomic Energy/Institute of Atomic Energy, China/
 中國知網 中国知网 [Zhong1 guo2_Zhi1 wang3] /China National Knowledge Infrastructure/CNKI/National Knowledge Infrastructure, China/
 中國尊 中国尊 [Zhong1 guo2_Zun1] /China Zun (building)/
@@ -17098,6 +17103,7 @@
 安全意識 安全意识 [an1 quan2_yi4 shi5] /safety consciousness/consciousness, safety/
 安全指示燈 安全指示灯 [an1 quan2_zhi3 shi4 deng1] /safety light (carried by worker)/light, safety (carried by worker)/
 安全指引 安全指引 [an1 quan2_zhi3 yin3] /safety instructions (on plane etc)/instructions, safety (on plane etc)/
+安全牆 安全墙 [an1 quan2 qiang2] /parapet (safety wall)/
 安士 安士 [an1 shi4] /ounce/oz/
 安守本分 安守本分 [an1 shou3_ben3 fen4] /content with one's lot/one's lot, content with/
 安躺 安躺 [an1 tang3] /lie down (peacefully; used of sheep etc)/down, lie (peacefully; used of sheep etc)/
@@ -17368,6 +17374,7 @@
 編程語言 编程语言 [bian1 cheng2_yu3 yan2] /programming language/language, programming/
 邊度 边度 [bian1 du4] /where?/
 編花 编花 [bian1 hua1] /garland/
+邊境牆 边境墙 [bian1 jing4_qiang2] /border wall (between countries)/wall, border (between countries)/
 編排方式 编排方式 [bian1 pai2_fang1 shi4] /format/(page) layout/
 編排設計 编排设计 [bian1 pai2_she4 ji4] /format/(page) layout/
 鞭聲 鞭声 [bian1 sheng1] /whip sound/sound, whip/
@@ -18429,6 +18436,7 @@
 雕鴞 雕鸮 [diao1 xiao1] /eagle owl/
 雕柱 雕柱 [diao1 zhu4] /carved pillar/pillar, carved/
 調查人員 调查人员 [diao4 cha2 ren2 yuan2] /investigators/
+吊放 吊放 [diao4 fang4] /lower into place (with rope, crane etc)/place, lower into (with rope, crane etc)/
 掉光 掉光 [diao4 guang1] /fall off and all gone/gone, fall off and all/
 釣上 钓上 [diao4 shang5] /draw out (a fish)/
 吊下 吊下 [diao4 xia5] /hang down?/down?, hang/
@@ -18944,8 +18952,9 @@
 感應區 感应区 [gan3 ying4 qu1] /sensor area (for contactless card)/area, sensor (for contactless card)/
 剛結婚的人 刚结婚的人 [gang1_jie2 hun1_de5_ren2] /newlyweds/
 鋼管舞 钢管舞 [gang1 guan3 wu3] /pole dancing/dancing, pole/
-鋼架 钢架 [gang1 jia4] /steel frame/frame, steel/
+鋼架 钢架 [gang1 jia4] /steel frame/steel rafter/frame, steel/rafter, steel/
 缸口 缸口 [gang1 kou3] /brim|mouth of a jar or vat/
+鋼梁架 钢梁架 [gang1 liang2 jia4] /steel framework/framework, steel/
 鋼琴演奏家 钢琴演奏家 [gang1 qin2_yan3 zou4 jia1] /pianist/
 剛裝好 刚装好 [gang1 zhuang1 hao3] /newly-installed/
 港務長 港务长 [gang3 wu4 zhang3] /harbourmaster/
@@ -18998,9 +19007,11 @@
 隔斷牆 隔断墙 [ge2 duan5_qiang2] /partition wall/wall, partition/
 革胡 革胡 [ge2 hu2] /gehu (cello-like huqin instrument)/
 革去 革去 [ge2 qu5] /dismiss/put out of (a stewardship etc)/
+隔熱材料 隔热材料 [ge2 re4_cai2 liao4] /insulation (thermal)/
 隔熱支架 隔热支架 [ge2 re4_zhi1 jia4] /insulated support brackets (for heating pipes)/support brackets, insulated (for heating pipes)/
 隔熱板 隔热板 [ge2 re4 ban3] /soffit boards/insulated boards (for ceiling)/boards, soffit (for ceiling)/
 格外留意 格外留意 [ge2 wai4_liu2 yi4] /pay more than the usual attention/more than the usual attention, pay/
+隔音材料 隔音材料 [ge2 yin1_cai2 liao4] /soundproofing (material)/
 隔音牆 隔音墙 [ge2 yin1 qiang2] /acoustic fence/soundproof wall/fence, acoustic/wall, soundproof/
 各耳板 各耳板 [ge4 er3 ban3] /corban (old translation?)/
 各據一方 各据一方 [ge4 ju4 yi1 fang1] /each seizing one part|side/seizing one part|side, each/
@@ -19159,6 +19170,7 @@
 官網 官网 [guan1 wang3] /official website (short version)/website, official (short version)/
 觀照 观照 [guan1 zhao4] /looks into (of subject)/
 關注度 关注度 [guan1 zhu4 du4] /notability (term used by Wikipedia editors)/
+管道支架 管道支架 [guan3 dao4_zhi1 jia4] /pipe clips/clips, pipe/
 管道工 管道工 [guan3 dao4 gong1] /plumber/
 管好你的嘴 管好你的嘴 [guan3 hao3_ni3_de5_zui3] /Cuss Control (2000 self-help book, lit. manage your mouth)/Control, Cuss (2000 self-help book, lit. manage your mouth)/
 館際互借服務 馆际互借服务 [guan3 ji4 hu4 jie4_fu2 wu4] /interlibrary loan service/loan service, interlibrary/
@@ -19567,6 +19579,7 @@
 混凝土泵 混凝土泵 [hun4 ning2 tu3_beng4] /concrete pump/pump, concrete/
 混凝土框架 混凝土框架 [hun4 ning2 tu3_kuang4 jia4] /concrete frame/frame, concrete/
 混凝土模板 混凝土模板 [hun4 ning2 tu3_mu2 ban3] /concrete forming panel/forming panel, concrete/
+混凝土牆板 混凝土墙板 [hun4 ning2 tu3_qiang2 ban3] /concrete panels/panels, concrete/
 混種交配 混种交配 [hun4 zhong3_jiao1 pei4] /crossbreeding/
 活細胞 活细胞 [huo2_xi4 bao1] /living cells/cells, living/
 活蹦亂跳的魚 活蹦乱跳的鱼 [huo2 beng4 luan4 tiao4_de5_yu2] /wriggling mass of fish/mass of fish, wriggling/
@@ -19756,6 +19769,7 @@
 甲狀腺機能亢進 甲状腺机能亢进 [jia3 zhuang4 xian4_ji1 neng2_kang4 jin4] /hyperthyroidism/
 甲狀腺亢進 甲状腺亢进 [jia3 zhuang4 xian4_kang4 jin4] /hyperthyroidism/
 架高 架高 [jia4 gao1] /elevate (in construction industry etc)/
+架設完 架设完 [jia4 she4 wan2] /completed constructing (something)/constructing, completed (something)/
 駕駛帆船 驾驶帆船 [jia4 shi3_fan1 chuan2] /skipper a sailboat (lit. drive a sailing boat)/sailboat, skipper a (lit. drive a sailing boat)/
 駕駛考試 驾驶考试 [jia4 shi3_kao3 shi4] /driving test/test, driving/
 嫁衣 嫁衣 [jia4 yi1] /woman's wedding outfit/wedding outfit, woman's/
@@ -19784,6 +19798,7 @@
 尖針 尖针 [jian1 zhen1] /stylus (of insect etc)/
 尖柱 尖柱 [jian1 zhu4] /pointed stakes/stakes, pointed/
 檢測器 检测器 [jian3 ce4 qi4] /detection device/device, detection/
+剪叉式升降機 剪叉式升降机 [jian3 cha1 shi4 sheng1 jiang4 ji1] /scissor lift (construction equipment)/lift, scissor (construction equipment)/
 檢查更新 检查更新 [jian3 cha2_geng1 xin1] /check for updates/updates, check for/
 檢察署 检察署 [jian3 cha2 shu3] /prosecutor's office/office, prosecutor's/
 撿柴 捡柴 [jian3 chai2] /collect firewood/firewood, collect/
@@ -19909,6 +19924,7 @@
 接駁服務 接驳服务 [jie1 bo2_fu2 wu4] /shuttle service/service, shuttle/
 接駁專車服務 接驳专车服务 [jie1 bo2_zhuan1 che1_fu2 wu4] /shuttle service/service, shuttle/
 接觸管理 接触管理 [jie1 chu4_guan3 li3] /contact management/management, contact/
+接待廳 接待厅 [jie1 dai4 ting1] /reception area/area, reception/
 接單 接单 [jie1 dan1] /take orders (from customers)/orders, take (from customers)/
 接地插腳 接地插脚 [jie1 di4_cha1 jiao3] /grounding pin/earth pin (on a plug)/pin, grounding (on a plug)/
 接合處 接合处 [jie1 he2 chu4] /joint (mechanical)/
@@ -19982,6 +19998,7 @@
 金屬技工 金属技工 [jin1 shu3_ji4 gong1] /metalworker/
 金屬探測器 金属探测器 [jin1 shu3_tan4 ce4 qi4] /metal detector/detector, metal/
 金屬扣 金属扣 [jin1 shu3 kou4] /metal hook|buckle/hook|buckle, metal/
+金絲銀絲 金丝银丝 [jin1 si1_yin2 si1] /tinsel/
 金壇 金坛 [jin1 tan2] /altar of gold/gold, altar of/
 今天的大學教育 今天的大学教育 [jin1 tian1_de5_da4 xue2_jiao4 yu4] /modern university education/university education, modern/
 筋條 筋条 [jin1 tiao2] /sinew/
@@ -20945,6 +20962,7 @@
 奶蛋素 奶蛋素 [nai3 dan4 su4] /lacto-ovo vegetarian/vegetarian, lacto-ovo/
 耐候 耐候 [nai4 hou4] /weatherproof/
 耐候薄膜 耐候薄膜 [nai4 hou4_bo2 mo2] /weatherproof sheeting/sheeting, weatherproof/
+耐候板 耐候板 [nai4 hou4 ban3] /weather-protection board/board, weather-protection/
 耐受能力 耐受能力 [nai4 shou4_neng2 li4] /tolerance (medical)/
 耐心待人 耐心待人 [nai4 xin1_dai4 ren2] /patient (in dealing with people)/
 難忍 难忍 [nan2_ren3] /difficult to endure/endure, difficult to/
@@ -21093,6 +21111,7 @@
 暖系統 暖系统 [nuan3_xi4 tong3] /heating system/system, heating/
 暖人心窩 暖人心窝 [nuan3 ren2 xin1 wo1] /heartwarming(?)/
 暖水袋 暖水袋 [nuan3 shui3 dai4] /hot water bottle/water bottle, hot/
+暖通空調 暖通空调 [nuan3 tong1 kong1 tiao2] /HVAC/heating ventilation and air conditioning/
 暖意 暖意 [nuan3 yi4] /warmth (emotional)/
 女企業家 女企业家 [nu:3_qi3 ye4 jia1] /woman entrepreneur/entrepreneur, woman/
 女神童 女神童 [nu:3_shen2 tong2] /child prodigy (female)/prodigy, child (female)/
@@ -21248,6 +21267,7 @@
 剖心手術 剖心手术 [pou1 xin1_shou3 shu4] /open-heart surgery/surgery, open-heart/
 鋪水泥 铺水泥 [pu1_shui3 ni2] /pour cement/pour concrete pathways/cement, pour/concrete pathways, pour/
 仆倒 仆倒 [pu1 dao3] /fall down/down, fall/
+鋪好 铺好 [pu1 hao3] /laid (of paving)/
 撲來 扑来 [pu1 lai5] /pounce here(?)/here(?), pounce/
 铺满 鋪滿 [pu1 man3] /spread full (of)/full, spread (of)/
 撲熱息痛 扑热息痛 [pu1 re4 xi1 tong4] /paracetamol/acetaminophen (PRC translation?)/
@@ -21336,6 +21356,7 @@
 欠債人 欠债人 [qian4 zhai4 ren2] /debtor/
 槍矛 枪矛 [qiang1 mao2] /spear/
 牆上的字跡 墙上的字迹 [qiang2_shang4_de5_zi4 ji4] /writing on the wall/handwriting on the wall (Daniel etc)/wall, writing on the (Daniel etc)/
+牆板 墙板 [qiang2 ban3] /panel (part of wall in prefabricated construction)/
 牆洞 墙洞 [qiang2 dong4] /wall hole/hole, wall/
 強核力 强核力 [qiang2 he2 li4] /strong nuclear force/nuclear force, strong/
 強搶 强抢 [qiang2 qiang3] /seize (strong+snatch|rob)/
@@ -21694,6 +21715,7 @@
 善意的謊言 善意的谎言 [shan4 yi4_de5_huang3 yan2] /white lies (lit. lies with good intentions)/lies, white (lit. lies with good intentions)/
 善用判斷力 善用判断力 [shan4 yong4_pan4 duan4 li4] /show good judgment/good judgment, show/
 擅于游泳 擅于游泳 [shan4 yu2_you2 yong3] /good at swimming/be an able swimmer/swimming, good at/able swimmer, be an/
+傷到 伤到 [shang1 dao4] /to damage (something)/damage, to (something)/
 商店行竊 商店行窃 [shang1 dian4_xing2 qie4] /shoplifting/
 商務禮儀 商务礼仪 [shang1 wu4_li3 yi2] /business etiquette/etiquette, business/
 傷心過度 伤心过度 [shang1 xin1_guo4 du4] /overly sad/excessive sadness/sad, overly/sadness, excessive/
@@ -21931,6 +21953,7 @@
 十分珍視 十分珍视 [shi2 fen1_zhen1 shi4] /regard highly/show a high regard for (lit. very cherish)/highly, regard (lit. very cherish)/high regard for, show a (lit. very cherish)/
 十分之一 十分之一 [shi2 fen1 zhi1 yi1] /tenth part/tithe/part, tenth/
 十夫長 十夫长 [shi2 fu1 zhang3] /chief over ten/over ten, chief/
+石膏板 石膏板 [shi2 gao1 ban3] /drywall/
 時間地點 时间地点 [shi2 jian1_di4 dian3] /time and place/place, time and/
 時間觀念 时间观念 [shi2 jian1_guan1 nian4] /view of time/conscious of time/sense of time/time, view of/
 時間管理 时间管理 [shi2 jian1_guan3 li3] /time management/management, time/
@@ -22860,6 +22883,7 @@
 臥槽 卧槽 [wo4 cao2] /(expletive, do not use)/
 臥下 卧下 [wo4 xia5] /lying down (animal etc)/down, lying (animal etc)/
 屋椽 屋椽 [wu1 chuan2] /rafter (in a room?)/
+屋頂鋼梁架 屋顶钢梁架 [wu1 ding3_gang1 liang2 jia4] /steel roof truss/roof truss, steel/
 屋頂板 屋顶板 [wu1 ding3 ban3] /roof panels/panels, roof/
 誣告說 诬告说 [wu1 gao4_shuo1] /falsely claim that/claim that, falsely/
 烏水 乌水 [wu1 shui3] /dark waters/waters, dark/
@@ -23170,6 +23194,7 @@
 小羚羊 小羚羊 [xiao3 ling2 yang2] /duiker/
 小綠人 小绿人 [xiao3 lu:4 ren2] /green man (traffic signal)/
 小麥粉 小麦粉 [xiao3 mai4 fen3] /wheat flour/flour, wheat/
+小木樁 小木桩 [xiao3 mu4 zhuang1] /(small) stake (for turfing etc)/
 小女孩 小女孩 [xiao3 nu:3 hai2] /little girl/girl, little/
 小屁孩 小屁孩 [xiao3 pi4 hai2] /troublesome child/child, troublesome/
 小屁孩們 小屁孩们 [xiao3 pi4 hai2 men5] /troublesome children/children, troublesome/
@@ -23255,6 +23280,7 @@
 新型節能燈 新型节能灯 [xin1 xing2_jie2 neng2_deng1] /new (type of) energy-efficient light bulbs/energy-efficient light bulbs, new/
 心血管 心血管 [xin1 xue4 guan3] /cardiovascular/
 心血管疾病 心血管疾病 [xin1 xue4 guan3_ji2 bing4] /cardiovascular disease/disease, cardiovascular/
+新異教主義 新异教主义 [xin1 yi4 jiao4 zhu3 yi4] /neopaganism/
 新月節 新月节 [xin1 yue4_jie2] /festival of new moon/moon, festival of new/
 心臟外科 心脏外科 [xin1 zang4_wai4 ke1] /cardiac surgery/surgery, cardiac/
 心臟病突發 心脏病突发 [xin1 zang4 bing4_tu1 fa1] /heart attack/attack, heart/
@@ -23435,6 +23461,7 @@
 壓迫人民 压迫人民 [ya1 po4_ren2 min2] /oppress people/people, oppress/
 壓傷 压伤 [ya1 shang1] /crush (a person etc, lit. press injure)/
 壓傷的蘆葦 压伤的芦苇 [ya1 shang1_de5_lu2 wei3] /bruised reed/reed, bruised/
+壓實 压实 [ya1 shi2] /to compress/to compact/compress, to/compact, to/
 壓縮光盤 压缩光盘 [ya1 suo1_guang1 pan2] /high-density compact disc (Professional Disc etc)/compact disc, high-density (Professional Disc etc)/
 壓弦 压弦 [ya1 xian2] /yaxian/finger-pressure vibrato (huqin-playing technique)/
 押走 押走 [ya1 zou3] /take someone away/lead someone away (detaining them)/someone away, take (detaining them)/away, lead someone (detaining them)/
@@ -24238,6 +24265,7 @@
 制定策略 制定策略 [zhi4 ding4_ce4 lu:e4] /strategize/
 制膏者 制膏者 [zhi4 gao1 zhe3] /ointment maker/maker, ointment/
 制革匠 制革匠 [zhi4 ge2_jiang4] /tanner/
+製好 制好 [zhi4 hao3] /(already) manufactured/
 智慧生活 智慧生活 [zhi4 hui4_sheng1 huo2] /smart life (IoT etc)/life, smart (IoT etc)/
 智慧人 智慧人 [zhi4 hui4 ren2] /wise ones/ones, wise/
 智慧型手機 智慧型手机 [zhi4 hui4 xing2_shou3 ji1] /smartphone (alternate translation)/
@@ -24328,6 +24356,7 @@
 朱紅漆 朱红漆 [zhu1 hong2 qi1] /vermilion paint/paint, vermilion/
 豬群 猪群 [zhu1 qun2] /herd of swine/swine, herd of/
 珠心算 珠心算 [zhu1 xin1 suan4] /mental abacus/abacus, mental/
+豬豬 猪猪 [zhu1 zhu1] /piggy/
 逐出教會 逐出教会 [zhu2 chu1_jiao4 hui4] /greater excommunication/excommunication, greater/
 逐家 逐家 [zhu2 jia1] /house-by-house/
 竹升 竹升 [zhu2 sheng1] /Westernized Chinese person/Chinese person, Westernized/
@@ -24404,6 +24433,7 @@
 裝進 装进 [zhuang1 jin4] /load into (one's bags etc)/
 莊敬 庄敬 [zhuang1 jing4] /seriously/with serious respect/serious respect, with/
 妝容 妆容 [zhuang1 rong2] /makeup/cosmetics/
+裝飾用 装饰用 [zhuang1 shi4 yong4] /decorative/
 裝做 装做 [zhuang1 zuo4] /pretend to be/
 裝作若無其事 装作若无其事 [zhuang1 zuo4_ruo4 wu2 qi2 shi4] /keep a stiff upper lip/feign calmness/stiff upper lip, keep a/calmness, feign/
 撞城錘 撞城锤 [zhuang4 cheng2 chui2] /battering ram/
@@ -24435,6 +24465,7 @@
 資訊中心 资讯中心 [zi1 xun4_zhong1 xin1] /information centre/centre, information/
 子上帝 子上帝 [zi3_Shang4 di4] /God the Son (in Trinity doctrine)/
 子彈火車 子弹火车 [zi3 dan4_huo3 che1] /bullet train/train, bullet/
+子宮內膜異位 子宫内膜异位 [zi3 gong1 nei4 mo2 yi4 wei4] /endometriosis/
 紫紅布 紫红布 [zi3 hong2 bu4] /reddish purple cloth/purple cloth, reddish/
 紫袍 紫袍 [zi3 pao2] /purple robe/robe, purple/
 紫色三角 紫色三角 [zi3 se4_san1 jiao3] /purple triangle/triangle, purple/
@@ -24469,7 +24500,9 @@
 自拍照 自拍照 [zi4 pai1 zhao4] /selfie (informal photographic self-portrait)/
 自然景區 自然景区 [zi4 ran2_jing3 qu1] /natural (scenic) area/area, natural/
 自然力量 自然力量 [zi4 ran2_li4 liang5] /natural forces/forces, natural/
+自然宗教 自然宗教 [zi4 ran2_zong1 jiao4] /nature religion/religion, nature/
 自然發生說 自然发生说 [zi4 ran2 fa1 sheng1 shuo1] /spontaneous generation/generation, spontaneous/
+自然光 自然光 [zi4 ran2 guang1] /natural light/light, natural/
 自殺傾向 自杀倾向 [zi4 sha1_qing1 xiang4] /suicidal tendencies/tendencies, suicidal/
 自生 自生 [zi4 sheng1] /self-sown?/
 自視過高 自视过高 [zi4 shi4_guo4 gao1] /think more of oneself than it is necessary to think/more of oneself than it is necessary to think, think/

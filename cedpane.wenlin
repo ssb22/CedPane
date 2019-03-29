@@ -100856,7 +100856,7 @@ definition busy road; busy highway
 pinyin gāngjià
 characters 钢架[鋼-]
 serial-number CedPane20315
-definition steel frame
+definition steel frame; steel rafter
 *** 
 pinyin gāngzhuānghǎo
 characters 刚装好[剛裝-]
@@ -122672,7 +122672,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-03-26
+definition CedPane: this is version 2019-03-29
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -123248,3 +123248,168 @@ pinyin yuèzū
 characters 月租
 serial-number CedPane24788
 definition monthly rent (amount)
+*** 
+pinyin Hēizī'ěr
+characters 黑兹尔[-茲爾]
+serial-number CedPane24789
+definition Hazel (name)
+*** 
+pinyin Zhōngguó Yīnyuè Zhùzuòquán Xiéhuì
+characters 中国音乐著作权协会[-國-樂--權協會]
+serial-number CedPane24790
+definition Music Copyright Society of China; MCSC
+*** 
+pinyin ānquánqiáng
+characters 安全墙[--牆]
+serial-number CedPane24791
+definition parapet (safety wall)
+*** 
+pinyin biānjìng qiáng
+characters 边境墙[邊-牆]
+serial-number CedPane24792
+definition border wall (between countries)
+*** 
+pinyin Bó'áo
+characters 博鳌[-鰲]
+serial-number CedPane24793
+definition Bo'ao (in Hainan)
+*** 
+pinyin diàofàng
+characters 吊放
+serial-number CedPane24794
+definition lower into place (with rope, crane etc)
+*** 
+pinyin gāngliángjià
+characters 钢梁架[鋼--]
+serial-number CedPane24795
+definition steel framework
+*** 
+pinyin gérè cáiliào
+characters 隔热材料[-熱--]
+serial-number CedPane24796
+definition insulation (thermal)
+*** 
+pinyin géyīn cáiliào
+characters 隔音材料
+serial-number CedPane24797
+definition soundproofing (material)
+*** 
+pinyin guǎndào zhījià
+characters 管道支架
+serial-number CedPane24798
+definition pipe clips
+*** 
+pinyin hùnníngtǔ qiángbǎn
+characters 混凝土墙板[---牆-]
+serial-number CedPane24799
+definition concrete panels
+*** 
+pinyin jiǎnchāshìshēngjiàngjī
+characters 剪叉式升降机[-----機]
+serial-number CedPane24800
+definition scissor lift (construction equipment)
+*** 
+pinyin jiàshèwán
+characters 架设完[-設-]
+serial-number CedPane24801
+definition completed constructing (something)
+*** 
+pinyin jiēdàitīng
+characters 接待厅[--廳]
+serial-number CedPane24802
+definition reception area
+*** 
+pinyin jīnsī yínsī
+characters 金丝银丝[-絲銀絲]
+serial-number CedPane24803
+definition tinsel
+*** 
+pinyin nàihòubǎn
+characters 耐候板
+serial-number CedPane24804
+definition weather-protection board
+*** 
+pinyin nuǎntōng-kōngtiáo
+characters 暖通空调[---調]
+serial-number CedPane24805
+definition HVAC; heating ventilation and air conditioning
+*** 
+pinyin pūhǎo
+characters 铺好[鋪-]
+serial-number CedPane24806
+definition laid (of paving)
+*** 
+pinyin qiángbǎn
+characters 墙板[牆-]
+serial-number CedPane24807
+definition panel (part of wall in prefabricated construction)
+*** 
+pinyin shāngdào
+characters 伤到[傷-]
+serial-number CedPane24808
+definition to damage (something)
+*** 
+pinyin Shèngdàn dēngshì
+characters 圣诞灯饰[聖誕燈飾]
+serial-number CedPane24809
+definition Christmas lights
+*** 
+pinyin shígāobǎn
+characters 石膏板
+serial-number CedPane24810
+definition drywall
+*** 
+pinyin wūdǐng gāngliángjià
+characters 屋顶钢梁架[-頂鋼--]
+serial-number CedPane24811
+definition steel roof truss
+*** 
+pinyin xiǎomùzhuāng
+characters 小木桩[--樁]
+serial-number CedPane24812
+definition (small) stake (for turfing etc)
+*** 
+pinyin xīnyìjiàozhǔyì
+characters 新异教主义[-異--義]
+serial-number CedPane24813
+definition neopaganism
+*** 
+pinyin Xīn Zhōngguó
+characters 新中国[--國]
+serial-number CedPane24814
+definition New China (1949-)
+*** 
+pinyin yāshí
+characters 压实[壓實]
+serial-number CedPane24815
+definition to compress; to compact
+*** 
+pinyin zhìhǎo
+characters 制好[製-]
+serial-number CedPane24816
+definition (already) manufactured
+*** 
+pinyin zhuāngshìyòng
+characters 装饰用[裝飾-]
+serial-number CedPane24817
+definition decorative
+*** 
+pinyin zhūzhū
+characters 猪猪[豬豬]
+serial-number CedPane24818
+definition piggy
+*** 
+pinyin zǐgōng-nèimó-yìwèi
+characters 子宫内膜异位[-宮內-異-]
+serial-number CedPane24819
+definition endometriosis
+*** 
+pinyin zìránguāng
+characters 自然光
+serial-number CedPane24820
+definition natural light
+*** 
+pinyin zìrán zōngjiào
+characters 自然宗教
+serial-number CedPane24821
+definition nature religion
