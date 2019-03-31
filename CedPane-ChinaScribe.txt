@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-03-29
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-03-31
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -983,6 +983,7 @@
 安通 安通 [An1 tong1] /Antun/
 安圖縣 安图县 [An1 tu2_Xian4] /Antu (county, in Jilin)/
 安托爾 安托尔 [An1 tuo1 er3] /Antal/
+安托瓦妮特 安托瓦妮特 [An1 tuo1 wa3 ni1 te4] /Antoinette/
 安托萬 安托万 [An1 tuo1 wan4] /Antoine/
 安陀提雅 安陀提雅 [An1 tuo2 ti2 ya3] /Anthothijah/
 安汶島 安汶岛 [An1 wen4 dao3] /Ambon (island)/
@@ -5130,7 +5131,7 @@
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-03-29/this is version 2019-03-29, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-03-31/this is version 2019-03-31, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
 漢柏 汉柏 [Han4 bo2] /Hamper (surname)/
@@ -13251,6 +13252,7 @@
 特蕾莎 特蕾莎 [Te4 lei3 sha1] /Teresa/
 特蕾茜 特蕾茜 [Te4 lei3 xi1] /Tracy/
 特蕾西 特蕾西 [Te4 lei3 xi1] /Tracy/
+特蕾西亞 特蕾西亚 [Te4 lei3 xi1 ya4] /Theresa/
 特蕾澤 特蕾泽 [Te4 lei3 ze2] /Therese/
 特里爾 特里尔 [Te4 li3 er3] /Trier/
 特里格利斯 特里格利斯 [Te4 li3 ge2 li4 si1] /Tregelles/
@@ -20043,6 +20045,7 @@
 緊急救援服務 紧急救援服务 [jin3 ji2_jiu4 yuan2_fu2 wu4] /emergency services/services, emergency/
 緊急逃生 紧急逃生 [jin3 ji2_tao2 sheng1] /emergency evacuation/evacuation, emergency/
 緊急逃生路線圖 紧急逃生路线图 [jin3 ji2_tao2 sheng1_lu4 xian4 tu2] /emergency evacuation route map/escape route map/evacuation route map, emergency/route map, escape/
+緊急逃生口 紧急逃生口 [jin3 ji2_tao2 sheng1 kou3] /emergency exit/exit, emergency/
 緊急性 紧急性 [jin3 ji2 xing4] /urgency/
 緊記 紧记 [jin3 ji4] /remember (tightly)/take to heart/take to heart, remember/
 緊記在心 紧记在心 [jin3 ji4_zai4_xin1] /take to heart/heart, take to/
@@ -22441,6 +22444,7 @@
 逃去 逃去 [tao2 qu4] /flee/run away/away, run/
 逃去無蹤 逃去无踪 [tao2 qu4 wu2 zong1] /flee/take flight (without trace)/
 逃生路線圖 逃生路线图 [tao2 sheng1_lu4 xian4 tu2] /emergency evacuation plan (map)/evacuation plan, emergency (map)/
+逃生口 逃生口 [tao2 sheng1 kou3] /emergency exit/exit, emergency/
 逃脫懲罰 逃脱惩罚 [tao2 tuo1_cheng2 fa2] /get away with it (lit. succeed in escaping punishment)/away with it, get (lit. succeed in escaping punishment)/
 逃獄 逃狱 [tao2 yu4] /jailbreak (crime)/
 討回 讨回 [tao3 hui2] /put in a claim for the return of something (financial etc)/claim for the return of something, put in a (financial etc)/
@@ -22699,6 +22703,7 @@
 脱把 脱把 [tuo1 ba3] /break away from the handle/slip off its handle/away from the handle, break/handle, slip off its/
 拖出 拖出 [tuo1 chu1] /drag out of/
 拖到 拖到 [tuo1 dao4] /drag to (physical, or temporal metaphor)/
+脫髮症 脱发症 [tuo1 fa4 zheng4] /alopecia/
 托付給 托付给 [tuo1 fu4_gei3] /entrust to/
 脫谷 脱谷 [tuo1 gu3] /threshing/
 脫穀場 脱谷场 [tuo1 gu3 chang2] /threshing floor/floor, threshing/
@@ -24159,6 +24164,7 @@
 照顧病人 照顾病人 [zhao4 gu4_bing4 ren2] /caregiving/
 召集者 召集者 [zhao4 ji2 zhe3] /congregator/
 召進 召进 [zhao4 jin4] /taken into (a king's house etc)/
+照明設施 照明设施 [zhao4 ming2_she4 shi1] /lighting equipment/equipment, lighting/
 召去 召去 [zhao4 qu5] /call in (to go somewhere)/
 照著 照着 [zhao4 zhe5] /according (i.e. in accordance with some quantity etc)/
 遮好 遮好 [zhe1 hao3] /cover well/well, cover/
