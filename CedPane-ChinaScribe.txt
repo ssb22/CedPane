@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-03-31
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-04-02
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -1658,6 +1658,7 @@
 北海市 北海市 [Bei3 hai3_Shi4] /Beihai (in Guangxi)/
 北湖區 北湖区 [Bei3 hu2_Qu1] /Beihu District/District, Beihu/
 北極寒流 北极寒流 [Bei3 ji2_han2 liu2] /polar vortex/vortex, polar/
+北極氣團 北极气团 [Bei3 ji2_qi4 tuan2] /Arctic air mass/mass, Arctic air/
 北極以北 北极以北 [Bei3 ji2_yi3 bei3] /beyond extreme/extreme, beyond/
 北京市 北京市 [Bei3 jing1_Shi4] /Beijing (city)/
 北京喜訊到邊寨 北京喜讯到边寨 [Bei3 jing1_Xi3 xun4_Dao4_Bian1 zhai4] /Good News from Beijing Reaches the Border Villages/News from Beijing Reaches the Border Villages, Good/
@@ -5131,7 +5132,7 @@
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-03-31/this is version 2019-03-31, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-04-02/this is version 2019-04-02, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
 漢柏 汉柏 [Han4 bo2] /Hamper (surname)/
@@ -6800,6 +6801,7 @@
 卡普里維 卡普里维 [Ka3 pu3 li3 wei2] /Caprivi/
 卡普氏 卡普氏 [Ka3 pu3 shi4] /Kaposi/
 卡普托拉 卡普托拉 [Ka3 pu3 tuo1 la1] /Kaptola/
+卡普托娃 卡普托娃 [Ka3 pu3 tuo1 wa2] /Caputova/
 卡齊米爾 卡齐米尔 [Ka3 qi2 mi3 er3] /Cazimir/
 卡齊米日 卡齐米日 [Ka3 qi2 mi3 ri4] /Casimir/
 卡欽斯基 卡钦斯基 [Ka3 qin1 si1 ji1] /Kaczynski/
@@ -9888,6 +9890,7 @@
 密迦 密迦 [Mi4 jia1] /Milcah/
 秘庫 秘库 [Mi4 ku4] /Genizah/
 汨羅市 汨罗市 [Mi4 luo2_Shi4] /Miluo (in Hunan)/
+汨羅江 汨罗江 [Mi4 luo2 jiang1] /Miluo River/River, Miluo/
 密抹 密抹 [Mi4 mo3] /Michmash/
 密涅瓦 密涅瓦 [Mi4 nie4 wa3] /Minerva (goddess)/
 密山 密山 [Mi4 shan1] /Mishan (in Heilongjiang)/
@@ -10984,6 +10987,7 @@
 平和縣 平和县 [Ping2 he2_Xian4] /Pinghe County/County, Pinghe/
 平湖 平湖 [Ping2 hu2] /Pinghu (in Zhejiang)/
 平湖市 平湖市 [Ping2 hu2_Shi4] /Pinghu (in Zhejiang)/
+平江 平江 [Ping2 jiang1] /Pingjiang (in Hunan)/
 平江縣 平江县 [Ping2 jiang1_Xian4] /Pingjiang (county, in Hunan)/
 平克 平克 [Ping2 ke4] /Pinker (Steven)/
 平樂縣 平乐县 [Ping2 le4_Xian4] /Pingle (county, in Guangxi)/
@@ -17748,6 +17752,8 @@
 長燃不滅 长燃不灭 [chang2 ran2 bu2 mie4] /not extinguished to time indefinite/extinguished to time indefinite, not/
 長生學 长生学 [chang2 sheng1 xue2] /longevitology/
 長戲 长戏 [chang2 xi4] /long drama (in interpersonal relationships etc)/drama, long (in interpersonal relationships etc)/
+常用語言 常用语言 [chang2 yong4_yu3 yan2] /popular language/language, popular/
+常用語 常用语 [chang2 yong4 yu3] /familiar phrase/phrase, familiar/
 腸躁症 肠躁症 [chang2 zao4 zheng4] /irritable bowel syndrome/bowel syndrome, irritable/
 長醉不醒 长醉不醒 [chang2 zui4 bu4 xing3] /keep drinking constantly (lit. often drunk not sober)/drinking constantly, keep (lit. often drunk not sober)/
 唱聖詩 唱圣诗 [chang4_sheng4 shi1] /sing hymns (in church)/hymns, sing (in church)/
@@ -18044,6 +18050,7 @@
 從早期 从早期 [cong2_zao3 qi1] /from early days/early days, from/
 從最初 从最初 [cong2_zui4 chu1] /from the beginning/beginning, from the/
 從此以后 从此以后 [cong2 ci3 yi3 hou4] /henceforth/
+從古至今 从古至今 [cong2 gu3 zhi4 jin1] /from ancient times/ancient times, from/
 從何入手 从何入手 [cong2 he2 ru4 shou3] /where to start (where to put one's hand in)/start, where to (where to put one's hand in)/
 從實 从实 [cong2 shi2] /from reality/reality, from/
 從業者 从业者 [cong2 ye4 zhe3] /professional (in a line of business)/
@@ -18727,6 +18734,7 @@
 反應冷淡 反应冷淡 [fan3 ying4_leng3 dan4] /be apathetic/respond with apathy/apathetic, be/apathy, respond with/
 反戰主義 反战主义 [fan3 zhan4_zhu3 yi4] /Pacifism/
 反政府軍 反政府军 [fan3 zheng4 fu3 jun1] /rebel forces/forces, rebel/
+泛黃 泛黄 [fan4_huang2] /become yellow (of skin, paper etc)/yellow, become (of skin, paper etc)/
 販毒集團 贩毒集团 [fan4 du2_ji2 tuan2] /drug cartel/cartel, drug/
 飯羹 饭羹 [fan4 geng1] /thick soup/soup, thick/
 犯過 犯过 [fan4 guo4] /transgress/
@@ -19063,6 +19071,7 @@
 跟從者 跟从者 [gen1 cong2 zhe3] /follower (older term?)/
 跟隨著 跟随着 [gen1 sui2 zhe5] /follow/go with/
 跟蹤軟件 跟踪软件 [gen1 zong1_ruan3 jian4] /tracking software/software, tracking/
+亘古不變 亘古不变 [gen4 gu3 bu4 bian4] /unchanged from ancient times/ancient times, unchanged from/
 更換為 更换为 [geng1 huan4_wei2] /change into/
 梗係 梗系 [geng3 xi4] /of course/course, of/
 更多資料 更多资料 [geng4 duo1_zi1 liao4] /more information/information, more/
@@ -19490,6 +19499,7 @@
 護教士 护教士 [hu4 jiao4 shi4] /apologist (for a religion)/
 互敬互愛 互敬互爱 [hu4 jing4 hu4 ai4] /mutual love and respect/love and respect, mutual/
 互勵 互励 [hu4 li4] /mutual encouragement/encouragement, mutual/
+護手霜 护手霜 [hu4 shou3 shuang1] /hand cream/cream, hand/
 互相補足 互相补足 [hu4 xiang1_bu3 zu2] /depend on each other/each other, depend on/
 互相敵視 互相敌视 [hu4 xiang1_di2 shi4] /outright hostility (mutual)/hostility, outright (mutual)/
 互相鼓勵 互相鼓励 [hu4 xiang1_gu3 li4] /mutually encouraged/interchange of encouragement/encouraged, mutually/encouragement, interchange of/
@@ -19677,6 +19687,7 @@
 基因組 基因组 [ji1 yin1 zu3] /genome/
 及得上 及得上 [ji2_de5_shang4] /become as good as/reach up to in greatness etc/good as, become as/greatness etc, reach up to in/
 即插即用 即插即用 [ji2 cha1 ji2 yong4] /plug and play/play, plug and/
+極地渦旋 极地涡旋 [ji2 di4_wo1 xuan2] /polar vortex/vortex, polar/
 集點 集点 [ji2 dian3] /collect points (retail promotions etc)/points, collect (retail promotions etc)/
 極度寒冷 极度寒冷 [ji2 du4_han2 leng3] /extremely cold/cold, extremely/
 極端分子 极端分子 [ji2 duan1_fen1 zi3] /extremists/
@@ -21425,6 +21436,7 @@
 清白的良心 清白的良心 [qing1 bai2_de5_liang2 xin1] /clean conscience/conscience, clean/
 清白無邪 清白无邪 [qing1 bai2 wu2 xie2] /innocent (pure and unaffected)/
 傾敗 倾败 [qing1 bai4] /overthrowing(?)/
+清波 清波 [qing1 bo1] /clear waters (of river or stream)/waters, clear (of river or stream)/
 清晨散步 清晨散步 [qing1 chen2_san4 bu4] /early morning walk/morning walk, early/
 青春泉 青春泉 [qing1 chun1_quan2] /fountain of youth (mythology)/youth, fountain of (mythology)/
 青蔥的草地 青葱的草地 [qing1 cong1_de5_cao3 di4] /lush meadows/meadows, lush/
@@ -22330,6 +22342,7 @@
 速建 速建 [su4 jian4] /quickly built/built, quickly/
 塑料薄片 塑料薄片 [su4 liao4_bao2 pian4] /plastic film/film, plastic/
 塑料布 塑料布 [su4 liao4 bu4] /plastic sheeting/sheeting, plastic/
+素人 素人 [su4 ren2] /novice/
 塑造你 塑造你 [su4 zao4_ni3] /mold you/
 塑造我們 塑造我们 [su4 zao4_wo3 men5] /mold us/
 酸酒 酸酒 [suan1 jiu3] /sour wine/wine, sour/
