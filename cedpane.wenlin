@@ -122672,7 +122672,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-04-03
+definition CedPane: this is version 2019-04-04
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -123757,3 +123757,80 @@ pinyin Yǎngshēngtuán
 characters 养生团[養-團]
 serial-number CedPane24889
 definition Good Health Group (a group-purchasing website)
+*** 
+pinyin Ādé'ēn
+characters 阿德恩
+serial-number CedPane24891
+definition Ardern
+*** 
+pinyin cǎonímǎ
+characters 草泥马[--馬]
+serial-number CedPane24892
+environment   netspeak
+definition grass mud horse (2009 Baidu hoax, sounds similar to an insult)
+*** 
+pinyin chī guā qúnzhòng
+characters 吃瓜群众[---眾]
+serial-number CedPane24893
+environment   netspeak
+definition clueless bystanders
+*** 
+pinyin dàyángtuó
+characters 大羊驼[--駝]
+serial-number CedPane24894
+definition alpaca llama
+*** 
+pinyin guójiā ānquán fēngxiǎn
+characters 国家安全风险[國---風險]
+serial-number CedPane24895
+definition risk to national security
+*** 
+pinyin hùlìhùyíng
+characters 互利互赢[---贏]
+serial-number CedPane24896
+definition mutual benefit
+*** 
+pinyin Lú'ěr
+characters 卢尔[盧爾]
+serial-number CedPane24897
+definition Looe
+*** 
+pinyin Luósīlín
+characters 萝丝琳[蘿絲-]
+serial-number CedPane24898
+definition Roslyn
+*** 
+pinyin màoxiǎn yóuxì
+characters 冒险游戏[-險-戲]
+serial-number CedPane24899
+definition adventure game
+*** 
+pinyin sānyèchóng
+characters 三叶虫[-葉蟲]
+serial-number CedPane24900
+definition trilobite
+*** 
+pinyin shǒuhùzhě
+characters 守护者[-護-]
+serial-number CedPane24901
+definition guardian
+*** 
+pinyin wèi nín tuījiàn
+characters 为您推荐[為--薦]
+serial-number CedPane24902
+definition recommended for you (website advertising phrase)
+*** 
+pinyin Wǔ Yǎn Liánméng
+characters 五眼联盟[--聯-]
+serial-number CedPane24903
+definition Five Eyes (intelligence alliance UK/US/CA/AU/NZ)
+*** 
+pinyin zì-mào xiéyì
+characters 自贸协议[-貿協議]
+serial-number CedPane24904
+definition free-trade agreement
+*** 
+pinyin zìyóu màoyì xiédìng
+characters 自由贸易协定[--貿-協-]
+serial-number CedPane24905
+definition free-trade agreement

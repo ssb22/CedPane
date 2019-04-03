@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-04-03
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-04-04
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -114,6 +114,7 @@
 阿當梅語 阿当梅语 [A1 dang1 mei2 yu3] /Adangme (language)/
 阿道夫 阿道夫 [A1 dao4 fu1] /Adolf (Hitler's given name)/
 阿道弗 阿道弗 [A1 dao4 fu2] /Adolfo/
+阿德恩 阿德恩 [A1 de2 en1] /Ardern/
 阿德爾 阿德尔 [A1 de2 er3] /Adel/
 阿德爾伯托 阿德尔伯托 [A1 de2 er3 bo2 tuo1] /Adalberto/
 阿德拉姆文 阿德拉姆文 [A1 de2 la1 mu3 wen2] /Adlam (written language)/
@@ -5132,7 +5133,7 @@
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-04-03/this is version 2019-04-03, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-04-04/this is version 2019-04-04, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
 漢柏 汉柏 [Han4 bo2] /Hamper (surname)/
@@ -8521,6 +8522,7 @@
 盧安果 卢安果 [Lu2 an1 guo3] /Loango/
 盧安夏 卢安夏 [Lu2 an1 xia4] /Luanshya/
 盧奧語 卢奥语 [Lu2 ao4 yu3] /Luo (language)/
+盧爾 卢尔 [Lu2 er3] /Looe/
 盧爾德 卢尔德 [Lu2 er3 de2] /Lourdes (place in France)/
 盧爾克 卢尔克 [Lu2 er3 ke4] /Lulker/
 盧巴丘夫 卢巴丘夫 [Lu2 ba1 qiu1 fu1] /Lubaczów/
@@ -8863,6 +8865,7 @@
 羅斯康芒郡 罗斯康芒郡 [Luo2 si1 kang1 mang2 jun4] /County Roscommon/Roscommon, County/
 羅斯科 罗斯科 [Luo2 si1 ke1] /Roscoe/
 羅斯蘭 罗斯兰 [Luo2 si1 lan2] /Rosellen/
+蘿絲琳 萝丝琳 [Luo2 si1 lin2] /Roslyn/
 羅斯瑪麗 罗斯玛丽 [Luo2 si1 ma3 li4] /Rosemary (name)/
 羅斯蒙特 罗斯蒙特 [Luo2 si1 meng2 te4] /Rosemont/
 羅斯納 罗斯纳 [Luo2 si1 na4] /Rössner/
@@ -14231,6 +14234,7 @@
 吳忠市 吴忠市 [Wu2 zhong1_Shi4] /Wuzhong (in Ningxia)/
 梧州 梧州 [Wu2 zhou1] /Wuzhou (in Guangxi)/
 梧州市 梧州市 [Wu2 zhou1_Shi4] /Wuzhou (in Guangxi)/
+五眼聯盟 五眼联盟 [Wu3_Yan3_Lian2 meng2] /Five Eyes (intelligence alliance UK|US|CA|AU|NZ)/Eyes, Five (intelligence alliance UK|US|CA|AU|NZ)/
 武安 武安 [Wu3 an1] /Wu'an (in Hebei)/
 武安市 武安市 [Wu3 an1_Shi4] /Wu'an (in Hebei)/
 伍爾弗漢普頓 伍尔弗汉普顿 [Wu3 er3 fu2 han4 pu3 dun4] /Wolverhampton/
@@ -17665,6 +17669,7 @@
 操控 操控 [cao1 kong4] /control or influence/influence, control or/
 操縱顧客 操纵顾客 [cao1 zong4_gu4 ke4] /manipulate customers/customers, manipulate/
 嘈雜的環境 嘈杂的环境 [cao2 za2_de5_huan2 jing4] /noisy environment/place with loud background noise/environment, noisy/loud background noise, place with/
+草泥馬 草泥马 [cao3 ni2 ma3] /grass mud horse (2009 Baidu hoax, sounds similar to an insult)/horse, grass mud (2009 Baidu hoax, sounds similar to an insult)/
 草坡 草坡 [cao3 po1] /grassy slope/slope, grassy/
 草藥療法 草药疗法 [cao3 yao4_liao2 fa3] /herbal remedies/remedies, herbal/
 草原犬鼠 草原犬鼠 [cao3 yuan2_quan3_shu3] /prairie dog/
@@ -17839,6 +17844,7 @@
 城長 城长 [cheng2 zhang3] /chief of the city/city, chief of the/
 成長背景 成长背景 [cheng2 zhang3_bei4 jing3] /background (of a person growing up)/
 秤標 秤标 [cheng4 biao1] /indicator (on a balance; lit. balance mark)/
+吃瓜群眾 吃瓜群众 [chi1_gua1_qun2 zhong4] /clueless bystanders/bystanders, clueless/
 吃人肉 吃人肉 [chi1_ren2 rou4] /cannibalism/eating of human flesh/
 吃晚飯 吃晚饭 [chi1_wan3 fan4] /eat supper/supper, eat/
 吃午飯 吃午饭 [chi1_wu3 fan4] /eat lunch/lunch, eat/
@@ -18186,6 +18192,7 @@
 大型清潔 大型清洁 [da4 xing2_qing1 jie2] /cleaning projects (large-scale)/projects, cleaning (large-scale)/
 大學校園 大学校园 [da4 xue2_xiao4 yuan2] /university campus/campus, university/
 大學學位 大学学位 [da4 xue2_xue2 wei4] /university degree/degree, university/
+大羊駝 大羊驼 [da4 yang2 tuo2] /alpaca llama/llama, alpaca/
 大鷹 大鹰 [da4 ying1] /eagle/
 大有斬獲 大有斩获 [da4 you3_zhan3 huo4] /"make a killing" in business (lit. be very successful)/killing" in business, "make a (lit. be very successful)/
 大魚 大鱼 [da4 yu2] /big fish/great fish/huge fish/fish, big/
@@ -19285,6 +19292,7 @@
 國際版 国际版 [guo2 ji4 ban3] /international edition (of newspaper etc)/edition, international (of newspaper etc)/
 國際間 国际间 [guo2 ji4 jian1] /international/between nations/
 國際生 国际生 [guo2 ji4 sheng1] /international student/student, international/
+國家安全風險 国家安全风险 [guo2 jia1_an1 quan2_feng1 xian3] /risk to national security/national security, risk to/
 國家的敵人 国家的敌人 [guo2 jia1_de5_di2 ren2] /enemies of the State/State, enemies of the/
 國家二級演員 国家二级演员 [guo2 jia1_er4 ji2_yan3 yuan2] /national second-grade actor/second-grade actor, national/
 國家和地區 国家和地区 [guo2 jia1_he2_di4 qu1] /countries and territories/territories, countries and/
@@ -19503,6 +19511,7 @@
 護教士 护教士 [hu4 jiao4 shi4] /apologist (for a religion)/
 互敬互愛 互敬互爱 [hu4 jing4 hu4 ai4] /mutual love and respect/love and respect, mutual/
 互勵 互励 [hu4 li4] /mutual encouragement/encouragement, mutual/
+互利互贏 互利互赢 [hu4 li4 hu4 ying2] /mutual benefit/benefit, mutual/
 護手霜 护手霜 [hu4 shou3 shuang1] /hand cream/cream, hand/
 互相補足 互相补足 [hu4 xiang1_bu3 zu2] /depend on each other/each other, depend on/
 互相敵視 互相敌视 [hu4 xiang1_di2 shi4] /outright hostility (mutual)/hostility, outright (mutual)/
@@ -20787,6 +20796,7 @@
 毛細作用 毛细作用 [mao2 xi4 zuo4 yong4] /capillary action/action, capillary/
 茂密的森林 茂密的森林 [mao4 mi4_de5_sen1 lin2] /dense forests/forests, dense/
 冒名網站 冒名网站 [mao4 ming2_wang3 zhan4] /fake Web site/site, fake Web/
+冒險游戲 冒险游戏 [mao4 xian3_you2 xi4] /adventure game/game, adventure/
 沒放血 没放血 [mei2_fang4 xie3] /unbled (e.g. unbled dead animal)/
 沒過多久 没过多久 [mei2_guo4_duo1 jiu3] /before long,/long,, before/
 沒收到 没收到 [mei2_shou1 dao4] /didn't receive/receive, didn't/
@@ -21709,6 +21719,7 @@
 三千煩惱絲 三千烦恼丝 [san1 qian1_fan2 nao3 si1] /troublesome hair/threads of worry/hair, troublesome/worry, threads of/
 三手煙 三手烟 [san1 shou3 yan1] /thirdhand cigarette smoke/cigarette smoke, thirdhand/
 三桅帆船 三桅帆船 [san1 wei2 fan1 chuan2] /three-masted (sailing) ship/ship, three-masted/
+三葉蟲 三叶虫 [san1 ye4 chong2] /trilobite/
 三子 三子 [san1 zi3] /third son|child/son|child, third/
 傘架 伞架 [san3 jia4] /umbrella rack/rack, umbrella/
 散發性 散发性 [san4 fa1 xing4] /sporadic/
@@ -22136,6 +22147,7 @@
 手動油印機 手动油印机 [shou3 dong4_you2 yin4 ji1] /hand-operated duplicators/duplicators, hand-operated/
 手工具 手工具 [shou3 gong1 ju4] /hand tools (as opposed to power tools)/tools, hand (as opposed to power tools)/
 守護你的心 守护你的心 [shou3 hu4_ni3_de5_xin1] /guard your heart/heart, guard your/
+守護者 守护者 [shou3 hu4 zhe3] /guardian/
 手機短信 手机短信 [shou3 ji1_duan3 xin4] /text message/message, text/
 手機號碼 手机号码 [shou3 ji1_hao4 ma3] /mobile phone number/phone number, mobile/
 手機鈴聲 手机铃声 [shou3 ji1_ling2 sheng1] /ringtone (for a mobile phone)/
@@ -22872,6 +22884,7 @@
 尾翼羽毛 尾翼羽毛 [wei3 yi4_yu3 mao2] /trailing feathers/feathers, trailing/
 為盲人引路 为盲人引路 [wei4_mang2 ren2_yin3 lu4] /guide a blind person/blind person, guide a/
 未命名 未命名 [wei4_ming4 ming2] /unnamed (file etc)/
+為您推薦 为您推荐 [wei4_nin2_tui1 jian4] /recommended for you (website advertising phrase)/
 為人人 为人人 [wei4_ren2 ren2] /toward everyone/everyone, toward/
 為眾人服務 为众人服务 [wei4_zhong4 ren2_fu2 wu4] /public service/service, public/
 為自己辯解 为自己辩解 [wei4_zi4 ji3_bian4 jie3] /justify oneself/defend oneself/oneself, justify/
@@ -24541,6 +24554,7 @@
 紫外線輻射 紫外线辐射 [zi3 wai4 xian4_fu2 she4] /ultraviolet radiation/UV radiation/radiation, ultraviolet/
 仔細分析 仔细分析 [zi3 xi4_fen1 xi1] /discuss (in an article, lit. carefully analyze)/
 自個拍 自个拍 [zi4_ge5_pai1] /take a selfie (informal photographic self-portrait)/selfie, take a (informal photographic self-portrait)/
+自貿協議 自贸协议 [zi4 mao4_xie2 yi4] /free-trade agreement/agreement, free-trade/
 字板 字板 [zi4 ban3] /tablet/writing board/
 自辯 自辩 [zi4 bian4] /defend oneself (in court etc)/oneself, defend (in court etc)/
 自殘 自残 [zi4 can2] /self-injuring/doing violence to (oneself's)/
@@ -24586,6 +24600,7 @@
 自以為義 自以为义 [zi4 yi3 wei2 yi4] /self-righteousness/
 自由國家 自由国家 [zi4 you2_guo2 jia1] /free country/country, free/
 自由教會 自由教会 [zi4 you2_jiao4 hui4] /free churches/churches, free/
+自由貿易協定 自由贸易协定 [zi4 you2_mao4 yi4_xie2 ding4] /free-trade agreement/agreement, free-trade/
 自由軟件 自由软件 [zi4 you2_ruan3 jian4] /free software (GNU etc)/software, free (GNU etc)/
 自由軟體 自由软体 [zi4 you2_ruan3 ti3] /free software (GNU etc, Taiwan version)/software, free (GNU etc, Taiwan version)/
 自由思想者 自由思想者 [zi4 you2_si1 xiang3 zhe3] /freethinkers/
