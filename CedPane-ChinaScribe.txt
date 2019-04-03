@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-04-02
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-04-03
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -5132,7 +5132,7 @@
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-04-02/this is version 2019-04-02, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-04-03/this is version 2019-04-03, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
 漢柏 汉柏 [Han4 bo2] /Hamper (surname)/
@@ -10083,6 +10083,7 @@
 莫薩 莫萨 [Mo4 sa4] /Moshe/
 莫薩卡 莫萨卡 [Mo4 sa4 ka3] /Mossaka/
 莫塞斯 莫塞斯 [Mo4 sai1 si1] /Moses (modern)/
+莫三比克 莫三比克 [Mo4 san1 bi3 ke4] /Mozambique (alternate translation)/
 末世聖徒 末世圣徒 [Mo4 shi4_Sheng4 tu2] /Latter-Day Saints/LDS/Mormon/Saints, Latter-Day/
 莫斯 莫斯 [Mo4 si1] /Moss/
 莫斯基托海岸 莫斯基托海岸 [Mo4 si1 ji1 tuo1_Hai3 an4] /Mosquito Coast/Coast, Mosquito/
@@ -15658,6 +15659,7 @@
 揚州市 扬州市 [Yang2 zhou1_Shi4] /Yangzhou (in Jiangsu)/
 仰光 仰光 [Yang3 guang1] /Yangon/
 養樂多 养乐多 [Yang3 le4 duo1] /Yakult/
+養生團 养生团 [Yang3 sheng1 tuan2] /Good Health Group (a group-purchasing website)/Health Group, Good (a group-purchasing website)/
 漾濞縣 漾濞县 [Yang4 bi4_Xian4] /Yangbi (county, in Yunnan)/
 姚安縣 姚安县 [Yao2 an1_Xian4] /Yao'an (county, in Yunnan)/
 堯都區 尧都区 [Yao2 du1_Qu1] /Yaodu District/District, Yaodu/
@@ -17912,6 +17914,7 @@
 出到 出到 [chu1 dao4] /go out to (an outbuilding etc)/
 初級班 初级班 [chu1 ji2 ban1] /primary (school) class/class, primary/
 出監 出监 [chu1 jian1] /go out from prison/prison, go out from/
+初見雛形 初见雏形 [chu1 jian4 chu2 xing2] /taking shape (of building under construction etc)/shape, taking (of building under construction etc)/
 出票 出票 [chu1 piao4] /ticket issue/issue, ticket/
 出票日期 出票日期 [chu1 piao4_ri4 qi1] /date of issue (of a ticket)/issue, date of (of a ticket)/
 出鞘 出鞘 [chu1 qiao4] /drawn (of sword, lit. go-out sheath)/
@@ -19471,6 +19474,7 @@
 后人類 后人类 [hou4 ren2 lei4] /posthuman/
 后人類主義 后人类主义 [hou4 ren2 lei4_zhu3 yi4] /posthumanism/
 後隨 后随 [hou4 sui2] /follow after (e.g. in a procession)/after, follow (e.g. in a procession)/
+後續報導 后续报导 [hou4 xu4_bao4 dao3] /update (news)/followup report/followup report, update/
 厚雲 厚云 [hou4 yun2] /thick clouds/clouds, thick/
 呼喊聲 呼喊声 [hu1 han3 sheng1] /sound of an outcry/outcry, sound of an/
 呼求 呼求 [hu1 qiu2] /call upon/
@@ -20926,6 +20930,7 @@
 膜孔 膜孔 [mo2 kong3] /membrane hole in flute/hole in flute, membrane/
 磨快 磨快 [mo2 kuai4] /sharpen (a knife etc)/
 磨煉 磨炼 [mo2 lian4] /test (as in trials etc)/
+模擬圖 模拟图 [mo2 ni3 tu2] /rendering (of planned building etc)/
 魔術表演 魔术表演 [mo2 shu4_biao3 yan3] /magic show/show, magic/
 摩托計程車 摩托计程车 [mo2 tuo1_ji4 cheng2 che1] /motorcycle taxi/taxi, motorcycle/
 魔羊 魔羊 [mo2 yang2] /goat-shaped demon/demon, goat-shaped/
@@ -21359,6 +21364,7 @@
 棄惡擇善 弃恶择善 [qi4 e4 ze2 shan4] /choose what is right and avoid what is wrong/what is right and avoid what is wrong, choose/
 汽車失事 汽车失事 [qi4 che1_shi1 shi4] /automobile accident/accident, automobile/
 氣焊槍 气焊枪 [qi4 han4 qiang1] /industrial gas torch/torch, industrial gas/
+砌好 砌好 [qi4 hao3] /laid (of brickwork)/
 氣候劇變 气候剧变 [qi4 hou4_ju4 bian4] /runaway climate change/climate change, runaway/
 氣象信息 气象信息 [qi4 xiang4_xin4 xi1] /weather information/meterological information/information, weather/
 氣象資料 气象资料 [qi4 xiang4_zi1 liao4] /meterological data/weather data/data, meterological/
@@ -22343,6 +22349,7 @@
 塑料薄片 塑料薄片 [su4 liao4_bao2 pian4] /plastic film/film, plastic/
 塑料布 塑料布 [su4 liao4 bu4] /plastic sheeting/sheeting, plastic/
 素人 素人 [su4 ren2] /novice/
+宿舍樓 宿舍楼 [su4 she4 lou2] /residence building/building, residence/
 塑造你 塑造你 [su4 zao4_ni3] /mold you/
 塑造我們 塑造我们 [su4 zao4_wo3 men5] /mold us/
 酸酒 酸酒 [suan1 jiu3] /sour wine/wine, sour/
@@ -22694,6 +22701,7 @@
 團隊合作 团队合作 [tuan2 dui4_he2 zuo4] /teamwork/
 團隊協作軟件 团队协作软件 [tuan2 dui4_xie2 zuo4_ruan3 jian4] /team management software/management software, team/
 團購 团购 [tuan2 gou4] /group purchasing/purchasing, group/
+團購網 团购网 [tuan2 gou4 wang3] /group-purchasing website/website, group-purchasing/
 團結合一 团结合一 [tuan2 jie2 he2 yi1] /unite/
 團結一心 团结一心 [tuan2 jie2 yi1 xin1] /unite as one/
 推斷為 推断为 [tui1 duan4_wei2] /assign as (by deduction or inference)/

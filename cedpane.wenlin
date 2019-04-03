@@ -122672,7 +122672,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-04-02
+definition CedPane: this is version 2019-04-03
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -123717,3 +123717,43 @@ pinyin sùrén
 characters 素人
 serial-number CedPane24881
 definition novice
+*** 
+pinyin chūjiànchúxíng
+characters 初见雏形[-見雛-]
+serial-number CedPane24882
+definition taking shape (of building under construction etc)
+*** 
+pinyin hòuxù bàodǎo
+characters 后续报导[後續報導]
+serial-number CedPane24883
+definition update (news); followup report
+*** 
+pinyin mónǐtú
+characters 模拟图[-擬圖]
+serial-number CedPane24884
+definition rendering (of planned building etc)
+*** 
+pinyin Mòsānbǐkè
+characters 莫三比克
+serial-number CedPane24885
+definition Mozambique (alternate translation)
+*** 
+pinyin qìhǎo
+characters 砌好
+serial-number CedPane24886
+definition laid (of brickwork)
+*** 
+pinyin sùshèlóu
+characters 宿舍楼[--樓]
+serial-number CedPane24887
+definition residence building
+*** 
+pinyin tuángòuwǎng
+characters 团购网[團購網]
+serial-number CedPane24888
+definition group-purchasing website
+*** 
+pinyin Yǎngshēngtuán
+characters 养生团[養-團]
+serial-number CedPane24889
+definition Good Health Group (a group-purchasing website)
