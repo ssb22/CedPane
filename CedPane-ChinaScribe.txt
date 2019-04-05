@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-04-04
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-04-05
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -5133,7 +5133,7 @@
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-04-04/this is version 2019-04-04, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-04-05/this is version 2019-04-05, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
 漢柏 汉柏 [Han4 bo2] /Hamper (surname)/
@@ -6620,7 +6620,7 @@
 喀左縣 喀左县 [Ka1 zuo3_Xian4] /Kazuo (county, in Liaoning)/
 卡埃塔諾 卡埃塔诺 [Ka3 ai1 ta3 nuo4] /Caetano/
 卡恩 卡恩 [Ka3 en1] /Khan (surname)/
-卡爾 卡尔 [Ka3 er3] /Karl/
+卡爾 卡尔 [Ka3 er3] /Karl/Carl/
 卡爾大火 卡尔大火 [Ka3 er3_da4 huo3] /Carr wildfire (2018)/wildfire, Carr (2018)/
 卡爾波夫 卡尔波夫 [Ka3 er3 bo1 fu1] /Karpov/
 卡爾博諾 卡尔博诺 [Ka3 er3 bo2 nuo4] /Carbonneau/
@@ -11107,6 +11107,7 @@
 埔里鎮 埔里镇 [Pu3 li3_Zhen4] /Puli (town in Nantou)/
 普里查德 普里查德 [Pu3 li3 cha2 de2] /Pritchard/
 普里佩特 普里佩特 [Pu3 li3 pei4 te4] /Pripet/
+普里斯特利 普里斯特利 [Pu3 li3 si1 te4 li4] /Priestley/
 普里西拉 普里西拉 [Pu3 li3 xi1 la1] /Priscilla/
 普利茅斯 普利茅斯 [Pu3 li4 mao2 si1] /Plymouth/
 普利茅斯大學 普利茅斯大学 [Pu3 li4 mao2 si1_Da4 xue2] /University of Plymouth/Plymouth, University of/
@@ -21558,6 +21559,7 @@
 群眾外包 群众外包 [qun2 zhong4 wai4 bao1] /crowdsourcing/
 然而並沒有什麼卵用 然而并没有什么卵用 [ran2 er2_bing4_mei2 you3_shen2 me5_luan3_yong4] /useless/
 然並卵 然并卵 [ran2 bing4 luan3] /useless/
+燃素 燃素 [ran2 su4] /phlogiston/
 染製 染制 [ran3 zhi4] /dyed/manufactured with dye/
 讓你們想起 让你们想起 [rang4_ni3 men5_xiang3 qi3] /bring back to your minds/back to your minds, bring/
 讓人人 让人人 [rang4_ren2 ren2] /make|allow all people to (do sthg)/people to, make|allow all (do sthg)/
@@ -22733,6 +22735,7 @@
 臀股 臀股 [tun2 gu3] /rump and thigh/thigh, rump and/
 褪黑激素 褪黑激素 [tun4 hei1 ji1 su4] /melatonin hormone/hormone, melatonin/
 脫歐 脱欧 [tuo1_Ou1] /leave Europe (Brexit etc)/Europe, leave (Brexit etc)/
+脫燃素 脱燃素 [tuo1_ran2 su4] /dephlogisticated/
 脱把 脱把 [tuo1 ba3] /break away from the handle/slip off its handle/away from the handle, break/handle, slip off its/
 拖出 拖出 [tuo1 chu1] /drag out of/
 拖到 拖到 [tuo1 dao4] /drag to (physical, or temporal metaphor)/
@@ -23565,6 +23568,7 @@
 研究小組 研究小组 [yan2 jiu1_xiao3 zu3] /study group/group, study/
 研究班 研究班 [yan2 jiu1 ban1] /study class/class, study/
 研究家 研究家 [yan2 jiu1 jia1] /researcher/
+研究系 研究系 [yan2 jiu1 xi4] /research department (in university etc)/department, research (in university etc)/
 研究組 研究组 [yan2 jiu1 zu3] /research group (at a university etc)/group, research (at a university etc)/
 岩薔薇膠 岩蔷薇胶 [yan2 qiang2 wei1 jiao1] /labdanum/
 嚴肅性 严肃性 [yan2 su4 xing4] /seriousness/

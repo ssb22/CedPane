@@ -25115,7 +25115,7 @@ definition Cardoza
 pinyin Kǎ'ěr
 characters 卡尔[-爾]
 serial-number CedPane5031
-definition Karl
+definition Karl; Carl
 *** 
 pinyin Kǎ'ěrjiālǐ
 characters 卡尔加里[-爾--]
@@ -122672,7 +122672,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-04-04
+definition CedPane: this is version 2019-04-05
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -123834,3 +123834,23 @@ pinyin zìyóu màoyì xiédìng
 characters 自由贸易协定[--貿-協-]
 serial-number CedPane24905
 definition free-trade agreement
+*** 
+pinyin Pǔlǐsītèlì
+characters 普里斯特利
+serial-number CedPane24906
+definition Priestley
+*** 
+pinyin ránsù
+characters 燃素
+serial-number CedPane24907
+definition phlogiston
+*** 
+pinyin tuō ránsù
+characters 脱燃素[脫--]
+serial-number CedPane24908
+definition dephlogisticated
+*** 
+pinyin yánjiūxì
+characters 研究系
+serial-number CedPane24909
+definition research department (in university etc)
