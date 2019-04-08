@@ -122672,7 +122672,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-04-05
+definition CedPane: this is version 2019-04-08
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -123854,3 +123854,405 @@ pinyin yánjiūxì
 characters 研究系
 serial-number CedPane24909
 definition research department (in university etc)
+*** 
+pinyin ānquán kēxué yǔ gōngchéng
+characters 安全科学与工程[---學與--]
+serial-number CedPane24910
+definition security science and engineering
+*** 
+pinyin běnkē zhuānyè
+characters 本科专业[--專業]
+serial-number CedPane24911
+definition undergraduate programme; undergraduate university subject
+*** 
+pinyin bóshìdiǎn
+characters 博士点[--點]
+serial-number CedPane24912
+definition doctoral degree; PhD
+*** 
+pinyin bóshìhòu kēyán liúdòngzhàn
+characters 博士后科研流动站[------動-]
+serial-number CedPane24913
+definition post-doctorate research centre
+*** 
+pinyin Bùlúnsīdēng
+characters 布伦斯登[-倫--]
+serial-number CedPane24914
+definition Blunsden
+*** 
+pinyin cèhuì kēxué yǔ jìshù
+characters 测绘科学与技术[測繪-學與-術]
+serial-number CedPane24915
+definition surveying and mapping science and technology
+*** 
+pinyin chéngpìn
+characters 城聘
+serial-number CedPane24916
+definition recruit (for a job); invite applications
+*** 
+pinyin chéngpìn yīngcái
+characters 诚聘英才[誠---]
+serial-number CedPane24917
+definition talent recruitment; invite experts to apply for a job
+*** 
+pinyin chéng zhāopìn
+characters 城招聘
+serial-number CedPane24918
+definition recruit (for a job); invite applications
+*** 
+pinyin chuánbōxué
+characters 传播学[傳-學]
+serial-number CedPane24919
+definition communication studies
+*** 
+pinyin dìzhì zīyuán
+characters 地质资源[-質資-]
+serial-number CedPane24920
+definition geological resources
+*** 
+pinyin èrjí xuékē
+characters 二级学科[-級學-]
+serial-number CedPane24921
+definition subdiscipline
+*** 
+pinyin fēnzǐ yīxué
+characters 分子医学[--醫學]
+serial-number CedPane24922
+definition molecular medicine
+*** 
+pinyin gōnggòng guǎnlǐ
+characters 公共管理
+serial-number CedPane24923
+definition public management
+*** 
+pinyin guǎnlǐ kēxué yǔ gōngchéng
+characters 管理科学与工程[---學與--]
+serial-number CedPane24924
+definition management science and engineering
+*** 
+pinyin guǎnlǐxué
+characters 管理学[--學]
+serial-number CedPane24925
+definition management (studies)
+*** 
+pinyin hǎiyáng gōngchéng
+characters 海洋工程
+serial-number CedPane24926
+definition marine engineering
+*** 
+pinyin hǎiyáng kēxué
+characters 海洋科学[---學]
+serial-number CedPane24927
+definition marine science
+*** 
+pinyin huánjìng kēxué yǔ gōngchéng
+characters 环境科学与工程[環--學與--]
+serial-number CedPane24928
+definition environmental sciences and engineering
+*** 
+pinyin Jiǎgǔwén Gōngsī
+characters 甲骨文公司
+serial-number CedPane24929
+definition Oracle Corporation
+*** 
+pinyin jiàoxué kēyán
+characters 教学科研[-學--]
+serial-number CedPane24930
+definition teaching and research (scientific)
+*** 
+pinyin Kējìbù
+characters 科技部
+serial-number CedPane24931
+environment   abbr
+definition Ministry of Science and Technology; MOST
+*** 
+pinyin Kēxué Jìshù Bù
+characters 科学技术部[-學-術-]
+serial-number CedPane24932
+definition Ministry of Science and Technology
+*** 
+pinyin kēxué jìshù zhéxué
+characters 科学技术哲学[-學-術-學]
+serial-number CedPane24933
+definition philosophy of science and technology
+*** 
+pinyin kēyán yuànsuǒ
+characters 科研院所
+serial-number CedPane24934
+definition research institute
+*** 
+pinyin lǐlùn jīngjìxué
+characters 理论经济学[-論經濟學]
+serial-number CedPane24935
+definition economic theory
+*** 
+pinyin liúdòngzhàn
+characters 流动站[-動-]
+serial-number CedPane24936
+definition centre (of research or etc)
+*** 
+pinyin Mǎkèsīzhǔyì lǐlùn
+characters 马克思主义理论[馬---義-論]
+serial-number CedPane24937
+definition Marxist theory
+*** 
+pinyin Mòléiliǔsī
+characters 莫雷柳斯
+serial-number CedPane24938
+definition Marelius
+*** 
+pinyin nóngyè zīyuán yǔ huánjìng
+characters 农业资源与环境[農業資-與環-]
+serial-number CedPane24939
+definition agriculture resources and environment
+*** 
+pinyin ruǎnjiàn gōngchéng
+characters 软件工程[軟---]
+serial-number CedPane24940
+definition software engineering
+*** 
+pinyin Sēntǎní
+characters 森塔尼
+serial-number CedPane24941
+definition Sentani
+*** 
+pinyin Sēntǎnízhèn
+characters 森塔尼镇[---鎮]
+serial-number CedPane24942
+definition Sentani (town)
+*** 
+pinyin shíyóu yǔ tiānránqì gōngchéng
+characters 石油与天然气工程[--與--氣--]
+serial-number CedPane24943
+definition oil and gas engineering
+*** 
+pinyin shùjùkù ruǎnjiàn
+characters 数据库软件[數據庫軟-]
+serial-number CedPane24944
+definition database software
+*** 
+pinyin shuòshìdiǎn
+characters 硕士点[碩-點]
+serial-number CedPane24945
+definition master's degree
+*** 
+pinyin sīxiǎng zhèngzhì jiàoyù
+characters 思想政治教育
+serial-number CedPane24946
+definition ideological and political education
+*** 
+pinyin tǐyù jiàoyù
+characters 体育教育[體---]
+serial-number CedPane24947
+definition physical education
+*** 
+pinyin tǐyù jiàoyù xùnliànxué
+characters 体育教育训练学[體---訓練學]
+serial-number CedPane24948
+definition physical education and training
+*** 
+pinyin tǐyùxué
+characters 体育学[體-學]
+serial-number CedPane24949
+definition physical education
+*** 
+pinyin tǔdì zīyuán guǎnlǐ
+characters 土地资源管理[--資---]
+serial-number CedPane24950
+definition land resource management
+*** 
+pinyin wàiguó yǔyán wénxué
+characters 外国语言文学[-國語--學]
+serial-number CedPane24951
+definition foreign-language literature
+*** 
+pinyin xiāngdāng zhíwù
+characters 相当职务[-當職務]
+serial-number CedPane24952
+definition equivalent position (career level)
+*** 
+pinyin xīnwén chuánbōxué
+characters 新闻传播学[-聞傳-學]
+serial-number CedPane24953
+definition journalism and communication (studies)
+*** 
+pinyin xìnxī yǔ tōngxìn gōngchéng
+characters 信息与通信工程[--與----]
+serial-number CedPane24954
+definition information and communication engineering
+*** 
+pinyin xùnliànxué
+characters 训练学[訓練學]
+serial-number CedPane24955
+definition training (usu. physical, as a subject)
+*** 
+pinyin yánjiū zhàn
+characters 研究站
+serial-number CedPane24956
+definition research station
+*** 
+pinyin yánjiū zhōngxīn
+characters 研究中心
+serial-number CedPane24957
+definition research centre
+*** 
+pinyin yījí xuékē
+characters 一级学科[-級學-]
+serial-number CedPane24958
+definition key discipline (in categories of university subjects etc)
+*** 
+pinyin yìngpìnzhě
+characters 应聘者[應--]
+serial-number CedPane24959
+definition successful candidate (for a job)
+*** 
+pinyin yìngyòng jīngjìxué
+characters 应用经济学[應-經濟學]
+serial-number CedPane24960
+definition applied economics
+*** 
+pinyin yìngyòng xīnlǐxué
+characters 应用心理学[應---學]
+serial-number CedPane24961
+definition applied psychology
+*** 
+pinyin yǐ shēn xùndào
+characters 以身殉道
+serial-number CedPane24962
+definition martyr one's life (for a cause)
+*** 
+pinyin yuànsuǒ
+characters 院所
+serial-number CedPane24963
+definition institute
+*** 
+pinyin Yú Rùnhé
+characters 于润荷[-潤-]
+serial-number CedPane24964
+definition Jennifer Yu (US Chess player)
+*** 
+pinyin zhèngjiàoshòu
+characters 正教授
+serial-number CedPane24965
+definition full professor(ship)
+*** 
+pinyin zhīmíng gāoxiào
+characters 知名高校
+serial-number CedPane24966
+definition prestigious university or college
+*** 
+pinyin zhīmíng qǐyè
+characters 知名企业[---業]
+serial-number CedPane24967
+definition well-known enterprise
+*** 
+pinyin zhūbǎo shèjì
+characters 珠宝设计[-寶設計]
+serial-number CedPane24968
+definition jewelry design
+*** 
+pinyin Àiwéijí'ào
+characters 艾维吉奥[-維-奧]
+serial-number CedPane24969
+definition Ervigio
+*** 
+pinyin bǎoliú suǒyǒu quánlì
+characters 保留所有权利[----權-]
+serial-number CedPane24970
+definition all rights reserved
+*** 
+pinyin chéngdān zérèn
+characters 承担责任[-擔責-]
+serial-number CedPane24971
+definition accept liability
+*** 
+pinyin chōngyáqì
+characters 冲牙器[沖--]
+serial-number CedPane24972
+definition water flosser
+*** 
+pinyin dàguī
+characters 大龟[-龜]
+serial-number CedPane24973
+definition giant tortoise
+*** 
+pinyin diàndòng yáshuā
+characters 电动牙刷[電動--]
+serial-number CedPane24974
+definition electric toothbrush
+*** 
+pinyin Fāngquángǔ
+characters 芳泉谷
+serial-number CedPane24975
+definition Fountain Valley (California)
+*** 
+pinyin Jiébì
+characters 洁碧[潔-]
+serial-number CedPane24976
+definition Waterpik (water flosser manufacturer)
+*** 
+pinyin jìnhuà chéng
+characters 进化成[進--]
+serial-number CedPane24977
+definition evolve into
+*** 
+pinyin Jīnshìdùn
+characters 金士顿[--頓]
+serial-number CedPane24978
+definition Kingston (computer memory brand)
+*** 
+pinyin jìshù fúwù rèxiàn
+characters 技术服务热线[-術-務熱線]
+serial-number CedPane24979
+definition technical support hotline
+*** 
+pinyin kāi tài kuài
+characters 开太快[開--]
+serial-number CedPane24980
+definition drive too fast
+*** 
+pinyin Kǎlìgé
+characters 卡利格
+serial-number CedPane24981
+definition Craig (old translation)
+*** 
+pinyin Kēluò
+characters 柯洛
+serial-number CedPane24982
+definition Corral (name)
+*** 
+pinyin Màifǎlán
+characters 麦法兰[麥-蘭]
+serial-number CedPane24983
+definition McFarlan
+*** 
+pinyin ruǎn-yìngjiàn
+characters 软硬件[軟--]
+serial-number CedPane24984
+environment   comp.
+definition hardware and software
+*** 
+pinyin shēngchǎnshāng
+characters 生产商[-產-]
+serial-number CedPane24985
+definition manufacturer
+*** 
+pinyin shuǐ yáxiàn
+characters 水牙线[--線]
+serial-number CedPane24986
+definition water floss
+*** 
+pinyin Tuōnísī
+characters 托尼斯
+serial-number CedPane24987
+definition Torres
+*** 
+pinyin Xiàndài Kuàibào
+characters 现代快报[現--報]
+serial-number CedPane24988
+definition Modern Express (newspaper)
+*** 
+pinyin Xuědòushān
+characters 雪窦山[-竇-]
+serial-number CedPane24989
+definition Snow Hole Mountain (in Ningbo)
