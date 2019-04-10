@@ -2687,6 +2687,8 @@ Bozhou (in Anhui)	亳州	亳州	Bózhōu	Bok-jāu
 Bozhou (in Anhui)	亳州市	亳州市	Bózhōu Shì	Bok-jāu Síh	
 Bozkath	波斯加	波斯加	Bōsījiā	Bō-sī-gā	bˈɒzkæθ
 Bozrah	波斯拉	波斯拉	Bōsīlā	Bō-sī-lāai	bˈɒzɹə
+brace; appliance (medical/dental)	矫正器	矯正器	jiǎozhèngqì	gíu-jing-hei	
+brace (medical)	矫治器	矯治器	jiǎozhìqì	gíu-jih-hei	
 Bracken (surname)	布拉肯	布拉肯	Bùlākěn	Bou-lāai-háng	
 Brad	布拉德	布拉德	Bùlādé	Bou-lāai-dāk	
 Bradbury	布拉德伯里	布拉德伯里	Bùladébólǐ	Bou-lāai-dāk-baak-léih	
@@ -3091,6 +3093,7 @@ Calah	加拉	加拉	Jiālā	Gā-lāai	kˈeɪlæɹ
 calamity	遭祸	遭禍	zāohuò	jōu-woh	kˌəlˈæmɪti
 Calavi	卡拉维	卡拉維	Kǎlāwéi	Kā-lāai-wàih	
 Calcol	迦科	迦科	Jiākē	Gā-fō	kˈælkɒl
+calculus (dental)	牙结石	牙結石	yájiéshí	ngàh-git-sehk	
 Caleb (Bible)	迦勒	迦勒	Jiālè	Gā-lahk	kˈeɪlɛb
 Caleb (modern)	凯莱布	凱萊布	Kǎiláibù	Hói-lòih-bou	
 Caleb (modern)	嘉勒	嘉勒	Jiālè	Gā-lahk	kˈeɪlɛb
@@ -3463,7 +3466,7 @@ Cecil Rhodes Scholarship	罗德斯奖学金	羅德斯獎學金	Luódésī Jiǎng
 Cedar Point	杉树角	杉樹角	Shānshùjiǎo	Chaam-syuh-gok	
 cedarwood	雪松木	雪松木	xuěsōngmù	syut-chùhng-muhk	sˈidəwʊd
 cedarwood panel	雪松木板	雪松木板	xuěsōngmùbǎn	syut-chùhng-muhk-báan	
-CedPane: this is version 2019-04-09	汉英词典公有领域专名等副刊	漢英詞典公有領域專名等副刊	Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān	Hon-yīng Chìh-dín Gūng-yáuh Líhng-wihk Jyūn-mìhng Dáng Fu-hōn	
+CedPane: this is version 2019-04-10	汉英词典公有领域专名等副刊	漢英詞典公有領域專名等副刊	Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān	Hon-yīng Chìh-dín Gūng-yáuh Líhng-wihk Jyūn-mìhng Dáng Fu-hōn	
 Ceheng (county, in Guizhou)	册亨县	冊亨縣	Cèhēng Xiàn	Chaak-hāng Yún	
 celebrate holidays	庆祝节日	慶祝節日	qìngzhù jiérì	hing-jūk jit-yaht	
 celebrity; public figure	公众人物	公眾人物	gōngzhòng rénwù	gūng-jung yàhn-maht	sˌɪlˈɛbɹɪti
@@ -4738,6 +4741,7 @@ cut off	割下	割下	gēxia	got-hah
 cut off; chop short	劈断	劈斷	pīduàn	pek-tyúhn	
 cut out a section	裁切	裁切	cáiqiē	chòih-chit	
 cut so falls off	割掉	割掉	gēdiào	got-diuh	
+cut through (and ruin)	割烂	割爛	gēlàn	got-laahn	
 cutting corners	走捷径	走捷徑	zǒu jiéjìng	jáu jiht-ging	
 cut up by stabbing (to kill etc)	戳透	戳透	chuōtòu	cheuk-tau	
 Cuzco	库斯科	庫斯科	Kùsīkē	Fu-sī-fō	
@@ -4875,6 +4879,7 @@ Danielson	丹尼尔森	丹尼爾森	Dānní'ěrsēn	Dāan-nèih-yíh-sām
 Danilo	达尼洛	達尼洛	Dáníluò	Daaht-nèih-lohk	
 Danilovsky	丹尼洛夫斯基	丹尼洛夫斯基	Dānníluòfūsījī	Dāan-nèih-lohk-fū-sī-gēi	
 Daning (county, in Shanxi)	大宁县	大寧縣	Dàníng Xiàn	Daaih-nìhng Yún	
+Danish kroner (currency)	丹麦克朗	丹麥克朗	Dānmài kèlǎng	Dāan-mahk hāk-lóhng	
 Danite	但人	但人	Dànrén	Daahn-yàhn	dˈænaɪt
 Danjiangkou (in Hubei)	丹江口	丹江口	Dānjiāngkǒu	Dāan-gōng-háu	
 Danjiangkou (in Hubei)	丹江口市	丹江口市	Dānjiāngkǒu Shì	Dāan-gōng-háu Síh	
@@ -5159,7 +5164,12 @@ Dennis	丹尼斯	丹尼斯	Dānnísī	Dāan-nèih-sī
 dense forests	茂密的森林	茂密的森林	màomì de sēnlín	mauh-maht dīk sām-làhm	
 densely populated areas	人口稠密的地区	人口稠密的地區	rénkǒu chóumì de dìqū	yàhn-háu chàuh-maht dīk deih-kēui	
 dense mountain forest (or its reflection in water)	楼林	樓林	lóulín	làuh-làhm	
+dental brace; orthodontic case; cap; crown	牙套	牙套	yátào	ngàh-tou	
+dental braces	牙齿矫正器	牙齒矯正器	yáchǐ jiǎozhèngqì	ngàh-chí gíu-jing-hei	
 dental bridge	牙桥	牙橋	yáqiáo	ngàh-kìuh	
+dental drill	钻牙机	鑽牙機	zuānyájī	jyun-ngàh-gēi	
+(dental) implant	植牙	植牙	zhíyá	jihk-ngàh	
+(dental) implant (alternate translation)	种牙	種牙	zhòngyá	jung-ngàh	
 Denton	登顿	登頓	Dēngdùn	Dāng-deuhn	
 Denz	登茨	登茨	Dēngcí	Dāng-chìh	
 deodorant	除体臭剂	除體臭劑	chútǐchòujì	chèuih-tái-chau-jāi	
@@ -5401,6 +5411,7 @@ discuss (in an article, lit. carefully analyze)	仔细分析	仔細分析	zǐxì
 discussion group; newsgroup	讨论群	討論群	tǎolùnqún	tóu-leuhn-kwàhn	
 discussion group (in instant messaging etc)	讨论组	討論組	tǎolùnzǔ	tóu-leuhn-jóu	
 discussion group (Internet etc)	讨论小组	討論小組	tǎolùn xiǎozǔ	tóu-leuhn síu-jóu	
+disfigured teeth	畸形的牙齿	畸形的牙齒	jīxíng de yáchǐ	kēi-yìhng dīk ngàh-chí	
 disguise sanity; pretend to be crazy	装疯	裝瘋	zhuāngfēng	jōng-fūng	
 Dishan	底珊	底珊	Dǐshān	Dái-sāan	dˈaɪʃæn
 Dishon	底顺	底順	Dǐshùn	Dái-seuhn	dˈaɪʃɒn
@@ -6034,6 +6045,7 @@ El (Canaanite deity)	厄勒	厄勒	Èlēi	Āak-lahk
 Eldaah	以勒大	以勒大	Yǐlèdà	Yíh-lahk-daaih	ɛldˈeɪæɹ
 Eldad	伊利达	伊利達	Yīlìdá	Yī-leih-daaht	ˈɛldæd
 Eldar	艾德加	艾德加	Àidéjiā	Ngaaih-dāk-gā	
+elderflower	接骨木花	接骨木花	jiēgǔmùhuā	jip-gwāt-muhk-fā	
 Eldred	埃尔德雷德	埃爾德雷德	Āi'ěrdéléidé	Āai-yíh-dāk-lèuih-dāk	
 Eldredge	奥德里奇	奧德里奇	Àodélǐqí	Ou-dāk-léuih-kèih	
 Elead	以列	以列	Yǐliè	Yíh-liht	ˈiliəd
@@ -8519,6 +8531,8 @@ Gulzira	古泽拉	古澤拉	Gǔzélā	Gú-jaahk-lāai
 Gumbazir	贡巴扎	貢巴扎	Gòngbāzhā	Gung-bā-jaat	
 Gumbs	贡贝	貢貝	Gòngbèi	Gung-bui	
 gum (chewing etc)	香口胶	香口膠	xiāngkǒujiāo	hēung-háu-gāau	
+gum (dental)	牙周	牙周	yázhōu	ngàh-jāu	
+gum disease	牙周疾病	牙周疾病	yázhōu jíbìng	ngàh-jāu jaht-behng	
 gum disease	牙龈疾病	牙齦疾病	yáyín jíbìng	ngàh-ngàhn jaht-behng	
 Guna	古纳	古納	Gǔnà	Gú-naahp	
 Gundersen	贡德森	貢德森	Gòngdésēn	Gung-dāk-sām	
@@ -9154,6 +9168,7 @@ Hengshan District	恒山区	恆山區	Héngshān Qū	Hàhng-sāan Kēui
 Hengshan District	横山区	橫山區	Héngshān Qū	Wàahng-sāan Kēui	
 Hengshui (in Hebei)	衡水	衡水	Héngshuǐ	Hàhng-séui	
 Hengshui (in Hebei)	衡水市	衡水市	Héngshuǐ Shì	Hàhng-séui Síh	
+Hengstenberg	亨斯滕贝格	亨斯滕貝格	Hēngsīténgbèigé	Hāng-sī-tàhng-bui-gaak	
 Hengyang County	衡阳县	衡陽縣	Héngyáng Xiàn	Hàhng-yèuhng Yún	
 Hengyang (in Hunan)	衡阳市	衡陽市	Héngyáng Shì	Hàhng-yèuhng Síh	
 Heni	黑尼	黑尼	Hēiní	Hāk-nèih	
@@ -10563,6 +10578,7 @@ Javanese (language)	爪哇语	爪哇語	Zhǎowāyǔ	Jáau-wā-yúh
 Javanese (written language)	爪哇文	爪哇文	Zhǎowāwén	Jáau-wā-màhn	
 Javier	哈维尔	哈維爾	Hāwéi'ěr	Hā-wàih-yíh	jˌeɪvɪˈeɪ
 Javon	亚沃	亞沃	Yàwò	Nga-yūk	
+jawbone	齿槽骨	齒槽骨	chǐcáogǔ	chí-chòuh-gwāt	
 jawbone of an ass	驴腮骨	驢腮骨	lǘsāigǔ	lèuih-sōi-gwāt	
 Jayapura	查亚普拉	查亞普拉	Cháyàpǔlā	Chàh-nga-póu-lāai	
 Jay (name)	杰伊	傑伊	Jiéyī	Giht-yī	
@@ -11843,6 +11859,7 @@ Kristi; Christi (in Latin titles of journals etc)	克里斯蒂	克里斯蒂	Kèl
 Kristian; Christian (modern first name)	克里斯蒂安	克里斯蒂安	Kèlǐsīdì'ān	Hāk-léih-sī-dai-ngōn	
 Kristiania (old name of Oslo)	克里斯蒂安尼亚	克里斯蒂安尼亞	Kèlǐsīdì'ānníyà	Hāk-léih-sī-dai-ngōn-nèih-nga	
 Kristina; Christina	克里斯蒂娜	克里斯蒂娜	Kèlǐsīdìnà	Hāk-léih-sī-dai-nàh	
+kroner (Danish currency)	克朗	克朗	kèlǎng	hāk-lóhng	
 Kruger	克鲁格	克魯格	Kèlǔgé	Hāk-lóuh-gaak	
 Krymsk	克雷姆斯克	克雷姆斯克	Kèléimǔsīkè	Hāk-lèuih-móuh-sī-hāk	
 Krystyna	克雷斯蒂娜	克雷斯蒂娜	Kèléisīdìnà	Hāk-lèuih-sī-dai-nàh	
@@ -11917,6 +11934,8 @@ Kühner	屈纳	屈納	Qūnà	Wāt-naahp
 Küng	孔格	孔格	Kǒnggé	Húng-gaak	
 Künz	金茨	金茨	Jīncí	Gām-chìh	
 Küppers	屈佩尔斯	屈佩爾斯	Qūpèi'ěrsī	Wāt-pui-yíh-sī	
+L'Oréal (mainland and HK branding)	欧莱雅	歐萊雅	Ōuláiyǎ	Ngāu-lòih-ngáh	
+L'Oréal (Taiwan branding)	莱雅	萊雅	Láiyǎ	Lòih-ngáh	
 Laaland	拉朗	拉朗	Lālǎng	Lāai-lóhng	
 Laban	拉班	拉班	Lābān	Lāai-bāan	lˈeɪbæn
 Labartu	拉巴图	拉巴圖	Lābātú	Lāai-bā-tòuh	
@@ -12707,6 +12726,7 @@ literary flavour	文学色彩	文學色彩	wénxué sècǎi	màhn-hohk sīk-chó
 literary genre	文类	文類	wénlèi	màhn-leuih	
 literary theory	文论	文論	wénlùn	màhn-leuhn	
 liter measurement jug?	升斗	升斗	shēngdǒu	sīng-dáu	
+lithium-polymer	锂聚合物	鋰聚合物	lǐ-jùhéwù	léih-jeuih-hahp-maht	
 lithium batteries	锂电池	鋰電池	lǐ diànchí	léih dihn-chìh	
 lithographic web-offset press	平版印刷机	平版印刷機	píngbǎn yìnshuājī	pìhng-báan yan-chaat-gēi	
 Lithuanian (language)	立陶宛语	立陶宛語	Lìtáowǎnyǔ	Lahp-tòuh-yún-yúh	
@@ -15301,6 +15321,7 @@ Niebrugge	尼鲁格	尼魯格	Nílǔgé	Nèih-lóuh-gaak
 niece (on brother's side)	姪女	姪女	zhínǚ	jaht-néuih	
 Niederhagen	下哈根	下哈根	Xiàhāgēn	Hah-hā-gān	
 Nielamu County	聂拉木县	聶拉木縣	Nièlāmù Xiàn	Nihp-lāai-muhk Yún	
+Niels	尼尔士	尼爾士	Ní'ěrshì	Nèih-yíh-sih	
 Nielsen	尼尔逊	尼爾遜	Ní'ěrxùn	Nèih-yíh-seun	
 Niemöller; Niemoeller	尼默勒	尼默勒	Nímòlè	Nèih-mahk-lahk	
 Nienna (fictional character)	妮恩娜	妮恩娜	Nī'ēnnà	Nèih-yān-nàh	
@@ -15926,6 +15947,7 @@ Orpington (chicken breed)	奥尔平顿鸡	奧爾平頓雞	Ào'ěrpíngdùnjī	Ou
 Orpington (place)	奥尔平顿	奧爾平頓	Ào'ěrpíngdùn	Ou-yíh-pìhng-deuhn	
 Orr	奥尔	奧爾	Ào'ěr	Ou-yíh	
 Ortelec	奥特莱克	奧特萊克	Àotèláikè	Ou-dahk-lòih-hāk	
+orthodontic	正牙	正牙	zhèngyá	jing-ngàh	
 Orthodox Church	正教会	正教會	Zhèngjiàohuì	Jing-gaau-wúi	
 orthomolecular medicine (unproven vitamin treatments)	细胞分子矫正医学	細胞分子矯正醫學	xìbāo fēnzǐ jiǎozhèng yīxué	sai-bāau fahn-jí gíu-jing yī-hohk	
 orthopedic surgery	骨外科	骨外科	gǔwàikē	gwāt-ngoih-fō	
@@ -15957,6 +15979,8 @@ Osorkon	奥索康	奧索康	Àosuǒkāng	Ou-sok-hōng
 Ossetian (language, pinyin uncertain)	奥塞梯语	奧塞梯語	Àosètīyǔ	Ou-choi-tāi-yúh	
 Ossu	奥苏	奧蘇	Àosū	Ou-sōu	
 Ostend	奥斯坦德	奧斯坦德	Àosītǎndé	Ou-sī-táan-dāk	
+osteoblasts	成骨细胞	成骨細胞	chénggǔxìbāo	sìhng-gwāt-sai-bāau	
+osteoclasts	破骨细胞	破骨細胞	pògǔxìbāo	po-gwāt-sai-bāau	
 Osterholm	奥斯特霍尔姆	奧斯特霍爾姆	Àosītèhuò'ěrmǔ	Ou-sī-dahk-fok-yíh-móuh	
 Ostia (Roman port)	奥斯蒂亚	奧斯蒂亞	Àosīdìyà	Ou-sī-dai-nga	
 ostraca (lit. pottery slice)	陶片	陶片	táopiàn	tòuh-pin	
@@ -16144,6 +16168,7 @@ Pamphylia	潘菲利亚	潘菲利亞	Pānfēilìyà	Pūn-fēi-leih-nga	pˌæmfˈ�
 Pan'an (county, in Zhejiang)	磐安县	磐安縣	Pán'ān Xiàn	Pùhn-ngōn Yún	
 Panayotis	帕纳约蒂斯	帕納約蒂斯	Pànàyuēdìsī	Paak-naahp-yeuk-dai-sī	
 Panda (character in Air China safety videos)	胖安达	胖安達	Pàng'āndá	Buhn-ngōn-daaht	
+panda park	熊猫园	熊貓園	xióngmāoyuán	hùhng-māau-yùhn	
 panel (at an exhibition)	展板	展板	zhǎnbǎn	jín-báan	
 panel (group of people)	专责小组	專責小組	zhuānzé xiǎozǔ	jyūn-jaak síu-jóu	
 panel (part of wall in prefabricated construction)	墙板	牆板	qiángbǎn	chèuhng-báan	
@@ -16282,6 +16307,7 @@ Pathros	巴特罗	巴特羅	Bātèluó	Bā-dahk-lòh	pˈæθɹɒs
 patient autonomy	医疗自主权	醫療自主權	yīliáo zìzhǔquán	yī-lìuh jih-jyú-kyùhn	
 patient blood management; PBM	患者血液管理	患者血液管理	huànzhě xuèyè guǎnlǐ	waahn-jé hyut-yihk gún-léih	
 patient (in dealing with people)	耐心待人	耐心待人	nàixīn dàirén	noih-sām doih-yàhn	
+patient (of dentist etc)	求诊者	求診者	qiúzhěnzhě	kàuh-chán-jé	
 patients' rights	病人的权利	病人的權利	bìngrén de quánlì	behng-yàhn dīk kyùhn-leih	
 Patmos	拔摩	拔摩	Bámó	Baht-mō	pˈætmɒs
 Patna	巴特那	巴特那	Bātènà	Bā-dahk-náh	
@@ -16790,7 +16816,6 @@ pit owner	坑主	坑主	kēngzhǔ	hāang-jyú
 Pitt; Pete	皮特	皮特	Pítè	Pèih-dahk	
 Pittini	皮蒂尼	皮蒂尼	Pídìní	Pèih-dai-nèih	
 pity	怜悯	憐憫	liánmǐn	lìhn-máhn	pˈɪti
-pivotal dates	关键日期	關鍵日期	guānjiàn rìqī	gwāan-gihn yaht-kèih	
 Pixar (company)	皮克斯	皮克斯	Píkèsī	Pèih-hāk-sī	
 Pizhou (in Jiangsu)	邳州	邳州	Péizhōu	Pèih-jāu	
 Pizhou (in Jiangsu)	邳州市	邳州市	Péizhōu Shì	Pèih-jāu Síh	
@@ -17833,6 +17858,7 @@ reception desk; lobby	服务台	服務台	fúwùtái	fuhk-mouh-tòih
 recessive genes	隐性基因	隱性基因	yǐnxìng jīyīn	yán-sing gēi-yān	
 Rechab	利甲	利甲	Lìjiǎ	Leih-gaap	ɹˈikæb
 Rechabites	利甲人	利甲人	Lìjiǎrén	Leih-gaap-yàhn	ɹˈikæbaɪts
+rechargeable	可充电	可充電	kěchōngdiàn	hó-chūng-dihn	
 Recife	累西腓	累西腓	Lèixīféi	Leuih-sāi-fèih	ɹˌɛsˈifə
 recipient (of mail/document)	收件者	收件者	shōujiànzhě	sāu-gihn-jé	
 recite from memory	背出	背出	bèichū	bui-chēut	
@@ -18718,6 +18744,7 @@ salted caramel	盐味焦糖	鹽味焦糖	yánwèi jiāotáng	yìhm-meih jīu-tò
 salt herb	咸草	咸草	xiáncǎo	hàahm-chóu	
 Salt Lake City	盐湖城	鹽湖城	Yánhúchéng	Yìhm-wùh-sìhng	
 Salt Sea	盐海	鹽海	Yánhǎi	Yìhm-hói	
+saltwater solution	盐溶液	鹽溶液	yánróngyè	yìhm-yùhng-yihk	
 salty place	盐地	鹽地	yándì	yìhm-deih	
 Salu	撒罗	撒羅	Sāluó	Saat-lòh	sˈeɪlʉː
 Salus (Roman god)	萨罗斯	薩羅斯	Sàluósī	Saat-lòh-sī	
@@ -20275,6 +20302,8 @@ Spanish Foreign Legion	西班牙外籍兵团	西班牙外籍兵團	Xībānyá W�
 Spanish (language)	西班牙语	西班牙語	Xībānyáyǔ	Sāi-bāan-ngàh-yúh	
 span of steeds	骈马	駢馬	piánmǎ	pìhn-máh	
 spare batteries; backup or standby batteries	备用电池	備用電池	bèiyòng diànchí	beih-yuhng dihn-chìh	
+sparkling wine	发泡酒	發泡酒	fāpàojiǔ	faat-paau-jáu	
+sparkling wine	葡萄气酒	葡萄氣酒	pútao qì jiǔ	pòuh-tòuh hei jáu	
 Sparks (surname)	斯帕克斯	斯帕克斯	Sīpàkèsī	Sī-paak-hāk-sī	
 Sparta	斯巴达	斯巴達	Sībādá	Sī-bā-daaht	
 Spassky	斯帕斯基	斯帕斯基	Sīpàsījī	Sī-paak-sī-gēi	
@@ -20714,6 +20743,7 @@ Suibin (county, in Heilongjiang)	绥滨县	綏濱縣	Suíbīn Xiàn	Sēui-bān Y
 Suichang (county, in Zhejiang)	遂昌县	遂昌縣	Suìchāng Xiàn	Seuih-chēung Yún	
 Suichuan (county, in Jiangxi)	遂川县	遂川縣	Suìchuān Xiàn	Seuih-chyūn Yún	
 suicidal tendencies	自杀倾向	自殺傾向	zìshā qīngxiàng	jih-saat kīng-heung	
+suicide rate	自杀率	自殺率	zìshā lǜ	jih-saat leuht	
 Sui County	睢县	睢縣	Suī Xiàn	Sēui Yún	
 Sui County	随县	隨縣	Suí Xiàn	Chèuih Yún	
 Suide (county, in Shaanxi)	绥德县	綏德縣	Suídé Xiàn	Sēui-dāk Yún	
@@ -21038,6 +21068,7 @@ taken by robbery (used as an adjective)	抢来	搶來	qiǎnglai	chéung-lòih
 taken into (a king's house etc)	召进	召進	zhàojìn	jiuh-jeun	
 take notes	写笔记	寫筆記	xiě bǐjì	sé bāt-gei	
 take notes (in study etc)	做笔记	做筆記	zuò bǐjì	jouh bāt-gei	
+taken to court	被告上法庭	被告上法庭	bèi gào shàng fǎtíng	beih gou séuhng faat-tìhng	
 taken to the hospital	被送往医院	被送往醫院	bèi sòngwǎng yīyuàn	beih sung-wóhng yī-yún	
 take orders (from customers)	接单	接單	jiēdān	jip-dāan	
 take photograph (informal)	拍拍照	拍拍照	pāipaizhào	paak-paak-jiu	
@@ -21710,6 +21741,7 @@ Tifinagh (written language)	提非纳文	提非納文	Tífēinàwén	Tàih-fēi-
 Tiger Island (park training wild animals)	虎岛	虎島	Hǔ Dǎo	Fú Dóu	
 tight-fitting clothing; tights	紧身衣服	緊身衣服	jǐnshēn yīfu	gán-sān yī-fuhk	
 tightly guard	紧守	緊守	jǐnshǒu	gán-sáu	
+tightly wind; bind up (with cord etc)	缠紧	纏緊	chánjǐn	chìhn-gán	
 Tigre (language)	提格雷语	提格雷語	Tígéléiyǔ	Tàih-gaak-lèuih-yúh	
 Tigrinya (language)	提格利尼亚语	提格利尼亞語	Tígélìníyàyǔ	Tàih-gaak-leih-nèih-nga-yúh	
 Tigrinya (language)	提格里尼亚语	提格里尼亞語	Tígélǐníyàyǔ	Tàih-gaak-léih-nèih-nga-yúh	
@@ -21784,6 +21816,7 @@ Tiszaladány	蒂萨丹伊	蒂薩丹伊	Dìsàdānyī	Dai-saat-dāan-yī
 Titan	泰坦	泰坦	Tàitǎn	Taai-táan	
 Titanic	铁达尼	鐵達尼	Tiědání	Tit-daaht-nèih	tˌaɪtˈænɪk
 Titanic (alternative version)	泰坦尼克	泰坦尼克	Tàitǎnníkè	Taai-táan-nèih-hāk	tˌaɪtˈænɪk
+titanium	钛金属	鈦金屬	tàijīnshǔ	taai-gām-suhk	
 tithe; tithing	什一奉献	什一奉獻	shíyī fèngxiàn	sahm-yāt fuhng-hin	
 Titius	提提奥	提提奧	Títí'ào	Tàih-tàih-ou	
 title page	题名页	題名頁	tímíngyè	tàih-mìhng-yihp	
@@ -22652,6 +22685,7 @@ Veera	维拉	維拉	Wéilā	Wàih-lāai
 Vega	维加	維加	Wéijiā	Wàih-gā	
 Veli	韦利	韋利	Wéilì	Wáih-leih	
 Venda (language)	文达语	文達語	Wéndáyǔ	Màhn-daaht-yúh	
+veneer (dental)	瓷牙贴片	瓷牙貼片	cíyátiēpiàn	chìh-ngàh-tip-pin	
 Venera	韦涅拉	韋涅拉	Wéinièlā	Wáih-nihp-lāai	
 Ventura	文图拉	文圖拉	Wéntúlā	Màhn-tòuh-lāai	vɛntʃjˈʉːɹə
 Venus (Roman god)	维纳斯	維納斯	Wéinàsī	Wàih-naahp-sī	
@@ -23347,6 +23381,7 @@ Windsor Castle	温莎堡	溫莎堡	Wēnshābǎo	Wān-sā-bóu
 Windsor (surname)	温莎	溫莎	Wēnshā	Wān-sā	wˈɪnzɚ
 Windward Islands	向风群岛	向風群島	Xiàngfēng qúndǎo	Heung-fūng kwàhn-dóu	
 winemaker (person)	酿酒师	釀酒師	niàngjiǔshī	yeuhng-jáu-sī	
+winemaking industry	酿酒商	釀酒商	niàngjiǔshāng	yeuhng-jáu-sēung	
 winepress	酒榨	酒榨	jiǔzhà	jáu-ja	
 wine skin-bottles	皮酒袋	皮酒袋	píjiǔdài	pèih-jáu-doih	
 wine vat	酒池	酒池	jiǔchí	jáu-chìh	

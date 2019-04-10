@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-04-09
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-04-10
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -2995,6 +2995,7 @@
 丹江口 丹江口 [Dan1 jiang1 kou3] /Danjiangkou (in Hubei)/
 丹江口市 丹江口市 [Dan1 jiang1 kou3_Shi4] /Danjiangkou (in Hubei)/
 丹棱縣 丹棱县 [Dan1 leng2_Xian4] /Danleng (county, in Sichuan)/
+丹麥克朗 丹麦克朗 [Dan1 mai4_ke4 lang3] /Danish kroner (currency)/kroner, Danish (currency)/
 丹妮爾 丹妮尔 [Dan1 ni1 er3] /Danielle/
 丹妮拉 丹妮拉 [Dan1 ni1 la1] /Daniela/
 丹妮絲 丹妮丝 [Dan1 ni1 si1] /Denise/
@@ -5137,7 +5138,7 @@
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-04-09/this is version 2019-04-09, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-04-10/this is version 2019-04-10, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
 漢柏 汉柏 [Han4 bo2] /Hamper (surname)/
@@ -5411,6 +5412,7 @@
 亨麗埃特 亨丽埃特 [Heng1 li4 ai1 te4] /Henriette/
 亨利克 亨利克 [Heng1 li4 ke4] /Henrik/
 亨氏 亨氏 [Heng1 shi4] /Heinz (brand)/
+亨斯滕貝格 亨斯滕贝格 [Heng1 si1 teng2 bei4 ge2] /Hengstenberg/
 亨特 亨特 [Heng1 te4] /Hunt (surname)/
 亨廷登 亨廷登 [Heng1 ting2 deng1] /Huntingdon/
 亨廷頓 亨廷顿 [Heng1 ting2 dun4] /Huntington/
@@ -7756,6 +7758,7 @@
 萊西市 莱西市 [Lai2 xi1_Shi4] /Laixi (in Shandong)/
 萊西河 莱西河 [Lai2 xi1 he2] /Urasi (river)/
 萊希特 莱希特 [Lai2 xi1 te4] /Leichty/
+萊雅 莱雅 [Lai2 ya3] /L'Oréal (Taiwan branding)/
 萊陽 莱阳 [Lai2 yang2] /Laiyang (in Shandong)/
 萊陽市 莱阳市 [Lai2 yang2_Shi4] /Laiyang (in Shandong)/
 萊伊斯 莱伊斯 [Lai2 yi1 si1] /Laeisz/
@@ -10457,6 +10460,7 @@
 尼爾 尼尔 [Ni2 er3] /Neil/
 尼珥 尼珥 [Ni2 er3] /Ner/
 尼爾森 尼尔森 [Ni2 er3 sen1] /Nilsen/
+尼爾士 尼尔士 [Ni2 er3 shi4] /Niels/
 尼爾斯 尼尔斯 [Ni2 er3 si1] /Nils/
 尼爾松 尼尔松 [Ni2 er3 song1] /Nilsson/
 尼爾遜 尼尔逊 [Ni2 er3 xun4] /Nielsen/
@@ -10702,6 +10706,7 @@
 歐巴馬 欧巴马 [Ou1 ba1 ma3] /Obama (alternate translation)/
 歐甘文 欧甘文 [Ou1 gan1 wen2] /Ogham (written language)/
 甌海區 瓯海区 [Ou1 hai3_Qu1] /Ouhai District/District, Ouhai/
+歐萊雅 欧莱雅 [Ou1 lai2 ya3] /L'Oréal (mainland and HK branding)/
 歐朗 欧朗 [Ou1 lang3] /Auron/
 歐里庇得斯 欧里庇得斯 [Ou1 li3 bi4 de2 si1] /Euripides/
 歐內斯特 欧内斯特 [Ou1 nei4 si1 te4] /Ernest/
@@ -17333,6 +17338,7 @@
 被逮捕 被逮捕 [bei4_dai4 bu3] /be arrested/arrested, be/
 被耽誤 被耽误 [bei4_dan1 wu5] /delayed/
 被高舉 被高举 [bei4_gao1 ju3] /be exalted/exalted, be/
+被告上法庭 被告上法庭 [bei4_gao4_shang4_fa3 ting2] /taken to court/court, taken to/
 被關進集中營 被关进集中营 [bei4_guan1 jin4_ji2 zhong1 ying2] /be imprisoned in concentration camps/imprisoned in concentration camps, be/
 被鬼附身 被鬼附身 [bei4_gui3_fu4 shen1] /demon possessed (old translation?)/possessed, demon (old translation?)/
 被激怒 被激怒 [bei4_ji1 nu4] /provoked/
@@ -17749,6 +17755,7 @@
 柴堆 柴堆 [chai2 dui1] /pile of firewood/firewood, pile of/
 攙上 搀上 [chan1 shang5] /mix in/moisten with/
 蟾毒色胺 蟾毒色胺 [chan2 du2 se4 an4] /bufotenine/
+纏緊 缠紧 [chan2 jin3] /tightly wind/bind up (with cord etc)/wind, tightly (with cord etc)/
 纏絲瑪瑙 缠丝玛瑙 [chan2 si1 ma3 nao3] /sardonyx/
 產出導向法 产出导向法 [chan3 chu1_dao3 xiang4_fa3] /production-oriented approach (language teaching via simulated situations|tasks)/approach, production-oriented (language teaching via simulated situations|tasks)/
 產后抑郁症 产后抑郁症 [chan3 hou4_yi4 yu4 zheng4] /postpartum depression/depression, postpartum/
@@ -17852,6 +17859,7 @@
 呈到 呈到 [cheng2 dao4] /to present toward/present toward, to/
 乘風 乘风 [cheng2 feng1] /ride the wind/wind, ride the/
 成功奮鬥史 成功奋斗史 [cheng2 gong1_fen4 dou4 shi3] /"success stories" (rags to riches etc)/stories", "success (rags to riches etc)/
+成骨細胞 成骨细胞 [cheng2 gu3 xi4 bao1] /osteoblasts/
 城基 城基 [cheng2 ji1] /city foundation/foundation, city/
 承建商 承建商 [cheng2 jian4 shang1] /contractor (business)/
 盛滿 盛满 [cheng2 man3] /full of/
@@ -17898,6 +17906,7 @@
 遲些 迟些 [chi2 xie1] /put off/later on/off, put/
 持續不懈 持续不懈 [chi2 xu4 bu4 xie4] /keeping going/persisting/going, keeping/
 尺八笛 尺八笛 [chi3 ba1 di2] /shakuhachi flute/flute, shakuhachi/
+齒槽骨 齿槽骨 [chi3 cao2 gu3] /jawbone/
 齒形 齿形 [chi3 xing2] /toothlike (tooth-shaped)/
 赤布 赤布 [chi4 bu4] /crimson cloth/cloth, crimson/
 赤霉酸 赤霉酸 [chi4 mei2 suan1] /gibberellic acid/acid, gibberellic/
@@ -18065,6 +18074,7 @@
 磁石貼 磁石贴 [ci2 shi2 tie1] /magnetic sticker/sticker, magnetic/
 雌體 雌体 [ci2 ti3] /female (creature)/
 磁鐵貼 磁铁贴 [ci2 tie3 tie1] /magnetic sticker/fridge magnet/sticker, magnetic/magnet, fridge/
+瓷牙貼片 瓷牙贴片 [ci2 ya2 tie1 pian4] /veneer (dental)/
 詞語解釋 词语解释 [ci2 yu3_jie3 shi4] /expression explained/explained, expression/
 詞語索引 词语索引 [ci2 yu3_suo3 yin3] /concordance/
 辭源學 辞源学 [ci2 yuan2 xue2] /etymology study/study, etymology/
@@ -18740,6 +18750,7 @@
 發盡 发尽 [fa1 jin4] /let out all of (one's rage etc)/
 發了財 发了财 [fa1 le5_cai2] /become rich/rich, become/
 發嫩長葉 发嫩长叶 [fa1 nen4 zhang3 ye4] /grow tender and grow new leaves (annual tree development)/tender and grow new leaves, grow (annual tree development)/
+發泡酒 发泡酒 [fa1 pao4 jiu3] /sparkling wine/wine, sparkling/
 發音准確 发音准确 [fa1 yin1_zhun3 que4] /correct pronunciation/pronunciation, correct/
 發展潛能 发展潜能 [fa1 zhan3_qian2 neng2] /potential for growth/growth, potential for/
 發自內心 发自内心 [fa1 zi4_nei4 xin1] /voluntarily/from the heart/heart, from the/
@@ -19088,6 +19099,7 @@
 割掉 割掉 [ge1 diao4] /cut so falls off/falls off, cut so/
 歌斐木 歌斐木 [ge1 fei3 mu4] /gopher wood/wood, gopher/
 割盡 割尽 [ge1 jin4] /reap completely (of harvest)/completely, reap (of harvest)/
+割爛 割烂 [ge1 lan4] /cut through (and ruin)/through, cut (and ruin)/
 割下 割下 [ge1 xia5] /cut off/
 歌星海報 歌星海报 [ge1 xing1_hai3 bao4] /pop star posters/star posters, pop/
 歌藝 歌艺 [ge1 yi4] /singing skills/skills, singing/
@@ -19252,7 +19264,6 @@
 官方應用商店 官方应用商店 [guan1 fang1_ying4 yong4_shang1 dian4] /official app store/store, official app/
 關好 关好 [guan1 hao3] /shut well (?)/well, shut (?)/
 關機功能 关机功能 [guan1 ji1_gong1 neng2] /switchoff function/shutdown function/function, switchoff/
-關鍵日期 关键日期 [guan1 jian4_ri4 qi1] /pivotal dates/dates, pivotal/
 關節窩 关节窝 [guan1 jie2 wo1] /joint (of thigh etc)/
 觀景台 观景台 [guan1 jing3 tai2] /viewing deck/deck, viewing/
 觀禮者 观礼者 [guan1 li3 zhe3] /onlooker at ceremony/ceremony, onlooker at/
@@ -19750,6 +19761,7 @@
 機械殺手 机械杀手 [ji1 xie4_sha1 shou3] /killer robots (in fiction etc)/robots, killer (in fiction etc)/
 機械停車設備 机械停车设备 [ji1 xie4_ting2 che1_she4 bei4] /mechanical parking equipment/automated parking system/parking equipment, mechanical/system, automated parking/
 機械組 机械组 [ji1 xie4 zu3] /mechanical team (on building site)/team, mechanical (on building site)/
+畸形的牙齒 畸形的牙齿 [ji1 xing2_de5_ya2 chi3] /disfigured teeth/teeth, disfigured/
 基因庫 基因库 [ji1 yin1_ku4] /gene bank/bank, gene/
 基因組 基因组 [ji1 yin1 zu3] /genome/
 及得上 及得上 [ji2_de5_shang4] /become as good as/reach up to in greatness etc/good as, become as/greatness etc, reach up to in/
@@ -20013,6 +20025,8 @@
 絞繩 绞绳 [jiao3 sheng2] /rope-making?/
 角石 角石 [jiao3 shi2] /cornerstone/
 腳痛醫腳 脚痛医脚 [jiao3 tong4 yi1 jiao3] /stop-gap treatment (lit. foot pain treat foot; might be incorrect if root cause is elsewhere)/treatment, stop-gap (lit. foot pain treat foot; might be incorrect if root cause is elsewhere)/
+矯正器 矫正器 [jiao3 zheng4 qi4] /brace/appliance (medical|dental)/
+矯治器 矫治器 [jiao3 zhi4 qi4] /brace (medical)/
 攪濁 搅浊 [jiao3 zhuo2] /befoul (water)/
 酵的比喻 酵的比喻 [jiao4_de5_bi3 yu4] /illustration of|about the leaven/of|about the leaven, illustration/
 叫醫生來 叫医生来 [jiao4_yi1 sheng1_lai2] /call the doctor (to come)/doctor, call the (to come)/
@@ -20040,6 +20054,7 @@
 接待廳 接待厅 [jie1 dai4 ting1] /reception area/area, reception/
 接單 接单 [jie1 dan1] /take orders (from customers)/orders, take (from customers)/
 接地插腳 接地插脚 [jie1 di4_cha1 jiao3] /grounding pin/earth pin (on a plug)/pin, grounding (on a plug)/
+接骨木花 接骨木花 [jie1 gu3 mu4 hua1] /elderflower/
 接合處 接合处 [jie1 he2 chu4] /joint (mechanical)/
 接機 接机 [jie1 ji1] /welcome at an airport/airport, welcome at an/
 階級之分 阶级之分 [jie1 ji2_zhi1_fen1] /class distinctions/distinctions, class/
@@ -20389,6 +20404,7 @@
 可喜愛 可喜爱 [ke3_xi3 ai4] /lovable/
 可悲的事 可悲的事 [ke3 bei1_de5_shi4] /what a pity/unfortunately/sadly/pity, what a/
 可恥的行為 可耻的行为 [ke3 chi3_de5_xing2 wei2] /shameful conduct/conduct, shameful/
+可充電 可充电 [ke3 chong1 dian4] /rechargeable/
 可靠來源 可靠来源 [ke3 kao4_lai2 yuan2] /reliable sources (term used by Wikipedia editors)/sources, reliable (term used by Wikipedia editors)/
 可可含量 可可含量 [ke3 ke3_han2 liang4] /cocoa content (of dark chocolate product)/content, cocoa (of dark chocolate product)/
 可可芋頭 可可芋头 [ke3 ke3_yu4 tou5] /cocoyam/
@@ -20409,6 +20425,7 @@
 客戶服務熱線 客户服务热线 [ke4 hu4_fu2 wu4_re4 xian4] /customer services hotline/services hotline, customer/
 客戶端 客户端 [ke4 hu4 duan1] /client/
 客貨車 客货车 [ke4 huo4 che1] /van (vehicle)/
+克朗 克朗 [ke4 lang3] /kroner (Danish currency)/
 克里杜 克里杜 [ke4 li3 du4] /credo (Latin word)/
 克魯克斯 克鲁克斯 [ke4 lu3 ke4 si1] /crux (Latin word originally meaning "stake" and later "cross")/
 客運站 客运站 [ke4 yun4 zhan4] /passenger transport station/transport station, passenger/
@@ -20578,6 +20595,7 @@
 離合詩 离合诗 [li2 he2 shi1] /acrostic poetry/poetry, acrostic/
 離開主人 离开主人 [li2 kai1_zhu3 ren2] /escape from one's master (lit. leave one's master)/one's master, escape from (lit. leave one's master)/
 鋰電池 锂电池 [li3_dian4 chi2] /lithium batteries/batteries, lithium/
+鋰聚合物 锂聚合物 [li3 ju4 he2 wu4] /lithium-polymer/
 禮拜儀式 礼拜仪式 [li3 bai4_yi2 shi4] /liturgy (church)/
 理財方式 理财方式 [li3 cai2_fang1 shi4] /method of handling money/handling money, method of/
 理解為 理解为 [li3 jie3_wei2] /understand as/
@@ -21177,6 +21195,7 @@
 念完 念完 [nian4 wan2] /finish reading/reading, finish/
 念咒人 念咒人 [nian4 zhou4 ren2] /(snake) charmers/
 念珠菌病 念珠菌病 [nian4 zhu1 jun1 bing4] /candidiasis/
+釀酒商 酿酒商 [niang4 jiu3 shang1] /winemaking industry/industry, winemaking/
 釀酒師 酿酒师 [niang4 jiu3 shi1] /winemaker (person)/
 鳥嘌呤 鸟嘌呤 [niao3 piao4 ling4] /guanine/
 您好 您好 [nin2_hao3] /hello (formal)/
@@ -21388,6 +21407,7 @@
 瓶座 瓶座 [ping2 zuo4] /jar stand (lit. seat)/stand, jar (lit. seat)/
 破繭而出 破茧而出 [po4_jian3_er2_chu1] /emerge from its cocoon/cocoon, emerge from its/
 破財免災 破财免灾 [po4 cai2_mian3_zai1] /buy one's way out of serious trouble/spend money to avert disaster/one's way out of serious trouble, buy/money to avert disaster, spend/
+破骨細胞 破骨细胞 [po4 gu3 xi4 bao1] /osteoclasts/
 迫切感 迫切感 [po4 qie4 gan3] /sense of urgency/urgency, sense of/
 破聲 破声 [po4 sheng1] /wrong note (singing)/note, wrong (singing)/
 剖心手術 剖心手术 [pou1 xin1_shou3 shu4] /open-heart surgery/surgery, open-heart/
@@ -21403,6 +21423,7 @@
 僕婢 仆婢 [pu2 bi4] /manservants and maidservants/maidservants, manservants and/
 僕人們 仆人们 [pu2 ren2 men5] /servants (plural)/
 葡萄 葡萄 [pu2 tao5] /grapes/vine/
+葡萄氣酒 葡萄气酒 [pu2 tao5_qi4_jiu3] /sparkling wine/wine, sparkling/
 葡萄餅 葡萄饼 [pu2 tao5 bing3] /cake of raisins/raisins, cake of/
 葡萄皮 葡萄皮 [pu2 tao5 pi2] /grape skin/skin, grape/
 葡萄樹上 葡萄树上 [pu2 tao5 shu4_shang5] /on the vine/vine, on the/
@@ -21564,6 +21585,7 @@
 囚徒困境 囚徒困境 [qiu2 tu2_kun4 jing4] /prisoner's dilemma (game theory)/dilemma, prisoner's (game theory)/
 求問 求问 [qiu2 wen4] /inquire of/
 求問者 求问者 [qiu2 wen4 zhe3] /inquirer (of fortune-teller etc)/
+求診者 求诊者 [qiu2 zhen3 zhe3] /patient (of dentist etc)/
 曲屏 曲屏 [qu1 ping2] /curved screen (of TV)/screen, curved (of TV)/
 驅蚊 驱蚊 [qu1 wen2] /repel mosquitoes/mosquitoes, repel/
 區域法院 区域法院 [qu1 yu4_fa3 yuan4] /regional court/court, regional/
@@ -22504,6 +22526,7 @@
 太深了 太深了 [tai4_shen1_le5] /very strong (deep, of addictions etc)/strong, very (deep, of addictions etc)/
 太晚了 太晚了 [tai4_wan3_le5] /too late/late, too/
 態度溫和 态度温和 [tai4 du5_wen1 he2] /mild temper/temper, mild/
+鈦金屬 钛金属 [tai4 jin1 shu3] /titanium/
 太空廢物 太空废物 [tai4 kong1_fei4 wu4] /space debris/space junk/debris, space/junk, space/
 太空垃圾 太空垃圾 [tai4 kong1_la1 ji1] /debris from space/space, debris from/
 太空旅行 太空旅行 [tai4 kong1_lu:3 xing2] /space travel/travel, space/
@@ -23517,6 +23540,7 @@
 凶言 凶言 [xiong1 yan2] /terrible words/words, terrible/
 胸章套 胸章套 [xiong1 zhang1 tao4] /badge card holder/card holder, badge/
 凶咒 凶咒 [xiong1 zhou4] /unlucky spell/spell, unlucky/
+熊貓園 熊猫园 [xiong2 mao1 yuan2] /panda park/park, panda/
 修道院女院長 修道院女院长 [xiu1 dao4 yuan4_nu:3 yuan4 zhang3] /mother superior/convent headmistress/superior, mother/headmistress, convent/
 修道院院長 修道院院长 [xiu1 dao4 yuan4_yuan4 zhang3] /prelate/archimandrite/abbot/
 修高 修高 [xiu1 gao1] /elevate (a road etc) (?)/
@@ -23628,11 +23652,16 @@
 壓縮光盤 压缩光盘 [ya1 suo1_guang1 pan2] /high-density compact disc (Professional Disc etc)/compact disc, high-density (Professional Disc etc)/
 壓弦 压弦 [ya1 xian2] /yaxian/finger-pressure vibrato (huqin-playing technique)/
 押走 押走 [ya1 zou3] /take someone away/lead someone away (detaining them)/someone away, take (detaining them)/away, lead someone (detaining them)/
+牙齒矯正器 牙齿矫正器 [ya2 chi3_jiao3 zheng4 qi4] /dental braces/braces, dental/
 牙洞 牙洞 [ya2 dong4] /opening (hole) in a tooth/tooth, opening in a/
+牙結石 牙结石 [ya2 jie2 shi2] /calculus (dental)/
 牙皮 牙皮 [ya2 pi2] /skin of teeth/teeth, skin of/
 牙橋 牙桥 [ya2 qiao2] /dental bridge/bridge, dental/
+牙套 牙套 [ya2 tao4] /dental brace/orthodontic case/cap/crown/brace, dental/case, orthodontic/
 牙齦發炎 牙龈发炎 [ya2 yin2_fa1 yan2] /inflammation of the gums/gums, inflammation of the/
 牙齦疾病 牙龈疾病 [ya2 yin2_ji2 bing4] /gum disease/disease, gum/
+牙周 牙周 [ya2 zhou1] /gum (dental)/
+牙周疾病 牙周疾病 [ya2 zhou1_ji2 bing4] /gum disease/disease, gum/
 亞硝酸鹽 亚硝酸盐 [ya4 xiao1 suan1 yan2] /nitrites/
 亞原子粒子 亚原子粒子 [ya4 yuan2 zi3_li4 zi3] /subatomic particle/particle, subatomic/
 煙草公司 烟草公司 [yan1 cao3_gong1 si1] /tobacco company|ies/company|ies, tobacco/
@@ -23657,6 +23686,7 @@
 研究系 研究系 [yan2 jiu1 xi4] /research department (in university etc)/department, research (in university etc)/
 研究組 研究组 [yan2 jiu1 zu3] /research group (at a university etc)/group, research (at a university etc)/
 岩薔薇膠 岩蔷薇胶 [yan2 qiang2 wei1 jiao1] /labdanum/
+鹽溶液 盐溶液 [yan2 rong2 ye4] /saltwater solution/solution, saltwater/
 嚴肅性 严肃性 [yan2 su4 xing4] /seriousness/
 鹽味焦糖 盐味焦糖 [yan2 wei4_jiao1 tang2] /salted caramel/caramel, salted/
 研習班 研习班 [yan2 xi2 ban1] /study class/class, study/
@@ -24381,6 +24411,7 @@
 正數和負數 正数和负数 [zheng4 shu4_he2_fu4 shu4] /positive and negative numbers/negative numbers, positive and/
 證偽 证伪 [zheng4 wei3] /falsify/prove wrong/
 證偽主義 证伪主义 [zheng4 wei3 zhu3 yi4] /falsificationism/
+正牙 正牙 [zheng4 ya2] /orthodontic/
 正直的人 正直的人 [zheng4 zhi2_de5_ren2] /upright one(s)/one(s), upright/
 正直話 正直话 [zheng4 zhi2 hua4] /upright|honest speech/speech, upright|honest/
 正直人 正直人 [zheng4 zhi2 ren2] /upright (honest) men/
@@ -24423,6 +24454,7 @@
 植入式營銷 植入式营销 [zhi2 ru4 shi4_ying2 xiao1] /product placement (marketing method)/placement, product (marketing method)/
 植物蒸騰 植物蒸腾 [zhi2 wu4_zheng1 teng2] /plant transpiration/transpiration, plant/
 植物目 植物目 [zhi2 wu4 mu4] /plant order (classification)/order, plant (classification)/
+植牙 植牙 [zhi2 ya2] /(dental) implant/
 職業倦怠 职业倦怠 [zhi2 ye4_juan4 dai4] /burnout (syndrome)/
 職業培訓 职业培训 [zhi2 ye4_pei2 xun4] /vocational training/training, vocational/
 職業乞丐 职业乞丐 [zhi2 ye4_qi3 gai4] /professional beggar/beggar, professional/
@@ -24524,6 +24556,7 @@
 重誓 重誓 [zhong4 shi4] /great oath/oath, great/
 眾水 众水 [zhong4 shui3] /waters/
 眾星 众星 [zhong4 xing1] /stars/
+種牙 种牙 [zhong4 ya2] /(dental) implant (alternate translation)/
 重要步驟 重要步骤 [zhong4 yao4_bu4 zhou4] /important step/vital step/step, important/
 重重壓住 重重压住 [zhong4 zhong4_ya1 zhu4] /weigh down (overburden with stress etc)/down, weigh (overburden with stress etc)/
 重重責罰 重重责罚 [zhong4 zhong4_ze2 fa2] /severely reprove/reprove, severely/
@@ -24690,6 +24723,7 @@
 自然宗教 自然宗教 [zi4 ran2_zong1 jiao4] /nature religion/religion, nature/
 自然發生說 自然发生说 [zi4 ran2 fa1 sheng1 shuo1] /spontaneous generation/generation, spontaneous/
 自然光 自然光 [zi4 ran2 guang1] /natural light/light, natural/
+自殺率 自杀率 [zi4 sha1_lu:4] /suicide rate/rate, suicide/
 自殺傾向 自杀倾向 [zi4 sha1_qing1 xiang4] /suicidal tendencies/tendencies, suicidal/
 自生 自生 [zi4 sheng1] /self-sown?/
 自視過高 自视过高 [zi4 shi4_guo4 gao1] /think more of oneself than it is necessary to think/more of oneself than it is necessary to think, think/
@@ -24769,6 +24803,7 @@
 組合好 组合好 [zu3 he2 hao3] /preassemble/
 阻嚇 阻吓 [zu3 he4] /deterrent (military)/
 祖先崇拜 祖先崇拜 [zu3 xian1_chong2 bai4] /ancestor worship/worship, ancestor/
+鑽牙機 钻牙机 [zuan1 ya2 ji1] /dental drill/drill, dental/
 鑽石針 钻石针 [zuan4 shi2 zhen1] /diamond point/point, diamond/
 最愛吃的 最爱吃的 [zui4_ai4_chi1_de5] /favourite (foods)/
 最美好的人生 最美好的人生 [zui4_mei3 hao3_de5_ren2 sheng1] /the best life ever (now+future)/best life ever, the (now+future)/

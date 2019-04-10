@@ -17763,11 +17763,6 @@ characters 管好你的嘴
 serial-number CedPane3557
 definition Cuss Control (2000 self-help book, lit. manage your mouth)
 *** 
-pinyin guānjiàn rìqī
-characters 关键日期[關鍵--]
-serial-number CedPane3558
-definition pivotal dates
-*** 
 pinyin guānjiéwō
 characters 关节窝[關節窩]
 serial-number CedPane3559
@@ -122672,7 +122667,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-04-09
+definition CedPane: this is version 2019-04-10
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -124361,3 +124356,183 @@ pinyin zīxún fúwù
 characters 咨询服务[-詢-務]
 serial-number CedPane25010
 definition counselling service; counseling service
+*** 
+pinyin Dānmài kèlǎng
+characters 丹麦克朗[-麥--]
+serial-number CedPane25011
+definition Danish kroner (currency)
+*** 
+pinyin Hēngsīténgbèigé
+characters 亨斯滕贝格[---貝-]
+serial-number CedPane25012
+definition Hengstenberg
+*** 
+pinyin kèlǎng
+characters 克朗
+serial-number CedPane25013
+definition kroner (Danish currency)
+*** 
+pinyin Ní'ěrshì
+characters 尼尔士[-爾-]
+serial-number CedPane25014
+definition Niels
+*** 
+pinyin xióngmāoyuán
+characters 熊猫园[-貓園]
+serial-number CedPane25015
+definition panda park
+*** 
+pinyin zìshā lǜ
+characters 自杀率[-殺-]
+serial-number CedPane25016
+definition suicide rate
+*** 
+pinyin bèi gào shàng fǎtíng
+characters 被告上法庭
+serial-number CedPane25017
+definition taken to court
+*** 
+pinyin chánjǐn
+characters 缠紧[纏緊]
+serial-number CedPane25018
+definition tightly wind; bind up (with cord etc)
+*** 
+pinyin chénggǔxìbāo
+characters 成骨细胞[--細-]
+serial-number CedPane25019
+definition osteoblasts
+*** 
+pinyin chǐcáogǔ
+characters 齿槽骨[齒--]
+serial-number CedPane25020
+definition jawbone
+*** 
+pinyin cíyátiēpiàn
+characters 瓷牙贴片[--貼-]
+serial-number CedPane25021
+definition veneer (dental)
+*** 
+pinyin fāpàojiǔ
+characters 发泡酒[發--]
+serial-number CedPane25022
+definition sparkling wine
+*** 
+pinyin gēlàn
+characters 割烂[-爛]
+serial-number CedPane25023
+definition cut through (and ruin)
+*** 
+pinyin jiǎozhèngqì
+characters 矫正器[矯--]
+serial-number CedPane25024
+definition brace; appliance (medical/dental)
+*** 
+pinyin jiǎozhìqì
+characters 矫治器[矯--]
+serial-number CedPane25025
+definition brace (medical)
+*** 
+pinyin jiēgǔmùhuā
+characters 接骨木花
+serial-number CedPane25026
+definition elderflower
+*** 
+pinyin jīxíng de yáchǐ
+characters 畸形的牙齿[----齒]
+serial-number CedPane25027
+definition disfigured teeth
+*** 
+pinyin kěchōngdiàn
+characters 可充电[--電]
+serial-number CedPane25028
+definition rechargeable
+*** 
+pinyin Láiyǎ
+characters 莱雅[萊-]
+serial-number CedPane25029
+definition L'Oréal (Taiwan branding)
+*** 
+pinyin lǐ-jùhéwù
+characters 锂聚合物[鋰---]
+serial-number CedPane25030
+definition lithium-polymer
+*** 
+pinyin niàngjiǔshāng
+characters 酿酒商[釀--]
+serial-number CedPane25031
+definition winemaking industry
+*** 
+pinyin Ōuláiyǎ
+characters 欧莱雅[歐萊-]
+serial-number CedPane25032
+definition L'Oréal (mainland and HK branding)
+*** 
+pinyin pògǔxìbāo
+characters 破骨细胞[--細-]
+serial-number CedPane25033
+definition osteoclasts
+*** 
+pinyin pútao qì jiǔ
+characters 葡萄气酒[--氣-]
+serial-number CedPane25034
+definition sparkling wine
+*** 
+pinyin qiúzhěnzhě
+characters 求诊者[-診-]
+serial-number CedPane25035
+definition patient (of dentist etc)
+*** 
+pinyin tàijīnshǔ
+characters 钛金属[鈦-屬]
+serial-number CedPane25036
+definition titanium
+*** 
+pinyin yáchǐ jiǎozhèngqì
+characters 牙齿矫正器[-齒矯--]
+serial-number CedPane25037
+definition dental braces
+*** 
+pinyin yájiéshí
+characters 牙结石[-結-]
+serial-number CedPane25038
+definition calculus (dental)
+*** 
+pinyin yánróngyè
+characters 盐溶液[鹽--]
+serial-number CedPane25039
+definition saltwater solution
+*** 
+pinyin yátào
+characters 牙套
+serial-number CedPane25040
+definition dental brace; orthodontic case; cap; crown
+*** 
+pinyin yázhōu
+characters 牙周
+serial-number CedPane25041
+definition gum (dental)
+*** 
+pinyin yázhōu jíbìng
+characters 牙周疾病
+serial-number CedPane25042
+definition gum disease
+*** 
+pinyin zhèngyá
+characters 正牙
+serial-number CedPane25043
+definition orthodontic
+*** 
+pinyin zhíyá
+characters 植牙
+serial-number CedPane25044
+definition (dental) implant
+*** 
+pinyin zhòngyá
+characters 种牙[種-]
+serial-number CedPane25045
+definition (dental) implant (alternate translation)
+*** 
+pinyin zuānyájī
+characters 钻牙机[鑽-機]
+serial-number CedPane25046
+definition dental drill
