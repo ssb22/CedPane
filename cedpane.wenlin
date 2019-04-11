@@ -122667,7 +122667,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-04-10
+definition CedPane: this is version 2019-04-11
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -124536,3 +124536,83 @@ pinyin zuānyájī
 characters 钻牙机[鑽-機]
 serial-number CedPane25046
 definition dental drill
+*** 
+pinyin Bǎidù Dìtú
+characters 百度地图[---圖]
+serial-number CedPane25047
+definition Baidu Maps
+*** 
+pinyin Bìlībìlī
+characters 哔哩哔哩[嗶-嗶-]
+serial-number CedPane25048
+definition Bilibili (video-sharing site)
+*** 
+pinyin Bìyīng
+characters 必应[-應]
+serial-number CedPane25049
+definition Bing (MS search brand)
+*** 
+pinyin Bìyīng Dìtú
+characters 必应地图[-應-圖]
+serial-number CedPane25050
+definition Bing Maps
+*** 
+pinyin Gǔgē Dìtú
+characters 谷歌地图[---圖]
+serial-number CedPane25051
+definition Google Maps
+*** 
+pinyin jiēdào dìtú
+characters 街道地图[---圖]
+serial-number CedPane25052
+definition road map
+*** 
+pinyin jīnzìtǎshì
+characters 金字塔式
+serial-number CedPane25053
+definition pyramid-type
+*** 
+pinyin jīnzìtǎshì tuīxiāo
+characters 金字塔式推销[-----銷]
+serial-number CedPane25054
+definition pyramid scheme
+*** 
+pinyin Kāifàng Jiētú
+characters 开放街图[開--圖]
+serial-number CedPane25055
+definition Open Street Map; OSM
+*** 
+pinyin quánměibǎidà
+characters 全美百大
+serial-number CedPane25056
+definition hugely perfectly
+*** 
+pinyin shèhuì bǎozhàng
+characters 社会保障[-會--]
+serial-number CedPane25057
+definition social security; welfare
+*** 
+pinyin Sōugǒu Dìtú
+characters 搜狗地图[---圖]
+serial-number CedPane25058
+definition Sogou Maps
+*** 
+pinyin Téngxùn Dìtú
+characters 腾讯地图[騰訊-圖]
+serial-number CedPane25059
+definition Tencent Maps
+*** 
+pinyin yíjū
+characters 宜居
+serial-number CedPane25060
+definition liveable; fit to live in
+*** 
+pinyin Yǒudào Fānyìguān
+characters 有道翻译官[---譯-]
+serial-number CedPane25061
+definition Youdao Translator; Dear Translate (app)
+*** 
+pinyin zài jiā gōngzuò
+characters 在家工作
+serial-number CedPane25062
+definition work from home

@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-04-10
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-04-11
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -1526,6 +1526,7 @@
 白云區 白云区 [Bai2 yun2_Qu1] /Baiyun District/District, Baiyun/
 百人計劃 百人计划 [Bai3_Ren2_Ji4 hua4] /Hundred Talent Programme (1994, 2018?)/Talent Programme, Hundred (1994, 2018?)/
 百度 百度 [Bai3 du4] /Baidu (company)/
+百度地圖 百度地图 [Bai3 du4_Di4 tu2] /Baidu Maps/Maps, Baidu/
 百度網盤 百度网盘 [Bai3 du4_Wang3 pan2] /Baidu Web Drive (data-storage service)/Drive, Baidu Web (data-storage service)/
 百基拉 百基拉 [Bai3 ji1 la1] /Priscilla/Prisca/
 百基拉和亞居拉 百基拉和亚居拉 [Bai3 ji1 la1_he2_Ya4 ju1 la1] /Priscilla and Aquila/Prisca and Aquila/Aquila, Priscilla and/
@@ -1973,6 +1974,7 @@
 璧克馥 璧克馥 [Bi4 ke4 fu4] /Pickford/
 璧拉 璧拉 [Bi4 la1] /Bilhah/
 辟拉 辟拉 [Bi4 la1] /Bilhah (old translation?)/
+嗶哩嗶哩 哔哩哔哩 [Bi4 li1 bi4 li1] /Bilibili (video-sharing site)/
 庇哩亞 庇哩亚 [Bi4 li3 ya4] /Beroea (older translation)/
 庇哩亞人 庇哩亚人 [Bi4 li3 ya4 ren2] /Berean/
 秘魯人 秘鲁人 [Bi4 lu3 ren2] /Peruvians/
@@ -1984,6 +1986,8 @@
 庇推尼 庇推尼 [Bi4 tui1 ni2] /Bithynia/
 碧瑤 碧瑶 [Bi4 yao2] /Baguio/
 碧瑤市 碧瑶市 [Bi4 yao2_Shi4] /Baguio (city)/
+必應 必应 [Bi4 ying1] /Bing (MS search brand)/
+必應地圖 必应地图 [Bi4 ying1_Di4 tu2] /Bing Maps/Maps, Bing/
 弼源 弼源 [Bi4 yuan2] /Björn/
 邊壩縣 边坝县 [Bian1 ba4_Xian4] /Bianba County/County, Bianba/
 編年紀上 编年纪上 [Bian1 nian2 ji4_Shang4] /1 Chronicles (book, Catholic version)/Chronicles, 1 (book, Catholic version)/
@@ -4661,6 +4665,7 @@
 古典雜志 古典杂志 [Gu3 dian3_Za2 zhi4] /The Classical Journal/Classical Journal, The/
 古典系 古典系 [Gu3 dian3 xi4] /Classics department (of a university)/department, Classics (of a university)/
 古典主義音樂 古典主义音乐 [Gu3 dian3 zhu3 yi4_yin1 yue4] /Classical music (specifically from the Classical period i.e. 18th-cenutry, not the general term)/music, Classical (specifically from the Classical period i.e. 18th-cenutry, not the general term)/
+谷歌地圖 谷歌地图 [Gu3 ge1_Di4 tu2] /Google Maps/Maps, Google/
 谷歌大 谷歌大 [Gu3 ge1 da4] /Gudgodah/
 古吉拉特 古吉拉特 [Gu3 ji2 la1 te4] /Gujarat/
 古吉拉特文 古吉拉特文 [Gu3 ji2 la1 te4 wen2] /Gujarati (written language)/
@@ -5138,7 +5143,7 @@
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-04-10/this is version 2019-04-10, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-04-11/this is version 2019-04-11, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
 漢柏 汉柏 [Han4 bo2] /Hamper (surname)/
@@ -6880,6 +6885,7 @@
 卡澤爾 卡泽尔 [Ka3 ze2 er3] /Cazères/
 卡扎爾斯 卡扎尔斯 [Ka3 zha1 er3 si1] /Cázares/
 開爾文 开尔文 [Kai1 er3 wen2] /Kelvin (Lord Kelvin)/
+開放街圖 开放街图 [Kai1 fang4_Jie1 tu2] /Open Street Map/OSM/Street Map, Open/
 開封市 开封市 [Kai1 feng1_Shi4] /Kaifeng (in Henan)/
 開福區 开福区 [Kai1 fu2_Qu1] /Kaifu District/District, Kaifu/
 開化縣 开化县 [Kai1 hua4_Xian4] /Kaihua County/County, Kaihua/
@@ -12796,6 +12802,7 @@
 松滋市 松滋市 [Song1 zi1_Shi4] /Songzi (in Hubei)/
 宋乾節 宋干节 [Song4 gan1 jie2] /Songkran (water-sprinkling festival)/
 搜狗 搜狗 [Sou1 gou3] /Sogou (company, lit. Search Dog)/
+搜狗地圖 搜狗地图 [Sou1 gou3_Di4 tu2] /Sogou Maps/Maps, Sogou/
 蘇輝 苏辉 [Su1_Hui1] /Su Hui (politician)/
 蘇埃倫 苏埃伦 [Su1 ai1 lun2] /Suellen/
 蘇埃托尼烏斯 苏埃托尼乌斯 [Su1 ai1 tuo1 ni2 wu1 si1] /Suetonius/
@@ -13344,6 +13351,7 @@
 滕納 滕纳 [Teng2 na4] /Tenneh/
 滕斯托爾 滕斯托尔 [Teng2 si1 tuo1 er3] /Tunstall/
 騰訊 腾讯 [Teng2 xun4] /Tencent (QQ company)/
+騰訊地圖 腾讯地图 [Teng2 xun4_Di4 tu2] /Tencent Maps/Maps, Tencent/
 滕州 滕州 [Teng2 zhou1] /Tengzhou (in Shandong)/
 滕州市 滕州市 [Teng2 zhou1_Shi4] /Tengzhou (in Shandong)/
 提后 提后 [Ti2_Hou4] /2Ti (abbreviation)/
@@ -16445,6 +16453,7 @@
 郵政式拼音 邮政式拼音 [You2 zheng4 shi4_Pin1 yin1] /postal romanisation (1900s-1980s)/romanisation, postal (1900s-1980s)/
 游子吟 游子吟 [You2 zi3_Yin2] /Wandering-son's Song (poem by 孟郊)/Song, Wandering-son's (poem by 孟郊)/
 友布羅 友布罗 [You3 bu4 luo2] /Eubulus/
+有道翻譯官 有道翻译官 [You3 dao4_Fan1 yi4 guan1] /Youdao Translator/Dear Translate (app)/Translator, Youdao (app)/Translate, Dear (app)/
 友好區 友好区 [You3 hao3_Qu1] /Youhao District/District, Youhao/
 友拉革羅 友拉革罗 [You3 la1 ge2 luo2] /Euroaquilo/
 友妮基 友妮基 [You3 ni1 ji1] /Eunice (Bible)/
@@ -20053,6 +20062,7 @@
 接觸管理 接触管理 [jie1 chu4_guan3 li3] /contact management/management, contact/
 接待廳 接待厅 [jie1 dai4 ting1] /reception area/area, reception/
 接單 接单 [jie1 dan1] /take orders (from customers)/orders, take (from customers)/
+街道地圖 街道地图 [jie1 dao4_di4 tu2] /road map/
 接地插腳 接地插脚 [jie1 di4_cha1 jiao3] /grounding pin/earth pin (on a plug)/pin, grounding (on a plug)/
 接骨木花 接骨木花 [jie1 gu3 mu4 hua1] /elderflower/
 接合處 接合处 [jie1 he2 chu4] /joint (mechanical)/
@@ -20137,6 +20147,8 @@
 金銀合金 金银合金 [jin1 yin2_he2 jin1] /electrum (gold-silver alloy)/
 金杖 金杖 [jin1 zhang4] /golden scepter/scepter, golden/
 金桌 金桌 [jin1 zhuo1] /gold table/table, gold/
+金字塔式 金字塔式 [jin1 zi4 ta3 shi4] /pyramid-type/
+金字塔式推銷 金字塔式推销 [jin1 zi4 ta3 shi4_tui1 xiao1] /pyramid scheme/scheme, pyramid/
 金座 金座 [jin1 zuo4] /gold socket (lit. seat)/socket, gold (lit. seat)/
 儘管如此 尽管如此 [jin3 guan3_ru2 ci3] /despite this/this, despite/
 緊急撤離 紧急撤离 [jin3 ji2_che4 li2] /(emergency) evacuation/
@@ -21618,6 +21630,7 @@
 全科醫生 全科医生 [quan2 ke1 yi1 sheng1] /general practitioner/GP/practitioner, general/
 全赖 全賴 [quan2 lai4] /wholly relying on/relying on, wholly/
 全麥粉 全麦粉 [quan2 mai4 fen3] /whole-grain flour/wholemeal flour/flour, whole-grain/
+全美百大 全美百大 [quan2 mei3 bai3 da4] /hugely perfectly/perfectly, hugely/
 全球報告 全球报告 [quan2 qiu2_bao4 gao4] /worldwide report (2003-2007)/report, worldwide (2003-2007)/
 全球工作 全球工作 [quan2 qiu2_gong1 zuo4] /worldwide work/work, worldwide/
 全球氣候變化 全球气候变化 [quan2 qiu2_qi4 hou4_bian4 hua4] /global climate change/climate change, global/
@@ -21919,6 +21932,7 @@
 涉腐 涉腐 [she4 fu3] /involvement in corruption/corruption, involvement in/
 社會安定 社会安定 [she4 hui4_an1 ding4] /integrity and security (of a country etc)/security, integrity and (of a country etc)/
 社會保險金 社会保险金 [she4 hui4_bao3 xian3 jin1] /social insurance/insurance, social/
+社會保障 社会保障 [she4 hui4_bao3 zhang4] /social security/welfare/security, social/
 社會服務 社会服务 [she4 hui4_fu2 wu4] /alternative civilian service/civilian service, alternative/
 社會企業 社会企业 [she4 hui4_qi3 ye4] /social enterprise/enterprise, social/
 社會人類學 社会人类学 [she4 hui4_ren2 lei4 xue2] /social anthropology/anthropology, social/
@@ -23843,6 +23857,7 @@
 遺傳定律 遗传定律 [yi2 chuan2_ding4 lu:4] /law of heredity/principles of genetics/heredity, law of/genetics, principles of/
 移動電子產品 移动电子产品 [yi2 dong4_dian4 zi3_chan3 pin3] /mobile devices (phones etc)/devices, mobile (phones etc)/
 移動數據 移动数据 [yi2 dong4_shu4 ju4] /mobile data/data, mobile/
+宜居 宜居 [yi2 ju1] /liveable/fit to live in/live in, fit to/
 移開尺許 移开尺许 [yi2 kai1_chi3_xu3] /held at arm's length/arm's length, held at/
 移民拘留所 移民拘留所 [yi2 min2_ju1 liu2 suo3] /immigration detention centre/detention centre, immigration/
 儀器科學與技術 仪器科学与技术 [yi2 qi4_ke1 xue2_yu3_ji4 shu4] /instrumentation science and technology/science and technology, instrumentation/
@@ -24211,6 +24226,7 @@
 在地上翻滾 在地上翻滚 [zai4_di4 shang5_fan1 gun3] /rolling on the floor/floor, rolling on the/
 在短期內 在短期内 [zai4_duan3 qi1_nei4] /quickly/in a short time/short time, in a/
 在合理的時間內 在合理的时间内 [zai4_he2 li3_de5_shi2 jian1_nei4] /in a reasonable amount of time/reasonable amount of time, in a/
+在家工作 在家工作 [zai4_jia1_gong1 zuo4] /work from home/home, work from/
 再見到 再见到 [zai4_jian4 dao4] /meet again/again, meet/
 在軍事方面 在军事方面 [zai4_jun1 shi4_fang1 mian4] /militarily/
 在哪一方面 在哪一方面 [zai4_na3_yi1_fang1 mian4] /in what way/what way, in/
