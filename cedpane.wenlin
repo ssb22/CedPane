@@ -122667,7 +122667,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-04-11
+definition CedPane: this is version 2019-04-14
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -124616,3 +124616,279 @@ pinyin zài jiā gōngzuò
 characters 在家工作
 serial-number CedPane25062
 definition work from home
+*** 
+pinyin Àicíbà
+characters 爱词霸[愛詞-]
+serial-number CedPane25063
+definition iCIBA (company)
+*** 
+pinyin chuándìzhě
+characters 传递者[傳遞-]
+serial-number CedPane25064
+definition messenger
+*** 
+pinyin cúnchǔkǎ
+characters 存储卡[-儲-]
+serial-number CedPane25065
+definition memory card
+*** 
+pinyin Hànbǎo Wáng
+characters 汉堡王[漢--]
+serial-number CedPane25066
+definition Burger King
+*** 
+pinyin jiēmì
+characters 揭密
+serial-number CedPane25067
+definition unmask; reveal secrets (of trade etc)
+*** 
+pinyin jùtòu
+characters 剧透[劇-]
+serial-number CedPane25068
+definition spoiler (plot giveaway)
+*** 
+pinyin lěngzhīshi
+characters 冷知识[--識]
+serial-number CedPane25069
+definition trivia (for quiz etc)
+*** 
+pinyin Nàtǎlā
+characters 纳塔拉[納--]
+serial-number CedPane25070
+definition Natara
+*** 
+pinyin nèizhì
+characters 内置[內-]
+serial-number CedPane25071
+environment   comp.
+definition internal
+*** 
+pinyin pīpànxìng
+characters 批判性
+serial-number CedPane25072
+definition critical (of thinking etc)
+*** 
+pinyin pīpànxìng sīwéi
+characters 批判性思维[----維]
+serial-number CedPane25073
+definition critical thought
+*** 
+pinyin qiáoshǒuyǐpàn
+characters 翘首以盼[翹---]
+serial-number CedPane25074
+definition eagerly await
+*** 
+pinyin rénkǒu liúshī
+characters 人口流失
+serial-number CedPane25075
+definition population loss (due to emmigration etc)
+*** 
+pinyin Shèngtǎbābālā
+characters 圣塔芭芭拉[聖----]
+serial-number CedPane25076
+definition Santa Barbara
+*** 
+pinyin shēn xiàn nítán
+characters 深陷泥潭
+serial-number CedPane25077
+definition in a quagmire
+*** 
+pinyin shìjiè wǔtái
+characters 世界舞台
+serial-number CedPane25078
+definition world stage
+*** 
+pinyin sònggěi nǐ
+characters 送给你[-給-]
+serial-number CedPane25079
+definition give to you
+*** 
+pinyin tàikōngmí
+characters 太空迷
+serial-number CedPane25080
+definition space enthusiast
+*** 
+pinyin tàikōngmímen
+characters 太空迷们[---們]
+serial-number CedPane25081
+definition space enthusiasts
+*** 
+pinyin xījī
+characters 吸积[-積]
+serial-number CedPane25082
+definition accretion (by black hole etc)
+*** 
+pinyin xījīpán
+characters 吸积盘[-積盤]
+serial-number CedPane25083
+definition accretion disc
+*** 
+pinyin yǐndù tiáoyuē
+characters 引渡条约[--條約]
+serial-number CedPane25084
+definition extradition treaty
+*** 
+pinyin Yīng yì Zhōng
+characters 英译中[-譯-]
+serial-number CedPane25085
+definition English-to-Chinese translation
+*** 
+pinyin yuánchuàngzhě
+characters 原创者[-創-]
+serial-number CedPane25086
+definition original creator of an artistic work etc
+*** 
+pinyin zàixiàn fānyì
+characters 在线翻译[-線-譯]
+serial-number CedPane25087
+definition online (machine) translation
+*** 
+pinyin zhìkù
+characters 智库[-庫]
+serial-number CedPane25088
+definition think tank
+*** 
+pinyin Zhōng yì Yīng
+characters 中译英[-譯-]
+serial-number CedPane25089
+definition Chinese-to-English translation
+*** 
+pinyin Àishā
+characters 艾莎
+serial-number CedPane25090
+definition Aisha
+*** 
+pinyin Āliàoshēn
+characters 阿廖申
+serial-number CedPane25091
+definition Alyoshin
+*** 
+pinyin Àodàlì
+characters 奥大利[奧--]
+serial-number CedPane25092
+definition Austria (old translation)
+*** 
+pinyin Biékèzhātè
+characters 别克扎特[別---]
+serial-number CedPane25093
+definition Bekzat
+*** 
+pinyin Èsīkèmén
+characters 厄斯克门[---門]
+serial-number CedPane25094
+definition Öskemen
+*** 
+pinyin Gélādéshèfū
+characters 格拉德舍夫
+serial-number CedPane25095
+definition Gladyshev
+*** 
+pinyin Kāngnǎidígé Zhōu
+characters 康乃狄格州
+serial-number CedPane25096
+definition Connecticut (old translation)
+*** 
+pinyin Kùdàibèigēn
+characters 库代贝根[庫-貝-]
+serial-number CedPane25097
+definition Kudaibergen
+*** 
+pinyin Kùsītǎnài
+characters 库斯塔奈[庫---]
+serial-number CedPane25098
+definition Qostanay
+*** 
+pinyin Luólín
+characters 罗琳[羅-]
+serial-number CedPane25099
+definition Rowling
+*** 
+pinyin méitǐ jìzhě
+characters 媒体记者[-體記-]
+serial-number CedPane25100
+definition journalists
+*** 
+pinyin Niǔmǎkètè
+characters 纽马克特[紐馬--]
+serial-number CedPane25101
+definition Newmarket
+*** 
+pinyin Nǔ'ěrlán
+characters 努尔兰[-爾蘭]
+serial-number CedPane25102
+definition Nurlan
+*** 
+pinyin Pèitèkèwéiqí
+characters 佩特克维奇[---維-]
+serial-number CedPane25103
+definition Petkevich
+*** 
+pinyin qiánhòuzuò
+characters 前后座
+serial-number CedPane25104
+definition tandem-seated
+*** 
+pinyin Qímǔkěntè
+characters 奇姆肯特
+serial-number CedPane25105
+definition Shymkent
+*** 
+pinyin Sà'ěrsēnbāyēfū
+characters 萨尔森巴耶夫[薩爾----]
+serial-number CedPane25106
+definition Sarsenbayev
+*** 
+pinyin Sàníyà
+characters 萨尼亚[薩-亞]
+serial-number CedPane25107
+definition Saniya
+*** 
+pinyin Sèmǐyī
+characters 塞米伊
+serial-number CedPane25108
+definition Semey
+*** 
+pinyin shuāngrén zìxíngchē
+characters 双人自行车[雙---車]
+serial-number CedPane25109
+definition tandem bicycle
+*** 
+pinyin Sīmǎgǔluòfū
+characters 斯马古洛夫[-馬---]
+serial-number CedPane25110
+definition Smagulov
+*** 
+pinyin Tǎ'ěrdíkù'ěrgān
+characters 塔尔迪库尔干[-爾-庫爾-]
+serial-number CedPane25111
+definition Taldyqorghan
+*** 
+pinyin Tǎlāzī
+characters 塔拉兹[--茲]
+serial-number CedPane25112
+definition Taraz
+*** 
+pinyin xìngfànzuìzhě
+characters 性犯罪者
+serial-number CedPane25113
+definition sex offender
+*** 
+pinyin xuéxí zhǎngwò
+characters 学习掌握[學習--]
+serial-number CedPane25114
+definition learn and master
+*** 
+pinyin Yǎkēfūlièwá
+characters 雅科夫列娃
+serial-number CedPane25115
+definition Yakovleva
+*** 
+pinyin yújiā de lìliang
+characters 瑜伽的力量
+serial-number CedPane25116
+definition yogic power
+*** 
+pinyin Zànbādù
+characters 赞巴杜[贊--]
+serial-number CedPane25117
+definition Zimbardo
