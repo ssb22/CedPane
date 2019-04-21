@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-04-19
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-04-21
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -4314,6 +4314,7 @@
 港珠澳大橋 港珠澳大桥 [Gang3 Zhu1 Ao4_Da4 qiao2] /HKZM bridge/Hong Kong-Zhuhai-Macao bridge/bridge, HKZM/Kong-Zhuhai-Macao bridge, Hong/
 崗巴縣 岗巴县 [Gang3 ba1_Xian4] /Gangba County/County, Gangba/
 港北區 港北区 [Gang3 bei3_Qu1] /Gangbei District/District, Gangbei/
+港交所 港交所 [Gang3 jiao1 suo3] /HKEX (stock)/
 港口區 港口区 [Gang3 kou3_Qu1] /Gangkou District/District, Gangkou/
 港南區 港南区 [Gang3 nan2_Qu1] /Gangnan District/District, Gangnan/
 港閘區 港闸区 [Gang3 zha2_Qu1] /Gangzha District/District, Gangzha/
@@ -4827,6 +4828,7 @@
 國安部 国安部 [Guo2 an1 bu4] /MGB (older name of KGB)/
 國安會 国安会 [Guo2 an1 hui4] /KGB/
 國潮 国潮 [Guo2 chao2] /China-designed fashion (as opposed to foreign brands of clothing etc)/fashion, China-designed (as opposed to foreign brands of clothing etc)/
+國防科技大學 国防科技大学 [Guo2 fang2_Ke1 ji4_Da4 xue2] /National University of Defense Technology/NUDT/University of Defense Technology, National/
 國際標準聖經百科全書 国际标准圣经百科全书 [Guo2 ji4_Biao1 zhun3_Sheng4 jing1_Bai3 ke1 quan2 shu1] /International Standard Bible Encyclopedia/Standard Bible Encyclopedia, International/
 國際會議中心 国际会议中心 [Guo2 ji4_Hui4 yi4_Zhong1 xin1] /International Convention Center/Convention Center, International/
 國際禁止地雷運動 国际禁止地雷运动 [Guo2 ji4_Jin4 zhi3_Di4 lei2_Yun4 dong4] /International Campaign to Ban Landmines/Campaign to Ban Landmines, International/
@@ -4842,6 +4844,7 @@
 國家安全委員會 国家安全委员会 [Guo2 jia1_An1 quan2_Wei3 yuan2 hui4] /KGB/
 國家地理 国家地理 [Guo2 jia1_Di4 li3] /National Geographic/Geographic, National/
 國家航天局 国家航天局 [Guo2 jia1_Hang2 tian1_Ju2] /China National Space Administration/CNSA/National Space Administration, China/
+國家會展中心 国家会展中心 [Guo2 jia1_Hui4_Zhan3_Zhong1 xin1] /National Exhibition and Convention Centre (Shanghai)/Exhibition and Convention Centre, National (Shanghai)/
 國家人權委員會 国家人权委员会 [Guo2 jia1_Ren2 quan2_Wei3 yuan2 hui4] /National Human Rights Committee/Human Rights Committee, National/
 國家衛生研究院 国家卫生研究院 [Guo2 jia1_Wei4 sheng1_Yan2 jiu1 yuan4] /National Institute for Health Research/NIHR/Institute for Health Research, National/
 國立公共資訊圖書館 国立公共资讯图书馆 [Guo2 li4_Gong1 gong4_Zi1 xun4_Tu2 shu1 guan3] /National Library of Public Information/Library of Public Information, National/
@@ -5164,7 +5167,7 @@
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-04-19/this is version 2019-04-19, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-04-21/this is version 2019-04-21, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
@@ -7879,6 +7882,7 @@
 朗特里 朗特里 [Lang3 te4 li3] /Rowntree/
 朗伊爾 朗伊尔 [Lang3 yi1 er3] /Longyearbian/
 朗伊羅阿 朗伊罗阿 [Lang3 yi1 luo2 a1] /Rangiroa/
+浪潮集團 浪潮集团 [Lang4 chao2_Ji2 tuan2] /Inspur Group (datacentres etc)/Group, Inspur (datacentres etc)/
 浪卡子縣 浪卡子县 [Lang4 qia3 zi3_Xian4] /Langqiazi County/County, Langqiazi/
 閬中 阆中 [Lang4 zhong1] /Langzhong (in Sichuan)/
 閬中市 阆中市 [Lang4 zhong1_Shi4] /Langzhong (in Sichuan)/
@@ -8288,6 +8292,8 @@
 連山區 连山区 [Lian2 shan1_Qu1] /Lianshan District/District, Lianshan/
 漣水縣 涟水县 [Lian2 shui3_Xian4] /Lianshui (county, in Jiangsu)/
 濂溪區 濂溪区 [Lian2 xi1_Qu1] /Lianxi District/District, Lianxi/
+聯想公司 联想公司 [Lian2 xiang3_Gong1 si1] /Lenovo (company)/
+聯想集團 联想集团 [Lian2 xiang3_Ji2 tuan2] /Lenovo Group/Group, Lenovo/
 漣源 涟源 [Lian2 yuan2] /Lianyuan (in Hunan)/
 漣源市 涟源市 [Lian2 yuan2_Shi4] /Lianyuan (in Hunan)/
 連云區 连云区 [Lian2 yun2_Qu1] /Lianyun District/District, Lianyun/
@@ -8830,7 +8836,7 @@
 羅江縣 罗江县 [Luo2 jiang1_Xian4] /Luojiang (county, in Sichuan)/
 羅傑 罗杰 [Luo2 jie2] /Roger/
 羅傑森 罗杰森 [Luo2 jie2 sen1] /Rogerson/
-羅傑斯 罗杰斯 [Luo2 jie2 si1] /Rogers/
+羅傑斯 罗杰斯 [Luo2 jie2 si1] /Rogers/Rodgers/
 邏輯語 逻辑语 [Luo2 ji5 yu3] /Lojban (language)/
 羅克漢普頓 罗克汉普顿 [Luo2 ke4 han4 pu3 dun4] /Rockhampton/
 羅克桑娜 罗克桑娜 [Luo2 ke4 sang1 na4] /Roxana/
@@ -14058,6 +14064,7 @@
 渭南市 渭南市 [Wei4 nan2_Shi4] /Weinan (in Shaanxi)/
 衛塞節 卫塞节 [Wei4 sai1 jie2] /Vesak (day)/
 尉氏縣 尉氏县 [Wei4 shi4_Xian4] /Weishi (county, in Henan)/
+魏斯科普夫 魏斯科普夫 [Wei4 si1 ke1 pu3 fu1] /Weisskopf/
 衛斯理 卫斯理 [Wei4 si1 li3] /Wesley/
 未央區 未央区 [Wei4 yang1_Qu1] /Weiyang District/District, Weiyang/
 渭源縣 渭源县 [Wei4 yuan2_Xian4] /Weiyuan (county, in Gansu)/
@@ -16295,6 +16302,7 @@
 音樂百科全書 音乐百科全书 [Yin1 yue4_Bai3 ke1 quan2 shu1] /The Encyclopedia of Music/Encyclopedia of Music, The/
 銀川市 银川市 [Yin2 chuan1_Shi4] /Yinchuan (in Ningxia)/
 銀海區 银海区 [Yin2 hai3_Qu1] /Yinhai District/District, Yinhai/
+銀河麒麟 银河麒麟 [Yin2 he2_Qi2 lin2] /NeoKylin (pre-Ubuntu)/
 銀河系中心 银河系中心 [Yin2 he2 xi4_zhong1 xin1] /Milky Way galactic centre/galactic centre, Milky Way/
 鄞州區 鄞州区 [Yin2 zhou1_Qu1] /Yinzhou District/District, Yinzhou/
 銀州區 银州区 [Yin2 zhou1_Qu1] /Yinzhou (district, in Liaoning)/
@@ -16429,6 +16437,7 @@
 永修縣 永修县 [Yong3 xiu1_Xian4] /Yongxiu (county, in Jiangxi)/
 永州 永州 [Yong3 zhou1] /Yongzhou (in Hunan)/
 永州市 永州市 [Yong3 zhou1_Shi4] /Yongzhou (in Hunan)/
+優麒麟 优麒麟 [You1_Qi2 lin2] /Ubuntu Kylin/Kylin, Ubuntu/
 攸縣 攸县 [You1_Xian4] /You County/County, You/
 優酷 优酷 [You1 ku4] /Youku (company)/
 幽靈公主 幽灵公主 [You1 ling2_Gong1 zhu3] /Princess Mononoke (ghost princess)/Mononoke, Princess (ghost princess)/
@@ -16972,6 +16981,7 @@
 中英雙語 中英双语 [Zhong1 Ying1_shuang1 yu3] /Chinese-English bilingual/bilingual, Chinese-English/
 中英文 中英文 [Zhong1 Ying1 wen2] /Chinese and English (printed together)/English, Chinese and (printed together)/
 中越戰爭 中越战争 [Zhong1 Yue4_Zhan4 zheng1] /Sino-Vietnamese War (1979)/
+中標麒麟 中标麒麟 [Zhong1 biao1_Qi2 lin2] /NeoKylin (pre-Ubuntu)/
 中方縣 中方县 [Zhong1 fang1_Xian4] /Zhongfang County/County, Zhongfang/
 中古法語 中古法语 [Zhong1 gu3_Fa3 yu3] /Middle French/French, Middle/
 中古英語 中古英语 [Zhong1 gu3_Ying1 yu3] /Middle English/English, Middle/
@@ -17391,7 +17401,9 @@
 抱去 抱去 [bao4 qu5] /take away (in one's embrace, e.g. a child)/away, take (in one's embrace, e.g. a child)/
 報時錶 报时表 [bao4 shi2_biao3] /talking watch/watch, talking/
 暴徒行凶 暴徒行凶 [bao4 tu2_xing2 xiong1] /mob rule/rule, mob/
+鮑魚菇 鲍鱼菇 [bao4 yu2 gu1] /tree oyster mushroom/oyster mushroom, tree/
 爆炸品 爆炸品 [bao4 zha4 pin3] /explosives/
+爆炸浴鹽 爆炸浴盐 [bao4 zha4 yu4 yan2] /bath bomb/bomb, bath/
 報章宣傳 报章宣传 [bao4 zhang1_xuan1 chuan2] /newspaper advertising/advertising, newspaper/
 報紙專欄 报纸专栏 [bao4 zhi3_zhuan1 lan2] /newspaper column/column, newspaper/
 抱走 抱走 [bao4 zou3] /leave while embracing (a child etc)/while embracing, leave (a child etc)/
@@ -17405,6 +17417,7 @@
 卑微的人 卑微的人 [bei1 wei1_de5_ren2] /lowly ones/ones, lowly/
 卑微人 卑微人 [bei1 wei1 ren2] /lowly ones (version used when 的 is to follow)/ones, lowly (version used when 的 is to follow)/
 北端 北端 [bei3 duan1] /northern extremity/extremity, northern/
+北風菌 北风菌 [bei3 feng1 jun1] /tree oyster mushroom/oyster mushroom, tree/
 北樓 北楼 [bei3 lou2] /north tower (of the World Trade Centre)/tower, north (of the World Trade Centre)/
 北門樓 北门楼 [bei3 men2 lou2] /north gate/gate, north/
 被逮捕 被逮捕 [bei4_dai4 bu3] /be arrested/arrested, be/
@@ -17505,6 +17518,7 @@
 臂彎 臂弯 [bi4 wan1] /arms (curved around sthg)/
 必朽 必朽 [bi4 xiu3] /corruptible (as opposed to incorruptible)/
 碧玉石 碧玉石 [bi4 yu4 shi2] /jasper stone/stone, jasper/
+閉源 闭源 [bi4 yuan2] /closed-source/
 閉嘴不言 闭嘴不言 [bi4 zui3 bu4 yan2] /restrain one's lips and not talk/one's lips and not talk, restrain/
 邊裁 边裁 [bian1 cai2] /border judge (in badminton)/judge, border (in badminton)/
 編程 编程 [bian1 cheng2] /programming/
@@ -17762,6 +17776,7 @@
 餐套 餐套 [can1 tao4] /dinnerware set/dinner set/set, dinnerware/
 參與 参与 [can1 yu4] /play our part in/part in, play our/
 參與政治 参与政治 [can1 yu4_zheng4 zhi4] /become involved in politics/involved in politics, become/
+參展公司 参展公司 [can1 zhan3_gong1 si1] /participant companies (at expo)/companies, participant (at expo)/
 餐桌禮儀 餐桌礼仪 [can1 zhuo1_li3 yi2] /table manners/manners, table/
 殘干 残干 [can2 gan1] /stump/
 殘稈 残秆 [can2 gan3] /stubble (of thorns etc)/
@@ -18174,7 +18189,7 @@
 刺入 刺入 [ci4 ru4] /stab into/
 刺山柑 刺山柑 [ci4 shan1 gan1] /caper berry/berry, caper/
 刺藤 刺藤 [ci4 teng2] /brier/
-刺透 刺透 [ci4 tou4] /stab thoroughly/thoroughly, stab/
+刺透 刺透 [ci4 tou4] /stab through/run through (with a sword)/through, stab (with a sword)/
 次位 次位 [ci4 wei4] /second place/place, second/
 賜下 赐下 [ci4 xia5] /give|provide (from superior to inferior)/
 匆匆略過 匆匆略过 [cong1 cong1_lu:e4 guo4] /skim over/over, skim/
@@ -18211,6 +18226,7 @@
 搭乘飛機 搭乘飞机 [da1 cheng2_fei1 ji1] /flying (travel by aircraft)/
 達萊特 达莱特 [da2 lai2 te4] /daleth/dalet (Hebrew letter)/
 達利克 达利克 [da2 li4 ke4] /daric/
+答謝宴 答谢宴 [da2 xie4 yan4] /reciprocal banquet (after wedding etc)/banquet, reciprocal (after wedding etc)/
 打耳洞 打耳洞 [da3_er3 dong4] /get ears pierced/ears pierced, get/
 打飛機 打飞机 [da3_fei1 ji1] /masturbate/
 打個賭 打个赌 [da3_ge5_du3] /make a wager/wager, make a/
@@ -18635,6 +18651,7 @@
 定型化契約 定型化契约 [ding4 xing2 hua4_qi4 yue1] /boilerplate contract/standardized contract/contract, boilerplate/
 定意 定意 [ding4 yi4] /purpose (as a verb)/
 訂閱 订阅 [ding4 yue4] /subscription (to magazines etc)/
+定制化 定制化 [ding4 zhi4 hua4] /customisation/
 丟到 丢到 [diu1 dao4] /throw (away) to/
 丟進 丢进 [diu1 jin4] /pitch (a body) into (losing it)/
 丟入 丢入 [diu1 ru4] /throw (away) into/
@@ -19521,6 +19538,7 @@
 航拍 航拍 [hang2 pai1] /aerial photography/photography, aerial/
 航神 航神 [hang2 shen2] /(fig.) above and beyond/beyond, above and/
 毫不理會 毫不理会 [hao2 bu4 li3 hui4] /couldn't care less/took no note/care less, couldn't/note, took no/
+蚝菇 蚝菇 [hao2 gu1] /tree oyster mushroom/oyster mushroom, tree/
 號啕大哭 号啕大哭 [hao2 tao2 da4 ku1] /raise voice and weep/voice and weep, raise/
 毫無意義 毫无意义 [hao2 wu2_yi4 yi4] /meaningless/pointless/
 毫無用處 毫无用处 [hao2 wu2_yong4 chu5] /good for nothing/nothing, good for/
@@ -19608,6 +19626,7 @@
 紅玫瑰 红玫瑰 [hong2_mei2 gui5] /red rose/rose, red/
 紅白波 红白波 [hong2 bai2_bo1] /watermelon ball (HK sports ball)/ball, watermelon (HK sports ball)/
 紅斑狼瘡 红斑狼疮 [hong2 ban1_lang2 chuang1] /lupus/
+宏包 宏包 [hong2 bao1] /LaTeX package/package, LaTeX/
 紅超巨星 红超巨星 [hong2 chao1 ju4 xing1] /red supergiant (star)/supergiant, red (star)/
 紅綢 红绸 [hong2 chou2] /red sari/sari, red/
 紅腹濱鷸 红腹滨鹬 [hong2 fu4 bin1 yu4] /red knot (type of seabird)/knot, red (type of seabird)/
@@ -19755,6 +19774,7 @@
 回港 回港 [hui2 gang3] /return to Hong Kong (from a trip)/Hong Kong, return to (from a trip)/
 回聲定位法 回声定位法 [hui2 sheng1_ding4 wei4 fa3] /echo location/location, echo/
 回收區 回收区 [hui2 shou1 qu1] /recycling area/area, recycling/
+回溯法 回溯法 [hui2 su4 fa3] /backtracking/
 回想起 回想起 [hui2 xiang3 qi3] /remember/recall/think of again/again, think of/
 回旋處 回旋处 [hui2 xuan2 chu4] /roundabout (for traffic)/
 回應率 回应率 [hui2 ying4 lu:4] /response rate (to survey etc)/rate, response (to survey etc)/
@@ -20503,6 +20523,7 @@
 科研項目 科研项目 [ke1 yan2_xiang4 mu4] /(scientific) research project/project, research/
 科研院所 科研院所 [ke1 yan2_yuan4 suo3] /research institute/institute, research/
 殼仔弦 壳仔弦 [ke2 zi3 xian2] /kezixian (bowed instrument used in Taiwan regional opera)/
+可持續 可持续 [ke3_chi2 xu4] /can last/sustained/sustainable/last, can/
 可供選擇 可供选择 [ke3_gong1_xuan3 ze2] /optional (lit. can-use option?)/
 可觀測宇宙 可观测宇宙 [ke3_guan1 ce4_yu3 zhou4] /observable universe/universe, observable/
 可說是 可说是 [ke3_shuo1_shi4] /can say it is/
@@ -20926,6 +20947,7 @@
 驢腮骨 驴腮骨 [lu:2 sai1 gu3] /jawbone of an ass/
 屢試屢敗 屡试屡败 [lu:3_shi4_lu:3_bai4] /repeatedly tried and failed/tried and failed, repeatedly/
 旅游景點 旅游景点 [lu:3 you2_jing3 dian3] /tourist attraction/attraction, tourist/
+旅游局 旅游局 [lu:3 you2 ju2] /tourist board/board, tourist/
 旅游團 旅游团 [lu:3 you2 tuan2] /tour group/group, tour/
 旅游者 旅游者 [lu:3 you2 zhe3] /tourist/
 綠閃光 绿闪光 [lu:4_shan3 guang1] /green flash (in sunset)/flash, green (in sunset)/
@@ -21514,6 +21536,7 @@
 平版印刷機 平版印刷机 [ping2 ban3_yin4 shua1 ji1] /lithographic web-offset press/web-offset press, lithographic/
 平凡人 平凡人 [ping2 fan2 ren2] /commonplace men/
 平方釐米 平方厘米 [ping2 fang1_li2 mi3] /square centimetre/centimetre, square/
+平菇 平菇 [ping2 gu1] /tree oyster mushroom/oyster mushroom, tree/
 蘋果醋 苹果醋 [ping2 guo3_cu4] /apple cider vinegar/cider vinegar, apple/
 蘋果派 苹果派 [ping2 guo3_pai4] /apple pie (alternative version?)/
 蘋果樹 苹果树 [ping2 guo3 shu4] /apple tree/tree, apple/
@@ -21586,6 +21609,7 @@
 氣焊槍 气焊枪 [qi4 han4 qiang1] /industrial gas torch/torch, industrial gas/
 砌好 砌好 [qi4 hao3] /laid (of brickwork)/
 氣候劇變 气候剧变 [qi4 hou4_ju4 bian4] /runaway climate change/climate change, runaway/
+氣泡彈 气泡弹 [qi4 pao4 dan4] /bath bomb/bomb, bath/
 氣象信息 气象信息 [qi4 xiang4_xin4 xi1] /weather information/meterological information/information, weather/
 氣象資料 气象资料 [qi4 xiang4_zi1 liao4] /meterological data/weather data/data, meterological/
 汽油費 汽油费 [qi4 you2 fei4] /cost of fuel/fuel, cost of/
@@ -21787,6 +21811,7 @@
 惹人厭惡 惹人厌恶 [re3 ren2_yan4 wu4] /abhorrent/
 熱巧克力 热巧克力 [re4_qiao3 ke4 li4] /hot chocolate/chocolate, hot/
 熱詞 热词 [re4 ci2] /popular word/trending word/word, popular/
+熱帶地區 热带地区 [re4 dai4_di4 qu1] /the Tropics/Tropics, the/
 熱帶疾病 热带疾病 [re4 dai4_ji2 bing4] /tropical diseases/diseases, tropical/
 熱帶氣旋 热带气旋 [re4 dai4_qi4 xuan2] /tropical cyclone/cyclone, tropical/
 熱帶水果 热带水果 [re4 dai4_shui3 guo3] /tropical fruits/fruits, tropical/
@@ -21911,6 +21936,7 @@
 軟件公司 软件公司 [ruan3 jian4_gong1 si1] /software companies/companies, software/
 軟件設計師 软件设计师 [ruan3 jian4_she4 ji4 shi1] /software designer/designer, software/
 軟件許可條款 软件许可条款 [ruan3 jian4_xu3 ke3_tiao2 kuan3] /software license terms/license terms, software/
+軟體包 软体包 [ruan3 ti3 bao1] /software package/package, software/
 潤膚 润肤 [run4 fu1] /moist skin (?)/skin, moist (?)/
 弱核力 弱核力 [ruo4 he2 li4] /weak nuclear force/nuclear force, weak/
 弱症 弱症 [ruo4 zheng4] /infirmity/
@@ -22794,6 +22820,7 @@
 天使長 天使长 [tian1 shi3 zhang3] /archangel/
 天使長米迦勒 天使长米迦勒 [tian1 shi3 zhang3_Mi3 jia1 le4] /Michael the archangel/archangel, Michael the/
 天體物理學家 天体物理学家 [tian1 ti3_wu4 li3 xue2 jia1] /astrophysicist/
+天喜菇 天喜菇 [tian1 xi3 gu1] /tree oyster mushroom/oyster mushroom, tree/
 天云 天云 [tian1 yun2] /clouds of the heavens/heavens, clouds of the/
 甜餅 甜饼 [tian2 bing3] /sweet cake/cake, sweet/
 填好 填好 [tian2 hao3] /fill in (a form)/
@@ -23091,6 +23118,8 @@
 網上聊天室 网上聊天室 [wang3 shang4_liao2 tian1 shi4] /Internet chat rooms/chat rooms, Internet/
 網上欺凌 网上欺凌 [wang3 shang4_qi1 ling2] /cyberbullying/
 網上視頻 网上视频 [wang3 shang4_shi4 pin2] /Internet video service/video service, Internet/
+網頁版 网页版 [wang3 ye4 ban3] /Web edition (of app etc)/edition, Web (of app etc)/
+網頁版微信 网页版微信 [wang3 ye4 ban3_Wei1 xin4] /WeChat for Web/
 網志 网志 [wang3 zhi4] /blog (alternative translation)/
 望去 望去 [wang4 qu5] /face toward/toward, face/
 妄自 妄自 [wang4 zi4] /presumptuously/
@@ -23116,6 +23145,7 @@
 為敵 为敌 [wei2 di2] /become enemy/enemy, become/
 違反憲法 违反宪法 [wei2 fan3_xian4 fa3] /violate the constitution/be unconstitutional (US legal term)/constitution, violate the (US legal term)/unconstitutional, be (US legal term)/
 維護法紀 维护法纪 [wei2 hu4_fa3 ji4] /maintenance of the rule of law/rule of law, maintenance of the/
+維護者 维护者 [wei2 hu4 zhe3] /maintainer/
 為懷 为怀 [wei2 huai2] /become full-bosomed of (?)/full-bosomed of, become (?)/
 維基 维基 [wei2 ji1] /wiki/
 違禁藥物 违禁药物 [wei2 jin4_yao4 wu4] /illicit drugs/drugs, illicit/
@@ -23728,6 +23758,7 @@
 宣傳人員 宣传人员 [xuan1 chuan2_ren2 yuan2] /publicity agents/promoters/agents, publicity/
 宣傳片 宣传片 [xuan1 chuan2 pian4] /publicity film/propaganda film/film, publicity/
 喧嘩擾攘 喧哗扰攘 [xuan1 hua2 rao3 rang3] /tumult/
+宣介會 宣介会 [xuan1 jie4 hui4] /promotional introduction event/introduction event, promotional/
 玄秘術 玄秘术 [xuan2 mi4_shu4] /occultism/
 漩渦星系 漩涡星系 [xuan2 wo1_xing1 xi4] /spiral galaxy/galaxy, spiral/
 選邊站 选边站 [xuan3 bian1 zhan4] /take sides/sides, take/
@@ -24028,6 +24059,7 @@
 以先 以先 [yi3 xian1] /ahead of/before (someone or something)/
 亦即係話 亦即系话 [yi4_ji2 xi4_hua4] /in other words (Cantonese version)/other words, in (Cantonese version)/
 易用 易用 [yi4_yong4] /easy to use/
+亦稱 亦称 [yi4 cheng1] /also called/called, also/
 義道 义道 [yi4 dao4] /the path of justice (?)/path of justice, the (?)/
 翼碟 翼碟 [yi4 die2] /winged sun disc/disc, winged sun/
 易讀的字體 易读的字体 [yi4 du2_de5_zi4 ti3] /easy-to-read type (as opposed to heavy Gothic font)/type, easy-to-read (as opposed to heavy Gothic font)/

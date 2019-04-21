@@ -10409,7 +10409,7 @@ definition female (creature)
 pinyin cìtòu
 characters 刺透
 serial-number CedPane2086
-definition stab thoroughly
+definition stab through; run through (with a sword)
 *** 
 pinyin cìwèi
 characters 次位
@@ -31590,7 +31590,7 @@ definition Rogerson
 pinyin Luójiésī
 characters 罗杰斯[羅傑-]
 serial-number CedPane6331
-definition Rogers
+definition Rogers; Rodgers
 *** 
 pinyin Luójīlín
 characters 罗基琳[羅--]
@@ -122667,7 +122667,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-04-19
+definition CedPane: this is version 2019-04-21
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -125414,3 +125414,167 @@ pinyin yòuyìwéi
 characters 又译为[-譯為]
 serial-number CedPane25221
 definition also translated as
+*** 
+pinyin bàoyúgū
+characters 鲍鱼菇[鮑魚-]
+serial-number CedPane25222
+definition tree oyster mushroom
+*** 
+pinyin bàozhàyùyán
+characters 爆炸浴盐[---鹽]
+serial-number CedPane25223
+definition bath bomb
+*** 
+pinyin běifēngjūn
+characters 北风菌[-風-]
+serial-number CedPane25224
+definition tree oyster mushroom
+*** 
+pinyin bìyuán
+characters 闭源[閉-]
+serial-number CedPane25225
+environment   comp.
+definition closed-source
+*** 
+pinyin cānzhǎn gōngsī
+characters 参展公司[參---]
+serial-number CedPane25226
+definition participant companies (at expo)
+*** 
+pinyin dáxièyàn
+characters 答谢宴[-謝-]
+serial-number CedPane25227
+definition reciprocal banquet (after wedding etc)
+*** 
+pinyin dìngzhìhuà
+characters 定制化
+serial-number CedPane25228
+definition customisation
+*** 
+pinyin Gǎngjiāosuǒ
+characters 港交所
+serial-number CedPane25229
+definition HKEX (stock)
+*** 
+pinyin Guófáng Kējì Dàxué
+characters 国防科技大学[國----學]
+serial-number CedPane25230
+definition National University of Defense Technology; NUDT
+*** 
+pinyin Guójiā Huì Zhǎn Zhōngxīn
+characters 国家会展中心[國-會---]
+serial-number CedPane25231
+definition National Exhibition and Convention Centre (Shanghai)
+*** 
+pinyin háogū
+characters 蚝菇
+serial-number CedPane25232
+definition tree oyster mushroom
+*** 
+pinyin hóngbāo
+characters 宏包
+serial-number CedPane25233
+environment   comp.
+definition LaTeX package
+*** 
+pinyin huísùfǎ
+characters 回溯法
+serial-number CedPane25234
+environment   comp.
+definition backtracking
+*** 
+pinyin kě chíxù
+characters 可持续[--續]
+serial-number CedPane25235
+definition can last; sustained; sustainable
+*** 
+pinyin Làngcháo Jítuán
+characters 浪潮集团[---團]
+serial-number CedPane25236
+definition Inspur Group (datacentres etc)
+*** 
+pinyin Liánxiǎng Gōngsī
+characters 联想公司[聯---]
+serial-number CedPane25237
+definition Lenovo (company)
+*** 
+pinyin Liánxiǎng Jítuán
+characters 联想集团[聯--團]
+serial-number CedPane25238
+definition Lenovo Group
+*** 
+pinyin lǚyóujú
+characters 旅游局
+serial-number CedPane25239
+definition tourist board
+*** 
+pinyin pínggū
+characters 平菇
+serial-number CedPane25241
+definition tree oyster mushroom
+*** 
+pinyin qìpàodàn
+characters 气泡弹[氣-彈]
+serial-number CedPane25242
+definition bath bomb
+*** 
+pinyin rèdài dìqū
+characters 热带地区[熱帶-區]
+serial-number CedPane25243
+definition the Tropics
+*** 
+pinyin ruǎntǐbāo
+characters 软体包[軟體-]
+serial-number CedPane25244
+environment   comp./TW
+definition software package
+*** 
+pinyin tiānxǐgū
+characters 天喜菇
+serial-number CedPane25245
+definition tree oyster mushroom
+*** 
+pinyin wǎngyèbǎn
+characters 网页版[網頁-]
+serial-number CedPane25246
+definition Web edition (of app etc)
+*** 
+pinyin wǎngyèbǎn Wēixìn
+characters 网页版微信[網頁---]
+serial-number CedPane25247
+definition WeChat for Web
+*** 
+pinyin wéihùzhě
+characters 维护者[維護-]
+serial-number CedPane25248
+definition maintainer
+*** 
+pinyin Wèisīkēpǔfū
+characters 魏斯科普夫
+serial-number CedPane25249
+definition Weisskopf
+*** 
+pinyin xuānjièhuì
+characters 宣介会[--會]
+serial-number CedPane25250
+definition promotional introduction event
+*** 
+pinyin yìchēng
+characters 亦称[-稱]
+serial-number CedPane25251
+definition also called
+*** 
+pinyin Yínhé Qílín
+characters 银河麒麟[銀---]
+serial-number CedPane25252
+definition NeoKylin (pre-Ubuntu)
+*** 
+pinyin Yōu Qílín
+characters 优麒麟[優--]
+serial-number CedPane25253
+definition Ubuntu Kylin
+*** 
+pinyin Zhōngbiāo Qílín
+characters 中标麒麟[-標--]
+serial-number CedPane25254
+definition NeoKylin (pre-Ubuntu)
