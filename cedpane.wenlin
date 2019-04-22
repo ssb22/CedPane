@@ -122667,7 +122667,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-04-21
+definition CedPane: this is version 2019-04-22
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -125578,3 +125578,134 @@ pinyin Zhōngbiāo Qílín
 characters 中标麒麟[-標--]
 serial-number CedPane25254
 definition NeoKylin (pre-Ubuntu)
+*** 
+pinyin memedā
+characters 么么哒[麼麼噠]
+serial-number CedPane25255
+environment   onomat.
+definition kiss; XX
+*** 
+pinyin miǎnzé shēngmíng
+characters 免责声明[-責聲-]
+serial-number CedPane25256
+definition disclaimer
+*** 
+pinyin quán míngxīng
+characters 全明星
+serial-number CedPane25257
+definition all-star (cast etc)
+*** 
+pinyin xuéxíshì
+characters 学习室[學習-]
+serial-number CedPane25258
+definition study room
+*** 
+pinyin zī zhèngmíng
+characters 兹证明[茲證-]
+serial-number CedPane25259
+definition this is to certify (wording used on certificates)
+*** 
+pinyin Ā'ěrhàngé'ěrsīkè
+characters 阿尔汉格尔斯克[-爾漢-爾--]
+serial-number CedPane25260
+definition Arkhangel'sk
+*** 
+pinyin Bàolǐsuǒwéiqí
+characters 鲍里索维奇[鮑--維-]
+serial-number CedPane25261
+definition Borisovich
+*** 
+pinyin bèi gélí
+characters 被隔离[--離]
+serial-number CedPane25262
+definition quarantined
+*** 
+pinyin Bōgédānnuòfū
+characters 波格丹诺夫[---諾-]
+serial-number CedPane25263
+definition Bogdanov
+*** 
+pinyin chuánrǎnxìng jíbìng
+characters 传染性疾病[傳----]
+serial-number CedPane25264
+definition communicable disease
+*** 
+pinyin Éluósīyǔ
+characters 俄罗斯语[-羅-語]
+serial-number CedPane25265
+definition Russian language
+*** 
+pinyin gěifàng
+characters 给放[給-]
+serial-number CedPane25266
+definition set free (from prison etc)
+*** 
+pinyin Gélièbù
+characters 格列布
+serial-number CedPane25267
+definition Gleb
+*** 
+pinyin Gēnnàjìyēfūnà
+characters 根娜季耶夫娜
+serial-number CedPane25268
+definition Gennadiyevna
+*** 
+pinyin Nǎomòwá
+characters 瑙莫娃
+serial-number CedPane25269
+definition Naumova
+*** 
+pinyin niánmài de fùmǔ
+characters 年迈的父母[-邁---]
+serial-number CedPane25270
+definition elderly parents
+*** 
+pinyin Nígǔlāyēwéiqí
+characters 尼古拉耶维奇[----維-]
+serial-number CedPane25271
+definition Nikolayevich
+*** 
+pinyin Nuòsīkēfū
+characters 诺斯科夫[諾---]
+serial-number CedPane25272
+definition Noskov
+*** 
+pinyin pǔbiàn lái shuō
+characters 普遍来说[--來說]
+serial-number CedPane25273
+definition generally
+*** 
+pinyin Sàhālín Dǎo
+characters 萨哈林岛[薩--島]
+serial-number CedPane25274
+definition Sakhalin (island)
+*** 
+pinyin sōnghǎo tǔ
+characters 松好土[鬆--]
+serial-number CedPane25275
+definition plough the soil; plow the soil
+*** 
+pinyin wèishēng biāozhǔn
+characters 卫生标准[衛-標準]
+serial-number CedPane25276
+definition standards of hygiene
+*** 
+pinyin wèixìnzhě
+characters 未信者
+serial-number CedPane25277
+definition unbeliever
+*** 
+pinyin Yàlìshāndéluófúnà
+characters 亚历山德罗芙娜[亞歷--羅--]
+serial-number CedPane25278
+definition Aleksandrovna
+*** 
+pinyin yùbùdào
+characters 遇不到
+serial-number CedPane25279
+definition not meet
+*** 
+pinyin yùfāng
+characters 狱方[獄-]
+serial-number CedPane25280
+definition prison administrators

@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-04-21
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-04-22
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -31,6 +31,7 @@
 阿爾哈曾 阿尔哈曾 [A1 er3 ha1 ceng2] /Alhazen/
 阿爾罕布拉宮 阿尔罕布拉宫 [A1 er3 han3 bu4 la1 gong1] /Alhambra (palace)/
 阿爾汗布拉宮 阿尔汗布拉宫 [A1 er3 han4 bu4 la1 gong1] /Alhambra (palace)/
+阿爾漢格爾斯克 阿尔汉格尔斯克 [A1 er3 han4 ge2 er3 si1 ke4] /Arkhangel'sk/
 阿爾漢格爾斯克州 阿尔汉格尔斯克州 [A1 er3 han4 ge2 er3 si1 ke4_Zhou1] /Arkhangelsk (region in Russia)/
 阿爾卡拉 阿尔卡拉 [A1 er3 ka3 la1] /Alcalá/
 阿爾卡蘇瓦什 阿尔卡苏瓦什 [A1 er3 ka3 su1 wa3 shi2] /Alcáçovas/
@@ -1647,6 +1648,7 @@
 鮑勒語 鲍勒语 [Bao4 lei1 yu3] /Baoule (language)/
 鮑里斯 鲍里斯 [Bao4 li3 si1] /Boris/
 鮑里斯拉夫 鲍里斯拉夫 [Bao4 li3 si1 la1 fu1] /Borislav/
+鮑里索維奇 鲍里索维奇 [Bao4 li3 suo3 wei2 qi2] /Borisovich/
 鮑林 鲍林 [Bao4 lin2] /Bowring/
 鮑曼 鲍曼 [Bao4 man4] /Bowman/
 鮑姆加特納 鲍姆加特纳 [Bao4 mu3 jia1 te4 na4] /Baumgartner/
@@ -2063,6 +2065,7 @@
 波頓 波顿 [Bo1 dun4] /Burton (name)/
 波多野 波多野 [Bo1 duo1 ye3] /Hanato/
 波哥大 波哥大 [Bo1 ge1 da4] /Bogotá/
+波格丹諾夫 波格丹诺夫 [Bo1 ge2 dan1 nuo4 fu1] /Bogdanov/
 波格丹諾娃 波格丹诺娃 [Bo1 ge2 dan1 nuo4 wa2] /Bogdanova/
 波罕 波罕 [Bo1 han3] /Bohan/
 波罕石 波罕石 [Bo1 han3 shi2] /stone of Bohan/Bohan, stone of/
@@ -3623,6 +3626,7 @@
 俄羅斯當局 俄罗斯当局 [E2 luo2 si1_dang1 ju2] /Russian authorities/authorities, Russian/
 俄羅斯籍 俄罗斯籍 [E2 luo2 si1_ji2] /Russian national (of person)/national, Russian (of person)/
 俄羅斯盧布 俄罗斯卢布 [E2 luo2 si1_lu2 bu4] /(Russian) rubles/
+俄羅斯語 俄罗斯语 [E2 luo2 si1 yu3] /Russian language/language, Russian/
 峨眉山市 峨眉山市 [E2 mei2 shan1_Shi4] /Emeishan (in Sichuan)/
 額敏縣 额敏县 [E2 min3_Xian4] /Emin (county, in Xinjiang)/
 蛾摩拉 蛾摩拉 [E2 mo2 la1] /Gomorrah/
@@ -4550,6 +4554,7 @@
 格力克 格力克 [Ge2 li4 ke4] /Crick (old translation)/
 格麗雅 格丽雅 [Ge2 li4 ya3] /Gloria (name)/
 格連 格连 [Ge2 lian2] /Green (surname, old translation)/
+格列布 格列布 [Ge2 lie4 bu4] /Gleb/
 格列高利 格列高利 [Ge2 lie4 gao1 li4] /Gregory/
 格林 格林 [Ge2 lin2] /Green (surname)/
 格林伯格 格林伯格 [Ge2 lin2 bo2 ge2] /Greenberg/
@@ -4619,6 +4624,7 @@
 根河 根河 [Gen1 he2] /Genhe (in Inner Mongolia)/
 根河市 根河市 [Gen1 he2_Shi4] /Genhe (in Inner Mongolia)/
 根納季 根纳季 [Gen1 na4 ji4] /Gennadiy/
+根娜季耶夫娜 根娜季耶夫娜 [Gen1 na4 ji4 ye1 fu1 na4] /Gennadiyevna/
 根斯巴克 根斯巴克 [Gen1 si1 ba1 ke4] /Gernsback/
 根特大學 根特大学 [Gen1 te4_Da4 xue2] /Ghent University/University, Ghent/
 根西島 根西岛 [Gen1 xi1 dao3] /Guernsey (island)/
@@ -5167,7 +5173,7 @@
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-04-21/this is version 2019-04-21, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-04-22/this is version 2019-04-22, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
@@ -10449,6 +10455,7 @@
 囊謙縣 囊谦县 [Nang2 qian1_Xian4] /Nangqian (county, in Qinghai)/
 瑙吉考尼饒 瑙吉考尼饶 [Nao3 ji2 kao3 ni2 rao2] /Nagykanizsa/
 瑙魯語 瑙鲁语 [Nao3 lu3 yu3] /Nauruan (language)/
+瑙莫娃 瑙莫娃 [Nao3 mo4 wa2] /Naumova/
 訥德林根 讷德林根 [Ne4 de2 lin2 gen1] /Nördlingen/
 訥河 讷河 [Ne4 he2] /Nehe (in Heilongjiang)/
 訥河市 讷河市 [Ne4 he2_Shi4] /Nehe (in Heilongjiang)/
@@ -10534,6 +10541,7 @@
 尼格德 尼格德 [Ni2 ge2 de2] /Negede/
 尼古拉 尼古拉 [Ni2 gu3 la1] /Nikolai/
 尼古拉斯 尼古拉斯 [Ni2 gu3 la1 si1] /Nicholas/
+尼古拉耶維奇 尼古拉耶维奇 [Ni2 gu3 la1 ye1 wei2 qi2] /Nikolayevich/
 尼古勞斯 尼古劳斯 [Ni2 gu3 lao2 si1] /Nicolaus/Nikolaus (Nicholas of Cusa)/
 尼哈 尼哈 [Ni2 ha1] /Nibhaz/
 尼豪 尼豪 [Ni2 hao2] /Niihau (Hawaiian island)/
@@ -10734,6 +10742,7 @@
 諾瑟姆鎮 诺瑟姆镇 [Nuo4 se4 mu3 zhen4] /Northam (town)/
 諾森伯蘭郡 诺森伯兰郡 [Nuo4 sen1 bo2 lan2 jun4] /Northumberland (county)/
 諾斯底派 诺斯底派 [Nuo4 si1 di3 pai4] /Gnostics/
+諾斯科夫 诺斯科夫 [Nuo4 si1 ke1 fu1] /Noskov/
 諾斯特拉達穆斯 诺斯特拉达穆斯 [Nuo4 si1 te4 le5 da2 mu4 si1] /Nostradamus (pinyin uncertain)/
 諾斯替福音 诺斯替福音 [Nuo4 si1 ti4_fu2 yin1] /Gnostic gospels (apocryphal)/gospels, Gnostic (apocryphal)/
 諾斯替教 诺斯替教 [Nuo4 si1 ti4 jiao4] /Gnosticism/
@@ -11762,6 +11771,7 @@
 薩伏依 萨伏依 [Sa4 fu2 yi1] /Savoy (in France)/
 薩嘎縣 萨嘎县 [Sa4 ga1_Xian4] /Saga County/County, Saga/
 薩格勒布 萨格勒布 [Sa4 ge2 le4 bu4] /Zagreb/
+薩哈林島 萨哈林岛 [Sa4 ha1 lin2_Dao3] /Sakhalin (island)/
 薩哈羅夫 萨哈罗夫 [Sa4 ha1 luo2 fu1] /Sakharov/
 薩哈伊 萨哈伊 [Sa4 ha1 yi1] /Sahaï/
 薩赫勒地區 萨赫勒地区 [Sa4 he4 le4_di4 qu1] /Sahel region/region, Sahel/
@@ -15507,6 +15517,7 @@
 亞歷山德莉亞 亚历山德莉亚 [Ya4 li4 shan1 de2 li4 ya4] /Alexandria (modern name)/
 亞歷山德魯 亞歷山德魯 [Ya4 li4 shan1 de2 lu3] /Alexandru/
 亞歷山德羅 亚历山德罗 [Ya4 li4 shan1 de2 luo2] /Alessandro/
+亞歷山德羅芙娜 亚历山德罗芙娜 [Ya4 li4 shan1 de2 luo2 fu2 na4] /Aleksandrovna/
 亞歷山卓 亞歷山卓 [Ya4 li4 shan1 zhuo2] /Alexandria (city, old translation?)/
 亞歷斯 亚历斯 [Ya4 li4 si1] /Alex/
 亞利耶 亚利耶 [Ya4 li4 ye1] /Arieh/
@@ -17424,6 +17435,7 @@
 被耽誤 被耽误 [bei4_dan1 wu5] /delayed/
 被高舉 被高举 [bei4_gao1 ju3] /be exalted/exalted, be/
 被告上法庭 被告上法庭 [bei4_gao4_shang4_fa3 ting2] /taken to court/court, taken to/
+被隔離 被隔离 [bei4_ge2 li2] /quarantined/
 被關進集中營 被关进集中营 [bei4_guan1 jin4_ji2 zhong1 ying2] /be imprisoned in concentration camps/imprisoned in concentration camps, be/
 被鬼附身 被鬼附身 [bei4_gui3_fu4 shen1] /demon possessed (old translation?)/possessed, demon (old translation?)/
 被激怒 被激怒 [bei4_ji1 nu4] /provoked/
@@ -18109,6 +18121,7 @@
 傳講 传讲 [chuan2 jiang3] /to declare (as in preaching)/declare, to (as in preaching)/
 傳教團 传教团 [chuan2 jiao4 tuan2] /mission (group sent by a church etc)/
 傳令官 传令官 [chuan2 ling4 guan1] /herald (a type of official)/
+傳染性疾病 传染性疾病 [chuan2 ran3 xing4_ji2 bing4] /communicable disease/disease, communicable/
 傳統的白熾燈 传统的白炽灯 [chuan2 tong3_de5_bai2 chi4 deng1] /traditional incandescent (light)bulbs/incandescent, traditional/
 傳統根深蒂固 传统根深蒂固 [chuan2 tong3_gen1 shen1 di4 gu4] /traditions die hard (deep rooted)/hard, traditions die (deep rooted)/
 傳統教會 传统教会 [chuan2 tong3_jiao4 hui4] /traditional church/church, traditional/
@@ -19233,6 +19246,7 @@
 各種形式 各种形式 [ge4 zhong3_xing2 shi4] /various forms/various aspects (of ministry etc)/forms, various (of ministry etc)/aspects, various (of ministry etc)/
 給力 给力 [gei3_li4] /empowering/cool (net usage)/
 給出 给出 [gei3 chu1] /gives (interest|terms|etc, of business deal)/
+給放 给放 [gei3 fang4] /set free (from prison etc)/free, set (from prison etc)/
 給與 给与 [gei3 yu3] /provide/give/
 跟人說話 跟人说话 [gen1_ren2_shuo1 hua4] /speak with a person/person, speak with a/
 跟上次 跟上次 [gen1_shang4 ci4] /compared to last time/last time, compared to/
@@ -21058,6 +21072,7 @@
 美物 美物 [mei3 wu4] /good things/things, good/
 美衣 美衣 [mei3 yi1] /beautiful garments/garments, beautiful/
 媚眼撩人 媚眼撩人 [mei4 yan3 liao2 ren2] /ogling with one's eyes/one's eyes, ogling with/
+麼麼噠 么么哒 [me5 me5 da1] /kiss/XX/
 悶聲 闷声 [men1 sheng1] /muffled sound/sound, muffled/
 悶聲發大財 闷声发大财 [men1 sheng1_fa1_da4 cai2] /make money without boasting/money without boasting, make/
 門頂 门顶 [men2 ding3] /roof of a (city) gate/gate, roof of a/
@@ -21106,6 +21121,7 @@
 免息 免息 [mian3 xi1] /without interest/interest, without/
 免疫球蛋白 免疫球蛋白 [mian3 yi4_qiu2 dan4 bai2] /immunoglobulin/
 免疫系統疾病 免疫系统疾病 [mian3 yi4_xi4 tong3_ji2 bing4] /autoimmune diseases/diseases, autoimmune/
+免責聲明 免责声明 [mian3 ze2_sheng1 ming2] /disclaimer/
 麪包 麪包 [mian4 bao1] /bread (variant form)/
 面具節 面具节 [mian4 ju4 jie2] /mask parade/parade, mask/
 面臨供水不足 面临供水不足 [mian4 lin2_gong1 shui3_bu4 zu2] /faced with water shortages/water shortages, faced with/
@@ -21327,6 +21343,7 @@
 年祭 年祭 [nian2 ji4] /yearly sacrifice/sacrifice, yearly/
 黏牢 黏牢 [nian2 lao2] /stick over (? or stick something firm?)/over, stick (? or stick something firm?)/
 年齡差距 年龄差距 [nian2 ling2_cha1 ju4] /age difference/difference, age/
+年邁的父母 年迈的父母 [nian2 mai4_de5_fu4 mu3] /elderly parents/parents, elderly/
 年票 年票 [nian2 piao4] /pass/season ticket lasting one or more years/
 年輕時 年轻时 [nian2 qing1_shi2] /when younger/younger, when/
 年日 年日 [nian2 ri4] /days (of someone's life etc)/
@@ -21573,6 +21590,7 @@
 葡萄皮 葡萄皮 [pu2 tao5 pi2] /grape skin/skin, grape/
 葡萄樹上 葡萄树上 [pu2 tao5 shu4_shang5] /on the vine/vine, on the/
 葡萄枝 葡萄枝 [pu2 tao5 zhi1] /vine tendrils (lit. grape branch)/tendrils, vine (lit. grape branch)/
+普遍來說 普遍来说 [pu3 bian4_lai2_shuo1] /generally/
 普遍趨勢 普遍趋势 [pu3 bian4_qu1 shi4] /general trend/trend, general/
 普告 普告 [pu3 gao4] /make known (abbr.)/known, make (abbr.)/
 普紐馬 普纽马 [pu3 niu3 ma3] /pneuma/
@@ -21757,6 +21775,7 @@
 去殖民化 去殖民化 [qu4 zhi2 min2 hua4] /decolonisation/
 圈餅 圈饼 [quan1 bing3] /ring-shaped cakes/cakes, ring-shaped/
 圈錢 圈钱 [quan1 qian2] /expropriation/
+全明星 全明星 [quan2_ming2 xing1] /all-star (cast etc)/
 全額獎學金 全额奖学金 [quan2 e2_jiang3 xue2 jin1] /full scholarship/scholarship, full/
 全部真理 全部真理 [quan2 bu4_zhen1 li3] /the body of truth (lit. complete truth)/body of truth, the (lit. complete truth)/
 全部作品 全部作品 [quan2 bu4_zuo4 pin3] /complete works/works, complete/
@@ -22601,6 +22620,7 @@
 四散奔逃 四散奔逃 [si4 san4 ben1 tao2] /scatter/flee in all directions/
 四溢 四溢 [si4 yi4] /overflow all around/around, overflow all/
 四子 四子 [si4 zi3] /fourth son|child/son|child, fourth/
+鬆好土 松好土 [song1 hao3_tu3] /plough the soil/plow the soil/soil, plough the/
 松露 松露 [song1 lu4] /truffle (food)/
 松仁玉米 松仁玉米 [song1 ren2_yu4 mi3] /sweetcorn with pine nuts/pine nuts, sweetcorn with/
 鬆脱 松脱 [song1 tuo1] /loosened (of prison bonds)/
@@ -23186,9 +23206,11 @@
 位列 位列 [wei4 lie4] /position line-up (order of prominence in a kingdom etc)/line-up, position (order of prominence in a kingdom etc)/
 為免 为免 [wei4 mian3] /in order to avoid/so as to avoid/order to avoid, in/avoid, so as to/
 為求 为求 [wei4 qiu2] /in order to/order to, in/
+衛生標準 卫生标准 [wei4 sheng1_biao1 zhun3] /standards of hygiene/hygiene, standards of/
 喂食器 喂食器 [wei4 shi2 qi4] /bird feeder/feeder, bird/
 慰問卡片 慰问卡片 [wei4 wen4_ka3 pian4] /sympathy card/card, sympathy/
 慰問卡 慰问卡 [wei4 wen4 ka3] /sympathy card/card, sympathy/
+未信者 未信者 [wei4 xin4 zhe3] /unbeliever/
 衛星導航 卫星导航 [wei4 xing1_dao3 hang2] /satellite navigation/navigation, satellite/
 胃藥 胃药 [wei4 yao4] /stomach pills/pills, stomach/
 衛浴 卫浴 [wei4 yu4] /bathroom/
@@ -23793,6 +23815,7 @@
 學術型企業家 学术型企业家 [xue2 shu4 xing2_qi3 ye4 jia1] /academic entrepreneur/entrepreneur, academic/
 學習工具 学习工具 [xue2 xi2_gong1 ju4] /learning tools/tools, learning/
 學習掌握 学习掌握 [xue2 xi2_zhang3 wo4] /learn and master/master, learn and/
+學習室 学习室 [xue2 xi2 shi4] /study room/room, study/
 學業報告 学业报告 [xue2 ye4_bao4 gao4] /school report/report, school/
 學業優異獎 学业优异奖 [xue2 ye4_you1 yi4_jiang3] /awards for academic achievement (in school)/academic achievement, awards for (in school)/
 雪餅 雪饼 [xue3 bing3] /rice cracker/cracker, rice/
@@ -24304,6 +24327,8 @@
 宇宙學家 宇宙学家 [yu3 zhou4 xue2 jia1] /cosmologist/
 預備日 预备日 [yu4 bei4 ri4] /Preparation (day)/
 預表 预表 [yu4 biao3] /foreshadow/prefigure/
+遇不到 遇不到 [yu4 bu4 dao4] /not meet/meet, not/
+獄方 狱方 [yu4 fang1] /prison administrators/administrators, prison/
 預付卡 预付卡 [yu4 fu4 ka3] /prepaid card/prepaid SIM/card, prepaid/
 御函 御函 [yu4 han2] /imperial letter (ancient)/letter, imperial (ancient)/
 慾火 慾火 [yu4 huo3] /burning desire (variant)/desire, burning (variant)/
@@ -24881,6 +24906,7 @@
 桌面環境 桌面环境 [zhuo1 mian4_huan2 jing4] /desktop environment/environment, desktop/
 桌面游戲 桌面游戏 [zhuo1 mian4_you2 xi4] /tabletop game/game, tabletop/
 桌上型 桌上型 [zhuo1 shang4 xing2] /desktop (type of computer)/
+茲證明 兹证明 [zi1_zheng4 ming2] /this is to certify (wording used on certificates)/certify, this is to (wording used on certificates)/
 資歷過高 资历过高 [zi1 li4_guo4 gao1] /overqualified/
 資深研究助理 资深研究助理 [zi1 shen1_yan2 jiu1_zhu4 li3] /senior research assistant/research assistant, senior/
 咨詢服務 咨询服务 [zi1 xun2_fu2 wu4] /counselling service/counseling service/service, counselling/
