@@ -4220,7 +4220,7 @@ definition Backman
 pinyin Bākèsī
 characters 巴克斯
 serial-number CedPane847
-definition Bacchus
+definition Bacchus; Bax
 *** 
 pinyin Bākèsīdùn
 characters 巴克斯顿[---頓]
@@ -17398,7 +17398,7 @@ characters 公开放弃[-開-棄]
 serial-number CedPane3484
 definition recantation
 *** 
-pinyin Gōngkāi shēngmíng
+pinyin gōngkāi shēngmíng
 characters 公开声明[-開聲-]
 serial-number CedPane3485
 definition public declaration
@@ -32652,8 +32652,8 @@ characters 玛格德琳[瑪---]
 serial-number CedPane6543
 definition Magdalene (modern)
 *** 
-pinyin Mǎgélěi
-characters 玛格蕾[瑪--]
+pinyin Mǎgélěidì
+characters 玛格蕾蒂[瑪---]
 serial-number CedPane6544
 definition Margarette
 *** 
@@ -84004,11 +84004,6 @@ characters 马比拉[馬--]
 serial-number CedPane16942
 definition Mabilat
 *** 
-pinyin Mǎlìkè
-characters 馬利克
-serial-number CedPane16943
-definition Malek
-*** 
 pinyin Mǎshāduō
 characters 马沙多[馬--]
 serial-number CedPane16944
@@ -87416,7 +87411,7 @@ definition Marian
 pinyin Mǎlìkè
 characters 马利克[馬--]
 serial-number CedPane17624
-definition Malek
+definition Malek; Malik
 *** 
 pinyin Mǎlìnà
 characters 玛丽娜[瑪麗-]
@@ -122667,7 +122662,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-04-22
+definition CedPane: this is version 2019-04-29
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -125709,3 +125704,844 @@ pinyin yùfāng
 characters 狱方[獄-]
 serial-number CedPane25280
 definition prison administrators
+*** 
+pinyin Bàidìkèluò
+characters 拜蒂克洛
+serial-number CedPane25281
+definition Batticaloa
+*** 
+pinyin cháng zhōumò
+characters 长周末[長--]
+serial-number CedPane25282
+definition long-weekend
+*** 
+pinyin cháng zhōumò jiàqī
+characters 长周末假期[長----]
+serial-number CedPane25283
+definition long-weekend holiday
+*** 
+pinyin cuòwù de sīxiǎng
+characters 错误的思想[錯誤---]
+serial-number CedPane25284
+definition wrong thoughts
+*** 
+pinyin Dáwéi
+characters 达维[達維]
+serial-number CedPane25285
+definition David (modern)
+*** 
+pinyin dāwō-zhùcháo
+characters 搭窝筑巢[-窩築-]
+serial-number CedPane25286
+definition build a nest
+*** 
+pinyin duōzhǒngzú
+characters 多种族[-種-]
+serial-number CedPane25287
+definition multiracial
+*** 
+pinyin fánghóngdī
+characters 防洪堤
+serial-number CedPane25288
+definition levee
+*** 
+pinyin fàngsōng jǐngtì
+characters 放松警惕[-鬆--]
+serial-number CedPane25289
+definition let your guard down
+*** 
+pinyin Fùhuó dàn
+characters 复活蛋[復--]
+serial-number CedPane25290
+definition Easter egg
+*** 
+pinyin gǎnjué xúnqiú
+characters 感觉寻求[-覺尋-]
+serial-number CedPane25291
+definition sensory seeking
+*** 
+pinyin gānshǒujī
+characters 干手机[乾-機]
+serial-number CedPane25292
+definition hand dryer
+*** 
+pinyin gōnggòng jiàrì
+characters 公共假日
+serial-number CedPane25293
+definition public holiday
+*** 
+pinyin guójiā jǐnjí zhuàngtài
+characters 国家紧急状态[國-緊-狀態]
+serial-number CedPane25294
+definition state of national emergency
+*** 
+pinyin Hānóng
+characters 哈农[-農]
+serial-number CedPane25295
+definition Hanon
+*** 
+pinyin huáihuā
+characters 槐花
+serial-number CedPane25296
+definition sophora flower; sophora japonica flower
+*** 
+pinyin Huālián Xiàn
+characters 花莲县[-蓮縣]
+serial-number CedPane25297
+definition Hualien County (Taiwan)
+*** 
+pinyin jiǎnjié qīngxī
+characters 简洁清晰[簡潔--]
+serial-number CedPane25298
+definition clear and concise
+*** 
+pinyin jiàoyù xīnlǐxuéjiā
+characters 教育心理学家[----學-]
+serial-number CedPane25299
+definition educational psychologist
+*** 
+pinyin jīběn lái shuō
+characters 基本来说[--來說]
+serial-number CedPane25300
+definition basically
+*** 
+pinyin jìbuqǐ
+characters 记不起[記--]
+serial-number CedPane25301
+definition unable to recall
+*** 
+pinyin kàn diànshì
+characters 看电视[-電視]
+serial-number CedPane25302
+definition watch television
+*** 
+pinyin Kēlúnpō Shì
+characters 科伦坡市[-倫--]
+serial-number CedPane25303
+definition Colombo (city)
+*** 
+pinyin kòngzhì píqi
+characters 控制脾气[---氣]
+serial-number CedPane25304
+definition control one's temper
+*** 
+pinyin Làinī
+characters 赖妮[賴-]
+serial-number CedPane25305
+definition Rani
+*** 
+pinyin liǎng tiān qián
+characters 两天前[兩--]
+serial-number CedPane25306
+definition two days earlier
+*** 
+pinyin Mài'ěr'āndé
+characters 麦尔安德[麥爾--]
+serial-number CedPane25307
+definition Mile End
+*** 
+pinyin Mǐlìgēn
+characters 米利根
+serial-number CedPane25308
+definition Milikan
+*** 
+pinyin nàmǐ lìzǐ
+characters 纳米粒子[納---]
+serial-number CedPane25309
+definition nanoparticles
+*** 
+pinyin niándù shěnhé
+characters 年度审核[--審-]
+serial-number CedPane25310
+definition annual review
+*** 
+pinyin qíngxù zhìlì
+characters 情绪智力[-緒--]
+serial-number CedPane25311
+definition emotional intelligence
+*** 
+pinyin rùxué ānzhì
+characters 入学安置[-學--]
+serial-number CedPane25312
+definition school placement
+*** 
+pinyin shèjiāo píngtái
+characters 社交平台
+serial-number CedPane25313
+definition social media
+*** 
+pinyin Shèng Zhōuwǔ
+characters 圣周五[聖--]
+serial-number CedPane25314
+definition Good Friday
+*** 
+pinyin shèqún wǎngzhàn
+characters 社群网站[--網-]
+serial-number CedPane25315
+definition social media (Web-based)
+*** 
+pinyin shīcōng rénshì
+characters 失聪人士[-聰--]
+serial-number CedPane25316
+definition the deaf
+*** 
+pinyin Shòunànrì
+characters 受难日[-難-]
+serial-number CedPane25317
+definition Good Friday
+*** 
+pinyin Tèlǐjī
+characters 特里基
+serial-number CedPane25318
+definition Teleki (surname)
+*** 
+pinyin tíngtíng-yùlì
+characters 婷婷玉立
+serial-number CedPane25319
+definition remarkably beautiful
+*** 
+pinyin wěnwen
+characters 吻吻
+serial-number CedPane25320
+definition kiss (something)
+*** 
+pinyin Wòlíndáwén
+characters 沃林达文[--達-]
+serial-number CedPane25321
+definition Vrindavan
+*** 
+pinyin xūyào jiēshòu tèshū jiàoyù
+characters 需要接受特殊教育
+serial-number CedPane25322
+definition have special educational needs; SEN
+*** 
+pinyin Yàdí
+characters 娅迪[婭-]
+serial-number CedPane25323
+definition Yadi
+*** 
+pinyin yányǔ zhìliáoshī
+characters 言语治疗师[-語-療師]
+serial-number CedPane25324
+definition speech and language therapist; SALT
+*** 
+pinyin yánzhòng sǔnhuài
+characters 严重损坏[嚴-損壞]
+serial-number CedPane25325
+definition major damage; serious damage
+*** 
+pinyin Yēsū Shòunànjié
+characters 耶稣受难节[-穌-難節]
+serial-number CedPane25326
+definition Good Friday
+*** 
+pinyin Yēsū Shòunànrì
+characters 耶稣受难日[-穌-難-]
+serial-number CedPane25327
+definition Good Friday
+*** 
+pinyin zhèngzhá-qiúcún
+characters 挣扎求存[掙---]
+serial-number CedPane25328
+definition fend for oneself; struggle to survive
+*** 
+pinyin zhǔlù
+characters 主路
+serial-number CedPane25329
+definition main road
+*** 
+pinyin Āchùrúlái
+characters 阿閦如来[---來]
+serial-number CedPane25330
+environment   Budd.
+definition Akshobhya
+*** 
+pinyin Āhán
+characters 阿含
+serial-number CedPane25331
+environment   Budd.
+definition Agama
+*** 
+pinyin ālàiyēshí
+characters 阿赖耶识[-賴-識]
+serial-number CedPane25332
+environment   Budd.
+definition alayavijnana; store consciousness
+*** 
+pinyin Ānòuduōluó
+characters 阿耨多罗[---羅]
+serial-number CedPane25333
+environment   Budd.
+definition anuttara
+*** 
+pinyin ānòuduōluó sānmiǎosānpútí
+characters 阿耨多罗三藐三菩提[---羅-----]
+serial-number CedPane25334
+environment   Budd.
+definition anuttara samyak sambodhi (type of enlightenment)
+*** 
+pinyin Āpídámó
+characters 阿毘达磨[--達-]
+serial-number CedPane25335
+environment   Budd.
+definition abhidhamma scriptures
+*** 
+pinyin Āpítán
+characters 阿毗昙[--曇]
+serial-number CedPane25336
+environment   Budd.
+definition abhidhamma scriptures
+*** 
+pinyin āshélí
+characters 阿阇梨[-闍-]
+serial-number CedPane25337
+environment   Budd.
+definition acariya
+*** 
+pinyin Bāzhèngdào
+characters 八正道
+serial-number CedPane25338
+environment   Budd.
+definition Noble Eightfold Path
+*** 
+pinyin Bìzhī Fó
+characters 辟支佛
+serial-number CedPane25339
+environment   Budd.
+definition Pratyekabuddha/Paccekabuddha
+*** 
+pinyin bōluómì
+characters 波罗蜜[-羅-]
+serial-number CedPane25340
+environment   Budd.
+definition paramita
+*** 
+pinyin bōnièpán
+characters 般涅槃
+serial-number CedPane25341
+environment   Budd.
+definition parinibbana/parinirvana
+*** 
+pinyin bōrě-bōluómì
+characters 般若波罗蜜[---羅-]
+serial-number CedPane25342
+environment   Budd.
+definition Perfection of Wisdom
+*** 
+pinyin bōrě-bōluómìduō
+characters 般若波罗蜜多[---羅--]
+serial-number CedPane25343
+environment   Budd.
+definition Perfection of Wisdom
+*** 
+pinyin Bùjīng
+characters 部经[-經]
+serial-number CedPane25344
+environment   Budd.
+definition Nikaya
+*** 
+pinyin Cáodòng-zōng
+characters 曹洞宗
+serial-number CedPane25345
+environment   Budd.
+definition Sōtō
+*** 
+pinyin dàchéngjiù
+characters 大成就
+serial-number CedPane25346
+environment   Budd.
+definition mahasiddha
+*** 
+pinyin dàshŏuyìn
+characters 大手印
+serial-number CedPane25347
+environment   Budd.
+definition mahamudra
+*** 
+pinyin dátèluó
+characters 怛特罗[--羅]
+serial-number CedPane25348
+environment   Budd.
+definition tantra
+*** 
+pinyin dúcān
+characters 独参[獨參]
+serial-number CedPane25349
+environment   Budd.
+definition dokusan
+*** 
+pinyin jiànxìng
+characters 见性[見-]
+serial-number CedPane25350
+environment   Budd.
+definition kensho
+*** 
+pinyin Jiāyè Fó
+characters 迦叶佛[-葉-]
+serial-number CedPane25351
+environment   Budd.
+definition Kassapa Buddha
+*** 
+pinyin Jīngāng shèng
+characters 金刚乘[-剛-]
+serial-number CedPane25352
+environment   Budd.
+definition Vajrayana
+*** 
+pinyin jìnshìnán
+characters 近事男
+serial-number CedPane25353
+environment   Budd.
+definition upasaka
+*** 
+pinyin jìnshìnǚ
+characters 近事女
+serial-number CedPane25354
+environment   Budd.
+definition upasika
+*** 
+pinyin kōngxíngnǚ
+characters 空行女
+serial-number CedPane25355
+environment   Budd.
+definition dakini
+*** 
+pinyin kǔ-jí-miè-dào
+characters 苦集灭道[--滅-]
+serial-number CedPane25356
+environment   Budd.
+definition Four Noble Truths
+*** 
+pinyin Línjì-zōng
+characters 临济宗[臨濟-]
+serial-number CedPane25357
+environment   Budd.
+definition Rinzai
+*** 
+pinyin Lùnzàng
+characters 论藏[論-]
+serial-number CedPane25358
+environment   Budd.
+definition Abhidhamma Pitaka (doctrine reorganization)
+*** 
+pinyin Lǜzàng
+characters 律藏
+serial-number CedPane25359
+environment   Budd.
+definition Vinaya Pitaka
+*** 
+pinyin mòfǎ
+characters 末法
+serial-number CedPane25360
+environment   Budd.
+definition mantra
+*** 
+pinyin mòzhào
+characters 默照
+serial-number CedPane25361
+environment   Budd.
+definition shikantaza
+*** 
+pinyin Pílúzhēnàfó
+characters 毗卢遮那佛[-盧---]
+serial-number CedPane25362
+environment   Budd.
+definition Vairocana
+*** 
+pinyin pútíxīn
+characters 菩提心
+serial-number CedPane25363
+environment   Budd.
+definition bodhicitta
+*** 
+pinyin Rándēng Fo
+characters 燃灯佛[-燈-]
+serial-number CedPane25364
+environment   Budd.
+definition Dīpankara Buddha
+*** 
+pinyin rénbōqiè
+characters 仁波切
+serial-number CedPane25365
+environment   Budd.
+definition Rinpoche
+*** 
+pinyin Sānshí
+characters 三时[-時]
+serial-number CedPane25366
+environment   Budd.
+definition Three periods
+*** 
+pinyin sēng tuan
+characters 僧团[-團]
+serial-number CedPane25367
+environment   Budd.
+definition sangha
+*** 
+pinyin shàngzuòbù
+characters 上座部
+serial-number CedPane25368
+environment   Budd.
+definition Theravada
+*** 
+pinyin shěmótā
+characters 舍摩他[捨--]
+serial-number CedPane25369
+environment   Budd.
+definition samatha
+*** 
+pinyin sìshèngdì
+characters 四圣谛[-聖諦]
+serial-number CedPane25370
+environment   Budd.
+definition Four Noble Truths
+*** 
+pinyin wǔyīn
+characters 五阴[-陰]
+serial-number CedPane25371
+environment   Budd.
+definition panca skandha
+*** 
+pinyin wǔyùn
+characters 五蕰[-薀]
+serial-number CedPane25372
+environment   Budd.
+definition panca skandha
+*** 
+pinyin xiāngbǎn
+characters 香板
+serial-number CedPane25373
+environment   Budd.
+definition kyosaku
+*** 
+pinyin Zài lái rén
+characters 再来人[-來-]
+serial-number CedPane25374
+environment   Budd.
+definition tulku
+*** 
+pinyin zhèngniàn
+characters 正念
+serial-number CedPane25375
+environment   Budd.
+definition mindfulness
+*** 
+pinyin zhīhuì
+characters 知恵
+serial-number CedPane25376
+environment   Budd.
+definition paññā (prajna)
+*** 
+pinyin Zhōngguānzōng
+characters 中观宗[-觀-]
+serial-number CedPane25377
+environment   Budd.
+definition Madhyamaka
+*** 
+pinyin zuòlà
+characters 坐腊[-臘]
+serial-number CedPane25378
+environment   Budd.
+definition sesshin
+*** 
+pinyin bālínghòu
+characters 八零后
+serial-number CedPane25379
+environment   PRC
+definition post-80s; post-1980s (generation)
+*** 
+pinyin bāshí hòu
+characters 八十后[--後]
+serial-number CedPane25380
+environment   HK
+definition post-80s; post-1980s (generation)
+*** 
+pinyin cǎoméizú
+characters 草莓族
+serial-number CedPane25381
+environment   TW
+definition Strawberry generation (1980s+, "easily bruised")
+*** 
+pinyin chōuxǐe huàyàn
+characters 抽血化验[---驗]
+serial-number CedPane25382
+definition blood test
+*** 
+pinyin Délǐsīkē'ěr
+characters 德里斯科尔[----爾]
+serial-number CedPane25383
+definition Driscoll
+*** 
+pinyin diànnǎo dònghuà
+characters 电脑动画[電腦動畫]
+serial-number CedPane25384
+definition computer animation
+*** 
+pinyin diànnǎo zhìtú
+characters 电脑制图[電腦-圖]
+serial-number CedPane25385
+definition computer graphics
+*** 
+pinyin Értóng Fǎ'àn
+characters 儿童法案[兒---]
+serial-number CedPane25386
+definition Children Act (fiction)
+*** 
+pinyin Értóng Fǎlìng
+characters 儿童法令[兒---]
+serial-number CedPane25387
+definition Children Act (1989, 2004)
+*** 
+pinyin Fànlài'ēn
+characters 范赖恩[-賴-]
+serial-number CedPane25388
+definition Van Ryn
+*** 
+pinyin hěn zǎo yǐjing
+characters 很早已经[---經]
+serial-number CedPane25389
+definition had (done something) well before
+*** 
+pinyin jí shòu huānyíng
+characters 极受欢迎[極-歡-]
+serial-number CedPane25390
+definition top; extremely popular (of performer etc)
+*** 
+pinyin jiǔlínghòu
+characters 九零后
+serial-number CedPane25391
+environment   PRC
+definition post-90s; post-1990s (generation)
+*** 
+pinyin lìtǐ dònghuà
+characters 立体动画[-體動畫]
+serial-number CedPane25392
+definition 3D animation
+*** 
+pinyin Mǎgélěitǎ
+characters 玛格蕾塔[瑪---]
+serial-number CedPane25393
+definition Margarette
+*** 
+pinyin mázuìfǎ
+characters 麻醉法
+serial-number CedPane25394
+definition anesthesia
+*** 
+pinyin míngchéng-lìjiù
+characters 名成利就
+serial-number CedPane25395
+definition fame and wealth
+*** 
+pinyin niànbā
+characters 廿八
+serial-number CedPane25396
+environment   Cant.
+definition twenty-eight
+*** 
+pinyin niàn'èr
+characters 廿二
+serial-number CedPane25397
+environment   Cant.
+definition twenty-two
+*** 
+pinyin niànjiǔ
+characters 廿九
+serial-number CedPane25398
+environment   Cant.
+definition twenty-nine
+*** 
+pinyin niànliù
+characters 廿六
+serial-number CedPane25399
+environment   Cant.
+definition twenty-six
+*** 
+pinyin niànqī
+characters 廿七
+serial-number CedPane25400
+environment   Cant.
+definition twenty-seven
+*** 
+pinyin niànsān
+characters 廿三
+serial-number CedPane25401
+environment   Cant.
+definition twenty-three
+*** 
+pinyin niànsì
+characters 廿四
+serial-number CedPane25402
+environment   Cant.
+definition twenty-four
+*** 
+pinyin niànwǔ
+characters 廿五
+serial-number CedPane25403
+environment   Cant.
+definition twenty-five
+*** 
+pinyin niànyī
+characters 廿一
+serial-number CedPane25404
+environment   Cant.
+definition twenty-one
+*** 
+pinyin sàbā
+characters 卅八
+serial-number CedPane25405
+environment   Cant.
+definition thirty-eight
+*** 
+pinyin sà'èr
+characters 卅二
+serial-number CedPane25406
+environment   Cant.
+definition thirty-two
+*** 
+pinyin sàjiǔ
+characters 卅九
+serial-number CedPane25407
+environment   Cant.
+definition thirty-nine
+*** 
+pinyin sàliù
+characters 卅六
+serial-number CedPane25408
+environment   Cant.
+definition thirty-six
+*** 
+pinyin sàqī
+characters 卅七
+serial-number CedPane25409
+environment   Cant.
+definition thirty-seven
+*** 
+pinyin sàsān
+characters 卅三
+serial-number CedPane25410
+environment   Cant.
+definition thirty-three
+*** 
+pinyin sàsì
+characters 卅四
+serial-number CedPane25411
+environment   Cant.
+definition thirty-four
+*** 
+pinyin sàwǔ
+characters 卅五
+serial-number CedPane25412
+environment   Cant.
+definition thirty-five
+*** 
+pinyin sàyī
+characters 卅一
+serial-number CedPane25413
+environment   Cant.
+definition thirty-one
+*** 
+pinyin Shèngtuōlǐní
+characters 圣托里尼[聖---]
+serial-number CedPane25414
+definition Santorini
+*** 
+pinyin shìjué xiàoguǒ
+characters 视觉效果[視覺--]
+serial-number CedPane25415
+definition visual effects (on film)
+*** 
+pinyin shuāilǎoxué
+characters 衰老学[--學]
+serial-number CedPane25416
+definition gerontology
+*** 
+pinyin tèjì xiàoguǒ
+characters 特技效果
+serial-number CedPane25417
+definition special effects (on film)
+*** 
+pinyin Tíngtǎjié'ěr
+characters 廷塔杰尔[--傑爾]
+serial-number CedPane25418
+definition Tintagel
+*** 
+pinyin tūránjiān
+characters 突然间[--間]
+serial-number CedPane25419
+definition suddenly
+*** 
+pinyin wǔliǎn
+characters 捂脸[-臉]
+serial-number CedPane25420
+definition facepalm (expressing frustration etc)
+*** 
+pinyin xiǎnxiàngmù
+characters 显像幕[顯--]
+serial-number CedPane25421
+definition graphics display screen
+*** 
+pinyin xìng zhìliáo
+characters 性治疗[--療]
+serial-number CedPane25422
+definition sex therapy
+*** 
+pinyin xìng zhìliáoshī
+characters 性治疗师[--療師]
+serial-number CedPane25423
+definition sex therapist
+*** 
+pinyin xuéxiào bānchē
+characters 学校班车[學--車]
+serial-number CedPane25424
+definition school bus
+*** 
+pinyin yínkuàibǎn
+characters 吟快板
+serial-number CedPane25425
+definition rap (music)
+*** 
+pinyin zǎo yǐjing
+characters 早已经[--經]
+serial-number CedPane25426
+definition by now; long ago by now
+*** 
+pinyin zhàoxiàng páizìjī
+characters 照相排字机[----機]
+serial-number CedPane25427
+definition phototypesetter (machine)
+*** 
+pinyin zhǔyào gōngjù
+characters 主要工具
+serial-number CedPane25428
+definition primary tool
+*** 
+pinyin zuò dàngāo
+characters 做蛋糕
+serial-number CedPane25429
+definition bake a cake
+*** 
+pinyin Fèidéjí
+characters 费德吉[費--]
+serial-number CedPane25430
+definition Fidje
+*** 
+pinyin Mièbà
+characters 灭霸[滅-]
+serial-number CedPane25431
+definition Thanos (Marvel Comics character)
+*** 
+pinyin pàdìtǎ
+characters 帕蒂塔
+serial-number CedPane25432
+definition partita (suite, Bach etc)
+*** 
+pinyin Pèitèsuǒsī
+characters 佩特索斯
+serial-number CedPane25433
+definition Petsos
+*** 
+pinyin Sànuòsī
+characters 萨诺斯[薩諾-]
+serial-number CedPane25434
+definition Thanos (Greek name)
