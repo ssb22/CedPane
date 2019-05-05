@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-05-04
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-05-05
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -465,6 +465,7 @@
 阿維斯塔 阿维斯塔 [A1 wei2 si1 ta3] /Avesta/
 阿維斯塔語 阿维斯塔语 [A1 wei2 si1 ta3 yu3] /Avestan (language)/
 阿維斯陀文 阿维斯陀文 [A1 wei2 si1 tuo2 wen2] /Avestan (written language)/
+阿希 阿希 [A1 xi1] /Asch/
 阿西莫夫 阿西莫夫 [A1 xi1 mo4 fu1] /Asimov/
 阿西西 阿西西 [A1 xi1 xi1] /Assisi/
 阿謝德 阿谢德 [A1 xie4 de2] /Adshead/
@@ -1478,6 +1479,7 @@
 巴特沃思 巴特沃思 [Ba1 te4 wo4 si1] /Butterworth/
 巴提邁 巴提迈 [Ba1 ti2 mai4] /Bartimaeus/
 巴統 巴统 [Ba1 tong3] /Batumi/
+巴吞魯日 巴吞鲁日 [Ba1 tun1 lu3 ri4] /Baton Rouge/Rouge, Baton/
 巴托皮拉斯 巴托皮拉斯 [Ba1 tuo1 pi2 la1 si1] /Batopilas (canyon)/
 巴瓦羅 巴瓦罗 [Ba1 wa3 luo2] /Bávaro/
 巴瓦伊 巴瓦伊 [Ba1 wa3 yi1] /Bavvai/
@@ -4196,6 +4198,7 @@
 福斯特 福斯特 [Fu2 si1 te4] /Forster/
 扶綏縣 扶绥县 [Fu2 sui2_Xian4] /Fusui (county, in Guangxi)/
 福塔萊薩 福塔莱萨 [Fu2 ta3 lai2 sa4] /Fortaleza/
+弗泰里 弗泰里 [Fu2 tai4 li3] /Friðrik/
 福特汽車公司 福特汽车公司 [Fu2 te4_Qi4 che1_Gong1 si1] /Ford Motor Company/Motor Company, Ford/
 符騰堡 符腾堡 [Fu2 teng2 bao3] /Württemberg/
 福田區 福田区 [Fu2 tian2_Qu1] /Futian District/District, Futian/
@@ -5199,7 +5202,7 @@
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-05-04/this is version 2019-05-04, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-05-05/this is version 2019-05-05, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
@@ -6351,6 +6354,7 @@
 甲薛 甲薛 [Jia3 xue1] /Kabzeel/
 尖草坪區 尖草坪区 [Jian1 cao3 ping2_Qu1] /Jiancaoping District/District, Jiancaoping/
 監利縣 监利县 [Jian1 li4_Xian4] /Jianli (county, in Hubei)/
+堅諾 坚诺 [Jian1 nuo4] /Gino/
 尖沙咀 尖沙咀 [Jian1 sha1 ju3] /Tsim Sha Tsui (market in HK)/Tsui, Tsim Sha (market in HK)/
 尖沙咀 尖沙咀 [Jian1 sha1 ju3] /Tsim Sha Tsui/TST (area in HK)/Tsui, Tsim Sha (area in HK)/
 尖山區 尖山区 [Jian1 shan1_Qu1] /Jianshan District/District, Jianshan/
@@ -18317,6 +18321,7 @@
 從何入手 从何入手 [cong2 he2 ru4 shou3] /where to start (where to put one's hand in)/start, where to (where to put one's hand in)/
 從實 从实 [cong2 shi2] /from reality/reality, from/
 從業者 从业者 [cong2 ye4 zhe3] /professional (in a line of business)/
+從眾實驗 从众实验 [cong2 zhong4_shi2 yan4] /conformity experiments/experiments, conformity/
 從眾心理 从众心理 [cong2 zhong4_xin1 li3] /conformity/follow-the-crowd behaviour/
 粗麥 粗麦 [cu1 mai4] /spelt (type of wheat)/
 粗麵 粗面 [cu1 mian4] /coarse meal/meal, coarse/
@@ -20537,6 +20542,7 @@
 救援團隊 救援团队 [jiu4 yuan2_tuan2 dui4] /support team/support system (for depression etc)/team, support (for depression etc)/system, support (for depression etc)/
 救援物資 救援物资 [jiu4 yuan2_wu4 zi1] /relief supplies/supplies, relief/
 救災工作 救灾工作 [jiu4 zai1_gong1 zuo4] /disaster relief (work)/relief, disaster (work)/
+救災中心 救灾中心 [jiu4 zai1_zhong1 xin1] /relief centre/centre, relief/
 就職禮 就职礼 [jiu4 zhi2 li3] /installation ceremony (of a priest in ancient Israel)/ceremony, installation (of a priest in ancient Israel)/
 居家布置 居家布置 [ju1 jia1_bu4 zhi4] /decorating the home/home, decorating the/
 拘禁所 拘禁所 [ju1 jin4 suo3] /place of custody/custody, place of/
@@ -22219,6 +22225,7 @@
 善后處理 善后处理 [shan4 hou4_chu3 li3] /final disposal (of a product)/disposal, final (of a product)/
 善良動機 善良动机 [shan4 liang2_dong4 ji1] /good intentions/good motives/intentions, good/motives, good/
 膳食補充劑 膳食补充剂 [shan4 shi2_bu3 chong1 ji4] /dietary supplements/supplements, dietary/
+膳食部 膳食部 [shan4 shi2 bu4] /food service department/service department, food/
 扇形拱頂 扇形拱顶 [shan4 xing2_gong3 ding3] /fan vaulting/vaulting, fan/
 扇形穹頂 扇形穹顶 [shan4 xing2_qiong2 ding3] /fan-vaulted ceiling/ceiling, fan-vaulted/
 善意的謊言 善意的谎言 [shan4 yi4_de5_huang3 yan2] /white lies (lit. lies with good intentions)/lies, white (lit. lies with good intentions)/
@@ -22545,6 +22552,7 @@
 適婚的年齡 适婚的年龄 [shi4 hun1_de5_nian2 ling2] /marriageable age/
 市集廣場 市集广场 [shi4 ji2_guang3 chang3] /marketplace/
 試劑盒 试剂盒 [shi4 ji4_he2] /assay kit/
+世界名 世界名 [shi4 jie4_ming2] /world-famous/
 世界排名 世界排名 [shi4 jie4_pai2 ming2] /world ranking (sports)/ranking, world (sports)/
 世界情勢 世界情势 [shi4 jie4_qing2 shi4] /world developments/developments, world/
 世界舞台 世界舞台 [shi4 jie4_wu3 tai2] /world stage/stage, world/
@@ -22644,6 +22652,7 @@
 受了騙 受了骗 [shou4 le5_pian4] /was|were deceived/deceived, was|were/
 狩獵神 狩猎神 [shou4 lie4 shen2] /god of hunting/hunting, god of/
 售賣日期 售卖日期 [shou4 mai4_ri4 qi1] /"sell by" date/date, "sell by"/
+售賣臺 售卖台 [shou4 mai4 tai2] /sale stands/stands, sale/
 售賣亭 售卖亭 [shou4 mai4 ting2] /selling booth/booth, selling/
 授權合約 授权合约 [shou4 quan2_he2 yue1] /license agreement/agreement, license/
 受身 受身 [shou4 shen1] /passive (Japanese word)/
@@ -22960,6 +22969,7 @@
 特別報告 特别报告 [te4 bie2_bao4 gao4] /special report/report, special/
 特別教授 特别教授 [te4 bie2_jiao4 shou4] /professor extraordinarius/extraordinarius, professor/
 特別值得注意 特别值得注意 [te4 bie2_zhi2 de2_zhu4 yi4] /especially noteworthy/especially notable/noteworthy, especially/notable, especially/
+特長生 特长生 [te4 chang2 sheng1] /student of special ability/special ability, student of/
 特創論 特创论 [te4 chuang4 lun4] /Creationism/
 特創論者 特创论者 [te4 chuang4 lun4 zhe3] /Creationist/
 特大字體 特大字体 [te4 da4_zi4 ti3] /very large print/large print, very/
@@ -23579,6 +23589,7 @@
 洗手盆 洗手盆 [xi3 shou3 pen2] /washbasin (hand-washing basin)/
 洗手液 洗手液 [xi3 shou3 ye4] /hand sanitizer (liquid)/sanitizer, hand (liquid)/
 洗漱間 洗漱间 [xi3 shu4 jian1] /washroom/toilet/
+洗燙 洗烫 [xi3 tang4] /laundering/
 洗完 洗完 [xi3 wan2] /finish washing/washing, finish/
 洗洗 洗洗 [xi3 xi5] /wash/
 喜笑 喜笑 [xi3 xiao4] /laugh(ing)/
@@ -23812,6 +23823,7 @@
 協調人 协调人 [xie2 tiao2_ren2] /coordinator/
 寫筆記 写笔记 [xie3_bi3 ji4] /take notes/notes, take/
 寫不完 写不完 [xie3 bu4 wan2] /writing not finished/finished, writing not/
+寫讀 写读 [xie3 du2] /read and write/write, read and/
 寫好 写好 [xie3 hao3] /write out well/well, write out/
 寫進 写进 [xie3 jin4] /write into (as in entering an affair into a book of records etc)/
 寫明 写明 [xie3 ming2] /explain in writing (?)/writing, explain in (?)/
