@@ -122662,7 +122662,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-05-05
+definition CedPane: this is version 2019-05-06
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -126930,3 +126930,86 @@ pinyin xǐtàng
 characters 洗烫[-燙]
 serial-number CedPane25512
 definition laundering
+*** 
+pinyin měiméi
+characters 美眉
+serial-number CedPane25513
+environment   netspeak
+definition pretty girl
+*** 
+pinyin Bàidēng
+characters 拜登
+serial-number CedPane25514
+definition Biden
+*** 
+pinyin bèi pī
+characters 被批
+serial-number CedPane25515
+definition criticized (as)
+*** 
+pinyin biàn měi
+characters 变美[變-]
+serial-number CedPane25516
+definition become pretty (phrase used in girl advertising etc)
+*** 
+pinyin Kuāngtuōkè
+characters 匡托克
+serial-number CedPane25517
+definition Quantock
+*** 
+pinyin Kuāngtuōkè Qiūlíng
+characters 匡托克丘陵
+serial-number CedPane25518
+definition Quantock Hills
+*** 
+pinyin kùcún túpiàn
+characters 库存图片[庫-圖-]
+serial-number CedPane25519
+definition stock image; stock photograph
+*** 
+pinyin nánjiāng
+characters 南疆
+serial-number CedPane25520
+definition southern border
+*** 
+pinyin Sàmòsàitè
+characters 萨默塞特[薩---]
+serial-number CedPane25521
+definition Somerset
+*** 
+pinyin shá yìsi
+characters 啥意思
+serial-number CedPane25522
+environment   topo.
+definition what meaning?
+*** 
+pinyin shǐliàngtú
+characters 矢量图[--圖]
+serial-number CedPane25523
+environment   comp.
+definition vector image
+*** 
+pinyin túkù
+characters 图库[圖庫]
+serial-number CedPane25524
+definition picture database; stock photography
+*** 
+pinyin Wéiwú'ěrwén
+characters 维吾尔文[維-爾-]
+serial-number CedPane25525
+definition Uyghur script
+*** 
+pinyin Wéizú
+characters 维族[維-]
+serial-number CedPane25526
+definition Uyghur people (abbreviated form)
+*** 
+pinyin xiūlǐdiàn
+characters 修理店
+serial-number CedPane25527
+definition repair shop
+*** 
+pinyin yóu tiānxià
+characters 游天下
+serial-number CedPane25528
+definition travel the world

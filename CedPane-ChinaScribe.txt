@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-05-05
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-05-06
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -1559,6 +1559,7 @@
 擺夷族 摆夷族 [Bai3 yi2 zu2] /Paiyi tribe (from Yunnan)/tribe, Paiyi (from Yunnan)/
 拜爾斯 拜尔斯 [Bai4 er3 si1] /Byers/
 拜城縣 拜城县 [Bai4 cheng2_Xian4] /Baicheng (county, in Xinjiang)/
+拜登 拜登 [Bai4 deng1] /Biden/
 拜蒂克洛 拜蒂克洛 [Bai4 di4 ke4 luo4] /Batticaloa/
 拜拉達河 拜拉达河 [Bai4 la1 da2 he2] /Barada (river)/
 拜利赫河 拜利赫河 [Bai4 li4 he4 he2] /Balikh (river)/
@@ -5202,7 +5203,7 @@
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-05-05/this is version 2019-05-05, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-05-06/this is version 2019-05-06, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
@@ -7568,6 +7569,8 @@
 寬甸縣 宽甸县 [Kuan1 dian4_Xian4] /Kuandian (county, in Liaoning)/
 寬牆 宽墙 [Kuan1 qiang2] /Broad Wall/Wall, Broad/
 寬扎節 宽扎节 [Kuan1 zha1 jie2] /Kwanzaa (festival)/
+匡托克 匡托克 [Kuang1 tuo1 ke4] /Quantock/
+匡托克丘陵 匡托克丘陵 [Kuang1 tuo1 ke4_Qiu1 ling2] /Quantock Hills/Hills, Quantock/
 匡茲 匡兹 [Kuang1 zi1] /Quantz/
 奎恩 奎恩 [Kui2 en1] /Queen (name)/
 魁北克 魁北克 [Kui2 bei3 ke4] /Quebec/
@@ -11891,6 +11894,7 @@
 薩摩斯 萨摩斯 [Sa4 mo2 si1] /Samos/
 薩摩亞語 萨摩亚语 [Sa4 mo2 ya4 yu3] /Samoan (language)/
 薩莫拉 萨莫拉 [Sa4 mo4 la1] /Zamora/
+薩默塞特 萨默塞特 [Sa4 mo4 sai4 te4] /Somerset/
 薩默塞特郡 萨默塞特郡 [Sa4 mo4 sai4 te4 jun4] /Somerset (county)/
 薩莫色雷斯 萨莫色雷斯 [Sa4 mo4 se4 lei2 si1] /Samothrace/
 薩默斯 萨默斯 [Sa4 mo4 si1] /Sommers/
@@ -14114,6 +14118,7 @@
 韋瓦克 韦瓦克 [Wei2 wa3 ke4] /Wewak/
 維維安娜 维维安娜 [Wei2 wei2 an1 na4] /Viviana/
 維吾爾 维吾尔 [Wei2 wu2 er3] /Uyghur/
+維吾爾文 维吾尔文 [Wei2 wu2 er3 wen2] /Uyghur script/script, Uyghur/
 維吾爾語 维吾尔语 [Wei2 wu2 er3 yu3] /Uighur/Uyghur (language)/
 韋西 韦西 [Wei2 xi1] /Vaisey/
 維西縣 维西县 [Wei2 xi1_Xian4] /Weixi (county, in Yunnan)/
@@ -14126,6 +14131,7 @@
 維也納大學 维也纳大学 [Wei2 ye3 na4_Da4 xue2] /University of Vienna/Vienna, University of/
 維尤山 维尤山 [Wei2 you2_shan1] /Mountain View (place in California)/View, Mountain (place in California)/
 維珍 维珍 [Wei2 zhen1] /Virgin (company)/
+維族 维族 [Wei2 zu2] /Uyghur people (abbreviated form)/people, Uyghur (abbreviated form)/
 偉恩 伟恩 [Wei3 en1] /Wayne/
 偉大的設計 伟大的设计 [Wei3 da4_De5_She4 ji4] /The Grand Design (book, NOT Hawking's)/Grand Design, The (book, NOT Hawking's)/
 偉森 伟森 [Wei3 sen1] /Wissam/
@@ -17541,6 +17547,7 @@
 被派 被派 [bei4_pai4] /be assigned/be reassigned/assigned, be/reassigned, be/
 被派到 被派到 [bei4_pai4_dao4] /assigned to (a place)/
 被判有罪 被判有罪 [bei4_pan4_you3 zui4] /convicted (in a court case)/
+被批 被批 [bei4_pi1] /criticized (as)/
 被欺壓者 被欺压者 [bei4_qi1 ya1 zhe3] /crushed person/person, crushed/
 被曲解為 被曲解为 [bei4_qu1 jie3_wei2] /is misinterpreted as/misinterpreted as, is/
 被人誣告 被人诬告 [bei4_ren2_wu1 gao4] /be falsely accused (by someone)/falsely accused, be (by someone)/
@@ -17646,6 +17653,7 @@
 扁鼓 扁鼓 [bian3 gu3] /biangu (type of drum)/
 扁桃體切除術 扁桃体切除术 [bian3 tao2 ti3_qie1 chu2 shu4] /tonsillectomy (technique)/
 貶意 贬意 [bian3 yi4] /hostile meaning/meaning, hostile/
+變美 变美 [bian4_mei3] /become pretty (phrase used in girl advertising etc)/pretty, become (phrase used in girl advertising etc)/
 變胖 变胖 [bian4_pang4] /become plump/plump, become/
 遍察 遍察 [bian4 cha2] /see everything/everything, see/
 遍處 遍处 [bian4 chu4] /every place/place, every/
@@ -20752,6 +20760,7 @@
 苦毒 苦毒 [ku3 du2] /bitter poison/poison, bitter/
 苦物 苦物 [ku3 wu4] /bitter thing/thing, bitter/
 苦刑柱 苦刑柱 [ku3 xing2 zhu4] /torture stake/stake, torture/
+庫存圖片 库存图片 [ku4 cun2_tu2 pian4] /stock image/stock photograph/image, stock/photograph, stock/
 庫米 库米 [ku4 mi3] /cumi/
 跨文化 跨文化 [kua4 wen2 hua4] /intercultural/
 跨學科交叉研究 跨学科交叉研究 [kua4 xue2 ke1_jiao1 cha1_yan2 jiu1] /interdisciplinary research/research, interdisciplinary/
@@ -21213,6 +21222,7 @@
 每一天 每一天 [mei3_yi1_tian1] /every single day/single day, every/
 每周日 每周日 [mei3_zhou1_ri4] /every Sunday/Sunday, every/
 美福 美福 [mei3 fu2] /good thing (lit. beautiful blessing)/thing, good (lit. beautiful blessing)/
+美眉 美眉 [mei3 mei2] /pretty girl/girl, pretty/
 美容外科手術 美容外科手术 [mei3 rong2_wai4 ke1_shou3 shu4] /cosmetic surgery/surgery, cosmetic/
 美飾 美饰 [mei3 shi4] /ornaments/beautiful decoration/charm/
 美術中心 美术中心 [mei3 shu4_zhong1 xin1] /arts centre/centre, arts/
@@ -21423,6 +21433,7 @@
 南岸 南岸 [nan2 an4] /south coast/coast, south/
 男女主角 男女主角 [nan2 nu:3_zhu3 jue2] /hero and heroine/heroine, hero and/
 難言喻 难言喻 [nan2 yan2 yu4] /beyond expression (short form)/expression, beyond (short form)/
+南疆 南疆 [nan2 jiang1] /southern border/border, southern/
 南界 南界 [nan2 jie4] /side to the south/southern boundary/south, side to the/boundary, southern/
 南樓 南楼 [nan2 lou2] /south tower (of the World Trade Centre)/tower, south (of the World Trade Centre)/
 南門樓 南门楼 [nan2 men2 lou2] /gate of the south/south, gate of the/
@@ -22196,6 +22207,7 @@
 殺人凶手 杀人凶手 [sha1 ren2_xiong1 shou3] /manslayer/
 殺人者 杀人者 [sha1 ren2 zhe3] /manslayer/
 沙塔蠕蟲 沙塔蠕虫 [sha1 ta3 ru2 chong2] /sandcastle worm/worm, sandcastle/
+啥意思 啥意思 [sha2_yi4 si5] /what meaning?/meaning?, what/
 篩查 筛查 [shai1 cha2] /screening (for disease etc)/
 曬網場 晒网场 [shai4 wang3 chang3] /drying yard for dragnets/yard for dragnets, drying/
 山獅 山狮 [shan1_shi1] /mountain lion/lion, mountain/
@@ -22520,6 +22532,7 @@
 始創者 始创者 [shi3 chuang4 zhe3] /founder/
 使堅固 使坚固 [shi3 jian1 gu4] /corroborate (strengthen by confirming) a story etc/story etc, corroborate a/
 驶进 駛進 [shi3 jin4] /steer into (a port etc)/
+矢量圖 矢量图 [shi3 liang4 tu2] /vector image/image, vector/
 始料不及 始料不及 [shi3 liao4 bu4 ji2] /expectation unfulfilled (?)/unfulfilled, expectation (?)/
 史前人類 史前人类 [shi3 qian2_ren2 lei4] /prehistoric man/
 史特勞斯 史特劳斯 [shi3 te4 lao2 si1] /stauros (older transliteration)/
@@ -23172,6 +23185,7 @@
 突然間 突然间 [tu1 ran2 jian1] /suddenly/
 突如其來的情況 突如其来的情况 [tu1 ru2 qi2 lai2_de5_qing2 kuang4] /unexpected situation/situation, unexpected/
 途步 途步 [tu2 bu4] /hiking/
+圖庫 图库 [tu2 ku4] /picture database/stock photography/database, picture/photography, stock/
 圖片來源網絡 图片来源网络 [tu2 pian4_lai2 yuan2_wang3 luo4] /picture from the Web (lazy attribution)/
 圖片來源于網絡 图片来源于网络 [tu2 pian4_lai2 yuan2 yu2_wang3 luo4] /picture from the Web (common lazy attribution)/
 圖片描述 图片描述 [tu2 pian4_miao2 shu4] /picture description (for blind people etc)/description, picture (for blind people etc)/
@@ -23960,6 +23974,7 @@
 修道院院長 修道院院长 [xiu1 dao4 yuan4_yuan4 zhang3] /prelate/archimandrite/abbot/
 修復工作 修复工作 [xiu1 fu4_gong1 zuo4] /restoration work (on a building etc)/work, restoration (on a building etc)/
 修高 修高 [xiu1 gao1] /elevate (a road etc) (?)/
+修理店 修理店 [xiu1 li3 dian4] /repair shop/shop, repair/
 修理員 修理员 [xiu1 li3 yuan2] /repairman/
 修平 修平 [xiu1 ping2] /smooth out (in road repair etc?)/
 羞辱國旗 羞辱国旗 [xiu1 ru3_guo2 qi2] /flag desecration/desecration, flag/
@@ -24449,6 +24464,7 @@
 憂憂愁愁 忧忧愁愁 [you1 you1 chou2 chou2] /grieved/
 優質的 优质的 [you1 zhi4_de5] /high quality/top grade/quality, high/grade, top/
 油類火災 油类火灾 [you2_lei4_huo3 zai1] /burning oil/grease fire/oil, burning/fire, grease/
+游天下 游天下 [you2_tian1 xia4] /travel the world/world, travel the/
 游一游 游一游 [you2_yi5_you2] /have a tour (informal)/look around/tour look around, have a/
 油電暖爐 油电暖炉 [you2 dian4_nuan3 lu2] /kerosene stove/stove, kerosene/
 游客中心 游客中心 [you2 ke4_zhong1 xin1] /visitor centre (at tourist site)/centre, visitor (at tourist site)/
