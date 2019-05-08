@@ -122662,7 +122662,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-05-06
+definition CedPane: this is version 2019-05-08
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -127013,3 +127013,114 @@ pinyin yóu tiānxià
 characters 游天下
 serial-number CedPane25528
 definition travel the world
+*** 
+pinyin Bālánjīyà
+characters 巴兰基亚[-蘭-亞]
+serial-number CedPane25530
+definition Barranquilla
+*** 
+pinyin Bāyēdùpà'ěr
+characters 巴耶杜帕尔[----爾]
+serial-number CedPane25531
+definition Valledupar
+*** 
+pinyin dēngrù
+characters 登入
+serial-number CedPane25532
+definition log in
+*** 
+pinyin Fúláiléi
+characters 弗莱雷[-萊-]
+serial-number CedPane25533
+definition Freire (surname)
+*** 
+pinyin hángkōng yè
+characters 航空业[--業]
+serial-number CedPane25534
+definition aviation industry
+*** 
+pinyin jiāoguàn hùnníngtǔ
+characters 浇灌混凝土[澆----]
+serial-number CedPane25535
+definition pour concrete
+*** 
+pinyin Jiāshā Dìdài
+characters 加沙地带[---帶]
+serial-number CedPane25536
+definition Gaza Strip
+*** 
+pinyin jiékàng
+characters 拮抗
+serial-number CedPane25537
+definition block with opposite force
+*** 
+pinyin Kèxīmǎníyuán
+characters 客西马尼园[--馬-園]
+serial-number CedPane25538
+definition garden of Gethsemane
+*** 
+pinyin Mó'ěrmànsīkè
+characters 摩尔曼斯克[-爾---]
+serial-number CedPane25539
+definition Murmansk
+*** 
+pinyin Nèibèi'ěr
+characters 内贝尔[內貝爾]
+serial-number CedPane25540
+definition Néver
+*** 
+pinyin Nèitǎnyàhú
+characters 内坦亚胡[內-亞-]
+serial-number CedPane25541
+definition Netanyahu
+*** 
+pinyin shèjì fāng'àn
+characters 设计方案[設計--]
+serial-number CedPane25542
+definition architectural plans
+*** 
+pinyin shèjì tuánduì
+characters 设计团队[設計團隊]
+serial-number CedPane25543
+definition design team
+*** 
+pinyin shīgōng ānquán
+characters 施工安全
+serial-number CedPane25544
+definition construction-work safety
+*** 
+pinyin Sūhuòyī
+characters 苏霍伊[蘇--]
+serial-number CedPane25545
+definition Sukhoi
+*** 
+pinyin Sūhuòyī Chāojí
+characters 苏霍伊超级[蘇---級]
+serial-number CedPane25546
+definition Sukhoi Superjet
+*** 
+pinyin tuīwén
+characters 推文
+serial-number CedPane25547
+environment   comp.
+definition tweet
+*** 
+pinyin Xièlièméijiéwò
+characters 谢列梅捷沃[謝----]
+serial-number CedPane25548
+definition Sheremetyevo
+*** 
+pinyin xuǎndān
+characters 选单[選單]
+serial-number CedPane25549
+definition menu (on computer)
+*** 
+pinyin zhīqíng rénshì
+characters 知情人士
+serial-number CedPane25550
+definition insiders
+*** 
+pinyin zǔyì
+characters 阻抑
+serial-number CedPane25551
+definition stop and restrain
