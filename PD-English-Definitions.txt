@@ -47,6 +47,7 @@
 一切险		all risks
 一切險		all risks
 一刻		moment
+一劳永逸		fix for good
 一匙		spoonful
 一匹馬		one horse
 一匹马		one horse
@@ -2613,6 +2614,7 @@
 乃至		and even/go so far as to
 久		for a long time
 久仰		pleased to meet
+久已		long since
 久留		stay for a long time
 久等		wait for a long time
 久而久之		as time passes
@@ -6397,6 +6399,7 @@
 偏转		deflection
 偏远		remote
 偏遠		remote
+偏重		emphasize
 偏門		side door
 偏關		Pianguan
 偏门		side door
@@ -8650,6 +8653,7 @@
 农民		peasant
 农活		farm work
 农田		farmland
+农耕		ploughman
 农舍		farmhouse
 农艺学		agronomy
 农药		pesticide
@@ -12158,6 +12162,7 @@
 博伊西		Boise
 博兴		Boxing
 博加特		Bogart
+博取		gain by strategy
 博士		Dr
 博士学位		PhD
 博士學位		PhD
@@ -19541,6 +19546,7 @@
 大悟		Dawu
 大惊失色		turn pale with fright
 大惊小怪		much fuss about nothing
+大惑不解		muddled
 大意		careless/general idea
 大慈大悲		great mercy
 大慶		Daqing
@@ -22561,6 +22567,7 @@
 宣誓书		affidavit
 宣誓書		affidavit
 宣講		preach (a religious doctrine)
+宣读		read out
 室		room/work unit
 室內		indoor
 室內樂		chamber music
@@ -23734,6 +23741,7 @@
 小心眼		petty
 小心眼儿		petty/narrow-minded
 小心眼兒		petty/narrow-minded
+小心翼翼		carefully
 小意思		small token/mere trifle
 小房間		cubby
 小房间		cubby
@@ -26002,6 +26010,7 @@
 年鑒		almanac
 年長		senior
 年长		senior
+年长日久		long time
 年關		end of the year
 年限		age limit/fixed number of years
 年青		youthful
@@ -28114,6 +28123,7 @@
 心智		intelligence/wisdom
 心有余悸		have lingering fears/to have lingering fears
 心有餘悸		have lingering fears/to have lingering fears
+心服口服		convinced
 心术		intention/design
 心机		thinking/scheming
 心機		thinking/scheming
@@ -30467,6 +30477,7 @@
 手動		manual
 手勢		gesture/sign
 手卷		hand scroll
+手头		finances/experiences
 手头紧		short of money
 手套		glove
 手套箱		glove compartment
@@ -44684,6 +44695,7 @@
 深層次		deep
 深州		Shenzhou
 深州市		Shenzhou
+深广		profound
 深度		depth
 深思		to ponder
 深恶痛绝		detest/abhor
@@ -45783,6 +45795,7 @@
 漕		transport by water
 漚		macerate/bubble
 漠		desert
+漠不关心		apathetic
 漠北		Outer Mongolia
 漠南		Inner Mongolia
 漠河		Mohe
@@ -55741,6 +55754,7 @@
 粮栈		wholesale grain store
 粮草		rations and fodder/army provisions
 粮荒		food shortage
+粮袋		bag of grain
 粮食		food/cereals
 粮食供应者		provisioner
 粮饷		army provisions
@@ -57876,6 +57890,7 @@
 结识		get to know
 结语		concluding remarks
 结账		to settle accounts
+绕		coil
 绕开		avoid
 绕行		make a detour
 绕路		make a detour
@@ -57957,6 +57972,7 @@
 统率		command/lead
 统称		collectively called
 统筹		plan as a whole
+统管		manage
 统统		totally
 统考		unified examination
 统舱		steerage
@@ -62509,6 +62525,7 @@
 荒诞不经		preposterous
 荒谬		ridiculous/absurd
 荒遐		remote region
+荒郊		wilderness
 荒野		wilderness
 荔		litchi
 荔波		Libo
@@ -67683,6 +67700,7 @@
 误		mistakenly
 误事		hold things up
 误会		to misunderstand
+误传		misquote
 误伤		accidental injury
 误入歧途		go astray
 误导		mislead/to mislead
@@ -71407,6 +71425,7 @@
 远端		far end
 远胄		distant descendants
 远胜		beats
+远行		go far away
 远见		foresight/vision
 远视		farsighted
 远视眼		farsightedness
@@ -71415,6 +71434,7 @@
 远距离		long-distance
 远近		distance/far and near
 远远		distant
+远道而来		come from far
 远避		keep at a distance
 远郊		outer suburbs
 违		to disobey/disobey/violate
@@ -72050,6 +72070,7 @@
 通胀		inflation
 通胀率		inflation rate
 通脹		inflation
+通融		bend rules
 通行稅		toll
 通行税		toll
 通行费		toll
@@ -75585,8 +75606,10 @@
 长途		long distance
 长途电话		long-distance call
 长途网路		long distance network
+长途跋涉		trek a long way
 长逝		pass away
 长钉		spike
+长长		grow long
 长队		queue
 长靴		boot
 长顺		Changshun
@@ -76022,6 +76045,7 @@
 闭塞		stop up
 闭幕		close
 闭幕式		closing ceremony
+闭目		shut eyes
 闭经		amenorrhoea
 闭起		shut
 闭路		closed circuit
@@ -79923,6 +79947,7 @@
 饞人		appetizing
 饞嘴		gluttonous/glutton
 饞鬼		greedy/piggish
+饥		hungry
 饥渴		hunger and thirst
 饥荒		famine/debt/crop failure
 饥饿		hunger
