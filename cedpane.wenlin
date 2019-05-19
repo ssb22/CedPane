@@ -31800,7 +31800,7 @@ definition Rama (Hindu god)
 pinyin Luómò
 characters 罗默[羅-]
 serial-number CedPane6373
-definition Romer
+definition Romer; Rohmer
 *** 
 pinyin Luónà
 characters 罗娜[羅-]
@@ -50754,7 +50754,7 @@ definition danger zone
 pinyin Wēixìn
 characters 微信
 serial-number CedPane10172
-definition WeChat (formerly Weixin, a QQ service for mobiles)
+definition WeChat (formerly Weixin, mobile messaging)
 *** 
 pinyin wèixīng dǎoháng
 characters 卫星导航[衛-導-]
@@ -122662,7 +122662,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-05-18
+definition CedPane: this is version 2019-05-19
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -127805,3 +127805,48 @@ pinyin zuòcírén
 characters 作词人[-詞-]
 serial-number CedPane25689
 definition lyricist
+*** 
+pinyin bùxìnzhě
+characters 不信者
+serial-number CedPane25690
+definition unbeliever
+*** 
+pinyin Fù Mǎnzhōu
+characters 傅满洲[-滿-]
+serial-number CedPane25691
+definition Fu Manchu (Rohmer character)
+*** 
+pinyin jiā ge Wēixìn
+characters 加个微信[-個--]
+serial-number CedPane25692
+definition add each other on WeChat
+*** 
+pinyin jiā wǒ Wēixìn
+characters 加我微信
+serial-number CedPane25693
+definition add me on WeChat
+*** 
+pinyin liú ge liánxì fāngshì
+characters 留个联系方式[-個聯---]
+serial-number CedPane25694
+definition exchange contact information (with someone)
+*** 
+pinyin yánjiū jiéguǒ
+characters 研究结果[--結-]
+serial-number CedPane25695
+definition study results
+*** 
+pinyin Duōhā
+characters 多哈
+serial-number CedPane25696
+definition Doha (in Qatar)
+*** 
+pinyin Láifúshì
+characters 莱福士[萊--]
+serial-number CedPane25697
+definition Raffles (less common transcription)
+*** 
+pinyin Pǔlìzīkè
+characters 普利兹克[--茲-]
+serial-number CedPane25698
+definition Pritzker

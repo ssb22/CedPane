@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-05-18
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-05-19
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -3588,6 +3588,7 @@
 多多納 多多纳 [Duo1 duo1 na4] /Dodona/
 多佛 多佛 [Duo1 fo2] /Dover/
 多格拉語 多格拉语 [Duo1 ge2 la1 yu3] /Dogri (language)/
+多哈 多哈 [Duo1 ha1] /Doha (in Qatar)/
 多加 多加 [Duo1 jia1] /Dorcas/
 多金 多金 [Duo1 jin1] /Dorking/
 多卡 多卡 [Duo1 ka3] /Dophkah/
@@ -4251,6 +4252,7 @@
 撫州市 抚州市 [Fu3 zhou1_Shi4] /Fuzhou city (Jiangxi)/city, Fuzhou (Jiangxi)/
 復樂園 复乐园 [Fu4_Le4 yuan2] /Paradise Regained (Milton sequel)/Regained, Paradise (Milton sequel)/
 復聯 复联 [Fu4_Lian2] /Avengers (film franchise, abbreviated version)/
+傅滿洲 傅满洲 [Fu4_Man3 zhou1] /Fu Manchu (Rohmer character)/Manchu, Fu (Rohmer character)/
 富縣 富县 [Fu4_Xian4] /Fu County/County, Fu/
 富恩特 富恩特 [Fu4 en1 te4] /Fuente/
 富爾達 富尔达 [Fu4 er3 da2] /Fulda/
@@ -5231,7 +5233,7 @@
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-05-18/this is version 2019-05-18, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-05-19/this is version 2019-05-19, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
@@ -7843,6 +7845,7 @@
 萊佛士 莱佛士 [Lai2 fo2 shi4] /Raffles (surname)/
 萊夫 莱夫 [Lai2 fu1] /Leif (Eriksson)/
 萊夫科維茨 莱夫科维茨 [Lai2 fu1 ke1 wei2 ci2] /Lefkowitz/
+萊福士 莱福士 [Lai2 fu2 shi4] /Raffles (less common transcription)/
 萊格 莱格 [Lai2 ge2] /Legge/
 萊基 莱基 [Lai2 ji1] /Leckie/
 萊克斯 莱克斯 [Lai2 ke4 si1] /Lex/
@@ -8970,7 +8973,7 @@
 羅密歐 罗密欧 [Luo2 mi4 ou1] /Romeo/
 羅密歐和朱麗葉 罗密欧和朱丽叶 [Luo2 mi4 ou1_he2_Zhu1 li4 ye4] /Romeo and Juliet/Juliet, Romeo and/
 羅摩 罗摩 [Luo2 mo2] /Rama (Hindu god)/
-羅默 罗默 [Luo2 mo4] /Romer/
+羅默 罗默 [Luo2 mo4] /Romer/Rohmer/
 羅姆尼 罗姆尼 [Luo2 mu3 ni2] /Romney/
 羅姆人 罗姆人 [Luo2 mu3 ren2] /Romany (people)/
 羅姆語 罗姆语 [Luo2 mu3 yu3] /Romany (language)/
@@ -11305,6 +11308,7 @@
 普利尼奧 普利尼奥 [Pu3 li4 ni2 ao4] /Plínio/
 普麗西拉 普丽西拉 [Pu3 li4 xi1 la1] /Priscilla (modern)/
 普莉希拉 普莉希拉 [Pu3 li4 xi1 la1] /Priscilla (modern)/
+普利茲克 普利兹克 [Pu3 li4 zi1 ke4] /Pritzker/
 普林尼 普林尼 [Pu3 lin2 ni2] /Pliny/
 普林斯 普林斯 [Pu3 lin2 si1] /Prince (name)/
 普林斯頓 普林斯顿 [Pu3 lin2 si1 dun4] /Princeton/
@@ -14055,7 +14059,7 @@
 威斯特 威斯特 [Wei1 si1 te4] /Westminster (older translation)/
 威斯特伐利亞 威斯特伐利亚 [Wei1 si1 te4 fa2 li4 ya4] /Westphalia/
 薇薇安 薇薇安 [Wei1 wei1 an1] /Vivien/
-微信 微信 [Wei1 xin4] /WeChat (formerly Weixin, a QQ service for mobiles)/
+微信 微信 [Wei1 xin4] /WeChat (formerly Weixin, mobile messaging)/
 微信公眾平台 微信公众平台 [Wei1 xin4_Gong1 zhong4_Ping2 tai2] /WeChat Official Accounts Platform/Official Accounts Platform, WeChat/
 威信縣 威信县 [Wei1 xin4_Xian4] /Weixin County/County, Weixin/
 微信支付 微信支付 [Wei1 xin4_Zhi1 fu4] /WeChat Pay/
@@ -17918,6 +17922,7 @@
 不穩 不稳 [bu4 wen3] /totter/limp (lit. not stable|steady)/
 步向 步向 [bu4 xiang4] /step towards/towards, step/
 不信 不信 [bu4 xin4] /not believe/believe, not/
+不信者 不信者 [bu4 xin4 zhe3] /unbeliever/
 不要怕 不要怕 [bu4 yao4_pa4] /don't fear/fear, don't/
 不要理會 不要理会 [bu4 yao4 li3 hui4] /have nothing to do with (lit. don't take notice of)/nothing to do with, have (lit. don't take notice of)/
 不以己悲 不以己悲 [bu4 yi3 ji3 bei1] /unemotional (not grieving over self)/
@@ -20201,8 +20206,10 @@
 祭月 祭月 [ji4 yue4] /sacrifice to the moon god/moon god, sacrifice to the/
 記住這一點 记住这一点 [ji4 zhu5_zhe4_yi1_dian3] /with this in mind/this in mind, with/
 繼子女 继子女 [ji4 zi3 nu:3] /stepchildren/
+加個微信 加个微信 [jia1_ge5_Wei1 xin4] /add each other on WeChat/each other on WeChat, add/
 家裡的事 家里的事 [jia1_li5_de5_shi4] /family matters/matters, family/
 加他 加他 [jia1_ta1] /add him (on QQ etc)/
+加我微信 加我微信 [jia1_wo3_Wei1 xin4] /add me on WeChat/WeChat, add me on/
 夾餅 夹饼 [jia1 bing3] /waffles/
 加插 加插 [jia1 cha1] /insert/include/
 佳果 佳果 [jia1 guo3] /good fruits/choice things (agricultural)/fruits, good (agricultural)/things, choice (agricultural)/
@@ -21138,6 +21145,7 @@
 另一種文化 另一种文化 [ling4_yi1_zhong3_wen2 hua4] /another culture/culture, another/
 另類療法 另类疗法 [ling4 lei4_liao2 fa3] /alternative treatment/treatment, alternative/
 另類醫學 另类医学 [ling4 lei4_yi1 xue2] /alternative medicine/medicine, alternative/
+留個聯系方式 留个联系方式 [liu2_ge5_lian2 xi4_fang1 shi4] /exchange contact information (with someone)/contact information, exchange (with someone)/
 留過 留过 [liu2_guo4] /stay beyond .../keep more than .../beyond ..., stay/more than ..., keep/
 留在家中 留在家中 [liu2_zai4_jia1_zhong1] /stay at home (for most of the time etc)/home, stay at (for most of the time etc)/
 留座 留座 [liu2_zuo4] /reserve a seat/seat, reserve a/
@@ -24260,6 +24268,7 @@
 沿河逆流而上 沿河逆流而上 [yan2 he2_ni4 liu2 er2 shang4] /upstream (along the river)/
 延後 延后 [yan2 hou4] /postpone/
 研究基金 研究基金 [yan2 jiu1_ji1 jin1] /research funding/funding, research/
+研究結果 研究结果 [yan2 jiu1_jie2 guo3] /study results/results, study/
 研究團隊 研究团队 [yan2 jiu1_tuan2 dui4] /research team/team, research/
 研究小組 研究小组 [yan2 jiu1_xiao3 zu3] /study group/group, study/
 研究站 研究站 [yan2 jiu1_zhan4] /research station/station, research/
