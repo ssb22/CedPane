@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-05-19
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-05-20
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -5233,7 +5233,7 @@
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-05-19/this is version 2019-05-19, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-05-20/this is version 2019-05-20, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
@@ -19129,6 +19129,7 @@
 犯過 犯过 [fan4 guo4] /transgress/
 犯過者 犯过者 [fan4 guo4 zhe3] /wrongdoer/
 犯了錯 犯了错 [fan4 le5_cuo4] /made a mistake/make a mistake/mistake, made a/
+飯量小 饭量小 [fan4 liang4 xiao3] /having small appetite/small appetite, having/
 犯罪證據 犯罪证据 [fan4 zui4_zheng4 ju4] /incriminating evidence/evidence, incriminating/
 犯罪組織 犯罪组织 [fan4 zui4_zu3 zhi1] /criminal organization/organization, criminal/
 犯罪者 犯罪者 [fan4 zui4 zhe3] /criminal/
@@ -19645,6 +19646,7 @@
 光線追蹤 光线追踪 [guang1 xian4_zhui1 zong1] /ray tracing/tracing, ray/
 光學工程 光学工程 [guang1 xue2_gong1 cheng2] /optical engineering/engineering, optical/
 光照療法 光照疗法 [guang1 zhao4_liao2 fa3] /bright-light therapy/therapy, bright-light/
+光子學 光子学 [guang1 zi3 xue2] /photonics/
 廣傳 广传 [guang3 chuan2] /widely publishing/publishing, widely/
 廣賜 广赐 [guang3 ci4] /widely bestow (official gifts etc)/bestow, widely (official gifts etc)/
 廣大讀者 广大读者 [guang3 da4_du2 zhe3] /readers (the reading public)/

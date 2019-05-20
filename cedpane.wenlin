@@ -122662,7 +122662,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-05-19
+definition CedPane: this is version 2019-05-20
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -127850,3 +127850,13 @@ pinyin Pǔlìzīkè
 characters 普利兹克[--茲-]
 serial-number CedPane25698
 definition Pritzker
+*** 
+pinyin fànliàngxiǎo
+characters 饭量小[飯--]
+serial-number CedPane25699
+definition having small appetite
+*** 
+pinyin guāngzǐxué
+characters 光子学[--學]
+serial-number CedPane25700
+definition photonics
