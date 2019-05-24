@@ -122662,7 +122662,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-05-20
+definition CedPane: this is version 2019-05-24
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -126711,7 +126711,7 @@ characters 平壤市
 serial-number CedPane25467
 definition Pyeongyang (city, in Korea)
 *** 
-pinyin qiáoshǒu-yǐdài
+pinyin qiáoshǒuyǐdài
 characters 翘首以待[翹---]
 serial-number CedPane25468
 definition eagerly look forward
@@ -127860,3 +127860,185 @@ pinyin guāngzǐxué
 characters 光子学[--學]
 serial-number CedPane25700
 definition photonics
+*** 
+pinyin Ā'ěrnàshí
+characters 阿尔纳什[-爾納-]
+serial-number CedPane25701
+definition Alnashi
+*** 
+pinyin bàntiānjià
+characters 半天假
+serial-number CedPane25702
+definition half-day holiday
+*** 
+pinyin bèiyòng jìhuá
+characters 备用计划[備-計劃]
+serial-number CedPane25703
+definition backup plan
+*** 
+pinyin féizhái
+characters 肥宅
+serial-number CedPane25704
+environment   netspeak
+definition fat nerd
+*** 
+pinyin fūqī liǎ
+characters 夫妻俩[--倆]
+serial-number CedPane25705
+definition both of the (married) couple
+*** 
+pinyin gāozhuō
+characters 高桌
+serial-number CedPane25706
+definition high table (in formal hall)
+*** 
+pinyin gāozhuō wǎnyàn
+characters 高桌晚宴
+serial-number CedPane25707
+definition high-table dinner (at university etc)
+*** 
+pinyin Gélíndàihuádé
+characters 葛林戴华德[---華-]
+serial-number CedPane25708
+definition Grindelwald (fictional character)
+*** 
+pinyin Gélíndéwǎ
+characters 格林德瓦
+serial-number CedPane25709
+definition Grindelwald (village in Switzerland)
+*** 
+pinyin Gǔgē Yóuxiāng
+characters 谷歌邮箱[--郵-]
+serial-number CedPane25710
+definition Gmail (Google Mail)
+*** 
+pinyin guò hǎo měi yī tiān
+characters 过好每一天[過----]
+serial-number CedPane25711
+definition taking each day as it comes
+*** 
+pinyin hǎiwài shìchǎng
+characters 海外市场[---場]
+serial-number CedPane25712
+definition overseas market
+*** 
+pinyin Jiābùlǐ'ěr
+characters 加布里尔[---爾]
+serial-number CedPane25713
+definition Gabriel (modern)
+*** 
+pinyin jiāng yú
+characters 将于[將於]
+serial-number CedPane25714
+definition will by (a time do something)
+*** 
+pinyin jígéxiàn
+characters 及格线[--線]
+serial-number CedPane25715
+definition pass threshold (on test)
+*** 
+pinyin liúxíngcí
+characters 流行词[--詞]
+serial-number CedPane25716
+definition popular/trendy word
+*** 
+pinyin měi-zhuāng
+characters 美妆[-妝]
+serial-number CedPane25717
+definition beauty and makeup
+*** 
+pinyin Qiè'ěrxī Huāhuì Zhǎn
+characters 切尔西花卉展[-爾----]
+serial-number CedPane25718
+definition Chelsea Flower Show
+*** 
+pinyin rénquán rénshì
+characters 人权人士[-權--]
+serial-number CedPane25719
+definition human rights advocates
+*** 
+pinyin Rèn Zhèngfēi
+characters 任正非
+serial-number CedPane25720
+definition Ren Zhengfei (Huawei founder)
+*** 
+pinyin shàngsù'àn
+characters 上诉案[-訴-]
+serial-number CedPane25721
+definition appeal case (in court)
+*** 
+pinyin shēngjí xìtǒng
+characters 升级系统[-級-統]
+serial-number CedPane25722
+environment   comp.
+definition upgrade the operating system
+*** 
+pinyin shítǐ qīngdān
+characters 实体清单[實體-單]
+serial-number CedPane25723
+definition entity list (US export blacklist)
+*** 
+pinyin shùjù tǒngjì
+characters 数据统计[數據統計]
+serial-number CedPane25724
+definition statistics; data
+*** 
+pinyin Tǎlìtǎ
+characters 塔莉塔
+serial-number CedPane25725
+definition Talita
+*** 
+pinyin Tiānmāo
+characters 天猫[-貓]
+serial-number CedPane25726
+definition Tmall (Taobao shopping website)
+*** 
+pinyin tīngzhèng chéngxù
+characters 听证程序[聽證--]
+serial-number CedPane25727
+definition court hearing
+*** 
+pinyin tóng yī jiàn shì
+characters 同一件事
+serial-number CedPane25728
+definition the same thing (viewed from different aspects etc)
+*** 
+pinyin xīnwù'èrchún
+characters 新戊二醇
+serial-number CedPane25729
+definition neopentylglycol; NPG
+*** 
+pinyin xízìbù
+characters 习字簿[習--]
+serial-number CedPane25730
+definition exercise book (for handwriting)
+*** 
+pinyin yíngshāng
+characters 营商[營-]
+serial-number CedPane25731
+definition business
+*** 
+pinyin yíngshāng huánjìng
+characters 营商环境[營-環-]
+serial-number CedPane25732
+definition business environment
+*** 
+pinyin yònghùmen
+characters 用户们[-戶們]
+serial-number CedPane25733
+definition users
+*** 
+pinyin Yóuguǎn Shìpín
+characters 油管视频[--視頻]
+serial-number CedPane25734
+definition YouTube (video site)
+*** 
+pinyin zhǐbiāo tǐxì
+characters 指标体系[-標體-]
+serial-number CedPane25735
+definition indicator system
+*** 
+pinyin Zhōngxìng Tōngxùn
+characters 中兴通讯[-興-訊]
+serial-number CedPane25736
+definition ZTE; Zhongxing Telecommunications
