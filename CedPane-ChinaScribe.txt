@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-05-24
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-05-28
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -5237,7 +5237,7 @@
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-05-24/this is version 2019-05-24, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-05-28/this is version 2019-05-28, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
@@ -8574,6 +8574,7 @@
 劉海若 刘海若 [Liu2_Hai3 ruo4] /Liu Hairuo/Hairuo, Liu/
 劉洪濤 刘洪涛 [Liu2_Hong2 tao1] /Liu Hongtao/Hongtao, Liu/
 劉錫祥 刘锡祥 [Liu2_Xi1 xiang2] /Sidney Lau (romanisation)/
+劉欣 刘欣 [Liu2_Xin1] /Liu Xin (TV anchor)/
 流珥 流珥 [Liu2 er3] /Reuel/
 留壩縣 留坝县 [Liu2 ba4_Xian4] /Liuba (county, in Shaanxi)/
 流便 流便 [Liu2 bian4] /Reuben (old translation?)/
@@ -9787,6 +9788,7 @@
 美國運通 美国运通 [Mei3 guo2_Yun4 tong1] /American Express (corporation)/Express, American (corporation)/
 美國百科全書 美国百科全书 [Mei3 guo2_bai3 ke1 quan2 shu1] /Encyclopedia Americana/Americana/Americana, Encyclopedia/
 美國東岸 美国东岸 [Mei3 guo2_dong1 an4] /the East Coast of the United States/East Coast of the United States, the/
+美國東部時間 美国东部时间 [Mei3 guo2_dong1 bu4_shi2 jian1] /Eastern Time (US)/EST/Time EST, Eastern/
 美國國家科學院 美国国家科学院 [Mei3 guo2_guo2 jia1_ke1 xue2 yuan4] /NAS/National Academy of Sciences (USA)/
 美國手語 美国手语 [Mei3 guo2_shou3 yu3] /American sign language (older translation)/sign language, American (older translation)/
 美凱 美凯 [Mei3 kai3] /Mieke/
@@ -10044,6 +10046,7 @@
 米特爾曼 米特尔曼 [Mi3 te4 er3 man4] /Mittleman/
 米特倫加 米特伦加 [Mi3 te4 lun2 jia1] /Mitrega/
 米烏尼 米乌尼 [Mi3 wu1 ni2] /Meunim/
+米希爾 米希尔 [Mi3 xi1 er3] /Michael (modern)/
 米夏埃爾 米夏埃尔 [Mi3 xia4 ai1 er3] /Michael (modern)/
 米夏埃爾廣場 米夏埃尔广场 [Mi3 xia4 ai1 er3_Guang3 chang3] /Michaelerplatz/
 米歇爾 米歇尔 [Mi3 xie1 er3] /Michelle/
@@ -10372,6 +10375,7 @@
 拿拉 拿拉 [Na2 la1] /Naarah/
 拿萊 拿莱 [Na2 lai2] /Naarai/
 拿蘭 拿兰 [Na2 lan2] /Naaran/
+拿利迦 拿利迦 [Na2 li4 jia1] /Narlikar/
 拿瑪 拿玛 [Na2 ma3] /Naamah/
 拿瑪人 拿玛人 [Na2 ma3 ren2] /Naamathite/
 拿破侖 拿破仑 [Na2 po4 lun2] /Napoleon/Napoléon/
@@ -17766,6 +17770,7 @@
 標准尺寸 标准尺寸 [biao1 zhun3_chi3 cun4] /standard-size (something)/
 標準價格 标准价格 [biao1 zhun3_jia4 ge2] /the going price/going price, the/
 標準版 标准版 [biao1 zhun3 ban3] /regular edition/standard edition (not pinyin or large print)/edition, regular (not pinyin or large print)/
+標準本 标准本 [biao1 zhun3 ben3] /normal version/regular edition (of a publication, i.e. not pinyin or large print etc)/version, normal (of a publication, i.e. not pinyin or large print etc)/edition, regular (of a publication, i.e. not pinyin or large print etc)/
 標做 标做 [biao1 zuo4] /write as/
 表達思想的自由 表达思想的自由 [biao3 da2_si1 xiang3_de5_zi4 you2] /freedom of expression/expression, freedom of/
 表達意見 表达意见 [biao3 da2_yi4 jian5] /express an opinion/opinion, express an/
@@ -18269,6 +18274,7 @@
 醜聲 丑声 [chou3 sheng1] /cry of complaint/complaint, cry of/
 臭草 臭草 [chou4 cao3] /stinking weeds/weeds, stinking/
 出埃及 出埃及 [chu1_Ai1 ji2] /exodus (deliverance from Egypt)/
+出廠設置 出厂设置 [chu1 chang3_she4 zhi4] /factory default (setting)/default, factory (setting)/
 初創企業 初创企业 [chu1 chuang4_qi3 ye4] /startup (business)/
 出到 出到 [chu1 dao4] /go out to (an outbuilding etc)/
 初級班 初级班 [chu1 ji2 ban1] /primary (school) class/class, primary/
@@ -19500,6 +19506,7 @@
 公牛犢 公牛犊 [gong1 niu2 du2] /young bull/bull, young/
 公山羊羔 公山羊羔 [gong1 shan1 yang2 gao1] /male kid of the goats/goats, male kid of the/
 公羊羔 公羊羔 [gong1 yang2 gao1] /male lamb/lamb, male/
+工廠重置 工厂重置 [gong1 chang3_chong2 zhi4] /factory reset/reset, factory/
 公車捷運系統 公车捷运系统 [gong1 che1_jie2 yun4_xi4 tong3] /bus rapid transit/busway/rapid transit, bus/
 工程系 工程系 [gong1 cheng2 xi4] /engineering department/department, engineering/
 工地組 工地组 [gong1 di4 zu3] /siteworks team/team, siteworks/
@@ -21229,6 +21236,7 @@
 錄音筆 录音笔 [lu4 yin1 bi3] /recording pen/
 錄音師 录音师 [lu4 yin1 shi1] /trained audio technician/audio technician, trained/
 路由器 路由器 [lu4 you2 qi4] /router/
+路有凍死骨 路有冻死骨 [lu4 you3 dong4 si3 gu3] /people freezing to death at the roadside (while the rich feast)/freezing to death at the roadside, people (while the rich feast)/
 路緣石 路缘石 [lu4 yuan2 shi2] /curbstone/
 亂石堆 乱石堆 [luan4 shi2 dui1] /(disorderly) pile of stones/stones, pile of/
 亂走 乱走 [luan4 zou3] /walking in chaos/wandering in confusion/chaos, walking in/confusion, wandering in/
@@ -21424,6 +21432,7 @@
 面露 面露 [mian4 lu4] /what one's face is showing?/one's face is showing?, what/
 面試題 面试题 [mian4 shi4 ti2] /interview question/question, interview/
 麵頭 面头 [mian4 tou2] /sour (used in sourdough baking)/
+描述為 描述为 [miao2 shu4_wei2] /describe as/
 描述性 描述性 [miao2 shu4 xing4] /descriptive/
 瞄子 瞄子 [miao2 zi5] /nozzle/
 廟妓 庙妓 [miao4 ji4] /temple prostitute/prostitute, temple/
@@ -21799,6 +21808,7 @@
 配字 配字 [pei4_zi4] /add subtitle|caption (to video|picture)/subtitle|caption, add (to video|picture)/
 配字幕 配字幕 [pei4_zi4 mu4] /add subtitles (to a video)/subtitles, add (to a video)/
 佩戴 佩戴 [pei4 dai4] /wear as a badge etc/badge etc, wear as a/
+佩帶著 佩带着 [pei4 dai4 zhe5] /wearing/
 配得 配得 [pei4 de2] /worthy/
 佩上 佩上 [pei4 shang5] /wear (breastpiece)/
 配受 配受 [pei4 shou4] /deserve to get/
@@ -23514,6 +23524,7 @@
 網民 网民 [wang3 min2] /netizen (term frequently used in PRC for user of social media etc)/
 網內 网内 [wang3 nei4] /same network (telecommunications)/network, same (telecommunications)/
 網內互打 网内互打 [wang3 nei4 hu4 da3] /phone calls within the same network/calls within the same network, phone/
+網球鞋 网球鞋 [wang3 qiu2 xie2] /tennis shoes/trainers/sneakers/shoes, tennis/
 網上 网上 [wang3 shang5] /on the Web/on the Internet/Web, on the/Internet, on the/
 網上聊天室 网上聊天室 [wang3 shang4_liao2 tian1 shi4] /Internet chat rooms/chat rooms, Internet/
 網上欺凌 网上欺凌 [wang3 shang4_qi1 ling2] /cyberbullying/
@@ -23580,6 +23591,7 @@
 位高 位高 [wei4 gao1] /high in position/position, high in/
 位高權重 位高权重 [wei4 gao1 quan2 zhong4] /powerful (politically)/
 未婚同居 未婚同居 [wei4 hun1_tong2 ju1] /living together (unmarried)/cohabitation/together cohabitation, living/
+未見之事的確據 未见之事的确据 [wei4 jian4_zhi1_shi4_de5_que4 ju4] /the evidence of things not seen/evidence of things not seen, the/
 衛軍 卫军 [wei4 jun1] /guard/
 未來的客戶 未来的客户 [wei4 lai2_de5_ke4 hu4] /potential customer (lit. future customer)/customer, potential (lit. future customer)/
 未來配偶 未来配偶 [wei4 lai2_pei4 ou3] /prospective mate (lit. future spouse)/mate, prospective (lit. future spouse)/
@@ -24702,6 +24714,7 @@
 有禍 有祸 [you3 huo4] /have woe/
 有機食物 有机食物 [you3 ji1_shi2 wu4] /organic food/food, organic/
 有家有室 有家有室 [you3 jia1 you3 shi4] /having home and wife|family/home and wife|family, having/
+有理有據有節 有理有据有节 [you3 li3 you3 ju4 you3 jie2] /reasonable and moderate/moderate, reasonable and/
 有力的證據 有力的证据 [you3 li4_de5_zheng4 ju4] /compelling evidence/evidence, compelling/
 有利于 有利于 [you3 li4_yu2] /opportune for/useful for (of situation etc)/for, opportune (of situation etc)/
 有權有勢 有权有势 [you3 quan2 you3 shi4] /be mighty (in government etc)/mighty, be (in government etc)/
@@ -25467,6 +25480,7 @@
 走投無路之下 走投无路之下 [zou3 tou2 wu2 lu4_zhi1 xia4] /as a last resort/last resort, as a/
 走歪 走歪 [zou3 wai1] /walk crooked/deflect/crooked, walk/
 走完 走完 [zou3 wan2] /finish (a journey etc)/
+走走路 走走路 [zou3 zou3_lu4] /take a walk/walk, take a/
 奏國歌 奏国歌 [zou4_guo2 ge1] /play the national anthem/national anthem, play the/
 奏告 奏告 [zou4 gao4] /report (to ancient king etc)/
 奏起 奏起 [zou4 qi5] /strike up (a melody)/
