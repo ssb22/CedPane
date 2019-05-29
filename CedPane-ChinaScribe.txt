@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-05-28
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-05-29
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -2384,6 +2384,7 @@
 布拉姆斯 布拉姆斯 [Bu4 la1 mu3 si1] /Brahms/
 布拉斯 布拉斯 [Bu4 la1 si1] /Blas/
 布拉希爾 布拉希尔 [Bu4 la1 xi1 er3] /Brashier/
+布拉西耶 布拉西耶 [Bu4 la1 xi1 ye1] /Brasier (surname)/
 布拉德伯里 布拉德伯里 [Bu4 la5 de2 bo2 li3] /Bradbury/
 布萊恩 布莱恩 [Bu4 lai2 en1] /Brian/
 布萊爾 布莱尔 [Bu4 lai2 er3] /Blair (surname)/
@@ -5237,7 +5238,7 @@
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-05-28/this is version 2019-05-28, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-05-29/this is version 2019-05-29, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
@@ -9763,6 +9764,7 @@
 玫秀 玫秀 [Mei2 xiu4] /Meihsiu/
 梅耶 梅耶 [Mei2 ye1] /Meyer/
 梅耶貝爾 梅耶贝尔 [Mei2 ye1 bei4 er3] /Meyerbeer/
+梅姨 梅姨 [Mei2 yi2] /auntie May (Chinese nickname for Theresa May, UK PM 2016-19)/
 梅州 梅州 [Mei2 zhou1] /Meizhou (in Guangdong)/
 梅州市 梅州市 [Mei2 zhou1_Shi4] /Meizhou (in Guangdong)/
 美魏茶 美魏茶 [Mei3_Wei4 cha2] /William Milne (helped Morrison)/Milne, William (helped Morrison)/
@@ -10190,6 +10192,7 @@
 末代皇帝 末代皇帝 [Mo4 dai4_Huang2 di4] /the last emperor (of China)/last emperor, the (of China)/
 莫德 莫德 [Mo4 de2] /Maud/
 莫德洛監獄 莫德洛监狱 [Mo4 de2 luo4 jian1 yu4] /Cárcel Modelo/Modelo Prison/Modelo, Cárcel/Prison, Modelo/
+莫迪 莫迪 [Mo4 di2] /Modi/
 莫迪凱 莫迪凯 [Mo4 di2 kai3] /Mordechai/
 末底改 末底改 [Mo4 di3 gai3] /Mordecai/
 默冬周期 默冬周期 [Mo4 dong1_zhou1 qi1] /Metonic cycle/cycle, Metonic/
@@ -14274,6 +14277,7 @@
 溫州 温州 [Wen1 zhou1] /Wenzhou (in Zhejiang)/
 溫州市 温州市 [Wen1 zhou1_Shi4] /Wenzhou (in Zhejiang)/
 溫州話 温州话 [Wen1 zhou1 hua4] /Wenzhounese (topolect)/
+文翠珊 文翠珊 [Wen2_Cui4 shan1] /Theresa May (UK PM 2016-2019)/
 文鮮明 文鲜明 [Wen2_Xian1 ming2] /Moon, Sun Myung/Myung, Moon, Sun/
 文縣 文县 [Wen2_Xian4] /Wen County/County, Wen/
 文安縣 文安县 [Wen2 an1_Xian4] /Wen'an (county, in Hebei)/
@@ -14761,6 +14765,7 @@
 希里 希里 [Xi1 li3] /Heli/
 西里爾 西里尔 [Xi1 li3 er3] /Cyril/
 西里爾文 西里尔文 [Xi1 li3 er3 wen2] /Cyrillic (written language)/
+西里貝 西里贝 [Xi1 li3 bei4] /Sillibel/
 希里芬 希里芬 [Xi1 li3 fen1] /Schlieffen/
 希里莫圖語 希里莫图语 [Xi1 li3 mo4 tu2 yu3] /Hiri Motu (language)/Motu, Hiri (language)/
 西里西亞 西里西亚 [Xi1 li3 xi1 ya4] /Silesia/
@@ -17968,6 +17973,7 @@
 財政改革 财政改革 [cai2 zheng4_gai3 ge2] /fiscal reform/reform, fiscal/
 踩滑板 踩滑板 [cai3_hua2 ban3] /skateboarding/
 彩布 彩布 [cai3 bu4] /coloured cloth/cloth, coloured/
+采購經理 采购经理 [cai3 gou4_jing1 li3] /purchasing manager/procurement manager/manager, purchasing/
 彩虹飛蜥 彩虹飞蜥 [cai3 hong2 fei1 xi1] /agama/
 彩虹色 彩虹色 [cai3 hong2 se4] /iridescence/
 彩繪玻璃窗 彩绘玻璃窗 [cai3 hui4_bo1 li5 chuang1] /stained glass windows/glass windows, stained/
@@ -18778,6 +18784,7 @@
 點選 点选 [dian3 xuan3] /click on (something with mouse etc)/
 點陣式 点阵式 [dian3 zhen4 shi4] /dot-matrix type/type, dot-matrix/
 點陣式打印機 点阵式打印机 [dian3 zhen4 shi4_da3 yin4 ji1] /dot-matrix printer/printer, dot-matrix/
+點字版 点字版 [dian3 zi4 ban3] /Braille edition/Braille format/edition, Braille/format, Braille/
 電壓力鍋 电压力锅 [dian4_ya1 li4 guo1] /electric pressure-cooker/pressure-cooker, electric/
 電錶房 电表房 [dian4 biao3 fang2] /meter room (electricity)/room, meter (electricity)/
 電傳簧風琴 电传簧风琴 [dian4 chuan2_huang2 feng1 qin2] /telharmonium/
@@ -19032,6 +19039,7 @@
 墮落的天使 堕落的天使 [duo4 luo4_de5_tian1 shi3] /The Fallen Angel (statue title in Madrid)/Fallen Angel, The (statue title in Madrid)/
 墮落天使 堕落天使 [duo4 luo4_tian1 shi3] /fallen angel/angel, fallen/
 剁手 剁手 [duo4 shou3] /quit Internet shopping (by metaphorically cutting off hand)/Internet shopping, quit (by metaphorically cutting off hand)/
+額滿即止 额满即止 [e2_man3_ji2_zhi3] /first come first served (of limited tickets etc)/come first served, first (of limited tickets etc)/
 額定頻率 额定频率 [e2 ding4_pin2 lu:4] /rated frequency (of electrical item)/frequency, rated (of electrical item)/
 額堅心硬 额坚心硬 [e2 jian1 xin1 ying4] /hardheaded and hardhearted/hardhearted, hardheaded and/
 蛾繭 蛾茧 [e2 jian3] /moth cocoon/cocoon, moth/
@@ -19554,6 +19562,7 @@
 共通點 共通点 [gong4 tong1 dian3] /thing in common/common, thing in/
 共同因素 共同因素 [gong4 tong2_yin1 su4] /common factor (older translation)/factor, common (older translation)/
 共同祖先 共同祖先 [gong4 tong2_zu3 xian1] /common ancestor/ancestor, common/
+貢物 贡物 [gong4 wu4] /tribute (to conqueror etc)/
 共享經濟 共享经济 [gong4 xiang3_jing1 ji4] /sharing economy/economy, sharing/
 共敘天倫 共叙天伦 [gong4 xu4_tian1 lun2] /sharing natural bonds/natural bonds, sharing/
 共冶一爐 共冶一炉 [gong4 ye3 yi1 lu2] /be combined into one/combined into one, be/
@@ -19636,6 +19645,7 @@
 關節窩 关节窝 [guan1 jie2 wo1] /joint (of thigh etc)/
 觀景台 观景台 [guan1 jing3 tai2] /viewing deck/deck, viewing/
 觀禮者 观礼者 [guan1 li3 zhe3] /onlooker at ceremony/ceremony, onlooker at/
+關聯閱讀 关联阅读 [guan1 lian2_yue4 du2] /related reading/reading, related/
 官袍 官袍 [guan1 pao2] /official robe/robe, official/
 關上門 关上门 [guan1 shang5_men2] /shut the door/door, shut the/
 觀賞者 观赏者 [guan1 shang3 zhe3] /observer/watcher (of nature etc)/
@@ -20895,6 +20905,7 @@
 口譯證 口译证 [kou3 yi4 zheng4] /certified interpreter qualification/interpreter qualification, certified/
 扣帶 扣带 [kou4 dai4] /clip (on belt)/
 扣上手銬 扣上手铐 [kou4 shang5_shou3 kao4] /fasten handcuffs/handcuffs, fasten/
+哭腔 哭腔 [ku1 qiang1] /sob/
 苦集滅道 苦集灭道 [ku3 ji2 mie4 dao4] /Four Noble Truths/Noble Truths, Four/
 苦待 苦待 [ku3 dai4] /afflict/treat badly/
 苦毒 苦毒 [ku3 du2] /bitter poison/poison, bitter/
@@ -22660,6 +22671,7 @@
 十夫長 十夫长 [shi2 fu1 zhang3] /chief over ten/over ten, chief/
 石膏板 石膏板 [shi2 gao1 ban3] /drywall/
 時間地點 时间地点 [shi2 jian1_di4 dian3] /time and place/place, time and/
+時間定額 时间定额 [shi2 jian1_ding4 e2] /hour requirement/requirement, hour/
 時間觀念 时间观念 [shi2 jian1_guan1 nian4] /view of time/conscious of time/sense of time/time, view of/
 時間管理 时间管理 [shi2 jian1_guan3 li3] /time management/management, time/
 時間和地點 时间和地点 [shi2 jian1_he2_di4 dian3] /time and location/location, time and/
@@ -22940,6 +22952,7 @@
 睡不飽 睡不饱 [shui4 bu5 bao3] /can't sleep enough/sleep enough, can't/
 睡得飽 睡得饱 [shui4 de5 bao3] /getting enough sleep/enough sleep, getting/
 瞓覺 瞓觉 [shui4 jiao4] /sleep (Cantonese?)/
+睡眠障礙 睡眠障碍 [shui4 mian2_zhang4 ai4] /sleep disorders/disorders, sleep/
 睡眠專家 睡眠专家 [shui4 mian2_zhuan1 jia1] /sleep expert/expert, sleep/
 睡眼蒙矓 睡眼蒙眬 [shui4 yan3 meng2 long2] /weighed down with sleep/down with sleep, weighed/
 順利地 顺利地 [shun4 li4_de5] /successfully (lit. smoothly)/
@@ -23701,6 +23714,7 @@
 無論大小 无论大小 [wu2 lun4_da4 xiao3] /from the least to the greatest (lit. no matter what size)/least to the greatest, from the (lit. no matter what size)/
 無毛狗 无毛狗 [wu2 mao2 gou3] /hairless dog/
 唔明 唔明 [wu2 ming2] /not understand/understand, not/
+無奈之舉 无奈之举 [wu2 nai4_zhi1_ju3] /inevitable/
 無生源論 无生源论 [wu2 sheng1 yuan2 lun4] /abiogenesis/
 無私幫助 无私帮助 [wu2 si1_bang1 zhu4] /unselfish support/support, unselfish/
 無所掛慮 无所挂虑 [wu2 suo3_gua4 lu:4] /free from anxiety/anxiety, free from/
