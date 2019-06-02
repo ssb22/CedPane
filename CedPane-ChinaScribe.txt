@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-05-29
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-06-02
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -844,6 +844,7 @@
 艾因 艾因 [Ai4 yin1] /Ain/
 艾于蘭 艾于兰 [Ai4 yu2 lan2] /Aurland/
 愛媛縣 爱媛县 [Ai4 yuan4 xian4] /Ehime/
+愛樂樂團 爱乐乐团 [Ai4 yue4_Yue4 tuan2] /Philharmonic/
 艾雲 艾云 [Ai4 yun2] /Ivan/
 艾扎克 艾扎克 [Ai4 zha1 ke4] /Izak/
 愛知 爱知 [Ai4 zhi1] /Aichi (Japan prefecture)/
@@ -5238,7 +5239,7 @@
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-05-29/this is version 2019-05-29, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-06-02/this is version 2019-06-02, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
@@ -17327,6 +17328,7 @@
 滋賀 滋贺 [Zi1 he4] /Shiga (Japan prefecture)/
 茲卡 兹卡 [Zi1 ka3] /Zika (virus, alternate translation)/
 茲拉馬 兹拉马 [Zi1 la1 ma3] /Drama (place in Greece)/
+茲拉特卡 兹拉特卡 [Zi1 la1 te4 ka3] /Zlatka/
 資溪縣 资溪县 [Zi1 xi1_Xian4] /Zixi (county, in Jiangxi)/
 資興 资兴 [Zi1 xing4] /Zixing (in Hunan)/
 資興市 资兴市 [Zi1 xing4_Shi4] /Zixing (in Hunan)/
@@ -18070,6 +18072,7 @@
 纏絲瑪瑙 缠丝玛瑙 [chan2 si1 ma3 nao3] /sardonyx/
 產出導向法 产出导向法 [chan3 chu1_dao3 xiang4_fa3] /production-oriented approach (language teaching via simulated situations|tasks)/approach, production-oriented (language teaching via simulated situations|tasks)/
 產后抑郁症 产后抑郁症 [chan3 hou4_yi4 yu4 zheng4] /postpartum depression/depression, postpartum/
+產品分享會 产品分享会 [chan3 pin3_fen1 xiang3 hui4] /product presentation/presentation, product/
 產痛 产痛 [chan3 tong4] /birth pangs/pangs, birth/
 產下 产下 [chan3 xia5] /conceive/bear young ones/
 産下 産下 [chan3 xia5] /conceive/bear young ones/
@@ -19266,6 +19269,7 @@
 芬太尼 芬太尼 [fen1 tai4 ni2] /fentanyl/
 分屯 分屯 [fen1 tun2] /encampment village (?)/village, encampment (?)/
 分享功能 分享功能 [fen1 xiang3_gong1 neng2] /Share feature (on website)/feature, Share (on website)/
+分享會 分享会 [fen1 xiang3 hui4] /presentation seminar/seminar, presentation/
 分鐘漲姿 分钟涨姿 [fen1 zhong1 zhang3 zi1] /learning new things all the time/things all the time, learning new/
 分子聚合體 分子聚合体 [fen1 zi3_ju4 he2 ti3] /molecular machine (lit. polymer??)/machine, molecular (lit. polymer??)/
 分子生物學家 分子生物学家 [fen1 zi3_sheng1 wu4 xue2 jia1] /molecular biologist/biologist, molecular/
@@ -21189,6 +21193,7 @@
 留個聯系方式 留个联系方式 [liu2_ge5_lian2 xi4_fang1 shi4] /exchange contact information (with someone)/contact information, exchange (with someone)/
 留過 留过 [liu2_guo4] /stay beyond .../keep more than .../beyond ..., stay/more than ..., keep/
 留在家中 留在家中 [liu2_zai4_jia1_zhong1] /stay at home (for most of the time etc)/home, stay at (for most of the time etc)/
+留在意中 留在意中 [liu2_zai4_yi4_zhong1] /keep on one's soul (old translation?)/one's soul, keep on (old translation?)/
 留座 留座 [liu2_zuo4] /reserve a seat/seat, reserve a/
 留到 留到 [liu2 dao4] /keep until/until, keep/
 流動站 流动站 [liu2 dong4 zhan4] /centre (of research or etc)/
@@ -22332,6 +22337,7 @@
 卅一 卅一 [sa4 yi1] /thirty-one/
 塞進 塞进 [sai1 jin4] /stuff|block-up into (the midst of)/
 賽博格 赛博格 [sai4 bo2 ge2] /cyborg/
+賽龍舟 赛龙舟 [sai4 long2 zhou1] /dragonboat race/race, dragonboat/
 三方面 三方面 [san1_fang1 mian4] /three aspects/aspects, three/
 三分之一 三分之一 [san1_fen1 zhi1_yi1] /one third/third, one/
 三年前 三年前 [san1_nian2_qian2] /three years previously/years previously, three/
@@ -22459,6 +22465,7 @@
 捨己 舍己 [she3_ji3] /abandon oneself/oneself, abandon/
 捨生命 舍生命 [she3_sheng1 ming4] /sacrifice one's life (use in song)/one's life, sacrifice (use in song)/
 捨摩他 舍摩他 [she3 mo2 ta1] /samatha/
+捨難取易 舍难取易 [she3 nan2 qu3 yi4] /skip the difficult parts/difficult parts, skip the/
 射電天文學家 射电天文学家 [she4 dian4_tian1 wen2 xue2 jia1] /radio astronomer/astronomer, radio/
 涉腐 涉腐 [she4 fu3] /involvement in corruption/corruption, involvement in/
 社會安定 社会安定 [she4 hui4_an1 ding4] /integrity and security (of a country etc)/security, integrity and (of a country etc)/
