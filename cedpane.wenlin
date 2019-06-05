@@ -507,11 +507,6 @@ characters 爱奥尼亚[愛奧-亞]
 serial-number CedPane100
 definition Ionia
 *** 
-pinyin Ài'àoníyà
-characters 爱奥尼亚[愛奧-亞]
-serial-number CedPane101
-definition Ionian
-*** 
 pinyin Ài'àoníyàhǎi
 characters 爱奥尼亚海[愛奧-亞-]
 serial-number CedPane102
@@ -9326,11 +9321,6 @@ characters 长尺[長-]
 serial-number CedPane1869
 definition rule stick (used in carpentry)
 *** 
-pinyin Chángchūn Shì
-characters 长春市[長--]
-serial-number CedPane1870
-definition Changchun city (N.E.China)
-*** 
 pinyin chángcǐxiàqù
 characters 长此下去[長---]
 serial-number CedPane1871
@@ -12553,11 +12543,6 @@ characters 底本迦得
 serial-number CedPane2514
 definition Dibon-gad
 *** 
-pinyin Dǐběnjiādé
-characters 底本迦得
-serial-number CedPane2515
-definition Dibon
-*** 
 pinyin Dìbǐlìsī
 characters 第比利斯
 serial-number CedPane2516
@@ -12657,11 +12642,6 @@ pinyin Dǐgélǐsīhé
 characters 底格里斯河
 serial-number CedPane2535
 definition Tigris (river)
-*** 
-pinyin Dǐgélǐsīhé
-characters 底格里斯河
-serial-number CedPane2536
-definition Tigris River
 *** 
 pinyin Dígèngsī
 characters 狄更斯
@@ -18597,7 +18577,7 @@ definition sealskin
 pinyin Hǎichéng Shì
 characters 海城市
 serial-number CedPane3726
-definition city of Haicheng
+definition city of Haicheng (in Liaoning)
 *** 
 pinyin Hǎidá
 characters 海达[-達]
@@ -29884,12 +29864,7 @@ definition person of Rephaim
 pinyin lìfǎzhě
 characters 立法者
 serial-number CedPane5989
-definition Lawgivers
-*** 
-pinyin Lìfǎzhě
-characters 立法者
-serial-number CedPane5990
-definition Lawgiver
+definition lawgiver(s)
 *** 
 pinyin Lìfēidìng
 characters 利非订[--訂]
@@ -30048,13 +30023,8 @@ definition Lilly
 *** 
 pinyin Lìlián
 characters 莉莲[-蓮]
-serial-number CedPane6022
-definition Lillian
-*** 
-pinyin Lìlián
-characters 莉莲[-蓮]
 serial-number CedPane6023
-definition Lilian
+definition Lilian; Lillian
 *** 
 pinyin Lìlíntǎ'ěr
 characters 利林塔尔[---爾]
@@ -31811,11 +31781,6 @@ pinyin Luónàdé
 characters 罗纳德[羅納-]
 serial-number CedPane6375
 definition Ron; Ronald
-*** 
-pinyin Luónàdé
-characters 罗纳德[羅納-]
-serial-number CedPane6376
-definition Ronald
 *** 
 pinyin Luónán
 characters 罗南[羅-]
@@ -33981,11 +33946,6 @@ pinyin Mǎxīyà
 characters 马西亚[馬-亞]
 serial-number CedPane6812
 definition Macia
-*** 
-pinyin Mǎxīyà
-characters 玛西亚[瑪-亞]
-serial-number CedPane6813
-definition Ma′aziah
 *** 
 pinyin Mǎxīyà
 characters 玛西亚[瑪-亞]
@@ -37652,11 +37612,6 @@ characters 尼娜
 serial-number CedPane7546
 definition Nina
 *** 
-pinyin níngbō
-characters 宁波[寧-]
-serial-number CedPane7547
-definition Ningbo (3hrs from Shanghai; has a Nottingham campus)
-*** 
 pinyin níngchéng
 characters 拧成[擰-]
 serial-number CedPane7548
@@ -40388,7 +40343,7 @@ definition fountain of youth (mythology)
 pinyin Qīngdǎo
 characters 青岛[-島]
 serial-number CedPane8098
-definition Qingdao; Tsingtao
+definition Qingdao (in Shandong); Tsingtao
 *** 
 pinyin qǐng dúdú
 characters 请读读[請讀讀]
@@ -45785,12 +45740,7 @@ definition Shkodër
 pinyin Sīlāfūrén
 characters 斯拉夫人
 serial-number CedPane9179
-definition Slavic (person or people)
-*** 
-pinyin Sīlāfūrén
-characters 斯拉夫人
-serial-number CedPane9180
-definition Slavs
+definition Slavic (person or people); Slavs
 *** 
 pinyin Sīlāfūyǔ
 characters 斯拉夫语[---語]
@@ -56178,11 +56128,6 @@ characters 亚历山大大帝[亞歷----]
 serial-number CedPane11260
 definition Alexander the Great
 *** 
-pinyin Yàlìshāndélā
-characters 亚历山德拉[亞歷---]
-serial-number CedPane11261
-definition Alexandria (wife of Russian Czar Nicholas II)
-*** 
 pinyin Yàlǐshìduōdé
 characters 亚里士多德[亞----]
 serial-number CedPane11262
@@ -56847,11 +56792,6 @@ pinyin Yánsēn
 characters 延森
 serial-number CedPane11395
 definition Jensen
-*** 
-pinyin Yāntái
-characters 烟台[煙-]
-serial-number CedPane11396
-definition Yantai
 *** 
 pinyin Yànuò
 characters 亚诺[亞諾]
@@ -63800,11 +63740,6 @@ pinyin zūnzhòng shēngmìng
 characters 尊重生命
 serial-number CedPane12788
 definition respect for life
-*** 
-pinyin zūnzhòng shēngmìng
-characters 尊重生命
-serial-number CedPane12789
-definition respect for the sanctity of life (lit. value life)
 *** 
 pinyin zuò bàn
 characters 作伴
@@ -72573,11 +72508,6 @@ characters 安德雷
 serial-number CedPane14560
 definition Andrei
 *** 
-pinyin Jiābùlǐ'āi'ěr
-characters 加布里埃尔[----爾]
-serial-number CedPane14561
-definition Gabriel (modern)
-*** 
 pinyin Luólán
 characters 罗兰[羅蘭]
 serial-number CedPane14562
@@ -72791,7 +72721,7 @@ definition Sánchez
 pinyin Jiābùlǐ'āi'ěr
 characters 加布里埃尔[----爾]
 serial-number CedPane14604
-definition Gabriel (surname)
+definition Gabriel (modern)
 *** 
 pinyin Kǎilún
 characters 凯伦[凱倫]
@@ -73027,11 +72957,6 @@ pinyin Chéngdū Shì
 characters 成都市
 serial-number CedPane14655
 definition Chengdu (city)
-*** 
-pinyin Shàmén Shì
-characters 厦门市[廈門-]
-serial-number CedPane14656
-definition Xiamen (city)
 *** 
 pinyin Shànghǎi Shì
 characters 上海市
@@ -73432,7 +73357,7 @@ definition Sanming (in Fujian)
 pinyin Shàmén Shì
 characters 厦门市[廈門-]
 serial-number CedPane14739
-definition Xiamen (in Fujian)
+definition Xiamen (city, in Fujian)
 *** 
 pinyin Zhāngzhōu Shì
 characters 漳州市
@@ -73712,11 +73637,6 @@ definition Zhongshan (in Guangdong)
 pinyin Zhūhǎi Shì
 characters 珠海市
 serial-number CedPane14801
-definition Zhuhai (in Guangdong)
-*** 
-pinyin Zhūhǎi
-characters 珠海
-serial-number CedPane14802
 definition Zhuhai (in Guangdong)
 *** 
 pinyin Bǎisè Shì
@@ -74817,7 +74737,7 @@ definition Baishan (in Jilin)
 pinyin Chángchūn Shì
 characters 长春市[長--]
 serial-number CedPane15043
-definition Changchun (in Jilin)
+definition Changchun (city, in Jilin)
 *** 
 pinyin Jílín Shì
 characters 吉林市
@@ -75212,11 +75132,6 @@ definition Linyi (in Shandong)
 pinyin Qīngdǎo Shì
 characters 青岛市[-島-]
 serial-number CedPane15130
-definition Qingdao (in Shandong)
-*** 
-pinyin Qīngdǎo
-characters 青岛[-島]
-serial-number CedPane15131
 definition Qingdao (in Shandong)
 *** 
 pinyin Rìzhào Shì
@@ -75759,7 +75674,7 @@ characters 宁波市[寧--]
 serial-number CedPane15243
 definition Ningbo (in Zhejiang)
 *** 
-pinyin níngbō
+pinyin Níngbō
 characters 宁波[寧-]
 serial-number CedPane15244
 definition Ningbo (in Zhejiang)
@@ -75818,16 +75733,6 @@ pinyin Cháohú
 characters 巢湖
 serial-number CedPane15255
 definition Chaohu (in Anhui)
-*** 
-pinyin Yùmén Shì
-characters 玉门市[-門-]
-serial-number CedPane15256
-definition Yumen (in Gansu)
-*** 
-pinyin Yùmén
-characters 玉门[-門]
-serial-number CedPane15257
-definition Yumen (in Gansu)
 *** 
 pinyin Tiānjīn Shì
 characters 天津市
@@ -78059,11 +77964,6 @@ characters 盖州[蓋-]
 serial-number CedPane15726
 definition Gaizhou (in Liaoning)
 *** 
-pinyin Hǎichéng Shì
-characters 海城市
-serial-number CedPane15727
-definition Haicheng (in Liaoning)
-*** 
 pinyin Hǎichéng
 characters 海城
 serial-number CedPane15728
@@ -79404,11 +79304,6 @@ characters 劳德尔[勞-爾]
 serial-number CedPane16001
 definition Raudel
 *** 
-pinyin Luódélǐgésī
-characters 罗德里格斯[羅----]
-serial-number CedPane16002
-definition Rodríguez
-*** 
 pinyin Bùléimò
 characters 布雷默
 serial-number CedPane16003
@@ -79503,11 +79398,6 @@ pinyin Shālì
 characters 莎莉
 serial-number CedPane16021
 definition Shari
-*** 
-pinyin Luó'ēn
-characters 罗恩[羅-]
-serial-number CedPane16022
-definition Ron
 *** 
 pinyin Pàikè
 characters 派克
@@ -80288,11 +80178,6 @@ pinyin Duōnàtè
 characters 多纳特[-納-]
 serial-number CedPane16178
 definition Donáth
-*** 
-pinyin È'ěr
-characters 厄尔[-爾]
-serial-number CedPane16179
-definition Earl
 *** 
 pinyin Fǎléi'ěr
 characters 法雷尔[--爾]
@@ -87980,11 +87865,6 @@ definition Otis
 *** 
 pinyin Àolāfū
 characters 奥拉夫[奧--]
-serial-number CedPane17738
-definition Olaf
-*** 
-pinyin Àolāfū
-characters 奥拉夫[奧--]
 serial-number CedPane17739
 definition Olaf
 *** 
@@ -94764,12 +94644,7 @@ definition East Ujimqin (banner, in Inner Mongolia)
 pinyin Dōngxiāng Xiàn
 characters 东乡县[東鄉縣]
 serial-number CedPane19099
-definition Dongxiang (county, in Jiangxi)
-*** 
-pinyin Dōngxiāng Xiàn
-characters 东乡县[東鄉縣]
-serial-number CedPane19100
-definition Dongxiang (county, in Gansu)
+definition Dongxiang (county, Jiangxi + Gansu)
 *** 
 pinyin Dōngyuán Xiàn
 characters 东源县[東-縣]
@@ -109742,12 +109617,7 @@ definition Xinying District; Sinying District (in Tainan)
 pinyin Xìnyì Qū
 characters 信义区[-義區]
 serial-number CedPane22110
-definition Xinyi District (in Taipei)
-*** 
-pinyin Xìnyì Qū
-characters 信义区[-義區]
-serial-number CedPane22111
-definition Xinyi District (in Keelung)
+definition Xinyi District (Keelung, Taipei)
 *** 
 pinyin Xīn Zhōukān
 characters 新周刊
@@ -109872,12 +109742,7 @@ definition Zhongli District (in Taoyuan)
 pinyin Zhōngshān Qū
 characters 中山区[--區]
 serial-number CedPane22138
-definition Zhongshan District (in Taipei)
-*** 
-pinyin Zhōngshān Qū
-characters 中山区[--區]
-serial-number CedPane22139
-definition Zhongshan District (in Keelung)
+definition Zhongshan District (Keelung, Taipei)
 *** 
 pinyin Zhōngxī Qū
 characters 中西区[--區]
@@ -109887,12 +109752,7 @@ definition West Central District (in Tainan)
 pinyin Zhōngzhèng Qū
 characters 中正区[--區]
 serial-number CedPane22141
-definition Zhongzheng District (in Taipei)
-*** 
-pinyin Zhōngzhèng Qū
-characters 中正区[--區]
-serial-number CedPane22142
-definition Zhongzheng District (in Keelung)
+definition Zhongzheng District (Keelung, Taipei)
 *** 
 pinyin Zhūjiājiǎo
 characters 朱家角
@@ -112791,11 +112651,6 @@ definition Baiyin District
 *** 
 pinyin Báiyún Qū
 characters 白云区[--區]
-serial-number CedPane22716
-definition Baiyun District
-*** 
-pinyin Báiyún Qū
-characters 白云区[--區]
 serial-number CedPane22717
 definition Baiyun District
 *** 
@@ -112823,11 +112678,6 @@ pinyin Bāohé Qū
 characters 包河区[--區]
 serial-number CedPane22722
 definition Baohe District
-*** 
-pinyin Bǎoshān Qū
-characters 宝山区[寶-區]
-serial-number CedPane22723
-definition Baoshan District
 *** 
 pinyin Bǎoshān Qū
 characters 宝山区[寶-區]
@@ -113128,11 +112978,6 @@ pinyin Chénggòng Qū
 characters 呈贡区[-貢區]
 serial-number CedPane22783
 definition Chenggong District
-*** 
-pinyin Chéngguān Qū
-characters 城关区[-關區]
-serial-number CedPane22784
-definition Chengguan District
 *** 
 pinyin Chéngguān Qū
 characters 城关区[-關區]
@@ -114060,22 +113905,7 @@ definition Guide County
 *** 
 pinyin Gǔlóu Qū
 characters 鼓楼区[-樓區]
-serial-number CedPane22969
-definition Gulou District
-*** 
-pinyin Gǔlóu Qū
-characters 鼓楼区[-樓區]
 serial-number CedPane22970
-definition Gulou District
-*** 
-pinyin Gǔlóu Qū
-characters 鼓楼区[-樓區]
-serial-number CedPane22971
-definition Gulou District
-*** 
-pinyin Gǔlóu Qū
-characters 鼓楼区[-樓區]
-serial-number CedPane22972
 definition Gulou District
 *** 
 pinyin Gūsū Qū
@@ -114582,11 +114412,6 @@ pinyin Jiāng'àn Qū
 characters 江岸区[--區]
 serial-number CedPane23073
 definition Jiang'an District
-*** 
-pinyin Jiāngběi Qū
-characters 江北区[--區]
-serial-number CedPane23074
-definition Jiangbei District
 *** 
 pinyin Jiāngběi Qū
 characters 江北区[--區]
@@ -115502,11 +115327,6 @@ definition Longgang District
 *** 
 pinyin Lónghuá Qū
 characters 龙华区[龍華區]
-serial-number CedPane23257
-definition Longhua District
-*** 
-pinyin Lónghuá Qū
-characters 龙华区[龍華區]
 serial-number CedPane23258
 definition Longhua District
 *** 
@@ -115945,11 +115765,6 @@ definition Nanqiao District
 *** 
 pinyin Nánshān Qū
 characters 南山区[--區]
-serial-number CedPane23345
-definition Nanshan District
-*** 
-pinyin Nánshān Qū
-characters 南山区[--區]
 serial-number CedPane23346
 definition Nanshan District
 *** 
@@ -116208,11 +116023,6 @@ characters 普陀区[--區]
 serial-number CedPane23397
 definition Putuo District
 *** 
-pinyin Pǔtuó Qū
-characters 普陀区[--區]
-serial-number CedPane23398
-definition Putuo District
-*** 
 pinyin Pú Xiàn
 characters 蒲县[-縣]
 serial-number CedPane23399
@@ -116245,11 +116055,6 @@ definition Qiaocheng District
 *** 
 pinyin Qiáodōng Qū
 characters 桥东区[橋東區]
-serial-number CedPane23405
-definition Qiaodong District
-*** 
-pinyin Qiáodōng Qū
-characters 桥东区[橋東區]
 serial-number CedPane23406
 definition Qiaodong District
 *** 
@@ -116257,16 +116062,6 @@ pinyin Qiáokǒu Qū
 characters 硚口区[--區]
 serial-number CedPane23407
 definition Qiaokou District
-*** 
-pinyin Qiáoxī Qū
-characters 桥西区[橋-區]
-serial-number CedPane23408
-definition Qiaoxi District
-*** 
-pinyin Qiáoxī Qū
-characters 桥西区[橋-區]
-serial-number CedPane23409
-definition Qiaoxi District
 *** 
 pinyin Qiáoxī Qū
 characters 桥西区[橋-區]
@@ -116346,11 +116141,6 @@ definition Qingshanhu District
 pinyin Qīngshān Qū
 characters 青山区[--區]
 serial-number CedPane23425
-definition Qingshan District
-*** 
-pinyin Qīngshān Qū
-characters 青山区[--區]
-serial-number CedPane23426
 definition Qingshan District
 *** 
 pinyin Qīngshuǐ Xiàn
@@ -116819,21 +116609,6 @@ definition Shitai County
 *** 
 pinyin Shìzhōng Qū
 characters 市中区[--區]
-serial-number CedPane23519
-definition Shizhong District
-*** 
-pinyin Shìzhōng Qū
-characters 市中区[--區]
-serial-number CedPane23520
-definition Shizhong District
-*** 
-pinyin Shìzhōng Qū
-characters 市中区[--區]
-serial-number CedPane23521
-definition Shizhong District
-*** 
-pinyin Shìzhōng Qū
-characters 市中区[--區]
 serial-number CedPane23522
 definition Shizhong District
 *** 
@@ -117140,17 +116915,7 @@ definition Tieshan District
 *** 
 pinyin Tiěxī Qū
 characters 铁西区[鐵-區]
-serial-number CedPane23583
-definition Tiexi District
-*** 
-pinyin Tiěxī Qū
-characters 铁西区[鐵-區]
 serial-number CedPane23584
-definition Tiexi District
-*** 
-pinyin Tiěxī Qū
-characters 铁西区[鐵-區]
-serial-number CedPane23585
 definition Tiexi District
 *** 
 pinyin Tínghú Qū
@@ -117621,11 +117386,6 @@ definition Xiangtan County
 *** 
 pinyin Xiàngyáng Qū
 characters 向阳区[-陽區]
-serial-number CedPane23679
-definition Xiangyang District
-*** 
-pinyin Xiàngyáng Qū
-characters 向阳区[-陽區]
 serial-number CedPane23680
 definition Xiangyang District
 *** 
@@ -117648,11 +117408,6 @@ pinyin Xiānjū Xiàn
 characters 仙居县[--縣]
 serial-number CedPane23684
 definition Xianju County
-*** 
-pinyin Xī'ān Qū
-characters 西安区[--區]
-serial-number CedPane23685
-definition Xi'an District
 *** 
 pinyin Xī'ān Qū
 characters 西安区[--區]
@@ -117730,11 +117485,6 @@ characters 西湖区[--區]
 serial-number CedPane23700
 definition Xihu District
 *** 
-pinyin Xīhú Qū
-characters 西湖区[--區]
-serial-number CedPane23701
-definition Xihu District
-*** 
 pinyin Xījí Xiàn
 characters 西吉县[--縣]
 serial-number CedPane23702
@@ -117758,11 +117508,6 @@ definition Xinbei District
 pinyin Xīnchéng Qū
 characters 新城区[--區]
 serial-number CedPane23706
-definition Xincheng District
-*** 
-pinyin Xīnchéng Qū
-characters 新城区[--區]
-serial-number CedPane23707
 definition Xincheng District
 *** 
 pinyin Xīndū Qū
@@ -117833,16 +117578,6 @@ definition Xing County
 pinyin Xīnhuá Qū
 characters 新华区[-華區]
 serial-number CedPane23721
-definition Xinhua District
-*** 
-pinyin Xīnhuá Qū
-characters 新华区[-華區]
-serial-number CedPane23722
-definition Xinhua District
-*** 
-pinyin Xīnhuá Qū
-characters 新华区[-華區]
-serial-number CedPane23723
 definition Xinhua District
 *** 
 pinyin Xīnhuì Qū
@@ -118305,11 +118040,6 @@ pinyin Yǒngchūn Xiàn
 characters 永春县[--縣]
 serial-number CedPane23815
 definition Yongchun County
-*** 
-pinyin Yǒngdìng Qū
-characters 永定区[--區]
-serial-number CedPane23816
-definition Yongding District
 *** 
 pinyin Yǒngdìng Qū
 characters 永定区[--區]
@@ -119711,7 +119441,7 @@ definition Purchasing Department
 pinyin Jiānshājǔ
 characters 尖沙咀
 serial-number CedPane24095
-definition Tsim Sha Tsui (market in HK)
+definition Tsim Sha Tsui; TST (market area in HK)
 *** 
 pinyin bànlǐ dēngjī shǒuxù
 characters 办理登机手续[辦--機-續]
@@ -121740,11 +121470,6 @@ serial-number CedPane24493
 environment   Cantonese
 definition charger
 *** 
-pinyin Jiānshājǔ
-characters 尖沙咀
-serial-number CedPane24494
-definition Tsim Sha Tsui; TST (area in HK)
-*** 
 pinyin guógē zòuqi
 characters 国歌奏起[國---]
 serial-number CedPane24495
@@ -122662,7 +122387,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-06-02
+definition CedPane: this is version 2019-06-05
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -128219,3 +127944,175 @@ pinyin Zīlātèkǎ
 characters 兹拉特卡[茲---]
 serial-number CedPane25772
 definition Zlatka
+*** 
+pinyin ànxiàn
+characters 岸线[-線]
+serial-number CedPane25773
+definition shoreline (of lake etc)
+*** 
+pinyin bǎohùlǜ
+characters 保护率[-護-]
+serial-number CedPane25774
+definition protection rate (of land area etc)
+*** 
+pinyin bǎoshuìqū
+characters 保税区[-稅區]
+serial-number CedPane25775
+definition free trade zone
+*** 
+pinyin chǎnyèhuà jīdì
+characters 产业化基地[產業---]
+serial-number CedPane25776
+definition industrial base (for startups etc)
+*** 
+pinyin chuàngxīn chǎnyè
+characters 创新产业[創-產業]
+serial-number CedPane25777
+definition innovation industry
+*** 
+pinyin dònglì huólì
+characters 动力活力[動---]
+serial-number CedPane25778
+definition driving force
+*** 
+pinyin Dòngtíng
+characters 洞庭
+serial-number CedPane25779
+definition Dongting (near Suzhou)
+*** 
+pinyin Fēngqiáo
+characters 枫桥[楓橋]
+serial-number CedPane25780
+definition Fengqiao (town near Suzhou)
+*** 
+pinyin fěnsīqún
+characters 粉丝群[-絲-]
+serial-number CedPane25781
+definition fans group (on social media)
+*** 
+pinyin fùmín
+characters 富民
+serial-number CedPane25782
+environment   PRC
+definition people's prosperity
+*** 
+pinyin fùmín hézuòshè
+characters 富民合作社
+serial-number CedPane25783
+definition prosperity cooperative (in rural PRC)
+*** 
+pinyin gāo shuǐzhǔn
+characters 高水准
+serial-number CedPane25784
+definition high-level; high-standard
+*** 
+pinyin hālou
+characters 哈喽[-嘍]
+serial-number CedPane25785
+environment   netspeak
+definition hello (loan word)
+*** 
+pinyin Hánshān Sì
+characters 寒山寺
+serial-number CedPane25786
+definition Hanshan Temple (in Fengqiao)
+*** 
+pinyin Hǔ Qiū
+characters 虎丘
+serial-number CedPane25787
+definition Tiger Hill (near Suzhou)
+*** 
+pinyin jīběn gàikuàng
+characters 基本概况[---況]
+serial-number CedPane25788
+definition overview (of a situation etc)
+*** 
+pinyin kējì fūhuà
+characters 科技孵化
+serial-number CedPane25789
+definition high tech (innovation) incubator
+*** 
+pinyin láowù hézuòshè
+characters 劳务合作社[勞務---]
+serial-number CedPane25790
+definition labour service cooperative (in rural PRC)
+*** 
+pinyin lián wéi yītǐ
+characters 连为一体[連為-體]
+serial-number CedPane25791
+definition linked together as one
+*** 
+pinyin lǜhuà zàolín
+characters 绿化造林[綠---]
+serial-number CedPane25792
+definition afforestation
+*** 
+pinyin qiángcūn-fùmín
+characters 强村富民[強---]
+serial-number CedPane25793
+definition developed rural areas
+*** 
+pinyin shèhuì shìyè
+characters 社会事业[-會-業]
+serial-number CedPane25794
+definition social undertaking; social enterprise
+*** 
+pinyin shèqū gǔfèn hézuò liánshè
+characters 社区股份合作联社[-區----聯-]
+serial-number CedPane25795
+definition community stock cooperative (in rural PRC)
+*** 
+pinyin Shí Hú
+characters 石湖
+serial-number CedPane25796
+definition Stone Lake
+*** 
+pinyin Shīshān
+characters 狮山[獅-]
+serial-number CedPane25797
+definition Shishan (in Suzhou)
+*** 
+pinyin shíshì rèdiǎn
+characters 时事热点[時-熱點]
+serial-number CedPane25798
+definition current issues (in the news)
+*** 
+pinyin sīwéi móuhuà
+characters 思维谋划[-維謀劃]
+serial-number CedPane25799
+definition way of thinking; concept
+*** 
+pinyin yǐrénwéiběn
+characters 以人为本[--為-]
+serial-number CedPane25800
+definition be people-oriented (of organisation etc)
+*** 
+pinyin yùndòng jiànkāng
+characters 运动健康[運動--]
+serial-number CedPane25801
+definition fitness and health (via workouts etc)
+*** 
+pinyin Kǎisàlín
+characters 凯萨琳[凱薩-]
+serial-number CedPane25802
+definition Catherine (less-common translation?)
+*** 
+pinyin Sāibōlǐsī
+characters 塞波里斯
+serial-number CedPane25803
+definition Sepphoris
+*** 
+pinyin Tèlún Hépàn Bódùn
+characters 特伦河畔伯顿[-倫---頓]
+serial-number CedPane25804
+definition Burton on Trent; Burton upon Trent
+*** 
+pinyin Tèlúntè Hépàn Bódùn
+characters 特伦特河畔伯顿[-倫----頓]
+serial-number CedPane25805
+definition Burton on Trent; Burton upon Trent
+*** 
+pinyin yǒu xiàngzhēng yìyì
+characters 有象征意义[----義]
+serial-number CedPane25806
+definition symbolic
