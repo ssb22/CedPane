@@ -821,6 +821,7 @@ ancient Babylon	古巴比伦	古巴比倫	Gǔ-Bābǐlún	Gú-bā-béi-lèuhn
 ancient Celts	古克尔特人	古克爾特人	gǔ Kè'ěrtèrén	gú Hāk-yíh-dahk-yàhn	
 Ancient Greek (language)	古希腊语	古希臘語	gǔ Xīlàyǔ	gú Hēi-laahp-yúh	
 ancient manuscripts	古抄本	古抄本	gǔchāoběn	gú-chāau-bún	
+ancient meaning (of Chinese character that has changed in meaning)	古义	古義	gǔyì	gú-yih	
 Anda (in Heilongjiang)	安达	安達	Āndá	Ngōn-daaht	
 Anda (in Heilongjiang)	安达市	安達市	Āndá Shì	Ngōn-daaht Síh	
 Andalusian	安达卢西亚	安達盧西亞	Āndálúxīyà	Ngōn-daaht-lòuh-sāi-nga	
@@ -1737,6 +1738,7 @@ Bamun (language)	巴姆穆语	巴姆穆語	Bāmǔmùyǔ	Bā-móuh-muhk-yúh
 banana boat	香蕉船	香蕉船	xiāngjiāo chuán	hēung-jīu syùhn	
 Banan (district, in Chongqing)	巴南区	巴南區	Bānán Qū	Bā-nàahm Kēui	
 band, gang, party (variant)	一夥	一夥	yīhuǒ(r)	yāt-fó	
+band; bracelet	手环	手環	shǒuhuán	sáu-wàahn	
 Banda	班达	班達	Bāndá	Bāan-daaht	
 Banda Abao	班达阿巴	班達阿巴	Bāndá'ābā	Bāan-daaht-a-bā	
 banding (of a tree etc; lit. hoop stop)	箍住	箍住	gūzhù	kū-jyuh	
@@ -2663,6 +2665,7 @@ Bolton	博尔顿	博爾頓	Bó'ěrdùn	Bok-yíh-deuhn
 Boluo (county, in Guangdong)	博罗县	博羅縣	Bóluó Xiàn	Bok-lòh Yún	
 Bomba	邦巴	邦巴	Bāngbā	Bōng-bā	
 Bombala	邦巴拉	邦巴拉	Bāngbālā	Bōng-bā-lāai	
+bomb threat	炸弹威胁	炸彈威脅	zhàdàn wēixié	ja-dáan wāi-hip	
 Bombín	邦宾	邦賓	Bāngbīn	Bōng-bān	
 Bomi County	波密县	波密縣	Bōmì Xiàn	Bō-maht Yún	
 Bonaire	博奈尔岛	博奈爾島	Bónài'ěrdǎo	Bok-noih-yíh-dóu	
@@ -3156,6 +3159,7 @@ cabinetmaker	家具师	家具師	jiāju shī	gā-geuih sī
 cabin (on building site etc)	货柜屋	貨櫃屋	huòguìwū	fo-gwaih-ngūk	
 cable-car station	缆车站	纜車站	lǎnchēzhàn	laahm-chē-jaahm	
 cab (measure, possibly 1.22 liters)	卡步	卡步	kǎbù	kā-bouh	
+Cabo Delgado	德尔加杜角	德爾加杜角	Dé'ěrjiādùjiǎo	Dāk-yíh-gā-douh-gok	
 Cabot	卡伯特	卡伯特	Kǎbótè	Kā-baak-dahk	
 Cabral	卡布拉尔	卡布拉爾	Kǎbùlā'ěr	Kā-bou-lāai-yíh	
 Cabrera	卡伯勒	卡伯勒	Kǎbólēi	Kā-baak-lahk	
@@ -3571,7 +3575,7 @@ Cecil Rhodes Scholarship	罗德斯奖学金	羅德斯獎學金	Luódésī Jiǎng
 Cedar Point	杉树角	杉樹角	Shānshùjiǎo	Chaam-syuh-gok	
 cedarwood	雪松木	雪松木	xuěsōngmù	syut-chùhng-muhk	sˈidəwʊd
 cedarwood panel	雪松木板	雪松木板	xuěsōngmùbǎn	syut-chùhng-muhk-báan	
-CedPane: this is version 2019-06-05	汉英词典公有领域专名等副刊	漢英詞典公有領域專名等副刊	Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān	Hon-yīng Chìh-dín Gūng-yáuh Líhng-wihk Jyūn-mìhng Dáng Fu-hōn	
+CedPane: this is version 2019-06-09	汉英词典公有领域专名等副刊	漢英詞典公有領域專名等副刊	Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān	Hon-yīng Chìh-dín Gūng-yáuh Líhng-wihk Jyūn-mìhng Dáng Fu-hōn	
 Ceheng (county, in Guizhou)	册亨县	冊亨縣	Cèhēng Xiàn	Chaak-hāng Yún	
 celebrate holidays	庆祝节日	慶祝節日	qìngzhù jiérì	hing-jūk jit-yaht	
 celebrity; public figure	公众人物	公眾人物	gōngzhòng rénwù	gūng-jung yàhn-maht	sˌɪlˈɛbɹɪti
@@ -3951,6 +3955,7 @@ Chinese orchestra (PRC)	民乐团	民樂團	mín yuètuán	màhn ngohk-tyùhn
 Chinese orchestra (Singapore etc)	华乐团	華樂團	huá yuètuán	wàh ngohk-tyùhn	
 Chinese orchestra (TW)	国乐团	國樂團	guó yuètuán	gwok ngohk-tyùhn	
 Chinese organizations (of local Chinese people)	当地华人社团	當地華人社團	dāngdì Huárén shètuán	dōng-deih Wàh-yàhn séh-tyùhn	
+Chinese poetry	中诗	中詩	Zhōngshī	Jūng-sī	
 (Chinese saying) among a hundred virtues filial piety is foremost	百行孝为先	百行孝為先	bǎi xíng xiào wéi xiān	baak hòhng haau wàih sīn	
 Chinese scholars	中国学者	中國學者	Zhōngguó xuézhě	Jūng-gwok hohk-jé	
 Chinese Simplified	简体中文	簡體中文	Jiǎntǐ Zhōngwén	Gáan-tái Jūng-màhn	
@@ -4471,6 +4476,7 @@ condolence book	吊唁簿	吊唁簿	diàoyànbù	diu-yihn-bouh
 conference information	会讯	會訊	huìxùn	wúi-seun	
 confidential/intimate thing	密事	密事	mìshì	maht-sih	
 "conflict diamonds"	冲突钻石	衝突鑽石	chōngtū zuànshí	chūng-daht jyun-sehk	
+conforming to standards (on product specifications)	执行标准	執行標准	zhíxíng biāozhǔn	jāp-hàhng bīu-jéun	
 conformity; follow-the-crowd behaviour	从众心理	從眾心理	cóngzhòng xīnlǐ	chùhng-jung sām-léih	
 conformity experiments	从众实验	從眾實驗	cóngzhòng shíyàn	chùhng-jung saht-yihm	
 confrontational (of method etc)	对抗式	對抗式	duìkàngshì	deui-kong-sīk	
@@ -5929,6 +5935,7 @@ Dubos	杜布斯	杜布斯	Dùbùsī	Douh-bou-sī
 Duchang (county, in Jiangxi)	都昌县	都昌縣	Dūchāng Xiàn	Dōu-chēung Yún	
 Dudley	达德利	達德利	Dádélì	Daaht-dāk-leih	dˈʌdli
 Dufferin	达弗林	達弗林	Dáfúlín	Daaht-fāt-làhm	
+Dugdale	达格黛尔	達格黛爾	Dágédài'ěr	Daaht-gaak-doih-yíh	
 duiker	小羚羊	小羚羊	xiǎolíngyáng	síu-lìhng-yèuhng	
 Duilongdeqing District	堆龙德庆区	堆龍德慶區	Duīlóngdéqìng Qū	Dēui-lùhng-dāk-hing Kēui	
 Duisburg	杜伊斯堡	杜伊斯堡	Dùyīsībǎo	Douh-yī-sī-bóu	
@@ -7322,6 +7329,7 @@ Fisher	费希尔	費希爾	Fèixī'ěr	Fai-hēi-yíh	fˈɪʃɚ
 Fisher (older translation)	费施尔	費施爾	Fèishī'ěr	Fai-sī-yíh	fˈɪʃɚ
 Fish Gate	鱼门	魚門	Yúmén	Yùh-mùhn	
 fitness and health (via workouts etc)	运动健康	運動健康	yùndòng jiànkāng	wahn-duhng gihn-hōng	
+fitness tracker (wristband)	运动腕带	運動腕帶	yùndòng wàndài	wahn-duhng wún-daai	
 fits (lit. clings appropriately)	巴适	巴適	bāshì	bā-sīk	
 fitting (opening point in pipe)	连接处	連接處	liánjiēchù	lìhn-jip-chyu	
 FitzGerald	菲茨杰拉德	菲茨傑拉德	Fēicíjiélādé	Fēi-chìh-giht-lāai-dāk	
@@ -7459,6 +7467,7 @@ foreign devil (sometimes used for white people in Hong Kong)	鬼佬	鬼佬	guǐl
 foreigner; people of the nations	外邦人	外邦人	wàibāngrén	ngoih-bōng-yàhn	fˈɒɹənɚ
 foreign lands	异国他乡	異國他鄉	yìguó-tāxiāng	yih-gwok-tā-heung	
 foreign students	外国留学生	外國留學生	wàiguó liúxuéshēng	ngoih-gwok làuh-hohk-sāang	
+foreign translation	外译	外譯	wàiyì	ngoih-yihk	
 foreign visitor	境外旅客	境外旅客	jìngwài lǚkè	gíng-ngoih léuih-haak	
 foreknowledge	预知能力	預知能力	yùzhī nénglì	yuh-jī nàhng-lihk	fˌʊənˈɒlɪdʒ
 forerunner	先行开路	先行開路	xiānxíng kāilù	sīn-hàhng hōi-louh	fˈʊəɹʌnɚ
@@ -7589,6 +7598,7 @@ freethinkers	自由思想者	自由思想者	zìyóu sīxiǎngzhě	jih-yàuh sī
 Freetown	弗里敦	弗里敦	Fúlǐdūn	Fāt-léuih-dēun	
 free trade zone	保税区	保稅區	bǎoshuìqū	bóu-seui-kēui	
 free will; freedom of choice	选择的自由	選擇的自由	xuǎnzé de zìyóu	syún-jaahk dīk jih-yàuh	
+freeze the hand (of cold weather)	冻手	凍手	dòngshǒu	dung-sáu	
 Freida	费莉达	費莉達	Fèilìdá	Fai-leih-daaht	
 Freire (surname)	弗莱雷	弗萊雷	Fúláiléi	Fāt-lòih-lèuih	
 Freitas	弗雷塔斯	弗雷塔斯	Fúléitǎsī	Fāt-lèuih-taap-sī	
@@ -9023,6 +9033,7 @@ hand dryer	干手机	乾手機	gānshǒujī	gōn-sáu-gēi
 Handel	韩德尔	韓德爾	Hándé'ěr	Hòhn-dāk-yíh	
 handheld; palmtop (computer etc)	掌上	掌上	zhǎngshàng	jéung-séuhng	
 handheld computer; palmtop computer	掌上电脑	掌上電腦	zhǎngshàngdiànnǎo	jéung-séuhng-dihn-nóuh	
+handicap (in sports)	让步赛	讓步賽	ràngbùsài	yeuhng-bouh-choi	
 hand jewelry (?)	手饰	手飾	shǒushi	sáu-sīk	
 handle (for carrying etc)	握柄	握柄	wòbǐng	āak-beng	
 handling paperwork (lit. handling documents)	处理文件	處理文件	chǔlǐ wénjiàn	chyúh-léih màhn-gín	
@@ -13338,6 +13349,7 @@ low carbon	低碳	低碳	dītàn	dāi-taan
 low condition	低位	低位	dīwèi	dāi-wái	
 Lowell	洛厄尔	洛厄爾	Luò'è'ěr	Lohk-āak-yíh	lˈaʊəl
 Lowell	洛威尔	洛威爾	Luòwēi'ěr	Lohk-wāi-yíh	lˈaʊəl
+Lowell	罗威尔	羅威爾	Luówēi'ěr	Lòh-wāi-yíh	
 lower; less	较低	較低	jiàodī	gaau-dāi	
 <phys.> lower back	下背	下背	xiàbèi	hah-bui	
 lower departing tone (e.g. in Wenzhounese)	阳去	陽去	yángqù	yèuhng-heui	
@@ -14495,6 +14507,7 @@ metanoia (Greek repent)	梅塔尼阿	梅塔尼阿	méitǎní'ā	mùih-taap-nèih
 Metaxas	梅塔克萨斯	梅塔克薩斯	Méitǎkèsàsī	Mùih-taap-hāk-saat-sī	
 Metcalfe	梅特卡夫	梅特卡夫	Méitèkǎfū	Mùih-dahk-kā-fū	
 meteor (body entering the atmosphere)	流星体	流星體	liúxīngtǐ	làuh-sīng-tái	mˈitiʌ
+meteorite black (colour used in jewellery etc)	陨石黑	隕石黑	yǔnshí hēi	wáhn-sehk hāk	
 meterological data; weather data	气象资料	氣象資料	qìxiàng zīliào	hei-jeuhng jī-líu	
 meter room (electricity)	电表房	電錶房	diànbiǎofáng	dihn-bíu-fòhng	
 methodist church	循道会	循道會	xúndàohuì	chèuhn-douh-wúi	
@@ -14780,6 +14793,7 @@ mobile devices (phones etc)	移动电子产品	移動電子產品	yídòng diàn
 mobile display cart	活动展示架	活動展示架	huódòng zhǎnshìjià	wuht-duhng jín-sih-ga	
 mobile edition (of a website, Cantonese version)	手机版	手機版	shǒujībǎn	sáu-gēi-báan	
 mobile home; house car	活动房屋	活動房屋	huódòng fángwū	wuht-duhng fòhng-ngūk	
+mobile payments (authenticated via a mobile device)	移动支付	移動支付	yídòng zhīfù	yìh-duhng jī-fuh	
 mobile phone number	手机号码	手機號碼	shǒujī hàomǎ	sáu-gēi houh-máh	
 mobility cane	导盲棍	導盲棍	dǎománggùn	douh-màahng-gwan	
 Mobley	莫布利	莫布利	Mòbùlì	Mohk-bou-leih	
@@ -14900,6 +14914,7 @@ Montserrat	蒙塞拉特	蒙塞拉特	Méngsàilātè	Mùhng-choi-lāai-dahk	mˌ�
 mood changes	情绪波动	情緒波動	qíngxù bōdòng	chìhng-séuih bō-duhng	
 Moody (surname)	穆迪	穆迪	Mùdí	Muhk-dihk	
 Moon, Sun Myung	文鲜明	文鮮明	Wén Xiānmíng	Màhn Sīn-mìhng	
+moonlight	明月光	明月光	míngyuèguāng	mìhng-yuht-gwōng	
 Moonlight Melody (Chinese title of "Moonlight" sonata, old translation?)	月光曲	月光曲	Yuèguāng Qǔ	Yuht-gwōng Kūk	
 Moonlight over Two-Spring Pond (famous Abing composition)	二泉映月	二泉映月	Èr Quán Yìng Yuè	Yih Chyùhn Yíng Yuht	
 Moonlight Sonata	月光奏鸣曲	月光奏鳴曲	Yuèguāng Zòumíngqǔ	Yuht-gwōng Jau-mìhng-kūk	
@@ -15568,6 +15583,7 @@ Nevis	尼维斯	尼維斯	Níwéisī	Nèih-wàih-sī
 Nevo	尼沃	尼沃	Níwò	Nèih-yūk	
 New Age (movement)	新世纪运动	新世紀運動	Xīn shìjì yùndòng	Sān sai-géi wahn-duhng	
 New American Standard Bible; NAS; NASB	新美国标准圣经	新美國標准聖經	Xīn Měiguó Biāozhǔn Shèngjīng	Sān Méih-gwok Bīu-jéun Sing-gīng	
+new analysis	新解	新解	xīnjiě	sān-gáai	
 Newari (language)	尼瓦尔语	尼瓦爾語	Níwǎ'ěryǔ	Nèih-ngáh-yíh-yúh	
 Newark	纽瓦克	紐瓦克	Niǔwǎkè	Náu-ngáh-hāk	njˈʉːək
 new assignment (location)	新的岗位	新的崗位	xīn de gǎngwèi	sān dīk gōng-wái	
@@ -15903,6 +15919,7 @@ not always wrong; not necessarily wrong	未必不好	未必不好	wèibì bù h�
 not a shred of evidence (in quote)	没有丝毫证据	沒有絲毫證據	méiyǒu sīháo zhèngjù	muht-yáuh sī-hòuh jing-geui	
 not at all	并不是	並不是	bìngbushì	bihng-bāt-sih	
 not at home; not home	不在家	不在家	bù zàijiā	bāt joih-gā	
+notation; annotation method	记号法	記號法	jìhaofǎ	gei-houh-faat	
 not believe	不信	不信	bùxìn	bāt-seun	
 not bend toward the right or the left; not break off course	不偏左右	不偏左右	bùpiān zuǒyòu	bāt-pīn jó-yauh	
 not clean	不洁净	不潔凈	bù jiéjìng	bāt git-jihng	
@@ -16802,6 +16819,7 @@ Pedernales	佩德纳莱斯	佩德納萊斯	Pèidénàláisī	Pui-dāk-naahp-lòi
 Pedersen	佩德森	佩德森	Pèidésēn	Pui-dāk-sām	
 Pedersen	彼泽森	彼澤森	Bǐzésēn	Béi-jaahk-sām	
 pedestrian traffic	人流量	人流量	rénliúliàng	yàhn-làuh-leuhng	
+pedometer (for 10,000 steps a day); manpokei (1960s Japan)	万歩计	萬歩計	wànbùjì	maahn-bouh-gai	
 pedophilia	恋童行为	戀童行為	liàntóng xíngwéi	lyún-tùhng hàhng-wàih	
 Pedro	佩德罗	佩德羅	Pèidéluó	Pui-dāk-lòh	
 Pedro	彼德罗	彼德羅	Bǐdéluó	Béi-dāk-lòh	
@@ -17443,6 +17461,7 @@ Porsche	保时捷	保時捷	Bǎoshíjié	Bóu-sìh-jiht
 Port-au-Prince	太子港	太子港	Tàizǐgǎng	Taai-jí-góng	
 Port-Louis	路易港	路易港	Lùyìgǎng	Louh-yih-góng	
 Port-Vila	维拉港市	維拉港市	Wéilāgǎng Shì	Wàih-lāai-góng Síh	
+Portable Game Notation; PGN (Chess)	可移植式棋局记号法	可移植式棋局記號法	Kěyízhíshì Qíjú Jìhaofǎ	Hó-yìh-jihk-sīk Kèih-guhk Gei-houh-faat	
 portable phonograph	手提留声机	手提留聲機	shǒutí liúshēngjī	sáu-tàih làuh-sēng-gēi	
 <comp./TW?> portable (USB/Flash) disk	随身碟	隨身碟	suíshēn dié	chèuih-sān dihp	
 portcullis	城堡吊门	城堡吊門	chéngbǎo diàomén	sìhng-bóu diu-mùhn	
@@ -19743,6 +19762,7 @@ sensational tales	煽情故事	煽情故事	shānqíng gùshi	sin-chìhng gu-sih
 senseless one	愚妄人	愚妄人	yúwàngrén	yùh-móhng-yàhn	
 sense of guilt	内疚感	內疚感	nèijiùgǎn	noih-gau-gám	
 sense of justice; sense of fairness	公平感	公平感	gōngpínggǎn	gūng-pìhng-gám	
+sense of music	乐感	樂感	yuègǎn	ngohk-gám	
 sense of right and wrong	是非感	是非感	shì-fēi gǎn	sih-fēi gám	
 sense of ritual	仪式感	儀式感	yíshìgǎn	yìh-sīk-gám	
 sense of self-restraint	自我约束意识	自我約束意識	zìwǒ yuēshù yìshi	jih-ngóh yeuk-chūk yi-sīk	
@@ -21068,6 +21088,7 @@ stay up late for oneself (after being occupied by others all day)	报复性熬�
 Stead (surname)	斯特德	斯特德	Sītèdé	Sī-dahk-dāk	
 steal	窃走	竊走	qièzǒu	sit-jáu	
 steal (and carry off)	偷去	偷去	tōuqu	tāu-heui	
+steal the limelight	抢风头	搶風頭	qiǎng fēngtou	chéung fūng-tàuh	
 steel-stud	轻钢	輕鋼	qīnggāng	hīng-gong	
 Steele	史提尔	史提爾	Shǐtí'ěr	Sí-tàih-yíh	
 Steele	斯蒂尔	斯蒂爾	Sīdì'ěr	Sī-dai-yíh	
@@ -21471,6 +21492,7 @@ sweet (doubled)	甜甜	甜甜	tiántián	tìhm-tìhm
 sweetened condensed milk	炼奶	煉奶	liànnǎi	lihn-náaih	
 (swelling) belly (in some ancient buildings etc)	鼓肚	鼓肚	gǔdù	gú-tóuh	
 Swift (Jonathan)	斯威夫特	斯威夫特	Sīwēifūtè	Sī-wāi-fū-dahk	
+swimming movements	泳姿	泳姿	yǒngzī	wihng-jī	
 Swindon	斯温登	斯溫登	Sīwēndēng	Sī-wān-dāng	
 swipe (through videos on) Douyin (TikTok)	刷抖音	刷抖音	shuā Dǒuyīn	chaat Dáu-yām	
 swipe (through) WeChat Moments	刷朋友圈	刷朋友圈	shuā péngyouquān	chaat pàhng-yáuh-hyūn	
@@ -22643,6 +22665,7 @@ Tottori (Japan prefecture)	鸟取	鳥取	Niǎoqǔ	Níuh-chéui
 Tou	陀乌	陀烏	Tuówū	Tòh-wū	tˈʉːəʊ
 Toucan	巨嘴鸟	巨嘴鳥	Jùzuǐniǎo	Geuih-jéui-níuh	
 touch-controlled	触控式	觸控式	chùkòngshì	jūk-hung-sīk	
+touch control	触控	觸控	chùkòng	jūk-hung	
 <netspeak> touched but refused	十动然拒	十動然拒	shídòngránjù	sahp-duhng-yìhn-kéuih	
 Toulouse	图卢兹	圖盧茲	Túlúzī	Tòuh-lòuh-jī	
 Touma	图马	圖馬	Túmǎ	Tòuh-máh	
@@ -22715,6 +22738,7 @@ translation department	翻译部	翻譯部	fānyìbù	fāan-yihk-bouh
 translation method	翻译方法	翻譯方法	fānyì fāngfǎ	fāan-yihk fōng-faat	
 translation skills	翻译的技巧	翻譯的技巧	fānyì de jìqiǎo	fāan-yihk dīk geih-háau	
 translation skills; grounding in translation	翻译功底	翻譯功底	fānyì gōngdǐ	fāan-yihk gūng-dái	
+translator	翻译家	翻譯家	fānyìjiā	fāan-yihk-gā	
 transliterate as	音译为	音譯為	yīnyì wéi	yām-yihk wàih	
 transliterated version; transliteration	音译本	音譯本	yīnyìběn	yām-yihk-bún	
 transliterated word	音译词	音譯詞	yīnyìcí	yām-yihk-chìh	

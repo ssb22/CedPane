@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-06-05
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-06-09
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -2841,6 +2841,7 @@
 達蓋爾 达盖尔 [Da2 gai4 er3] /Daguerre/
 達甘 达甘 [Da2 gan1] /Dagan/
 達格 达格 [Da2 ge2] /Dag (name)/
+達格黛爾 达格黛尔 [Da2 ge2 dai4 er3] /Dugdale/
 達豪 达豪 [Da2 hao2] /Dachau/
 達荷美 达荷美 [Da2 he2 mei3] /Dahomey (pre-1975 Benin)/
 達喀爾 达喀尔 [Da2 ka1 er3] /Dakar/
@@ -3112,6 +3113,7 @@
 德爾斐 德尔斐 [De2 er3 fei3] /Delphi/
 德爾芬 德尔芬 [De2 er3 fen1] /Delphine/
 德爾福斯 德尔福斯 [De2 er3 fu2 si1] /Delfos/
+德爾加杜角 德尔加杜角 [De2 er3 jia1 du4 jiao3] /Cabo Delgado/Delgado, Cabo/
 德爾加多 德尔加多 [De2 er3 jia1 duo1] /Delgado/
 德爾羅伊 德尔罗伊 [De2 er3 luo2 yi1] /Delroy/
 德爾圖良 德尔图良 [De2 er3 tu2 liang2] /Tertullian/
@@ -5228,7 +5230,7 @@
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-06-05/this is version 2019-06-05, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-06-09/this is version 2019-06-09, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
@@ -7323,6 +7325,7 @@
 可拉人 可拉人 [Ke3 la1 ren2] /Korahite/
 岢嵐縣 岢岚县 [Ke3 lan2_Xian4] /Kelan (county, in Shanxi)/
 可利 可利 [Ke3 li4] /Kore/
+可移植式棋局記號法 可移植式棋局记号法 [Ke3 yi2 zhi2 shi4_Qi2 ju2_Ji4 hao5 fa3] /Portable Game Notation/PGN (Chess)/Game Notation, Portable (Chess)/
 克爾 克尔 [Ke4 er3] /Kerr/
 克爾門德 克尔门德 [Ke4 er3 men2 de2] /Körmend/
 克爾特人 克尔特人 [Ke4 er3 te4 ren2] /Celts (people)/
@@ -9023,6 +9026,7 @@
 羅托路亞 罗托路亚 [Luo2 tuo1 lu4 ya4] /Rotorua/
 羅瓦斯 罗瓦斯 [Luo2 wa3 si1] /Robas/
 羅瓦語 罗瓦语 [Luo2 wa3 yu3] /Rwa (language)/
+羅威爾 罗威尔 [Luo2 wei1 er3] /Lowell/
 羅茜 罗茜 [Luo2 xi1] /Rossi/
 羅西 罗西 [Luo2 xi1] /Rossi/
 羅西奧 罗西奥 [Luo2 xi1 ao4] /Rocio/
@@ -17179,6 +17183,7 @@
 鐘山區 钟山区 [Zhong1 shan1_Qu1] /Zhongshan District/District, Zhongshan/
 中山市 中山市 [Zhong1 shan1_Shi4] /Zhongshan (in Guangdong)/
 鐘山縣 钟山县 [Zhong1 shan1_Xian4] /Zhongshan (county, in Guangxi)/
+中詩 中诗 [Zhong1 shi1] /Chinese poetry/poetry, Chinese/
 中式英文 中式英文 [Zhong1 shi4_Ying1 wen2] /Chinglish (Chinese-style English)/
 中式英語 中式英语 [Zhong1 shi4_Ying1 yu3] /Chinglish (Chinese-style English)/
 鍾士鎮 钟士镇 [Zhong1 shi4 zhen4] /Jonestown/
@@ -18282,6 +18287,7 @@
 儲值金 储值金 [chu3 zhi2 jin1] /balance (on EasyCard etc)/
 儲值卡 储值卡 [chu3 zhi2 ka3] /prepaid card/prepaid SIM/card, prepaid/
 黜臭 黜臭 [chu4 chou4] /publically expose shortcomings/expose shortcomings, publically/
+觸控 触控 [chu4 kong4] /touch control/control, touch/
 觸控式 触控式 [chu4 kong4 shi4] /touch-controlled/
 穿衣服 穿衣服 [chuan1_yi1 fu5] /put on clothes/clothes, put on/
 穿過紅海 穿过红海 [chuan1 guo4_Hong2 hai3] /passed through the Red Sea/through the Red Sea, passed/
@@ -18895,6 +18901,7 @@
 動力活力 动力活力 [dong4 li4_huo2 li4] /driving force/force, driving/
 動力轉向系統 动力转向系统 [dong4 li4_zhuan3 xiang4_xi4 tong3] /power-steering system/system, power-steering/
 動漫 动漫 [dong4 man4] /animated manga/manga, animated/
+凍手 冻手 [dong4 shou3] /freeze the hand (of cold weather)/hand, freeze the (of cold weather)/
 動物收容所 动物收容所 [dong4 wu4_shou1 rong2 suo3] /animal shelter/shelter, animal/
 動物門 动物门 [dong4 wu4 men2] /phylum/phyla (of animals)/
 洞悉人心 洞悉人心 [dong4 xi1_ren2 xin1] /read the heart/heart, read the/
@@ -19093,6 +19100,7 @@
 翻譯功底 翻译功底 [fan1 yi4_gong1 di3] /translation skills/grounding in translation/skills, translation/
 翻譯為 翻译为 [fan1 yi4_wei2] /rendered/translated as/
 翻譯部 翻译部 [fan1 yi4 bu4] /translation department/department, translation/
+翻譯家 翻译家 [fan1 yi4 jia1] /translator/
 翻做 翻做 [fan1 zuo4] /translated to (the following language)/
 煩得要死 烦得要死 [fan2_de5_yao4_si3] /weary|impatient to the point of dying/point of dying, weary|impatient to the/
 繁花競艷 繁花竞艳 [fan2 hua1 jing4 yan4] /varieties of brightly-coloured flowers (?)/brightly-coloured flowers, varieties of (?)/
@@ -19582,6 +19590,7 @@
 骨髓移植 骨髓移植 [gu3 sui3_yi2 zhi2] /bone-marrow transplants/transplants, bone-marrow/
 骨外科 骨外科 [gu3 wai4 ke1] /orthopedic surgery/surgery, orthopedic/
 鼓舞歡欣 鼓舞欢欣 [gu3 wu3 huan1 xin1] /inspired and elated/elated, inspired and/
+古義 古义 [gu3 yi4] /ancient meaning (of Chinese character that has changed in meaning)/meaning, ancient (of Chinese character that has changed in meaning)/
 鼓勇 鼓勇 [gu3 yong3] /call up all one's courage/one's courage, call up all/
 古鎮 古镇 [gu3 zhen4] /old town/town, old/
 故我在 故我在 [gu4_wo3_zai4] /therefore I am/
@@ -20183,6 +20192,7 @@
 記不起 记不起 [ji4 bu5 qi3] /unable to recall/recall, unable to/
 繼承產業 继承产业 [ji4 cheng2_chan3 ye4] /inheritance/
 計程車招呼站 计程车招呼站 [ji4 cheng2 che1_zhao1 hu5 zhan4] /taxi stand/stand, taxi/
+記號法 记号法 [ji4 hao5 fa3] /notation/annotation method/
 計劃生育政策 计划生育政策 [ji4 hua4_sheng1 yu4_zheng4 ce4] /family-planning policy/policy, family-planning/
 寂寂無聞 寂寂无闻 [ji4 ji4 wu2 wen2] /become insignificant (lit. quiet without news?)/insignificant, become (lit. quiet without news?)/
 寄件人地址 寄件人地址 [ji4 jian4 ren2_di4 zhi3] /sender's address/address, sender's/
@@ -21464,6 +21474,7 @@
 名譽地位 名誉地位 [ming2 yu4_di4 wei4] /prestige (lit. famous position)/
 名譽和地位 名誉和地位 [ming2 yu4_he2_di4 wei4] /prestige and status/status, prestige and/
 名譽研究員 名誉研究员 [ming2 yu4_yan2 jiu1 yuan2] /honorary research fellow/research fellow, honorary/
+明月光 明月光 [ming2 yue4 guang1] /moonlight/
 明智人 明智人 [ming2 zhi4 ren2] /wise person/person, wise/
 命令行 命令行 [ming4 ling4 hang2] /command line/line, command/
 命令行界面 命令行界面 [ming4 ling4 hang2_jie4 mian4] /command-line interface/interface, command-line/
@@ -21997,6 +22008,7 @@
 強制帶走 强制带走 [qiang2 zhi4_dai4 zou3] /seize/confiscate/
 牆住 墙住 [qiang2 zhu4] /side pillars/pillars, side/
 牆柱 墙柱 [qiang2 zhu4] /side pillar (lit. wall post)/pillar, side (lit. wall post)/
+搶風頭 抢风头 [qiang3_feng1 tou5] /steal the limelight/limelight, steal the/
 搶來 抢来 [qiang3 lai5] /taken by robbery (used as an adjective)/robbery, taken by (used as an adjective)/
 強迫墮胎 强迫堕胎 [qiang3 po4_duo4 tai1] /compulsory abortions/abortions, compulsory/
 搶去 抢去 [qiang3 qu5] /snatch away/capture/away, snatch/
@@ -22147,6 +22159,7 @@
 染製 染制 [ran3 zhi4] /dyed/manufactured with dye/
 讓你們想起 让你们想起 [rang4_ni3 men5_xiang3 qi3] /bring back to your minds/back to your minds, bring/
 讓人人 让人人 [rang4_ren2 ren2] /make|allow all people to (do sthg)/people to, make|allow all (do sthg)/
+讓步賽 让步赛 [rang4 bu4 sai4] /handicap (in sports)/
 饒有趣味 饶有趣味 [rao2_you3_qu4 wei4] /interesting/
 繞著 绕着 [rao4 zhe5] /to go around/around, to go/
 惹動 惹动 [re3 dong4] /provoke (anger etc)/
@@ -22790,6 +22803,7 @@
 手工具 手工具 [shou3 gong1 ju4] /hand tools (as opposed to power tools)/tools, hand (as opposed to power tools)/
 守護你的心 守护你的心 [shou3 hu4_ni3_de5_xin1] /guard your heart/heart, guard your/
 守護者 守护者 [shou3 hu4 zhe3] /guardian/
+手環 手环 [shou3 huan2] /band/bracelet/
 手機短信 手机短信 [shou3 ji1_duan3 xin4] /text message/message, text/
 手機號碼 手机号码 [shou3 ji1_hao4 ma3] /mobile phone number/phone number, mobile/
 手機鈴聲 手机铃声 [shou3 ji1_ling2 sheng1] /ringtone (for a mobile phone)/
@@ -23458,6 +23472,7 @@
 外星 外星 [wai4 xing1] /extraterrestrial/
 外星生物 外星生物 [wai4 xing1_sheng1 wu4] /extraterrestrials/
 外星人侵略地球 外星人侵略地球 [wai4 xing1 ren2_qin1 lu:e4_di4 qiu2] /extraterrestrials invade Earth/invaders from outer space (scenario)/invade Earth, extraterrestrials (scenario)/outer space, invaders from (scenario)/
+外譯 外译 [wai4 yi4] /foreign translation/translation, foreign/
 外語社團 外语社团 [wai4 yu3_she4 tuan2] /the foreign-language community/foreign-language community, the/
 彎音 弯音 [wan1 yin1] /pitch bending/bending, pitch/
 玩得團團轉 玩得团团转 [wan2_de5_tuan2 tuan2 zhuan4] /wrapped around one's finger (figurative, of other people)/around one's finger, wrapped (figurative, of other people)/
@@ -23478,6 +23493,7 @@
 晚期四重奏 晚期四重奏 [wan3 qi1_si4 chong2 zou4] /Late Quartets (Beethoven)/Quartets, Late (Beethoven)/
 碗形 碗形 [wan3 xing2] /bowl-shaped/
 婉轉得體 婉转得体 [wan3 zhuan3_de2 ti3] /tactfulness/
+萬歩計 万歩计 [wan4 bu4 ji4] /pedometer (for 10,000 steps a day)/manpokei (1960s Japan)/
 萬國都 万国都 [wan4 guo2_dou1] /all nations (will) all/nations all, all/
 萬軍 万军 [wan4 jun1] /tens of thousands (of an army etc)/thousands, tens of (of an army etc)/
 萬口 万口 [wan4 kou3] /every tongue (lit. myriad mouth)/tongue, every (lit. myriad mouth)/
@@ -24056,6 +24072,7 @@
 心地剛硬 心地刚硬 [xin1 di4_gang1 ying4] /hardhearted/
 心地正直 心地正直 [xin1 di4_zheng4 zhi2] /well-intentioned/honest at heart/
 心懷二意的人 心怀二意的人 [xin1 huai2 er4 yi4_de5_ren2] /halfhearted ones/ones, halfhearted/
+新解 新解 [xin1 jie3] /new analysis/analysis, new/
 新酒 新酒 [xin1 jiu3] /new wine/wine, new/
 新來的人 新来的人 [xin1 lai2_de5_ren2] /newcomers/
 心理輔導 心理辅导 [xin1 li3_fu3 dao3] /psychological counseling/counseling, psychological/
@@ -24487,6 +24504,7 @@
 遺傳定律 遗传定律 [yi2 chuan2_ding4 lu:4] /law of heredity/principles of genetics/heredity, law of/genetics, principles of/
 移動電子產品 移动电子产品 [yi2 dong4_dian4 zi3_chan3 pin3] /mobile devices (phones etc)/devices, mobile (phones etc)/
 移動數據 移动数据 [yi2 dong4_shu4 ju4] /mobile data/data, mobile/
+移動支付 移动支付 [yi2 dong4_zhi1 fu4] /mobile payments (authenticated via a mobile device)/payments, mobile (authenticated via a mobile device)/
 宜居 宜居 [yi2 ju1] /liveable/fit to live in/live in, fit to/
 移開尺許 移开尺许 [yi2 kai1_chi3_xu3] /held at arm's length/arm's length, held at/
 移民拘留所 移民拘留所 [yi2 min2_ju1 liu2 suo3] /immigration detention centre/detention centre, immigration/
@@ -24656,6 +24674,7 @@
 永永遠遠 永永远远 [yong3 yong3 yuan3 yuan3] /forever and ever/ever, forever and/
 永遠受苦 永远受苦 [yong3 yuan3_shou4 ku3] /eternal torment/torment, eternal/
 永遠長存 永远长存 [yong3 yuan3 chang2 cun2] /exist forever/forever, exist/
+泳姿 泳姿 [yong3 zi1] /swimming movements/movements, swimming/
 用護符 用护符 [yong4_hu4 fu2] /use charms (amulets for protection in some religions)/charms, use (amulets for protection in some religions)/
 用自己的話 用自己的话 [yong4_zi4 ji3_de5_hua4] /using your own words/words, using your own/
 用戶界面 用户界面 [yong4 hu4_jie4 mian4] /user interface/interface, user/
@@ -24837,6 +24856,7 @@
 約誓 约誓 [yue1 shi4] /vow/
 約書 约书 [yue1 shu1] /book of the covenant/covenant, book of the/
 越刮越大 越刮越大 [yue4_gua1_yue4_da4] /blows harder and harder (of wind)/harder and harder, blows (of wind)/
+樂感 乐感 [yue4 gan3] /sense of music/music, sense of/
 粵胡 粤胡 [yue4 hu2] /yuehu (another name for gaohu, a higher-pitched huqin)/
 越橘汁 越橘汁 [yue4 ju2 zhi1] /cranberry juice/juice, cranberry/
 越來越壞 越来越坏 [yue4 lai2 yue4_huai4] /advance from bad to worse/go from bad to worse/worse, advance from bad to/
@@ -24852,8 +24872,10 @@
 月租 月租 [yue4 zu1] /monthly rent (amount)/rent, monthly (amount)/
 云通訊錄 云通讯录 [yun2_tong1 xun4 lu4] /cloud address book (service)/address book, cloud (service)/
 云柱 云柱 [yun2 zhu4] /pillar of cloud/cloud, pillar of/
+隕石黑 陨石黑 [yun3 shi2_hei1] /meteorite black (colour used in jewellery etc)/black, meteorite (colour used in jewellery etc)/
 運動健康 运动健康 [yun4 dong4_jian4 kang1] /fitness and health (via workouts etc)/health, fitness and (via workouts etc)/
 運動明星 运动明星 [yun4 dong4_ming2 xing1] /sports hero/hero, sports/
+運動腕帶 运动腕带 [yun4 dong4_wan4 dai4] /fitness tracker (wristband)/tracker, fitness (wristband)/
 運回 运回 [yun4 hui2] /bring back (lit. transport return)/back, bring (lit. transport return)/
 運進 运进 [yun4 jin4] /transport into/
 運勢 运势 [yun4 shi4] /luck (amount, as supposedly determined by divination)/
@@ -24937,6 +24959,7 @@
 扎因 扎因 [zha1 yin1] /zayin (Hebrew letter)/
 炸薯條 炸薯条 [zha2 shu3 tiao2] /French fries (USA)/chips (UK)/fries chips, French/
 眨眨 眨眨 [zha3 zha5] /blinking/
+炸彈威脅 炸弹威胁 [zha4 dan4_wei1 xie2] /bomb threat/threat, bomb/
 摘自文中 摘自文中 [zhai1_zi4_wen2_zhong1] /quoting from the article/article, quoting from the/
 摘到 摘到 [zhai1 dao4] /reach to (a time)/
 摘去 摘去 [zhai1 qu5] /pick up (in harvesting etc)/
@@ -25130,6 +25153,7 @@
 植入式營銷 植入式营销 [zhi2 ru4 shi4_ying2 xiao1] /product placement (marketing method)/placement, product (marketing method)/
 植物蒸騰 植物蒸腾 [zhi2 wu4_zheng1 teng2] /plant transpiration/transpiration, plant/
 植物目 植物目 [zhi2 wu4 mu4] /plant order (classification)/order, plant (classification)/
+執行標准 执行标准 [zhi2 xing2_biao1 zhun3] /conforming to standards (on product specifications)/standards, conforming to (on product specifications)/
 植牙 植牙 [zhi2 ya2] /(dental) implant/
 職業倦怠 职业倦怠 [zhi2 ye4_juan4 dai4] /burnout (syndrome)/
 職業培訓 职业培训 [zhi2 ye4_pei2 xun4] /vocational training/training, vocational/
