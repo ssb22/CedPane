@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-06-09
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-06-10
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -3249,6 +3249,7 @@
 登京格 登京格 [Deng1 jing1 ge2] /Tenzing/
 登山寶訓 登山宝训 [Deng1 shan1 bao3 xun4] /Sermon on the Mount/Mount, Sermon on the/
 燈塔市 灯塔市 [Deng1 ta3_Shi4] /Dengta (in Liaoning)/
+鄧麗君 邓丽君 [Deng4_Li4 jun1] /Teresa Teng (singer)/Teng, Teresa (singer)/
 鄧恩 邓恩 [Deng4 en1] /Dunn/
 鄧布蘭鎮 邓布兰镇 [Deng4 bu4 lan2 zhen4] /Dunblane/
 鄧迪 邓迪 [Deng4 di2] /Dundee/
@@ -4695,6 +4696,7 @@
 弓歌 弓歌 [Gong1 ge1] /The Bow (song)/
 公理會教士 公理会教士 [Gong1 li3 hui4_jiao4 shi4] /Congregationalist minister/minister, Congregationalist/
 公民及政治權利國際公約 公民及政治权利国际公约 [Gong1 min2_Ji2_Zheng4 zhi4_Quan2 li4_Guo2 ji4_Gong1 yue1] /International Covenant on Civil and Political Rights/ICCPR/Covenant on Civil and Political Rights, International/
+公民咨詢局 公民咨询局 [Gong1 min2_Zi1 xun2_Ju2] /Citizens Advice Bureau/Advice Bureau, Citizens/
 工農區 工农区 [Gong1 nong2_Qu1] /Gongnong District/District, Gongnong/
 宮崎 宫崎 [Gong1 qi2] /Miyazaki (Japan prefecture)/
 公認文本 公认文本 [Gong1 ren4_Wen2 ben3] /Textus Receptus/Receptus, Textus/
@@ -5230,7 +5232,7 @@
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-06-09/this is version 2019-06-09, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-06-10/this is version 2019-06-10, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
@@ -8000,6 +8002,7 @@
 老底嘉人 老底嘉人 [Lao3 di3 jia1 ren2] /Laodicean person/person, Laodicean/
 老河口 老河口 [Lao3 he2 kou3] /Laohekou (in Hubei)/
 老河口市 老河口市 [Lao3 he2 kou3_Shi4] /Laohekou (in Hubei)/
+老街 老街 [Lao3 jie1] /Old Street/Street, Old/
 老撾文 老挝文 [Lao3 wo1 wen2] /Lao (written language)/
 勒甘 勒甘 [Le4_Gan1] /Le Guin/Guin, Le/
 樂安縣 乐安县 [Le4 an1_Xian4] /Le'an (county, in Jiangxi)/
@@ -11177,6 +11180,7 @@
 平谷區 平谷区 [Ping2 gu3_Qu1] /Pinggu District (in Beijing)/District, Pinggu (in Beijing)/
 平桂區 平桂区 [Ping2 gui4_Qu1] /Pinggui District/District, Pinggui/
 平果縣 平果县 [Ping2 guo3_Xian4] /Pingguo (county, in Guangxi)/
+蘋果店 苹果店 [Ping2 guo3 dian4] /Apple shop/Apple Store/shop, Apple/Store, Apple/
 平和縣 平和县 [Ping2 he2_Xian4] /Pinghe County/County, Pinghe/
 平湖 平湖 [Ping2 hu2] /Pinghu (in Zhejiang)/
 平湖市 平湖市 [Ping2 hu2_Shi4] /Pinghu (in Zhejiang)/
@@ -13678,6 +13682,7 @@
 通河縣 通河县 [Tong1 he2_Xian4] /Tonghe County/County, Tonghe/
 通化市 通化市 [Tong1 hua4_Shi4] /Tonghua (in Jilin)/
 通化縣 通化县 [Tong1 hua4_Xian4] /Tonghua County/County, Tonghua/
+通濟湖 通济湖 [Tong1 ji4 hu2] /Tongjihu (lake in Zhejiang)/
 通江縣 通江县 [Tong1 jiang1_Xian4] /Tongjiang (county, in Sichuan)/
 通勒 通勒 [Tong1 le4] /Tüngler/
 通遼 通辽 [Tong1 liao2] /Tongliao (in Inner Mongolia)/
@@ -18290,6 +18295,7 @@
 觸控 触控 [chu4 kong4] /touch control/control, touch/
 觸控式 触控式 [chu4 kong4 shi4] /touch-controlled/
 穿衣服 穿衣服 [chuan1_yi1 fu5] /put on clothes/clothes, put on/
+穿搭 穿搭 [chuan1 da1] /styling/dressing up/
 穿過紅海 穿过红海 [chuan1 guo4_Hong2 hai3] /passed through the Red Sea/through the Red Sea, passed/
 穿金戴銀 穿金戴银 [chuan1 jin1 dai4 yin2] /wearing gold and silver jewellery/gold and silver jewellery, wearing/
 穿進 穿进 [chuan1 jin4] /pierce into (side of ark of covenant)/
@@ -19158,6 +19164,7 @@
 紡杆 纺杆 [fang3 gan1] /distaff/
 訪客停車場 访客停车场 [fang3 ke4_ting2 che1 chang3] /visitor parking/parking, visitor/
 訪學 访学 [fang3 xue2] /visiting scholar (short form)/scholar, visiting (short form)/
+訪幽 访幽 [fang3 you1] /visit scenic spots/scenic spots, visit/
 紡織科學 纺织科学 [fang3 zhi1_ke1 xue2] /textile science/science, textile/
 紡織科學與工程 纺织科学与工程 [fang3 zhi1_ke1 xue2_yu3_gong1 cheng2] /textile science and engineering/science and engineering, textile/
 放大假 放大假 [fang4_da4 jia4] /go on holiday/holiday, go on/
@@ -19720,6 +19727,7 @@
 國家和地區 国家和地区 [guo2 jia1_he2_di4 qu1] /countries and territories/territories, countries and/
 國家緊急狀態 国家紧急状态 [guo2 jia1_jin3 ji2_zhuang4 tai4] /state of national emergency/national emergency, state of/
 國家級災難 国家级灾难 [guo2 jia1 ji2_zai1 nan4] /national emergency (disaster)/emergency, national (disaster)/
+國考 国考 [guo2 kao3] /national exam/exam, national/
 國族 国族 [guo2 zu2] /nation/
 果醋 果醋 [guo3 cu4] /fruit vinegar (vinegar made by fermenting fruits)/vinegar, fruit (vinegar made by fermenting fruits)/
 裹好 裹好 [guo3 hao3] /wrap|bind up well/well, wrap|bind up/
@@ -20786,6 +20794,7 @@
 烤餅 烤饼 [kao3 bing3] /to bake (food)/bake, to (food)/
 考察之旅 考察之旅 [kao3 cha2_zhi1_lu:3] /fact-finding trip/trip, fact-finding/
 烤成 烤成 [kao3 cheng2] /bake into/
+考綱 考纲 [kao3 gang1] /examination structure guide/study guide (for exam)/structure guide, examination (for exam)/guide, study (for exam)/
 烤穀 烤谷 [kao3 gu3] /roasted grain/grain, roasted/
 烤好 烤好 [kao3 hao3] /cook well/well, cook/
 考級 考级 [kao3 ji2] /grade exam (music etc)/exam, grade (music etc)/
@@ -22470,6 +22479,7 @@
 設計方案 设计方案 [she4 ji4_fang1 an4] /architectural plans/plans, architectural/
 設計模式 设计模式 [she4 ji4_mo2 shi4] /design pattern/pattern, design/
 設計團隊 设计团队 [she4 ji4_tuan2 dui4] /design team/team, design/
+設計感 设计感 [she4 ji4 gan3] /sense of design/design, sense of/
 設計學 设计学 [she4 ji4 xue2] /design (as a subject)/
 社交定位 社交定位 [she4 jiao1_ding4 wei4] /social orientation (in student community etc)/orientation, social (in student community etc)/
 社交環境 社交环境 [she4 jiao1_huan2 jing4] /social environment (of students etc)/environment, social (of students etc)/
@@ -22863,6 +22873,7 @@
 輸入字段 输入字段 [shu1 ru4_zi4 duan4] /input field/field, input/
 疏散令 疏散令 [shu1 san4 ling4] /evacuation order/order, evacuation/
 舒身 舒身 [shu1 shen1] /stretch oneself out/oneself out, stretch/
+舒適感 舒适感 [shu1 shi4 gan3] /sense of comfort/comfort, sense of/
 贖愆祭 赎愆祭 [shu2 qian1 ji4] /guilt offering/offering, guilt/
 贖愆祭牲 赎愆祭牲 [shu2 qian1 ji4 sheng1] /guilt offering/offering, guilt/
 赎清 贖清 [shu2 qing1] /paid off (by redemption)/
@@ -23234,6 +23245,7 @@
 天使長米迦勒 天使长米迦勒 [tian1 shi3 zhang3_Mi3 jia1 le4] /Michael the archangel/archangel, Michael the/
 天體物理學家 天体物理学家 [tian1 ti3_wu4 li3 xue2 jia1] /astrophysicist/
 天喜菇 天喜菇 [tian1 xi3 gu1] /tree oyster mushroom/oyster mushroom, tree/
+天圓地方 天圆地方 [tian1 yuan2 di4 fang1] /round sky, square earth (ancient idea)/sky, square earth, round (ancient idea)/
 天云 天云 [tian1 yun2] /clouds of the heavens/heavens, clouds of the/
 甜餅 甜饼 [tian2 bing3] /sweet cake/cake, sweet/
 填好 填好 [tian2 hao3] /fill in (a form)/
@@ -23582,6 +23594,7 @@
 維太放映機 维太放映机 [wei2 tai4_fang4 ying4 ji1] /vitascope/
 惟物論 惟物论 [wei2 wu4 lun4] /materialism (theory)/
 維修人員 维修人员 [wei2 xiu1_ren2 yuan2] /maintenance worker/worker, maintenance/
+維修店 维修店 [wei2 xiu1 dian4] /repair shop/shop, repair/
 維修廊 维修廊 [wei2 xiu1 lang2] /maintenance corridor/corridor, maintenance/
 為友 为友 [wei2 you3] /make as your companion/companion, make as your/
 葦稈 苇秆 [wei3 gan3] /reed (for poking things out on)/
@@ -23914,6 +23927,7 @@
 相伐 相伐 [xiang1 fa2] /attack each other/each other, attack/
 箱蓋 箱盖 [xiang1 gai4] /box cover/chest lid/cover, box/
 相攻 相攻 [xiang1 gong1] /attack each other/each other, attack/
+相關條目 相关条目 [xiang1 guan1_tiao2 mu4] /related entries/see also (in dictionary etc)/entries, related (in dictionary etc)/also, see (in dictionary etc)/
 相關文章 相关文章 [xiang1 guan1_wen2 zhang1] /related articles/articles, related/
 香桂皮 香桂皮 [xiang1 gui4 pi2] /sweet cinnamon (lit. fragrant cinnamon)/cinnamon, sweet (lit. fragrant cinnamon)/
 香花苗 香花苗 [xiang1 hua1 miao2] /seedlings of fragrant flowers (?)/fragrant flowers, seedlings of (?)/
