@@ -122387,7 +122387,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-06-16
+definition CedPane: this is version 2019-06-19
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -128556,3 +128556,298 @@ pinyin zhìnéng shǒubiǎo
 characters 智能手表
 serial-number CedPane25895
 definition smart watch
+*** 
+pinyin gōngmín shēnfen hàomǎ
+characters 公民身份号码[----號碼]
+serial-number CedPane25896
+environment   PRC
+definition citizen ID number
+*** 
+pinyin jūmín shēnfènzhèng hàomǎ
+characters 居民身份证号码[----證號碼]
+serial-number CedPane25897
+environment   PRC
+definition resident's ID card number
+*** 
+pinyin kòngfānglǜshī
+characters 控方律师[---師]
+serial-number CedPane25898
+definition prosecutor (less-formal word?)
+*** 
+pinyin méizǐ
+characters 没籽[沒-]
+serial-number CedPane25899
+definition seedless (of grape etc)
+*** 
+pinyin tàncè shǒuzhàng
+characters 探测手杖[-測--]
+serial-number CedPane25900
+definition probing cane; long cane (type of mobility cane for blind people)
+*** 
+pinyin wénhuà chéngdu
+characters 文化程度
+serial-number CedPane25901
+environment   PRC
+definition education level
+*** 
+pinyin xíngsù
+characters 刑诉[-訴]
+serial-number CedPane25902
+environment   PRC
+definition criminal suit (abbreviated form)
+*** 
+pinyin xíngsùfǎ
+characters 刑诉法[-訴-]
+serial-number CedPane25903
+environment   PRC
+definition criminal law (abbreviated form)
+*** 
+pinyin zǒu jǐ bù
+characters 走几步[-幾-]
+serial-number CedPane25904
+definition walk a few paces
+*** 
+pinyin Bǎidé Jiàoyù
+characters 百德教育
+serial-number CedPane25905
+definition Baide Education (company)
+*** 
+pinyin bǔcháchóngbào
+characters 补查重报[補--報]
+serial-number CedPane25906
+definition supplementary investigation report
+*** 
+pinyin bǔchōng zhēnchá
+characters 补充侦查[補-偵-]
+serial-number CedPane25907
+environment   PRC
+definition supplementary investigation (for crime etc)
+*** 
+pinyin céng yòng míng
+characters 曾用名
+serial-number CedPane25908
+definition previously-used name (of a person)
+*** 
+pinyin dúkǎqì
+characters 读卡器[讀--]
+serial-number CedPane25909
+environment   comp.
+definition memory-card reader
+*** 
+pinyin fànzuì shìshí
+characters 犯罪事实[---實]
+serial-number CedPane25910
+definition corpus delicti; facts concerning a crime
+*** 
+pinyin fǎrén dàibiǎo
+characters 法人代表
+serial-number CedPane25911
+definition legal representative
+*** 
+pinyin gōng'ān jīguān
+characters 公安机关[--機關]
+serial-number CedPane25912
+environment   PRC
+definition public security bureau
+*** 
+pinyin gòngtóng fànzuì
+characters 共同犯罪
+serial-number CedPane25913
+definition joint offence (crime with accomplices)
+*** 
+pinyin Háotíng
+characters 豪庭
+serial-number CedPane25914
+definition Grand Court (used in street addresses)
+*** 
+pinyin jiǎngōngsù
+characters 检公诉[檢-訴]
+serial-number CedPane25915
+definition public prosecution
+*** 
+pinyin jiānguī
+characters 监规[監規]
+serial-number CedPane25916
+definition prison regulations
+*** 
+pinyin Jiāshǔyuàn
+characters 家属院[-屬-]
+serial-number CedPane25917
+definition Family Court (used in street addresses)
+*** 
+pinyin kuàisùlù
+characters 快速路
+serial-number CedPane25918
+definition highway; fast road
+*** 
+pinyin liánxiǎoqū
+characters 连小区[連-區]
+serial-number CedPane25919
+definition district chain (in some cities)
+*** 
+pinyin mínzōngwěi
+characters 民宗委
+serial-number CedPane25920
+environment   PRC
+definition Ethnic and Religious Affairs Committee (short form)
+*** 
+pinyin mínzú zōngjiào shìwù wěiyuánhuì
+characters 民族宗教事务委员会[-----務-員會]
+serial-number CedPane25921
+environment   PRC
+definition Ethnic and Religious Affairs Committee
+*** 
+pinyin shěnchá qǐsù
+characters 审查起诉[審--訴]
+serial-number CedPane25922
+definition investigation (of a case) and prosecution
+*** 
+pinyin sīxiǎng guànshū
+characters 思想灌输[---輸]
+serial-number CedPane25923
+definition instilling thought; hammer a thought into (a child etc)
+*** 
+pinyin sīxiǎng kòngzhì
+characters 思想控制
+serial-number CedPane25924
+definition brainwashing; mind control
+*** 
+pinyin tǔháojīn
+characters 土豪金
+serial-number CedPane25925
+definition luxury gold (of phone etc)
+*** 
+pinyin xiàn zhùzhǐ
+characters 现住址[現--]
+serial-number CedPane25926
+definition current address (where someone lives)
+*** 
+pinyin yīfǎ shěnchá
+characters 依法审查[--審-]
+serial-number CedPane25927
+definition legal review
+*** 
+pinyin Zhōnghuá Rénmín Gònghéguó Xíngshì Sùsòngfǎ
+characters 中华人民共和国刑事诉讼法[-華----國--訴訟-]
+serial-number CedPane25928
+definition Criminal Procedure Law of the People's Republic of China
+*** 
+pinyin běn Zhōu'èr
+characters 本周二
+serial-number CedPane25929
+definition this Tuesday (abbreviated)
+*** 
+pinyin běn Zhōuliù
+characters 本周六
+serial-number CedPane25930
+definition this Saturday (abbreviated)
+*** 
+pinyin běn Zhōurì
+characters 本周日
+serial-number CedPane25931
+definition this Sunday (abbreviated)
+*** 
+pinyin běn Zhōusān
+characters 本周三
+serial-number CedPane25932
+definition this Wednesday (abbreviated)
+*** 
+pinyin běn Zhōusì
+characters 本周四
+serial-number CedPane25933
+definition this Thursday (abbreviated)
+*** 
+pinyin běn Zhōuwǔ
+characters 本周五
+serial-number CedPane25934
+definition this Friday (abbreviated)
+*** 
+pinyin běn Zhōuyī
+characters 本周一
+serial-number CedPane25935
+definition this Monday (abbreviated)
+*** 
+pinyin děng wǒ
+characters 等我
+serial-number CedPane25936
+definition wait for me
+*** 
+pinyin kuàiqí
+characters 快棋
+serial-number CedPane25937
+definition fast Chess; Blitz
+*** 
+pinyin lǜjìng
+characters 滤镜[濾鏡]
+serial-number CedPane25938
+definition image filter (electronic image processing)
+*** 
+pinyin māomī lǜjìng
+characters 猫咪滤镜[貓-濾鏡]
+serial-number CedPane25939
+definition cat filter (image processing software adding cat features to faces)
+*** 
+pinyin Sà'ěrsībǎo
+characters 萨尔斯堡[薩爾--]
+serial-number CedPane25940
+definition Salzburg
+*** 
+pinyin shèjì sīkǎo
+characters 设计思考[設計--]
+serial-number CedPane25941
+definition design thinking
+*** 
+pinyin shòushāngzhě
+characters 受伤者[-傷-]
+serial-number CedPane25942
+definition injuries; injured people
+*** 
+pinyin xià Zhōu'èr
+characters 下周二
+serial-number CedPane25943
+definition next Tuesday (abbreviated)
+*** 
+pinyin xià Zhōuliù
+characters 下周六
+serial-number CedPane25944
+definition next Saturday (abbreviated)
+*** 
+pinyin xià Zhōurì
+characters 下周日
+serial-number CedPane25945
+definition next Sunday (abbreviated)
+*** 
+pinyin xià Zhōusān
+characters 下周三
+serial-number CedPane25946
+definition next Wednesday (abbreviated)
+*** 
+pinyin xià Zhōusì
+characters 下周四
+serial-number CedPane25947
+definition next Thursday (abbreviated)
+*** 
+pinyin xià Zhōuwǔ
+characters 下周五
+serial-number CedPane25948
+definition next Friday (abbreviated)
+*** 
+pinyin xuékē lǐngyù
+characters 学科领域[學-領-]
+serial-number CedPane25949
+definition branch of learning; discipline
+*** 
+pinyin yóuxíng rénshì
+characters 游行人士
+serial-number CedPane25950
+definition protestors (in a march)
+*** 
+pinyin yuánchuàngxìng
+characters 原创性[-創-]
+serial-number CedPane25951
+definition original type (of artistic work etc)
+*** 
+pinyin yuánchuàngxìng gòngxiàn
+characters 原创性贡献[-創-貢獻]
+serial-number CedPane25952
+definition original contribution (to knowledge etc)
