@@ -2,7 +2,7 @@ CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc
 
 From http://people.ds.cam.ac.uk/ssb22/gradint/cedpane.html
 
-People learning Chinese as a foreign language sometimes use software to help them read a text.  But when Western names are written using Chinese characters, the result is not always something an average dictionary can help with---the software might give you an inappropriate "analysis" like <style>ruby { border: thin green solid; }</style><ruby lang="zh-Hans"><rb>沃</rb><rt>wò</rt><rt lang="en">irrigate</rt></ruby> <ruby lang="zh-Hans"><rb>兹</rb><rt>zī</rt><rt lang="en">this/now</rt></ruby> <ruby lang="zh-Hans"><rb>沃</rb><rt>wò</rt><rt lang="en">irrigate</rt></ruby> <ruby lang="zh-Hans"><rb>思</rb><rt>sī</rt><rt lang="en">thought</rt></ruby> instead of <ruby lang="zh-Hans"><rb>沃兹沃思</rb><rt>Wòzīwòsī</rt><rt lang="en">Wordsworth</rt></ruby>. So I found it useful to compile a list of names (focusing on, but not limited to, Western names) and a few other potentially-useful phrases not always found in learners' software, with examples of how these have been written in Chinese, which we can add to our software to help with our reading.
+People learning Chinese as a foreign language sometimes use software to help them read a text.  But when Western names are written using Chinese characters, the result is not always something an average dictionary can help with---the software might give you an inappropriate "analysis" like <ruby style="border: thin green solid" lang="zh-Hans"><rb>沃</rb><rt>wò</rt><rt lang="en">irrigate</rt></ruby> <ruby style="border: thin green solid" lang="zh-Hans"><rb>兹</rb><rt>zī</rt><rt lang="en">this/now</rt></ruby> <ruby style="border: thin green solid" lang="zh-Hans"><rb>沃</rb><rt>wò</rt><rt lang="en">irrigate</rt></ruby> <ruby style="border: thin green solid" lang="zh-Hans"><rb>思</rb><rt>sī</rt><rt lang="en">thought</rt></ruby> instead of <ruby style="border: thin green solid" lang="zh-Hans"><rb>沃兹沃思</rb><rt>Wòzīwòsī</rt><rt lang="en">Wordsworth</rt></ruby>. So I found it useful to compile a list of names (focusing on, but not limited to, Western names) and a few other potentially-useful phrases not always found in learners' software, with examples of how these have been written in Chinese, which we can add to our software to help with our reading.
 
 While the primary purpose of this list is to help software recognise a name when it sees one, it's understandable that some people will also want to use it to 'look up' how a specific name "should" be translated. However:
 
@@ -26,12 +26,17 @@ I managed to subset and edit my database, and can now present 60% of the 'specia
 
 This Git repository contains a [tab-delimited text file](cedpane.txt) with the following columns:
 
-    1. Word as it might be written in an English text (in the case of a non-English name this is usually a transcription), or a brief definition
-    2. Simple-form ("Simplified") Chinese
-    3. Full-form ("Traditional") Chinese
-    4. Mandarin pronunciation in Hanyu Pinyin
-    5. Cantonese pronunciation in Yale (<b>provisional</b>---my Cantonese is <em>much</em> worse than my Mandarin, so I haven't been able to proof-read this column to the same standard)
-    6. English pronunciation in <abbr title="International Phonetic Alphabet">IPA</abbr> (for words where I wanted to correct my English speech synthesizer; <b>other pronunciations may be equally correct</b>)
+1. Word as it might be written in an English text (in the case of a non-English name this is usually a transcription), or a brief definition
+
+2. Simple-form ("Simplified") Chinese
+
+3. Full-form ("Traditional") Chinese
+
+4. Mandarin pronunciation in Hanyu Pinyin
+
+5. Cantonese pronunciation in Yale (<b>provisional</b>---my Cantonese is <em>much</em> worse than my Mandarin, so I haven't been able to proof-read this column to the same standard)
+
+6. English pronunciation in <abbr title="International Phonetic Alphabet">IPA</abbr> (for words where I wanted to correct my English speech synthesizer; <b>other pronunciations may be equally correct</b>)
 
 Of course it goes without saying that, despite my best efforts, mistakes are possible anywhere (as is true of every dictionary) and I'm happy to receive corrections.
 
