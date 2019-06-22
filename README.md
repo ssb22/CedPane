@@ -37,9 +37,9 @@ This Git repository contains a [tab-delimited text file](cedpane.txt) with the f
 
 4. Mandarin pronunciation in Hanyu Pinyin
 
-5. Cantonese pronunciation in Yale (<b>provisional</b>---my Cantonese is <em>much</em> worse than my Mandarin, so I haven't been able to proof-read this column to the same standard)
+5. Cantonese pronunciation in Yale: _provisional_ as my Cantonese is _much_ worse than my Mandarin, so I haven't been able to proof-read this column to the same standard
 
-6. English pronunciation in <abbr title="International Phonetic Alphabet">IPA</abbr> (for words where I wanted to correct my English speech synthesizer; <b>other pronunciations may be equally correct</b>)
+6. English pronunciation in IPA; for words where I wanted to correct my English speech synthesizer; _other pronunciations may be equally correct_
 
 Of course it goes without saying that, despite my best efforts, mistakes are possible anywhere (as is true of every dictionary) and I'm happy to receive corrections.
 
