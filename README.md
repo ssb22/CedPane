@@ -2,7 +2,7 @@ CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc
 
 From http://people.ds.cam.ac.uk/ssb22/gradint/cedpane.html
 
-People learning Chinese as a foreign language sometimes use software to help them read a text.  But when Western names are written using Chinese characters, the result is not always something an average dictionary can help with---the software might give you an inappropriate "analysis" like <ruby style="border: thin green solid" lang="zh-Hans"><rb>沃</rb><rt>wò</rt><rt lang="en">irrigate</rt></ruby> <ruby style="border: thin green solid" lang="zh-Hans"><rb>兹</rb><rt>zī</rt><rt lang="en">this/now</rt></ruby> <ruby style="border: thin green solid" lang="zh-Hans"><rb>沃</rb><rt>wò</rt><rt lang="en">irrigate</rt></ruby> <ruby style="border: thin green solid" lang="zh-Hans"><rb>思</rb><rt>sī</rt><rt lang="en">thought</rt></ruby> instead of <ruby style="border: thin green solid" lang="zh-Hans"><rb>沃兹沃思</rb><rt>Wòzīwòsī</rt><rt lang="en">Wordsworth</rt></ruby>. So I found it useful to compile a list of names (focusing on, but not limited to, Western names) and a few other potentially-useful phrases not always found in learners' software, with examples of how these have been written in Chinese, which we can add to our software to help with our reading.
+People learning Chinese as a foreign language sometimes use software to help them read a text.  But when Western names are written using Chinese characters, the result is not always something an average dictionary can help with---the software might give you an inappropriate "analysis" like 沃(wò)=irrigate 兹(zī)=this/now 沃(wò)=irrigate 思(sī)=thought instead of 沃兹沃思(Wòzīwòsī)=Wordsworth. So I found it useful to compile a list of names (focusing on, but not limited to, Western names) and a few other potentially-useful phrases not always found in learners' software, with examples of how these have been written in Chinese, which we can add to our software to help with our reading.
 
 While the primary purpose of this list is to help software recognise a name when it sees one, it's understandable that some people will also want to use it to 'look up' how a specific name "should" be translated. However:
 
@@ -44,7 +44,5 @@ I also have a separate collection of Chinese words that _are_ in typical diction
 
 CedPane is public-domain but this Readme file is &copy; Silas S. Brown and may be reproduced as-is.
 Git is a trademark of the Software Freedom Conservancy.
-GitHub is a trademark of GitHub Inc.
-BitBucket is a trademark of Atlassian Pty Ltd.
 Wenlin is a trademark of Wenlin Institute, Inc. SPC.
 Any other trademarks I mentioned without realising are trademarks of their respective holders.
