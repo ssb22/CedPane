@@ -1,6 +1,9 @@
 CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc
+=========================================================================
 
 From http://people.ds.cam.ac.uk/ssb22/gradint/cedpane.html
+
+(mirrored at http://ssb22.gitlab.io/gradint/cedpane.html)
 
 People learning Chinese as a foreign language sometimes use software to help them read a text.  But when Western names are written using Chinese characters, the result is not always something an average dictionary can help with---the software might give you an inappropriate "analysis" like 沃(wò)=irrigate 兹(zī)=this/now 沃(wò)=irrigate 思(sī)=thought instead of 沃兹沃思(Wòzīwòsī)=Wordsworth. So I found it useful to compile a list of names (focusing on, but not limited to, Western names) and a few other potentially-useful phrases not always found in learners' software, with examples of how these have been written in Chinese, which we can add to our software to help with our reading.
 
