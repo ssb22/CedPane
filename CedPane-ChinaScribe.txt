@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-07-03
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-07-05
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -5245,7 +5245,7 @@
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-07-03/this is version 2019-07-03, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-07-05/this is version 2019-07-05, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
@@ -17646,6 +17646,7 @@
 暴民橫行 暴民横行 [bao4 min2_heng2 xing2] /mob rule/rule, mob/
 暴民統治 暴民统治 [bao4 min2_tong3 zhi4] /mob rule/rule, mob/
 暴民政治 暴民政治 [bao4 min2_zheng4 zhi4] /mob rule/rule, mob/
+爆破片 爆破片 [bao4 po4 pian4] /burst disc/rupture disc/disc, burst/
 抱去 抱去 [bao4 qu5] /take away (in one's embrace, e.g. a child)/away, take (in one's embrace, e.g. a child)/
 報時錶 报时表 [bao4 shi2_biao3] /talking watch/watch, talking/
 暴徒行凶 暴徒行凶 [bao4 tu2_xing2 xiong1] /mob rule/rule, mob/
@@ -17918,6 +17919,7 @@
 不規則碎片形 不规则碎片形 [bu4_gui1 ze2_sui4 pian4_xing2] /fractal/
 不過腦子 不过脑子 [bu4_guo4_nao3 zi3] /go straight over one's head (lit. not pass through brain)/straight over one's head, go (lit. not pass through brain)/
 不過分 不过分 [bu4_guo4 fen4] /not undue/not exaggerating/undue, not/exaggerating, not/
+不含乳製品 不含乳制品 [bu4_han2_ru3 zhi4 pin3] /dairy-free/non-dairy (of product)/
 不好的經歷 不好的经历 [bu4_hao3_de5_jing1 li4] /bad experience/experience, bad/
 不合時 不合时 [bu4_he2 shi2] /untimely/
 不會說話 不会说话 [bu4_hui4_shuo1 hua4] /unable to speak/speak, unable to/
@@ -18100,6 +18102,7 @@
 茶具車 茶具车 [cha2 ju4 che1] /tea trolley/trolley, tea/
 查盧帕 查卢帕 [cha2 lu2 pa4] /chalupa (Basque whaling boat)/
 察納 察纳 [cha2 na4] /tsana (Hebrew verb be modest)/
+茶樹菇 茶树菇 [cha2 shu4 gu1] /tea-tree mushroom (agrocybe aegerita)/mushroom, tea-tree (agrocybe aegerita)/
 查探 查探 [cha2 tan4] /find out by spying/spying, find out by/
 茶歇 茶歇 [cha2 xie1] /tea break/break, tea/
 查一下 查一下 [cha2 yi1 xia4] /check it/look into/
@@ -19507,6 +19510,7 @@
 趕往 赶往 [gan3 wang3] /dash toward/toward, dash/
 感應區 感应区 [gan3 ying4 qu1] /sensor area (for contactless card)/area, sensor (for contactless card)/
 剛結婚的人 刚结婚的人 [gang1_jie2 hun1_de5_ren2] /newlyweds/
+鋼帶 钢带 [gang1 dai4] /steel belt/belt, steel/
 鋼管舞 钢管舞 [gang1 guan3 wu3] /pole dancing/dancing, pole/
 鋼架 钢架 [gang1 jia4] /steel frame/steel rafter/frame, steel/rafter, steel/
 缸口 缸口 [gang1 kou3] /brim|mouth of a jar or vat/
@@ -20543,6 +20547,7 @@
 澆油 浇油 [jiao1 you2] /pour oil/
 膠原蛋白 胶原蛋白 [jiao1 yuan2_dan4 bai2] /collagen/
 交賬 交账 [jiao1 zhang4] /accounting, reckoning (variant form)/reckoning, accounting, (variant form)/
+膠座 胶座 [jiao1 zuo4] /rubber base (valve type)/base, rubber (valve type)/
 嚼檳榔 嚼槟榔 [jiao2_bing1 lang2] /chew betel nut/betel nut, chew/
 嚼口香糖 嚼口香糖 [jiao2_kou3 xiang1 tang2] /chew gum/
 腳本語言 脚本语言 [jiao3 ben3_yu3 yan2] /scripting language/language, scripting/
@@ -20881,7 +20886,9 @@
 絕不要 绝不要 [jue2 bu4_yao4] /definitely don't/don't, definitely/
 掘好 掘好 [jue2 hao3] /excavate (lit. dig well)/
 爵士鼓 爵士鼓 [jue2 shi4_gu3] /jazz drums/drum kit/drums, jazz/
+覺悟前非 觉悟前非 [jue2 wu4 qian2 fei1] /realise one's mistakes/one's mistakes, realise/
 絕育手術 绝育手术 [jue2 yu4_shou3 shu4] /sterilization surgery/surgery, sterilization/
+絕緣配合 绝缘配合 [jue2 yuan2_pei4 he2] /insulation co-ordination/co-ordination, insulation/
 軍兵 军兵 [jun1 bing1] /soldiers in an army/army, soldiers in an/
 君蝶 君蝶 [jun1 die2] /monarch butterfly/butterfly, monarch/
 君臨 君临 [jun1 lin2] /reign over/over, reign/
@@ -21400,9 +21407,11 @@
 倫理課 伦理课 [lun2 li3 ke4] /ethics class/class, ethics/
 倫理學家 伦理学家 [lun2 li3 xue2 jia1] /moralist (person)/
 輪聲 轮声 [lun2 sheng1] /wheel sound/sound, wheel/
+輪胎氣門嘴 轮胎气门嘴 [lun2 tai1_qi4 men2 zui3] /tyre valve/valve, tyre/
 輪狀病毒 轮状病毒 [lun2 zhuang4_bing4 du2] /rotavirus/
 囉囉唆唆 啰啰唆唆 [luo1 luo5 suo1 suo1] /long-winded or wordy/wordy, long-winded or/
 羅革 罗革 [luo2 ge2] /log (liquid measure, possibly 310ml)/
+螺口式 螺口式 [luo2 kou3 shi4] /screwhole-type/Edison screw type (of lampholder)/
 螺肉 螺肉 [luo2 rou4] /conch (meat)/
 羅騰樹 罗腾树 [luo2 teng2 shu4] /broom tree/tree, broom/
 裸女 裸女 [luo3 nu:3] /naked girl/girl, naked/
@@ -21982,6 +21991,8 @@
 佩戴 佩戴 [pei4 dai4] /wear as a badge etc/badge etc, wear as a/
 佩帶著 佩带着 [pei4 dai4 zhe5] /wearing/
 配得 配得 [pei4 de2] /worthy/
+配光 配光 [pei4 guang1] /photometric/
+配光曲線 配光曲线 [pei4 guang1_qu1 xian4] /photometric curve/curve, photometric/
 佩上 佩上 [pei4 shang5] /wear (breastpiece)/
 配受 配受 [pei4 shou4] /deserve to get/
 配圖 配图 [pei4 tu2] /illustrate (a publication)/(provide) accompanying picture(s)/
@@ -22015,6 +22026,7 @@
 皮層性視損傷 皮层性视损伤 [pi2 ceng2 xing4_shi4 sun3 shang1] /cortical visual impairment/CVI/visual impairment, cortical/
 皮搋子 皮搋子 [pi2 chuai1 zi5] /plunger/
 皮膚癌的發病率 皮肤癌的发病率 [pi2 fu1 ai2_de5_fa1 bing4 lu:4] /rate of skin cancer (in a population)/skin cancer, rate of (in a population)/
+皮輥 皮辊 [pi2 gun3] /roller/
 皮酒袋 皮酒袋 [pi2 jiu3 dai4] /wine skin-bottles/skin-bottles, wine/
 啤酒店 啤酒店 [pi2 jiu3 dian4] /brasserie/
 皮卷 皮卷 [pi2 juan4] /parchments/
@@ -22129,6 +22141,7 @@
 氣焊槍 气焊枪 [qi4 han4 qiang1] /industrial gas torch/torch, industrial gas/
 砌好 砌好 [qi4 hao3] /laid (of brickwork)/
 氣候劇變 气候剧变 [qi4 hou4_ju4 bian4] /runaway climate change/climate change, runaway/
+氣門嘴 气门嘴 [qi4 men2 zui3] /tyre valve/valve, tyre/
 氣泡彈 气泡弹 [qi4 pao4 dan4] /bath bomb/bomb, bath/
 氣象信息 气象信息 [qi4 xiang4_xin4 xi1] /weather information/meterological information/information, weather/
 氣象資料 气象资料 [qi4 xiang4_zi1 liao4] /meterological data/weather data/data, meterological/
@@ -23892,6 +23905,7 @@
 嗚嗚聲 呜呜声 [wu1 wu1 sheng1] /purring sound/sound, purring/
 嗚嗚祖拉 呜呜祖拉 [wu1 wu1 zu3 la1] /vuvuzela/
 無農藥 无农药 [wu2_nong2 yao4] /organic (without farm chemicals)/
+無添加糖 无添加糖 [wu2_tian1 jia1_tang2] /no added sugar/added sugar, no/
 無雪 无雪 [wu2_xue3] /no snow/snow, no/
 無障礙 无障碍 [wu2_zhang4 ai4] /universal accessibility/accessibility, universal/
 無主題 无主题 [wu2_zhu3 ti2] /no subject (in emails etc)/subject, no (in emails etc)/
@@ -23907,6 +23921,7 @@
 無功而返 无功而返 [wu2 gong1 er2 fan3] /get nowhere/nowhere, get/
 無辜坐牢 无辜坐牢 [wu2 gu1_zuo4 lao2] /false imprisonment (lit. innocent imprisoned)/imprisonment, false (lit. innocent imprisoned)/
 無辜人 无辜人 [wu2 gu1 ren2] /innocent people/people, innocent/
+無果而終 无果而终 [wu2 guo3 er2 zhong1] /end without result (of meeting etc)/fruitless/without result, end/
 無憾 无憾 [wu2 han4] /without regrets/regrets, without/
 唔好 唔好 [wu2 hao3] /not good/good, not/
 無核葡萄 无核葡萄 [wu2 he2_pu2 tao5] /seedless grapes/grapes, seedless/
@@ -24046,6 +24061,7 @@
 細麻衣 细麻衣 [xi4 ma2 yi1] /fine linen/linen, fine/
 系秘 系秘 [xi4 mi4] /department secretary/secretary, department/
 细面 细面 [xi4 mian4] /fine flour/flour, fine/
+細絨棉 细绒棉 [xi4 rong2 mian2] /upland cotton/gossypium hirsutum/cotton, upland/hirsutum, gossypium/
 细数 細數 [xi4 shu3] /carefully count (?)/count, carefully (?)/
 細思恐極 细思恐极 [xi4 si1 kong3 ji2] /extremely awful when you think about it/awful when you think about it, extremely/
 细诉 細訴 [xi4 su4] /utter (softly|carefully|etc)/
@@ -24374,6 +24390,7 @@
 行李服務 行李服务 [xing2 li5_fu2 wu4] /baggage service/service, baggage/
 形容為 形容为 [xing2 rong2_wei2] /describe as/
 行省總督 行省总督 [xing2 sheng3_zong3 du1] /Proconsul/
+行駛燈 行驶灯 [xing2 shi3 deng1] /running light (on vehicle)/light, running (on vehicle)/
 刑事檢控 刑事检控 [xing2 shi4_jian3 kong4] /criminal prosecution/prosecution, criminal/
 刑事審訊 刑事审讯 [xing2 shi4_shen3 xun4] /criminal trial/trial, criminal/
 行事為人 行事为人 [xing2 shi4 wei2 ren2] /live one's life/behave oneself (as...)/one's life, live (as...)/oneself, behave (as...)/
@@ -24536,7 +24553,9 @@
 押到 押到 [ya1 dao4] /detain (bring in custody) to/
 押店 押店 [ya1 dian4] /pawn shop/shop, pawn/
 壓毀 压毁 [ya1 hui3] /grind (lit. press destroy)/
+壓緊式 压紧式 [ya1 jin3 shi4] /clamp-in (valve type)/
 壓力測試 压力测试 [ya1 li4_ce4 shi4] /pressure test/test, pressure/
+壓力容器 压力容器 [ya1 li4_rong2 qi4] /pressure vessel/vessel, pressure/
 壓迫人民 压迫人民 [ya1 po4_ren2 min2] /oppress people/people, oppress/
 壓傷 压伤 [ya1 shang1] /crush (a person etc, lit. press injure)/
 壓傷的蘆葦 压伤的芦苇 [ya1 shang1_de5_lu2 wei3] /bruised reed/reed, bruised/
@@ -25538,6 +25557,7 @@
 週刊 週刊 [zhou1 kan1] /weekly (publication)/
 肘尺 肘尺 [zhou3 chi3] /cubit (length)/
 帚尾袋貂 帚尾袋貂 [zhou3 wei3 dai4 diao1] /brush-tailed possum (Australia)/possum, brush-tailed (Australia)/
+晝間 昼间 [zhou4 jian4] /daytime/diurnal/
 咒罵語 咒骂语 [zhou4 ma4 yu3] /expletive/
 珠寶設計 珠宝设计 [zhu1 bao3_she4 ji4] /jewelry design/design, jewelry/
 珠寶玉石 珠宝玉石 [zhu1 bao3_yu4 shi2] /jewels and precious stones/precious stones, jewels and/

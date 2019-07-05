@@ -122387,7 +122387,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-07-03
+definition CedPane: this is version 2019-07-05
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -129602,3 +129602,104 @@ pinyin zhuōhuí
 characters 捉回
 serial-number CedPane26102
 definition recapture (an escaped animal etc)
+*** 
+pinyin bàopòpiàn
+characters 爆破片
+serial-number CedPane26103
+definition burst disc; rupture disc
+*** 
+pinyin bù hán rǔzhìpǐn
+characters 不含乳制品[---製-]
+serial-number CedPane26104
+definition dairy-free; non-dairy (of product)
+*** 
+pinyin cháshùgū
+characters 茶树菇[-樹-]
+serial-number CedPane26105
+definition tea-tree mushroom (agrocybe aegerita)
+*** 
+pinyin gāngdài
+characters 钢带[鋼帶]
+serial-number CedPane26106
+definition steel belt
+*** 
+pinyin jiāozuò
+characters 胶座[膠-]
+serial-number CedPane26107
+definition rubber base (valve type)
+*** 
+pinyin juéwùqiánfēi
+characters 觉悟前非[覺---]
+serial-number CedPane26108
+definition realise one's mistakes
+*** 
+pinyin juéyuán pèihé
+characters 绝缘配合[絕緣--]
+serial-number CedPane26109
+environment   elec.
+definition insulation co-ordination
+*** 
+pinyin lúntāi qìménzuǐ
+characters 轮胎气门嘴[輪-氣門-]
+serial-number CedPane26110
+definition tyre valve
+*** 
+pinyin luókǒushì
+characters 螺口式
+serial-number CedPane26111
+definition screwhole-type; Edison screw type (of lampholder)
+*** 
+pinyin pèiguāng
+characters 配光
+serial-number CedPane26112
+definition photometric
+*** 
+pinyin pèiguāng qūxiàn
+characters 配光曲线[---線]
+serial-number CedPane26113
+definition photometric curve
+*** 
+pinyin pígǔn
+characters 皮辊[-輥]
+serial-number CedPane26114
+definition roller
+*** 
+pinyin qìménzuǐ
+characters 气门嘴[氣門-]
+serial-number CedPane26115
+definition tyre valve
+*** 
+pinyin wúguǒ'érzhōng
+characters 无果而终[無--終]
+serial-number CedPane26116
+definition end without result (of meeting etc); fruitless
+*** 
+pinyin wú tiānjiā táng
+characters 无添加糖[無---]
+serial-number CedPane26117
+definition no added sugar
+*** 
+pinyin xíngshǐdēng
+characters 行驶灯[-駛燈]
+serial-number CedPane26118
+definition running light (on vehicle)
+*** 
+pinyin xìróngmián
+characters 细绒棉[細絨-]
+serial-number CedPane26119
+definition upland cotton; gossypium hirsutum
+*** 
+pinyin yājǐnshì
+characters 压紧式[壓緊-]
+serial-number CedPane26120
+definition clamp-in (valve type)
+*** 
+pinyin yālì róngqì
+characters 压力容器[壓---]
+serial-number CedPane26121
+definition pressure vessel
+*** 
+pinyin zhòujiàn
+characters 昼间[晝間]
+serial-number CedPane26122
+definition daytime; diurnal
