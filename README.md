@@ -25,7 +25,7 @@ I now understand that most countries’ copyright laws do include a provision fo
 
 Eventually, I found a large Chinese Internet search engine that hadn’t yet prohibited being used by automatic programs, and was able to write a program that queried it for every word in my database, to get some measure of which words were common enough to warrant disregarding my reading notes and just saying “here’s a translation that’s ‘out there’ and worth recognising”. I had to be careful to ensure the search results really showed the word in _common_ use (not just illegal copies of the source I read), and I also had to beware of having documented a rare different use-case of an otherwise common word.
 
-I managed to subset and edit my database, and can now present 60% of the ‘specialist’ words I collected between 2009 and 2019 as confirmed “public domain” words you can _do what you want_ with (i.e. please _do_ add them to products to help learners—and email me if you’d like me to mention here that you’ve added it to your product). The other 40% (and my reading notes) have not been added to CedPane, but I hope it’s already useful.
+I managed to subset and edit my database, and can now present 61% of the ‘specialist’ words I collected between 2009 and 2019 as confirmed “public domain” words you can _do what you want_ with (i.e. please _do_ add them to products to help learners—and email me if you’d like me to mention here that you’ve added it to your product). The other 39% (and my reading notes) have not been added to CedPane, but I hope it’s already useful.
 
 This Git repository contains a [tab-delimited text file](cedpane.txt) with the following columns:
 
