@@ -105,7 +105,7 @@ definition Archer River
 pinyin Ādá
 characters 阿达[-達]
 serial-number CedPane20
-definition Atad
+definition Atad (old translation)
 *** 
 pinyin Ādài'ěr
 characters 阿黛尔[--爾]
@@ -870,7 +870,7 @@ definition Mount Everest (older translation)
 pinyin àifū
 characters 爱夫[愛-]
 serial-number CedPane175
-definition cherished husband
+definition cherished husband (old translation)
 *** 
 pinyin Āifúlāyīn
 characters 埃弗拉因
@@ -885,7 +885,7 @@ definition Avery (name)
 pinyin āigējí
 characters 哀歌集
 serial-number CedPane178
-definition book of dirges
+definition book of dirges (old translation)
 *** 
 pinyin Àihāmàidábādé
 characters 艾哈迈达巴德[--邁達--]
@@ -122387,7 +122387,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-07-12
+definition CedPane: this is version 2019-07-16
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -133053,3 +133053,78 @@ pinyin Zuǒ xiānsheng
 characters 左先生[---]
 serial-number CedPane26793
 definition Mr Zuo
+*** 
+pinyin Bùléiluòfū
+characters 布雷洛夫
+serial-number CedPane26794
+definition Burylov
+*** 
+pinyin Fú'ěrjiāgélè
+characters 伏尔加格勒[-爾---]
+serial-number CedPane26795
+definition Volgograd
+*** 
+pinyin Kǎlièlǐyà
+characters 卡列里亚[---亞]
+serial-number CedPane26796
+definition Kaleriya
+*** 
+pinyin Mǎméijīn
+characters 马梅金[馬--]
+serial-number CedPane26797
+definition Mamykina
+*** 
+pinyin Ā'ěrzīhǎimòzhèng
+characters 阿尔兹海默症[-爾茲---]
+serial-number CedPane26798
+definition Alzheimer's disease (variant)
+*** 
+pinyin Àomǐjiā
+characters 奥米加[奧--]
+serial-number CedPane26799
+definition Omega
+*** 
+pinyin Bǎitèxùn
+characters 柏特逊[--遜]
+serial-number CedPane26800
+definition Patterson (surname)
+*** 
+pinyin jìnhuà xuéshuō
+characters 进化学说[進-學說]
+serial-number CedPane26801
+definition the theory of evolution
+*** 
+pinyin Lègāo Gōngyuán
+characters 乐高公园[樂--園]
+serial-number CedPane26802
+definition Lego Park
+*** 
+pinyin lùwán
+characters 录完[錄-]
+serial-number CedPane26803
+definition finished recording (voice message, video etc)
+*** 
+pinyin wǎngējí
+characters 挽歌集
+serial-number CedPane26804
+definition the dirges (collection)
+*** 
+pinyin xīn'ài de zhàngfu
+characters 心爱的丈夫[-愛---]
+serial-number CedPane26805
+definition cherished husband
+*** 
+pinyin Xītèle
+characters 希特拉
+serial-number CedPane26806
+definition Hitler (variant)
+*** 
+pinyin Yàdá
+characters 亚达[亞達]
+serial-number CedPane26807
+definition Atad
+*** 
+pinyin yōuděng mínzú
+characters 优等民族[優---]
+serial-number CedPane26808
+definition master race (Hitler's misguided evolutionary plan)

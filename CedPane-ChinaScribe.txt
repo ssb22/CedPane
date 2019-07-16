@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-07-12
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-07-16
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -72,6 +72,7 @@
 阿爾維斯頓 阿尔维斯顿 [A1 er3 wei2 si1 dun4] /Alveston/
 阿爾韋托 阿尔韦托 [A1 er3 wei2 tuo1] /Alberto/
 阿爾文 阿尔文 [A1 er3 wen2] /Alvin/
+阿爾茲海默症 阿尔兹海默症 [A1 er3 zi1 hai3 mo4 zheng4] /Alzheimer's disease (variant)/disease, Alzheimer's (variant)/
 錒系元素 锕系元素 [A1 xi4_yuan2 su4] /Actinide series (on the periodic table)/series, Actinide (on the periodic table)/
 阿巴嘎旗 阿巴嘎旗 [A1 ba1 ga1_Qi2] /Abag (banner, in Inner Mongolia)/
 阿巴斯 阿巴斯 [A1 ba1 si1] /Abbas/
@@ -111,7 +112,7 @@
 阿徹河 阿彻河 [A1 che4_he2] /Archer River/River, Archer/
 阿城區 阿城区 [A1 cheng2_Qu1] /Acheng District/District, Acheng/
 阿閦如來 阿閦如来 [A1 chu4 ru2 lai2] /Akshobhya/
-阿達 阿达 [A1 da2] /Atad/
+阿達 阿达 [A1 da2] /Atad (old translation)/
 阿達納 阿达纳 [A1 da2 na4] /Adana/
 阿黛爾 阿黛尔 [A1 dai4 er3] /Adele/
 阿代卜 阿代卜 [A1 dai4 bu3] /Adab/
@@ -1186,6 +1187,7 @@
 奧馬吉 奥马吉 [Ao4 ma3 ji2] /Owmadji/
 奧梅特佩島 奥梅特佩岛 [Ao4 mei2 te4 pei4 dao3] /Ometepe (island)/
 奧米伽 奥米伽 [Ao4 mi3 ga1] /Omega/
+奧米加 奥米加 [Ao4 mi3 jia1] /Omega/
 奧姆真理教 奥姆真理教 [Ao4 mu3_zhen1 li3_jiao4] /Aum Shinrikyo (Aum Supreme Truth)/Shinrikyo, Aum (Aum Supreme Truth)/
 奧娜 奥娜 [Ao4 na4] /Ona/
 奧尼 奥尼 [Ao4 ni2] /Oni/
@@ -1571,6 +1573,7 @@
 百妮基 百妮基 [Bai3 ni1 ji1] /Bernice/
 百色 百色 [Bai3 se4] /Baise (in Guangxi)/
 百色市 百色市 [Bai3 se4_Shi4] /Baise (in Guangxi)/
+柏特遜 柏特逊 [Bai3 te4 xun4] /Patterson (surname)/
 柏鄉縣 柏乡县 [Bai3 xiang1_Xian4] /Baixiang (county, in Hebei)/
 擺夷 摆夷 [Bai3 yi2] /Paiyi (ethnicity from Yunnan)/
 擺夷族 摆夷族 [Bai3 yi2 zu2] /Paiyi tribe (from Yunnan)/tribe, Paiyi (from Yunnan)/
@@ -2457,6 +2460,7 @@
 布勒月 布勒月 [Bu4 le4 yue4] /Bul (month)/
 布雷達 布雷达 [Bu4 lei2 da2] /Breda/
 布雷德福 布雷德福 [Bu4 lei2 de2 fu2] /Bradford/
+布雷洛夫 布雷洛夫 [Bu4 lei2 luo4 fu1] /Burylov/
 布雷梅 布雷梅 [Bu4 lei2 mei2] /Bremer/
 布雷默 布雷默 [Bu4 lei2 mo4] /Brehmer/
 布雷斯勞 布雷斯劳 [Bu4 lei2 si1 lao2] /Breslau/
@@ -4145,6 +4149,7 @@
 符先生 符先生 [Fu2_xian1 sheng5] /Mr Fu/
 福阿德 福阿德 [Fu2 a1 de2] /Fuad/
 福安市 福安市 [Fu2 an1_Shi4] /Fu'an (in Fujian)/
+伏爾加格勒 伏尔加格勒 [Fu2 er3 jia1 ge2 le4] /Volgograd/
 伏爾加河 伏尔加河 [Fu2 er3 jia1 he2] /Volga (river)/
 伏爾加斯基 伏尔加斯基 [Fu2 er3 jia1 si1 ji1] /Volzhskiy/
 福爾克爾 福尔克尔 [Fu2 er3 ke4 er3] /Volker/
@@ -5339,7 +5344,7 @@
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-07-12/this is version 2019-07-12, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-07-16/this is version 2019-07-16, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
@@ -6995,6 +7000,7 @@
 卡利羅亞 卡利罗亚 [Ka3 li4 luo2 ya4] /Callirrhoe/
 卡利普 卡利普 [Ka3 li4 pu3] /Kalip/
 卡利亞 卡利亚 [Ka3 li4 ya4] /Cagliari/
+卡列里亞 卡列里亚 [Ka3 lie4 li3 ya4] /Kaleriya/
 卡列尼娜 卡列尼娜 [Ka3 lie4 ni2 na4] /Karenina/
 卡列斯 卡列斯 [Ka3 lie4 si1] /Calles/
 卡林 卡林 [Ka3 lin2] /Kalin (surname)/
@@ -8182,6 +8188,7 @@
 樂都區 乐都区 [Le4 du1_Qu1] /Ledu District/District, Ledu/
 樂都縣 乐都县 [Le4 du1_Xian4] /Ledu (county, in Qinghai)/
 勒菲弗爾 勒菲弗尔 [Le4 fei1 fu2 er3] /Lefèvre/
+樂高公園 乐高公园 [Le4 gao1_Gong1 yuan2] /Lego Park/Park, Lego/
 樂高積木 乐高积木 [Le4 gao1_ji1 mu4] /Lego bricks/bricks, Lego/
 勒迦 勒迦 [Le4 jia1] /Lecah/
 樂陵 乐陵 [Le4 ling2] /Leling (in Shandong)/
@@ -9621,6 +9628,7 @@
 馬洛里 马洛里 [Ma3 luo4 li3] /Mallory/
 瑪律 玛律 [Ma3 lu:4] /Maroth/
 馬略卡 马略卡 [Ma3 lu:e4 ka3] /Mallorca/
+馬梅金 马梅金 [Ma3 mei2 jin1] /Mamykina/
 馬梅特 马梅特 [Ma3 mei2 te4] /Mamet/
 馬默杜克 马默杜克 [Ma3 mo4 du4 ke4] /Marmaduke/
 瑪拿底拜 玛拿底拜 [Ma3 na2 di3 bai4] /Machnadebai/
@@ -15249,6 +15257,7 @@
 錫塔誇羅 锡塔夸罗 [Xi1 ta3 kua1 luo2] /Zitácuaro/
 西坦 西坦 [Xi1 tan3] /Zetham/
 西探 西探 [Xi1 tan4] /Zethan/
+希特拉 希特拉 [Xi1 te4 le5] /Hitler (variant)/
 希特倫 希特伦 [Xi1 te4 lun2] /Hethlon/
 希瓦 希瓦 [Xi1 wa3] /Hiva/
 錫瓦 锡瓦 [Xi1 wa3] /Cibwa/
@@ -15958,6 +15967,7 @@
 亞伯特 亚伯特 [Ya4 bo2 te4] /Abt/
 亞采克 亚采克 [Ya4 cai3 ke4] /Jacek/
 亞察 亚察 [Ya4 cha2] /Arza/
+亞達 亚达 [Ya4 da2] /Atad/
 亞達珥 亚达珥 [Ya4 da2 er3] /Addar/
 亞達薛西 亚达薛西 [Ya4 da2 xue1 xi1] /Artaxerxes/
 亞達月 亚达月 [Ya4 da2 yue4] /Adar/
@@ -17852,7 +17862,7 @@
 阿闍梨 阿阇梨 [a1 she2 li2] /acariya/
 阿因 阿因 [a1 yin1] /ayin (Hebrew letter)/
 哀服 哀服 [ai1 fu2] /garments of mourning/mourning, garments of/
-哀歌集 哀歌集 [ai1 ge1 ji2] /book of dirges/dirges, book of/
+哀歌集 哀歌集 [ai1 ge1 ji2] /book of dirges (old translation)/dirges, book of (old translation)/
 哀哭切齒 哀哭切齿 [ai1 ku1 qie4 chi3] /weeping and gnashing teeth/gnashing teeth, weeping and/
 埃雷茨 埃雷茨 [ai1 lei2 ci2] /erets (Heb. earth or land)/
 哀聲 哀声 [ai1 sheng1] /with a sad voice/voice, with a sad/
@@ -17862,7 +17872,7 @@
 愛別人 爱别人 [ai4_bie2 ren5] /love of neighbour/neighbour, love of/
 愛挑人毛病 爱挑人毛病 [ai4_tiao1_ren2_mao2 bing4] /have a critical spirit/critical spirit, have a/
 愛宴 爱宴 [ai4_yan4] /love feasts/feasts, love/
-愛夫 爱夫 [ai4 fu1] /cherished husband/husband, cherished/
+愛夫 爱夫 [ai4 fu1] /cherished husband (old translation)/husband, cherished (old translation)/
 愛國情緒 爱国情绪 [ai4 guo2_qing2 xu4] /nationalistic fervor/fervor, nationalistic/
 艾捷克 艾捷克 [ai4 jie2 ke4] /ghijak/ghijek (Uyghur lute-like instrument)/
 艾內奧 艾内奥 [ai4 nei4 ao4] /aineo (Greek verb praise)/
@@ -21227,6 +21237,7 @@
 近海城市 近海城市 [jin4 hai3_cheng2 shi4] /maritime city/city, maritime/
 進化成 进化成 [jin4 hua4_cheng2] /evolve into/
 進化生物學家 进化生物学家 [jin4 hua4_sheng1 wu4 xue2 jia1] /evolutionary biologists/biologists, evolutionary/
+進化學說 进化学说 [jin4 hua4_xue2 shuo1] /the theory of evolution/theory of evolution, the/
 進化論者 进化论者 [jin4 hua4 lun4 zhe3] /evolutionist/
 盡己所能 尽己所能 [jin4 ji3 suo3 neng2] /to the best of our ability/best of our ability, to the/
 進階 进阶 [jin4 jie1] /advanced (course etc)/
@@ -21940,6 +21951,7 @@
 路面坑槽 路面坑槽 [lu4 mian4_keng1 cao2] /pothole/
 路面坑 路面坑 [lu4 mian4 keng1] /pothole/
 鷺鳥 鹭鸟 [lu4 niao3] /heron/
+錄完 录完 [lu4 wan2] /finished recording (voice message, video etc)/recording, finished (voice message, video etc)/
 路線圖 路线图 [lu4 xian4 tu2] /route map (e.g. escape route)/
 路向 路向 [lu4 xiang4] /road direction/direction, road/
 錄音檔案 录音档案 [lu4 yin1_dang4 an4] /audio file/sound file/file, audio/
@@ -24325,6 +24337,7 @@
 玩玩 玩玩 [wan2 wan5] /play/have fun/
 玩轉 玩转 [wan2 zhuan3] /adept (in sthg)/
 晚禱會 晚祷会 [wan3 dao3 hui4] /vespers/evensong (church service)/
+挽歌集 挽歌集 [wan3 ge1 ji2] /the dirges (collection)/dirges, the (collection)/
 挽救婚姻 挽救婚姻 [wan3 jiu4_hun1 yin1] /save a marriage (from breakdown)/marriage, save a (from breakdown)/
 晚期四重奏 晚期四重奏 [wan3 qi1_si4 chong2 zou4] /Late Quartets (Beethoven)/Quartets, Late (Beethoven)/
 晚上好 晚上好 [wan3 shang5_hao3] /good evening/evening, good/
@@ -24940,6 +24953,7 @@
 心有余而力不足 心有余而力不足 [xin1_you3 yu2_er2_li4_bu4 zu2] /unable to do as much as one would like/much as one would like, unable to do as/
 新宗教運動 新宗教运动 [xin1_zong1 jiao4_yun4 dong4] /new religious movements/religious movements, new/
 新總部 新总部 [xin1_zong3 bu4] /new headquarters/headquarters, new/
+心愛的丈夫 心爱的丈夫 [xin1 ai4_de5_zhang4 fu5] /cherished husband/husband, cherished/
 新哥特式 新哥特式 [xin1 Ge1 te4 shi4] /neo-Gothic/
 新品格 新品格 [xin1 pin3 ge2] /new personality/personality, new/
 新車 新车 [xin1 che1] /new wagon/wagon, new/
@@ -25592,6 +25606,7 @@
 用戶界面 用户界面 [yong4 hu4_jie4 mian4] /user interface/interface, user/
 用戶們 用户们 [yong4 hu4 men5] /users/
 幽暗無光 幽暗无光 [you1 an4 wu2 guang1] /gloominess with no brightness/brightness, gloominess with no/
+優等民族 优等民族 [you1 deng3_min2 zu2] /master race (Hitler's misguided evolutionary plan)/race, master (Hitler's misguided evolutionary plan)/
 憂慮症 忧虑症 [you1 lu:4 zheng4] /anxiety disorder (less common translation)/disorder, anxiety (less common translation)/
 優美絕倫 优美绝伦 [you1 mei3 jue2 lun2] /superlative/unsurpassed in exquisiteness etc/
 優盤 优盘 [you1 pan2] /USB disk (flash)/disk, USB (flash)/
