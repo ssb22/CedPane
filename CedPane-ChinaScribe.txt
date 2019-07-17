@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-07-16
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-07-17
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -4996,7 +4996,6 @@
 桂陽縣 桂阳县 [Gui4 yang2_Xian4] /Guiyang (county, in Hunan)/
 貴州省 贵州省 [Gui4 zhou1 sheng3] /Guizhou province/province, Guizhou/
 郭太太 郭太太 [Guo1_tai4 tai5] /Mrs Guo/
-郭先生 郭先生 [Guo1_xian1 sheng5] /Mr Guo/
 國安部 国安部 [Guo2 an1 bu4] /MGB (older name of KGB)/
 國安會 国安会 [Guo2 an1 hui4] /KGB/
 國潮 国潮 [Guo2 chao2] /China-designed fashion (as opposed to foreign brands of clothing etc)/fashion, China-designed (as opposed to foreign brands of clothing etc)/
@@ -5344,7 +5343,7 @@
 韓語 韩语 [Han2 yu3] /Korean (language)/
 含族 含族 [Han2 zu2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-07-16/this is version 2019-07-16, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-07-17/this is version 2019-07-17, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
@@ -10537,6 +10536,7 @@
 牟先生 牟先生 [Mou2_xian1 sheng5] /Mr Mou/
 牟定縣 牟定县 [Mou2 ding4_Xian4] /Mouding (county, in Yunnan)/
 牟平區 牟平区 [Mou2 ping2_Qu1] /Mouping District/District, Mouping/
+某某某 某某某 [Mou3 mou3 mou3] /So-and-so (person)/
 姆巴 姆巴 [Mu3 ba1] /Mba (surname)/
 姆巴萊 姆巴莱 [Mu3 ba1 lai2] /Mbale/
 姆本達語 姆本达语 [Mu3 ben3 da2 yu3] /Mbunda (language)/
@@ -12029,6 +12029,7 @@
 榮成市 荣成市 [Rong2 cheng2_Shi4] /Rongcheng (in Shandong)/
 容城縣 容城县 [Rong2 cheng2_Xian4] /Rongcheng (county, in Hebei)/
 榕江縣 榕江县 [Rong2 jiang1_Xian4] /Rongjiang (county, in Guizhou)/
+容克 容克 [Rong2 ke4] /Juncker/
 榮松 荣松 [Rong2 song1] /Jónsson/
 蓉伊 蓉伊 [Rong2 yi1] /Ronja/
 蓉珠 蓉珠 [Rong2 zhu1] /Rondro/
@@ -17666,6 +17667,7 @@
 中衛市 中卫市 [Zhong1 wei4_Shi4] /Zhongwei (in Ningxia)/
 中文打字機 中文打字机 [Zhong1 wen2_da3 zi4 ji1] /Chinese typewriter/typewriter, Chinese/
 中文大會 中文大会 [Zhong1 wen2_da4 hui4] /Chinese-language convention/convention, Chinese-language/
+中文版 中文版 [Zhong1 wen2 ban3] /Chinese edition/edition, Chinese/
 中文化 中文化 [Zhong1 wen2 hua4] /Sinify/
 中西區 中西区 [Zhong1 xi1_Qu1] /West Central District (in Tainan)/Central District, West (in Tainan)/
 鐘祥 钟祥 [Zhong1 xiang2] /Zhongxiang (in Hubei)/
@@ -18405,7 +18407,7 @@
 不間斷 不间断 [bu4 jian4 duan4] /uninterruptible (of power supply etc)/
 不間斷電源 不间断电源 [bu4 jian4 duan4_dian4 yuan2] /uninterruptible power supply/UPS/power supply, uninterruptible/
 不潔 不洁 [bu4 jie2] /unclean/
-不敬虔 不敬虔 [bu4 jing4 qian2] /ungodly/
+不敬虔 不敬虔 [bu4 jing4 qian2] /ungodly (old translation)/
 不肯讓步 不肯让步 [bu4 ken3_rang4 bu4] /be unyielding/unyielding, be/
 布拉多 布拉多 [bu4 la1 duo1] /labrador/
 不離不棄 不离不弃 [bu4 li2 bu2 qi4] /not give up on/not abandon/give up on, not/abandon, not/
@@ -20050,7 +20052,7 @@
 高桌晚宴 高桌晚宴 [gao1 zhuo1_wan3 yan4] /high-table dinner (at university etc)/dinner, high-table (at university etc)/
 搞不懂 搞不懂 [gao3 bu4 dong3] /not understand/understand, not/
 搞定 搞定 [gao3 ding4] /settle (a deal etc)/
-膏立 膏立 [gao4 li4] /anointing/
+膏立 膏立 [gao4 li4] /anointing (old translation)/
 告票 告票 [gao4 piao4] /ticket (for traffic fines etc)/
 歌珥 歌珥 [ge1 er3] /cor (liquid measure, possibly 220 liters)/
 歌詞作家 歌词作家 [ge1 ci2_zuo4 jia1] /lyricist/
@@ -21732,10 +21734,11 @@
 淚泉 泪泉 [lei4 quan2] /spring of tears/tears, spring of/
 冷凝機組 冷凝机组 [leng3 ning2_ji1 zu3] /condensing unit (for air con etc)/unit, condensing (for air con etc)/
 冷知識 冷知识 [leng3 zhi1 shi5] /trivia (for quiz etc)/
-犁地 犁地 [li2_di4] /plow/
+犁地 犁地 [li2_di4] /to plough/to plow/plough, to/plow, to/
 離你不遠 离你不远 [li2_ni3_bu4_yuan3] /not far from you/
 離惡行善 离恶行善 [li2 e4 xing2 shan4] /leave bad and do good/good, leave bad and do/
 犁出 犁出 [li2 chu1] /plow out/
+犁地機 犁地机 [li2 di4 ji1] /plough (device)/plow/plow, plough/
 離合詩 离合诗 [li2 he2 shi1] /acrostic poetry/poetry, acrostic/
 離開主人 离开主人 [li2 kai1_zhu3 ren2] /escape from one's master (lit. leave one's master)/one's master, escape from (lit. leave one's master)/
 鋰電池 锂电池 [li3_dian4 chi2] /lithium batteries/batteries, lithium/
@@ -22257,6 +22260,7 @@
 莫澤雷勒 莫泽雷勒 [mo4 ze2 lei2 le4] /mozzarella (cheese)/
 默照 默照 [mo4 zhao4] /shikantaza/
 某個人 某个人 [mou3_ge5_ren2] /some individual/individual, some/
+某某人 某某人 [mou3 mou3_ren2] /So-and-so (person)/
 某種形式 某种形式 [mou3 zhong3_xing2 shi4] /some form (of)/form, some (of)/
 母羚羊 母羚羊 [mu3 ling2 yang2] /female gazelle/gazelle, female/
 母駱駝 母骆驼 [mu3 luo4 tuo5] /mother camel/camel, mother/
@@ -23330,7 +23334,6 @@
 神經症 神经症 [shen2 jing1 zheng4] /psychoneurosis/
 什麼時候 什么时候 [shen2 me5_shi2 hou5] /when/what time/
 神秘關系 神秘关系 [shen2 mi4_guan1 xi5] /mystical association/association, mystical/
-神聖禮物 神圣礼物 [shen2 sheng4_li3 wu4] /holy contributions/contributions, holy/
 神聖化 神圣化 [shen2 sheng4 hua4] /sanctification (by a church)/
 神性 神性 [shen2 xing4] /divine/
 神學家們 神学家们 [shen2 xue2 jia1 men5] /theologians/
@@ -25266,6 +25269,7 @@
 延異 延异 [yan2 yi4] /differance (in Derrida theory)/
 言語治療師 言语治疗师 [yan2 yu3_zhi4 liao2 shi1] /speech and language therapist/SALT/language therapist, speech and/
 言喻 言喻 [yan2 yu4] /express in words/words, express in/
+鹽約 盐约 [yan2 yue1] /covenant of salt/salt, covenant of/
 顏值 颜值 [yan2 zhi2] /looks (of a person)/
 嚴重程度 严重程度 [yan2 zhong4_cheng2 du5] /severity/
 嚴重的抑郁 严重的抑郁 [yan2 zhong4_de5_yi4 yu4] /serious depression/depression, serious/
