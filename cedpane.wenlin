@@ -10329,7 +10329,7 @@ definition (child's name in a joke)
 pinyin cíbēi-wéihuái
 characters 慈悲为怀[--為懷]
 serial-number CedPane2072
-definition full of mercy
+definition full of mercy (old translation)
 *** 
 pinyin cìcǎo
 characters 刺草
@@ -10674,7 +10674,7 @@ definition Dalmatia
 pinyin dàfā-cíbēi
 characters 大发慈悲[-發--]
 serial-number CedPane2141
-definition show abundant mercy
+definition show abundant mercy (old translation)
 *** 
 pinyin dàfang détǐ
 characters 大方得体[---體]
@@ -11981,7 +11981,7 @@ definition Driver (surname)
 pinyin délākèmǎ
 characters 德拉克马[---馬]
 serial-number CedPane2402
-definition drachma 
+definition drachma
 *** 
 pinyin délākǒng
 characters 德拉孔
@@ -14356,7 +14356,7 @@ definition send text message (on mobile); texting
 pinyin fāfā cíbēi
 characters 发发慈悲[發發--]
 serial-number CedPane2880
-definition have mercy
+definition have mercy (old translation)
 *** 
 pinyin Fǎgān
 characters 法甘
@@ -39767,7 +39767,7 @@ definition worldwide
 pinyin Púshǔ
 characters 葡属[-屬]
 serial-number CedPane7980
-definition beloning to Portugal (colony etc)
+definition belonging to Portugal (colony etc)
 *** 
 pinyin pū shuǐní
 characters 铺水泥[鋪--]
@@ -43249,7 +43249,7 @@ definition Shechinah
 pinyin shèkèlè
 characters 舍客勒
 serial-number CedPane8679
-definition shekel 
+definition shekel (weight)
 *** 
 pinyin Shèlúnbèigé
 characters 舍伦贝格[-倫貝-]
@@ -44864,7 +44864,7 @@ definition hand-operated duplicators
 pinyin shòugào
 characters 受膏
 serial-number CedPane9003
-definition anoint(ed)
+definition anoint(ed) (old translation)
 *** 
 pinyin shōugējié
 characters 收割节[--節]
@@ -45430,7 +45430,7 @@ definition marker; bookmark (variant form)
 pinyin shúqiānjì
 characters 赎愆祭[贖--]
 serial-number CedPane9116
-definition guilt offering
+definition guilt offering (old translation)
 *** 
 pinyin shùqǐ ěrduo
 characters 竖起耳朵[豎---]
@@ -45445,12 +45445,12 @@ definition repurchase
 pinyin shǔròutǐ
 characters 属肉体[屬-體]
 serial-number CedPane9119
-definition belonging to flesh
+definition belonging to flesh (old translation)
 *** 
 pinyin shǔròutǐ de
 characters 属肉体的[屬-體-]
 serial-number CedPane9120
-definition fleshly
+definition fleshly (old translation)
 *** 
 pinyin shūsànlìng
 characters 疏散令
@@ -48701,7 +48701,7 @@ definition yoked (both carrying same yoke)
 pinyin tónggōng
 characters 同工
 serial-number CedPane9772
-definition fellow workers
+definition fellow workers (old translation)
 *** 
 pinyin tónggōu
 characters 铜钩[銅鉤]
@@ -57761,7 +57761,7 @@ definition Jeatherai
 pinyin Yètèluó
 characters 叶忒罗[葉-羅]
 serial-number CedPane11590
-definition Jethro
+definition Jethro (old transliteration)
 *** 
 pinyin Yèwá
 characters 叶娃[葉-]
@@ -58361,7 +58361,7 @@ definition Iguassu
 pinyin Yǐhù
 characters 以笏
 serial-number CedPane11710
-definition Ehud
+definition Ehud (old translation)
 *** 
 pinyin yīhuǒ(r)
 characters 一夥
@@ -68909,7 +68909,7 @@ definition say one thing and do another; have a double standard
 pinyin shúqiānjìshēng
 characters 赎愆祭牲[贖---]
 serial-number CedPane13827
-definition guilt offering
+definition guilt offering (old translation)
 *** 
 pinyin shúqīng
 characters 贖清[赎-]
@@ -122382,7 +122382,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-07-17
+definition CedPane: this is version 2019-07-18
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -133148,3 +133148,58 @@ pinyin Zhōngwénbǎn
 characters 中文版
 serial-number CedPane26818
 definition Chinese edition
+*** 
+pinyin jiùbǎn
+characters 旧版[舊-]
+serial-number CedPane26821
+definition old edition
+*** 
+pinyin shālóng
+characters 沙隆
+serial-number CedPane26822
+definition shalom (Hebrew word for peace)
+*** 
+pinyin shénshèng lìliang
+characters 神圣力量[-聖--]
+serial-number CedPane26825
+definition holy spirit
+*** 
+pinyin shòu rènmìng
+characters 受任命
+serial-number CedPane26827
+definition appoint(ed); anoint(ed)
+*** 
+pinyin tǎlántè
+characters 塔兰特[-蘭-]
+serial-number CedPane26832
+definition talent (weight)
+*** 
+pinyin xīn yìfǎ
+characters 新译法[-譯-]
+serial-number CedPane26833
+definition new translation; new rendering (of a word)
+*** 
+pinyin yányòng-yǐjiǔ
+characters 沿用已久
+serial-number CedPane26834
+definition used for a long time
+*** 
+pinyin yě kě yìzuò
+characters 也可译作[--譯-]
+serial-number CedPane26835
+definition or possibly (in translation footnotes)
+*** 
+pinyin Yètèluó
+characters 叶特罗[葉-羅]
+serial-number CedPane26836
+definition Jethro
+*** 
+pinyin Yǐhù
+characters 以户[-戶]
+serial-number CedPane26837
+definition Ehud
+*** 
+pinyin yīléinèi
+characters 伊雷内[--內]
+serial-number CedPane26838
+definition eirene (Greek word for peace)
