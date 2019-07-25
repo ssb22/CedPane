@@ -3707,10 +3707,10 @@ characters 巴比伦人[--倫-]
 serial-number CedPane745
 definition Babylonian (person)
 *** 
-pinyin Bābǐlúnshěng
+pinyin Bābǐlún Shěng
 characters 巴比伦省[--倫-]
 serial-number CedPane746
-definition jurisdictional district of Babylon
+definition jurisdictional district of Babylon; province of Babylon
 *** 
 pinyin Bābǐlúnwáng
 characters 巴比伦王[--倫-]
@@ -5341,7 +5341,7 @@ definition Berti
 pinyin Bèi'ěrxièbā
 characters 贝尔谢巴[貝爾謝-]
 serial-number CedPane1074
-definition Beersheba
+definition Beersheba (old translation?)
 *** 
 pinyin bèifēngmiàn
 characters 背风面[-風-]
@@ -6252,7 +6252,7 @@ definition Beer-elim
 pinyin Biéshìbā
 characters 别示巴[別--]
 serial-number CedPane1256
-definition Beer-sheba
+definition Beersheba; Beer-sheba
 *** 
 pinyin Biésīlán
 characters 别斯兰[別-蘭]
@@ -6927,7 +6927,7 @@ definition Bithiah (daughter of Pharaoh)
 pinyin Bìtuīní
 characters 庇推尼
 serial-number CedPane1391
-definition Bithynia
+definition Bithynia (old translation)
 *** 
 pinyin Bǐtǔlì
 characters 彼土利
@@ -9609,7 +9609,7 @@ definition city gate
 pinyin chéngqiángkǒu
 characters 城墙口[-牆-]
 serial-number CedPane1928
-definition oppening in the wall of a city
+definition opening in the wall of a city
 *** 
 pinyin chéngqún-jiéhuǒ
 characters 成群结伙[--結-]
@@ -11110,7 +11110,7 @@ definition daric
 pinyin Dàlìlā
 characters 大利拉
 serial-number CedPane2228
-definition Delilah
+definition Delilah (old translation)
 *** 
 pinyin dà língyáng
 characters 大羚羊
@@ -19958,7 +19958,7 @@ definition Hori
 pinyin Héliǎn
 characters 何琏[-璉]
 serial-number CedPane4003
-definition Horem
+definition Horem (old translation)
 *** 
 pinyin Héliè
 characters 何烈
@@ -20163,7 +20163,7 @@ definition District; river area
 pinyin Hèrén
 characters 赫人
 serial-number CedPane4044
-definition Hittites
+definition Hittites (old translation)
 *** 
 pinyin Hésà
 characters 何萨[-薩]
@@ -21029,7 +21029,7 @@ definition Khulo
 pinyin húlushù
 characters 葫芦树[-蘆樹]
 serial-number CedPane4217
-definition bottle-gourd plant
+definition bottle-gourd plant (old translation)
 *** 
 pinyin húlúsī
 characters 葫芦丝[-蘆絲]
@@ -21079,7 +21079,7 @@ definition crossbreeding
 pinyin huǒbàn(r)
 characters 夥伴
 serial-number CedPane4227
-definition partner (variant?)
+definition partner (variant)
 *** 
 pinyin Huòbātè
 characters 霍巴特
@@ -30724,7 +30724,7 @@ definition Levite cities
 pinyin Lìwéitǎn
 characters 利维坦[-維-]
 serial-number CedPane6164
-definition Leviathan
+definition Leviathan (old translation)
 *** 
 pinyin Lǐwéiyē'ěr
 characters 里维耶尔[-維-爾]
@@ -38240,7 +38240,7 @@ definition Norwich (New York state)
 pinyin Nuóyà
 characters 娜亚[-亞]
 serial-number CedPane7674
-definition Noah (Zelophehad's daughter)
+definition Noah (Zelophehad's daughter, old translation)
 *** 
 pinyin Nuóyà
 characters 挪亚[-亞]
@@ -38250,7 +38250,7 @@ definition Noah
 pinyin Nuòyà
 characters 诺亚[諾亞]
 serial-number CedPane7676
-definition Noah  (PRC?)
+definition Noah (PRC?)
 *** 
 pinyin Nuòyīgébào'ěr
 characters 诺伊格鲍尔[諾--鮑爾]
@@ -41169,7 +41169,7 @@ definition like bathing in the spring breeze
 pinyin rùnfū
 characters 润肤[潤膚]
 serial-number CedPane8264
-definition moist skin (?)
+definition moisturised skin
 *** 
 pinyin Ruò'ājīn
 characters 若阿金
@@ -43449,7 +43449,7 @@ definition St. Valentine
 pinyin shènghuì
 characters 圣会[聖會]
 serial-number CedPane8720
-definition convention (Israel)
+definition holy convention
 *** 
 pinyin shēnghuó gùwèn
 characters 生活顾问[--顧問]
@@ -44634,7 +44634,7 @@ definition Steve
 pinyin Shítíng
 characters 什亭
 serial-number CedPane8958
-definition Shittim
+definition Shittim (old translation)
 *** 
 pinyin shìtīng kè
 characters 试听课[試聽課]
@@ -46856,7 +46856,7 @@ definition Taberah
 pinyin Tābié
 characters 他别[-別]
 serial-number CedPane9405
-definition Tabeel
+definition Tabeel (old translation)
 *** 
 pinyin Tǎbǐshā
 characters 塔比莎
@@ -52739,11 +52739,6 @@ serial-number CedPane10581
 definition would or wouldn't like
 *** 
 pinyin Xīdá
-characters 西答
-serial-number CedPane10582
-definition Biztha
-*** 
-pinyin Xīdá
 characters 西达[-達]
 serial-number CedPane10583
 definition Zedad
@@ -56951,7 +56946,7 @@ definition King Arthur
 pinyin Yāshà
 characters 押煞
 serial-number CedPane11430
-definition Achshaph
+definition Achshaph (old translation)
 *** 
 pinyin Yǎshà'ěrshū
 characters 雅煞珥书[---書]
@@ -57421,7 +57416,7 @@ definition Yarmuk (Torrent Valley)
 pinyin Yēfúní
 characters 耶孚尼
 serial-number CedPane11524
-definition Jephunneh (father of Caleb)
+definition Jephunneh (old translation)
 *** 
 pinyin Yēfútā
 characters 耶弗他
@@ -65109,11 +65104,6 @@ characters 祭司团[--團]
 serial-number CedPane13068
 definition association of priests; priesthood (Bible)
 *** 
-pinyin jìsīzhǎng hé wénshì
-characters 祭司长和文士[--長---]
-serial-number CedPane13069
-definition chief priests and the scribes
-*** 
 pinyin jīwěisuōxìng jǐsuǐ cèsuǒ yìnghuàzhèng
 characters 肌萎缩性脊髓侧索硬化症[--縮---側----]
 serial-number CedPane13070
@@ -66949,11 +66939,6 @@ characters 非有不可
 serial-number CedPane13436
 definition indispensable
 *** 
-pinyin fēnbié shàn'è shù
-characters 分别善恶树[-別-惡樹]
-serial-number CedPane13437
-definition tree of the knowledge of good and bad
-*** 
 pinyin fēnfāng qìwèi
 characters 芬芳气味[--氣-]
 serial-number CedPane13438
@@ -67849,7 +67834,7 @@ definition two-tribe
 pinyin liánglán
 characters 量篮[-籃]
 serial-number CedPane13616
-definition ephah (dry measure, possibly 22 liters)
+definition ephah (dry measure, possibly 22 liters) (old translation)
 *** 
 pinyin liáng liǎng cì
 characters 量两次[-兩-]
@@ -122367,7 +122352,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-07-22
+definition CedPane: this is version 2019-07-25
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -133188,3 +133173,1293 @@ pinyin yīléinèi
 characters 伊雷内[--內]
 serial-number CedPane26838
 definition eirene (Greek word for peace)
+*** 
+pinyin Fújíníyàbǐqí
+characters 弗吉尼亚比奇[---亞--]
+serial-number CedPane26882
+definition Virginia Beach
+*** 
+pinyin Fújíníyàbǐqí Shì
+characters 弗吉尼亚比奇市[---亞---]
+serial-number CedPane26883
+definition Virginia Beach (city)
+*** 
+pinyin Huóyòng Shèngjīng
+characters 活用圣经[--聖經]
+serial-number CedPane26895
+definition The Living Bible
+*** 
+pinyin Jīngdū Shì
+characters 京都市
+serial-number CedPane26900
+definition Kyoto (city, Japan)
+*** 
+pinyin néng zhī sān rì shì
+characters 能知三日事
+serial-number CedPane26914
+definition he who could foresee affairs three days in advance
+*** 
+pinyin Píngchéng
+characters 平成
+serial-number CedPane26918
+definition Heisei era (Japan 1989-2019)
+*** 
+pinyin sǐwáng kǒnghè
+characters 死亡恐吓[---嚇]
+serial-number CedPane26943
+definition death threat (in letter etc)
+*** 
+pinyin tiānfù cáigàn
+characters 天赋才干[-賦-幹]
+serial-number CedPane26948
+definition natural ability (of a person)
+*** 
+pinyin Wéizī
+characters 维兹[維茲]
+serial-number CedPane26958
+definition Weitz
+*** 
+pinyin wúchǐ de xíngwéi
+characters 无耻的行为[無恥--為]
+serial-number CedPane26962
+definition loose conduct
+*** 
+pinyin zìliànkuáng
+characters 自恋狂[-戀-]
+serial-number CedPane26999
+definition narcissist(s)
+*** 
+pinyin diànnǎo chéngxù
+characters 电脑程序[電腦--]
+serial-number CedPane27002
+definition computer program
+*** 
+pinyin dǐngcéng háozhái
+characters 顶层豪宅[頂層--]
+serial-number CedPane27003
+definition penthouse
+*** 
+pinyin Gǎngxīng
+characters 港星
+serial-number CedPane27004
+definition Hong Kong movie or pop star
+*** 
+pinyin jiù yìfǎ
+characters 旧译法[舊譯-]
+serial-number CedPane27005
+definition old rendering (of word/phrase)
+*** 
+pinyin kàn de dǒng
+characters 看得懂
+serial-number CedPane27006
+definition read and understand
+*** 
+pinyin qiǎncí-yòngzì
+characters 遣词用字[-詞--]
+serial-number CedPane27007
+definition wording; choice of words in writing
+*** 
+pinyin qīngchu-yìdǒng
+characters 清楚易懂
+serial-number CedPane27008
+definition clear and easy to understand
+*** 
+pinyin Rèn Dáhuá
+characters 任达华[-達華]
+serial-number CedPane27009
+definition Simon Yam Tat-wah (HK actor)
+*** 
+pinyin sùbào
+characters 速报[-報]
+serial-number CedPane27010
+definition rapid report; alert
+*** 
+pinyin wàngyǎn
+characters 望眼
+serial-number CedPane27011
+definition eagerly look
+*** 
+pinyin xiědào
+characters 写道[寫-]
+serial-number CedPane27012
+definition said (in book etc, formal)
+*** 
+pinyin xíjīzhě
+characters 袭击者[襲擊-]
+serial-number CedPane27013
+definition attacker (in crime etc)
+*** 
+pinyin zhōngshēn jiānjìn
+characters 终身监禁[終-監-]
+serial-number CedPane27014
+definition life imprisonment
+*** 
+pinyin zhúzhāng-zhújié
+characters 逐章逐节[---節]
+serial-number CedPane27015
+definition chapter by chapter, verse by verse
+*** 
+pinyin āiháoshēng
+characters 哀号声[-號聲]
+serial-number CedPane27016
+definition wailing sound
+*** 
+pinyin āndài
+characters 鞍袋
+serial-number CedPane27017
+definition saddlebag
+*** 
+pinyin ángshǒu-tǐngxiōng
+characters 昂首挺胸
+serial-number CedPane27018
+definition with head held high; with confidence
+*** 
+pinyin ānwèizhě
+characters 安慰者
+serial-number CedPane27019
+definition comforter
+*** 
+pinyin Bākǎ Gǔ
+characters 巴卡谷
+serial-number CedPane27020
+definition Baca Valley
+*** 
+pinyin Bālìshén
+characters 巴力神
+serial-number CedPane27021
+definition Baal (god)
+*** 
+pinyin bǎozuòtīng
+characters 宝座厅[寶-廳]
+serial-number CedPane27022
+definition throne room
+*** 
+pinyin bàtè
+characters 罢特[罷-]
+serial-number CedPane27023
+definition bath measure
+*** 
+pinyin Bāwǎyīn
+characters 巴瓦音
+serial-number CedPane27024
+definition Parvaim
+*** 
+pinyin Bǐlājiā Gǔ
+characters 比拉迦谷
+serial-number CedPane27025
+definition Valley of Beracah
+*** 
+pinyin Bìlún
+characters 毕伦[畢倫]
+serial-number CedPane27026
+definition Bithron
+*** 
+pinyin Bìsà
+characters 必萨[-薩]
+serial-number CedPane27027
+definition Besai
+*** 
+pinyin Bǐsītǎ
+characters 比斯塔
+serial-number CedPane27028
+definition Biztha
+*** 
+pinyin Bǐtàn
+characters 比探
+serial-number CedPane27029
+definition Bigthan
+*** 
+pinyin Bǐtíníyà
+characters 比提尼亚[---亞]
+serial-number CedPane27030
+definition Bithynia
+*** 
+pinyin Bǐxùn Hé
+characters 比逊河[-遜-]
+serial-number CedPane27031
+definition Pishon river
+*** 
+pinyin Bólìhéng Chéng
+characters 伯利恒城[--恆-]
+serial-number CedPane27032
+definition Bethlehem
+*** 
+pinyin Bóyàbǐlè
+characters 伯亚比勒[-亞--]
+serial-number CedPane27033
+definition house of Arbel
+*** 
+pinyin Bóyàfúlā
+characters 伯亚弗拉[-亞--]
+serial-number CedPane27034
+definition Beth-aphrah
+*** 
+pinyin bùlǚpánshān
+characters 步履蹒跚[--蹣-]
+serial-number CedPane27035
+definition stagger
+*** 
+pinyin cǎishōu
+characters 采收
+serial-number CedPane27036
+definition gather (a harvest etc)
+*** 
+pinyin cáiwùguān
+characters 财务官[財務-]
+serial-number CedPane27037
+definition treasurer
+*** 
+pinyin chángtà
+characters 长榻[長-]
+serial-number CedPane27038
+definition couch
+*** 
+pinyin chéngēng
+characters 晨更
+serial-number CedPane27039
+definition morning watch
+*** 
+pinyin chéngshènglǐ
+characters 成圣礼[-聖禮]
+serial-number CedPane27040
+definition sanctification ceremony
+*** 
+pinyin chuàngjiànrén
+characters 创建人[創--]
+serial-number CedPane27041
+definition founder
+*** 
+pinyin chūshuǐkǒu
+characters 出水口
+serial-number CedPane27042
+definition water source; spring
+*** 
+pinyin cūmiànfěn
+characters 粗面粉
+serial-number CedPane27043
+definition coarse meal
+*** 
+pinyin Dà Fúbì
+characters 大扶壁
+serial-number CedPane27044
+definition Buttress
+*** 
+pinyin Dàgǔnshén
+characters 大衮神[-袞-]
+serial-number CedPane27045
+definition Dagon (god)
+*** 
+pinyin Dàilìlā
+characters 黛利拉
+serial-number CedPane27046
+definition Delilah
+*** 
+pinyin dàlǐshízhù
+characters 大理石柱
+serial-number CedPane27047
+definition marble pillar
+*** 
+pinyin Dà Táijiē
+characters 大台阶[--階]
+serial-number CedPane27048
+definition Stairway
+*** 
+pinyin Dà Zhùláng
+characters 大柱廊
+serial-number CedPane27049
+definition Hall of Pillars
+*** 
+pinyin diànqiáng
+characters 殿墙[-牆]
+serial-number CedPane27050
+definition palace wall; temple wall
+*** 
+pinyin dōngnánbiān
+characters 东南边[東-邊]
+serial-number CedPane27051
+definition to the southeast
+*** 
+pinyin dǒudǒu
+characters 抖抖
+serial-number CedPane27052
+definition shake
+*** 
+pinyin fāngxiāngyóu
+characters 芳香油
+serial-number CedPane27053
+definition perfume
+*** 
+pinyin fèitǔ
+characters 废土[廢-]
+serial-number CedPane27054
+definition rubble
+*** 
+pinyin fēnfēn-rǎorǎo
+characters 纷纷扰扰[紛紛擾擾]
+serial-number CedPane27055
+definition agitated; in turmoil
+*** 
+pinyin fēngkǒufèi
+characters 封口费[--費]
+serial-number CedPane27056
+definition hush money
+*** 
+pinyin fǔzitóu
+characters 斧子头[--頭]
+serial-number CedPane27057
+definition axehead; axhead
+*** 
+pinyin Gāngǔ
+characters 干谷[乾-]
+serial-number CedPane27058
+definition Wadi
+*** 
+pinyin Génísālè Hú
+characters 革尼撒勒湖
+serial-number CedPane27059
+definition lake of Gennesaret
+*** 
+pinyin guānyuánmen
+characters 官员们[-員們]
+serial-number CedPane27060
+definition officials
+*** 
+pinyin Gǔ'è
+characters 古厄
+serial-number CedPane27061
+definition Kue
+*** 
+pinyin guǒbǐng
+characters 果饼[-餅]
+serial-number CedPane27062
+definition cake of summer fruit
+*** 
+pinyin hàirén-hàijǐ
+characters 害人害己
+serial-number CedPane27063
+definition harm others and oneself
+*** 
+pinyin Hānányè Lóu
+characters 哈楠业楼[--業樓]
+serial-number CedPane27064
+definition Tower of Hananel
+*** 
+pinyin Hánzúrén
+characters 含族人
+serial-number CedPane27065
+definition Hamites
+*** 
+pinyin hàogāo-wùyuǎn
+characters 好高骛远[--騖遠]
+serial-number CedPane27066
+definition aspire to things too great
+*** 
+pinyin Héhán
+characters 何函
+serial-number CedPane27067
+definition Hoham
+*** 
+pinyin Hélián
+characters 何连[-連]
+serial-number CedPane27068
+definition Horem
+*** 
+pinyin Hèlì'àobōlìsī
+characters 赫利奥波利斯[--奧---]
+serial-number CedPane27069
+definition Heliopolis
+*** 
+pinyin hènyì
+characters 恨意
+serial-number CedPane27070
+definition hateful (in meaning)
+*** 
+pinyin Hètí
+characters 赫提
+serial-number CedPane27071
+definition Heth
+*** 
+pinyin Hètírén
+characters 赫提人
+serial-number CedPane27072
+definition Hittites
+*** 
+pinyin hóngshéng
+characters 红绳[紅繩]
+serial-number CedPane27073
+definition red cord
+*** 
+pinyin huānhū-quèyuè
+characters 欢呼雀跃[歡--躍]
+serial-number CedPane27074
+definition cry out joyfully and rejoice
+*** 
+pinyin huǐmièzhě
+characters 毁灭者[毀滅-]
+serial-number CedPane27075
+definition destroyer
+*** 
+pinyin húluténg
+characters 葫芦藤[-蘆-]
+serial-number CedPane27076
+definition bottle-gourd plant
+*** 
+pinyin Jiāfěituō Dǎo
+characters 迦斐托岛[---島]
+serial-number CedPane27077
+definition Caphtorim (island)
+*** 
+pinyin jiǎ-Mísàiyà
+characters 假弥赛亚[-彌賽亞]
+serial-number CedPane27078
+definition false Messiah
+*** 
+pinyin jiànshāng
+characters 剑伤[劍傷]
+serial-number CedPane27079
+definition sword wound
+*** 
+pinyin jiǎnshí
+characters 捡拾[撿-]
+serial-number CedPane27080
+definition glean (from the ground)
+*** 
+pinyin jiǎokuí
+characters 角蝰
+serial-number CedPane27081
+definition horned snake
+*** 
+pinyin jiāozào-bù'ān
+characters 焦躁不安
+serial-number CedPane27082
+definition restless
+*** 
+pinyin Jiāshí Shān
+characters 迦实山[-實-]
+serial-number CedPane27083
+definition Mount Gaash
+*** 
+pinyin Jībiàn Chéng
+characters 基遍城
+serial-number CedPane27084
+definition Gibeon (place)
+*** 
+pinyin jífēi
+characters 疾飞[-飛]
+serial-number CedPane27085
+definition fly fast
+*** 
+pinyin Jīmǒshén
+characters 基抹神
+serial-number CedPane27086
+definition Chemosh (god)
+*** 
+pinyin jīngkǒng-bù'ān
+characters 惊恐不安[驚---]
+serial-number CedPane27087
+definition disturbed; unsettled (in thought)
+*** 
+pinyin jīnpiàn
+characters 金片
+serial-number CedPane27088
+definition gold plates
+*** 
+pinyin Jīshùn Hé
+characters 基顺河[-順-]
+serial-number CedPane27089
+definition Kishon river
+*** 
+pinyin Jīxùn Hé
+characters 基训河[-訓-]
+serial-number CedPane27090
+definition Gihon river
+*** 
+pinyin Jīyīlā Chéng
+characters 基伊拉城
+serial-number CedPane27091
+definition Keilah
+*** 
+pinyin jìzhàng
+characters 记账[記賬]
+serial-number CedPane27092
+definition keep accounts
+*** 
+pinyin kǎixītǎ
+characters 凯西塔[凱--]
+serial-number CedPane27093
+definition qesitah
+*** 
+pinyin kǎoyú
+characters 烤鱼[-魚]
+serial-number CedPane27094
+definition broiled fish
+*** 
+pinyin Kèlǐtè Dǎo
+characters 克里特岛[---島]
+serial-number CedPane27095
+definition Crete (island)
+*** 
+pinyin Kēluòsài
+characters 科洛塞
+serial-number CedPane27096
+definition Colossae
+*** 
+pinyin Kēwēi
+characters 科威
+serial-number CedPane27097
+definition Kue
+*** 
+pinyin kuānguānjié
+characters 髋关节[髖關節]
+serial-number CedPane27098
+definition hip joint
+*** 
+pinyin kūlóutóu
+characters 骷髅头[-髏頭]
+serial-number CedPane27099
+definition skull
+*** 
+pinyin lángqún
+characters 狼群
+serial-number CedPane27100
+definition wolves
+*** 
+pinyin làohén
+characters 烙痕
+serial-number CedPane27101
+definition brand mark
+*** 
+pinyin liánggān
+characters 量杆
+serial-number CedPane27102
+definition measuring pole
+*** 
+pinyin Líbānèn Gǔ
+characters 黎巴嫩谷
+serial-number CedPane27103
+definition Valley of Lebanon
+*** 
+pinyin Lìfáyīn Gǔ
+characters 利乏音谷
+serial-number CedPane27104
+definition Valley of Rephaim
+*** 
+pinyin lǐngbiān
+characters 领边[領邊]
+serial-number CedPane27105
+definition border; fringe (in clothing etc)
+*** 
+pinyin lìqīngkēng
+characters 沥青坑[瀝--]
+serial-number CedPane27106
+definition bitumen pit
+*** 
+pinyin lìxuàn
+characters 丽绚[麗絢]
+serial-number CedPane27107
+definition Leshem
+*** 
+pinyin lìyàtǎn
+characters 利亚坦[-亞-]
+serial-number CedPane27108
+definition Leviathan
+*** 
+pinyin lǘbèi
+characters 驴背[驢-]
+serial-number CedPane27109
+definition donkey's back
+*** 
+pinyin Luómǎbàng
+characters 罗马磅[羅馬-]
+serial-number CedPane27110
+definition Roman pound (weight)
+*** 
+pinyin luóténg
+characters 罗腾[羅騰]
+serial-number CedPane27111
+definition broom (tree)
+*** 
+pinyin lúwěicóng
+characters 芦苇丛[蘆葦叢]
+serial-number CedPane27112
+definition reeds
+*** 
+pinyin lúwěitáng
+characters 芦苇塘[蘆葦-]
+serial-number CedPane27113
+definition reed pool
+*** 
+pinyin Màofànshān
+characters 冒犯山
+serial-number CedPane27114
+definition Mount of Offense
+*** 
+pinyin Mǐdiànyíng
+characters 米甸营[--營]
+serial-number CedPane27115
+definition camp of Midian
+*** 
+pinyin Mǐjíduō Shān
+characters 米吉多山
+serial-number CedPane27116
+definition Mount Megiddo
+*** 
+pinyin Mǐlìbāshuǐ
+characters 米利巴水
+serial-number CedPane27117
+definition waters of Meribah
+*** 
+pinyin Mǐsà
+characters 米萨[-薩]
+serial-number CedPane27118
+definition Mizar
+*** 
+pinyin Mǐsà Shān
+characters 米萨山[-薩-]
+serial-number CedPane27119
+definition Mount Mizar
+*** 
+pinyin Mǐsībā Gǔ
+characters 米斯巴谷
+serial-number CedPane27120
+definition Valley of Mizpah
+*** 
+pinyin Mǐyà Lóu
+characters 米亚楼[-亞樓]
+serial-number CedPane27121
+definition Tower of Meah
+*** 
+pinyin Mólìyà Shān
+characters 摩利亚山[--亞-]
+serial-number CedPane27122
+definition Mount Moriah
+*** 
+pinyin Móluòshén
+characters 摩洛神
+serial-number CedPane27123
+definition Molech (god)
+*** 
+pinyin mùguì
+characters 木柜[-櫃]
+serial-number CedPane27124
+definition ark of wood; wood cabinet
+*** 
+pinyin mùtái
+characters 木台
+serial-number CedPane27125
+definition wooden podium
+*** 
+pinyin Náhè Chéng
+characters 拿鹤城[-鶴-]
+serial-number CedPane27126
+definition Nahor
+*** 
+pinyin nánjì
+characters 男妓
+serial-number CedPane27127
+definition male prostitute
+*** 
+pinyin Násālè Chéng
+characters 拿撒勒城
+serial-number CedPane27128
+definition Nazareth
+*** 
+pinyin Náyīn Chéng
+characters 拿因城
+serial-number CedPane27129
+definition Nain
+*** 
+pinyin Níbō Shān
+characters 尼波山
+serial-number CedPane27130
+definition Mount Nebo
+*** 
+pinyin nímú
+characters 泥模
+serial-number CedPane27131
+definition clay mold
+*** 
+pinyin Nǔ'ēn
+characters 努恩
+serial-number CedPane27132
+definition Nun
+*** 
+pinyin nǚ'érmen
+characters 女儿们[-兒們]
+serial-number CedPane27133
+definition daughters
+*** 
+pinyin núlìmen
+characters 奴隶们[-隸們]
+serial-number CedPane27134
+definition slaves
+*** 
+pinyin Nuóbó Chéng
+characters 挪伯城
+serial-number CedPane27135
+definition Nob
+*** 
+pinyin Nuódé
+characters 挪得
+serial-number CedPane27136
+definition Nod (place)
+*** 
+pinyin Nuóyà
+characters 挪娅[-婭]
+serial-number CedPane27137
+definition Noah (Zelophehad's daughter)
+*** 
+pinyin nǚpúmen
+characters 女仆们[-僕們]
+serial-number CedPane27138
+definition maids
+*** 
+pinyin Pànjué Gǔ
+characters 判决谷[-決-]
+serial-number CedPane27139
+definition valley of the decision
+*** 
+pinyin píng'ānjì
+characters 平安祭
+serial-number CedPane27140
+definition peace offering
+*** 
+pinyin pízhào
+characters 皮罩
+serial-number CedPane27141
+definition skin covering (for tent etc)
+*** 
+pinyin pízhì
+characters 皮制[-製]
+serial-number CedPane27142
+definition made of (animal) skin
+*** 
+pinyin Pǔlíngjié
+characters 普陵节[--節]
+serial-number CedPane27143
+definition Purim
+*** 
+pinyin Pǔlínjié
+characters 普林节[--節]
+serial-number CedPane27144
+definition Purim
+*** 
+pinyin rènyóu
+characters 任由
+serial-number CedPane27145
+definition allow (something to happen)
+*** 
+pinyin rùnfūgāo
+characters 润肤膏[潤膚-]
+serial-number CedPane27146
+definition ointments for beauty treatment; moisturisers
+*** 
+pinyin Sāfán
+characters 撒凡
+serial-number CedPane27147
+definition Zaphon
+*** 
+pinyin Sàipǔlùsī Dǎo
+characters 塞浦路斯岛[----島]
+serial-number CedPane27148
+definition Cyprus (island)
+*** 
+pinyin Sāliè Gǔ
+characters 撒烈谷
+serial-number CedPane27149
+definition Valley of Zered
+*** 
+pinyin Sāngjiǎ
+characters 桑甲
+serial-number CedPane27150
+definition Samgar
+*** 
+pinyin Shāhā
+characters 沙哈
+serial-number CedPane27151
+definition Zahar
+*** 
+pinyin shānyángqún
+characters 山羊群
+serial-number CedPane27153
+definition flock of goats
+*** 
+pinyin Shāwēi Gǔ
+characters 沙微谷
+serial-number CedPane27154
+definition Valley of Shaveh
+*** 
+pinyin shèngshuì
+characters 圣税[聖稅]
+serial-number CedPane27155
+definition sacred tax
+*** 
+pinyin Shěnpàntīng
+characters 审判厅[審-廳]
+serial-number CedPane27156
+definition Hall of Judgment
+*** 
+pinyin shēnxiàn
+characters 深陷
+serial-number CedPane27157
+definition sink down into
+*** 
+pinyin shìbīngmen
+characters 士兵们[--們]
+serial-number CedPane27158
+definition soldiers
+*** 
+pinyin Shìjiàn Chéng
+characters 示剑城[-劍-]
+serial-number CedPane27159
+definition Shechem
+*** 
+pinyin shīqún
+characters 狮群[獅-]
+serial-number CedPane27160
+definition lions
+*** 
+pinyin Shítíng
+characters 实亭[實-]
+serial-number CedPane27161
+definition Shittim
+*** 
+pinyin shíxīn
+characters 石心
+serial-number CedPane27162
+definition heart of stone
+*** 
+pinyin shǐzhěmen
+characters 使者们[--們]
+serial-number CedPane27163
+definition envoys
+*** 
+pinyin shīzixiàng
+characters 狮子像[獅--]
+serial-number CedPane27164
+definition lion likeness
+*** 
+pinyin shòujiāo
+characters 兽交[獸-]
+serial-number CedPane27165
+definition bestiality
+*** 
+pinyin Shǒuwàngtǎ
+characters 守望塔
+serial-number CedPane27166
+definition the Watchtower (Galeed)
+*** 
+pinyin shuāng'ěr
+characters 双耳[雙-]
+serial-number CedPane27167
+definition (two) ears
+*** 
+pinyin shuāngrǔ
+characters 双乳[雙-]
+serial-number CedPane27168
+definition two breasts
+*** 
+pinyin Shūgē Gǔ
+characters 疏割谷
+serial-number CedPane27169
+definition Valley of Succoth
+*** 
+pinyin shuǐyún
+characters 水云[-雲]
+serial-number CedPane27170
+definition water clouds
+*** 
+pinyin Shūshān Chéng
+characters 书珊城[書--]
+serial-number CedPane27171
+definition Shushan
+*** 
+pinyin shúxìng
+characters 熟杏
+serial-number CedPane27172
+definition ripe almond
+*** 
+pinyin Suǒduōmǎ Chéng
+characters 所多玛城[--瑪-]
+serial-number CedPane27173
+definition Sodom
+*** 
+pinyin Suōliè Gǔ
+characters 梭烈谷
+serial-number CedPane27174
+definition Valley of Sorek
+*** 
+pinyin Sūsà
+characters 苏萨[蘇薩]
+serial-number CedPane27175
+definition Susa
+*** 
+pinyin sùzàozhě
+characters 塑造者
+serial-number CedPane27176
+definition molder
+*** 
+pinyin Tǎbié
+characters 塔别[-別]
+serial-number CedPane27177
+definition Tabeel
+*** 
+pinyin Tài'ěr Chéng
+characters 泰尔城[-爾-]
+serial-number CedPane27178
+definition Tyre
+*** 
+pinyin tánhuī
+characters 坛灰[壇-]
+serial-number CedPane27179
+definition altar ashes
+*** 
+pinyin tiānshǐmen
+characters 天使们[--們]
+serial-number CedPane27180
+definition angels
+*** 
+pinyin tōnglíngshī
+characters 通灵师[-靈師]
+serial-number CedPane27181
+definition spirit medium
+*** 
+pinyin tuīzhuàng
+characters 推撞
+serial-number CedPane27182
+definition pushing (type of conflict)
+*** 
+pinyin wǎgāng
+characters 瓦缸
+serial-number CedPane27183
+definition potter's jar
+*** 
+pinyin wěichēng
+characters 伪称[偽稱]
+serial-number CedPane27184
+definition falsely called
+*** 
+pinyin Wūlái Hé
+characters 乌莱河[烏萊-]
+serial-number CedPane27185
+definition Ulai river
+*** 
+pinyin xiāngtái
+characters 香台
+serial-number CedPane27186
+definition incense stand
+*** 
+pinyin xiàngyáchuáng
+characters 象牙床
+serial-number CedPane27187
+definition bed of ivory
+*** 
+pinyin Xībólún Gǔ
+characters 希伯仑谷[--崙-]
+serial-number CedPane27188
+definition Valley of Hebron
+*** 
+pinyin Xīdǐjié Hé
+characters 希底结河[--結-]
+serial-number CedPane27189
+definition Hiddekel river
+*** 
+pinyin Xīdìng Gǔ
+characters 西订谷[-訂-]
+serial-number CedPane27190
+definition Valley of Siddim
+*** 
+pinyin Xǐgélā Chéng
+characters 洗革拉城
+serial-number CedPane27191
+definition Ziklag
+*** 
+pinyin xīkǎmò
+characters 西卡莫
+serial-number CedPane27192
+definition sycamine; sycamore
+*** 
+pinyin xìmáxiàn
+characters 细麻线[細-線]
+serial-number CedPane27193
+definition linen thread
+*** 
+pinyin xióngmǎ
+characters 雄马[-馬]
+serial-number CedPane27194
+definition powerful horse
+*** 
+pinyin Xīsītǎsīpísī
+characters 希斯塔斯皮斯
+serial-number CedPane27195
+definition Hystaspis
+*** 
+pinyin xǐzhuópén
+characters 洗濯盆
+serial-number CedPane27196
+definition washbasin
+*** 
+pinyin xuānnàoshēng
+characters 喧闹声[-鬧聲]
+serial-number CedPane27197
+definition noisy uproar
+*** 
+pinyin xùshuǐgāng
+characters 蓄水缸
+serial-number CedPane27198
+definition reservoir (vat)
+*** 
+pinyin Yàbālín Shān
+characters 亚巴琳山[亞---]
+serial-number CedPane27199
+definition mountain of Abarim
+*** 
+pinyin Yǎbó Hé
+characters 雅博河
+serial-number CedPane27200
+definition Jabbok river
+*** 
+pinyin Yādān
+characters 押丹
+serial-number CedPane27201
+definition Addon
+*** 
+pinyin Yà'ěr Chéng
+characters 亚珥城[亞--]
+serial-number CedPane27202
+definition Ar
+*** 
+pinyin Yàgē Gǔ
+characters 亚割谷[亞--]
+serial-number CedPane27203
+definition Valley of Achor
+*** 
+pinyin Yǎgèjǐng
+characters 雅各井
+serial-number CedPane27204
+definition Jacob's well
+*** 
+pinyin Yàmǎlìwáng
+characters 亚玛力王[亞瑪--]
+serial-number CedPane27205
+definition king of Amalek
+*** 
+pinyin Yànèn Gǔ
+characters 亚嫩谷[亞--]
+serial-number CedPane27206
+definition valleys of Arnon
+*** 
+pinyin Yànèn Hé
+characters 亚嫩河[亞--]
+serial-number CedPane27207
+definition Arnon river
+*** 
+pinyin yānhóngsè
+characters 胭红色[-紅-]
+serial-number CedPane27208
+definition scarlet
+*** 
+pinyin Yāshā
+characters 押沙
+serial-number CedPane27209
+definition Achshaph
+*** 
+pinyin Yāshā
+characters 押沙
+serial-number CedPane27210
+definition Achshaph
+*** 
+pinyin Yàshùguó
+characters 亚述国[亞-國]
+serial-number CedPane27211
+definition Assyria
+*** 
+pinyin Yàyǎlún Gǔ
+characters 亚雅仑谷[亞-崙-]
+serial-number CedPane27212
+definition Valley of Aijalon
+*** 
+pinyin Yēfūní
+characters 耶夫尼
+serial-number CedPane27213
+definition Jephunneh
+*** 
+pinyin yělín
+characters 野林
+serial-number CedPane27214
+definition wild forest
+*** 
+pinyin Yēsīliè Gǔ
+characters 耶斯列谷
+serial-number CedPane27215
+definition Valley of Jezreel
+*** 
+pinyin yīchuànchuàn
+characters 一串串
+serial-number CedPane27216
+definition clusters and clusters (of)
+*** 
+pinyin Yǐdé Tǎ
+characters 以德塔
+serial-number CedPane27217
+definition tower of Eder
+*** 
+pinyin yīfǎ
+characters 伊法
+serial-number CedPane27218
+definition ephah (dry measure, possibly 22 liters)
+*** 
+pinyin Yǐfúlún Shān
+characters 以弗仑山[--崙-]
+serial-number CedPane27219
+definition Mount Ephron
+*** 
+pinyin Yījiā'ěrsāhādùtā
+characters 伊迦尔撒哈杜他[--爾----]
+serial-number CedPane27220
+definition Jegar-sahadutha
+*** 
+pinyin Yījīlāshīlìshīyà
+characters 伊基拉施利施亚[------亞]
+serial-number CedPane27221
+definition Eglath-shelishiyah
+*** 
+pinyin yīkuàikuài
+characters 一块块[-塊塊]
+serial-number CedPane27222
+definition pieces
+*** 
+pinyin Yǐlā Gǔ
+characters 以拉谷
+serial-number CedPane27223
+definition Valley of Elah
+*** 
+pinyin yínluànzuì
+characters 淫乱罪[-亂-]
+serial-number CedPane27224
+definition fornication; prostitution
+*** 
+pinyin yínpiàn
+characters 银片[銀-]
+serial-number CedPane27225
+definition silver plate
+*** 
+pinyin yīpáipái
+characters 一排排
+serial-number CedPane27226
+definition terraced; row upon row
+*** 
+pinyin Yǐshígè Gǔ
+characters 以实各谷[-實--]
+serial-number CedPane27227
+definition Valley of Eshcol
+*** 
+pinyin Yīsuǒbǐyàrén
+characters 衣索比亚人[---亞-]
+serial-number CedPane27228
+definition Ethiopian (person)
+*** 
+pinyin yīyán jìchū
+characters 一言既出
+serial-number CedPane27229
+definition said it once and for all
+*** 
+pinyin yuàn bu yuànyì
+characters 愿不愿意[願-願-]
+serial-number CedPane27230
+definition willing or not
+*** 
+pinyin yuándùnpái
+characters 圆盾牌[圓--]
+serial-number CedPane27231
+definition circular shield(s)
+*** 
+pinyin yuánkuàng
+characters 圆框[圓-]
+serial-number CedPane27232
+definition mouth of basin or bowl
+*** 
+pinyin Yuēpà Chéng
+characters 约帕城[約--]
+serial-number CedPane27233
+definition Joppa
+*** 
+pinyin Yuēshāfǎ Gǔ
+characters 约沙法谷[約---]
+serial-number CedPane27234
+definition Valley of Jehoshaphat
+*** 
+pinyin yùnshuǐchē
+characters 运水车[運-車]
+serial-number CedPane27235
+definition water cart
+*** 
+pinyin zāozāi-shòunàn
+characters 遭灾受难[-災-難]
+serial-number CedPane27236
+definition suffer disaster
+*** 
+pinyin zhānbǔshī
+characters 占卜师[--師]
+serial-number CedPane27237
+definition fortune-teller
+*** 
+pinyin zhànchēbīng
+characters 战车兵[戰車-]
+serial-number CedPane27238
+definition charioteer
+*** 
+pinyin zhàngpengcūn
+characters 帐篷村[帳--]
+serial-number CedPane27239
+definition tent village
+*** 
+pinyin zhǎngyòuzūnbēi
+characters 长幼尊卑[長---]
+serial-number CedPane27240
+definition small and great (in status etc)
+*** 
+pinyin Zhèngtán
+characters 证坛[證壇]
+serial-number CedPane27241
+definition Witness altar
+*** 
+pinyin zhèngzhízhě
+characters 正直者
+serial-number CedPane27242
+definition upright person
+*** 
+pinyin zhēyīnchù
+characters 遮荫处[-蔭處]
+serial-number CedPane27243
+definition shady place
+*** 
+pinyin zhíchōng
+characters 直冲[-衝]
+serial-number CedPane27244
+definition rush (against)
+*** 
+pinyin zhírùyúnxiāo
+characters 直入云霄
+serial-number CedPane27245
+definition in the sky; among the clouds
+*** 
+pinyin zhòng bu zhòngyào
+characters 重不重要
+serial-number CedPane27246
+definition important or not
+*** 
+pinyin zhuìshì
+characters 坠饰[墜飾]
+serial-number CedPane27247
+definition pendant
+*** 
+pinyin zuǐbiān
+characters 嘴边[-邊]
+serial-number CedPane27248
+definition mouth
+*** 
+pinyin zuìxìng
+characters 罪性
+serial-number CedPane27249
+definition sinful (nature)
