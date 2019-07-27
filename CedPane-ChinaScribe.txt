@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-07-26
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-07-27
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -654,7 +654,7 @@
 埃斯克里瓦諾 埃斯克里瓦诺 [Ai1 si1 ke4 li3 wa3 nuo4] /Escribano/
 埃斯庫德羅 埃斯库德罗 [Ai1 si1 ku4 de2 luo2] /Escudeiro/
 埃斯庫羅斯 埃斯库罗斯 [Ai1 si1 ku4 luo2 si1] /Aeschylus/
-埃斯奎利諾山 埃斯奎利诺山 [Ai1 si1 kui2 li4 nuo4_shan1] /Esquiline (hill)/
+埃斯奎利諾山 埃斯奎利诺山 [Ai1 si1 kui2 li4 nuo4_Shan1] /Esquiline (hill)/
 埃斯梅 埃斯梅 [Ai1 si1 mei2] /Esmer/
 埃斯梅拉爾多 埃斯梅拉尔多 [Ai1 si1 mei2 la1 er3 duo1] /Esmeraldo/
 埃斯梅拉達 埃斯梅拉达 [Ai1 si1 mei2 la1 da2] /Esmeralda/
@@ -717,7 +717,7 @@
 艾爾瑪 艾尔玛 [Ai4 er3 ma3] /Alma/
 艾爾默 艾尔默 [Ai4 er3 mo4] /Aylmer/
 艾爾斯 艾尔斯 [Ai4 er3 si1] /Ayers/
-艾爾斯山 艾尔斯山 [Ai4 er3 si1_shan1] /Ayers (mountain)/
+艾爾斯山 艾尔斯山 [Ai4 er3 si1_Shan1] /Ayers (mountain)/
 艾爾探 艾尔探 [Ai4 er3 tan4] /Eltham/
 艾爾文 艾尔文 [Ai4 er3 wen2] /Alvin/
 愛爾西 爱尔西 [Ai4 er3 xi1] /Elsie/
@@ -1182,7 +1182,8 @@
 奧羅斯科 奥罗斯科 [Ao4 luo2 si1 ke1] /Orosco/
 奧洛夫 奥洛夫 [Ao4 luo4 fu1] /Olof/
 奧洛莫語 奥洛莫语 [Ao4 luo4 mo4 yu3] /Oromo (language)/
-奧馬 奥马 [Ao4 ma3] /Omar/Omagh/
+奧馬 奥马 [Ao4 ma3] /Omagh/
+奧馬 奥马 [Ao4 ma3] /Omar/
 奧馬爾 奥马尔 [Ao4 ma3 er3] /Omar/
 奧馬吉 奥马吉 [Ao4 ma3 ji2] /Owmadji/
 奧梅特佩島 奥梅特佩岛 [Ao4 mei2 te4 pei4 dao3] /Ometepe (island)/
@@ -1323,7 +1324,8 @@
 巴東 巴东 [Ba1 dong1] /Padang/
 巴東縣 巴东县 [Ba1 dong1_Xian4] /Badong County/County, Badong/
 巴東族 巴东族 [Ba1 dong1 zu2] /Padaung (long necks, Myanmar outsiders' name for Kayan people)/
-巴頓 巴顿 [Ba1 dun4] /Padon/Barton/
+巴頓 巴顿 [Ba1 dun4] /Barton/
+巴頓 巴顿 [Ba1 dun4] /Padon/
 巴多羅買 巴多罗买 [Ba1 duo1 luo2 mai3] /Bartholomew/
 巴伐利亞 巴伐利亚 [Ba1 fa2 li4 ya4] /Bavaria/
 巴菲特 巴菲特 [Ba1 fei1 te4] /Buffet (surname)/
@@ -1376,7 +1378,8 @@
 巴拉特比珥 巴拉特比珥 [Ba1 la1 te4 bi3 er3] /Baalath-beer/
 巴萊拉 巴莱拉 [Ba1 lai2 la1] /Valera/
 巴萊斯特雷羅 巴莱斯特雷罗 [Ba1 lai2 si1 te4 lei2 luo2] /Ballestrero/
-巴蘭 巴兰 [Ba1 lan2] /Balaam/Baran/
+巴蘭 巴兰 [Ba1 lan2] /Balaam/
+巴蘭 巴兰 [Ba1 lan2] /Baran/
 巴蘭基亞 巴兰基亚 [Ba1 lan2 ji1 ya4] /Barranquilla/
 巴勒 巴勒 [Ba1 le4] /Balak/
 巴勒斯坦考察季刊 巴勒斯坦考察季刊 [Ba1 le4 si1 tan3_kao3 cha2_ji4 kan1] /Palestine Exploration Quarterly/Exploration Quarterly, Palestine/
@@ -1508,7 +1511,8 @@
 巴西利厄斯 巴西利厄斯 [Ba1 xi1 li4 e4 si1] /Basilius/
 巴西雅 巴西雅 [Ba1 xi1 ya3] /Baaseiah/
 巴西亞 巴西亚 [Ba1 xi1 ya4] /Paseah/
-巴洗律 巴洗律 [Ba1 xi3 lu:4] /Bazluth/Bazlith/
+巴洗律 巴洗律 [Ba1 xi3 lu:4] /Bazlith/
+巴洗律 巴洗律 [Ba1 xi3 lu:4] /Bazluth/
 巴亞特揚 巴亚特扬 [Ba1 ya4 te4 yang2] /Bayatyan/
 巴彥縣 巴彦县 [Ba1 yan4_Xian4] /Bayan (county, in Heilongjiang)/
 巴彥淖爾 巴彦淖尔 [Ba1 yan4 nao4 er3] /Bayannur (in Inner Mongolia)/
@@ -1569,7 +1573,8 @@
 百度 百度 [Bai3 du4] /Baidu (company)/
 百度地圖 百度地图 [Bai3 du4_Di4 tu2] /Baidu Maps/Maps, Baidu/
 百度網盤 百度网盘 [Bai3 du4_Wang3 pan2] /Baidu Web Drive (data-storage service)/Drive, Baidu Web (data-storage service)/
-百基拉 百基拉 [Bai3 ji1 la1] /Priscilla/Prisca/
+百基拉 百基拉 [Bai3 ji1 la1] /Prisca (old translation)/
+百基拉 百基拉 [Bai3 ji1 la1] /Priscilla (old translation)/
 百基拉和亞居拉 百基拉和亚居拉 [Bai3 ji1 la1_he2_Ya4 ju1 la1] /Priscilla and Aquila/Prisca and Aquila/Aquila, Priscilla and/
 柏克 柏克 [Bai3 ke4] /Peck (surname)/
 百慕達 百慕达 [Bai3 mu4 da2] /Bermuda/
@@ -1772,7 +1777,8 @@
 貝克斯菲爾德 贝克斯菲尔德 [Bei4 ke4 si1 fei1 er3 de2] /Bakersfield/
 貝克斯特倫 贝克斯特伦 [Bei4 ke4 si1 te4 lun2] /Bäckström/
 貝克特 贝克特 [Bei4 ke4 te4] /Becket/
-貝拉 贝拉 [Bei4 la1] /Bera/Beira/
+貝拉 贝拉 [Bei4 la1] /Beira/
+貝拉 贝拉 [Bei4 la1] /Bera/
 貝拉基 贝拉基 [Bei4 la1 ji1] /Pelagius/
 貝拉米 贝拉米 [Bei4 la1 mi3] /Bellamy/
 貝拉斯 贝拉斯 [Bei4 la1 si1] /Beras/
@@ -1858,7 +1864,8 @@
 比奧拉 比奥拉 [Bi3 ao4 la1] /Viola (given name, pinyin uncertain)/
 彼珥 彼珥 [Bi3 er3] /Beor/
 比爾 比尔 [Bi3 er3] /Bill/
-比珥 比珥 [Bi3 er3] /Beer/Beor/
+比珥 比珥 [Bi3 er3] /Beer/
+比珥 比珥 [Bi3 er3] /Beor/
 比爾罕 比尔罕 [Bi3 er3 han3] /Bilhan/
 彼爾姆 彼尔姆 [Bi3 er3 mu3] /Perm (place)/
 比爾圖斯 比尔图斯 [Bi3 er3 tu2 si1] /Virtus (Roman god)/
@@ -1906,7 +1913,7 @@
 比革他 比革他 [Bi3 ge2 ta1] /Bigtha/
 比革瓦伊 比革瓦伊 [Bi3 ge2 wa3 yi1] /Bigvai/
 比哈希錄 比哈希录 [Bi3 ha1 xi1 lu4] /Pihahiroth/
-比華利山 比华利山 [Bi3 hua2 li4_shan1] /Beverly Hills/Hills, Beverly/
+比華利山 比华利山 [Bi3 hua2 li4_Shan1] /Beverly Hills/Hills, Beverly/
 比基利 比基利 [Bi3 ji1 li4] /Bichri/
 比基利人 比基利人 [Bi3 ji1 li4 ren2] /Bichrites/
 比吉塔 比吉塔 [Bi3 ji2 ta3] /Birgitta/
@@ -1918,7 +1925,8 @@
 比克瑙 比克瑙 [Bi3 ke4 nao3] /Birkenau/
 比克托 比克托 [Bi3 ke4 tuo1] /Víctor/
 彼拉 彼拉 [Bi3 la1] /Beera/
-比拉 比拉 [Bi3 la1] /Bela/Beulah/
+比拉 比拉 [Bi3 la1] /Bela/
+比拉 比拉 [Bi3 la1] /Beulah/
 比拉頓 比拉顿 [Bi3 la1 dun4] /Pirathon/
 比拉頓人 比拉顿人 [Bi3 la1 dun4 ren2] /Pirathonite/
 彼拉多 彼拉多 [Bi3 la1 duo1] /Pilate/
@@ -1929,7 +1937,7 @@
 比拉人 比拉人 [Bi3 la1 ren2] /Belaites/
 比拉提 比拉提 [Bi3 la1 ti2] /Pelatiah/
 比拉辛 比拉辛 [Bi3 la1 xin1] /Perazim/
-比拉辛山 比拉辛山 [Bi3 la1 xin1_shan1] /Mount Perazim/Perazim, Mount/
+比拉辛山 比拉辛山 [Bi3 la1 xin1_Shan1] /Mount Perazim/Perazim, Mount/
 比拉雅 比拉雅 [Bi3 la1 ya3] /Beraiah/
 比蘭 比兰 [Bi3 lan2] /Piram/
 彼勒 彼勒 [Bi3 le4] /Bel/
@@ -1955,13 +1963,15 @@
 比留辛斯克 比留辛斯克 [Bi3 liu2 xin1 si1 ke4] /Biryusinsk/
 比隆 比隆 [Bi3 long2] /Piron (Dominique)/
 比錄 比录 [Bi3 lu4] /Beeroth/
-比路達 比路达 [Bi3 lu4 da2] /Peruda/Perida/
+比路達 比路达 [Bi3 lu4 da2] /Perida/
+比路達 比路达 [Bi3 lu4 da2] /Peruda/
 俾路支語 俾路支语 [Bi3 lu4 zhi1 yu3] /Baluchi (language)/
 比倫 比伦 [Bi3 lun2] /Pelon/
 比倫人 比伦人 [Bi3 lun2 ren2] /Pelonite/
 比羅比詹 比罗比詹 [Bi3 luo2 bi3 zhan1] /Birobidzhan/
 比羅達巴拉但 比罗达巴拉但 [Bi3 luo2 da2 ba1 la1 dan4] /Berodach-baladan/
-比羅特 比罗特 [Bi3 luo2 te4] /Berothai/Berothah/
+比羅特 比罗特 [Bi3 luo2 te4] /Berothah/
+比羅特 比罗特 [Bi3 luo2 te4] /Berothai/
 比洛克西 比洛克西 [Bi3 luo4 ke4 xi1] /Biloxi/
 比拿雅 比拿雅 [Bi3 na2 ya3] /Benaiah/
 比嫩 比嫩 [Bi3 nen4] /Pinon/
@@ -3051,7 +3061,7 @@
 大邑縣 大邑县 [Da4 yi4_Xian4] /Dayi (county, in Sichuan)/
 大英縣 大英县 [Da4 ying1_Xian4] /Daying (county, in Sichuan)/
 大余縣 大余县 [Da4 yu2_Xian4] /Dayu (county, in Jiangxi)/
-大嶼山 大屿山 [Da4 yu3_shan1] /Lantau (place in Hong Kong; lit. big island mountain)/
+大嶼山 大屿山 [Da4 yu3_Shan1] /Lantau (place in Hong Kong; lit. big island mountain)/
 大園區 大园区 [Da4 yuan2_Qu1] /Dayuan District (in Taoyuan)/District, Dayuan (in Taoyuan)/
 大齋期 大斋期 [Da4 zhai1 qi1] /Lent (fasting period held by some churches)/
 大竹縣 大竹县 [Da4 zhu2_Xian4] /Dazhu (county, in Sichuan)/
@@ -3256,7 +3266,7 @@
 德魯克 德鲁克 [De2 lu3 ke4] /Drucker/
 德魯蘇斯 德鲁苏斯 [De2 lu3 su1 si1] /Drusus/
 德魯伊特人 德鲁伊特人 [De2 lu3 yi1 te4 ren2] /Druids/
-德魯茲山 德鲁兹山 [De2 lu3 zi1_shan1] /Druz (mountain)/
+德魯茲山 德鲁兹山 [De2 lu3 zi1_Shan1] /Druz (mountain)/
 德倫 德伦 [De2 lun2] /Darren/
 德倫特省 德伦特省 [De2 lun2 te4 sheng3] /Drenthe/
 德羅伊特威奇 德罗伊特威奇 [De2 luo2 yi1 te4 wei1 qi2] /Droitwich/
@@ -3495,7 +3505,7 @@
 定遠縣 定远县 [Ding4 yuan3_Xian4] /Dingyuan (county, in Anhui)/
 定州 定州 [Ding4 zhou1] /Dingzhou (in Hebei)/
 定州市 定州市 [Ding4 zhou1_Shi4] /Dingzhou (in Hebei)/
-丟珥 丢珥 [Diu1 er3] /Deuel (also spelled Reuel)/
+丟珥 丢珥 [Diu1 er3] /Deuel/
 丟尼修 丢尼修 [Diu1 ni2 xiu1] /Dionysius/
 丟斯 丢斯 [Diu1 si1] /Zeus (old translation?)/
 東帝汶 东帝汶 [Dong1_Di4 wen4] /East Timor/Timor, East/
@@ -4854,7 +4864,7 @@
 古縣 古县 [Gu3_Xian4] /Gu County/County, Gu/
 谷太太 谷太太 [Gu3_tai4 tai5] /Mrs Gu/
 谷先生 谷先生 [Gu3_xian1 sheng5] /Mr Gu/
-古厄 古厄 [Gu3 e4] /Kue/
+古厄 古厄 [Gu3 e4] /Kue (alternate translation)/
 古爾 古尔 [Gu3 er3] /Ghor/
 古珥 古珥 [Gu3 er3] /Gur/
 古爾班古雷 古尔班古雷 [Gu3 er3 ban1 gu3 lei2] /Gurbanguly/
@@ -5369,7 +5379,7 @@
 含族 含族 [Han2 zu2] /Hamites/
 含族人 含族人 [Han2 zu2 ren2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-07-26/this is version 2019-07-26, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-07-27/this is version 2019-07-27, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
@@ -5431,7 +5441,7 @@
 和埃迪塔 和埃迪塔 [He2 ai1 di2 ta3] /Edyta/
 合恩角 合恩角 [He2 en1 jiao3] /Cape Horn/Horn, Cape/
 何珥 何珥 [He2 er3] /Hor/
-何珥山 何珥山 [He2 er3_shan1] /Hor (mountain)/
+何珥山 何珥山 [He2 er3_Shan1] /Hor (mountain)/
 何珥瑪 何珥玛 [He2 er3 ma3] /Hormah/
 何巴 何巴 [He2 ba1] /Hobab/
 河北區 河北区 [He2 bei3_Qu1] /Hebei District (in Tianjin)/District, Hebei (in Tianjin)/
@@ -5472,7 +5482,7 @@
 何連 何连 [He2 lian2] /Horem/
 何璉 何琏 [He2 lian3] /Horem (old translation)/
 何烈 何烈 [He2 lie4] /Horeb/
-何烈山 何烈山 [He2 lie4_shan1] /Horeb (mountain)/
+何烈山 何烈山 [He2 lie4_Shan1] /Horeb (mountain)/
 和林格爾 和林格尔 [He2 lin2 ge2 er3] /Horinger (a county in Inner Mongolia)/
 和林格爾縣 和林格尔县 [He2 lin2 ge2 er3_Xian4] /Horinger (county, in Inner Mongolia)/
 和龍 和龙 [He2 long2] /Helong (in Jilin)/
@@ -5629,7 +5639,7 @@
 黑勒 黑勒 [Hei1 lei1] /Helle (surname)/
 黑龍江省 黑龙江省 [Hei1 long2 jiang1 sheng3] /Heilongjiang province/province, Heilongjiang/
 黑門 黑门 [Hei1 men2] /Hermon/
-黑門山 黑门山 [Hei1 men2_shan1] /Hermon (mountain)/
+黑門山 黑门山 [Hei1 men2_Shan1] /Hermon (mountain)/
 黑尼 黑尼 [Hei1 ni2] /Heni/
 黑普 黑普 [Hei1 pu3] /Heep/
 黑色星期二 黑色星期二 [Hei1 se4_Xing1 qi1 er4] /Black Tuesday (1929)/Tuesday, Black (1929)/
@@ -6128,12 +6138,12 @@
 基利 基利 [Ji1 li4] /Killy/
 基立 基立 [Ji1 li4] /Cherith/
 基利波 基利波 [Ji1 li4 bo1] /Gilboa/
-基利波山 基利波山 [Ji1 li4 bo1_shan1] /Gilboa (mountain)/
+基利波山 基利波山 [Ji1 li4 bo1_Shan1] /Gilboa (mountain)/
 基利司布 基利司布 [Ji1 li4 si1 bu4] /Crispus/
 基利提 基利提 [Ji1 li4 ti2] /Chereth/
 基利提人 基利提人 [Ji1 li4 ti2 ren2] /Cherethites/
 基利心 基利心 [Ji1 li4 xin1] /Gerizim/
-基利心山 基利心山 [Ji1 li4 xin1_shan1] /Mount Gerizim/Gerizim, Mount/
+基利心山 基利心山 [Ji1 li4 xin1_Shan1] /Mount Gerizim/Gerizim, Mount/
 基利押 基利押 [Ji1 li4 ya1] /Chileab/
 基連 基连 [Ji1 lian2] /Chilion/
 基連哈樸 基连哈朴 [Ji1 lian2 ha1 pu3] /Keren-happuch/
@@ -6178,7 +6188,8 @@
 基尼 基尼 [Ji1 ni2] /Kain/
 基尼阿萬達語 基尼阿万达语 [Ji1 ni2 a1 wan4 da2 yu3] /Kinyarwanda (language)/
 基尼烈 基尼烈 [Ji1 ni2 lie4] /Chinnereth/
-基尼人 基尼人 [Ji1 ni2 ren2] /Kenite/Kain/
+基尼人 基尼人 [Ji1 ni2 ren2] /Kain/
+基尼人 基尼人 [Ji1 ni2 ren2] /Kenite/
 基尼洗 基尼洗 [Ji1 ni2 xi3] /Keniz(?)/
 基尼洗人 基尼洗人 [Ji1 ni2 xi3 ren2] /Kenizzite/
 基切人 基切人 [Ji1 qie4 ren2] /Quiche (people)/
@@ -6477,7 +6488,7 @@
 加們 加们 [Jia1 men5] /Kamon/
 迦米 迦米 [Jia1 mi3] /Garm/
 迦密 迦密 [Jia1 mi4] /Carmel/
-迦密山 迦密山 [Jia1 mi4_shan1] /Mount Carmel/Carmel, Mount/
+迦密山 迦密山 [Jia1 mi4_Shan1] /Mount Carmel/Carmel, Mount/
 迦密人 迦密人 [Jia1 mi4 ren2] /Carmelite/
 迦末 迦末 [Jia1 mo4] /Gamul/
 迦姆拉 迦姆拉 [Jia1 mu3 la1] /Gamla/
@@ -6567,6 +6578,7 @@
 甲薛 甲薛 [Jia3 xue1] /Kabzeel/
 尖草坪區 尖草坪区 [Jian1 cao3 ping2_Qu1] /Jiancaoping District/District, Jiancaoping/
 監利縣 监利县 [Jian1 li4_Xian4] /Jianli (county, in Hubei)/
+堅尼 坚尼 [Jian1 ni2] /Gini/
 堅諾 坚诺 [Jian1 nuo4] /Gino/
 尖沙咀 尖沙咀 [Jian1 sha1 ju3] /Tsim Sha Tsui/TST (market area in HK)/Tsui, Tsim Sha (market area in HK)/
 尖山區 尖山区 [Jian1 shan1_Qu1] /Jianshan District/District, Jianshan/
@@ -8680,7 +8692,7 @@
 林前 林前 [Lin2_Qian2] /1Co (abbreviation)/
 林委 林委 [Lin2_Wei3] /Forestry Commission (abbreviated)/Commission, Forestry (abbreviated)/
 臨縣 临县 [Lin2_Xian4] /Lin County/County, Lin/
-林宥嘉 林宥嘉 [Lin2_You4 jia1] /Yoga Lin (tw pop singer)/
+林宥嘉 林宥嘉 [Lin2_You4 jia1] /Yoga Lin (Taiwan pop singer)/
 林樂知 林乐知 [Lin2_Yue4 zhi1] /Young John Allen (1836-1907)/John Allen, Young (1836-1907)/
 林鄭月娥 林郑月娥 [Lin2_Zheng4_Yue4 e2] /Carrie Lam (Hong Kong leader)/
 林太太 林太太 [Lin2_tai4 tai5] /Mrs Lin/
@@ -10942,7 +10954,8 @@
 尼貝龍根之歌 尼贝龙根之歌 [Ni2 bei4 long2 gen1_Zhi1_Ge1] /Nibelungenlied (13th-century story inspiring Wagner's Ring)/
 尼波 尼波 [Ni2 bo1] /Nebo/
 尼波山 尼波山 [Ni2 bo1_Shan1] /Mount Nebo/Nebo, Mount/
-尼布甲尼撒 尼布甲尼撒 [Ni2 bu4 jia3 ni2 sa1] /Nebuchadnezzar/Nebuchadrezzar/
+尼布甲尼撒 尼布甲尼撒 [Ni2 bu4 jia3 ni2 sa1] /Nebuchadnezzar/
+尼布甲尼撒 尼布甲尼撒 [Ni2 bu4 jia3 ni2 sa1] /Nebuchadrezzar/
 尼布撒拉旦 尼布撒拉旦 [Ni2 bu4 sa1 la1 dan4] /Nebuzaradan/
 尼采 尼采 [Ni2 cai3] /Nietzsche/
 尼達姆 尼达姆 [Ni2 da2 mu3] /Needham/
@@ -11106,7 +11119,7 @@
 農神節 农神节 [Nong2 shen2_jie2] /Saturnalia/
 努埃爾語 努埃尔语 [Nu3 ai1 er3 yu3] /Nuer (language)/
 努埃拉 努埃拉 [Nu3 ai1 la1] /Manuela/
-努恩 努恩 [Nu3 en1] /Nun/
+努恩 努恩 [Nu3 en1] /Nun (Joshua's father)/
 努爾 努尔 [Nu3 er3] /Knoll (surname)/
 努爾蘭 努尔兰 [Nu3 er3 lan2] /Nurlan/
 努爾蘇丹 努尔苏丹 [Nu3 er3 su1 dan1] /Nursultan/
@@ -11255,7 +11268,7 @@
 帕克斯 帕克斯 [Pa4 ke4 si1] /Pax (Roman god)/
 帕克斯頓 帕克斯顿 [Pa4 ke4 si1 dun4] /Paxton/
 帕拉 帕拉 [Pa4 la1] /Palal/
-帕拉蒂諾山 帕拉蒂诺山 [Pa4 la1 di4 nuo4_shan1] /Palatine (mountain)/
+帕拉蒂諾山 帕拉蒂诺山 [Pa4 la1 di4 nuo4_Shan1] /Palatine (mountain)/
 帕拉赫 帕拉赫 [Pa4 la1 he4] /Parah/
 帕拉馬里博 帕拉马里博 [Pa4 la1 ma3 li3 bo2] /Paramaribo/
 帕拉馬塔 帕拉马塔 [Pa4 la1 ma3 ta3] /Parramatta/
@@ -11280,7 +11293,7 @@
 帕羅巴 帕罗巴 [Pa4 luo2 ba1] /Patrobas/
 帕洛 帕洛 [Pa4 luo4] /Palo/
 帕洛黑莫 帕洛黑莫 [Pa4 luo4 hei1 mo4] /Paloheimo/
-帕洛馬山 帕洛马山 [Pa4 luo4 ma3_shan1] /Mt Palomar/Palomar, Mt/
+帕洛馬山 帕洛马山 [Pa4 luo4 ma3_Shan1] /Mt Palomar/Palomar, Mt/
 帕梅 帕梅 [Pa4 mei2] /Pam/
 帕梅拉 帕梅拉 [Pa4 mei2 la1] /Pamela/
 帕姆 帕姆 [Pa4 mu3] /Pam/
@@ -11684,7 +11697,7 @@
 普通中等教育證書 普通中等教育证书 [Pu3 tong1_Zhong1 deng3_Jiao4 yu4_Zheng4 shu1] /GCSE/
 普圖伊 普图伊 [Pu3 tu2 yi1] /Ptuj/
 普陀區 普陀区 [Pu3 tuo2_Qu1] /Putuo District/District, Putuo/
-普陀山 普陀山 [Pu3 tuo2_shan1] /Mount Putuo/Putuo, Mount/
+普陀山 普陀山 [Pu3 tuo2_Shan1] /Mount Putuo/Putuo, Mount/
 普瓦 普瓦 [Pu3 wa3] /Puah (father of judge Tola)/
 普瓦捷 普瓦捷 [Pu3 wa3 jie2] /Poitiers/
 普韋布洛 普韦布洛 [Pu3 wei2 bu4 luo4] /Pueblo/
@@ -12836,7 +12849,7 @@
 聖誕頌歌 圣诞颂歌 [Sheng4 dan4_song4 ge1] /Christmas carol/carol, Christmas/
 聖誕歌 圣诞歌 [Sheng4 dan4 ge1] /Christmas carol/carol, Christmas/
 聖地牙哥 圣地牙哥 [Sheng4 di4 ya2 ge1] /San Diego (alternate translation)/Diego, San (alternate translation)/
-聖殿山 圣殿山 [Sheng4 dian4_shan1] /Temple Mount/Mount, Temple/
+聖殿山 圣殿山 [Sheng4 dian4_Shan1] /Temple Mount/Mount, Temple/
 聖迭戈 圣迭戈 [Sheng4 die2 ge1] /San Diego/Diego, San/
 聖多美 圣多美 [Sheng4 duo1 mei3] /São Tomé/Tomé, São/
 聖多明哥 圣多明哥 [Sheng4 duo1 ming2 ge1] /Santo Domingo (older translation)/Domingo, Santo (older translation)/
@@ -13010,7 +13023,8 @@
 使徒行傳 使徒行传 [Shi3 tu2 xing2 zhuan4] /Acts of Apostles/Apostles, Acts of/
 史瓦茲 史瓦兹 [Shi3 wa3 zi1] /Schwarz/Schwartz/
 始興縣 始兴县 [Shi3 xing4_Xian4] /Shixing (county, in Guangdong)/
-示安 示安 [Shi4 an1] /Sion/Shion/
+示安 示安 [Shi4 an1] /Shion/
+示安 示安 [Shi4 an1] /Sion/
 示巴 示巴 [Shi4 ba1] /Sheba/
 示巴女王 示巴女王 [Shi4 ba1_nu:3 wang2] /queen of Sheba/Sheba, queen of/
 市北區 市北区 [Shi4 bei3_Qu1] /Shibei District/District, Shibei/
@@ -13605,7 +13619,7 @@
 他貝拉 他贝拉 [Ta1 bei4 la1] /Taberah/
 他別 他别 [Ta1 bie2] /Tabeel (old translation)/
 他泊 他泊 [Ta1 bo2] /Tabor/
-他泊山 他泊山 [Ta1 bo2_shan1] /Tabor (mountain)/
+他泊山 他泊山 [Ta1 bo2_Shan1] /Tabor (mountain)/
 他哈 他哈 [Ta1 ha1] /Tahath/
 他罕 他罕 [Ta1 han3] /Tahan/
 他拉 他拉 [Ta1 la1] /Terah/
@@ -14641,7 +14655,7 @@
 維亞特卡 维亚特卡 [Wei2 ya4 te4 ka3] /Vyatka/
 維也納 维也纳 [Wei2 ye3 na4] /Vienna/
 維也納大學 维也纳大学 [Wei2 ye3 na4_Da4 xue2] /University of Vienna/Vienna, University of/
-維尤山 维尤山 [Wei2 you2_shan1] /Mountain View (place in California)/View, Mountain (place in California)/
+維尤山 维尤山 [Wei2 you2_Shan1] /Mountain View (place in California)/View, Mountain (place in California)/
 維珍 维珍 [Wei2 zhen1] /Virgin (company)/
 維茲 维兹 [Wei2 zi1] /Weitz/
 維族 维族 [Wei2 zu2] /Uyghur people (abbreviated form)/people, Uyghur (abbreviated form)/
@@ -15037,8 +15051,8 @@
 奚先生 奚先生 [Xi1_xian1 sheng5] /Mr Xi/
 錫安 锡安 [Xi1 an1] /Zion/
 西安區 西安区 [Xi1 an1_Qu1] /Xi'an District/District, Xi'an/
+錫安山 锡安山 [Xi1 an1_Shan1] /Mount Zion/Zion, Mount/
 西安市 西安市 [Xi1 an1_Shi4] /Xi'an (in Shaanxi)/
-錫安山 锡安山 [Xi1 an1_shan1] /Mount Zion/Zion, Mount/
 錫安城 锡安城 [Xi1 an1 cheng2] /Zion/
 希安熱 希安热 [Xi1 an1 re4] /Chiange/
 西奧多 西奥多 [Xi1 ao4 duo1] /Theodore/
@@ -15193,7 +15207,8 @@
 希克斯 希克斯 [Xi1 ke4 si1] /Hicks/
 西克斯坦 西克斯坦 [Xi1 ke4 si1 tan3] /Sixtine/
 西克斯圖斯 西克斯图斯 [Xi1 ke4 si1 tu2 si1] /Sixtus/
-希拉 希拉 [Xi1 la1] /Helah/Sheila/
+希拉 希拉 [Xi1 la1] /Helah/
+希拉 希拉 [Xi1 la1] /Sheila/
 息拉 息拉 [Xi1 la1] /Serah/
 悉拉 悉拉 [Xi1 la1] /Silla/
 昔拉 昔拉 [Xi1 la1] /Sela/
@@ -15227,7 +15242,8 @@
 西里西亞 西里西亚 [Xi1 li3 xi1 ya4] /Silesia/
 西里西亞語 西里西亚语 [Xi1 li3 xi1 ya4 yu3] /Silesian (language)/
 希利 希利 [Xi1 li4] /Haley/
-希立 希立 [Xi1 li4] /Heleb/Heled/
+希立 希立 [Xi1 li4] /Heleb/
+希立 希立 [Xi1 li4] /Heled/
 希莉 希莉 [Xi1 li4] /Brie (given name)/
 希利弗 希利弗 [Xi1 li4 fu2] /Heleph/
 希利蓋農語 希利盖农语 [Xi1 li4 gai4 nong2 yu3] /Hiligaynon (language)/
@@ -15349,7 +15365,7 @@
 錫塔誇羅 锡塔夸罗 [Xi1 ta3 kua1 luo2] /Zitácuaro/
 西坦 西坦 [Xi1 tan3] /Zetham/
 西探 西探 [Xi1 tan4] /Zethan/
-希特拉 希特拉 [Xi1 te4 le5] /Hitler (variant)/
+希特拉 希特拉 [Xi1 te4 le4] /Hitler (variant)/
 希特倫 希特伦 [Xi1 te4 lun2] /Hethlon/
 希瓦 希瓦 [Xi1 wa3] /Hiva/
 錫瓦 锡瓦 [Xi1 wa3] /Cibwa/
@@ -15380,7 +15396,8 @@
 西徐亞 西徐亚 [Xi1 xu2 ya4] /Scythia/
 西徐亞人 西徐亚人 [Xi1 xu2 ya4 ren2] /Scythians (people)/
 西學中源 西学中源 [Xi1 xue2_Zhong1_yuan2] /Western knowledge has Chinese origins (Ming|Qing-era belief)/knowledge has Chinese origins, Western (Ming|Qing-era belief)/
-西雅 西雅 [Xi1 ya3] /Siaha/Sia/
+西雅 西雅 [Xi1 ya3] /Sia/
+西雅 西雅 [Xi1 ya3] /Siaha/
 昔陽縣 昔阳县 [Xi1 yang2_Xian4] /Xiyang (county, in Shanxi)/
 錫耶納 锡耶纳 [Xi1 ye1 na4] /Siena (Italy)/
 希伊 希伊 [Xi1 yi1] /Sheehy/
@@ -15434,7 +15451,7 @@
 夏河縣 夏河县 [Xia4 he2_Xian4] /Xiahe (county, in Gansu)/
 下花園區 下花园区 [Xia4 hua1 yuan2_Qu1] /Xiahuayuan District/District, Xiahuayuan/
 夏甲 夏甲 [Xia4 jia3] /Hagar/
-夏甲人 夏甲人 [Xia4 jia3 ren2] /Hagrites/Hagarite/
+夏甲人 夏甲人 [Xia4 jia3 ren2] /Hagrites/
 夏津縣 夏津县 [Xia4 jin1_Xian4] /Xiajin County/County, Xiajin/
 夏拉達文 夏拉达文 [Xia4 la1 da2 wen2] /Sharada (written language)/
 夏樂蒂 夏乐蒂 [Xia4 le4 di4] /Charlotte/
@@ -15687,7 +15704,8 @@
 心利 心利 [Xin1 li4] /Zimri/
 新龍縣 新龙县 [Xin1 long2_Xian4] /Xinlong (county, in Sichuan)/
 新羅區 新罗区 [Xin1 luo2_Qu1] /Xinluo District/District, Xinluo/
-辛瑪 辛玛 [Xin1 ma3] /Zimmah/Zimmer/
+辛瑪 辛玛 [Xin1 ma3] /Zimmah/
+辛瑪 辛玛 [Xin1 ma3] /Zimmer/
 辛梅里安人 辛梅里安人 [Xin1 mei2 li3 an1 ren2] /Cimmerians/
 新密 新密 [Xin1 mi4] /Xinmi (in Henan)/
 新密市 新密市 [Xin1 mi4_Shi4] /Xinmi (in Henan)/
@@ -15892,7 +15910,6 @@
 押瑪王 押玛王 [Ya1 ma3 wang2] /king of Admah/Admah, king of/
 押納 押纳 [Ya1 na4] /Adna/
 押尼珥 押尼珥 [Ya1 ni2 er3] /Abner/
-押沙 押沙 [Ya1 sha1] /Achshaph/
 押沙 押沙 [Ya1 sha1] /Achshaph/
 押沙龍 押沙龙 [Ya1 sha1 long2] /Absalom/
 押煞 押煞 [Ya1 sha4] /Achshaph (old translation)/
@@ -16106,7 +16123,8 @@
 亞該亞 亚该亚 [Ya4 gai1 ya4] /Achaia/
 亞該亞人 亚该亚人 [Ya4 gai1 ya4 ren2] /person of Achaia/Achaia, person of/
 亞蓋沃 亚盖沃 [Ya4 gai4 wo4] /Jagiellonian/
-亞干 亚干 [Ya4 gan1] /Achan/Achar/
+亞干 亚干 [Ya4 gan1] /Achan/
+亞干 亚干 [Ya4 gan1] /Achar/
 亞割 亚割 [Ya4 ge1] /Achor/
 亞割谷 亚割谷 [Ya4 ge1_Gu3] /Valley of Achor/Achor, Valley of/
 亞革波 亚革波 [Ya4 ge2 bo1] /Achbor/
@@ -16148,7 +16166,7 @@
 亞拉崗 亚拉岗 [Ya4 la1 gang3] /Aragon/
 亞拉赫 亚拉赫 [Ya4 la1 he4] /Ulla/
 亞拉臘 亚拉腊 [Ya4 la1 la4] /Ararat/
-亞拉臘山 亚拉腊山 [Ya4 la1 la4_shan1] /mountains of Ararat/Ararat, mountains of/
+亞拉臘山 亚拉腊山 [Ya4 la1 la4_Shan1] /mountains of Ararat/Ararat, mountains of/
 亞拉米勒 亚拉米勒 [Ya4 la1 mi3 le4] /Allammelech/
 亞拉姆文 亚拉姆文 [Ya4 la1 mu3 wen2] /Aramaic (script)/
 亞拉斯耶爾維 亚拉斯耶尔维 [Ya4 la1 si1 ye1 er3 wei2] /Jalasjärvi/
@@ -16717,7 +16735,7 @@
 伊日 伊日 [Yi1 ri4] /Jiří/
 伊撒 伊撒 [Yi1 sa1] /Esa/
 依撒意亞 依撒意亚 [Yi1 sa1 yi4 ya4] /Isaiah (book, Catholic version)/
-伊薩山 伊萨山 [Yi1 sa4_shan1] /Isa (mountain)/
+伊薩山 伊萨山 [Yi1 sa4_Shan1] /Isa (mountain)/
 伊薩多 伊萨多 [Yi1 sa4 duo1] /Isadore/
 伊薩卡 伊萨卡 [Yi1 sa4 ka3] /Ithaca/
 伊薩克 伊萨克 [Yi1 sa4 ke4] /Isaac (not Bible)/
@@ -16832,7 +16850,7 @@
 以巴弗 以巴弗 [Yi3 ba1 fu2] /Epaphras/
 以巴弗提 以巴弗提 [Yi3 ba1 fu2 ti2] /Epaphroditus/
 以巴路 以巴路 [Yi3 ba1 lu4] /Ebal/
-以巴路山 以巴路山 [Yi3 ba1 lu4_shan1] /Mount Ebal/Ebal, Mount/
+以巴路山 以巴路山 [Yi3 ba1 lu4_Shan1] /Mount Ebal/Ebal, Mount/
 以彼古羅派 以彼古罗派 [Yi3 bi3 gu3 luo2 pai4] /Epicureans/
 以比雅撒 以比雅撒 [Yi3 bi3 ya3 sa1] /Ebiasaph/
 以比贊 以比赞 [Yi3 bi3 zan4] /Ibzan/
@@ -16852,7 +16870,8 @@
 以法蓮山區 以法莲山区 [Yi3 fa3 lian2_shan1 qu1] /mountainous region of Ephraim/region of Ephraim, mountainous/
 以法蓮門 以法莲门 [Yi3 fa3 lian2 men2] /Gate of Ephraim/Ephraim, Gate of/
 以法蓮人 以法莲人 [Yi3 fa3 lian2 ren2] /Ephraimite/
-以法他 以法他 [Yi3 fa3 ta1] /Ephrathah/Ephrath (place)/
+以法他 以法他 [Yi3 fa3 ta1] /Ephrath (place)/
+以法他 以法他 [Yi3 fa3 ta1] /Ephrathah/
 以法他人 以法他人 [Yi3 fa3 ta1 ren2] /person of Ephrathah/Ephrathah, person of/
 以斐 以斐 [Yi3 fei3] /Ephai/
 以弗 以弗 [Yi3 fu2] /Epher/
@@ -17410,7 +17429,7 @@
 約令 约令 [Yue1 ling4] /Jorim/
 約魯巴 约鲁巴 [Yue1 lu3 ba1] /Yoruba/
 約拿 约拿 [Yue1 na2] /Jonah (prophet)/
-約拿達 约拿达 [Yue1 na2 da2] /Jehonadab/Jonadab/
+約拿達 约拿达 [Yue1 na2 da2] /Jehonadab/
 約拿單 约拿单 [Yue1 na2 dan1] /Jonathan (Bible)/
 約拿書 约拿书 [Yue1 na2 shu1] /Jonah (Bible book)/
 約納 约纳 [Yue1 na4] /Jonah (book, Catholic version)/
@@ -17456,7 +17475,8 @@
 約雅立 约雅立 [Yue1 ya3 li4] /Joiarib/
 約亞 约亚 [Yue1 ya4] /Joah/
 約亞拿 约亚拿 [Yue1 ya4 na2] /Joanna (Bible)/
-約耶但 约耶但 [Yue1 ye1 dan4] /Jehoaddin/Jehoaddan/
+約耶但 约耶但 [Yue1 ye1 dan4] /Jehoaddan/
+約耶但 约耶但 [Yue1 ye1 dan4] /Jehoaddin/
 約葉 约叶 [Yue1 ye4] /Joed/
 岳士崗 岳士岗 [Yue4_Shi4 gang3] /Shigang Yue (computer scientist)/
 岳太太 岳太太 [Yue4_tai4 tai5] /Mrs Yue/
@@ -17766,7 +17786,7 @@
 中華人民共和國文化和旅游部 中华人民共和国文化和旅游部 [Zhong1 hua2_Ren2 min2_Gong4 he2 guo2_Wen2 hua4_He2_Lu:3 you2_Bu4] /Ministry of Culture and Tourism of the PRC (2018)/Culture and Tourism of the PRC, Ministry of (2018)/
 中華人民共和國刑事訴訟法 中华人民共和国刑事诉讼法 [Zhong1 hua2_Ren2 min2_Gong4 he2 guo2_Xing2 shi4_Su4 song4 fa3] /Criminal Procedure Law of the People's Republic of China/Procedure Law of the People's Republic of China, Criminal/
 中江縣 中江县 [Zhong1 jiang1_Xian4] /Zhongjiang (county, in Sichuan)/
-中科迪勒拉山 中科迪勒拉山 [Zhong1 ke1 di2 le4 la1_shan1] /Cordillera Central/Central, Cordillera/
+中科迪勒拉山 中科迪勒拉山 [Zhong1 ke1 di2 le4 la1_Shan1] /Cordillera Central/Central, Cordillera/
 中壢區 中坜区 [Zhong1 li4_Qu1] /Zhongli District (in Taoyuan)/District, Zhongli (in Taoyuan)/
 鐘樓區 钟楼区 [Zhong1 lou2_Qu1] /Zhonglou District/District, Zhonglou/
 中門 中门 [Zhong1 men2] /Middle Gate/Gate, Middle/
@@ -22212,7 +22232,7 @@
 麥稈 麦秆 [mai4 gan3] /straw/
 麥莖 麦茎 [mai4 jing1] /wheat stalk/stalk, wheat/
 賣來 卖来 [mai4 lai5] /sold (to come) here/here, sold/
-賣弄學問 卖弄学问 [mai4 nong5_xue2 wen5] /pedantry/pedantic (∼的|地; lit. show-off learning)/
+賣弄學問 卖弄学问 [mai4 nong5_xue2 wen5] /pedantry/pedantic (lit. show-off learning)/
 賣騷 卖骚 [mai4 sao1] /vain and proud (of beauty-conscious woman)/proud, vain and (of beauty-conscious woman)/
 賣身為奴 卖身为奴 [mai4 shen1_wei2_nu2] /sell oneself into slavery/oneself into slavery, sell/
 蠻感興趣 蛮感兴趣 [man2_gan3_xing4 qu4] /quite interested/interested, quite/
@@ -22431,7 +22451,7 @@
 末世學 末世学 [mo4 shi4 xue2] /eschatology/
 墨守成規者 墨守成规者 [mo4 shou3_cheng2 gui1 zhe3] /jobsworth/
 莫屬 莫属 [mo4 shu3] /there's nothing (else) in the category (?)/nothing in the category, there's/
-沒藥山 没药山 [mo4 yao4_shan1] /mountain of myrrh/myrrh, mountain of/
+沒藥山 没药山 [mo4 yao4_Shan1] /mountain of myrrh/myrrh, mountain of/
 沒藥油 没药油 [mo4 yao4 you2] /oil of myrrh/myrrh, oil of/
 没药汁 沒藥汁 [mo4 yao4 zhi1] /liquid myrrh/myrrh, liquid/
 莫澤雷勒 莫泽雷勒 [mo4 ze2 lei2 le4] /mozzarella (cheese)/
@@ -24129,7 +24149,7 @@
 塔利塔 塔利塔 [ta3 li4 ta3] /talitha/
 塔連德 塔连德 [ta3 lian2 de2] /talents/
 塔廟 塔庙 [ta3 miao4] /ziggurat(s)/
-塔烏 塔乌 [ta3 wu1] /Taw/Tav (Hebrew letter)/
+塔烏 塔乌 [ta3 wu1] /taw/
 踏干 踏乾 [ta4 gan1] /step dry (dry something by stepping on it)/
 踏進 踏进 [ta4 jin4] /step into (a place)/
 踏入 踏入 [ta4 ru4] /turn (a certain age)/
