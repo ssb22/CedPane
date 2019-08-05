@@ -72211,7 +72211,7 @@ definition Matt (name)
 pinyin Mǐgāo
 characters 米高
 serial-number CedPane14508
-definition Michael (modern name, alternate translation)
+definition Michael (modern name, alternate translation); metres tall
 *** 
 pinyin Mòlìnà
 characters 莫利纳[--納]
@@ -122347,7 +122347,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-08-01
+definition CedPane: this is version 2019-08-05
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -134858,3 +134858,305 @@ pinyin zuòwèiqū
 characters 座位区[--區]
 serial-number CedPane27331
 definition seating area; section
+*** 
+pinyin Fǎbǐyànuò
+characters 法比亚诺[--亞諾]
+serial-number CedPane27332
+definition Fabiano
+*** 
+pinyin Guójì Qílián
+characters 国际棋联[國際-聯]
+serial-number CedPane27333
+definition FIDE (Chess organisation, abbreviated form)
+*** 
+pinyin guóxiàng
+characters 国象[國-]
+serial-number CedPane27334
+definition chess (international, abbreviated form)
+*** 
+pinyin Guóxiàng Liánméng
+characters 国象联盟[國-聯-]
+serial-number CedPane27335
+definition Chess Alliance (PRC online platform 2015)
+*** 
+pinyin kāijú bǎikē
+characters 开局百科[開---]
+serial-number CedPane27336
+definition opening encyclopaedia (Chess etc)
+*** 
+pinyin Kǎlǔ'ānà
+characters 卡鲁阿纳[-魯-納]
+serial-number CedPane27337
+definition Caruana
+*** 
+pinyin míngjú
+characters 名局
+serial-number CedPane27338
+definition famous game (Chess etc)
+*** 
+pinyin shìguànsài
+characters 世冠赛[--賽]
+serial-number CedPane27339
+definition world championship (abbreviated)
+*** 
+pinyin shìjiè guànjūnsài
+characters 世界冠军赛[---軍賽]
+serial-number CedPane27340
+definition world championship
+*** 
+pinyin xùnliàntí
+characters 训练题[訓練題]
+serial-number CedPane27341
+definition training puzzle/problem
+*** 
+pinyin ānlì
+characters 安利
+serial-number CedPane27342
+environment   netspeak
+definition strongly recommend (like an Amway salesperson)
+*** 
+pinyin Ānlì
+characters 安利
+serial-number CedPane27343
+definition Amway (American sales company)
+*** 
+pinyin bǎojiànpǐn
+characters 保健品
+serial-number CedPane27344
+definition dietary supplement; vitamin pill
+*** 
+pinyin biāndìng
+characters 编定[編-]
+serial-number CedPane27345
+definition compile (a work)
+*** 
+pinyin bù guòdù
+characters 不过度[-過-]
+serial-number CedPane27346
+definition not overdo
+*** 
+pinyin bù guòdù yōulǜ
+characters 不过度忧虑[-過-憂慮]
+serial-number CedPane27347
+definition not overly concerned
+*** 
+pinyin Chángchūnténg Liánméng
+characters 常春藤联盟[---聯-]
+serial-number CedPane27348
+definition Ivy League
+*** 
+pinyin Chángchūnténg Méngxiào
+characters 常春藤盟校
+serial-number CedPane27349
+definition Ivy League
+*** 
+pinyin Chángqīngténg
+characters 常青藤
+serial-number CedPane27350
+definition Ivy League
+*** 
+pinyin dānzhě
+characters 单褶[單-]
+serial-number CedPane27351
+definition pleated (trousers style)
+*** 
+pinyin Déguó lángquǎn
+characters 德国狼犬[-國--]
+serial-number CedPane27352
+definition Alsatian
+*** 
+pinyin duǎnmáolièquǎn
+characters 短毛猎犬[--獵-]
+serial-number CedPane27353
+definition pinscher (lit. short-haired hunting dog)
+*** 
+pinyin huò cì
+characters 获赐[獲賜]
+serial-number CedPane27354
+definition get given (as a gift)
+*** 
+pinyin hùwèiyuán
+characters 护卫员[護衛員]
+serial-number CedPane27355
+definition guard personnel
+*** 
+pinyin jiān bōli
+characters 尖玻璃
+serial-number CedPane27356
+definition jagged glass (security measure)
+*** 
+pinyin Jiǎnìng
+characters 贾宁[賈寧]
+serial-number CedPane27357
+definition Janeen
+*** 
+pinyin jīběnkuǎn
+characters 基本款
+serial-number CedPane27358
+definition basic style (of clothing)
+*** 
+pinyin jìn jǐ nián
+characters 近几年[-幾-]
+serial-number CedPane27359
+definition recent few years
+*** 
+pinyin kòusuǒ
+characters 扣锁[-鎖]
+serial-number CedPane27360
+definition padlock
+*** 
+pinyin Luótèwéi'ěr
+characters 罗特韦尔[羅-韋爾]
+serial-number CedPane27361
+definition Rottweiler (dog type)
+*** 
+pinyin méngxiào
+characters 盟校
+serial-number CedPane27362
+definition alliance of schools/universities
+*** 
+pinyin miǎnzhì
+characters 免致
+serial-number CedPane27363
+definition avoid resulting in
+*** 
+pinyin mùmén
+characters 木门[-門]
+serial-number CedPane27364
+definition wooden door
+*** 
+pinyin niútóu'áo
+characters 牛头獒[-頭-]
+serial-number CedPane27365
+definition bullmastiff (dog type)
+*** 
+pinyin qiángqiáng
+characters 强强[強強]
+serial-number CedPane27366
+definition strongly
+*** 
+pinyin qiángqiáng liánshǒu
+characters 强强联手[強強聯-]
+serial-number CedPane27367
+definition cooperate (to achieve something)
+*** 
+pinyin qiángtóudīng
+characters 墙头钉[牆頭釘]
+serial-number CedPane27368
+definition walltop spikes (security measure)
+*** 
+pinyin Qīngshuǐ Duànyá
+characters 清水断崖[--斷-]
+serial-number CedPane27369
+definition Qingshui Cliffs
+*** 
+pinyin qiūkù
+characters 秋裤[-褲]
+serial-number CedPane27370
+definition long thermal underwear; tracksuit trousers
+*** 
+pinyin Qīxīngtán
+characters 七星潭
+serial-number CedPane27371
+definition Qixingtan (beach on Taiwan's east coast)
+*** 
+pinyin Shànmóshī
+characters 膳魔师[--師]
+serial-number CedPane27372
+definition Thermos (brand)
+*** 
+pinyin Tàilǔgé
+characters 太鲁格[-魯-]
+serial-number CedPane27373
+definition Taroko
+*** 
+pinyin wùlǐxué bóshì
+characters 物理学博士[--學--]
+serial-number CedPane27374
+definition physics PhD
+*** 
+pinyin wúzhě
+characters 无褶[無-]
+serial-number CedPane27375
+definition flat-front (trousers style)
+*** 
+pinyin xīnshēngyíng
+characters 新生营[--營]
+serial-number CedPane27376
+definition new students' camp; orientation camp (run by student clubs etc)
+*** 
+pinyin Yànzǐkǒu
+characters 燕子口
+serial-number CedPane27377
+definition Yenzikou (in Taroko)
+*** 
+pinyin Yíhé jiǎngxuéjīn
+characters 怡和奖学金[--獎學-]
+serial-number CedPane27378
+definition Jardine scholarship
+*** 
+pinyin Yīkēyī
+characters 伊科伊
+serial-number CedPane27379
+definition Ikoyi
+*** 
+pinyin yǒushēngshū
+characters 有声书[-聲書]
+serial-number CedPane27380
+definition audiobook
+*** 
+pinyin biànbù quánqiú
+characters 遍布全球
+serial-number CedPane27381
+definition throughout the world; located across the globe
+*** 
+pinyin dǐngjí
+characters 顶级[頂級]
+serial-number CedPane27382
+environment   comp.
+definition top-level
+*** 
+pinyin fǎlǜ shítǐ
+characters 法律实体[--實體]
+serial-number CedPane27383
+definition legal entity
+*** 
+pinyin fúwùshāng
+characters 服务商[-務-]
+serial-number CedPane27384
+definition service business
+*** 
+pinyin gāowēi
+characters 高危
+serial-number CedPane27385
+definition highly dangerous
+*** 
+pinyin tōngyòng dǐngjí yùmíng
+characters 通用顶级域名[--頂級--]
+serial-number CedPane27386
+environment   comp.
+definition generic top-level domain; gTLD
+*** 
+pinyin yùmíng zhùcèrén
+characters 域名注册人[---冊-]
+serial-number CedPane27387
+environment   comp.
+definition domain registrant
+*** 
+pinyin zhùcè fúwùshāng
+characters 注册服务商[-冊-務-]
+serial-number CedPane27388
+environment   comp.
+definition registrar
+*** 
+pinyin zhùcèrén
+characters 注册人[-冊-]
+serial-number CedPane27389
+environment   comp.
+definition registrant (of domain etc)
+*** 
+pinyin zǐyùmíng
+characters 子域名
+serial-number CedPane27390
+environment   comp.
+definition subdomain
