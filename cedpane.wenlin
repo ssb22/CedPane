@@ -122347,7 +122347,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-08-05
+definition CedPane: this is version 2019-08-06
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -134882,7 +134882,7 @@ definition Chess Alliance (PRC online platform 2015)
 pinyin kāijú bǎikē
 characters 开局百科[開---]
 serial-number CedPane27336
-definition opening encyclopaedia (Chess etc)
+definition openings encyclopaedia (Chess etc)
 *** 
 pinyin Kǎlǔ'ānà
 characters 卡鲁阿纳[-魯-納]
@@ -135160,3 +135160,143 @@ characters 子域名
 serial-number CedPane27390
 environment   comp.
 definition subdomain
+*** 
+pinyin bái míngdān
+characters 白名单[--單]
+serial-number CedPane27391
+definition whitelist
+*** 
+pinyin báisè qīngdān
+characters 白色清单[---單]
+serial-number CedPane27392
+definition whitelist
+*** 
+pinyin chóngqǐ
+characters 重启[-啟]
+serial-number CedPane27393
+definition resume
+*** 
+pinyin Dàoqióngsī
+characters 道琼斯[-瓊-]
+serial-number CedPane27394
+definition Dow Jones
+*** 
+pinyin Èryuèdǐ
+characters 二月底
+serial-number CedPane27395
+definition end of February
+*** 
+pinyin Fù Tái Gèrén Yóu
+characters 赴台个人游[--個--]
+serial-number CedPane27396
+definition Individual Taiwan Travel (pilot scheme for 47 PRC cities 2011-2019)
+*** 
+pinyin gǔjià zhǐshù
+characters 股价指数[-價-數]
+serial-number CedPane27397
+definition stock index
+*** 
+pinyin Jiǔyuèdǐ
+characters 九月底
+serial-number CedPane27398
+definition end of September
+*** 
+pinyin Kěndīng
+characters 垦丁[墾-]
+serial-number CedPane27399
+definition Kenting (in Taiwan)
+*** 
+pinyin Láitèxīzé
+characters 莱特希泽[萊--澤]
+serial-number CedPane27400
+definition Lighthizer
+*** 
+pinyin Liú Hè
+characters 刘鹤[劉鶴]
+serial-number CedPane27401
+definition Liu He (PRC vice premier 2018)
+*** 
+pinyin Liùyuèdǐ
+characters 六月底
+serial-number CedPane27402
+definition end of June
+*** 
+pinyin mànyán zhì
+characters 蔓延至
+serial-number CedPane27403
+definition spread to
+*** 
+pinyin màoyì tánpàn
+characters 贸易谈判[貿-談-]
+serial-number CedPane27404
+definition trade negotiations
+*** 
+pinyin qīngshāngzhě
+characters 轻伤者[輕傷-]
+serial-number CedPane27405
+definition person with minor injuries (in a disaster)
+*** 
+pinyin Qīyuèdǐ
+characters 七月底
+serial-number CedPane27406
+definition end of July
+*** 
+pinyin Sānyuèdǐ
+characters 三月底
+serial-number CedPane27407
+definition end of March
+*** 
+pinyin Shí'èryuèdǐ
+characters 十二月底
+serial-number CedPane27408
+definition end of December
+*** 
+pinyin Shíyīyuèdǐ
+characters 十一月底
+serial-number CedPane27409
+definition end of November
+*** 
+pinyin Shíyuèdǐ
+characters 十月底
+serial-number CedPane27410
+definition end of October
+*** 
+pinyin Sìyuèdǐ
+characters 四月底
+serial-number CedPane27411
+definition end of April
+*** 
+pinyin tuántǐ qiānzhèng
+characters 团体签证[團體簽證]
+serial-number CedPane27412
+definition group travel permit/visa
+*** 
+pinyin Wén Zàiyín
+characters 文在寅
+serial-number CedPane27413
+definition Moon Jae-in (S.Korea president)
+*** 
+pinyin Wǔyuèdǐ
+characters 五月底
+serial-number CedPane27414
+definition end of May
+*** 
+pinyin Yàxì'ān
+characters 亚细安[亞細-]
+serial-number CedPane27415
+definition ASEAN
+*** 
+pinyin Yīyuèdǐ
+characters 一月底
+serial-number CedPane27416
+definition end of January
+*** 
+pinyin zhòudiē
+characters 骤跌[驟-]
+serial-number CedPane27417
+definition fall sharply (of stocks and shares etc)
+*** 
+pinyin Bāyuèdǐ
+characters 八月底
+serial-number CedPane27418
+definition end of August
