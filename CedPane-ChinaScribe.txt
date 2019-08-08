@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-08-07
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-08-08
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -5396,7 +5396,7 @@
 含族 含族 [Han2 zu2] /Hamites/
 含族人 含族人 [Han2 zu2 ren2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-08-07/this is version 2019-08-07, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-08-08/this is version 2019-08-08, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
@@ -12085,6 +12085,7 @@
 讓娜 让娜 [Rang4 na4] /Jeanne/
 饒河縣 饶河县 [Rao2 he2_Xian4] /Raohe (county, in Heilongjiang)/
 饒列 饶列 [Rao2 lie4] /Raleigh (older translation)/
+饒平 饶平 [Rao2 ping2] /Raoping (county in E.Guangdong)/
 饒平縣 饶平县 [Rao2 ping2_Xian4] /Raoping (county, in Guangdong)/
 饒陽縣 饶阳县 [Rao2 yang2_Xian4] /Raoyang (county, in Hebei)/
 熱爾曼 热尔曼 [Re4 er3 man4] /Germain/
@@ -13435,6 +13436,8 @@
 四平市 四平市 [Si4 ping2_Shi4] /Siping (in Jilin)/
 泗水 泗水 [Si4 shui3] /Surabaya/
 泗水縣 泗水县 [Si4 shui3_Xian4] /Sishui County/County, Sishui/
+四縣 四县 [Si4 xian4] /Sixian dialect (of Hakka in Taiwan)/dialect, Sixian (of Hakka in Taiwan)/
+四縣話 四县话 [Si4 xian4 hua4] /Sixian dialect (of Hakka in Taiwan)/dialect, Sixian (of Hakka in Taiwan)/
 泗陽縣 泗阳县 [Si4 yang2_Xian4] /Siyang (county, in Jiangsu)/
 四月底 四月底 [Si4 yue4 di3] /end of April/April, end of/
 四月份 四月份 [Si4 yue4 fen4] /April (month)/
@@ -17731,6 +17734,7 @@
 趙彥春 赵彦春 [Zhao4_Yan4 chun1] /Zhao Yanchun (translator)/Yanchun, Zhao (translator)/
 趙太太 赵太太 [Zhao4_tai4 tai5] /Mrs Zhao/Zhao, Mrs/
 趙先生 赵先生 [Zhao4_xian1 sheng5] /Mr Zhao/Zhao, Mr/
+詔安 诏安 [Zhao4 an1] /Zhao'an (county in Fujian)/
 詔安縣 诏安县 [Zhao4 an1_Xian4] /Zhao'an (county, in Fujian)/
 肇東 肇东 [Zhao4 dong1] /Zhaodong (in Heilongjiang)/
 肇東市 肇东市 [Zhao4 dong1_Shi4] /Zhaodong (in Heilongjiang)/

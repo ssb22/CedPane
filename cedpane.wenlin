@@ -122347,7 +122347,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-08-07
+definition CedPane: this is version 2019-08-08
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -135385,3 +135385,23 @@ pinyin Yīnàjué
 characters 依纳爵[-納-]
 serial-number CedPane27436
 definition Ignatius
+*** 
+pinyin Ráopíng
+characters 饶平[饒-]
+serial-number CedPane27437
+definition Raoping (county in E.Guangdong)
+*** 
+pinyin Sìxiàn
+characters 四县[-縣]
+serial-number CedPane27438
+definition Sixian dialect (of Hakka in Taiwan)
+*** 
+pinyin Sìxiànhuà
+characters 四县话[-縣話]
+serial-number CedPane27439
+definition Sixian dialect (of Hakka in Taiwan)
+*** 
+pinyin Zhào'ān
+characters 诏安[詔-]
+serial-number CedPane27440
+definition Zhao'an (county in Fujian)
