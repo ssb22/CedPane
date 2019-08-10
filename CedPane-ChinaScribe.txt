@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-08-08
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-08-10
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -5396,7 +5396,7 @@
 含族 含族 [Han2 zu2] /Hamites/
 含族人 含族人 [Han2 zu2 ren2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-08-08/this is version 2019-08-08, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-08-10/this is version 2019-08-10, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
@@ -9270,6 +9270,7 @@
 羅曼努斯 罗曼努斯 [Luo2 man4 nu3 si1] /Romanus/
 羅曼什語 罗曼什语 [Luo2 man4 shi2 yu3] /Romansh/
 羅幔提以謝 罗幔提以谢 [Luo2 man4 ti2 yi3 xie4] /Romamti-ezer/
+羅蒙諾索夫 罗蒙诺索夫 [Luo2 meng2 nuo4 suo3 fu1] /Lomonosov/
 羅密歐 罗密欧 [Luo2 mi4 ou1] /Romeo/
 羅密歐和朱麗葉 罗密欧和朱丽叶 [Luo2 mi4 ou1_he2_Zhu1 li4 ye4] /Romeo and Juliet/Juliet, Romeo and/
 羅摩 罗摩 [Luo2 mo2] /Rama (Hindu god)/
@@ -13351,6 +13352,7 @@
 斯坦尼斯瓦夫 斯坦尼斯瓦夫 [Si1 tan3 ni2 si1 wa3 fu1] /Stanisław/
 斯坦森 斯坦森 [Si1 tan3 sen1] /Statham/
 斯坦斯特德 斯坦斯特德 [Si1 tan3 si1 te4 de2] /Stansted/
+斯坦威 斯坦威 [Si1 tan3 wei1] /Steinway/
 斯湯頓 斯汤顿 [Si1 tang1 dun4] /Staunton/
 斯湯頓市 斯汤顿市 [Si1 tang1 dun4_Shi4] /Staunton (city)/
 斯陶丁格 斯陶丁格 [Si1 tao2 ding1 ge2] /Staudinger/
@@ -18144,6 +18146,7 @@
 凹斑 凹斑 [ao1 ban1] /depression (in house wall)/
 八年抗戰 八年抗战 [ba1_nian2_kang4 zhan4] /eight-year war of resistance (1937-1945, term used by textbooks before 2017)/resistance, eight-year war of (1937-1945, term used by textbooks before 2017)/
 巴卡樹 巴卡树 [ba1 ka3_shu4] /baca (plant)/
+巴拉萊卡琴 巴拉莱卡琴 [ba1 la1 lai2 ka3 qin2] /balalaika (Russian lute)/
 八零后 八零后 [ba1 ling2 hou4] /post-80s/post-1980s (generation)/
 八十後 八十后 [ba1 shi2_hou4] /post-80s/post-1980s (generation)/
 巴適 巴适 [ba1 shi4] /fits (lit. clings appropriately)/
@@ -20414,6 +20417,7 @@
 公主病 公主病 [gong1 zhu3_bing4] /"princess syndrome" (of girl, derogatory)/syndrome", "princess (of girl, derogatory)/
 工作的地方 工作的地方 [gong1 zuo4_de5_di4 fang5] /place of employment/workplace/employment, place of/
 工作崗位 工作岗位 [gong1 zuo4_gang3 wei4] /job post/assignment/post, job/
+工作清單 工作清单 [gong1 zuo4_qing1 dan1] /to-do list/list, to-do/
 工作任務 工作任务 [gong1 zuo4_ren4 wu5] /work assignment/assignment, work/
 工作間 工作间 [gong1 zuo4 jian1] /workshop/workstation (in open-plan office etc)/
 汞含量 汞含量 [gong3_han2 liang4] /mercury content/content, mercury/
@@ -21275,6 +21279,7 @@
 檢索工具 检索工具 [jian3 suo3_gong1 ju4] /research tool/tool, research/
 檢索結果 检索结果 [jian3 suo3_jie2 guo3] /search results/results, search/
 檢索區 检索区 [jian3 suo3 qu1] /catalogue search area (in library)/search area, catalogue (in library)/
+見一面 见一面 [jian4_yi5_mian4] /meet up/
 劍把 剑把 [jian4 ba4] /sword handle/handle, sword/
 鑒辨 鉴辨 [jian4 bian4] /make out (??)/
 鑑定 鑑定 [jian4 ding4] /determine/identify/fix/
@@ -22351,6 +22356,7 @@
 買菜 买菜 [mai3_cai4] /buy food (for cooking)/food, buy (for cooking)/
 買盡 买尽 [mai3 jin4] /buy out/
 買賣聖職 买卖圣职 [mai3 mai4_sheng4 zhi2] /simony (lit. buying|selling religious post)/
+邁出一大步 迈出一大步 [mai4 chu1_yi1_da4_bu4] /take a big step (fig.|lit.)/step, take a big (fig.|lit.)/
 賣到 卖到 [mai4 dao4] /sell into (a place)/
 麥稈 麦秆 [mai4 gan3] /straw/
 麥莖 麦茎 [mai4 jing1] /wheat stalk/stalk, wheat/
@@ -23486,7 +23492,9 @@
 三觀 三观 [san1 guan1] /three views (world, values, philosophy)/views, three (world, values, philosophy)/
 三合一 三合一 [san1 he2 yi1] /triad/three-in-one/
 三胡 三胡 [san1 hu2] /sanhu (3-stringed erhu)/
+三角鋼琴 三角钢琴 [san1 jiao3_gang1 qin2] /grand piano/piano, grand/
 三角架 三角架 [san1 jiao3 jia4] /tripod (for camera etc)/
+三角琴 三角琴 [san1 jiao3 qin2] /grand piano/piano, grand/
 三明治果醬 三明治果酱 [san1 ming2 zhi4_guo3 jiang4] /sandwich spread/spread, sandwich/
 三千煩惱絲 三千烦恼丝 [san1 qian1_fan2 nao3 si1] /troublesome hair/threads of worry/hair, troublesome/worry, threads of/
 三手煙 三手烟 [san1 shou3 yan1] /thirdhand cigarette smoke/cigarette smoke, thirdhand/
@@ -26963,6 +26971,7 @@
 最高行政法院 最高行政法院 [zui4 gao1_xing2 zheng4_fa3 yuan4] /highest administrative court/Council of State/administrative court, highest/State, Council of/
 最好不過 最好不过 [zui4 hao3_bu5 guo4] /the very best/very best, the/
 最好的朋友 最好的朋友 [zui4 hao3_de5_peng2 you5] /best friends/friends, best/
+最後陳述 最后陈述 [zui4 hou4_chen2 shu4] /last statement (of defense etc, in Russian court)/statement, last (of defense etc, in Russian court)/
 最後的日子 最后的日子 [zui4 hou4_de5_ri4 zi5] /last days/days, last/
 最後的審判 最后的审判 [zui4 hou4_de5_shen3 pan4] /The Last Judgement/Last Judgement, The/
 最后的晚餐 最后的晚餐 [zui4 hou4_de5_wan3 can1] /Last Supper/Supper, Last/
@@ -26981,6 +26990,7 @@
 罪中之樂 罪中之乐 [zui4 zhong1 zhi1 le4] /enjoyment of sin/
 尊大 尊大 [zun1 da4] /great respect (?)/respect, great (?)/
 尊貴人 尊贵人 [zun1 gui4 ren2] /nobles (of people etc)/
+尊敬的法官大人 尊敬的法官大人 [zun1 jing4_de5_Fa3 guan1_Da4 ren2] /Your Honour (address to judge in court)/Honour, Your (address to judge in court)/
 尊敬老人 尊敬老人 [zun1 jing4_lao3 ren2] /honoring the elderly/elderly, honoring the/
 尊敬長輩 尊敬长辈 [zun1 jing4_zhang3 bei4] /respect your seniors/seniors, respect your/
 遵守法律 遵守法律 [zun1 shou3_fa3 lu:4] /obey the law/
