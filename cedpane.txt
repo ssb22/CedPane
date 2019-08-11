@@ -1292,6 +1292,7 @@ Arphic (font+foundry)	文鼎	文鼎	Wéndǐng	Màhn-díng
 Arpoador	阿波阿杜尔	阿波阿杜爾	Ābō'ādù'ěr	A-bō-a-douh-yíh	
 arraignment	到庭答复控罪	到庭答復控罪	dàotíng dáfù kòngzuì	dou-tìhng daap-fuhk hung-jeuih	ˌəɹˈeɪnmənt
 arrange a meal (with someone)	约饭	約飯	yuēfàn	yeuk-faahn	
+arrangement (musical)	改编曲	改編曲	gǎibiānqǔ	gói-pīn-kūk	
 Arras (town)	阿拉斯市	阿拉斯市	Ālāsī Shì	A-lāai-sī Síh	
 arrest warrant	逮捕令	逮捕令	dàibǔ lìng	daih-bouh lihng	
 Arrhenius	阿瑞尼阿斯	阿瑞尼阿斯	Āruìní'āsī	A-seuih-nèih-a-sī	
@@ -2967,6 +2968,7 @@ Brianka	布里安卡市	布里安卡市	Bùlǐ'ānkǎ Shì	Bou-léih-ngōn-kā S
 Brice	布里斯	布里斯	Bùlǐsī	Bou-léih-sī	
 brick joining	砖缝	磚縫	zhuānféng	jyūn-fùhng	
 brick jointer	勾缝抹刀	勾縫抹刀	gōuféngmādāo	ngāu-fùhng-mut-dōu	
+brickmaking machine	码砖机	碼磚機	mǎzhuānjī	máh-jyūn-gēi	
 brick mold (for making bricks)	砖模	磚模	zhuānmú	jyūn-mòuh	
 brick stand; terrace of bricks	砖台	磚台	zhuāntái	jyūn-tòih	
 Bridehead	布莱赫德	布萊赫德	Bùláihèdé	Bou-lòih-hāk-dāk	
@@ -3128,6 +3130,7 @@ building permit(s)	建筑执照	建築執照	jiànzhù zhízhào	gin-jūk jāp-j
 building project	建筑计划	建築計劃	jiànzhù jìhuà	gin-jūk gai-waahk	
 building up the household	持家之道	持家之道	chíjiā zhī dào	chìh-gā jī douh	
 build to completion	盖成	蓋成	gàichéng	goi-sìhng	
+<netspeak> build up words (crafting a document on computer)	码字	碼字	mǎzì	máh-jih	
 build well (?)	筑好	築好	zhùhǎo	jūk-hóu	
 built of stone	石砌	石砌	shíqì	sehk-chai	
 Bujanovac	布亚诺瓦茨	布亞諾瓦茨	Bùyànuòwǎcí	Bou-nga-nohk-ngáh-chìh	
@@ -3691,7 +3694,7 @@ Cecil Rhodes Scholarship	罗德斯奖学金	羅德斯獎學金	Luódésī Jiǎng
 Cedar Point	杉树角	杉樹角	Shānshùjiǎo	Chaam-syuh-gok	
 cedarwood	雪松木	雪松木	xuěsōngmù	syut-chùhng-muhk	sˈidəwʊd
 cedarwood panel	雪松木板	雪松木板	xuěsōngmùbǎn	syut-chùhng-muhk-báan	
-CedPane: this is version 2019-08-10	汉英词典公有领域专名等副刊	漢英詞典公有領域專名等副刊	Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān	Hon-yīng Chìh-dín Gūng-yáuh Líhng-wihk Jyūn-mìhng Dáng Fu-hōn	
+CedPane: this is version 2019-08-11	汉英词典公有领域专名等副刊	漢英詞典公有領域專名等副刊	Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān	Hon-yīng Chìh-dín Gūng-yáuh Líhng-wihk Jyūn-mìhng Dáng Fu-hōn	
 Ceheng (county, in Guizhou)	册亨县	冊亨縣	Cèhēng Xiàn	Chaak-hāng Yún	
 celebrate holidays	庆祝节日	慶祝節日	qìngzhù jiérì	hing-jūk jit-yaht	
 celebrity; public figure	公众人物	公眾人物	gōngzhòng rénwù	gūng-jung yàhn-maht	
@@ -4918,6 +4921,7 @@ Creationism	特创论	特創論	tèchuànglùn	dahk-chong-leuhn
 Creationist	特创论者	特創論者	tèchuànglùnzhě	dahk-chong-leuhn-jé	
 Creator	创造主	創造主	Chuàngzàozhǔ	Chong-jouh-jyú	kɹˌiˈeɪtɚ
 Creator	创造者	創造者	Chuàngzàozhě	Chong-jouh-jé	kɹˌiˈeɪtɚ
+creator (of literary work etc)	创作者	創作者	chuàngzuòzhě	chong-jok-jé	
 credible (of news provider, lit. reputation good)	信誉良好	信譽良好	xìnyù liánghǎo	seun-yuh lèuhng-hóu	kɹˈɛdəbəl
 credit crunch	信用紧缩	信用緊縮	xìnyòng jǐnsuō	seun-yuhng gán-sūk	
 credo (Latin word)	克里杜	克里杜	kèlǐdù	hāk-léih-douh	
@@ -10963,6 +10967,7 @@ Internet cable (to a house)	牵网线	牽網線	qiānwǎngxiàn	hīn-móhng-sin
 Internet celebrity	网红	網紅	wǎnghóng	móhng-hùhng	
 Internet chat rooms	网上聊天室	網上聊天室	wǎngshàng liáotiānshì	móhng-seuhng lìuh-tīn-sāt	
 Internet filter software	过滤软件	過濾軟件	guòlǜ ruǎnjiàn	gwo-leuih yúhn-gín	
+Internet novel	网络小说	網絡小說	wǎngluò xiǎoshuō	móhng-lok síu-syut	
 Internet of Things; IoT	物联网	物聯網	wùliánwǎng	maht-lyùhn-móhng	
 Internet Protocol; IP	因特网协议	因特網協議	yīntèwǎng xiéyì	yān-dahk-móhng hip-yíh	
 Internet service provider	网络服务供应商	網絡服務供應商	wǎngluò fúwù gōngyìngshāng	móhng-lok fuhk-mouh gūng-ying-sēung	
@@ -20879,6 +20884,7 @@ self-service check-in machine	自助挂号机	自助掛號機	zìzhù guàhàoj�
 self-sown?	自生	自生	zìshēng	jih-sāang	
 self-stick	自粘	自粘	zìzhān	jih-nīm	
 self-sustaining	能自给自足	能自給自足	néng zìjǐ-zìzú	nàhng jih-kāp-jih-jūk	
+self-training	自我修养	自我修養	zìwǒ xiūyǎng	jih-ngóh sāu-yéuhng	
 self-will	坚持己见	堅持己見	jiānchí jǐjiàn	gīn-chìh géi-gin	
 self-worth	自我价值	自我價值	zìwǒ jiàzhí	jih-ngóh ga-jihk	
 self check-in (at library)	自助还书	自助還書	zìzhù huánshū	jih-joh wàahn-syū	
@@ -22656,6 +22662,7 @@ superconductivity	超导电性	超導電性	chāodǎodiànxìng	chīu-douh-dihn-
 supergiant (star)	超巨星	超巨星	chāojùxīng	chīu-geuih-sīng	
 superimposed (with a figure) showing	浮现出	浮現出	fúxiànchū	fàuh-yihn-chēut	
 superlative; unsurpassed in exquisiteness etc	优美绝伦	優美絕倫	yōuměi-juélún	yāu-méih-jyuht-lèuhn	
+Super Mario (video game)	超级马里奥	超級馬里奧	Chāojí Mǎlǐ'ào	Chīu-kāp Máh-léuih-ou	
 (supermarket) checkout	收银处	收銀處	shōuyínchù	sāu-ngàhn-chyu	
 superstitions (customs)	迷信习俗	迷信習俗	míxìn xísú	màih-seun jaahp-juhk	
 supervisor of a school (Greece)	校监	校監	xiàojiān	haauh-gāam	

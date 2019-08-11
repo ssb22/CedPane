@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-08-10
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-08-11
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -2740,6 +2740,7 @@
 常州 常州 [Chang2 zhou1] /Changzhou (in Jiangsu)/
 長洲區 长洲区 [Chang2 zhou1_Qu1] /Changzhou District/District, Changzhou/
 常州市 常州市 [Chang2 zhou1_Shi4] /Changzhou (in Jiangsu)/
+超級馬里奧 超级马里奥 [Chao1 ji2_Ma3 li3 ao4] /Super Mario (video game)/Mario, Super (video game)/
 超文本標記語言 超文本标记语言 [Chao1 wen2 ben3_Biao1 ji4_Yu3 yan2] /HTML/HyperText Markup Language/
 潮安區 潮安区 [Chao2 an1_Qu1] /Chao'an (district, in Guangdong)/
 巢湖 巢湖 [Chao2 hu2] /Chaohu (in Anhui)/
@@ -5396,7 +5397,7 @@
 含族 含族 [Han2 zu2] /Hamites/
 含族人 含族人 [Han2 zu2 ren2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-08-10/this is version 2019-08-10, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-08-11/this is version 2019-08-11, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
@@ -19102,6 +19103,7 @@
 創新獎 创新奖 [chuang4 xin1_jiang3] /innovation award/award, innovation/
 創業人 创业人 [chuang4 ye4 ren2] /entrepreneur/
 創造物 创造物 [chuang4 zao4 wu4] /creation/
+創作者 创作者 [chuang4 zuo4 zhe3] /creator (of literary work etc)/
 吹長笛 吹长笛 [chui1_chang2 di2] /play(ing) the flute/flute, play(ing) the/
 吹氣泡 吹气泡 [chui1_qi4 pao4] /blow bubbles/bubbles, blow/
 吹熄 吹熄 [chui1_xi1] /blow out (a flame)/
@@ -20207,6 +20209,7 @@
 該怎麼辦 该怎么办 [gai1_zen3 me5_ban4] /what to do? (about sthg)/
 該國 该国 [gai1 guo2] /the country (in question)/this country/country, the/
 該洲 该洲 [gai1 zhou1] /this|that continent (the continent being discussed)/continent, this|that (the continent being discussed)/
+改編曲 改编曲 [gai3 bian1 qu3] /arrangement (musical)/
 改革運動 改革运动 [gai3 ge2_yun4 dong4] /reform movement/movement, reform/
 改革家 改革家 [gai3 ge2 jia1] /Reformer/
 改善的余地 改善的余地 [gai3 shan4_de5_yu2 di4] /room for improvement/improvement, room for/
@@ -22351,6 +22354,8 @@
 馬路牙子 马路牙子 [ma3 lu4_ya2 zi5] /curb (on road)/
 馬納特 马纳特 [ma3 na4 te4] /manat (Azerbaijan currency)/
 馬塔特 马塔特 [ma3 ta3 te4] /matatu (Kenya-style bus)/
+碼磚機 码砖机 [ma3 zhuan1 ji1] /brickmaking machine/machine, brickmaking/
+碼字 码字 [ma3 zi4] /build up words (crafting a document on computer)/words, build up (crafting a document on computer)/
 罵髒話 骂脏话 [ma4_zang1 hua4] /swear (use obscene language)/
 埋地 埋地 [mai2 di4] /buried/below-ground/
 買菜 买菜 [mai3_cai4] /buy food (for cooking)/food, buy (for cooking)/
@@ -24778,6 +24783,7 @@
 網絡服務器 网络服务器 [wang3 luo4_fu2 wu4 qi4] /Web server/server, Web/
 網絡攻擊 网络攻击 [wang3 luo4_gong1 ji1] /cyberattack/
 網絡恐怖主義 网络恐怖主义 [wang3 luo4_kong3 bu4 zhu3 yi4] /cyberterrorism/
+網絡小說 网络小说 [wang3 luo4_xiao3 shuo1] /Internet novel/novel, Internet/
 網絡信標 网络信标 [wang3 luo4_xin4 biao1] /web beacons/beacons, web/
 網絡語 网络语 [wang3 luo4 yu3] /netspeak/
 網民 网民 [wang3 min2] /netizen (term frequently used in PRC for user of social media etc)/
@@ -26878,6 +26884,7 @@
 自我推薦 自我推荐 [zi4 wo3_tui1 jian4] /recommend oneself/oneself, recommend/
 自我省察 自我省察 [zi4 wo3_xing3 cha2] /self-examination/
 自我修行 自我修行 [zi4 wo3_xiu1 xing2] /self-cultivation/
+自我修養 自我修养 [zi4 wo3_xiu1 yang3] /self-training/
 自我約束意識 自我约束意识 [zi4 wo3_yue1 shu4_yi4 shi5] /sense of self-restraint/self-restraint, sense of/
 自行決定 自行决定 [zi4 xing2_jue2 ding4] /individually decide/decide, individually/
 自行判斷 自行判断 [zi4 xing2_pan4 duan4] /use your judgment (lit. oneself judge)/judgment, use your (lit. oneself judge)/

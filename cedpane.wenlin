@@ -122347,7 +122347,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-08-10
+definition CedPane: this is version 2019-08-11
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -135455,3 +135455,39 @@ pinyin Sītǎnwēi
 characters 斯坦威
 serial-number CedPane27450
 definition Steinway
+*** 
+pinyin Chāojí Mǎlǐ'ào
+characters 超级马里奥[-級馬-奧]
+serial-number CedPane27451
+definition Super Mario (video game)
+*** 
+pinyin chuàngzuòzhě
+characters 创作者[創--]
+serial-number CedPane27452
+definition creator (of literary work etc)
+*** 
+pinyin gǎibiānqǔ
+characters 改编曲[-編-]
+serial-number CedPane27453
+definition arrangement (musical)
+*** 
+pinyin mǎzhuānjī
+characters 码砖机[碼磚機]
+serial-number CedPane27454
+definition brickmaking machine
+*** 
+pinyin mǎzì
+characters 码字[碼-]
+serial-number CedPane27455
+environment   netspeak
+definition build up words (crafting a document on computer)
+*** 
+pinyin wǎngluò xiǎoshuō
+characters 网络小说[網絡-說]
+serial-number CedPane27456
+definition Internet novel
+*** 
+pinyin zìwǒ xiūyǎng
+characters 自我修养[---養]
+serial-number CedPane27457
+definition self-training
