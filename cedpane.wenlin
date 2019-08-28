@@ -47431,7 +47431,7 @@ definition Donegal
 pinyin Tángníng
 characters 唐宁[-寧]
 serial-number CedPane9520
-definition Downing (pinyin uncertain)
+definition Downing
 *** 
 pinyin Tángnú
 characters 唐奴
@@ -64473,10 +64473,10 @@ characters 卡霍奥拉维岛[--奧-維島]
 serial-number CedPane12939
 definition Kahoolawe (island)
 *** 
-pinyin Kālālābāng
+pinyin Kālālā bāng
 characters 喀拉拉邦
 serial-number CedPane12940
-definition Kerala
+definition Kerala (state, of India)
 *** 
 pinyin Kēhālā
 characters 科哈拉
@@ -122347,7 +122347,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-08-16
+definition CedPane: this is version 2019-08-28
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -135516,3 +135516,879 @@ pinyin diǎnchàngjī
 characters 点唱机[點-機]
 serial-number CedPane27462
 definition jukebox
+*** 
+pinyin Xiǎodù
+characters 小度
+serial-number CedPane27463
+definition Xiaodu (Baidu's smart speaker)
+*** 
+pinyin Yóusīdùn
+characters 尤斯顿[--頓]
+serial-number CedPane27464
+definition Euston
+*** 
+pinyin Dìnièbóluó
+characters 第聂伯罗[-聶-羅]
+serial-number CedPane27465
+definition Dnipro
+*** 
+pinyin Nièbó Chéng
+characters 聂伯城[聶--]
+serial-number CedPane27466
+definition Dnipro (alternate translation)
+*** 
+pinyin shǎchā
+characters 傻叉
+serial-number CedPane27467
+environment   netspeak?
+definition idiot
+*** 
+pinyin tántanxīn
+characters 谈谈心[談談-]
+serial-number CedPane27468
+definition talk openly
+*** 
+pinyin shìjiè hépíng
+characters 世界和平
+serial-number CedPane27469
+definition world peace
+*** 
+pinyin guó yǔ guó
+characters 国与国[國與國]
+serial-number CedPane27470
+definition between countries
+*** 
+pinyin zhǎngquán
+characters 长全[長-]
+serial-number CedPane27471
+definition grown up
+*** 
+pinyin kǎomiànbǐng
+characters 烤面饼[-麵餅]
+serial-number CedPane27472
+definition crumpet; pikelet (NW/Midlands crumpet)
+*** 
+pinyin Tángníngjiē
+characters 唐宁街[-寧-]
+serial-number CedPane27473
+definition Downing Street
+*** 
+pinyin Gélěitǎ
+characters 格蕾塔
+serial-number CedPane27474
+definition Greta
+*** 
+pinyin Sāngbógé
+characters 桑伯格
+serial-number CedPane27475
+definition Thunberg
+*** 
+pinyin Kèlākèdùn
+characters 克拉克顿[---頓]
+serial-number CedPane27476
+definition Clacton
+*** 
+pinyin Jiālā'ān
+characters 加拉安
+serial-number CedPane27477
+definition Garrahan
+*** 
+pinyin Qílǔqí
+characters 奇鲁齐[-魯齊]
+serial-number CedPane27478
+definition Ciruzzi
+*** 
+pinyin zhòngzhèngjiānhù
+characters 重症监护[--監護]
+serial-number CedPane27479
+definition intensive care
+*** 
+pinyin Kǎtǎníyà
+characters 卡塔尼亚[---亞]
+serial-number CedPane27480
+definition Catania
+*** 
+pinyin Wēnqínzuǒ
+characters 温琴佐[溫--]
+serial-number CedPane27481
+definition Vincenzo
+*** 
+pinyin Sīkùdàilǐ
+characters 斯库代里[-庫--]
+serial-number CedPane27482
+definition Scuderi
+*** 
+pinyin Kǎnpàníyà
+characters 坎帕尼亚[---亞]
+serial-number CedPane27483
+definition Campania
+*** 
+pinyin Mònà'ěrdí
+characters 莫纳尔迪[-納爾-]
+serial-number CedPane27484
+definition Monaldi
+*** 
+pinyin Kē'ěrqiáonèi
+characters 科尔乔内[-爾喬內]
+serial-number CedPane27485
+definition Corcione
+*** 
+pinyin gōngzuò xiǎozǔ
+characters 工作小组[---組]
+serial-number CedPane27486
+definition working group
+*** 
+pinyin sōují
+characters 蒐集
+serial-number CedPane27487
+definition collect (information etc, CH variant)
+*** 
+pinyin Àowéiyēduō
+characters 奥维耶多[奧維--]
+serial-number CedPane27488
+definition Oviedo
+*** 
+pinyin Bójí
+characters 博吉
+serial-number CedPane27489
+definition Boggi
+*** 
+pinyin Qíluò
+characters 奇洛
+serial-number CedPane27490
+definition Cillo
+*** 
+pinyin Fèidélǐkè
+characters 费德里克[費---]
+serial-number CedPane27491
+definition Federico
+*** 
+pinyin Qiēsāinà
+characters 切塞纳[--納]
+serial-number CedPane27492
+definition Cesena
+*** 
+pinyin Bùfǎlìní
+characters 布法利尼
+serial-number CedPane27493
+definition Bufalini
+*** 
+pinyin Jiālǐbōdì
+characters 加里波第
+serial-number CedPane27494
+definition Garibaldi
+*** 
+pinyin Píyàzhā
+characters 皮亚扎[-亞-]
+serial-number CedPane27495
+definition Piazza
+*** 
+pinyin Zhānduōméiníkē
+characters 詹多梅尼科
+serial-number CedPane27496
+definition Giandomenico
+*** 
+pinyin Àidélǐ'ānnà
+characters 艾德里安娜
+serial-number CedPane27497
+definition Adriana
+*** 
+pinyin Āifēi'ěr Tiětǎ
+characters 埃菲尔铁塔[--爾鐵-]
+serial-number CedPane27498
+definition Eiffel Tower
+*** 
+pinyin àn lǎba
+characters 按喇叭
+serial-number CedPane27499
+definition honk the horn (of vehicle)
+*** 
+pinyin Ānnuòshēng
+characters 安诺生[-諾-]
+serial-number CedPane27500
+definition Andersen
+*** 
+pinyin Àodédí'ěr
+characters 奥德迪尔[奧--爾]
+serial-number CedPane27501
+definition Oddur
+*** 
+pinyin Àotèmàn
+characters 奥特曼[奧--]
+serial-number CedPane27502
+definition Altman
+*** 
+pinyin Bākuítè
+characters 巴奎特
+serial-number CedPane27503
+definition Baquet
+*** 
+pinyin Bālāhāsī
+characters 巴拉哈斯
+serial-number CedPane27504
+definition Barajas
+*** 
+pinyin Bùlóngdébǐ
+characters 布隆德比
+serial-number CedPane27505
+definition Brøndby
+*** 
+pinyin dàojìshí
+characters 倒计时[-計時]
+serial-number CedPane27506
+definition countdown
+*** 
+pinyin dàojìshíqì
+characters 倒计时器[-計時-]
+serial-number CedPane27507
+definition countdown timer
+*** 
+pinyin diànzǐ xiāngyān
+characters 电子香烟[電--煙]
+serial-number CedPane27508
+definition electronic cigarette; e-cigarette
+*** 
+pinyin Dìdémàn
+characters 蒂德曼
+serial-number CedPane27509
+definition Tidemand
+*** 
+pinyin Dì'ěrpàkè
+characters 蒂尔帕克[-爾--]
+serial-number CedPane27510
+definition Tirpak
+*** 
+pinyin Fǎshì diǎnxin
+characters 法式点心[--點-]
+serial-number CedPane27511
+definition French pastries
+*** 
+pinyin Fènghuáng Chéng
+characters 凤凰城[鳳--]
+serial-number CedPane27512
+definition Phoenix (city, alternate translation)
+*** 
+pinyin fēn huìchǎng
+characters 分会场[-會場]
+serial-number CedPane27513
+definition annex auditorium
+*** 
+pinyin Fúlánqièsīkǎ
+characters 弗兰切斯卡[-蘭---]
+serial-number CedPane27514
+definition Francesca
+*** 
+pinyin Gǎng Gāotiě
+characters 港高铁[--鐵]
+serial-number CedPane27515
+environment   abbr
+definition Guangzhou-Shenzhen-Hong Kong Express Rail Link
+*** 
+pinyin Gāngtiě Rén
+characters 钢铁人[鋼鐵-]
+serial-number CedPane27516
+environment   TW
+definition Iron Man (Marvel character)
+*** 
+pinyin Gāngtiě Xiá
+characters 钢铁侠[鋼鐵俠]
+serial-number CedPane27517
+environment   PRC
+definition Iron Man (Marvel character)
+*** 
+pinyin Gāoshānshěng
+characters 高山省
+serial-number CedPane27518
+definition Mountain Province (Philippines)
+*** 
+pinyin gèrén chénshù
+characters 个人陈述[個-陳-]
+serial-number CedPane27519
+definition personal statement (in application to university etc)
+*** 
+pinyin Guǎng-Shēn-Gǎng
+characters 广深港[廣--]
+serial-number CedPane27520
+definition Guangzhou-Shenzhen-Hong Kong
+*** 
+pinyin Guǎng-Shēn-Gǎng Gāotiě
+characters 广深港高铁[廣---鐵]
+serial-number CedPane27521
+environment   abbr
+definition Guangzhou-Shenzhen-Hong Kong Express Rail Link
+*** 
+pinyin Guómàn
+characters 国漫[國-]
+serial-number CedPane27522
+definition Chinese manga
+*** 
+pinyin hǎo kùxuàn
+characters 好酷炫
+serial-number CedPane27523
+environment   netspeak
+definition cool/impressive
+*** 
+pinyin hǎoxiǎng
+characters 好想
+serial-number CedPane27524
+definition want or miss very much
+*** 
+pinyin Hé'ěrsītàiyīn
+characters 荷尔斯泰因[-爾---]
+serial-number CedPane27525
+definition Holstein
+*** 
+pinyin Héyītíng
+characters 合一亭
+serial-number CedPane27526
+definition Pavilion of Harmony (at CUHK)
+*** 
+pinyin hùsòng
+characters 互送
+serial-number CedPane27527
+definition give in exchange (of gifts)
+*** 
+pinyin jì bǐjì
+characters 记笔记[記筆記]
+serial-number CedPane27528
+definition take notes
+*** 
+pinyin jījiǎ
+characters 机甲[機-]
+serial-number CedPane27529
+definition robot armour; fictional giant robot; mecha
+*** 
+pinyin Kǎpèilì
+characters 卡佩利
+serial-number CedPane27530
+definition Cappelli
+*** 
+pinyin Lángkāi
+characters 廊开[-開]
+serial-number CedPane27531
+definition Nong Khai (in Thailand)
+*** 
+pinyin Liáoyǔ
+characters 寮语[-語]
+serial-number CedPane27532
+definition Laotian (language, alternate translation)
+*** 
+pinyin Lìwéisī
+characters 利维斯[-維-]
+serial-number CedPane27533
+definition Leavis
+*** 
+pinyin Lǔbānsījī
+characters 鲁班斯基[魯---]
+serial-number CedPane27534
+definition Lubański
+*** 
+pinyin Lǜ Dǎng
+characters 绿党[綠黨]
+serial-number CedPane27535
+definition Green Party
+*** 
+pinyin Luódì
+characters 罗蒂[羅-]
+serial-number CedPane27536
+definition Rorty
+*** 
+pinyin Luògēbèisuǒ
+characters 洛戈贝索[--貝-]
+serial-number CedPane27537
+definition Logbessou
+*** 
+pinyin Měijūn gōngmù
+characters 美军公墓[-軍--]
+serial-number CedPane27538
+definition American cemetery
+*** 
+pinyin míngxiào
+characters 名校
+serial-number CedPane27539
+definition famous university
+*** 
+pinyin Mòkētuōfū
+characters 莫科托夫
+serial-number CedPane27540
+definition Mokotów
+*** 
+pinyin Nàtuōnìng
+characters 纳托宁[納-寧]
+serial-number CedPane27541
+definition Natonin
+*** 
+pinyin Nèigéluósī
+characters 内格罗斯[內-羅-]
+serial-number CedPane27542
+definition Negros (Philippines place)
+*** 
+pinyin Pǔlǔdí
+characters 普鲁迪[-魯-]
+serial-number CedPane27543
+definition Purdy
+*** 
+pinyin Sānfān Shì
+characters 三藩市
+serial-number CedPane27544
+definition San Francisco city
+*** 
+pinyin shāntǐhuápō
+characters 山体滑坡[-體--]
+serial-number CedPane27545
+definition landslide
+*** 
+pinyin shǒubàn
+characters 手办[-辦]
+serial-number CedPane27546
+definition garage kit (for modelling a film figure)
+*** 
+pinyin shuāngyǔ xīnwén
+characters 双语新闻[雙語-聞]
+serial-number CedPane27547
+definition bilingual news
+*** 
+pinyin Sū'èdé
+characters 苏厄德[蘇--]
+serial-number CedPane27548
+definition Seward
+*** 
+pinyin Tiānrénhéyītíng
+characters 天人合一亭
+serial-number CedPane27549
+definition Pavilion of Harmony (at CUHK)
+*** 
+pinyin tiělóng
+characters 铁笼[鐵籠]
+serial-number CedPane27550
+definition iron cage; holding cell (in some countries' courtrooms)
+*** 
+pinyin Tuōníng
+characters 托宁[-寧]
+serial-number CedPane27551
+definition Thorning
+*** 
+pinyin Wǎ'ěrjiā
+characters 瓦尔加[-爾-]
+serial-number CedPane27552
+definition Varga
+*** 
+pinyin wǎngluò rèdiǎn
+characters 网络热点[網絡熱點]
+serial-number CedPane27553
+definition Wi-Fi hot spot
+*** 
+pinyin Wéi'ěrpāntè
+characters 维尔潘特[維爾--]
+serial-number CedPane27554
+definition Villepinte
+*** 
+pinyin Wéitèluósī
+characters 维特罗斯[維-羅-]
+serial-number CedPane27555
+definition Waitrose
+*** 
+pinyin Wēngguīdíwǎ
+characters 翁圭迪瓦
+serial-number CedPane27556
+definition Ongwediva (in Namibia)
+*** 
+pinyin Wūdélēizhī
+characters 乌得勒支[烏---]
+serial-number CedPane27557
+definition Utrecht
+*** 
+pinyin Wūjīncǎifū
+characters 乌金采夫[烏---]
+serial-number CedPane27558
+definition Udintsev
+*** 
+pinyin wǔyè xīdēng
+characters 午夜熄灯[---燈]
+serial-number CedPane27559
+definition part night lighting; midnight streetlight switchoff
+*** 
+pinyin xiānnǎiyóu
+characters 鲜奶油[鮮--]
+serial-number CedPane27560
+definition cream (of milk)
+*** 
+pinyin xī diànzǐyān
+characters 吸电子烟[-電-煙]
+serial-number CedPane27561
+definition vape; vaping; smoking e-cigarettes
+*** 
+pinyin Xǐláidēng
+characters 喜来登[-來-]
+serial-number CedPane27562
+definition Sheraton
+*** 
+pinyin Xīnèigéluósīshěng
+characters 西内格罗斯省[-內-羅--]
+serial-number CedPane27563
+definition Negros Occidental (province, Philippines)
+*** 
+pinyin xiūxi qū
+characters 休息区[--區]
+serial-number CedPane27564
+definition lounge (at stadium etc)
+*** 
+pinyin xuéwán
+characters 学完[學-]
+serial-number CedPane27565
+definition finish studying (a course)
+*** 
+pinyin Yànbǔxùn
+characters 燕卜逊[--遜]
+serial-number CedPane27566
+definition Empson
+*** 
+pinyin yáoyáodèng
+characters 摇摇凳[搖搖-]
+serial-number CedPane27567
+definition rocking chair
+*** 
+pinyin yīliáo dàilǐrén
+characters 医疗代理人[醫療---]
+serial-number CedPane27568
+definition health-care agent
+*** 
+pinyin yǒngjū
+characters 永居
+serial-number CedPane27569
+definition permanent residency
+*** 
+pinyin zàidúshēng
+characters 在读生[-讀-]
+serial-number CedPane27570
+definition current student (PhD etc)
+*** 
+pinyin zhǎng zhīshi
+characters 长知识[長-識]
+serial-number CedPane27571
+definition get knowledge; learn something
+*** 
+pinyin zhǔ huìchǎng
+characters 主会场[-會場]
+serial-number CedPane27572
+definition main auditorium
+*** 
+pinyin zǔ huì
+characters 组会[組會]
+serial-number CedPane27573
+definition group meeting
+*** 
+pinyin Āshí
+characters 阿什
+serial-number CedPane27574
+definition Ashe; Ash (name)
+*** 
+pinyin Bó'ěrsuǒnàluó
+characters 博尔索纳罗[-爾-納羅]
+serial-number CedPane27575
+definition Bolsonaro
+*** 
+pinyin chá cāntīng
+characters 茶餐厅[--廳]
+serial-number CedPane27576
+definition HK teahouse; cha chaan teng
+*** 
+pinyin Cháiwān
+characters 柴湾[-灣]
+serial-number CedPane27577
+definition Chai Wan (in HK)
+*** 
+pinyin Chángshāwān
+characters 长沙湾[長-灣]
+serial-number CedPane27578
+definition Cheung Sha Wan (in HK)
+*** 
+pinyin Cháo-Hán
+characters 朝韩[-韓]
+serial-number CedPane27579
+definition North-South Korea (of relations etc)
+*** 
+pinyin dáchéng xiéyì
+characters 达成协议[達-協議]
+serial-number CedPane27580
+definition make an agreement
+*** 
+pinyin Dàikèsī
+characters 戴克斯
+serial-number CedPane27581
+definition Dykes (name)
+*** 
+pinyin Dànmǐ'ěrwén
+characters 淡米尔文[--爾-]
+serial-number CedPane27582
+definition Tamil (written language, less-common translation)
+*** 
+pinyin Dōngchōng
+characters 东涌[東-]
+serial-number CedPane27583
+definition Tung Chung (in HK)
+*** 
+pinyin fǎn-Yīng
+characters 反英
+serial-number CedPane27584
+definition anti-British
+*** 
+pinyin fēnshī
+characters 分尸[-屍]
+serial-number CedPane27585
+definition dismember (a corpse)
+*** 
+pinyin Fúmǐlì'ēnjùn
+characters 弗米利恩郡
+serial-number CedPane27586
+definition Vermilion county (Illinois)
+*** 
+pinyin Gǎng Dǎo
+characters 港岛[-島]
+serial-number CedPane27587
+definition Hong Kong Island
+*** 
+pinyin Gǎngmín
+characters 港民
+serial-number CedPane27588
+definition Hong Kong people
+*** 
+pinyin Héwéntián
+characters 何文田
+serial-number CedPane27589
+definition Ho Man Tin (in HK)
+*** 
+pinyin Hóngjiālóu
+characters 洪家楼[--樓]
+serial-number CedPane27590
+definition Hongjialou (in Shandong)
+*** 
+pinyin Hóng Mào Qiáo
+characters 宏茂桥[--橋]
+serial-number CedPane27591
+definition Ang Mo Kio (area in Singapore)
+*** 
+pinyin Jiāngjūn'ào
+characters 将军澳[將軍-]
+serial-number CedPane27592
+definition Tseung Kwan O (in HK)
+*** 
+pinyin jīngtiān zuìxíng
+characters 惊天罪行[驚---]
+serial-number CedPane27593
+definition heinous crime
+*** 
+pinyin Jīnmǎ jiǎng
+characters 金马奖[-馬獎]
+serial-number CedPane27594
+definition Golden Horse awards (Taiwan film festival)
+*** 
+pinyin Jiǔlóng Táng
+characters 九龙塘[-龍-]
+serial-number CedPane27595
+definition Kowloon Tong (in HK)
+*** 
+pinyin juéshí kàngyì
+characters 绝食抗议[絕--議]
+serial-number CedPane27596
+definition hunger strike
+*** 
+pinyin juéshí kàngyìzhě
+characters 绝食抗议者[絕--議-]
+serial-number CedPane27597
+definition hunger striker
+*** 
+pinyin kàngyìzhě
+characters 抗议者[-議-]
+serial-number CedPane27598
+definition protestor
+*** 
+pinyin Kuíchōng
+characters 葵涌
+serial-number CedPane27599
+definition Kwai Chung (in HK)
+*** 
+pinyin lājī tiánmáichǎng
+characters 垃圾填埋场[----場]
+serial-number CedPane27600
+definition landfill site
+*** 
+pinyin Lín Cuò Gǎng
+characters 林厝港
+serial-number CedPane27601
+definition Lim Chu Kang (area in Singapore)
+*** 
+pinyin lǐngguǎn
+characters 领馆[領館]
+serial-number CedPane27602
+definition consulate (abbreviated form)
+*** 
+pinyin Lìzhī Jiǎo
+characters 荔枝角
+serial-number CedPane27603
+definition Lai Chi Kok (in HK)
+*** 
+pinyin Luódōng zhèn
+characters 罗东镇[羅東鎮]
+serial-number CedPane27604
+definition Luodong Township (in Yilan, TW)
+*** 
+pinyin Mǎláiwén
+characters 马来文[馬來-]
+serial-number CedPane27605
+definition Malay (written language)
+*** 
+pinyin Miànbù
+characters 面簿
+serial-number CedPane27606
+definition Facebook
+*** 
+pinyin nǚtóng
+characters 女童
+serial-number CedPane27607
+definition young girl
+*** 
+pinyin qīn Zhōng méitǐ
+characters 亲中媒体[親--體]
+serial-number CedPane27608
+definition pro-China media
+*** 
+pinyin Quánwān
+characters 荃湾[-灣]
+serial-number CedPane27609
+definition Tsuen Wan (in HK)
+*** 
+pinyin rèsōu
+characters 热搜[熱-]
+serial-number CedPane27610
+definition trending search term (on social network etc)
+*** 
+pinyin Shíxiáwěi
+characters 石硖尾[-硤-]
+serial-number CedPane27611
+definition Shek Kip Mei (in HK)
+*** 
+pinyin sǐ yú yù zhōng
+characters 死于狱中[--獄-]
+serial-number CedPane27612
+definition die in prison
+*** 
+pinyin tiánmáichǎng
+characters 填埋场[--場]
+serial-number CedPane27613
+definition landfill site
+*** 
+pinyin Tiānshuǐwéi
+characters 天水围[--圍]
+serial-number CedPane27614
+definition Tin Shui Wai (in HK)
+*** 
+pinyin tiēwén
+characters 贴文[貼-]
+serial-number CedPane27615
+definition (blog etc) post
+*** 
+pinyin Tú'ěrnèisī
+characters 图尔内斯[圖爾內-]
+serial-number CedPane27616
+definition Tournes
+*** 
+pinyin Xiānggǎng Dǎo
+characters 香港岛[--島]
+serial-number CedPane27617
+definition Hong Kong Island
+*** 
+pinyin xiàoqū
+characters 校区[-區]
+serial-number CedPane27618
+definition campus
+*** 
+pinyin Xīngyào Zhāngyí
+characters 星耀樟宜
+serial-number CedPane27619
+definition Jewel Changi (Singapore shopping centre)
+*** 
+pinyin Xīnpúgǎng
+characters 新蒲岗[--崗]
+serial-number CedPane27620
+definition San Po Kong (in HK)
+*** 
+pinyin xiūlì
+characters 修例
+serial-number CedPane27621
+definition amendment (law)
+*** 
+pinyin yìnshuāshī
+characters 印刷师[--師]
+serial-number CedPane27622
+definition printer (person, historical)
+*** 
+pinyin Yóumádì
+characters 油麻地
+serial-number CedPane27623
+definition Yau Ma Tei (in HK)
+*** 
+pinyin Yóutáng
+characters 油塘
+serial-number CedPane27624
+definition Yau Tong (in HK)
+*** 
+pinyin Zéyúchōng
+characters 鲗鱼涌[鰂魚-]
+serial-number CedPane27625
+definition Quarry Bay (in HK)
+*** 
+pinyin Zhāngyí
+characters 樟宜
+serial-number CedPane27626
+definition Changi (area in Singapore)
+*** 
+pinyin Zhōngguó Shǒuyǔ
+characters 中国手语[-國-語]
+serial-number CedPane27627
+definition Chinese Sign Language
+*** 
+pinyin zhǔliú méitǐ
+characters 主流媒体[---體]
+serial-number CedPane27628
+definition mainstream media
+*** 
+pinyin Gǔjílātè bāng
+characters 古吉拉特邦
+serial-number CedPane27629
+definition state of Gujarat (in India)
+*** 
+pinyin hēi jiānyù
+characters 黑监狱[-監獄]
+serial-number CedPane27630
+definition black prison
+*** 
+pinyin Kǎnàtǎkè
+characters 卡纳塔克[-納--]
+serial-number CedPane27631
+definition Karnataka
+*** 
+pinyin Kǎnàtǎkè bāng
+characters 卡纳塔克邦[-納---]
+serial-number CedPane27632
+definition state of Karnataka (in India)
+*** 
+pinyin Mǎhālāsītèlā
+characters 马哈拉斯特拉[馬-----]
+serial-number CedPane27633
+definition Maharashtra
+*** 
+pinyin Wǎduōdálā
+characters 瓦多达拉[--達-]
+serial-number CedPane27634
+definition Vadodara
+*** 
+pinyin Wǎduōdálā Shì
+characters 瓦多达拉市[--達--]
+serial-number CedPane27635
+definition Vadodara (city)
+*** 
+pinyin xiànzhì chūjìng
+characters 限制出境
+serial-number CedPane27636
+definition exit ban (at country level)
