@@ -33767,7 +33767,7 @@ characters 马所拉文本[馬----]
 serial-number CedPane6777
 definition Masoretic text
 *** 
-pinyin Mǎsuǒlāxuéshì
+pinyin Mǎsuǒlā xuéshì
 characters 马所拉学士[馬--學-]
 serial-number CedPane6778
 definition Masoretes
@@ -52441,7 +52441,7 @@ definition steenbok
 pinyin Xiāoyáo Yīnyuèhuì
 characters 逍遥音乐会[-遙-樂會]
 serial-number CedPane10522
-definition The Proms (BBC)
+definition The Proms (BBC); Proms (concerts); BBC Proms
 *** 
 pinyin Xiǎo Yàxìyà
 characters 小亚细亚[-亞細亞]
@@ -72346,7 +72346,7 @@ definition Eddie
 pinyin Ālán
 characters 阿兰[-蘭]
 serial-number CedPane14535
-definition Alana
+definition Alana; Aland
 *** 
 pinyin Kǎluò
 characters 卡洛
@@ -122347,7 +122347,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-08-28
+definition CedPane: this is version 2019-08-31
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -136392,3 +136392,203 @@ pinyin xiànzhì chūjìng
 characters 限制出境
 serial-number CedPane27636
 definition exit ban (at country level)
+*** 
+pinyin Āzītèkè
+characters 阿兹特克[-茲--]
+serial-number CedPane27637
+definition Aztecs
+*** 
+pinyin dàizhe
+characters 戴着[-著]
+serial-number CedPane27638
+definition wearing (of headgear etc)
+*** 
+pinyin fúhé zīgé
+characters 符合资格[--資-]
+serial-number CedPane27639
+definition qualify (for something)
+*** 
+pinyin hé zīgé
+characters 合资格[-資-]
+serial-number CedPane27640
+definition qualify (for something)
+*** 
+pinyin huíquān
+characters 回圈
+serial-number CedPane27641
+definition loop (in routing etc)
+*** 
+pinyin nèizàng zhīfáng
+characters 内脏脂肪[內臟--]
+serial-number CedPane27642
+definition visceral fat
+*** 
+pinyin xīnxiān kōngqì
+characters 新鲜空气[-鮮-氣]
+serial-number CedPane27643
+definition fresh air
+*** 
+pinyin yuánjiān
+characters 圆肩[圓-]
+serial-number CedPane27644
+definition rounded shoulders (type of bad posture)
+*** 
+pinyin Āisài'ébǐyàyǔ
+characters 埃塞俄比亚语[----亞語]
+serial-number CedPane27645
+definition Ethiopic (language)
+*** 
+pinyin Ānsīwòsī
+characters 安斯沃思
+serial-number CedPane27646
+definition Ainsworth
+*** 
+pinyin chāo xialai
+characters 抄下来[--來]
+serial-number CedPane27647
+definition copy (by writing)
+*** 
+pinyin Chén Yíyì
+characters 陈贻绎[陳貽繹]
+serial-number CedPane27648
+definition Yiyi Chen (Peking U Hebrew dept)
+*** 
+pinyin fāhuī guānjiàn zuòyòng
+characters 发挥关键作用[發揮關鍵--]
+serial-number CedPane27649
+definition play the key role
+*** 
+pinyin fānjīng
+characters 翻经[-經]
+serial-number CedPane27650
+definition translating scripture
+*** 
+pinyin fānqiédòu
+characters 番茄豆
+serial-number CedPane27651
+definition baked beans in tomato sauce
+*** 
+pinyin gèrén guānzhù
+characters 个人关注[個-關-]
+serial-number CedPane27652
+definition personal interest
+*** 
+pinyin Guānhuà Héhé Yìběn
+characters 官话和合译本[-話--譯-]
+serial-number CedPane27653
+definition Chinese Union Version (1919)
+*** 
+pinyin Kǎkèsīdùn
+characters 卡克斯顿[---頓]
+serial-number CedPane27654
+definition Caxton
+*** 
+pinyin kǎodòu
+characters 烤豆
+serial-number CedPane27655
+definition baked beans
+*** 
+pinyin Kēkèpàtèlǐkè
+characters 柯克帕特里克
+serial-number CedPane27656
+definition Kirkpatrick
+*** 
+pinyin Kèlǐsītuōsī
+characters 克里斯托斯
+serial-number CedPane27657
+definition Khristos
+*** 
+pinyin Kèlǐsītúsī
+characters 克里斯图斯[---圖-]
+serial-number CedPane27658
+definition Christus
+*** 
+pinyin liànmiáo
+characters 炼苗[煉-]
+serial-number CedPane27659
+definition hardening off (of young plant grown indoors)
+*** 
+pinyin Mǎshūmàn
+characters 马殊曼[馬--]
+serial-number CedPane27660
+definition Marshman
+*** 
+pinyin Mǎsuǒlā xuézhě
+characters 马所拉学者[馬--學-]
+serial-number CedPane27661
+definition Masoretes
+*** 
+pinyin Mǎxī'ā
+characters 马希阿[馬--]
+serial-number CedPane27662
+definition Mashiach
+*** 
+pinyin Nèisītèlái
+characters 内斯特莱[內--萊]
+serial-number CedPane27663
+definition Nestle (surname)
+*** 
+pinyin Nièsītuōlìpài
+characters 聂斯脱利派[聶-脫--]
+serial-number CedPane27664
+definition Nestorian; Nestorianism
+*** 
+pinyin rén gè yǒu néng yǒu bùnéng
+characters 人各有能有不能
+serial-number CedPane27665
+definition everyone has limitations
+*** 
+pinyin shèhuì xìnyòng tǐxì
+characters 社会信用体系[-會--體-]
+serial-number CedPane27666
+definition social credit system
+*** 
+pinyin shǒu-wěi yīguàn
+characters 首尾一贯[---貫]
+serial-number CedPane27667
+definition consistent
+*** 
+pinyin tángbìdǎngchē
+characters 螳臂挡车[--擋車]
+serial-number CedPane27668
+definition insect trying to stop a chariot
+*** 
+pinyin Yēshū'ā
+characters 耶舒阿
+serial-number CedPane27669
+definition Yeshua
+*** 
+pinyin Yēsūsī
+characters 耶苏斯[-蘇-]
+serial-number CedPane27670
+definition Iesus
+*** 
+pinyin Yī'ā'ào
+characters 伊阿奥[--奧]
+serial-number CedPane27671
+definition Iao
+*** 
+pinyin Yī'ābèi
+characters 伊阿贝[--貝]
+serial-number CedPane27672
+definition Iabe
+*** 
+pinyin Yīngjílì Yúnyá
+characters 英吉利云崖
+serial-number CedPane27673
+definition Beachy Head (E.Sussex)
+*** 
+pinyin yīnxìngcí
+characters 阴性词[陰-詞]
+serial-number CedPane27674
+definition word in the feminine gender
+*** 
+pinyin Yīsītèběn
+characters 伊斯特本
+serial-number CedPane27675
+definition Eastbourne (E.Sussex)
+*** 
+pinyin yuànyi ràngbù
+characters 愿意让步[願-讓-]
+serial-number CedPane27676
+definition willing to yield; submissive
