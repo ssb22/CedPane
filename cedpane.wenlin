@@ -1070,7 +1070,7 @@ definition Erica; Erika
 pinyin Āilǐkè
 characters 埃里克
 serial-number CedPane215
-definition Eric
+definition Eric; Erik
 *** 
 pinyin Àilìkè
 characters 艾力克
@@ -30184,7 +30184,7 @@ definition tambourine sound
 pinyin línghuó biàntong
 characters 灵活变通[靈-變-]
 serial-number CedPane6056
-definition flexibility (of a language)
+definition flexibility; adaptable
 *** 
 pinyin lìnglèi yīxué
 characters 另类医学[-類醫學]
@@ -30294,7 +30294,7 @@ definition Lincolnshire
 pinyin Línlín
 characters 琳琳
 serial-number CedPane6078
-definition Lin-Lin (Burmese child slave in Thailand)
+definition Lin-Lin
 *** 
 pinyin Línmén
 characters 琳门[-門]
@@ -37980,7 +37980,7 @@ definition Manuela
 pinyin nuǎnrénxīnwō
 characters 暖人心窝[---窩]
 serial-number CedPane7622
-definition heartwarming(?)
+definition heartwarming
 *** 
 pinyin nuǎnshuǐdài
 characters 暖水袋
@@ -92862,7 +92862,7 @@ serial-number CedPane18750
 environment   comp.
 definition single-threaded
 *** 
-pinyin Gǎng nǚ
+pinyin Gǎngnǚ
 characters 港女
 serial-number CedPane18751
 definition Hong Kong girl (usu. derogatory)
@@ -122347,7 +122347,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-08-31
+definition CedPane: this is version 2019-09-06
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -136543,7 +136543,7 @@ characters 社会信用体系[-會--體-]
 serial-number CedPane27666
 definition social credit system
 *** 
-pinyin shǒu-wěi yīguàn
+pinyin shǒuwěiyīguàn
 characters 首尾一贯[---貫]
 serial-number CedPane27667
 definition consistent
@@ -136592,3 +136592,427 @@ pinyin yuànyi ràngbù
 characters 愿意让步[願-讓-]
 serial-number CedPane27676
 definition willing to yield; submissive
+*** 
+pinyin Ài'àolìyà
+characters 爱奥利亚[愛奧-亞]
+serial-number CedPane27677
+definition Aeolian (mode)
+*** 
+pinyin Ài'àolìyà diàoshì
+characters 爱奥利亚调式[愛奧-亞調-]
+serial-number CedPane27678
+definition Aeolian mode
+*** 
+pinyin Àolìnà
+characters 奥丽娜[奧麗-]
+serial-number CedPane27679
+definition Orlina
+*** 
+pinyin Bùdíkǎ
+characters 布迪卡
+serial-number CedPane27680
+definition Boudicca; Boudica
+*** 
+pinyin Bùdíkǎ
+characters 布狄卡
+serial-number CedPane27681
+definition Boudicca; Boudica
+*** 
+pinyin Dōng-Xī Xiàn
+characters 东西线[東-線]
+serial-number CedPane27682
+definition East-West Line (of transit systems in some cities)
+*** 
+pinyin Duōlì'ān
+characters 多利安
+serial-number CedPane27683
+definition Dorian (ethnicity etc)
+*** 
+pinyin Duōlìyà
+characters 多利亚[--亞]
+serial-number CedPane27684
+definition Doria
+*** 
+pinyin Duōlìyà diàoshì
+characters 多利亚调式[--亞調-]
+serial-number CedPane27685
+definition Dorian mode
+*** 
+pinyin èrshǒudiàn
+characters 二手店
+serial-number CedPane27686
+definition secondhand shop
+*** 
+pinyin Fèilándì
+characters 费兰蒂[費蘭-]
+serial-number CedPane27687
+definition Ferranti
+*** 
+pinyin Fúlìjīyà
+characters 弗利几亚[---亞]
+serial-number CedPane27688
+definition Phrygia (common error?)
+*** 
+pinyin Fúlǐjíyà diàoshì
+characters 弗里吉亚调式[---亞調-]
+serial-number CedPane27689
+definition Phrygian mode
+*** 
+pinyin Fúlìjīyà diàoshì
+characters 弗利几亚调式[---亞調-]
+serial-number CedPane27690
+definition Phrygian mode (common error?)
+*** 
+pinyin hēijǐng
+characters 黑警
+serial-number CedPane27691
+definition black police (allegation that police are complicit in crime)
+*** 
+pinyin hēi yuèpǔ
+characters 黑乐谱[-樂譜]
+serial-number CedPane27692
+definition black MIDI (ultra-short chords for percussive effect)
+*** 
+pinyin hùnhé-Lìdǐyà
+characters 混合利底亚[----亞]
+serial-number CedPane27693
+definition Mixolydian (mode)
+*** 
+pinyin hùnhé-Lìdǐyà diàoshì
+characters 混合利底亚调式[----亞調-]
+serial-number CedPane27694
+definition Mixolydian mode
+*** 
+pinyin jìsuànjī wénhuà
+characters 计算机文化[計-機--]
+serial-number CedPane27695
+definition computer literacy
+*** 
+pinyin kāixiāng
+characters 开箱[開-]
+serial-number CedPane27696
+definition unbox; open the box
+*** 
+pinyin Kǎnàkǎluózī
+characters 卡纳卡罗兹[-納-羅茲]
+serial-number CedPane27697
+definition Kanakaredes
+*** 
+pinyin Kānglóng
+characters 康龙[-龍]
+serial-number CedPane27698
+definition Conlon
+*** 
+pinyin Kǎtáng
+characters 卡唐
+serial-number CedPane27699
+definition Cattand
+*** 
+pinyin kěbiàn cānshù
+characters 可变参数[-變參數]
+serial-number CedPane27700
+environment   comp.
+definition variadic
+*** 
+pinyin kègōng
+characters 客工
+serial-number CedPane27701
+definition foreign worker
+*** 
+pinyin Lìdíyǎ
+characters 丽迪雅[麗--]
+serial-number CedPane27702
+definition Lydia (modern)
+*** 
+pinyin Lìdíyà
+characters 莉迪亚[--亞]
+serial-number CedPane27703
+definition Lydia (modern)
+*** 
+pinyin Lìdíyà
+characters 莉狄亚[--亞]
+serial-number CedPane27704
+definition Lydia (modern)
+*** 
+pinyin Lìdǐyà
+characters 利底亚[--亞]
+serial-number CedPane27705
+definition Lydia (near Ionia, alternate translation?)
+*** 
+pinyin Lìdìyà
+characters 莉蒂亚[--亞]
+serial-number CedPane27706
+definition Lydia (modern)
+*** 
+pinyin lū māo
+characters 撸猫[擼貓]
+serial-number CedPane27707
+definition stroke a cat
+*** 
+pinyin Luòkèlìyà
+characters 洛克利亚[---亞]
+serial-number CedPane27708
+definition Locrian (mode)
+*** 
+pinyin Méilínnà
+characters 梅琳娜
+serial-number CedPane27709
+definition Melina
+*** 
+pinyin Mòbǐ'ěr Shì
+characters 莫比尔市[--爾-]
+serial-number CedPane27710
+definition Mobile (city, in Alabama)
+*** 
+pinyin Nánkǎluó
+characters 南卡罗[--羅]
+serial-number CedPane27711
+definition Nancarrow
+*** 
+pinyin nuǎnxīn
+characters 暖心
+serial-number CedPane27712
+definition heartwarming (abbreviated form)
+*** 
+pinyin Pānfēilì
+characters 潘菲利
+serial-number CedPane27713
+definition Pamphilj
+*** 
+pinyin shuǐ wéi cái
+characters 水为财[-為財]
+serial-number CedPane27714
+definition water for wealth (fengshui-derived exclamation for copious rain etc)
+*** 
+pinyin shuōcuò huà
+characters 说错话[說錯話]
+serial-number CedPane27715
+definition misspeak words
+*** 
+pinyin táodào
+characters 淘到
+serial-number CedPane27716
+definition find (of treasure etc)
+*** 
+pinyin wàijíkègōng
+characters 外籍客工
+serial-number CedPane27717
+definition foreign worker
+*** 
+pinyin Xīnbùláidùn
+characters 新布莱顿[--萊頓]
+serial-number CedPane27718
+definition New Brighton
+*** 
+pinyin xīnkuǎn
+characters 新款
+serial-number CedPane27719
+definition new (of product line)
+*** 
+pinyin Yī'àoníyà
+characters 伊奥尼亚[-奧-亞]
+serial-number CedPane27720
+definition Ionia
+*** 
+pinyin Yī'àoníyà diàoshì
+characters 伊奥尼亚调式[-奧-亞調-]
+serial-number CedPane27721
+definition Ionian mode
+*** 
+pinyin yǐ shuǐ wéi cái
+characters 以水为财[--為財]
+serial-number CedPane27722
+definition take water for wealth (fengshui-derived exclamation for copious rain etc)
+*** 
+pinyin yuánbiānchéng
+characters 元编程[-編-]
+serial-number CedPane27723
+environment   comp.
+definition metaprogramming
+*** 
+pinyin zuòcuò shì
+characters 做错事[-錯-]
+serial-number CedPane27724
+definition do something wrongly
+*** 
+pinyin gùdìng shōuyì
+characters 固定收益
+serial-number CedPane27725
+definition fixed income (in investment products etc)
+*** 
+pinyin gùshōu
+characters 固收
+serial-number CedPane27726
+definition fixed income (abbreviated form)
+*** 
+pinyin jiànkāng hùlǐ zhōngxīn
+characters 健康护理中心[--護---]
+serial-number CedPane27727
+definition health-care centre
+*** 
+pinyin qǔcái yú
+characters 取材于[--於]
+serial-number CedPane27728
+definition select from
+*** 
+pinyin zhǐshù jījīn
+characters 指数基金[-數--]
+serial-number CedPane27729
+definition index fund
+*** 
+pinyin cányùnhuì
+characters 残运会[殘運會]
+serial-number CedPane27730
+definition disabled sports event
+*** 
+pinyin Fàn-Měi Cányùnhuì
+characters 泛美残运会[--殘運會]
+serial-number CedPane27731
+definition Parapan American Games
+*** 
+pinyin Fàn-Měi Yùndònghuì
+characters 泛美运动会[--運動會]
+serial-number CedPane27732
+definition Pan-American Games
+*** 
+pinyin Kěnpǔsī
+characters 肯普斯
+serial-number CedPane27733
+definition Kemps
+*** 
+pinyin Wū'ěrtǎduō
+characters 乌尔塔多[烏爾--]
+serial-number CedPane27734
+definition Hurtado
+*** 
+pinyin Ānjiāmǐ
+characters 安加米
+serial-number CedPane27735
+definition Angami
+*** 
+pinyin Bālí Héhuì
+characters 巴黎和会[---會]
+serial-number CedPane27736
+definition Paris Peace Conference (1919)
+*** 
+pinyin fēnbuqīng
+characters 分不清
+serial-number CedPane27737
+definition unable to distinguish
+*** 
+pinyin Gélǐfēisī
+characters 格里菲斯
+serial-number CedPane27738
+definition Griffith
+*** 
+pinyin jiǎyóu
+characters 甲由
+serial-number CedPane27739
+environment   Cantonese/netspeak
+definition cockroach
+*** 
+pinyin Kēníyàkè
+characters 科尼亚克[--亞-]
+serial-number CedPane27740
+definition Konyak
+*** 
+pinyin liángpí
+characters 凉皮[涼-]
+serial-number CedPane27741
+definition cold noodles
+*** 
+pinyin Luòtǎ
+characters 洛塔
+serial-number CedPane27742
+definition Lotha
+*** 
+pinyin Mǎluòyǔ
+characters 马洛语[馬-語]
+serial-number CedPane27743
+definition Malo (language)
+*** 
+pinyin Nàjiāyǔ
+characters 那加语[--語]
+serial-number CedPane27744
+definition Naga (language)
+*** 
+pinyin qiànzìshī
+characters 嵌字诗[--詩]
+serial-number CedPane27745
+definition inlaid-character poem (made by reading diagonally etc in another poem/text)
+*** 
+pinyin ròujiāmó
+characters 肉夹馍[-夾饃]
+serial-number CedPane27746
+definition meat sandwich
+*** 
+pinyin Sāngtǎn
+characters 桑坦
+serial-number CedPane27747
+definition Sangtam
+*** 
+pinyin shìfēi-duìcuò
+characters 是非对错[--對錯]
+serial-number CedPane27749
+definition (difference between) right and wrong
+*** 
+pinyin suīrán rúcǐ
+characters 虽然如此[雖---]
+serial-number CedPane27750
+definition yet; despite this
+*** 
+pinyin Wǎsà
+characters 瓦萨[-薩]
+serial-number CedPane27751
+definition Vasa
+*** 
+pinyin Wēnnèibāgē
+characters 温内巴戈[溫內--]
+serial-number CedPane27752
+definition Winnebago
+*** 
+pinyin wúyīxìngmiǎn
+characters 无一幸免[無---]
+serial-number CedPane27753
+definition no survivor; no escapee
+*** 
+pinyin Yìndùsītǎnyǔ
+characters 印度斯坦语[----語]
+serial-number CedPane27754
+definition Hindustani (language)
+*** 
+pinyin yǒngzhìnánwàng
+characters 永志难忘[--難-]
+serial-number CedPane27755
+definition unforgettable
+*** 
+pinyin Yuēgēnsēn
+characters 约根森[約--]
+serial-number CedPane27756
+definition Jørgensen
+*** 
+pinyin yuēyóu
+characters 曱甴
+serial-number CedPane27757
+environment   Cantonese
+definition cockroach
+*** 
+pinyin kǎwǎ
+characters 卡瓦
+serial-number CedPane27758
+definition kava
+*** 
+pinyin Ōuzhōu Rénmín Dǎng
+characters 欧洲人民党[歐---黨]
+serial-number CedPane27759
+definition European People's Party
+*** 
+pinyin Pàixīyà
+characters 派希亚[--亞]
+serial-number CedPane27760
+definition Paihia
+*** 
+pinyin qīngnián lǚshè
+characters 青年旅舍
+serial-number CedPane27761
+definition youth hostel; YHA
