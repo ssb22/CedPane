@@ -5,6 +5,7 @@
 䴉		ibis
 䴕		woodpecker
 一		one
+🈩		one
 一一		one after another
 一丁不識		illiterate
 一丁不识		illiterate
@@ -392,6 +393,8 @@
 丈母		mother-in-law/wife's mother
 丈母娘		mother-in-law/wife's mother
 三		3/three
+🈪		3/three
+🉁		3/three
 三K党		Ku Klux Klan
 三K黨		Ku Klux Klan
 三三两两		in twos and threes
@@ -2043,6 +2046,7 @@
 丫頭		girl
 丫鬟		servant girl
 中		among
+🈭		among
 中专		technical secondary school
 中世紀		medieval/Middle Ages
 中世纪		medieval/Middle Ages
@@ -3171,6 +3175,8 @@
 事项		item
 事體		affair
 二		2/two
+🈔		2/two
+🉂		2/two
 二來		in the second place
 二倍体		diploid
 二倍體		diploid
@@ -3546,7 +3552,8 @@
 亢旱		severe drought
 亢进		hyperfunction
 亢進		hyperfunction
-交		deliver
+交		join; deliver
+🈘		join; deliver
 交与		hand over
 交互		in turn
 交互作用		interplay
@@ -8474,6 +8481,7 @@
 册		booklet/book
 册亨		Ceheng
 再		again/once more
+🈞		again/once more
 再一次		again
 再三		over and over again
 再会		to meet again
@@ -9812,6 +9820,7 @@
 创造性		creativeness/creativity
 创造者		creator
 初		first
+🈠		first
 初一		New Year's Day/first
 初中		junior high school
 初具規模		begin to take shape
@@ -10196,6 +10205,7 @@
 剋架		scuffle/come to blows
 剌		to slash
 前		before/ago
+🈜		before/ago
 前一天		the day before
 前不久		not long ago/not long before
 前世		previous generations
@@ -10461,6 +10471,7 @@
 副词		adverb
 副黏液病毒		paramyxovirus
 割		to cut
+🈹		to cut
 割伤		gash
 割傷		gash
 割包皮		circumcise
@@ -11081,6 +11092,7 @@
 勛		medal
 勛章		decoration/medal
 勝		victory/surpass/superb
+🉇		victory/surpass/superb
 勝仗		victorious battle/victory
 勝任		be competent
 勝似		better than/surpass
@@ -13011,6 +13023,7 @@
 友軍		friendly forces
 友邦		friendly state
 双		double
+🈒		double
 双下巴		double chin
 双亲		parents
 双人		pair/double/two-person
@@ -13856,6 +13869,7 @@
 叮铃		jingle
 叮问		question closely
 可		may
+🉑		may
 可不是		definitely
 可乐		cola
 可亲		amiable/kindly
@@ -14066,7 +14080,8 @@
 史蒂芬		Stephen
 史詩		epic
 史诗		epic
-右		west/right
+右		right/west
+🈮		right/west
 右上		upper right
 右下		lower right
 右侧		right side
@@ -14240,7 +14255,8 @@
 各行各業		all professions
 各項		all items
 吆		shout
-合		join
+合		shut/join
+🈴		shut/join
 合一		unite
 合为		combine
 合乎		to/accord
@@ -15008,6 +15024,7 @@
 吸附劑		adsorbent
 吸食		suck
 吹		blow
+🈥		blow
 吹了		failed/busted
 吹倒		blow down
 吹口哨		whistle
@@ -18737,6 +18754,7 @@
 壯語		Zhuang language
 壯麗		majestic/magnificence/magnificent
 声		sound/voice/tone
+🈤		sound/voice/tone
 声乐		vocal music
 声乐家		vocalist
 声价		reputation
@@ -19108,6 +19126,7 @@
 夙敵		long-standing enemy
 夙興夜寐		perseverance
 多		many
+🈕		many
 多不勝數		too many to list
 多不胜数		too many to list
 多丽丝		Doris
@@ -19918,6 +19937,7 @@
 大黄蜂		bumblebee
 大鼠		rat
 天		heaven/sky/day
+🈗		heaven/sky/day
 天上		celestial/heaven
 天下		everywhere
 天主		God (in Catholicism)
@@ -21582,6 +21602,7 @@
 孕期		gestation
 孕育		to nurture
 字		word/character
+🈑		word/character
 字串		character string
 字体		font/typeface
 字元		character
@@ -21998,6 +22019,7 @@
 守门人		gatekeeper
 守门员		goal-keeper
 安		secure
+🉃		secure
 安丘		Anqiu
 安丘市		Anqiu
 安东		Anton
@@ -24973,7 +24995,8 @@
 工頭		foreman
 工齡		seniority/length of service
 工龄		seniority/length of service
-左		opposite
+左		left
+🈬		left
 左上		upper left
 左下		lower left
 左云		Zuoyun
@@ -27738,6 +27761,7 @@
 律師		lawyer
 律法		laws and decrees
 後		later
+🈝		later
 後世		generations
 後人		later generation
 後代		posterity
@@ -30532,6 +30556,7 @@
 扈		retinue
 扉		door/door with only one leaf
 手		hand
+🈐		hand
 手下		leadership
 手书		personal letter
 手倒立		handstand
@@ -30705,6 +30730,8 @@
 扒釘		cramp
 扒钉		cramp
 打		from
+🈱		from
+🉅		from
 打上		get
 打主意		devise a plan
 打亂		throw into confusion
@@ -31260,6 +31287,7 @@
 抓飯		pilau/pilaf
 抓饭		pilau/pilaf
 投		throw/send/to throw
+🈧		throw/send/to throw
 投下		drop
 投产		put into production
 投保		insure
@@ -32259,6 +32287,7 @@
 挂镰		complete the year's harvest
 挂齿		mention
 指		to point/finger
+🈯		to point/finger
 指令		instruct
 指令名字		command name
 指令集		instruction set
@@ -32608,6 +32637,7 @@
 捐軀		sacrifice one's life
 捐钱		contribute (funds)
 捕		catch/to catch/seize
+🈨		catch/to catch/seize
 捕俘		capture enemy personnel
 捕手		catcher
 捕拿		arrest/capture
@@ -34722,6 +34752,7 @@
 敖德萨		Odessa
 敖德薩		Odessa
 敗		be defeated/to defeat/defeat
+🉈		be defeated/to defeat/defeat
 敗不成軍		The army is completely routed.
 敗仗		lost battle
 敗北		suffer defeat
@@ -35306,6 +35337,7 @@
 斗鸡		cock fighting
 斗鸡眼		cross-eye
 料		anticipate
+🈛		anticipate
 料到		foresee
 料器		glassware
 料子		material
@@ -35484,6 +35516,7 @@
 斯金纳		Skinner
 斯隆		Sloan
 新		new/newly
+🈟		new/newly
 新一代		new generation
 新不伦瑞克		New Brunswick
 新不倫瑞克		New Brunswick
@@ -36607,6 +36640,7 @@
 星震		starquake
 星體		celestial body
 映		reflect/shine
+🈙		reflect/shine
 映像管		kinescope
 映出		reflect
 映照		shine upon
@@ -37488,6 +37522,7 @@
 會面		to meet with/to meet
 會黨		anti-Qing secret societies
 月		month/monthly/moon
+🈷		month/monthly/moon
 月下老人		matchmaker
 月事		menses
 月亏		wane
@@ -37550,6 +37585,7 @@
 月餅		moon cake
 月饼		moon cake
 有		to have
+🈶		to have
 有一些		rather/some/somewhat
 有一次		once
 有一点儿		a little
@@ -38068,6 +38104,7 @@
 末节		minor detail
 末路		impasse
 本		this
+🉀		this
 本义		original meaning
 本乡		this
 本事		skill/ability
@@ -45852,7 +45889,8 @@
 漏鍋		colander
 漏锅		colander
 漓		name of a river
-演		evolve
+演		act
+🈦		act
 演习		maneuver/practice/exercise
 演出		perform
 演化		evolution/to evolve
@@ -46686,7 +46724,8 @@
 炸魚		deep-fried fish
 炸鱼		deep-fried fish
 炸鸡		fried chicken
-点		hint
+点		dot
+🉄		dot
 点亮		to light
 点出		point out
 点击		press
@@ -47005,6 +47044,7 @@
 焚風		foehn
 焚风		foehn
 無		not/not to have/no
+🈚		not/not to have/no
 無上		supreme
 無主		derelict
 無主失物		lost property without a claimant
@@ -49588,6 +49628,7 @@
 甜食		sweet/dessert
 甜點		dessert
 生		life
+🈢		life
 生下		give birth to
 生丝		raw silk
 生于		born in
@@ -49970,6 +50011,7 @@
 甲醛		formaldehyde
 甲骨		tortoise shell
 申		explain
+🈸		explain
 申办		to apply for/bid
 申命記		Deuteronomy
 申命记		Deuteronomy
@@ -51608,6 +51650,7 @@
 盖茨		Gates
 盖菜		leaf mustard
 盗		to steal
+🉆		to steal
 盗匪		bandit
 盗印		pirate
 盗取		steal
@@ -53738,6 +53781,7 @@
 禀性		natural disposition
 禀赋		natural endowment
 禁		prohibit/to prohibit/endure
+🈲		prohibit/to prohibit/endure
 禁不住		can't endure
 禁书		banned book
 禁令		ban/prohibition
@@ -54521,7 +54565,10 @@
 穹形		vaulted/arched
 穹苍		firmament
 穹蒼		firmament
-空		free time
+空	kōng	empty
+🈳	kōng	empty
+空	kòng	free time
+🈳	kòng	free time
 空中		in the sky/in the air
 空中客車		Airbus
 空中客车		Airbus
@@ -56513,6 +56560,7 @@
 紼		heavy rope
 絀		crimson silk/to stitch
 終		finish/end
+🈡		finish/end
 終了		end
 終天		all day long
 終局		outcome/end
@@ -66054,6 +66102,7 @@
 觚		goblet
 觞		feast
 解		to separate
+🈖		to separate
 解体		disintegrate/break up
 解像度		resolution
 解决		dispose of
@@ -68502,6 +68551,7 @@
 貨輪		cargo ship/freighter
 貨運		freight transport
 販		deal in/to peddle
+🈣		deal in/to peddle
 販夫		peddler
 販子		monger/dealer
 販賣		sell/to sell/peddle
@@ -69495,7 +69545,8 @@
 赭		ocher
 赭土		ocher
 赭石		ocher
-走		run
+走		go/run
+🈰		go/run
 走亲戚		visit relatives
 走亲访友		visit relatives and friends
 走低		to go down
@@ -73458,6 +73509,7 @@
 酌辦		do as one thinks fit
 酌量		consider
 配		deserve
+🈻		deserve
 配件		fitting/replacement/accessory
 配价		valence
 配体		ligand
@@ -78457,7 +78509,7 @@
 静坐		to sit quietly/sit-in
 静宁		Jingning
 静寂		quiet
-静心		peaceful (of mind)	
+静心		peaceful (of mind)
 静态		static
 静思		meditate
 静恬		quiet
