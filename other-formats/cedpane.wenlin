@@ -11520,7 +11520,7 @@ definition roadworks
 pinyin dǎománggùn
 characters 导盲棍[導--]
 serial-number CedPane2310
-definition mobility cane
+definition mobility cane (for blind)
 *** 
 pinyin Dàomào
 characters 道茂
@@ -122347,7 +122347,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-11-18
+definition CedPane: this is version 2019-11-28
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -134624,6 +134624,11 @@ characters 搞笑
 serial-number CedPane27283
 definition clownish; clownishness
 *** 
+pinyin Hǎo Yìbó
+characters 郝毅博
+serial-number CedPane27284
+definition Ben Hedges (HK reporter)
+*** 
 pinyin Hēizhé
 characters 黑哲
 serial-number CedPane27285
@@ -136950,6 +136955,11 @@ pinyin Sāngtǎn
 characters 桑坦
 serial-number CedPane27747
 definition Sangtam
+*** 
+pinyin Shèngjīng bówùguǎn
+characters 圣经博物馆[聖經--館]
+serial-number CedPane27748
+definition Bible museum
 *** 
 pinyin shìfēi-duìcuò
 characters 是非对错[--對錯]
@@ -140822,3 +140832,515 @@ pinyin zìrán lìshǐ bówùguǎn
 characters 自然历史博物馆[--歷---館]
 serial-number CedPane28514
 definition natural history museum
+*** 
+pinyin bǎinián guóchǐ
+characters 百年国耻[--國恥]
+serial-number CedPane28515
+environment   PRC
+definition century of humiliation (1839-1949)
+*** 
+pinyin bǎoyán
+characters 保研
+serial-number CedPane28516
+definition continue to postgraduate study
+*** 
+pinyin Běijīng Wàiguóyǔ Dàxué
+characters 北京外国语大学[---國語-學]
+serial-number CedPane28517
+definition Beijing Foreign Studies University; BFSU
+*** 
+pinyin Běi Wài
+characters 北外
+serial-number CedPane28518
+definition Beijing Foreign Studies University; BFSU (abbreviated form)
+*** 
+pinyin chōngzhí
+characters 充值
+serial-number CedPane28519
+definition credit (on phone etc)
+*** 
+pinyin chǔbèikù
+characters 储备库[儲備庫]
+serial-number CedPane28520
+definition warehouse
+*** 
+pinyin Dà Yīng Túshūguǎn
+characters 大英图书馆[--圖書館]
+serial-number CedPane28521
+definition British Library
+*** 
+pinyin Gàiyóusī
+characters 盖尤斯[蓋--]
+serial-number CedPane28522
+definition Gaius
+*** 
+pinyin huíchēfú
+characters 回车符[-車-]
+serial-number CedPane28523
+environment   comp.
+definition carriage return
+*** 
+pinyin jiāchí
+characters 加持
+serial-number CedPane28524
+definition blessing (in Buddhism etc?)
+*** 
+pinyin jīqì xuéxí
+characters 机器学习[機-學習]
+serial-number CedPane28525
+environment   comp.
+definition machine learning
+*** 
+pinyin kāití bàogào
+characters 开题报告[開題報-]
+serial-number CedPane28526
+definition research proposal
+*** 
+pinyin kāitiē
+characters 开贴[開貼]
+serial-number CedPane28527
+definition open a notebook
+*** 
+pinyin kǎoyán
+characters 考研
+serial-number CedPane28528
+environment   PRC
+definition graduate entrance examination
+*** 
+pinyin Mǎkèxīmòsī
+characters 马克西莫斯[馬----]
+serial-number CedPane28529
+definition Maximus
+*** 
+pinyin pūjiù
+characters 铺就[鋪-]
+serial-number CedPane28530
+definition pave the way
+*** 
+pinyin réncái chǔbèikù
+characters 人才储备库[--儲備庫]
+serial-number CedPane28531
+definition talent pool
+*** 
+pinyin rén wài rén
+characters 人外人
+serial-number CedPane28532
+definition there's always someone better
+*** 
+pinyin shān wài shān
+characters 山外山
+serial-number CedPane28533
+definition there's always something better
+*** 
+pinyin shēndù xuéxí
+characters 深度学习[--學習]
+serial-number CedPane28534
+environment   comp.
+definition deep learning
+*** 
+pinyin tuījiànrén
+characters 推荐人[-薦-]
+serial-number CedPane28535
+definition referee (for application to job or study)
+*** 
+pinyin xiàngyóuxīnshēng
+characters 相由心生
+serial-number CedPane28536
+definition appearance comes from the mind; what you see is your own graphics
+*** 
+pinyin xiě yi xiě
+characters 写一写[寫-寫]
+serial-number CedPane28537
+definition write (informal)
+*** 
+pinyin xiězuò fànlì
+characters 写作范例[寫---]
+serial-number CedPane28538
+definition writing sample
+*** 
+pinyin xīnsuíshēndòng
+characters 心随身动[-隨-動]
+serial-number CedPane28539
+definition heart follows body's movements
+*** 
+pinyin xuéshù xiězuò
+characters 学术写作[學術寫-]
+serial-number CedPane28540
+definition academic writing
+*** 
+pinyin zhuī mèng rén
+characters 追梦人[-夢-]
+serial-number CedPane28541
+definition dream chaser
+*** 
+pinyin zìwǒ yíngxiāo
+characters 自我营销[--營銷]
+serial-number CedPane28542
+definition marketing yourself (on CV etc)
+*** 
+pinyin Āsīdùn Dàxué
+characters 阿斯顿大学[--頓-學]
+serial-number CedPane28543
+definition Aston University
+*** 
+pinyin bàomíngzhě
+characters 报名者[報--]
+serial-number CedPane28544
+definition registrant; applicant
+*** 
+pinyin cèzhǎn
+characters 策展
+serial-number CedPane28545
+definition exhibition planning; curating
+*** 
+pinyin dāngdài yìshù
+characters 当代艺术[當-藝術]
+serial-number CedPane28546
+definition contemporary art; modern art
+*** 
+pinyin gòngzhàn
+characters 共占
+serial-number CedPane28547
+definition total portion (in pie charts etc)
+*** 
+pinyin Kèlǐwòluógé
+characters 克里沃罗格[---羅-]
+serial-number CedPane28548
+definition Kryvyi Rih
+*** 
+pinyin Kèlǐwòluógé Shì
+characters 克里沃罗格市[---羅--]
+serial-number CedPane28549
+definition Kryvyi Rih (city)
+*** 
+pinyin qiáng dìzhèn
+characters 强地震[強--]
+serial-number CedPane28550
+definition strong earthquake
+*** 
+pinyin Quánguó Rén-Dà
+characters 全国人大[-國--]
+serial-number CedPane28551
+environment   PRC
+definition National People's Congress
+*** 
+pinyin shǎshǎ
+characters 傻傻
+serial-number CedPane28552
+definition naive; stupid
+*** 
+pinyin xìbāo fēnhuà
+characters 细胞分化[細---]
+serial-number CedPane28553
+environment   biol.
+definition cell differentiation
+*** 
+pinyin zhāizì
+characters 摘自
+serial-number CedPane28554
+definition chosen from (of highlights etc)
+*** 
+pinyin dānqǐ
+characters 担起[擔-]
+serial-number CedPane28555
+definition take up (especially on shoulder)
+*** 
+pinyin mōle mō
+characters 摸了摸
+serial-number CedPane28557
+definition touch; stroke
+*** 
+pinyin qiánfú tègōng
+characters 潜伏特工[潛---]
+serial-number CedPane28558
+definition deep-cover spy; sleeper agent
+*** 
+pinyin qúnguī
+characters 群规[-規]
+serial-number CedPane28559
+definition group rules (on Internet chat)
+*** 
+pinyin qún nèi chéngyuán
+characters 群内成员[-內-員]
+serial-number CedPane28560
+definition group members (on Internet chat)
+*** 
+pinyin Shāngwù Yìnshūguǎn
+characters 商务印书馆[-務-書館]
+serial-number CedPane28561
+definition Commercial Press
+*** 
+pinyin shēn huàn zhòngbìng
+characters 身患重病
+serial-number CedPane28562
+definition suffering from a terrible sickness
+*** 
+pinyin Zhōng-Ài jiànjiāo
+characters 中爱建交[-愛--]
+serial-number CedPane28563
+definition Sino-Irish relations (diplomatic)
+*** 
+pinyin Bātè
+characters 巴特
+serial-number CedPane28566
+definition Bart
+*** 
+pinyin chāojué jìngzuò
+characters 超觉静坐[-覺靜-]
+serial-number CedPane28568
+definition transcendental meditation
+*** 
+pinyin chīdàobǎo
+characters 吃到饱[--飽]
+serial-number CedPane28570
+definition all you can eat
+*** 
+pinyin Dámài
+characters 达迈[達邁]
+serial-number CedPane28572
+definition Talmai
+*** 
+pinyin Dàqín Jǐngjiào Liúxíng Zhōngguó Bēi
+characters 大秦景教流行中国碑[-------國-]
+serial-number CedPane28573
+definition Xi'an Stele; Memorial of the Propagation in China of the Luminous Religion from Daqin (781CE)
+*** 
+pinyin dǐ
+characters 閪
+serial-number CedPane28575
+environment   vulgar Cantonese
+definition vagina
+*** 
+pinyin diànnǎoshì
+characters 电脑室[電腦-]
+serial-number CedPane28576
+definition computer room (for mainframe?)
+*** 
+pinyin diǎo
+characters 𨳒
+serial-number CedPane28577
+environment   vulgar, Cantonese
+definition penis
+*** 
+pinyin Dùsī
+characters 杜斯
+serial-number CedPane28579
+definition Dos (name)
+*** 
+pinyin gé
+characters 嘅
+serial-number CedPane28581
+definition Cantonese possessive particle
+*** 
+pinyin Hāqīnsēn
+characters 哈钦森[-欽-]
+serial-number CedPane28582
+definition Hutchinson
+*** 
+pinyin Hāqísēn
+characters 哈奇森
+serial-number CedPane28583
+definition Hutchison
+*** 
+pinyin Hēnglì Bāshì
+characters 亨利八世
+serial-number CedPane28584
+definition King Henry the Eighth (play title)
+*** 
+pinyin huǒjì
+characters 火祭
+serial-number CedPane28587
+definition offering made by fire
+*** 
+pinyin Jiéxī
+characters 杰西[傑-]
+serial-number CedPane28590
+definition Jesse (modern)
+*** 
+pinyin jīngxíng
+characters 经行[經-]
+serial-number CedPane28591
+environment   Budd.
+definition kinhin (Zen walking meditation)
+*** 
+pinyin mèimeimen
+characters 妹妹们[--們]
+serial-number CedPane28593
+definition younger sisters (fleshly)
+*** 
+pinyin míngsī
+characters 冥思
+serial-number CedPane28595
+definition meditation (yoga type)
+*** 
+pinyin qùhuí
+characters 去回
+serial-number CedPane28596
+definition go and return
+*** 
+pinyin Shèngjīng Xīn Shìjiè Yìběn
+characters 圣经新世界译本[聖經---譯-]
+serial-number CedPane28599
+definition New World Translation of the Holy Scriptures
+*** 
+pinyin shēngmìng shù
+characters 生命树[--樹]
+serial-number CedPane28601
+definition tree of life
+*** 
+pinyin wùrènwéi
+characters 误认为[誤認為]
+serial-number CedPane28610
+definition mistakenly think
+*** 
+pinyin xiàngmù fúhào
+characters 项目符号[項--號]
+serial-number CedPane28612
+definition bullet point (symbol)
+*** 
+pinyin Xīmǎn
+characters 西满[-滿]
+serial-number CedPane28613
+definition Symeon
+*** 
+pinyin xīn zhèngzhìjiā
+characters 新政治家
+serial-number CedPane28616
+definition New Statesman (magazine title)
+*** 
+pinyin yàoshǔkuí
+characters 药蜀葵[藥--]
+serial-number CedPane28618
+definition marshmallow (plant, see notes)
+*** 
+pinyin Yēsū shēngtiān jié
+characters 耶稣升天节[-穌--節]
+serial-number CedPane28622
+definition Ascension Day
+*** 
+pinyin Yīmǎmù
+characters 伊玛目[-瑪-]
+serial-number CedPane28624
+definition Imam (Islamic title)
+*** 
+pinyin zhēn hé xìbāo
+characters 真核细胞[--細-]
+serial-number CedPane28627
+definition eukaryotic cells (lit. true nucleus cells)
+*** 
+pinyin zhǔjiàozhǎng
+characters 主教长[--長]
+serial-number CedPane28630
+definition Primate (Catholic title)
+*** 
+pinyin wēijīshì
+characters 微机室[-機-]
+serial-number CedPane28632
+definition computer room (of microcomputers)
+*** 
+pinyin Àidīngdùn
+characters 爱丁顿[愛-頓]
+serial-number CedPane28633
+definition Eddington
+*** 
+pinyin Bēnsà
+characters 奔萨[-薩]
+serial-number CedPane28634
+definition Penza
+*** 
+pinyin biǎobáitiè
+characters 表白帖
+serial-number CedPane28635
+definition note to explain oneself
+*** 
+pinyin bóhòu
+characters 博后
+serial-number CedPane28636
+definition post-doc (after PhD)
+*** 
+pinyin Dì'ěrtè
+characters 蒂尔特[-爾-]
+serial-number CedPane28637
+definition Tirtha
+*** 
+pinyin fēngfùhuà
+characters 丰富化[豐--]
+serial-number CedPane28638
+definition enrichment
+*** 
+pinyin Jímǐléi
+characters 吉米雷
+serial-number CedPane28639
+definition Ghimire
+*** 
+pinyin jìngmò móshì
+characters 静默模式[靜---]
+serial-number CedPane28640
+definition silent mode
+*** 
+pinyin jīngxì jiégòu chángshù
+characters 精细结构常数[-細結構-數]
+serial-number CedPane28641
+environment   phy.
+definition fine-structure constant
+*** 
+pinyin lùnùzhèng
+characters 路怒症
+serial-number CedPane28642
+definition road rage
+*** 
+pinyin shíbié shǒuzhàng
+characters 识别手杖[識別--]
+serial-number CedPane28643
+definition symbol cane
+*** 
+pinyin shìwù
+characters 市务[-務]
+serial-number CedPane28644
+definition marketing
+*** 
+pinyin shìwùbù
+characters 市务部[-務-]
+serial-number CedPane28645
+definition marketing department
+*** 
+pinyin shùjù fēngfùhuà
+characters 数据丰富化[數據豐--]
+serial-number CedPane28646
+definition data enrichment (corporate amalgamation of customer data)
+*** 
+pinyin Shùwèi Bùzhǎng
+characters 数位部长[數--長]
+serial-number CedPane28647
+definition Digital Minister (government post in some countries)
+*** 
+pinyin tíngzhuàn
+characters 停转[-轉]
+serial-number CedPane28648
+definition stall (of car engine etc)
+*** 
+pinyin tǒngyīchǎnglùn
+characters 统一场论[統-場論]
+serial-number CedPane28649
+environment   phy.
+definition unified field theory
+*** 
+pinyin Wǔyīzhèn
+characters 五一镇[--鎮]
+serial-number CedPane28650
+definition Pervomayskiy (town)
+*** 
+pinyin Xǐmǎlāyǎ
+characters 喜马拉雅[-馬--]
+serial-number CedPane28651
+definition Ximalaya (podcast and audiobooks website)
+*** 
+pinyin zháyú shǔtiáo
+characters 炸鱼薯条[-魚-條]
+serial-number CedPane28652
+definition fish and chips
+*** 
+pinyin zìwǒ biǎobái
+characters 自我表白
+serial-number CedPane28653
+definition explain oneself
