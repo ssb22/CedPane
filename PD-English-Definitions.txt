@@ -4150,11 +4150,11 @@
 他人		another
 他们		they
 他們		they
-他加祿語		Tagalog (language)
-他加禄语		Tagalog (language)
+他加祿語		Tagalog
+他加禄语		Tagalog
 他型		allotype
-他妈的		fucking
-他媽的		fucking
+他妈的		<vulgar> bother!
+他媽的		<vulgar> bother!
 他杀		homicide
 他殺		homicide
 他生物		allothigene
@@ -7452,7 +7452,7 @@
 兔		rabbit
 兔唇		harelip
 兔子		hare/rabbit
-兔崽子		bastard/brat
+兔崽子		brat
 兖州		Yanzhou
 兖州市		Yanzhou
 兗州		Yanzhou
@@ -8359,7 +8359,7 @@
 兽		beast/beastly
 兽力车		animal-drawn vehicle
 兽医		vet/veterinary/veterinarian
-兽奸		buggery/bestiality
+兽奸		bestiality
 兽性		brutal
 兽皮		animal skin
 兽穴		animal den
@@ -17770,7 +17770,6 @@
 坎貝爾		Campbell
 坎贝尔		Campbell
 坏		broken
-坏东西		bastard/scoundrel
 坏事		bad thing
 坏人		bad person
 坏分子		bad element
@@ -17778,7 +17777,7 @@
 坏帐		bad debt
 坏死		necrosis
 坏疽		gangrene
-坏蛋		bastard/scoundrel
+坏蛋		scoundrel
 坏血病		scurvy
 坐		take a seat/to sit/sit
 坐下		sit down/to sit down
@@ -18708,11 +18707,11 @@
 壞事		bad thing
 壞人		bad person
 壞帳		bad debt
-壞東西		bastard/scoundrel
+壞東西		scoundrel
 壞死		necrosis
 壞疽		gangrene
 壞處		harm/disadvantage
-壞蛋		bastard/scoundrel
+壞蛋		scoundrel
 壞血病		scurvy
 壟斷		to monopolize/monopolize
 壟斷販賣		monopoly
@@ -24300,8 +24299,8 @@
 屁		fart/flatulence/nonsense
 屁股		buttocks/butt
 屁股眼		anus
-屁話		nonsense/shit
-屁话		nonsense/shit
+屁話		nonsense
+屁话		nonsense
 层		floor
 层压		lamination
 层子		stratum
@@ -26141,7 +26140,7 @@
 幸虧		fortunately/luckily
 幸运		fortunate
 幸運		fortunate
-幹		work/do/to fuck
+幹		do/work
 幹事		administrator
 幹勁		enthusiasm
 幹勁兒		drive/enthusiasm/vigor
@@ -26543,7 +26542,7 @@
 庵		hut
 庶		numerous
 庶几		almost/maybe
-庶子		bastard
+庶子		illegitimate
 庶室		concubine
 庶幾		almost/maybe
 庶民		pleb/the multitude
@@ -31755,7 +31754,7 @@
 拉姆安拉		Ramallah
 拉宾		Rabin
 拉尔夫		Ralph
-拉屎		shit
+拉屎		excrement
 拉山头		form a faction
 拉山頭		form a faction
 拉巴斯		La Paz
@@ -38330,7 +38329,7 @@
 杂技演员		acrobat
 杂文		essay
 杂树林		copse
-杂种		son of a bitch/bastard/hybrid
+杂种		illegitimate child
 杂耍		vaudeville
 杂色		motley
 杂草		weeds
@@ -48450,9 +48449,9 @@
 狗咬狗		dogfight/dog-eat-dog
 狗娘养的		son of a bitch
 狗娘養的		son of a bitch
-狗屁		bullshit/nonsense
+狗屁		nonsense
 狗屋		kennel
-狗屎		bullshit
+狗屎		nonsense
 狗拿耗子		be meddlesome
 狗杂种		son of a bitch
 狗熊		coward/black bear
@@ -48833,7 +48832,7 @@
 獷		boorish/uncouth
 獸		beast/beastly
 獸力車		animal-drawn vehicle
-獸奸		buggery
+獸奸		bestiality
 獸姦		bestiality
 獸性		brutal
 獸皮		animal skin
@@ -54015,7 +54014,7 @@
 私欲		selfish desire
 私法		private law
 私營		private
-私生子		illegitimate/bastard
+私生子		illegitimate
 私立		private
 私立学校		private school
 私立學校		private school
@@ -74072,8 +74071,8 @@
 野生動物		wild animal
 野生生物		wildlife
 野禽		fowl
-野种		bastard
-野種		bastard
+野种		illegitimate
+野種		illegitimate
 野花		wild flower
 野苹果		crabapple
 野草		weeds
@@ -77765,7 +77764,7 @@
 雜技演員		acrobat
 雜文		essay
 雜樹林		copse
-雜種		son of a bitch/bastard/hybrid
+雜種		illegitimate
 雜耍		vaudeville
 雜色		motley
 雜草		weeds
@@ -77782,7 +77781,7 @@
 雞丁		diced chicken meat
 雞冠		crest
 雞冠花		cockscomb
-雞奸		sodomy/buggery
+雞奸		sodomy
 雞尾酒		cocktail
 雞巴		penis
 雞東		Jidong
@@ -81641,7 +81640,7 @@
 鯫		minnow/small fish
 鯰魚		catfish
 鯷魚		anchovy
-鯽		bastard carp
+鯽		illegitimate carp
 鰈		sole
 鰈片		filleted plaice
 鰈鮫		sturgeon
@@ -81806,7 +81805,7 @@
 鲨		shark
 鲨鱼		shark
 鲨鱼皮		sharkskin
-鲫		bastard carp
+鲫		illegitimate carp
 鲭		mackerel
 鲭鱼		mackerel
 鲮鲤		pangolin
@@ -82032,7 +82031,7 @@
 鸡冠		crest
 鸡冠花		cockscomb
 鸡头米		Gorgon fruit
-鸡奸		sodomy/buggery
+鸡奸		sodomy
 鸡婆		hen
 鸡尾酒		cocktail
 鸡巴		penis
