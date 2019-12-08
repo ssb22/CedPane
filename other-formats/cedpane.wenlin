@@ -57023,7 +57023,7 @@ characters 雅述
 serial-number CedPane11445
 definition Jashub
 *** 
-pinyin Yàshù
+pinyin Yàshù*
 characters 亚述[亞-]
 serial-number CedPane11446
 definition Assyria
@@ -115590,7 +115590,7 @@ pinyin mìnglìngháng jièmiàn
 characters 命令行界面
 serial-number CedPane23318
 environment   comp.
-definition command-line interface
+definition command-line interface; CLI
 *** 
 pinyin Míngshān Qū
 characters 名山区[--區]
@@ -122347,7 +122347,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-11-28
+definition CedPane: this is version 2019-12-08
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -141344,3 +141344,615 @@ pinyin zìwǒ biǎobái
 characters 自我表白
 serial-number CedPane28653
 definition explain oneself
+*** 
+pinyin Àilì
+characters 艾力
+serial-number CedPane28654
+definition Eric
+*** 
+pinyin Cān-Zhòng liǎng yuàn
+characters 参众两院[參眾兩-]
+serial-number CedPane28655
+definition Senate and House of Representatives (in USA)
+*** 
+pinyin chéngshì kǒngbùzhǔyì
+characters 城市恐怖主义[-----義]
+serial-number CedPane28656
+definition urban terrorism
+*** 
+pinyin kàngyì shìwēi
+characters 抗议示威[-議--]
+serial-number CedPane28657
+definition protest march
+*** 
+pinyin Kèlǔzī
+characters 克鲁兹[-魯茲]
+serial-number CedPane28658
+definition Cruz
+*** 
+pinyin Lù'ān
+characters 露安
+serial-number CedPane28659
+definition Lu-Ann
+*** 
+pinyin Měiguó Yǒuxiàn Diànshì Xīnwén Wǎng
+characters 美国有线电视新闻网[-國-線電視-聞網]
+serial-number CedPane28660
+definition CNN; Camble News Network (USA)
+*** 
+pinyin Shèngkèlālìtǎ
+characters 圣克拉丽塔[聖--麗-]
+serial-number CedPane28661
+definition Santa Clarita
+*** 
+pinyin sǐhuǎn xiànzhì jiǎnxíng
+characters 死缓限制减刑[-緩--減-]
+serial-number CedPane28662
+environment   PRC
+definition suspended death sentence with limits on commutation
+*** 
+pinyin wánzhěng zhēnxiàng
+characters 完整真相
+serial-number CedPane28663
+definition whole truth; real situation
+*** 
+pinyin xiǎowántóng
+characters 小顽童[-頑-]
+serial-number CedPane28664
+definition brat; naughty child
+*** 
+pinyin zìyóu mínzhǔzhǔyì
+characters 自由民主主义[-----義]
+serial-number CedPane28665
+definition liberal democracy (political theory)
+*** 
+pinyin Ào'ěrsōng
+characters 奥尔松[奧爾-]
+serial-number CedPane28666
+definition Olsson
+*** 
+pinyin biānchéng jìqiǎo
+characters 编程技巧[編---]
+serial-number CedPane28667
+environment   comp.
+definition programming technique
+*** 
+pinyin biānxiěchū
+characters 编写出[編寫-]
+serial-number CedPane28668
+environment   comp.
+definition write (a program)
+*** 
+pinyin bǐjiào hánshù
+characters 比较函数[-較-數]
+serial-number CedPane28669
+definition comparison function
+*** 
+pinyin Bóluóyī
+characters 博罗依[-羅-]
+serial-number CedPane28670
+definition Bualoi
+*** 
+pinyin Bùláitènǎo
+characters 布莱特瑙[-萊--]
+serial-number CedPane28671
+definition Breitenau
+*** 
+pinyin cǎifǎnggǎo
+characters 采访稿[-訪-]
+serial-number CedPane28672
+definition interview notes
+*** 
+pinyin cānshùhuà
+characters 参数化[參數-]
+serial-number CedPane28673
+definition parameterisation; parameterised; parametric
+*** 
+pinyin cānshùhuà shèjì
+characters 参数化设计[參數-設計]
+serial-number CedPane28674
+definition parametric design
+*** 
+pinyin chábāo
+characters 茶包
+serial-number CedPane28675
+definition tea bag
+*** 
+pinyin chōuxiànglèi
+characters 抽象类[--類]
+serial-number CedPane28676
+environment   comp.
+definition abstract class
+*** 
+pinyin cóng jiānyù huòshì
+characters 从监狱获释[從監獄獲釋]
+serial-number CedPane28677
+definition released from prison
+*** 
+pinyin dìlǐxì
+characters 地理系
+serial-number CedPane28678
+definition geography department
+*** 
+pinyin duōtài
+characters 多态[-態]
+serial-number CedPane28679
+environment   comp.
+definition polymorphism
+*** 
+pinyin Ēngēluóléiluó
+characters 恩戈罗雷罗[--羅-羅]
+serial-number CedPane28680
+definition Ngororero
+*** 
+pinyin fànxíngbiānchéng
+characters 泛型编程[--編-]
+serial-number CedPane28681
+environment   comp.
+definition generic programming
+*** 
+pinyin fēngzhuāng
+characters 封装[-裝]
+serial-number CedPane28682
+environment   comp.
+definition encapsulation
+*** 
+pinyin gèrén yuányīn
+characters 个人原因[個---]
+serial-number CedPane28683
+definition personal reasons
+*** 
+pinyin Gòngnà'ěr
+characters 贡纳尔[貢納爾]
+serial-number CedPane28684
+definition Gunnar
+*** 
+pinyin gǔdiǎnxué
+characters 古典学[--學]
+serial-number CedPane28685
+definition classics (subject at university etc)
+*** 
+pinyin gǔdiǎnxuéxì
+characters 古典学系[--學-]
+serial-number CedPane28686
+definition classics department
+*** 
+pinyin Hājíbèi
+characters 哈吉贝[--貝]
+serial-number CedPane28687
+definition Hagibis (alternate translation)
+*** 
+pinyin huídiào hánshù
+characters 回调函数[-調-數]
+serial-number CedPane28688
+environment   comp.
+definition callback function
+*** 
+pinyin huídiào jīzhì
+characters 回调机制[-調機-]
+serial-number CedPane28689
+environment   comp.
+definition callback mechanism
+*** 
+pinyin jiànglín jiérì lì
+characters 降临节日历[-臨節-曆]
+serial-number CedPane28690
+definition advent calendar
+*** 
+pinyin jìchéng
+characters 继承[繼-]
+serial-number CedPane28691
+environment   comp.
+definition inheritance
+*** 
+pinyin Jīchǔ Lèi Kù
+characters 基础类库[-礎類庫]
+serial-number CedPane28692
+environment   comp.
+definition Base Class Library; BCL
+*** 
+pinyin jùbǐng
+characters 句柄
+serial-number CedPane28693
+environment   comp.
+definition handle
+*** 
+pinyin jùtóujīng
+characters 巨头鲸[-頭鯨]
+serial-number CedPane28694
+definition pilot whale (alternate translation)
+*** 
+pinyin Kǎlìméisà
+characters 卡利梅萨[---薩]
+serial-number CedPane28695
+definition Calimesa
+*** 
+pinyin kǎo ge shì
+characters 考个试[-個試]
+serial-number CedPane28696
+definition take an examination
+*** 
+pinyin Kǎsè'ěr Shì
+characters 卡塞尔市[--爾-]
+serial-number CedPane28697
+definition Kassel (city)
+*** 
+pinyin kězàishēng
+characters 可再生
+serial-number CedPane28698
+definition renewable (energy etc)
+*** 
+pinyin kězàishēng néngyuán
+characters 可再生能源
+serial-number CedPane28699
+definition renewable energy
+*** 
+pinyin Làn Fānqié
+characters 烂番茄[爛--]
+serial-number CedPane28700
+definition Rotten Tomatoes (American film-review website)
+*** 
+pinyin lèi
+characters 类[類]
+serial-number CedPane28701
+environment   comp.
+definition class
+*** 
+pinyin lèi céngjí
+characters 类层级[類層級]
+serial-number CedPane28702
+environment   comp.
+definition class hierarchy
+*** 
+pinyin lèixíng zhuǎnhuàn
+characters 类型转换[類-轉換]
+serial-number CedPane28703
+environment   comp./C++
+definition type cast
+*** 
+pinyin Lǐxītè
+characters 里希特
+serial-number CedPane28704
+definition Richter
+*** 
+pinyin miànxiàng duìxiàng
+characters 面向对象[--對-]
+serial-number CedPane28705
+environment   comp.
+definition object-oriented
+*** 
+pinyin Mòdá'ěr
+characters 默达尔[-達爾]
+serial-number CedPane28706
+definition Myrdal
+*** 
+pinyin pàishēng
+characters 派生
+serial-number CedPane28707
+environment   comp.
+definition derivation (of classes)
+*** 
+pinyin páixù hánshù
+characters 排序函数[---數]
+serial-number CedPane28708
+environment   comp.
+definition sort function
+*** 
+pinyin Sà'ěrníkēfū
+characters 萨尔尼科夫[薩爾---]
+serial-number CedPane28709
+definition Salnikov
+*** 
+pinyin Shànglín Yuàn
+characters 上林苑
+serial-number CedPane28710
+definition Shanglin Park (138CE)
+*** 
+pinyin shāngtánduì
+characters 商谈队[-談隊]
+serial-number CedPane28711
+definition negotiating team
+*** 
+pinyin shǎnguāngdiǎn
+characters 闪光点[閃-點]
+serial-number CedPane28712
+definition strong point (of person etc)
+*** 
+pinyin shíguāng fēishì
+characters 时光飞逝[時-飛-]
+serial-number CedPane28713
+definition time flies (N V)
+*** 
+pinyin Tōngyòng Yǔyán Jiàgòu
+characters 通用语言架构[--語--構]
+serial-number CedPane28714
+definition Common Language Infrastructure (Microsoft); CLI
+*** 
+pinyin tūfā qíxiǎng
+characters 突发奇想[-發--]
+serial-number CedPane28715
+definition sudden whim
+*** 
+pinyin tuōle hòutuǐ
+characters 拖了后腿
+serial-number CedPane28716
+definition dragged down (by pulling hind legs)
+*** 
+pinyin túxíng yònghù jiēkǒu
+characters 图形用户接口[圖--戶--]
+serial-number CedPane28717
+environment   comp.
+definition graphical user interface; GUI
+*** 
+pinyin wěidà zhī chù
+characters 伟大之处[偉--處]
+serial-number CedPane28718
+definition what's great about it
+*** 
+pinyin xū fāngfǎ
+characters 虚方法[虛--]
+serial-number CedPane28719
+environment   comp./C#
+definition virtual method
+*** 
+pinyin xū hánshù
+characters 虚函数[虛-數]
+serial-number CedPane28720
+environment   comp./C++
+definition virtual function
+*** 
+pinyin xúnhuán gòuzào
+characters 循环构造[-環構-]
+serial-number CedPane28721
+environment   comp.
+definition loop construct
+*** 
+pinyin yínháng dàimǎ
+characters 银行代码[銀--碼]
+serial-number CedPane28722
+definition bank identification code; sort code
+*** 
+pinyin yuánshùjù
+characters 元数据[-數據]
+serial-number CedPane28723
+environment   comp.
+definition metadata
+*** 
+pinyin yuánsù lèixíng
+characters 元素类型[--類-]
+serial-number CedPane28724
+environment   comp.
+definition element type (in array etc)
+*** 
+pinyin zàishēng néngyuán yìwù píngzhèng
+characters 再生能源义务凭证[----義務憑證]
+serial-number CedPane28725
+definition renewables obligation certificates; ROCs
+*** 
+pinyin zhìnéng zhǐzhēn
+characters 智能指针[---針]
+serial-number CedPane28726
+environment   comp./C++
+definition smart pointer
+*** 
+pinyin zuò tí
+characters 做题[-題]
+serial-number CedPane28727
+definition do a question; answer a question in an examination
+*** 
+pinyin Bāwéiyà
+characters 巴维亚[-維亞]
+serial-number CedPane28728
+definition Bawia
+*** 
+pinyin chāojí xīngfèn
+characters 超级兴奋[-級興奮]
+serial-number CedPane28729
+definition super excited
+*** 
+pinyin děngmìdùmiàn
+characters 等密度面
+serial-number CedPane28730
+definition isopycnal (density surface)
+*** 
+pinyin děngmìdùxiàn
+characters 等密度线[---線]
+serial-number CedPane28731
+definition isopycnal (density contor line)
+*** 
+pinyin Fàngāo
+characters 梵高
+serial-number CedPane28732
+definition van Gogh
+*** 
+pinyin Fàngǔ
+characters 梵谷
+serial-number CedPane28733
+definition van Gogh
+*** 
+pinyin Fólìmín
+characters 佛利民
+serial-number CedPane28734
+definition Friedman
+*** 
+pinyin guàngchī-guàngchī
+characters 逛吃逛吃
+serial-number CedPane28735
+definition stroll around and eat (at restaurants etc)
+*** 
+pinyin guīxiàn
+characters 规限[規-]
+serial-number CedPane28736
+definition capacity; limit
+*** 
+pinyin kuàmìdùmiàn
+characters 跨密度面
+serial-number CedPane28737
+definition diapycnal (crossing isopycnals)
+*** 
+pinyin Kuíxī
+characters 奎西
+serial-number CedPane28738
+definition Kwesie
+*** 
+pinyin Léinuò'ā
+characters 雷诺阿[-諾-]
+serial-number CedPane28739
+definition Renoir
+*** 
+pinyin liánhuántú
+characters 连环图[連環圖]
+serial-number CedPane28740
+definition comics
+*** 
+pinyin Lúbǐ'ào
+characters 卢比奥[盧-奧]
+serial-number CedPane28741
+definition Rubio
+*** 
+pinyin Lúnbólǎng
+characters 伦勃朗[倫--]
+serial-number CedPane28742
+definition Rembrandt
+*** 
+pinyin měishùshǐ
+characters 美术史[-術-]
+serial-number CedPane28743
+definition art history
+*** 
+pinyin mínzhèng lǐngyù
+characters 民政领域[--領-]
+serial-number CedPane28744
+definition civilian (non-military); civil affairs
+*** 
+pinyin Mònài
+characters 莫奈
+serial-number CedPane28745
+definition Monet
+*** 
+pinyin róngrù péngyouquān
+characters 融入朋友圈
+serial-number CedPane28746
+definition fit in (with friends)
+*** 
+pinyin tàrùqítú
+characters 踏入歧途
+serial-number CedPane28747
+definition take a step in the wrong direction
+*** 
+pinyin Wénsēn
+characters 文森
+serial-number CedPane28748
+definition Vincent
+*** 
+pinyin xiǎnshì guǎnggào
+characters 显示广告[顯-廣-]
+serial-number CedPane28749
+environment   comp.
+definition display advertising
+*** 
+pinyin yìshùshǐ
+characters 艺术史[藝術-]
+serial-number CedPane28750
+definition art history
+*** 
+pinyin yōxī
+characters 哟西[喲-]
+serial-number CedPane28751
+environment   netspeak
+definition good
+*** 
+pinyin zhìyuàn fúwù
+characters 志愿服务[-願-務]
+serial-number CedPane28752
+definition volunteer service (to community organisation etc)
+*** 
+pinyin fēngtào shèjì
+characters 封套设计[--設計]
+serial-number CedPane28753
+definition packaging design
+*** 
+pinyin Bālāruìtè
+characters 巴拉瑞特
+serial-number CedPane28754
+definition Ballarat
+*** 
+pinyin bànshìr
+characters 办事儿[辦-兒]
+serial-number CedPane28755
+definition do business
+*** 
+pinyin Bèinán
+characters 贝南[貝-]
+serial-number CedPane28756
+definition Benin (alternate translation)
+*** 
+pinyin chǔyènáng
+characters 储液囊[儲--]
+serial-number CedPane28757
+definition reservoir (in animal etc)
+*** 
+pinyin fàngpì jiǎchóng
+characters 放屁甲虫[---蟲]
+serial-number CedPane28758
+definition bombardier beetle
+*** 
+pinyin fēngcháo sīwéi
+characters 蜂巢思维[---維]
+serial-number CedPane28759
+definition hive mind
+*** 
+pinyin jiǎng guānxi
+characters 讲关系[講關-]
+serial-number CedPane28760
+definition talk about one's connections (when applying to job etc)
+*** 
+pinyin jīngyīngmen
+characters 精英们[--們]
+serial-number CedPane28761
+definition elite people
+*** 
+pinyin nǚxìngzhǔyì
+characters 女性主义[---義]
+serial-number CedPane28762
+definition feminism
+*** 
+pinyin pìbù jiǎchóng
+characters 屁步甲虫[---蟲]
+serial-number CedPane28763
+definition bombardier beetle (alternate translation)
+*** 
+pinyin qìbù jiǎchóng
+characters 气步甲虫[氣--蟲]
+serial-number CedPane28764
+definition bombardier beetle (alternate translation)
+*** 
+pinyin qúntǐ xīnlǐ
+characters 群体心理[-體--]
+serial-number CedPane28765
+definition group psychology
+*** 
+pinyin qúntǐ xīnlǐxué
+characters 群体心理学[-體--學]
+serial-number CedPane28766
+definition group psychology
+*** 
+pinyin wéifǎzhě
+characters 违法者[違--]
+serial-number CedPane28767
+definition offender; lawbreaker
+*** 
+pinyin xuésheng kǎ
+characters 学生卡[學--]
+serial-number CedPane28768
+definition student card
+*** 
+pinyin yī duì fūfù
+characters 一对夫妇[-對-婦]
+serial-number CedPane28769
+definition a (married) couple
+*** 
+pinyin yīnghuāshù
+characters 樱花树[櫻-樹]
+serial-number CedPane28770
+definition cherry tree
