@@ -122347,7 +122347,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-12-08
+definition CedPane: this is version 2019-12-10
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -141378,7 +141378,7 @@ definition Lu-Ann
 pinyin Měiguó Yǒuxiàn Diànshì Xīnwén Wǎng
 characters 美国有线电视新闻网[-國-線電視-聞網]
 serial-number CedPane28660
-definition CNN; Camble News Network (USA)
+definition CNN; Cable News Network (USA)
 *** 
 pinyin Shèngkèlālìtǎ
 characters 圣克拉丽塔[聖--麗-]
@@ -141956,3 +141956,171 @@ pinyin yīnghuāshù
 characters 樱花树[櫻-樹]
 serial-number CedPane28770
 definition cherry tree
+*** 
+pinyin Àolì'ào
+characters 奥利奥[奧-奧]
+serial-number CedPane28771
+definition Oreo (biscuit)
+*** 
+pinyin báizhōu
+characters 白粥
+serial-number CedPane28772
+definition plain congee
+*** 
+pinyin chángjiǔ
+characters 尝酒[嘗-]
+serial-number CedPane28773
+definition wine tasting
+*** 
+pinyin dàn chǎofàn
+characters 蛋炒饭[--飯]
+serial-number CedPane28774
+definition fried rice with egg
+*** 
+pinyin gǔqín
+characters 鼓琴
+serial-number CedPane28775
+definition play the qin (zither)
+*** 
+pinyin hóngcǎi
+characters 红彩[紅-]
+serial-number CedPane28776
+definition red (colour)
+*** 
+pinyin hóng tiánjiāo
+characters 红甜椒[紅--]
+serial-number CedPane28777
+definition red pepper
+*** 
+pinyin húluóbo sī
+characters 胡萝卜丝[-蘿-絲]
+serial-number CedPane28778
+definition strips of carrot
+*** 
+pinyin jiāochǎo
+characters 椒炒
+serial-number CedPane28779
+definition pepper stir-fry
+*** 
+pinyin Kěnxīndùn Gōng
+characters 肯辛顿宫[--頓宮]
+serial-number CedPane28780
+definition Kensington Palace
+*** 
+pinyin kōumén
+characters 抠门[摳門]
+serial-number CedPane28781
+definition miserly
+*** 
+pinyin mǎiyīzèngyī
+characters 买一赠一[買-贈-]
+serial-number CedPane28782
+definition buy one get one free
+*** 
+pinyin Nán Háng
+characters 南航
+serial-number CedPane28783
+definition China Southern Airlines (abbreviated form)
+*** 
+pinyin pāi dìng zhuāngzhào
+characters 拍定妆照[--妝-]
+serial-number CedPane28784
+definition take a photograph while wearing make-up etc
+*** 
+pinyin réntǐ túxiàng héchéng
+characters 人体图像合成[-體圖---]
+serial-number CedPane28785
+environment   comp.
+definition human image synthesis
+*** 
+pinyin sèbiàn
+characters 色变[-變]
+serial-number CedPane28786
+definition change in complexion
+*** 
+pinyin shēnbudào
+characters 申不到
+serial-number CedPane28787
+definition unable to apply (for)
+*** 
+pinyin shēncéng fángyù
+characters 深层防御[-層--]
+serial-number CedPane28788
+environment   mil.
+definition defence in depth
+*** 
+pinyin shēndù fángyù
+characters 深度防御
+serial-number CedPane28789
+environment   comp.
+definition defense in depth; deep defense
+*** 
+pinyin shēngchéng duìkàng wǎngluò
+characters 生成对抗网络[--對-網絡]
+serial-number CedPane28790
+environment   comp.
+definition generative adversarial network; GAN (for creating 'deepfakes')
+*** 
+pinyin shēnwěi
+characters 深伪[-偽]
+serial-number CedPane28791
+environment   comp.
+definition deepfake
+*** 
+pinyin shìchá
+characters 试茶[試-]
+serial-number CedPane28792
+definition tea tasting
+*** 
+pinyin suíjī mànbù
+characters 随机漫步[隨機--]
+serial-number CedPane28793
+environment   math.
+definition random walk
+*** 
+pinyin tánxìng fángyù
+characters 弹性防御[彈---]
+serial-number CedPane28794
+environment   mil.
+definition defence in depth
+*** 
+pinyin wēilà
+characters 微辣
+serial-number CedPane28795
+definition a bit spicy
+*** 
+pinyin xiánkǒu
+characters 咸口
+serial-number CedPane28796
+definition salty (flavour)
+*** 
+pinyin Yìngyòngbǎo
+characters 应用宝[應-寶]
+serial-number CedPane28797
+definition MyApp (Tencent app store)
+*** 
+pinyin yuèshū
+characters 阅书[閱書]
+serial-number CedPane28798
+definition read books
+*** 
+pinyin Zhōngguó Nánfāng Hángkōng
+characters 中国南方航空[-國----]
+serial-number CedPane28799
+definition China Southern Airlines
+*** 
+pinyin Zhōng-Yīng zhùshì
+characters 中英注释[---釋]
+serial-number CedPane28800
+definition Chinese-English bilingual definitions (in dictionary etc)
+*** 
+pinyin zhuāngzhào
+characters 妆照[妝-]
+serial-number CedPane28801
+definition photograph taken while wearing make-up etc
+*** 
+pinyin zòngshēn fángyù
+characters 纵深防御[縱---]
+serial-number CedPane28802
+environment   mil.
+definition defence in depth

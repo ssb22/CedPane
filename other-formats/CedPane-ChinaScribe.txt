@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-12-08
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-12-10
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -1176,6 +1176,7 @@
 奧里亞語 奥里亚语 [Ao4 li3 ya4 yu3] /Odia (language)/
 奧利 奥利 [Ao4 li4] /Olih/
 奧利安娜 奥利安娜 [Ao4 li4 an1 na4] /Oleanna/
+奧利奧 奥利奥 [Ao4 li4 ao4] /Oreo (biscuit)/
 奧利佛 奥利佛 [Ao4 li4 fo2] /Oliver/
 奧利弗 奥利弗 [Ao4 li4 fu2] /Oliver/
 奧莉芙 奥莉芙 [Ao4 li4 fu2] /Olive (name)/
@@ -5566,7 +5567,7 @@
 含族 含族 [Han2 zu2] /Hamites/
 含族人 含族人 [Han2 zu2 ren2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-12-08/this is version 2019-12-08, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-12-10/this is version 2019-12-10, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
@@ -8006,6 +8007,7 @@
 肯涅利 肯涅利 [Ken3 nie4 li4] /Kennelly/
 肯普斯 肯普斯 [Ken3 pu3 si1] /Kemps/
 肯特 肯特 [Ken3 te4] /Kent/
+肯辛頓宮 肯辛顿宫 [Ken3 xin1 dun4_Gong1] /Kensington Palace/Palace, Kensington/
 肯雅塔 肯雅塔 [Ken3 ya3 ta3] /Kenyatta/
 肯亞 肯亚 [Ken3 ya4] /Kenya (alternate translation)/
 崆峒區 崆峒区 [Kong1 dong4_Qu1] /Kongdong District/District, Kongdong/
@@ -10417,7 +10419,7 @@
 美國新聞與世界報道 美国新闻与世界报道 [Mei3 guo2_Xin1 wen2_yu3_Shi4 jie4_Bao4 dao4] /U.S.News & World Report/World Report, U.S.News &/
 美國心臟病學會雜志 美国心脏病学会杂志 [Mei3 guo2_Xin1 zang4 bing4_Xue2 hui4_Za2 zhi4] /Journal of the American College of Cardiology/American College of Cardiology, Journal of the/
 美國醫學會雜志 美国医学会杂志 [Mei3 guo2_Yi1 xue2 hui4_Za2 zhi4] /Journal of the American Medical Association/JAMA/American Medical Association, Journal of the/
-美國有線電視新聞網 美国有线电视新闻网 [Mei3 guo2_You3 xian4_Dian4 shi4_Xin1 wen2_Wang3] /CNN/Camble News Network (USA)/
+美國有線電視新聞網 美国有线电视新闻网 [Mei3 guo2_You3 xian4_Dian4 shi4_Xin1 wen2_Wang3] /CNN/Cable News Network (USA)/
 美國運通 美国运通 [Mei3 guo2_Yun4 tong1] /American Express (corporation)/Express, American (corporation)/
 美國百科全書 美国百科全书 [Mei3 guo2_bai3 ke1 quan2 shu1] /Encyclopedia Americana/Americana/Americana, Encyclopedia/
 美國東岸 美国东岸 [Mei3 guo2_dong1 an4] /the East Coast of the United States/East Coast of the United States, the/
@@ -11164,6 +11166,7 @@
 奈姆 奈姆 [Nai4 mu3] /Neím/
 耐斯特 耐斯特 [Nai4 si1 te4] /Nestlé/
 奈特 奈特 [Nai4 te4] /Nate/
+南航 南航 [Nan2_Hang2] /China Southern Airlines (abbreviated form)/Southern Airlines, China (abbreviated form)/
 南加利福尼亞大學 南加利福尼亚大学 [Nan2_Jia1 li4 fu2 ni2 ya4_Da4 xue2] /University of Southern California/Southern California, University of/
 南縣 南县 [Nan2_Xian4] /Nan County/County, Nan/
 南安 南安 [Nan2 an1] /Nan'an (in Fujian)/
@@ -17695,6 +17698,7 @@
 影音服務 影音服务 [Ying3 yin1_Fu2 wu4] /Audio|Video Services/Services, Audio|Video/
 潁州區 颍州区 [Ying3 zhou1_Qu1] /Yingzhou District/District, Yingzhou/
 硬果仁 硬果仁 [Ying4 guo3 ren2] /English person/person, English/<netspeak>/
+應用寶 应用宝 [Ying4 yong4 bao3] /MyApp (Tencent app store)/
 應用程序管理器 应用程序管理器 [Ying4 yong4 cheng2 xu4_Guan3 li3 qi4] /Application Manager (Android 5)/Manager, Application (Android 5)/
 邕寧區 邕宁区 [Yong1 ning4_Qu1] /Yongning District/District, Yongning/
 雍正時代 雍正时代 [Yong1 zheng4_shi2 dai4] /Yongzheng period/period, Yongzheng/
@@ -18353,6 +18357,7 @@
 中英兩地 中英两地 [Zhong1 Ying1_liang3_di4] /both China and the UK/China and the UK, both/
 中英兩國 中英两国 [Zhong1 Ying1_liang3_guo2] /China-UK (joint cooperation etc)/
 中英雙語 中英双语 [Zhong1 Ying1_shuang1 yu3] /Chinese-English bilingual/bilingual, Chinese-English/
+中英注釋 中英注释 [Zhong1 Ying1_zhu4 shi4] /Chinese-English bilingual definitions (in dictionary etc)/bilingual definitions, Chinese-English (in dictionary etc)/
 中英文 中英文 [Zhong1 Ying1 wen2] /Chinese and English (printed together)/English, Chinese and (printed together)/
 中越戰爭 中越战争 [Zhong1 Yue4_Zhan4 zheng1] /Sino-Vietnamese War (1979)/
 中標麒麟 中标麒麟 [Zhong1 biao1_Qi2 lin2] /NeoKylin (pre-Ubuntu)/
@@ -18367,6 +18372,7 @@
 中國科學技術大學 中国科学技术大学 [Zhong1 guo2_Ke1 xue2_Ji4 shu4_Da4 xue2] /University of Science and Technology of China/USTC/Science and Technology of China, University of/
 中國媒體評估委員會 中国媒体评估委员会 [Zhong1 guo2_Mei2 ti3_Ping2 gu1_Wei3 yuan2 hui4] /China Media Rating Council/Media Rating Council, China/
 中國民族報 中国民族报 [Zhong1 guo2_Min2 zu2_Bao4] /China Ethnic News/Ethnic News, China/
+中國南方航空 中国南方航空 [Zhong1 guo2_Nan2 fang1_Hang2 kong1] /China Southern Airlines/Southern Airlines, China/
 中國南極天文中心 中国南极天文中心 [Zhong1 guo2_Nan2 ji2_Tian1 wen2_Zhong1 xin1] /Chinese Center for Antarctic Astronomy/Center for Antarctic Astronomy, Chinese/
 中國氣象局 中国气象局 [Zhong1 guo2_Qi4 xiang4 ju2] /China Meterological Association/Meterological Association, China/
 中國手語 中国手语 [Zhong1 guo2_Shou3 yu3] /Chinese Sign Language/Sign Language, Chinese/
@@ -18730,6 +18736,7 @@
 白細胞介素 白细胞介素 [bai2 xi4 bao1_jie4 su4] /interleukins/
 白蟻窩 白蚁窝 [bai2 yi3 wo1] /termite hill/hill, termite/
 白疹 白疹 [bai2 zhen3] /white eruption (skin rash)/eruption, white (skin rash)/
+白粥 白粥 [bai2 zhou1] /plain congee/congee, plain/
 百次不容 百次不容 [bai3_ci4_bu4_rong2] /will never be tolerated/never be tolerated, will/
 百次不用 百次不用 [bai3_ci4_bu4_yong4] /will never be appointed (to responsible position)/never be appointed, will (to responsible position)/
 百分之一 百分之一 [bai3_fen1 zhi1_yi1] /one percent/percent, one/
@@ -19417,6 +19424,7 @@
 嘗盡 尝尽 [chang2 jin4] /full of (metaphorically; lit. taste exhausted)/
 長頸羚 长颈羚 [chang2 jing3 ling2] /gerenuk (animal)/
 長頸族 长颈族 [chang2 jing3 zu2] /long-neck tribe (Padaung, outsider name for Kayan people)/tribe, long-neck (Padaung, outsider name for Kayan people)/
+嘗酒 尝酒 [chang2 jiu3] /wine tasting/tasting, wine/
 長流不息 长流不息 [chang2 liu2 bu4 xi1] /ever-flowing/
 腸漏症 肠漏症 [chang2 lou4 zheng4] /leaky gut syndrome (unproven; nocebo)/syndrome, leaky gut (unproven; nocebo)/
 常綠樹林 常绿树林 [chang2 lu:4_shu4 lin2] /evergreen forest/forest, evergreen/
@@ -20000,6 +20008,7 @@
 單褶 单褶 [dan1 zhe3] /pleated (trousers style)/
 擔罪 担罪 [dan1 zui4] /bear sin/
 膽小懦弱的人 胆小懦弱的人 [dan3 xiao3_nuo4 ruo4_de5_ren2] /cowards/
+蛋炒飯 蛋炒饭 [dan4_chao3 fan4] /fried rice with egg/rice with egg, fried/
 氮循環 氮循环 [dan4_xun2 huan2] /nitrogen cycle/cycle, nitrogen/
 蛋白質構象病 蛋白质构象病 [dan4 bai2 zhi4_gou4_xiang4_bing4] /proteopathy/misfolding disease/
 蛋奶糕 蛋奶糕 [dan4 nai3 gao1] /baked flan (American)/flan, baked (American)/
@@ -21193,6 +21202,7 @@
 古米 古米 [gu3 mi3] /cumi (old translation?)/
 股票買賣 股票买卖 [gu3 piao4_mai3 mai4] /trading in the stock market/stock market, trading in the/
 股票與債券 股票与债券 [gu3 piao4_yu3_zhai4 quan4] /stocks and bonds/bonds, stocks and/
+鼓琴 鼓琴 [gu3 qin2] /play the qin (zither)/
 骨髓移植 骨髓移植 [gu3 sui3_yi2 zhi2] /bone-marrow transplants/transplants, bone-marrow/
 骨外科 骨外科 [gu3 wai4 ke1] /orthopedic surgery/surgery, orthopedic/
 鼓舞歡欣 鼓舞欢欣 [gu3 wu3 huan1 xin1] /inspired and elated/elated, inspired and/
@@ -21550,9 +21560,11 @@
 烘好 烘好 [hong1 hao3] /roasted/
 紅醋栗 红醋栗 [hong2_cu4 li4] /red currant/currant, red/
 紅玫瑰 红玫瑰 [hong2_mei2 gui5] /red rose/rose, red/
+紅甜椒 红甜椒 [hong2_tian2 jiao1] /red pepper/pepper, red/
 紅白波 红白波 [hong2 bai2_bo1] /watermelon ball (HK sports ball)/ball, watermelon (HK sports ball)/
 紅斑狼瘡 红斑狼疮 [hong2 ban1_lang2 chuang1] /lupus/
 宏包 宏包 [hong2 bao1] /LaTeX package/package, LaTeX/<comp.>/
+紅彩 红彩 [hong2 cai3] /red (colour)/
 紅超巨星 红超巨星 [hong2 chao1 ju4 xing1] /red supergiant (star)/supergiant, red (star)/
 紅綢 红绸 [hong2 chou2] /red sari/sari, red/
 紅腹濱鷸 红腹滨鹬 [hong2 fu4 bin1 yu4] /red knot (type of seabird)/knot, red (type of seabird)/
@@ -21602,6 +21614,7 @@
 葫蘆絲 葫芦丝 [hu2 lu2 si1] /cucurbit flute/flute, cucurbit/
 葫蘆巴 葫芦巴 [hu2 lu5 ba1] /fenugreek (pinyin uncertain)/
 葫蘆胡 葫芦胡 [hu2 lu5 hu2] /huluhu (bottle-gourd huqin instrument)/
+胡蘿卜絲 胡萝卜丝 [hu2 luo2 bo5_si1] /strips of carrot/carrot, strips of/
 葫蘆樹 葫芦树 [hu2 lu5 shu4] /bottle-gourd plant (old translation)/plant, bottle-gourd (old translation)/
 葫蘆藤 葫芦藤 [hu2 lu5 teng2] /bottle-gourd plant/plant, bottle-gourd/
 糊塗死了 糊涂死了 [hu2 tu5_si3_le5] /confused to death/death, confused to/
@@ -22143,6 +22156,7 @@
 降速 降速 [jiang4 su4] /spin down/down, spin/
 降完 降完 [jiang4 wan2] /finish pouring out (?)/pouring out, finish (?)/
 醬子 酱子 [jiang4 zi5] /like that/<netspeak>/
+椒炒 椒炒 [jiao1 chao3] /pepper stir-fry/stir-fry, pepper/
 交感神經系統 交感神经系统 [jiao1 gan3_shen2 jing1_xi4 tong3] /sympathetic nervous system/nervous system, sympathetic/
 澆灌混凝土 浇灌混凝土 [jiao1 guan4_hun4 ning2 tu3] /pour concrete/concrete, pour/
 教會元老 教会元老 [jiao1 hui4_yuan2 lao3] /church fathers/fathers, church/
@@ -22749,6 +22763,7 @@
 控制閥 控制阀 [kong4 zhi4 fa2] /control valve/valve, control/
 控制盤 控制盘 [kong4 zhi4 pan2] /control panel/panel, control/
 摳鼻 抠鼻 [kou1 bi2] /pick nose/nose, pick/
+摳門 抠门 [kou1 men2] /miserly/
 口碑營銷 口碑营销 [kou3 bei1_ying2 xiao1] /word-of-mouth marketing/marketing, word-of-mouth/
 口出狂言 口出狂言 [kou3 chu1_kuang2 yan2] /speak arrogantly/empty word of lips/arrogantly, speak/word of lips, empty/
 口出惡言 口出恶言 [kou3 chu1 e4 yan2] /say bad things/things, say bad/
@@ -23252,6 +23267,7 @@
 買菜 买菜 [mai3_cai4] /buy food (for cooking)/food, buy (for cooking)/
 買盡 买尽 [mai3 jin4] /buy out/
 買賣聖職 买卖圣职 [mai3 mai4_sheng4 zhi2] /simony (lit. buying|selling religious post)/
+買一贈一 买一赠一 [mai3 yi1 zeng4 yi1] /buy one get one free/free, buy one get one/
 邁出一大步 迈出一大步 [mai4 chu1_yi1_da4_bu4] /take a big step (fig.|lit.)/step, take a big (fig.|lit.)/
 賣到 卖到 [mai4 dao4] /sell into (a place)/
 麥稈 麦秆 [mai4 gan3] /straw/
@@ -23782,6 +23798,7 @@
 帕蒂塔 帕蒂塔 [pa4 di4 ta3] /partita (suite, Bach etc)/
 帕斯 帕斯 [pa4 si1] /pas (Greek all|all-sorts)/
 拍到 拍到 [pai1_dao4] /catch (on camera)/
+拍定妝照 拍定妆照 [pai1_ding4_zhuang1 zhao4] /take a photograph while wearing make-up etc/photograph while wearing make-up etc, take a/
 拍張照 拍张照 [pai1_zhang1_zhao4] /take a picture/picture, take a/
 拍拍照 拍拍照 [pai1 pai5 zhao4] /take photograph (informal)/photograph, take (informal)/
 排版員 排版员 [pai2 ban3 yuan2] /typesetter (person)/
@@ -24341,6 +24358,7 @@
 人生經驗 人生经验 [ren2 sheng1_jing1 yan4] /life experience/experience, life/
 人生准則 人生准则 [ren2 sheng1_zhun3 ze2] /values (in life)/
 人獸交 人兽交 [ren2 shou4 jiao1] /bestiality/
+人體圖像合成 人体图像合成 [ren2 ti3_tu2 xiang4_he2 cheng2] /human image synthesis/image synthesis, human/<comp.>/
 人文區 人文区 [ren2 wen2 qu1] /humanities area (in library)/area, humanities (in library)/
 人文主義運動 人文主义运动 [ren2 wen2 zhu3 yi4_yun4 dong4] /the humanist movement/humanist movement, the/
 人文主義者 人文主义者 [ren2 wen2 zhu3 yi4 zhe3] /humanist (person; older translation)/
@@ -24489,6 +24507,7 @@
 扫净 扫净 [sao3 jing4] /sweep clean/clean, sweep/
 掃碼 扫码 [sao3 ma3] /scan code (QR etc)/code, scan (QR etc)/
 掃描儀 扫描仪 [sao3 miao2 yi2] /scanner/
+色變 色变 [se4 bian4] /change in complexion/complexion, change in/
 色覺缺陷 色觉缺陷 [se4 jue2_que1 xian4] /colour vision deficiency/vision deficiency, colour/
 森林管理 森林管理 [sen1 lin2_guan3 li3] /forest management/management, forest/
 森嚴的城堡 森严的城堡 [sen1 yan2_de5_cheng2 bao3] /fortified place/house of strongholds/place, fortified/strongholds, house of/
@@ -24670,8 +24689,11 @@
 深愛 深爱 [shen1 ai4] /deeply love/love, deeply/
 身心障礙 身心障碍 [shen1 xin1_zhang4 ai4] /both physical and mental disability/physical and mental disability, both/
 深表 深表 [shen1 biao3] /deeply show/show, deeply/
+申不到 申不到 [shen1 bu5 dao4] /unable to apply (for)/apply, unable to (for)/
+深層防御 深层防御 [shen1 ceng2_fang2 yu4] /defence in depth/depth, defence in/<mil.>/
 伸出援手 伸出援手 [shen1 chu1_yuan2 shou3] /extend a helping hand/helping hand, extend a/
 伸到 伸到 [shen1 dao4] /stretch to/run to (in architecture etc)/
+深度防御 深度防御 [shen1 du4_fang2 yu4] /defense in depth/deep defense/depth, defense in/<comp.>/
 深度學習 深度学习 [shen1 du4_xue2 xi2] /deep learning/learning, deep/<comp.>/
 深度游 深度游 [shen1 du4_you2] /in-depth tour/tour, in-depth/
 身份驗證 身份验证 [shen1 fen5_yan4 zheng4] /verification on QQ (lit. "identity check")/
@@ -24686,6 +24708,7 @@
 伸縮杖 伸缩杖 [shen1 suo1 zhang4] /telescopic cane/cane, telescopic/
 身體虐待 身体虐待 [shen1 ti3_nu:e4 dai4] /physical abuse/abuse, physical/
 身體上 身体上 [shen1 ti3_shang5] /physically (of human body)/
+深偽 深伪 [shen1 wei3] /deepfake/<comp.>/
 深陷 深陷 [shen1 xian4] /sink down into/down into, sink/
 伸向 伸向 [shen1 xiang4] /stretch toward/toward, stretch/
 身心俱疲 身心俱疲 [shen1 xin1 ju4 pi2] /physically and emotionally exhausted/emotionally exhausted, physically and/
@@ -24722,6 +24745,7 @@
 生雞蛋 生鸡蛋 [sheng1_ji1 dan4] /raw eggs/eggs, raw/
 生產商 生产商 [sheng1 chan3 shang1] /manufacturer/
 生辰快樂 生辰快乐 [sheng1 chen2_kuai4 le4] /happy birthday (greeting)/birthday, happy (greeting)/
+生成對抗網絡 生成对抗网络 [sheng1 cheng2_dui4 kang4_wang3 luo4] /generative adversarial network/GAN (for creating 'deepfakes')/adversarial network, generative (for creating 'deepfakes')/<comp.>/
 生成器 生成器 [sheng1 cheng2 qi4] /generator/<comp.>/
 生成素 生成素 [sheng1 cheng2 su4] /a vitamin that stimulates production of cells etc/vitamin that stimulates production of cells etc, a/
 升到 升到 [sheng1 dao4] /ascend to/
@@ -24937,6 +24961,7 @@
 視聽器材 视听器材 [shi4 ting1_qi4 cai2] /audio|video equipment/audio|video tie-in/equipment, audio|video/tie-in, audio|video/
 視聽設備 视听设备 [shi4 ting1_she4 bei4] /audiovisual equipment/equipment, audiovisual/
 士兵們 士兵们 [shi4 bing1 men5] /soldiers/
+試茶 试茶 [shi4 cha2] /tea tasting/tasting, tea/
 勢單力薄 势单力薄 [shi4 dan1 li4 bo2] /helpless/
 適當管教 适当管教 [shi4 dang4_guan3 jiao4] /proper discipline/discipline, proper/
 試點計劃 试点计划 [shi4 dian3_ji4 hua4] /pilot project/experimental project/project, pilot/
@@ -25322,6 +25347,7 @@
 隨處可聞 随处可闻 [sui2 chu4 ke3 wen2] /perceptible in every place (lit. everywhere can smell)/every place, perceptible in (lit. everywhere can smell)/
 隨大流 随大流 [sui2 da4 liu2] /go with the flow/flow, go with the/
 隨風 随风 [sui2 feng1] /be driven about by wind (lit. follow wind)/driven about by wind, be (lit. follow wind)/
+隨機漫步 随机漫步 [sui2 ji1_man4 bu4] /random walk/walk, random/<math.>/
 隨軍牧師 随军牧师 [sui2 jun1_mu4 shi1] /army chaplain (Protestant)/chaplain, army (Protestant)/
 隨軍神父 随军神父 [sui2 jun1_shen2 fu4] /Catholic army chaplain/army chaplain, Catholic/
 隨身碟 随身碟 [sui2 shen1_die2] /portable (USB|Flash) disk/disk, portable/<comp.|TW?>/
@@ -25413,6 +25439,7 @@
 彈起 弹起 [tan2 qi5] /shoot up (of trap etc)/
 談談心 谈谈心 [tan2 tan5 xin1] /talk openly/openly, talk/
 壇網 坛网 [tan2 wang3] /altar grating/grating, altar/
+彈性防御 弹性防御 [tan2 xing4_fang2 yu4] /defence in depth/depth, defence in/<mil.>/
 彈性體 弹性体 [tan2 xing4 ti3] /elastomer/elastomeric/
 坦白承認 坦白承认 [tan3 bai2_cheng2 ren4] /frankly acknowledge/acknowledge, frankly/
 毯帽 毯帽 [tan3 mao4] /felt cap/
@@ -25904,6 +25931,7 @@
 微觀進化 微观进化 [wei1 guan1_jin4 hua4] /microevolution/
 微機室 微机室 [wei1 ji1 shi4] /computer room (of microcomputers)/room, computer (of microcomputers)/
 微晶片 微晶片 [wei1 jing1 pian4] /microchip/
+微辣 微辣 [wei1 la4] /a bit spicy/spicy, a bit/
 微涼 微凉 [wei1 liang2] /slightly cool/cool, slightly/
 微量成分 微量成分 [wei1 liang4_cheng2 fen4] /(blood) fractions/
 威榮 威荣 [wei1 rong2] /splendour/
@@ -26283,6 +26311,7 @@
 咸草 咸草 [xian2 cao3] /salt herb/herb, salt/
 弦笛 弦笛 [xian2 di2] /string and flute (music)/flute, string and (music)/
 賢君 贤君 [xian2 jun1] /good king/king, good/
+咸口 咸口 [xian2 kou3] /salty (flavour)/
 閒來 閒來 [xian2 lai2] /when leisure time comes (?) (variant)/leisure time comes, when (?) (variant)/
 闲来 闲来 [xian2 lai2] /when leisure time comes (?)/leisure time comes, when (?)/
 嫌疑人 嫌疑人 [xian2 yi2 ren2] /suspect (person)/
@@ -27463,6 +27492,7 @@
 月球之旅 月球之旅 [yue4 qiu2_zhi1_lu:3] /a trip to the moon (1902 film)/trip to the moon, a (1902 film)/
 越權行事 越权行事 [yue4 quan2_xing2 shi4] /overstep the bounds of his authority/bounds of his authority, overstep the/
 月食 月食 [yue4 shi2] /eclipse of the moon/moon, eclipse of the/
+閱書 阅书 [yue4 shu1] /read books/books, read/
 月數 月数 [yue4 shu4] /number of the lunar months/count (lunar) months/lunar months, number of the/months, count/
 月台 月台 [yue4 tai2] /railway platform/platform, railway/
 越野跑 越野跑 [yue4 ye3_pao3] /cross-country running/running, cross-country/
@@ -28050,6 +28080,7 @@
 莊敬 庄敬 [zhuang1 jing4] /seriously/with serious respect/serious respect, with/
 妝容 妆容 [zhuang1 rong2] /makeup/cosmetics/
 裝飾用 装饰用 [zhuang1 shi4 yong4] /decorative/
+妝照 妆照 [zhuang1 zhao4] /photograph taken while wearing make-up etc/taken while wearing make-up etc, photograph/
 裝做 装做 [zhuang1 zuo4] /pretend to be/
 裝作若無其事 装作若无其事 [zhuang1 zuo4_ruo4 wu2 qi2 shi4] /keep a stiff upper lip/feign calmness/stiff upper lip, keep a/calmness, feign/
 撞城錘 撞城锤 [zhuang4 cheng2 chui2] /battering ram/
@@ -28204,6 +28235,7 @@
 總說 总说 [zong3 shuo1] /always say/attached to saying/say, always/saying, attached to/
 總體性 总体性 [zong3 ti3 xing4] /totality (sociological?)/
 總要警醒 总要警醒 [zong3 yao4_jing3 xing3] /stay awake (lit. should-always [be] awake)/awake, stay (lit. should-always [be] awake)/
+縱深防御 纵深防御 [zong4 shen1_fang2 yu4] /defence in depth/depth, defence in/<mil.>/
 縱慾 纵慾 [zong4 yu4] /indulge in sensual pleasures (variant)/sensual pleasures, indulge in (variant)/
 走幾步 走几步 [zou3_ji3_bu4] /walk a few paces/paces, walk a few/
 走捷徑 走捷径 [zou3_jie2 jing4] /cutting corners/corners, cutting/

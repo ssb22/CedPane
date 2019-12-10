@@ -74,6 +74,7 @@ Abishua	亚比书	亞比書	Yàbǐshū	Nga-béi-syū	ˌæbɪʃˈʉːʌ
 Abishur	亚比述	亞比述	Yàbǐshù	Nga-béi-seuht	ʌbˈaɪʃə
 (a bit) better	好一点	好一點	hǎo yīdiǎn	hóu yāt-dím	
 a bit faster	快一点	快一點	kuài yīdiǎn	faai yāt-dím	
+a bit spicy	微辣	微辣	wēilà	mèih-laaht	
 Abitub	亚比突	亞比突	Yàbǐtū	Nga-béi-daht	ʌbˈaɪtəb
 Abkhazia	阿布哈兹	阿布哈茲	Ābùhāzī	A-bou-hā-jī	
 Abkhazian (language)	阿布哈西亚语	阿布哈西亞語	Ābùhāxīyàyǔ	A-bou-hā-sāi-nga-yúh	
@@ -3388,6 +3389,7 @@ Bu Xiangzhi (Chess player)	卜祥志	卜祥志	Bǔ Xiángzhì	Būk Chèuhng-ji
 Buxton	巴克斯顿	巴克斯頓	Bākèsīdùn	Bā-hāk-sī-deuhn	
 buy food (for cooking)	买菜	買菜	mǎi cài	máaih choi	
 buy one's way out of serious trouble; spend money to avert disaster	破财免灾	破財免災	pòcái miǎn zāi	po-chòih míhn jōi	
+buy one get one free	买一赠一	買一贈一	mǎiyīzèngyī	máaih-yāt-jahng-yāt	
 buy out	买尽	買盡	mǎijìn	máaih-jeuhn	
 Buz	布斯	布斯	Bùsī	Bou-sī	
 Buzi	布西	布西	Bùxī	Bou-sāi	bjˈʉːzaɪ
@@ -3873,7 +3875,7 @@ Cecil Rhodes Scholarship	罗德斯奖学金	羅德斯獎學金	Luódésī Jiǎng
 Cedar Point	杉树角	杉樹角	Shānshùjiǎo	Chaam-syuh-gok	
 cedarwood	雪松木	雪松木	xuěsōngmù	syut-chùhng-muhk	sˈidəwʊd
 cedarwood panel	雪松木板	雪松木板	xuěsōngmùbǎn	syut-chùhng-muhk-báan	
-CedPane: this is version 2019-12-08	汉英词典公有领域专名等副刊	漢英詞典公有領域專名等副刊	Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān	Hon-yīng Chìh-dín Gūng-yáuh Líhng-wihk Jyūn-mìhng Dáng Fu-hōn	
+CedPane: this is version 2019-12-10	汉英词典公有领域专名等副刊	漢英詞典公有領域專名等副刊	Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān	Hon-yīng Chìh-dín Gūng-yáuh Líhng-wihk Jyūn-mìhng Dáng Fu-hōn	
 Ceheng (county, in Guizhou)	册亨县	冊亨縣	Cèhēng Xiàn	Chaak-hāng Yún	
 Celebes (old name for Sulawesi, island)	西里伯斯岛	西里伯斯島	Xīlǐbósīdǎo	Sāi-léih-baak-sī-dóu	
 celebrate holidays	庆祝节日	慶祝節日	qìngzhù jiérì	hing-jūk jit-yaht	
@@ -3972,6 +3974,7 @@ Changde (in Hunan)	常德	常德	Chángdé	Sèuhng-dāk
 Changde (in Hunan)	常德市	常德市	Chángdé Shì	Sèuhng-dāk Síh	
 change back into	变回	變回	biànhuí	bin-wùih	
 change channel (TV; Cantonese-derived?)	转台	轉台	zhuǎn tái	jyun tòih	
+change in complexion	色变	色變	sèbiàn	sīk-bin	
 change into	更换为	更換為	gēnghuàn wéi	gāng-wuhn wàih	
 Changfeng (county, in Anhui)	长丰县	長丰縣	Chángfēng Xiàn	Chèuhng-fūng Yún	
 Changge (in Henan)	长葛	長葛	Chánggé	Chèuhng-got	
@@ -4264,9 +4267,12 @@ China National Radio; CNR (Beijing)	中央人民广播电台	中央人民廣播�
 China National Space Administration; CNSA	国家航天局	國家航天局	Guójiā Hángtiān Jú	Gwok-gā Hòhng-tīn Guhk	
 Chinandega	奇南德加	奇南德加	Qínándéjiā	Kèih-nàahm-dāk-gā	
 China red	中国红	中國紅	Zhōngguó hóng	Jūng-gwok hùhng	
+China Southern Airlines	中国南方航空	中國南方航空	Zhōngguó Nánfāng Hángkōng	Jūng-gwok Nàahm-fōng Hòhng-hūng	
+China Southern Airlines (abbreviated form)	南航	南航	Nán Háng	Nàahm Hòhng	
 China Today (magazine)	今日中国	今日中國	Jīnrì Zhōngguó	Gām-yaht Jūng-gwok	
 China Zun (building)	中国尊	中國尊	Zhōngguó Zūn	Jūng-gwok Jyūn	
 Chinese-English bilingual	中英双语	中英雙語	Zhōng-Yīng shuāngyǔ	Jūng-yīng sēung-yúh	
+Chinese-English bilingual definitions (in dictionary etc)	中英注释	中英注釋	Zhōng-Yīng zhùshì	Jūng-yīng jyu-sīk	
 Chinese-English dictionary	汉英词典	漢英詞典	Hàn-Yīng cídiǎn	Hon-yīng chìh-dín	
 Chinese-language convention	中文大会	中文大會	Zhōngwén dàhuì	Jūng-màhn daaih-wúi	
 Chinese-to-English translation	中翻英	中翻英	Zhōng fān Yīng	Jūng fāan Yīng	
@@ -4636,7 +4642,7 @@ clusters and clusters (of)	一串串	一串串	yīchuànchuàn	yāt-chyun-chyun
 clusters of	一簇簇	一簇簇	yīcùcù	yāt-chūk-chūk	
 Clyde	克莱德	克萊德	Kèláidé	Hāk-lòih-dāk	
 Cnidus	尼多斯	尼多斯	Níduōsī	Nèih-dō-sī	kənˈaɪdəs
-CNN; Camble News Network (USA)	美国有线电视新闻网	美國有線電視新聞網	Měiguó Yǒuxiàn Diànshì Xīnwén Wǎng	Méih-gwok Yáuh-sin Dihn-sih Sān-màhn Móhng	
+CNN; Cable News Network (USA)	美国有线电视新闻网	美國有線電視新聞網	Měiguó Yǒuxiàn Diànshì Xīnwén Wǎng	Méih-gwok Yáuh-sin Dihn-sih Sān-màhn Móhng	
 CNV; NCV (Chinese New Version, at one time called New Chinese Version)	新译	新譯	Xīn Yì	Sān Yihk	
 co-authors	合著者	合著者	hézhùzhě	hahp-jyu-jé	
 co-editor-in-chief	联合主编	聯合主編	liánhé zhǔbiān	lyùhn-hahp jyú-pīn	
@@ -5720,6 +5726,7 @@ Dedan	底但	底但	Dǐdàn	Dái-daahn	dˈidæn
 Dede	迪德	迪德	Dídé	Dihk-dāk	
 de Enciso	德恩西索	德恩西索	Dé'ēnxīsuǒ	Dāk-yān-sāi-sok	
 deep-cover spy; sleeper agent	潜伏特工	潛伏特工	qiánfú tègōng	chìhm-fuhk dahk-gūng	
+<comp.> deepfake	深伪	深偽	shēnwěi	sām-ngaih	
 <comp.> deep learning	深度学习	深度學習	shēndù xuéxí	sām-douh hohk-jaahp	
 deeply cherish (the following feeling)	深怀	深懷	shēnhuái	sām-wàaih	
 deeply love	深爱	深愛	shēn'ài	sām-ngoi	
@@ -5727,8 +5734,12 @@ deeply (of benefit etc)	匪浅	匪淺	fěiqiǎn	féi-chín
 deeply show	深表	深表	shēnbiǎo	sām-bíu	
 default font	默认字体	默認字體	mòrèn zìtǐ	mahk-yihng jih-tái	
 defeating enemies (in electronic games)	击败敌人	擊敗敵人	jībài dírén	gīk-baaih dihk-yàhn	
+<mil.> defence in depth	弹性防御	彈性防御	tánxìng fángyù	daahn-sing fòhng-yuh	
+<mil.> defence in depth	深层防御	深層防御	shēncéng fángyù	sām-chàhng fòhng-yuh	
+<mil.> defence in depth	纵深防御	縱深防御	zòngshēn fángyù	jung-sām fòhng-yuh	
 defend a religion	护教	護教	hùjiào	wuh-gaau	
 defend oneself (in court etc)	自辩	自辯	zìbiàn	jih-bihn	
+<comp.> defense in depth; deep defense	深度防御	深度防御	shēndù fángyù	sām-douh fòhng-yuh	
 defense lawyer	辩护律师	辯護律師	biànhù lǜshī	bihn-wuh leuht-sī	
 defense side (of criminal case)	辩方	辯方	biànfāng	bihn-fōng	
 defense weapon	防御武器	防御武器	fángyù wǔqì	fòhng-yuh móuh-hei	
@@ -8375,6 +8386,7 @@ Frick (Nazi Minister of the Interior)	弗里克	弗里克	Fúlǐkè	Fāt-léih-h
 Frieda	芬妮达	芬妮達	Fēnnīdá	Fān-nèih-daaht	
 Friedman	佛利民	佛利民	Fólìmín	Faht-leih-màhn	
 Friedman	弗里德曼	弗里德曼	Fúlǐdémàn	Fāt-léih-dāk-maahn	
+fried rice with egg	蛋炒饭	蛋炒飯	dàn chǎofàn	dáan cháau-faahn	
 Friedrich	弗里德里克	弗里德里克	Fúlǐdélǐkè	Fāt-léih-dāk-léuih-hāk	fɹˈidɹɪk
 Friedrich	弗里德里希	弗里德里希	Fúlǐdélǐxī	Fāt-léuih-dāk-léuih-hēi	fɹˈidɹɪk
 Friedrich	弗雷德里希	弗雷德里希	Fúléidélǐxī	Fāt-lèuih-dāk-léuih-hēi	
@@ -8802,6 +8814,7 @@ generation	一代人	一代人	yī dài rén	yāt doih yàhn
 generation after generation	代代	代代	dàidài	doih-doih	
 generation by generation	一代一代	一代一代	yīdài-yīdài	yāt-doih-yāt-doih	
 generation gap	代沟问题	代溝問題	dàigōu wèntí	doih-kāu mahn-tàih	
+<comp.> generative adversarial network; GAN (for creating 'deepfakes')	生成对抗网络	生成對抗網絡	shēngchéng duìkàng wǎngluò	sāang-sìhng deui-kong móhng-lok	
 <comp.> generator	生成器	生成器	shēngchéngqì	sāang-sìhng-hei	
 <comp.> generic programming	泛型编程	泛型編程	fànxíngbiānchéng	faan-yìhng-pīn-chìhng	
 <comp.> generic top-level domain; gTLD	通用顶级域名	通用頂級域名	tōngyòng dǐngjí yùmíng	tūng-yuhng díng-kāp wihk-méng	
@@ -11068,6 +11081,7 @@ human chain	人链	人鏈	rénliàn	yàhn-lín
 Human Development Index	人类发展指数	人類發展指數	Rénlèi Fāzhǎn Zhǐshù	Yàhn-leuih Faat-jín Jí-sou	
 human genome	人类基因组	人類基因組	rénlèi jīyīnzǔ	yàhn-leuih gēi-yān-jóu	
 Human Genome Project	人类基因组工程	人類基因組工程	Rénlèi Jīyīnzǔ Gōngchéng	Yàhn-leuih Gēi-yān-jóu Gūng-chìhng	
+<comp.> human image synthesis	人体图像合成	人體圖像合成	réntǐ túxiàng héchéng	yàhn-tái tòuh-jeuhng hahp-sìhng	
 human intelligence (in contrast to AI)	人类智能	人類智能	rénlèi zhìnéng	yàhn-leuih ji-nàhng	
 humanist (person)	人道主义者	人道主義者	réndàozhǔyìzhě	yàhn-douh-jyú-yih-jé	hjˈʉːmənɪst
 humanist (person; older translation)	人文主义者	人文主義者	rénwénzhǔyìzhě	yàhn-màhn-jyú-yih-jé	hjˈʉːmənɪst
@@ -12889,6 +12903,7 @@ Kenneth (Kitchen)	肯尼恩	肯尼恩	Kěnní'ēn	Háng-nèih-yān
 Kennett	肯尼特	肯尼特	Kěnnítè	Háng-nèih-dahk	
 Kenny	肯尼	肯尼	Kěnní	Háng-nèih	kˈɛni
 <Budd.> kensho	见性	見性	jiànxìng	gin-sing	
+Kensington Palace	肯辛顿宫	肯辛頓宮	Kěnxīndùn Gōng	Háng-sān-deuhn Gūng	
 Kent	肯特	肯特	Kěntè	Háng-dahk	
 Kenting (in Taiwan)	垦丁	墾丁	Kěndīng	Hán-dīng	
 Kenya (alternate translation)	肯亚	肯亞	Kěnyà	Háng-nga	kˈɛnjə
@@ -16010,6 +16025,7 @@ Mirzayev	米尔扎耶夫	米爾扎耶夫	Mǐ'ěrzhāyēfū	Máih-yíh-jaat-yèh-
 Misae	美佐江	美佐江	Měizuǒjiāng	Méih-jo-gōng	
 Misael	米萨尔	米薩爾	Mǐsà'ěr	Máih-saat-yíh	
 miscalculate one's chances	打错了算盘	打錯了算盤	dǎcuòle suànpán	dá-cho-líuh syun-pùhn	
+miserly	抠门	摳門	kōumén	kāu-mùhn	
 misguided adoration/devotion	盲目崇拜	盲目崇拜	mángmù chóngbài	màahng-muhk sùhng-baai	
 Mishael	米沙利	米沙利	Mǐshālì	Máih-sā-leih	mˈɪʃeɪɛl
 Mishal	米沙勒	米沙勒	Mǐshālè	Máih-sā-lahk	mˈaɪʃæl
@@ -16892,6 +16908,7 @@ muzzle	口套	口套	kǒutào	háu-tou
 Muñiz	穆尼斯	穆尼斯	Mùnísī	Muhk-nèih-sī	
 Mwango	姆旺戈	姆旺戈	Mǔwànggē	Móuh-wohng-gwō	
 Myanmar (written language)	缅甸文	緬甸文	Miǎndiànwén	Míhn-dihn-màhn	
+MyApp (Tencent app store)	应用宝	應用寶	Yìngyòngbǎo	Ying-yuhng-bóu	
 mycelia; tangled mats of (fungi) filaments	菌丝体	菌絲體	jūnsītǐ	kwán-sī-tái	
 Myene (language)	姆耶内语	姆耶內語	Mǔyēnèiyǔ	Móuh-yèh-noih-yúh	
 <Cantonese informal> my father	老豆	老豆	lǎodòu	lóuh-dauh	
@@ -18183,6 +18200,7 @@ Orellana	奥雷利亚纳	奧雷利亞納	Àoléilìyànà	Ou-lèuih-leih-nga-naa
 Oren (Bible)	奥连	奧連	Àolián	Ou-lìhn	ˈʊəɛn
 Orenburg	奥伦堡	奧倫堡	Àolúnbǎo	Ou-lèuhn-bóu	
 Oren (modern)	奥云	奧雲	Àoyún	Ou-wàhn	
+Oreo (biscuit)	奥利奥	奧利奧	Àolì'ào	Ou-leih-ou	
 Orff	奥尔夫	奧爾夫	Ào'ěrfū	Ou-yíh-fū	
 organic food	有机食物	有機食物	yǒujī shíwù	yáuh-gēi sihk-maht	
 organic (without farm chemicals)	无农药	無農藥	wú nóngyào	mòuh nùhng-yeuhk	
@@ -18796,6 +18814,7 @@ Peor	琵珥	琵珥	Pí'ěr	Pèih-yih	pˈiɒɹ
 Peoria (city)	皮奥里亚市	皮奧里亞市	Pí'àolǐyà Shì	Pèih-ou-léih-nga Síh	
 Pepo	佩波	佩波	Pèibō	Pui-bō	
 pepper spray	胡椒喷雾	胡椒噴霧	hújiāo pēnwù	wùh-jīu pan-mouh	
+pepper stir-fry	椒炒	椒炒	jiāochǎo	jīu-cháau	
 Pepys	佩皮斯	佩皮斯	Pèipísī	Pui-pèih-sī	
 Perazim	比拉辛	比拉辛	Bǐlāxīn	Béi-lāai-sān	pɚˈeɪzɪm
 percent (loan word)	巴先	巴先	bāxiān	bā-sīn	
@@ -18996,6 +19015,7 @@ phonocentrism	语音中心主义	語音中心主義	yǔyīnzhōngxīnzhǔyì	yú
 phony check; fake cheque	假支票	假支票	jiǎ zhīpiào	gá jī-piu	
 phosphoprotein	磷蛋白	磷蛋白	líndànbái	lèuhn-dáan-baahk	
 photographic exhibition	摄影展	攝影展	shèyǐngzhǎn	sip-yíng-jín	
+photograph taken while wearing make-up etc	妆照	妝照	zhuāngzhào	jōng-jiu	
 photography point (for tourists)	摄影点	攝影點	shèyǐng diǎn	sip-yíng dím	
 photolysis	光解作用	光解作用	guāngjiězuòyòng	gwōng-gáai-jok-yuhng	
 photometric	配光	配光	pèiguāng	pui-gwōng	
@@ -19207,6 +19227,7 @@ place of employment; workplace	工作的地方	工作的地方	gōngzuò de dìf
 Place (surname)	普莱斯	普萊斯	Pǔláisī	Póu-lòih-sī	
 Placido	普拉西多	普拉西多	Pǔlāxīduō	Póu-lāai-sāi-dō	
 plague (as in plague of leprosy)	灾病	災病	zāibìng	jōi-behng	
+plain congee	白粥	白粥	báizhōu	baahk-jūk	
 Plain of Esdraelon	埃斯德赖隆平原	埃斯德賴隆平原	Āisīdélàilóng píngyuán	Āai-sī-dāk-laaih-lùhng pìhng-yùhn	
 plain red wine	纯葡萄红酒	純葡萄紅酒	chún pútao hóng jiǔ	sèuhn pòuh-tòuh hùhng jáu	
 plain text	纯文本	純文本	chúnwénběn	sèuhn-màhn-bún	
@@ -19254,6 +19275,7 @@ playpen	游戏围栏	游戲圍欄	yóuxì wéilán	yàuh-hei wàih-làahn
 play the harp	弹竖琴	彈豎琴	tán shùqín	daahn syuh-kàhm	
 play the key role	发挥关键作用	發揮關鍵作用	fāhuī guānjiàn zuòyòng	faat-fāi gwāan-gihn jok-yuhng	
 play the national anthem	奏国歌	奏國歌	zòu guógē	jau gwok-gō	
+play the qin (zither)	鼓琴	鼓琴	gǔqín	gú-kàhm	
 play the viola	拉中提琴	拉中提琴	lā zhōngtíqín	lāai jūng-tàih-kàhm	
 play video games	打游戏	打游戲	dǎ yóuxì	dá yàuh-hei	
 plead (legally?)	辨屈	辨屈	biànqū	bihn-wāt	
@@ -20265,6 +20287,7 @@ Ramsay	拉姆齐	拉姆齊	Lāmǔqí	Lāai-móuh-chàih
 Ramírez	拉米雷斯	拉米雷斯	Lāmǐléisī	Lāai-máih-lèuih-sī	
 Randall	兰德尔	蘭德爾	Lándé'ěr	Làahn-dāk-yíh	ɹˈændəl
 Randolph	伦道夫	倫道夫	Lúndàofū	Lèuhn-douh-fū	
+<math.> random walk	随机漫步	隨機漫步	suíjī mànbù	chèuih-gēi maahn-bouh	
 Randriamora	兰德里阿穆拉	蘭德里阿穆拉	Lándélǐ'āmùlā	Làahn-dāk-léuih-a-muhk-lāai	
 Randy	兰迪	蘭迪	Lándí	Làahn-dihk	
 Ranghulu District	让胡路区	讓胡路區	Rànghúlù Qū	Yeuhng-wùh-louh Kēui	
@@ -20347,6 +20370,7 @@ read and understand	看得懂	看得懂	kàn de dǒng	hon dāk dúng
 read and write	写读	寫讀	xiědú	sé-duhk	
 read an undergraduate degree	读本科	讀本科	dú běnkē	duhk bún-fō	
 read as; pronounce as	读成	讀成	dúchéng	duhk-sìhng	
+read books	阅书	閱書	yuèshū	yuht-syū	
 readers (the reading public)	广大读者	廣大讀者	guǎngdà dúzhě	gwóng-daaih duhk-jé	
 readily-available materials; local materials	现成的材料	現成的材料	xiànchéng de cáiliào	yihn-sìhng dīk chòih-líu	
 readily form static electricity	容易产生静电	容易產生靜電	róngyì chǎnshēng jìngdiàn	yùhng-yih cháan-sāang jihng-dihn	
@@ -20432,6 +20456,7 @@ rectory	教区长住所	教區長住所	jiàoqūzhǎng zhùsuǒ	gaau-kēui-jéun
 recycling	循环再用	循環再用	xúnhuán zài yòng	chèuhn-wàahn joi yuhng	
 recycling area	回收区	回收區	huíshōuqū	wùih-sāu-kēui	
 red bean bun	豆沙包	豆沙包	dòushābāo	dauh-sā-bāau	
+red (colour)	红彩	紅彩	hóngcǎi	hùhng-chói	
 red cord	红绳	紅繩	hóngshéng	hùhng-sìhng	
 red cow	红母牛	紅母牛	hóngmǔniú	hùhng-móuh-ngàuh	
 red currant	红醋栗	紅醋栗	hóng cùlì	hùhng chou-leuht	
@@ -20450,6 +20475,7 @@ redirect	重定向	重定向	chóngdìngxiàng	chùhng-dihng-heung
 red kite	赤鸢	赤鳶	chìyuān	chek-yūn	
 red knot (type of seabird)	红腹滨鹬	紅腹濱鷸	hóngfùbīnyù	hùhng-fūk-bān-neuht	
 red mud material for redware pots	红泥	紅泥	hóngní	hùhng-nàih	
+red pepper	红甜椒	紅甜椒	hóng tiánjiāo	hùhng tìhm-jīu	
 Red Riding Hood (story)	小红帽	小紅帽	Xiǎohóngmào	Síu-hùhng-mouh	
 Red Rock Canyon	红石谷	紅石谷	Hóngshígǔ	Hùhng-sehk-gūk	
 red rose	红玫瑰	紅玫瑰	hóng méigui	hùhng mùih-gwai	
@@ -21412,6 +21438,7 @@ salt herb	咸草	咸草	xiáncǎo	hàahm-chóu
 Salt Lake City	盐湖城	鹽湖城	Yánhúchéng	Yìhm-wùh-sìhng	
 Salt Sea	盐海	鹽海	Yánhǎi	Yìhm-hói	
 saltwater solution	盐溶液	鹽溶液	yánróngyè	yìhm-yùhng-yihk	
+salty (flavour)	咸口	咸口	xiánkǒu	hàahm-háu	
 salty place	盐地	鹽地	yándì	yìhm-deih	
 Salu	撒罗	撒羅	Sāluó	Saat-lòh	sˈeɪlʉː
 Salus (Roman god)	萨罗斯	薩羅斯	Sàluósī	Saat-lòh-sī	
@@ -23585,6 +23612,7 @@ string and flute (music)	弦笛	弦笛	xiándí	yìhn-dehk
 stringed instruments (ancient?)	拨弦	撥弦	bōxián	buht-yìhn	
 stringed (of musical instrument)	拉线类	拉線類	lāxiànlèi	lāai-sin-leuih	
 strip search (in a prison)	脱光衣服搜身	脫光衣服搜身	tuōguāng yīfu sōushēn	tyut-gwōng yī-fuhk sáu-sān	
+strips of carrot	胡萝卜丝	胡蘿卜絲	húluóbo sī	wùh-lòh-baahk sī	
 Stritto	斯特里托	斯特里托	Sītèlǐtuō	Sī-dahk-léih-tok	
 Stroessner	斯特罗斯纳	斯特羅斯納	Sītèluósīnà	Sī-dahk-lòh-sī-naahp	
 stroke a cat	撸猫	擼貓	lū māo		
@@ -24030,6 +24058,7 @@ take; capture	掠走	掠走	lüèzǒu	leuhk-jáu
 take a big step (fig./lit.)	迈出一大步	邁出一大步	màichū yī dà bù	maaih-chēut yāt daaih bouh	
 take and read	拿来看	拿來看	ná lái kàn	nàh lòih hon	
 take an examination	考个试	考個試	kǎo ge shì	háau go si	
+take a photograph while wearing make-up etc	拍定妆照	拍定妝照	pāi dìng zhuāngzhào	paak dihng jōng-jiu	
 take a picture	拍张照	拍張照	pāi zhāng zhào	paak jēung jiu	
 take a sample	收样	收樣	shōuyàng	sāu-yeuhng	
 (take) as a standard (for use)	为准	為準	wéi zhǔn	wàih jéun	
@@ -24236,6 +24265,7 @@ tear into parts; divide (meat etc)	撕断	撕斷	sīduàn	sī-tyúhn
 tear off	扯断	扯斷	chěduàn	ché-tyúhn	
 tear off	撕下	撕下	sīxia	sī-hah	
 tear off (e.g. a patch from a garment)	扯脱	扯脫	chětuō	ché-tyut	
+tea tasting	试茶	試茶	shìchá	si-chàh	
 tea trolley	茶具车	茶具車	chájùchē	chàh-geuih-chē	
 Tebah	提巴	提巴	Tíbā	Tàih-bā	tˈibæɹ
 Tebeth (month)	提别月	提別月	Tíbiéyuè	Tàih-biht-yuht	tˈibɛθ
@@ -25564,6 +25594,7 @@ umbrella rack	伞架	傘架	sǎnjià	saan-ga
 Ummah	乌玛	烏瑪	Wūmǎ	Wū-máh	ˈʌmʌ
 Umoh	乌模	烏模	Wūmó	Wū-mòuh	
 Una	婉娜	婉娜	Wǎnnà	Yún-nàh	
+unable to apply (for)	申不到	申不到	shēnbudào	sān-bāt-dou	
 unable to attend	参加不了	參加不了	cānjiā bùliǎo	chāam-gā bāt-líuh	
 unable to come	来不了	來不了	lái bù liǎo	lòih bāt líuh	
 unable to distinguish	分不清	分不清	fēnbuqīng	fān-bāt-chīng	
@@ -26756,6 +26787,7 @@ winemaker (person)	酿酒师	釀酒師	niàngjiǔshī	yeuhng-jáu-sī
 winemaking industry	酿酒商	釀酒商	niàngjiǔshāng	yeuhng-jáu-sēung	
 winepress	酒榨	酒榨	jiǔzhà	jáu-ja	
 wine skin-bottles	皮酒袋	皮酒袋	píjiǔdài	pèih-jáu-doih	
+wine tasting	尝酒	嘗酒	chángjiǔ	sèuhng-jáu	
 wine vat	酒池	酒池	jiǔchí	jáu-chìh	
 Winfield	温菲尔德	溫菲爾德	Wēnfēi'ěrdé	Wān-fēi-yíh-dāk	
 Winfred	温弗雷德	溫弗雷德	Wēnfúléidé	Wān-fāt-lèuih-dāk	
