@@ -1943,6 +1943,7 @@ Barbara	巴巴拉	巴巴拉	Bābālā	Bā-bā-lāai
 Barbara	芭芭拉	芭芭拉	Bābālā	Bā-bā-lāai	bˈɑbɹə
 Barbara (older translation)	巴尔巴拉	巴爾巴拉	Bā'ěrbālā	Bā-yíh-bā-lāai	
 Barbara Yung (HK actor 1959-85)	翁美玲	翁美玲	Wēng Měilíng	Yūng Méih-lìhng	
+barbecue flavour	烧味	燒味	shāowèi	sīu-meih	
 Barber (surname)	巴伯	巴伯	Bābó	Bā-baak	
 barb (of a feather)	羽枝	羽枝	yǔzhī	yúh-jī	
 Barbuda	巴布达	巴布達	Bābùdá	Bā-bou-daaht	
@@ -3875,7 +3876,7 @@ Cecil Rhodes Scholarship	罗德斯奖学金	羅德斯獎學金	Luódésī Jiǎng
 Cedar Point	杉树角	杉樹角	Shānshùjiǎo	Chaam-syuh-gok	
 cedarwood	雪松木	雪松木	xuěsōngmù	syut-chùhng-muhk	sˈidəwʊd
 cedarwood panel	雪松木板	雪松木板	xuěsōngmùbǎn	syut-chùhng-muhk-báan	
-CedPane: this is version 2019-12-10	汉英词典公有领域专名等副刊	漢英詞典公有領域專名等副刊	Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān	Hon-yīng Chìh-dín Gūng-yáuh Líhng-wihk Jyūn-mìhng Dáng Fu-hōn	
+CedPane: this is version 2019-12-11	汉英词典公有领域专名等副刊	漢英詞典公有領域專名等副刊	Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān	Hon-yīng Chìh-dín Gūng-yáuh Líhng-wihk Jyūn-mìhng Dáng Fu-hōn	
 Ceheng (county, in Guizhou)	册亨县	冊亨縣	Cèhēng Xiàn	Chaak-hāng Yún	
 Celebes (old name for Sulawesi, island)	西里伯斯岛	西里伯斯島	Xīlǐbósīdǎo	Sāi-léih-baak-sī-dóu	
 celebrate holidays	庆祝节日	慶祝節日	qìngzhù jiérì	hing-jūk jit-yaht	
@@ -4143,6 +4144,8 @@ Chenggu (county, in Shaanxi)	城固县	城固縣	Chénggù Xiàn	Sìhng-gu Yún
 Chenghai District	澄海区	澄海區	Chénghǎi Qū	Chìhng-hói Kēui	
 Chenghua District	成华区	成華區	Chénghuá Qū	Sìhng-wàh Kēui	
 Chengjiang (county, in Yunnan)	澄江县	澄江縣	Chéngjiāng Xiàn	Chìhng-gōng Yún	
+Chengkang (town)	盛𡐓镇	盛𡐓鎮	Chéngkāngzhèn		
+Chengkang (town, backward-compatible version)	盛康镇	盛康鎮	Chéngkāngzhèn	Sìhng-hōng-jan	
 Chengkou (county, in Chongqing)	城口县	城口縣	Chéngkǒu Xiàn	Sìhng-háu Yún	
 Chengmai County	澄迈县	澄邁縣	Chéngmài Xiàn	Chìhng-maaih Yún	
 Chengwu County	成武县	成武縣	Chéngwǔ Xiàn	Sìhng-móuh Yún	
@@ -5415,7 +5418,7 @@ Dachau	达豪	達豪	Dáháo	Daaht-hòuh
 Dacheng County	大城县	大城縣	Dàchéng Xiàn	Daaih-sìhng Yún	
 Dachuan District	达川区	達川區	Dáchuān Qū	Daaht-chyūn Kēui	
 da Conceição	达孔塞桑	達孔塞桑	Dákǒngsèsāng	Daaht-húng-choi-sōng	
-Dacun Township	大村乡	大村鄉	Dàcūn xiāng	Daaih-chyūn hēung	
+Dacun Township	大村乡	大村鄉	Dàcūn Xiāng	Daaih-chyūn Hēung	
 Dadong (district, in Liaoning)	大东区	大東區	Dàdōng Qū	Daaih-dūng Kēui	
 Dadu	达杜	達杜	Dádù	Daaht-douh	
 Dadu District (in Taichung)	大肚区	大肚區	Dàdù Qū	Daaih-tóuh Kēui	
@@ -7807,6 +7810,7 @@ felt-tip pen	毡尖笔	氈尖筆	zhānjiānbǐ	jīn-jīm-bāt
 felt cap	毯帽	毯帽	tǎnmào	táam-mouh	
 female (creature)	雌体	雌體	cítǐ	chī-tái	
 female descendant(s)	女子孙	女子孫	nǚzǐsūn	néuih-jí-syūn	
+female entrepreneur	女创业家	女創業家	nǚ chuàngyèjiā	néuih chong-yihp-gā	
 female friends; girlfriends (non-romantic)	女友们	女友們	nǚyǒumen	néuih-yáuh-mùhn	
 female gazelle	母羚羊	母羚羊	mǔ-língyáng	móuh-lìhng-yèuhng	
 female lamb	母羊羔	母羊羔	mǔ-yánggāo	móuh-yèuhng-gōu	
@@ -18312,6 +18316,8 @@ ounce; oz	安士	安士	ānshì	ngōn-sih
 Our Father (Catholic prayer)	天主经	天主經	Tiānzhǔjīng	Tīn-jyú-gīng	
 <PRC> our Party (i.e. CCP)	我党	我黨	wǒdǎng	ngóh-dóng	
 our primary concern	我们最关心的	我們最關心的	wǒmen zuì guānxīn de	ngóh-mùhn jeui gwāan-sām dīk	
+Oushan (town)	𠙶山镇	𠙶山鎮	Ǒushānzhèn		
+Oushan (town, backward-compatible version)	藕山镇	藕山鎮	Ǒushānzhèn	Ngáuh-sāan-jan	
 outcry (lit. injustice sound)	冤声	冤聲	yuānshēng	yūn-sēng	
 outer core (of earth etc)	外核	外核	wàihé	ngoih-haht	
 outer frame	外框	外框	wàikuàng	ngoih-kwāang	
@@ -23340,6 +23346,7 @@ Staffa	斯塔福	斯塔福	Sītǎfú	Sī-taap-fūk
 Stafford	斯塔福德	斯塔福德	Sītǎfúdé	Sī-taap-fūk-dāk	
 Staffordshire	斯塔福德郡	斯塔福德郡	Sītǎfúdéjùn	Sī-taap-fūk-dāk-gwahn	stˈæfədʃɚ
 <comp.> stage (for commit in Git)	预存	預存	yùcún	yuh-chyùhn	
+stage lighting	舞台灯光	舞台燈光	wǔtái dēngguāng	móuh-tòih dāng-gwōng	
 stagger	步履蹒跚	步履蹣跚	bùlǚpánshān	bouh-léih-pùhn-sāan	
 stagger to	荡到	蕩到	dàngdào	dohng-dou	
 stag hunt (game theory)	猎鹿博弈	獵鹿博弈	lièlù bóyì	lihp-luhk bok-yihk	
@@ -27480,6 +27487,8 @@ Yangyuan (county, in Hebei)	阳原县	陽原縣	Yángyuán Xiàn	Yèuhng-yùhn Y
 Yangzhong (in Jiangsu)	扬中	揚中	Yángzhōng	Yèuhng-jūng	
 Yangzhong (in Jiangsu)	扬中市	揚中市	Yángzhōng Shì	Yèuhng-jūng Síh	
 Yangzhou (in Jiangsu)	扬州市	揚州市	Yángzhōu Shì	Yèuhng-jāu Síh	
+Yangzhou (in Jiangxi)	杨洲	楊洲	Yángzhōu	Yèuhng-jāu	
+Yangzhou Township	杨洲乡	楊洲鄉	Yángzhōu Xiāng	Yèuhng-jāu Hēung	
 Yanhu District	盐湖区	鹽湖區	Yánhú Qū	Yìhm-wùh Kēui	
 Yanjiang District	雁江区	雁江區	Yànjiāng Qū	Ngaahn-gōng Kēui	
 Yanji (in Jilin)	延吉	延吉	Yánjí	Yìhn-gāt	

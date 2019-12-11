@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-12-10
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2019-12-11
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -2870,6 +2870,8 @@
 成華區 成华区 [Cheng2 hua2_Qu1] /Chenghua District/District, Chenghua/
 城際快車 城际快车 [Cheng2 ji4_Kuai4 che1] /InterCity-Express/ICE (train)/
 澄江縣 澄江县 [Cheng2 jiang1_Xian4] /Chengjiang (county, in Yunnan)/
+盛康鎮 盛康镇 [Cheng2 kang1 zhen4] /Chengkang (town, backward-compatible version)/
+盛𡐓鎮 盛𡐓镇 [Cheng2 kang1 zhen4] /Chengkang (town)/
 城口縣 城口县 [Cheng2 kou3_Xian4] /Chengkou (county, in Chongqing)/
 澄邁縣 澄迈县 [Cheng2 mai4_Xian4] /Chengmai County/County, Chengmai/
 成武縣 成武县 [Cheng2 wu3_Xian4] /Chengwu County/County, Chengwu/
@@ -3074,7 +3076,7 @@
 大廠 大厂 [Da4 chang3] /Dachang (a Hui autonomous county in Hebei)/
 大廠縣 大厂县 [Da4 chang3_Xian4] /Dachang (county, in Hebei)/
 大城縣 大城县 [Da4 cheng2_Xian4] /Dacheng County/County, Dacheng/
-大村鄉 大村乡 [Da4 cun1_xiang1] /Dacun Township/Township, Dacun/
+大村鄉 大村乡 [Da4 cun1_Xiang1] /Dacun Township/Township, Dacun/
 大刀屻 大刀屻 [Da4 dao1 ren4] /Tai To Yan (ridge in HK)/
 大東區 大东区 [Da4 dong1_Qu1] /Dadong (district, in Liaoning)/
 大東山 大东山 [Da4 dong1_Shan1] /Sunset Peak (HK)/Peak, Sunset (HK)/
@@ -5567,7 +5569,7 @@
 含族 含族 [Han2 zu2] /Hamites/
 含族人 含族人 [Han2 zu2 ren2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-12-10/this is version 2019-12-10, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2019-12-11/this is version 2019-12-11, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
@@ -11619,6 +11621,8 @@
 歐洲研究 欧洲研究 [Ou1 zhou1_yan2 jiu1] /European studies/studies, European/
 歐洲人 欧洲人 [Ou1 zhou1 ren2] /Europeans/
 歐洲之星 欧洲之星 [Ou1 zhou1 zhi1 xing1] /Eurostar/
+藕山鎮 藕山镇 [Ou3 shan1 zhen4] /Oushan (town, backward-compatible version)/
+𠙶山鎮 𠙶山镇 [Ou3 shan1 zhen4] /Oushan (town)/
 派斯 派斯 [Pa1 si1] /Páez/
 帕爾 帕尔 [Pa4 er3] /Pál/
 帕爾多 帕尔多 [Pa4 er3 duo1] /Pardo/
@@ -17000,7 +17004,9 @@
 陽原縣 阳原县 [Yang2 yuan2_Xian4] /Yangyuan (county, in Hebei)/
 揚中 扬中 [Yang2 zhong1] /Yangzhong (in Jiangsu)/
 揚中市 扬中市 [Yang2 zhong1_Shi4] /Yangzhong (in Jiangsu)/
+楊洲 杨洲 [Yang2 zhou1] /Yangzhou (in Jiangxi)/
 揚州市 扬州市 [Yang2 zhou1_Shi4] /Yangzhou (in Jiangsu)/
+楊洲鄉 杨洲乡 [Yang2 zhou1_Xiang1] /Yangzhou Township/Township, Yangzhou/
 仰光 仰光 [Yang3 guang1] /Yangon/
 養樂多 养乐多 [Yang3 le4 duo1] /Yakult/
 養生團 养生团 [Yang3 sheng1 tuan2] /Good Health Group (a group-purchasing website)/Health Group, Good (a group-purchasing website)/
@@ -23777,6 +23783,7 @@
 暖通空調 暖通空调 [nuan3 tong1 kong1 tiao2] /HVAC/heating ventilation and air conditioning/
 暖心 暖心 [nuan3 xin1] /heartwarming (abbreviated form)/
 暖意 暖意 [nuan3 yi4] /warmth (emotional)/
+女創業家 女创业家 [nu:3_chuang4 ye4 jia1] /female entrepreneur/entrepreneur, female/
 女企業家 女企业家 [nu:3_qi3 ye4 jia1] /woman entrepreneur/entrepreneur, woman/
 女神童 女神童 [nu:3_shen2 tong2] /child prodigy (female)/prodigy, child (female)/
 女同性戀 女同性恋 [nu:3_tong2 xing4 lian4] /lesbianism/
@@ -24623,6 +24630,7 @@
 燒熱 烧热 [shao1 re4] /burning hot (?)/
 燒透 烧透 [shao1 tou4] /bake thoroughly (e.g. in brickmaking)/thoroughly, bake (e.g. in brickmaking)/
 稍為改變 稍为改变 [shao1 wei2_gai3 bian4] /slight changes (to the strength of a force etc)/changes, slight (to the strength of a force etc)/
+燒味 烧味 [shao1 wei4] /barbecue flavour/flavour, barbecue/
 韶琴 韶琴 [shao2 qin2] /shaoqin (type of erhu)/
 少數群體 少数群体 [shao3 shu4_qun2 ti3] /minority group/group, minority/
 少年時 少年时 [shao4 nian2_shi2] /(in) early teens/teens, early/
@@ -26150,6 +26158,7 @@
 捂臉 捂脸 [wu3 lian3] /facepalm (expressing frustration etc)/
 五色梅 五色梅 [wu3 se4 mei2] /lantana (plant)/
 五十夫長 五十夫长 [wu3 shi2 fu1 zhang3] /chief of fifty/fifty, chief of/
+舞台燈光 舞台灯光 [wu3 tai2_deng1 guang1] /stage lighting/lighting, stage/
 午夜夢回 午夜梦回 [wu3 ye4_meng4 hui2] /wake up in the night/night, wake up in the/
 午夜熄燈 午夜熄灯 [wu3 ye4_xi1 deng1] /part night lighting/midnight streetlight switchoff/night lighting, part/streetlight switchoff, midnight/
 五陰 五阴 [wu3 yin1] /panca skandha/skandha, panca/<Budd.>/

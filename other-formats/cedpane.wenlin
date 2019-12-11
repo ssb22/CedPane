@@ -10606,7 +10606,7 @@ characters 大城小镇[---鎮]
 serial-number CedPane2127
 definition large or small cities
 *** 
-pinyin Dàcūn xiāng
+pinyin Dàcūn Xiāng
 characters 大村乡[--鄉]
 serial-number CedPane2128
 definition Dacun Township
@@ -122347,7 +122347,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2019-12-10
+definition CedPane: this is version 2019-12-11
 *** 
 pinyin càidān gōngchéng
 characters 菜单工程[-單--]
@@ -142124,3 +142124,48 @@ characters 纵深防御[縱---]
 serial-number CedPane28802
 environment   mil.
 definition defence in depth
+*** 
+pinyin Chéngkāngzhèn
+characters 盛康镇[--鎮]
+serial-number CedPane28803
+definition Chengkang (town, backward-compatible version)
+*** 
+pinyin Chéngkāngzhèn
+characters 盛𡐓镇[--鎮]
+serial-number CedPane28804
+definition Chengkang (town)
+*** 
+pinyin nǚ chuàngyèjiā
+characters 女创业家[-創業-]
+serial-number CedPane28805
+definition female entrepreneur
+*** 
+pinyin Ǒushānzhèn
+characters 藕山镇[--鎮]
+serial-number CedPane28806
+definition Oushan (town, backward-compatible version)
+*** 
+pinyin Ǒushānzhèn
+characters 𠙶山镇[--鎮]
+serial-number CedPane28807
+definition Oushan (town)
+*** 
+pinyin shāowèi
+characters 烧味[燒-]
+serial-number CedPane28808
+definition barbecue flavour
+*** 
+pinyin wǔtái dēngguāng
+characters 舞台灯光[--燈-]
+serial-number CedPane28809
+definition stage lighting
+*** 
+pinyin Yángzhōu
+characters 杨洲[楊-]
+serial-number CedPane28810
+definition Yangzhou (in Jiangxi)
+*** 
+pinyin Yángzhōu Xiāng
+characters 杨洲乡[楊-鄉]
+serial-number CedPane28811
+definition Yangzhou Township
