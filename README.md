@@ -46,6 +46,44 @@ Of course it goes without saying that, despite my best efforts, mistakes are pos
 I also have a separate collection of Chinese words that _are_ in typical dictionaries, with short English definitions that have either been confirmed by multiple independent sources to the extent that it is reasonable to believe they are public domain, or that I’ve written myself.  This separate collection is _not_ likely to help with software that already has a good normal dictionary, but it might be useful for developers to prototype interlinear annotators etc.  It is in the repository as [PD-English-Definitions.txt](PD-English-Definitions.txt) but has not been included in the main CedPane file.
 
 CedPane is public-domain but this Readme file is © Silas S. Brown and may be reproduced as-is.
+Android is a trademark of Google LLC.
+Apache is a registered trademark of The Apache Software Foundation.
+Apple is a trademark of Apple Inc.
+Baidu is a trademark of Baidu Online Network Technology (Beijing) Co. Ltd.
+Bing is a registered trademark of Microsoft Corp.
+BitBucket is a trademark of Atlassian Pty Ltd.
+Bluetooth is a registered trademark held by the Bluetooth Special Interest Group.
+CNN is a trademark of Cable News Network Inc.
+Cognac is a trademark which is held by France.
+Colgate is a trademark of the Colgate-Palmolive Company.
+Dyson is a trademark of Dyson Technology Ltd.
 Git is a trademark of the Software Freedom Conservancy.
+GitHub is a trademark of GitHub Inc.
+Google is a trademark of Google LLC.
+Google Maps is a trademark of Google LLC.
+Gucci is a trademark of Gucci America, Inc.
+Heinz is a trademark of H. J. Heinz Company.
+Huawei is a trademark of Huawei Technologies Co., Ltd registered in China and other countries.
+Java is a registered trademark of Oracle Corporation in the US and possibly other countries.
+Javascript is a trademark of Oracle Corporation in the US.
+Mac is a trademark of Apple Inc.
+Microsoft is a registered trademark of Microsoft Corp.
+Oracle is a registered trademark of Oracle Corporation and/or its affiliates.
+Oreo is a registered trademark of Intercontinental Great Brands LLC.
+Palmolive is a trademark of the Colgate-Palmolive Company.
+Pimsleur is a registered trademark of Beverly Pimsleur exclusively licensed to Simon &amp; Schuster.
+Python is a trademark of the Python Software Foundation.
+QR Code is the UK registered trademark of Denso Corporation.
+Quaker is a trademark of The Quaker Oats Company.
+Raspberry Pi is a trademark of the Raspberry Pi Foundation.
+Segway is a trademark of Segway Inc.
+Sibelius is a registered trademark of Avid Technology, Inc. or its subsidiaries.
+Thermos is a trademark of Thermos LLC.
+Uber is a trademark of Uber Technologies, Inc.
+WeChat is a trademark of Tencent Holdings Limited.
 Wenlin is a trademark of Wenlin Institute, Inc. SPC.
+Wi-Fi is a trademark of the Wi-Fi Alliance.
+Wikipedia is a registered trademark of the Wikimedia Foundation Inc.
+Windows is a registered trademark of Microsoft Corp.
+Wyeth is a trademark of Wyeth LLC.
 Any other trademarks I mentioned without realising are trademarks of their respective holders.
