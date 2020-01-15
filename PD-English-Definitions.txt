@@ -2021,7 +2021,7 @@
 丧生		lose one's life/to die
 丧葬费		funeral expense
 丧钟		knell
-个		individual
+个		*/individual
 个个		each and every
 个中		therein
 个中人		a person in the know
@@ -5415,7 +5415,7 @@
 侄孙女		grand niece/grandniece
 侄孫		grandnephew
 侄孫女		grandniece
-來		to come/arrive/come
+來		come/arrive
 來亨雞		leghorn
 來信		send a letter here/incoming letter
 來到		to come/arrive/come
@@ -6091,7 +6091,6 @@
 倉庫		warehouse/depot/storehouse
 倉皇		panic
 倉鼠		hamster
-個		individual
 個中		therein
 個中人		a person in the know
 個人		personal/individual
@@ -6177,7 +6176,7 @@
 倘或		if/supposing
 倘然		if/supposing
 倘若		provided/if/supposing
-候		inquire after/season/wait
+候		wait/inquire after/season
 候车室		waiting room
 候选		candidate
 候选人		candidate
@@ -6439,7 +6438,7 @@
 偏颇		biased/partial
 偏食		partial eclipse
 偕		in company with
-做		be
+做		do/be
 做东		to act as host
 做主		decide
 做买卖		do business
@@ -12884,7 +12883,7 @@
 厲行		rigorously enforce
 厲行節約		practice strict economy
 厴		operculum
-去		to go to
+去		go/to go to
 去世		die/to pass away/pass away
 去取之間		undecided between taking and leaving
 去取之间		undecided between taking and leaving
@@ -23294,7 +23293,7 @@
 寸		inch
 寸步不离		closely
 寸步不離		closely
-对		right
+对		to/OK
 对上		fit one into the other
 对不上		disagree
 对不起		excuse me/I'm sorry
@@ -23619,7 +23618,6 @@
 尋訪		to inquire after
 尋釁		provoke/pick a quarrel
 尋開心		to make fun of
-對		right
 對上		fit one into the other
 對不上		disagree
 對不起		excuse me/I'm sorry
@@ -29679,6 +29677,7 @@
 感情用事		act impetuously
 感想		impression/reflections/thoughts
 感愤		indignant
+感慨                 excited
 感憤		indignant
 感應		reaction/interaction
 感應器		inductor
@@ -38505,7 +38504,7 @@
 条纹		stripe
 条规		rule
 条贯		order
-来		to come/arrive/come
+来		come/arrive
 来临		come/approach
 来亨鸡		leghorn
 来信		send a letter here/incoming letter
@@ -39416,8 +39415,8 @@
 根号		radical sign
 根基		foundation
 根底		foundation/cause/root
-根据		foundation/according to/basis
-根據		foundation/according to/basis
+根据		basis/foundation/according to
+根據		basis/foundation/according to
 根斯巴克		Gernsback
 根本		simply/fundamental/basic
 根本上		fundamentally
@@ -40759,7 +40758,7 @@
 欠薪		back pay
 欠項		liabilities/debt
 欠项		liabilities/debt
-次		sequence
+次		time/sequence
 次于		second to
 次元		dimension
 次品		defective/substandard products
@@ -44808,7 +44807,7 @@
 淮阴		Huaiyin
 淮陰		Huaiyin
 淮陽		Huaiyang
-深		late/deep/profound
+深		deep/late/profound
 深信		firmly believe
 深入		to penetrate/thorough
 深切		heartfelt/deep
@@ -50633,7 +50632,7 @@
 疸		jaundice
 疹		measles/rash
 疹子		rash
-疼		love dearly/hurt
+疼		hurt/love dearly
 疼愛		love dearly
 疼爱		love dearly
 疼痛		ache/pain/sore
@@ -52364,7 +52363,7 @@
 眾望		people's expectations
 眾說		diverse opinions
 眾議院		House of Representatives
-着		feel
+着		*
 着三不着两		thoughtless
 着地		land/touch the ground
 着墨		describe
@@ -66553,7 +66552,7 @@
 詮		explain
 詮釋		annotate
 詰		investigate
-話		dialect
+話		words/dialect
 話中有刺		hidden barbs in one's words
 話中有話		overtones in conversation
 話亭		telephone booth
@@ -67769,7 +67768,7 @@
 诛锄		uproot
 诛除		wipe out
 诜		to inform
-话		dialect
+话		words/dialect
 话中有刺		hidden barbs in one's words
 话中有话		overtones in conversation
 话亭		telephone booth
@@ -71317,7 +71316,8 @@
 迅疾		rapid/swift
 迅速		rapid/speedy
 迅速蔓延		rapid spread/to spread rapidly
-过		cross
+过		-ed
+过	guò	pass/cross
 过一会儿		later
 过不去		make life difficult for
 过世		die/pass away
@@ -72605,7 +72605,8 @@
 遍布		be found everywhere
 遍體		all over the body
 遍體鱗傷		beaten black and blue
-過		cross
+過		-ed
+過	guò	pass/cross
 過一會兒		later
 過不去		make life difficult for
 過世		die/pass away
@@ -78606,7 +78607,7 @@
 非议		criticize
 非难		reproof/blame
 非難		reproof/blame
-靠		lean against
+靠		rely on/lean against
 靠山		close to a mountain/patron
 靠手		armrest
 靠拢		draw close
