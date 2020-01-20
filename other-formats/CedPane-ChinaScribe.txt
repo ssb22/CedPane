@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2020-01-16
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2020-01-20
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -671,6 +671,7 @@
 埃色 埃色 [Ai1 se4] /Esek/
 埃塞爾 埃塞尔 [Ai1 se4 er3] /Ethel/
 埃森 埃森 [Ai1 sen1] /Essen/
+埃森哲 埃森哲 [Ai1 sen1 zhe2] /Accenture/
 埃施 埃施 [Ai1 shi1] /Esch/
 埃斯比約 埃斯比约 [Ai1 si1 bi3 yue1] /Esbjerg/
 埃斯波西托 埃斯波西托 [Ai1 si1 bo1 xi1 tuo1] /Esposito/
@@ -7881,6 +7882,7 @@
 廣丰縣 广丰县 [Guang3 feng1_Xian4] /Guangfeng (county, in Jiangxi)/
 廣福橋鎮 广福桥镇 [Guang3 fu2 qiao2 zhen4] /Guangfuqiao (town)/
 廣府鎮 广府镇 [Guang3 fu3 zhen4] /Guangfu (town)/
+廣告時代 广告时代 [Guang3 gao4_Shi2 dai4] /Advertising Age/Ad Age (magazine)/Age, Advertising (magazine)/
 廣海鎮 广海镇 [Guang3 hai3 zhen4] /Guanghai (town)/
 廣漢 广汉 [Guang3 han4] /Guanghan (in Sichuan)/
 廣漢市 广汉市 [Guang3 han4_Shi4] /Guanghan (in Sichuan)/
@@ -8466,7 +8468,7 @@
 含族 含族 [Han2 zu2] /Hamites/
 含族人 含族人 [Han2 zu2 ren2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2020-01-16/this is version 2020-01-16, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2020-01-20/this is version 2020-01-20, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
@@ -10886,6 +10888,7 @@
 捷布 捷布 [Jie2 bu4] /Jaipur/
 傑村鄉 杰村乡 [Jie2 cun1_Xiang1] /Jiecun Township/Township, Jiecun/
 婕德 婕德 [Jie2 de2] /Jade (name)/
+傑登 杰登 [Jie2 deng1] /Jayden/
 傑佛瑞 杰佛瑞 [Jie2 fo2 rui4] /Jeffrey/
 傑夫 杰夫 [Jie2 fu1] /Geoff/
 傑弗里 杰弗里 [Jie2 fu2 li3] /Geoffrey/
@@ -16038,6 +16041,7 @@
 茅竹鎮 茅竹镇 [Mao2 zhu2 zhen4] /Maozhu (town)/
 毛莊鎮 毛庄镇 [Mao2 zhuang1 zhen4] /Maozhuang (town)/
 毛嘴鎮 毛嘴镇 [Mao2 zui3 zhen4] /Maozui (town)/
+昴宿 昴宿 [Mao3 su4] /Pleiades (M45)/
 昴星團 昴星团 [Mao3 xing1 tuan2] /Pleiades star cluster/star cluster, Pleiades/
 茂縣 茂县 [Mao4_Xian4] /Mao County/County, Mao/
 冒犯山 冒犯山 [Mao4 fan4 shan1] /Mount of Offense/Offense, Mount of/
@@ -23579,6 +23583,7 @@
 微信公眾平台 微信公众平台 [Wei1 xin4_Gong1 zhong4_Ping2 tai2] /WeChat Official Accounts Platform/Official Accounts Platform, WeChat/
 威信縣 威信县 [Wei1 xin4_Xian4] /Weixin County/County, Weixin/
 微信支付 微信支付 [Wei1 xin4_Zhi1 fu4] /WeChat Pay/
+微信支付寶 微信支付宝 [Wei1 xin4_Zhi1 fu4 bao3] /WeChat Pay wallet (unofficial phrase)/wallet, WeChat Pay (unofficial phrase)/
 微信號 微信号 [Wei1 xin4_hao4] /WeChat ID/
 微信群 微信群 [Wei1 xin4_qun2] /WeChat group/group, WeChat/
 威遠縣 威远县 [Wei1 yuan3_Xian4] /Weiyuan (county, in Sichuan)/
@@ -31043,6 +31048,7 @@
 崇拜自由 崇拜自由 [chong2 bai4_zi4 you2] /freedom of worship/worship, freedom of/
 重重考驗 重重考验 [chong2 chong2_kao3 yan4] /many tests|trials/tests|trials, many/
 重定向 重定向 [chong2 ding4 xiang4] /redirect/
+重發 重发 [chong2 fa1] /resend/forward (a message)/
 崇高的標準 崇高的标准 [chong2 gao1_de5_biao1 zhun3] /high standards/standards, high/
 崇高的理想 崇高的理想 [chong2 gao1_de5_li3 xiang3] /high ideals/ideals, high/
 重合器 重合器 [chong2 he2 qi4] /circuit recloser/recloser, circuit/
@@ -31499,6 +31505,7 @@
 倒水 倒水 [dao4_shui3] /pour water/water, pour/
 到天上去 到天上去 [dao4_tian1 shang5_qu4] /go to heaven/heaven, go to/
 到外面吃飯 到外面吃饭 [dao4_wai4 mian5_chi1 fan4] /going out to eat/eating out/eat, going out to/
+到步 到步 [dao4 bu4] /arrive safely/safely, arrive/<Cantonese>/
 道德崩潰 道德崩溃 [dao4 de2_beng1 kui4] /moral breakdown/breakdown, moral/
 道德標準 道德标准 [dao4 de2_biao1 zhun3] /moral values/moral standards/values, moral/standards, moral/
 道德典范 道德典范 [dao4 de2_dian3 fan4] /moral example/(having) moral high ground/example, moral/high ground, moral/
@@ -31660,6 +31667,7 @@
 電磁脈衝 电磁脉冲 [dian4 ci2_mai4 chong1] /electromagnetic pulse/EMP/pulse, electromagnetic/
 電磁波能量吸收比值 电磁波能量吸收比值 [dian4 ci2 bo1_neng2 liang4_xi1 shou1_bi3 zhi2] /specific energy absorption rate/SAR/energy absorption rate, specific/
 電磁力 电磁力 [dian4 ci2 li4] /electromagnetism/electromagnetic force/
+電催化 电催化 [dian4 cui1 hua4] /electrocatalytic/
 殿頂 殿顶 [dian4 ding3] /temple top or roof/roof, temple top or/
 電動按摩器 电动按摩器 [dian4 dong4_an4 mo2 qi4] /electric massager/massager, electric/
 電動工具 电动工具 [dian4 dong4_gong1 ju4] /power tools/tools, power/
@@ -33023,6 +33031,7 @@
 恆忍 恒忍 [heng2 ren3] /long-suffering/
 橫屍 横尸 [heng2 shi1] /corpse lying down/lying down, corpse/
 橫條 横条 [heng2 tiao2] /crossbar/
+恆星團 恒星团 [heng2 xing1 tuan2] /star cluster/cluster, star/
 烘穀 烘谷 [hong1 gu3] /roasted grain/grain, roasted/
 烘好 烘好 [hong1 hao3] /roasted/
 紅醋栗 红醋栗 [hong2_cu4 li4] /red currant/currant, red/
@@ -36427,6 +36436,7 @@
 時刻準備著 时刻准备着 [shi2 ke4 zhun3 bei4 zhe5] /always prepared (German version of scout motto)/prepared, always (German version of scout motto)/
 時令水果 时令水果 [shi2 ling4_shui3 guo3] /fruit in season/seasonal fruit/season, fruit in/
 石榴汁 石榴汁 [shi2 liu5 zhi1] /pomegranate juice/juice, pomegranate/
+石墨烯 石墨烯 [shi2 mo4 xi1] /graphene/
 食品安全 食品安全 [shi2 pin3_an1 quan2] /food safety/safety, food/
 食品包裝 食品包装 [shi2 pin3_bao1 zhuang1] /food packaging/packaging, food/
 食品容器 食品容器 [shi2 pin3_rong2 qi4] /food container/container, food/
@@ -36491,6 +36501,7 @@
 視聽設備 视听设备 [shi4 ting1_she4 bei4] /audiovisual equipment/equipment, audiovisual/
 士兵們 士兵们 [shi4 bing1 men5] /soldiers/
 試茶 试茶 [shi4 cha2] /tea tasting/tasting, tea/
+市場占有率 市场占有率 [shi4 chang3_zhan4 you3 lu:4] /market share/share, market/
 勢單力薄 势单力薄 [shi4 dan1 li4 bo2] /helpless/
 適當管教 适当管教 [shi4 dang4_guan3 jiao4] /proper discipline/discipline, proper/
 試點計劃 试点计划 [shi4 dian3_ji4 hua4] /pilot project/experimental project/project, pilot/
@@ -36648,6 +36659,7 @@
 疏散令 疏散令 [shu1 san4 ling4] /evacuation order/order, evacuation/
 舒身 舒身 [shu1 shen1] /stretch oneself out/oneself out, stretch/
 舒適感 舒适感 [shu1 shi4 gan3] /sense of comfort/comfort, sense of/
+書學 书学 [shu1 xue2] /study of ancient calligraphy/ancient calligraphy, study of/
 贖愆祭 赎愆祭 [shu2 qian1 ji4] /guilt offering/offering, guilt/
 贖愆祭牲 赎愆祭牲 [shu2 qian1 ji4 sheng1] /guilt offering/offering, guilt/
 赎清 贖清 [shu2 qing1] /paid off (by redemption)/
@@ -36663,6 +36675,7 @@
 數綿羊 数绵羊 [shu4_mian2 yang2] /counting sheep (ineffective sleep method)/sheep, counting (ineffective sleep method)/
 數據豐富化 数据丰富化 [shu4 ju4_feng1 fu4 hua4] /data enrichment (corporate amalgamation of customer data)/enrichment, data (corporate amalgamation of customer data)/
 數據服務 数据服务 [shu4 ju4_fu2 wu4] /data service (for mobile phone etc)/service, data (for mobile phone etc)/
+數據科學 数据科学 [shu4 ju4_ke1 xue2] /data science/science, data/
 數據統計 数据统计 [shu4 ju4_tong3 ji4] /statistics/data/
 數據包 数据包 [shu4 ju4 bao1] /packet/<comp.>/
 數據庫軟件 数据库软件 [shu4 ju4 ku4_ruan3 jian4] /database software/software, database/
@@ -36690,6 +36703,7 @@
 數字簡譜 数字简谱 [shu4 zi4_jian3 pu3] /numbered musical notation/musical notation, numbered/
 數字人文 数字人文 [shu4 zi4_ren2 wen2] /digital humanities/humanities, digital/
 數字時代 数字时代 [shu4 zi4_shi2 dai4] /digital age/
+數字營銷 数字营销 [shu4 zi4_ying2 xiao1] /digital marketing/marketing, digital/
 數字命理學 数字命理学 [shu4 zi4 ming4 li3 xue2] /numerology/
 數字化基礎 数字化基础 [shu4 zi4 hua4_ji1 chu3] /digital foundation (IT infrastructure of organisation)/foundation, digital (IT infrastructure of organisation)/
 刷抖音 刷抖音 [shua1_Dou3 yin1] /swipe (through videos on) Douyin (TikTok)/Douyin, swipe/
@@ -37156,6 +37170,7 @@
 婷婷玉立 婷婷玉立 [ting2 ting2 yu4 li4] /remarkably beautiful/beautiful, remarkably/
 庭園造景 庭园造景 [ting2 yuan2_zao4 jing3] /landscaping/landscape architecture/
 停轉 停转 [ting2 zhuan4] /stall (of car engine etc)/
+挺貴 挺贵 [ting3_gui4] /quite expensive/expensive, quite/
 挺過來 挺过来 [ting3_guo5 lai5] /endure/survive (a death march etc)/
 挺喜歡 挺喜欢 [ting3_xi3 huan5] /(quite) enjoy/
 挺有意思 挺有意思 [ting3_you3_yi4 si5] /quite interesting/interesting, quite/
@@ -37240,6 +37255,7 @@
 頭環 头环 [tou2 huan2] /headband/
 頭昏腦漲 头昏脑涨 [tou2 hun1 nao3 zhang4] /muddled/
 投進 投进 [tou2 jin4] /drop (something) into (a box etc)/"drop in"/
+頭狼 头狼 [tou2 lang2] /wolf pack leader (parent)/alpha wolf/pack leader alpha wolf, wolf/
 投票票 投票票 [tou2 piao4 piao5] /cast vote (informal, student clubs etc)/vote, cast (informal, student clubs etc)/
 頭生子 头生子 [tou2 sheng1 zi3] /firstborn (of creation)/
 投石帶 投石带 [tou2 shi2 dai4] /sling (for throwing stones)/
@@ -37858,6 +37874,7 @@
 先知書 先知书 [xian1 zhi1 shu1] /Prophets (books)/
 鹹牛肉 咸牛肉 [xian2_niu2 rou4] /corned beef/beef, corned/
 咸草 咸草 [xian2 cao3] /salt herb/herb, salt/
+閑愁 闲愁 [xian2 chou2] /worry during free time/during free time, worry/
 弦笛 弦笛 [xian2 di2] /string and flute (music)/flute, string and (music)/
 賢君 贤君 [xian2 jun1] /good king/king, good/
 咸口 咸口 [xian2 kou3] /salty (flavour)/
@@ -38235,6 +38252,7 @@
 凶咒 凶咒 [xiong1 zhou4] /unlucky spell/spell, unlucky/
 雄馬 雄马 [xiong2 ma3] /powerful horse/horse, powerful/
 熊貓園 熊猫园 [xiong2 mao1 yuan2] /panda park/park, panda/
+雄強 雄强 [xiong2 qiang2] /strong and powerful/powerful, strong and/
 修高鐵 修高铁 [xiu1_gao1 tie3] /build a railway/railway, build a/
 修道院女院長 修道院女院长 [xiu1 dao4 yuan4_nu:3 yuan4 zhang3] /mother superior/convent headmistress/superior, mother/headmistress, convent/
 修道院院長 修道院院长 [xiu1 dao4 yuan4_yuan4 zhang3] /prelate/archimandrite/abbot/
@@ -39214,6 +39232,7 @@
 站務人員 站务人员 [zhan4 wu4_ren2 yuan2] /station staff/staff, station/
 戰靴 战靴 [zhan4 xue1] /war boot/boot, war/
 戰衣 战衣 [zhan4 yi1] /war garments/garments, war/
+占有率 占有率 [zhan4 you3 lu:4] /share (of market etc)/
 張網子 张网子 [zhang1_wang3 zi5] /spread a net/
 章數 章数 [zhang1 shu4] /chapter number/number, chapter/
 長知識 长知识 [zhang3_zhi1 shi5] /get knowledge/learn something/knowledge, get/something, learn/
