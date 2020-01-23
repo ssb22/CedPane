@@ -82,6 +82,18 @@ QR Code is the UK registered trademark of Denso Corporation.
 Sibelius is a registered trademark of Avid Technology, Inc. or its subsidiaries.
 Wikipedia is a registered trademark of the Wikimedia Foundation Inc.
 Windows is a registered trademark of Microsoft Corp.
+Apache is a registered trademark of The Apache Software Foundation.
+Bing is a registered trademark of Microsoft Corp.
+Bluetooth is a registered trademark held by the Bluetooth Special Interest Group.
+Java is a registered trademark of Oracle Corporation in the US and possibly other countries.
+Microsoft is a registered trademark of Microsoft Corp.
+Oracle is a registered trademark of Oracle Corporation and/or its affiliates.
+Oreo is a registered trademark of Intercontinental Great Brands LLC.
+Pimsleur is a registered trademark of Beverly Pimsleur exclusively licensed to Simon &amp; Schuster.
+QR Code is the UK registered trademark of Denso Corporation.
+Sibelius is a registered trademark of Avid Technology, Inc. or its subsidiaries.
+Wikipedia is a registered trademark of the Wikimedia Foundation Inc.
+Windows is a registered trademark of Microsoft Corp.
 Accenture is a trademark of Accenture Global Services Ltd.
 Android is a trademark of Google LLC.
 Apache is a registered trademark of The Apache Software Foundation.
