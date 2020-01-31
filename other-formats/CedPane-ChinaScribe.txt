@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2020-01-23
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2020-01-31
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -356,6 +356,7 @@
 阿蒙茲伯里 阿蒙兹伯里 [A1 meng2 zi1 bo2 li3] /Almondsbury/
 阿孟霍特普 阿孟霍特普 [A1 meng4 huo4 te4 pu3] /Amenhotep/
 阿米爾 阿米尔 [A1 mi3 er3] /Amir/
+阿米拉 阿米拉 [A1 mi3 la1] /Amila/Amilla/
 阿米納塔 阿米纳塔 [A1 mi3 na4 ta3] /Aminata/
 阿米什人 阿米什人 [A1 mi3 shi2 ren2] /Amish/
 阿明諾夫 阿明诺夫 [A1 ming2 nuo4 fu1] /Aminov/
@@ -1256,6 +1257,7 @@
 奧得河 奥得河 [Ao4 de2 he2] /Oder (river)/
 奧德里奇 奥德里奇 [Ao4 de2 li3 qi2] /Eldredge/
 奧德麗 奥德丽 [Ao4 de2 li4] /Audrey/
+奧德利 奥德利 [Ao4 de2 li4] /Audley/
 奧德賽 奥德赛 [Ao4 de2 sai4] /the Odyssey (poem)/Odyssey, the (poem)/
 奧登 奥登 [Ao4 deng1] /Auden/
 奧迪莉 奥迪莉 [Ao4 di2 li4] /Odile/
@@ -2630,6 +2632,7 @@
 比坦 比坦 [Bi3 tan3] /Beten/
 比探 比探 [Bi3 tan4] /Bigthan/
 彼特 彼特 [Bi3 te4] /Peter (surname)/
+比特幣 比特币 [Bi3 te4 bi4] /Bitcoin/
 比特利斯 比特利斯 [Bi3 te4 li4 si1] /Bitlis/
 比提尼亞 比提尼亚 [Bi3 ti2 ni2 ya4] /Bithynia/
 比提雅 比提雅 [Bi3 ti2 ya3] /Bithiah/
@@ -2825,6 +2828,7 @@
 波利特 波利特 [Bo1 li4 te4] /Polite (name)/
 波利希斯托 波利希斯托 [Bo1 li4 xi1 si1 tuo1] /Polyhistor/
 波利亞爾內 波利亚尔内 [Bo1 li4 ya4 er3 nei4] /Polyarny/
+波利亞爾內市 波利亚尔内市 [Bo1 li4 ya4 er3 nei4_Shi4] /Polyarny city/city, Polyarny/
 波利亞霍夫 波利亚霍夫 [Bo1 li4 ya4 huo4 fu1] /Polyakov/
 波利亞科夫 波利亚科夫 [Bo1 li4 ya4 ke1 fu1] /Polyakov/
 波蓮鎮 波莲镇 [Bo1 lian2 zhen4] /Bolian (town)/
@@ -4114,6 +4118,7 @@
 叢先生 丛先生 [Cong2_xian1 sheng5] /Mr Cong/Cong, Mr/
 從化區 从化区 [Cong2 hua4_Qu1] /Conghua (district, in Guangdong)/
 從江縣 从江县 [Cong2 jiang1_Xian4] /Congjiang (county, in Guizhou)/
+叢林奇譚 丛林奇谭 [Cong2 lin2_Qi2 tan2] /The Jungle Book (Kipling 1894)/Jungle Book, The (Kipling 1894)/
 叢林鎮 丛林镇 [Cong2 lin2 zhen4] /Conglin (town)/
 叢台區 丛台区 [Cong2 tai2_Qu1] /Congtai District/District, Congtai/
 徂徠鎮 徂徕镇 [Cu2 lai2 zhen4] /Culai (town)/
@@ -7645,6 +7650,7 @@
 古塘鄉 古塘乡 [Gu3 tang2_Xiang1] /Gutang Township/Township, Gutang/
 古陶鎮 古陶镇 [Gu3 tao2 zhen4] /Gutao (town)/
 古特 古特 [Gu3 te4] /Cuthah/
+古特雷斯 古特雷斯 [Gu3 te4 lei2 si1] /Guterres/
 古特馬赫 古特马赫 [Gu3 te4 ma3 he4] /Guttmacher/
 古特曼 古特曼 [Gu3 te4 man4] /Goodman/
 古特人 古特人 [Gu3 te4 ren2] /person of Cuthah/Cuthah, person of/
@@ -8037,6 +8043,7 @@
 國家會展中心 国家会展中心 [Guo2 jia1_Hui4_Zhan3_Zhong1 xin1] /National Exhibition and Convention Centre (Shanghai)/Exhibition and Convention Centre, National (Shanghai)/
 國家留學基金委 国家留学基金委 [Guo2 jia1_Liu2 xue2_Ji1 jin1 wei3] /CSC/China Scholarship Council (funds visiting-scholars abroad)/
 國家人權委員會 国家人权委员会 [Guo2 jia1_Ren2 quan2_Wei3 yuan2 hui4] /National Human Rights Committee/Human Rights Committee, National/
+國家衛生健康委員會 国家卫生健康委员会 [Guo2 jia1_Wei4 sheng1_Jian4 kang1_Wei3 yuan2 hui4] /National Health Commission/NHC/Health Commission, National/<PRC>/
 國家衛生研究院 国家卫生研究院 [Guo2 jia1_Wei4 sheng1_Yan2 jiu1 yuan4] /National Institute for Health Research/NIHR/Institute for Health Research, National/
 國家宗教事務局 国家宗教事务局 [Guo2 jia1_Zong1 jiao4_Shi4 wu4 ju2] /State Administration for Religious Affairs/Administration for Religious Affairs, State/<PRC>/
 國立公共資訊圖書館 国立公共资讯图书馆 [Guo2 li4_Gong1 gong4_Zi1 xun4_Tu2 shu1 guan3] /National Library of Public Information/Library of Public Information, National/<TW>/
@@ -8423,6 +8430,7 @@
 韓先生 韩先生 [Han2_xian1 sheng5] /Mr Han/
 韓擺渡鎮 韩摆渡镇 [Han2 bai3 du4 zhen4] /Hanbaidu (town)/
 韓北鄉 韩北乡 [Han2 bei3_Xiang1] /Hanbei Township/Township, Hanbei/
+韓餐 韩餐 [Han2 can1] /Korean dish/dish, Korean/
 韓城 韩城 [Han2 cheng2] /Hancheng (in Shaanxi)/
 韓城市 韩城市 [Han2 cheng2_Shi4] /Hancheng (in Shaanxi)/
 韓城鎮 韩城镇 [Han2 cheng2 zhen4] /Hancheng (town)/
@@ -8477,7 +8485,7 @@
 含族 含族 [Han2 zu2] /Hamites/
 含族人 含族人 [Han2 zu2 ren2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2020-01-23/this is version 2020-01-23, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2020-01-31/this is version 2020-01-31, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
@@ -8979,6 +8987,7 @@
 黑哲 黑哲 [Hei1 zhe2] /Hedges/
 黑茲爾 黑兹尔 [Hei1 zi1 er3] /Hazel (name)/
 亨茨維爾 亨茨维尔 [Heng1 ci2 wei2 er3] /Huntsville/
+亨德拉 亨德拉 [Heng1 de2 la1] /Hendra/
 亨德里克 亨德里克 [Heng1 de2 li3 ke4] /Hendrik/
 亨德里克森 亨德里克森 [Heng1 de2 li3 ke4 sen1] /Hendrickson/
 亨德里克斯 亨德里克斯 [Heng1 de2 li3 ke4 si1] /Hendricks/
@@ -8992,6 +9001,7 @@
 亨利五世 亨利五世 [Heng1 li4_Wu3_Shi4] /Henry V (Shakespeare play)/
 亨麗埃特 亨丽埃特 [Heng1 li4 ai1 te4] /Henriette/
 亨利克 亨利克 [Heng1 li4 ke4] /Henrik/
+亨尼巴 亨尼巴 [Heng1 ni2 ba1] /Henipa/
 亨氏 亨氏 [Heng1 shi4] /Heinz (brand)/
 亨斯滕貝格 亨斯滕贝格 [Heng1 si1 teng2 bei4 ge2] /Hengstenberg/
 亨特 亨特 [Heng1 te4] /Hunt (surname)/
@@ -9504,6 +9514,7 @@
 懷集縣 怀集县 [Huai2 ji2_Xian4] /Huaiji (county, in Guangdong)/
 槐坎鄉 槐坎乡 [Huai2 kan3_Xiang1] /Huaikan Township/Township, Huaikan/
 懷來縣 怀来县 [Huai2 lai2_Xian4] /Huailai (county, in Hebei)/
+懷利 怀利 [Huai2 li4] /Wylie/
 槐林鎮 槐林镇 [Huai2 lin2 zhen4] /Huailin (town)/
 淮南市 淮南市 [Huai2 nan2_Shi4] /Huainan (in Anhui)/
 淮南子 淮南子 [Huai2 nan2 zi5] /Huainanzi (book from 2nd century BCE)/
@@ -11395,6 +11406,7 @@
 九寨鎮 九寨镇 [Jiu3 zhai4 zhen4] /Jiuzhai (town)/
 九站鄉 九站乡 [Jiu3 zhan4_Xiang1] /Jiuzhan Township/Township, Jiuzhan/
 九真鎮 九真镇 [Jiu3 zhen1 zhen4] /Jiuzhen (town)/
+九執曆 九执历 [Jiu3 zhi2_li4] /Jiuzhi calendar (718 CE)/calendar, Jiuzhi (718 CE)/
 久治縣 久治县 [Jiu3 zhi4_Xian4] /Jiuzhi (county, in Qinghai)/
 九重鎮 九重镇 [Jiu3 zhong4 zhen4] /Jiuzhong (town)/
 九莊鎮 九庄镇 [Jiu3 zhuang1 zhen4] /Jiuzhuang (town)/
@@ -11532,6 +11544,8 @@
 卡爾梅克語 卡尔梅克语 [Ka3 er3 mei2 ke4 yu3] /Kalmyk (language)/
 卡爾梅拉 卡尔梅拉 [Ka3 er3 mei2 la1] /Carmela/
 卡爾梅特 卡尔梅特 [Ka3 er3 mei2 te4] /Calmet/
+卡爾平斯克 卡尔平斯克 [Ka3 er3 ping2 si1 ke4] /Karpinsk/
+卡爾平斯克市 卡尔平斯克市 [Ka3 er3 ping2 si1 ke4_Shi4] /Karpinsk (city)/
 卡爾森 卡尔森 [Ka3 er3 sen1] /Carlson/Carlsen/
 卡爾斯巴德 卡尔斯巴德 [Ka3 er3 si1 ba1 de2] /Carlsbad/
 卡爾文 卡尔文 [Ka3 er3 wen2] /Calvin/
@@ -11743,6 +11757,7 @@
 卡斯帕 卡斯帕 [Ka3 si1 pa4] /Caspar/
 卡斯帕羅夫 卡斯帕罗夫 [Ka3 si1 pa4 luo2 fu1] /Kasparov/
 卡斯塔尼亞爾 卡斯塔尼亚尔 [Ka3 si1 ta3 ni2 ya4 er3] /Castañer/
+卡斯泰盧喬 卡斯泰卢乔 [Ka3 si1 tai4 lu2 qiao2] /Castelluccio/
 卡斯特 卡斯特 [Ka3 si1 te4] /Custer/
 卡斯特羅 卡斯特罗 [Ka3 si1 te4 luo2] /Castro/
 卡斯滕 卡斯滕 [Ka3 si1 teng2] /Carsten/
@@ -14742,6 +14757,7 @@
 魯城鎮 鲁城镇 [Lu3 cheng2 zhen4] /Lucheng (town)/
 魯村鎮 鲁村镇 [Lu3 cun1 zhen4] /Lucun (town)/
 魯道夫 鲁道夫 [Lu3 dao4 fu1] /Rodolfo/Rudolf/
+魯德亞德 鲁德亚德 [Lu3 de2 ya4 de2] /Rudyard/
 魯迪 鲁迪 [Lu3 di2] /Rudy/Rudi/
 魯甸縣 鲁甸县 [Lu3 dian4_Xian4] /Ludian (county, in Yunnan)/
 魯菲諾 鲁菲诺 [Lu3 fei1 nuo4] /Rufino/
@@ -15950,6 +15966,7 @@
 滿族自治縣 满族自治县 [Man3 zu2_Zi4 zhi4 xian4] /Manchu Autonomous County/Autonomous County, Manchu/
 曼城 曼城 [Man4_Cheng2] /Manchester City/City, Manchester/
 曼大 曼大 [Man4_Da4] /Manchester University (abbreviated form)/University, Manchester (abbreviated form)/
+曼島 曼岛 [Man4_Dao3] /Isle of Man (alternate translation)/
 曼聯 曼联 [Man4_Lian2] /Manchester United (football team)/United, Manchester (football team)/
 曼恩 曼恩 [Man4 en1] /Mann/
 曼徹斯特 曼彻斯特 [Man4 che4 si1 te4] /Manchester/
@@ -16028,6 +16045,7 @@
 茅箭區 茅箭区 [Mao2 jian4_Qu1] /Maojian District/District, Maojian/
 茅荊壩鄉 茅荆坝乡 [Mao2 jing1 ba4_Xiang1] /Maojingba Township/Township, Maojingba/
 毛俊鎮 毛俊镇 [Mao2 jun4 zhen4] /Maojun (town)/
+毛克利 毛克利 [Mao2 ke4 li4] /Mowgli/
 毛口布依族苗族鄉 毛口布依族苗族乡 [Mao2 kou3_Bu4 yi1 zu2_Miao2 zu2_Xiang1] /Maokou Bouyei Miao Township/Bouyei Miao Township, Maokou/
 毛里齊奧 毛里齐奥 [Mao2 li3 qi2 ao4] /Maurizio/
 毛里西奧 毛里西奥 [Mao2 li3 xi1 ao4] /Maurício/
@@ -16200,7 +16218,7 @@
 美姑縣 美姑县 [Mei3 gu1_Xian4] /Meigu (county, in Sichuan)/
 美國地質調查局 美国地质调查局 [Mei3 guo2_Di4 zhi4_Diao4 cha2 ju2] /United States Government Geological Survey/States Government Geological Survey, United/
 美國公民自由聯盟 美国公民自由联盟 [Mei3 guo2_Gong1 min2_Zi4 you2_Lian2 meng2] /American Civil Liberties Union/ACLU/Civil Liberties Union, American/
-美國國際宗教自由委員會 美国国际宗教自由委员会 [Mei3 guo2_Guo2 ji4_Zong1 jiao4_Zi4 you2_Wei3 yuan2 hui4] /United States Commission on International Religious Freedom/States Commission on International Religious Freedom, United/
+美國國際宗教自由委員會 美国国际宗教自由委员会 [Mei3 guo2_Guo2 ji4_Zong1 jiao4_Zi4 you2_Wei3 yuan2 hui4] /United States Commission on International Religious Freedom/USCIRF/States Commission on International Religious Freedom, United/
 美國國家標準與技術研究院 美国国家标准与技术研究院 [Mei3 guo2_Guo2 jia1_Biao1 zhun3_Yu3_Ji4 shu4_Yan2 jiu1 yuan4] /U.S. National Institute of Standards and Technology/NIST/National Institute of Standards and Technology, U.S./
 美國國家航空航天局 美国国家航空航天局 [Mei3 guo2_Guo2 jia1_Hang2 kong1_Hang2 tian1_Ju2] /NASA (lit. American National Aeronautics and Space Administration)/
 美國國家民主基金會 美国国家民主基金会 [Mei3 guo2_Guo2 jia1_Min2 zhu3_Ji1 jin1 hui4] /National Endowment for Democracy (USA)/Endowment for Democracy, National (USA)/
@@ -16386,6 +16404,7 @@
 米爾福德峽灣 米尔福德峡湾 [Mi3 er3 fu2 de2_Xia2 wan1] /Milford Sound/Sound, Milford/
 米爾納 米尔纳 [Mi3 er3 na4] /Milner/
 米爾斯 米尔斯 [Mi3 er3 si1] /Mills/
+米爾希爾 米尔希尔 [Mi3 er3 xi1 er3] /Mill Hill/Hill, Mill/
 米爾扎 米尔扎 [Mi3 er3 zha1] /Mīrzā/
 米爾扎耶夫 米尔扎耶夫 [Mi3 er3 zha1 ye1 fu1] /Mirzayev/
 米貝苗族鄉 米贝苗族乡 [Mi3 bei4_Miao2 zu2_Xiang1] /Mibei Miao Township/Miao Township, Mibei/
@@ -17519,6 +17538,7 @@
 尼尼微王 尼尼微王 [Ni2 ni2 wei1 wang2] /king of Nineveh/Nineveh, king of/
 尼努爾塔 尼努尔塔 [Ni2 nu3 er3 ta3] /Ninurta/
 尼諾斯克語 尼诺斯克语 [Ni2 nuo4 si1 ke4 yu3] /Nynorsk (language)/
+尼帕 尼帕 [Ni2 pa4] /Nipa/
 尼普爾 尼普尔 [Ni2 pu3 er3] /Nippur/
 倪邱鎮 倪邱镇 [Ni2 qiu1 zhen4] /Niqiu (town)/
 尼日爾河 尼日尔河 [Ni2 ri4 er3 he2] /Niger River/River, Niger/
@@ -22123,6 +22143,7 @@
 塔什庫爾干縣 塔什库尔干县 [Ta3 shi2 ku4 er3 gan1_Xian4] /Taxkorgan (Tajik county, in Xinjiang)/
 塔什庫爾干鄉 塔什库尔干乡 [Ta3 shi2 ku4 er3 gan1_Xiang1] /Tashiku'ergan Township/Township, Tashiku'ergan/
 塔什庫爾干鎮 塔什库尔干镇 [Ta3 shi2 ku4 er3 gan1 zhen4] /Tashiku'ergan (town)/
+塔斯卡盧薩縣 塔斯卡卢萨县 [Ta3 si1 ka3 lu2 sa4_Xian4] /Tuscaloosa (county, in Alabama)/
 塔斯馬尼亞 塔斯马尼亚 [Ta3 si1 ma3 ni2 ya4] /Tasmania/
 塔斯曼 塔斯曼 [Ta3 si1 man4] /Tasman/
 塔塔爾語 塔塔尔语 [Ta3 ta3 er3 yu3] /Tatar (language)/
@@ -23775,6 +23796,7 @@
 偉光鄉 伟光乡 [Wei3 guang1_Xiang1] /Weiguang Township/Township, Weiguang/
 葦河鎮 苇河镇 [Wei3 he2 zhen4] /Weihe (town)/
 偉江鄉 伟江乡 [Wei3 jiang1_Xiang1] /Weijiang Township/Township, Weijiang/
+偉烈亞力 伟烈亚力 [Wei3 lie4 ya4 li4] /Alexander Wylie (1815-87)/Wylie, Alexander (1815-87)/
 偉森 伟森 [Wei3 sen1] /Wissam/
 葦沙河鎮 苇沙河镇 [Wei3 sha1 he2 zhen4] /Weishahe (town)/
 衛河 卫河 [Wei4_He2] /Wei River/River, Wei/
@@ -27404,6 +27426,7 @@
 業州鎮 业州镇 [Ye4 zhou1 zhen4] /Yezhou (town)/
 一帶一路 一带一路 [Yi1_Dai4_Yi1_Lu4] /Belt and Road Initiative (2013)/Road Initiative, Belt and (2013)/
 伊河 伊河 [Yi1_He2] /Yi River/River, Yi/
+一席 一席 [Yi1_Xi2] /Yi Xi (TED-like talks 2012+)/
 黟縣 黟县 [Yi1_Xian4] /Yi County/County, Yi/
 一戰 一战 [Yi1_Zhan4] /First World War (abbreviation)/World War, First (abbreviation)/
 伊阿奧 伊阿奥 [Yi1 a1 ao4] /Iao/
@@ -27667,6 +27690,7 @@
 一月底 一月底 [Yi1 yue4 di3] /end of January/January, end of/
 一月份 一月份 [Yi1 yue4 fen4] /January/
 伊扎克 伊扎克 [Yi1 zha1 ke4] /Yitzhak/
+醫政醫管局 医政医管局 [Yi1 zheng4 yi1 guan3 ju2] /Medical Administration department (of NHC)/Administration department, Medical (of NHC)/
 伊州區 伊州区 [Yi1 zhou1_Qu1] /Yizhou District/District, Yizhou/
 伊朱 伊朱 [Yi1 zhu1] /Ifju/
 依莊鄉 依庄乡 [Yi1 zhuang1_Xiang1] /Yizhuang Township/Township, Yizhuang/
@@ -30219,6 +30243,7 @@
 斑鬣狗 斑鬣狗 [ban1 lie4 gou3] /spotted hyena/hyena, spotted/
 頒令 颁令 [ban1 ling4] /issue a command/command, issue a/
 搬去 搬去 [ban1 qu4] /move to/
+搬入 搬入 [ban1 ru4] /move into (a new home etc)/
 頒下 颁下 [ban1 xia5] /issue forth (of a royal instruction etc)/forth, issue (of a royal instruction etc)/
 扳下 扳下 [ban1 xia4] /pull down/down, pull/
 搬運自 搬运自 [ban1 yun4_zi4] /transported from (a Western website to a Chinese one, to avert firewall)/
@@ -30410,6 +30435,7 @@
 本碩 本硕 [ben3 shuo4] /undergraduate and masters/masters, undergraduate and/
 本地數據 本地数据 [ben3 di4_shu4 ju4] /local data (allowance, China Mobile Hong Kong)/data, local (allowance, China Mobile Hong Kong)/
 本地通話 本地通话 [ben3 di4_tong1 hua4] /local call (phone)/call, local (phone)/
+本港 本港 [ben3 gang3] /this port (i.e. Hong Kong)/port, this (i.e. Hong Kong)/<HK>/
 本刊 本刊 [ben3 kan1] /this periodical/periodical, this/
 本科專業 本科专业 [ben3 ke1_zhuan1 ye4] /undergraduate programme/undergraduate university subject/programme, undergraduate/university subject, undergraduate/
 本輪 本轮 [ben3 lun2] /epicycles/
@@ -31771,7 +31797,7 @@
 電源線 电源线 [dian4 yuan2 xian4] /power supply cord/supply cord, power/<comp.|elec.>/
 電震器 电震器 [dian4 zhen4 qi4] /electroshock devices/devices, electroshock/
 電子產品 电子产品 [dian4 zi3_chan3 pin3] /electronic device/gadget/device, electronic/
-電子出版物 电子出版物 [dian4 zi3_chu1 ban3 wu4] /electronic publications/publications, electronic/
+電子出版物 电子出版物 [dian4 zi3_chu1 ban3 wu4] /electronic publications/digital publications/publications, electronic/
 電子檔案 电子档案 [dian4 zi3_dang4 an4] /electronic files/files, electronic/
 電子工程 电子工程 [dian4 zi3_gong1 cheng2] /electronic engineering/engineering, electronic/
 電子工程學 电子工程学 [dian4 zi3_gong1 cheng2 xue2] /electronic engineering/engineering, electronic/
@@ -31798,8 +31824,10 @@
 雕鴞 雕鸮 [diao1 xiao1] /eagle owl/
 雕柱 雕柱 [diao1 zhu4] /carved pillar/pillar, carved/
 𨳒 𨳒 [diao3] /penis/<vulgar, Cantonese>/
+掉一地 掉一地 [diao4_yi5_di4] /fall to the ground/ground, fall to the/
 調查團隊 调查团队 [diao4 cha2_tuan2 dui4] /investigation team/team, investigation/
 調查人員 调查人员 [diao4 cha2 ren2 yuan2] /investigators/
+掉地 掉地 [diao4 di4] /fall to the ground/ground, fall to the/
 吊放 吊放 [diao4 fang4] /lower into place (with rope, crane etc)/place, lower into (with rope, crane etc)/
 掉光 掉光 [diao4 guang1] /fall off and all gone/gone, fall off and all/
 釣上 钓上 [diao4 shang5] /draw out (a fish)/
@@ -31969,6 +31997,7 @@
 多重宇宙論 多重宇宙论 [duo1 chong2_yu3 zhou4_lun4] /multiverse theory/many-universe theory/theory, multiverse/
 多發性硬化症 多发性硬化症 [duo1 fa1 xing4_ying4 hua4 zheng4] /multiple sclerosis/sclerosis, multiple/
 多功能淋浴房 多功能淋浴房 [duo1 gong1 neng2_lin2 yu4 fang2] /multifunctional shower room/shower room, multifunctional/
+多功能綜合樓 多功能综合楼 [duo1 gong1 neng2_zong1 he2 lou2] /multifunction building/building, multifunction/
 多管閒事 多管閒事 [duo1 guan3_xian2 shi4] /meddle in other people's affairs/other people's affairs, meddle in/
 多焦點 多焦点 [duo1 jiao1 dian3] /multifocal/
 多精度 多精度 [duo1 jing1 du4] /multiple precision/arbitrary precision/bignum/precision, multiple/<comp.>/
@@ -32353,6 +32382,7 @@
 斧子頭 斧子头 [fu3 zi5 tou2] /axehead/axhead/
 赴京 赴京 [fu4_Jing1] /visit Beijing/Beijing, visit/
 父上帝 父上帝 [fu4_Shang4 di4] /God the Father/Father, God the/
+副局長 副局长 [fu4_ju2 zhang3] /deputy director (of bureau etc)/director, deputy (of bureau etc)/
 付了賬 付了账 [fu4_le5_zhang4] /paid the bill (variant)/bill, paid the (variant)/
 附信 附信 [fu4_xin4] /covering letter (with mailed item)/letter, covering (with mailed item)/
 腹中的 腹中的 [fu4_zhong1_de5] /in the womb/womb, in the/
@@ -32722,10 +32752,12 @@
 故我在 故我在 [gu4_wo3_zai4] /therefore I am/
 固定收益 固定收益 [gu4 ding4_shou1 yi4] /fixed income (in investment products etc)/income, fixed (in investment products etc)/
 固定點 固定点 [gu4 ding4 dian3] /fixed point (maths)/anchor point (for seatbelt)/point anchor point, fixed/
+固定費 固定费 [gu4 ding4 fei4] /standing charge/fixed charge/charge, standing/
 固定件 固定件 [gu4 ding4 jian4] /anchor point (for seatbelt)/point, anchor (for seatbelt)/
 雇工們 雇工们 [gu4 gong1 men5] /hired men/
 顧客意見表 顾客意见表 [gu4 ke4_yi4 jian5_biao3] /customer suggestion form/customer feedback form/suggestion form, customer/feedback form, customer/
 顧客永遠是對的 顾客永远是对的 [gu4 ke4_yong3 yuan3_shi4_dui4_de5] /the customer is always right/customer is always right, the/
+故事集 故事集 [gu4 shi5_ji2] /anthology/collection of stories/
 故事情節 故事情节 [gu4 shi5_qing2 jie2] /story line (synopsis)/line, story (synopsis)/
 固收 固收 [gu4 shou1] /fixed income (abbreviated form)/income, fixed (abbreviated form)/
 固態繼電器 固态继电器 [gu4 tai4_ji4 dian4 qi4] /solid-state relay/SSR/relay, solid-state/
@@ -32749,6 +32781,8 @@
 觀影 观影 [guan1_ying3] /watch a film/film, watch a/
 觀點性 观点性 [guan1 dian3 xing4] /viewpoint-type/
 關掉手機 关掉手机 [guan1 diao4_shou3 ji1] /turn off mobile phone/mobile phone, turn off/
+冠毒 冠毒 [guan1 du2] /coronavirus (short form)/
+冠毒素 冠毒素 [guan1 du2 su4] /coronatine/
 官方頻道 官方频道 [guan1 fang1_pin2 dao4] /official channel (on video-sharing website)/channel, official (on video-sharing website)/
 官方網站 官方网站 [guan1 fang1_wang3 zhan4] /official website/website, official/
 官方應用商店 官方应用商店 [guan1 fang1_ying4 yong4_shang1 dian4] /official app store/store, official app/
@@ -32882,6 +32916,7 @@
 裹頭巾 裹头巾 [guo3 tou2 jin1] /bind a headdress (?)/headdress, bind a (?)/
 果餡餅 果馅饼 [guo3 xian4 bing3] /flan (British)/
 果渣油 果渣油 [guo3 zha1 you2] /pomace oil/
+過春節 过春节 [guo4_Chun1 jie2] /spend Chinese new year/Chinese new year, spend/
 過紅海 过红海 [guo4_Hong2 hai3] /through the Red Sea/
 過更好的生活 过更好的生活 [guo4_geng4 hao3_de5_sheng1 huo2] /lead a better life (materially etc)/better life, lead a (materially etc)/
 過好每一天 过好每一天 [guo4_hao3_mei3_yi1_tian1] /taking each day as it comes/each day as it comes, taking/
@@ -33714,6 +33749,7 @@
 交響音樂會 交响音乐会 [jiao1 xiang3_yin1 yue4 hui4] /symphonic concert/concert, symphonic/
 交易額 交易额 [jiao1 yi4 e2] /trading volume/volume, trading/
 交易量 交易量 [jiao1 yi4 liang4] /trading volume/volume, trading/
+交易員 交易员 [jiao1 yi4 yuan2] /trader (on stock exchange etc)/
 交由 交由 [jiao1 you2] /send by (messengers etc)/
 澆油 浇油 [jiao1 you2] /pour oil/
 膠原蛋白 胶原蛋白 [jiao1 yuan2_dan4 bai2] /collagen/
@@ -34105,6 +34141,7 @@
 巨魚 巨鱼 [ju4 yu2] /huge fish/fish, huge/
 巨災 巨灾 [ju4 zai1] /great plague/plague, great/
 捐款箱 捐款箱 [juan1 kuan3 xiang1] /contribution box/
+捐送 捐送 [juan1 song4] /send as a donation (to)/donation, send as a (to)/
 捐贈人 捐赠人 [juan1 zeng4 ren2] /donor (to charity)/
 捐贈者 捐赠者 [juan1 zeng4 zhe3] /donor (of aid etc)/
 捲好 卷好 [juan3 hao3] /to roll up (e.g. a scroll, lit. roll good)/roll up, to (e.g. a scroll, lit. roll good)/
@@ -34150,6 +34187,7 @@
 卡其色 卡其色 [ka3 qi2 se4] /khaki (colour)/<loan>/
 卡通片 卡通片 [ka3 tong1 pian4] /cartoon frame (drawn by an animator)/frame, cartoon (drawn by an animator)/
 卡瓦 卡瓦 [ka3 wa3] /kava/
+開不開心 开不开心 [kai1_bu4_kai1 xin1] /happy or not?/not?, happy or/
 開太快 开太快 [kai1_tai4_kuai4] /drive too fast/fast, drive too/
 開窗 开窗 [kai1 chuang1] /open window/window, open/
 開發工具 开发工具 [kai1 fa1_gong1 ju4] /development tool/tool, development/<comp.>/
@@ -34390,6 +34428,7 @@
 困苦窮乏 困苦穷乏 [kun4 ku3 qiong2 fa2] /afflicted and poor/poor, afflicted and/
 困苦人 困苦人 [kun4 ku3 ren2] /one having a hard day/afflicted ones/having a hard day, one/ones, afflicted/
 困憂 困忧 [kun4 you1] /difficulty and worry/worry, difficulty and/
+闊太太 阔太太 [kuo4_tai4 tai5] /rich lady/lady, rich/
 擴充劑 扩充剂 [kuo4 chong1 ji4] /volume expander/expander, volume/
 擴散得很快 扩散得很快 [kuo4 san4_de5_hen3_kuai4] /aggressive (of cancer; spread quickly)/
 拉刮刀 拉刮刀 [la1_gua1 dao1] /drawknife/
@@ -34896,6 +34935,7 @@
 沒有宗教信仰的人 没有宗教信仰的人 [mei2 you3_zong1 jiao4_xin4 yang3_de5_ren2] /nonreligious people/people, nonreligious/
 霉災 霉灾 [mei2 zai1] /mildew/
 沒籽 没籽 [mei2 zi3] /seedless (of grape etc)/
+每度電 每度电 [mei3_du4_dian4] /per unit of electricity/unit of electricity, per/
 每分每秒 每分每秒 [mei3_fen1_mei3_miao3] /every minute and second/minute and second, every/
 每個人 每个人 [mei3_ge5_ren2] /every person/person, every/
 每家每戶 每家每户 [mei3_jia1_mei3_hu4] /every household/household, every/
@@ -35589,6 +35629,7 @@
 騎牛搵馬 骑牛揾马 [qi2 niu2 wen4 ma3] /stopgap/hold one job etc while looking for a better/<Cantonese>/
 騎上 骑上 [qi2 shang5] /ride on (an animal)/
 其他人 其他人 [qi2 ta1_ren2] /other people/people, other/
+奇譚 奇谭 [qi2 tan2] /legend/
 啟露 启露 [qi3 lu4] /revealing/
 啟蒙主義 启蒙主义 [qi3 meng2 zhu3 yi4] /enlightenment (philosophy etc)/
 乞討者 乞讨者 [qi3 tao3 zhe3] /beggar/
@@ -35949,6 +35990,7 @@
 人像畫 人像画 [ren2 xiang4 hua4] /portrait (of a person)/
 人行地下道 人行地下道 [ren2 xing2_di4 xia4 dao4] /underground passage (for pedestrians)/passage, underground (for pedestrians)/
 人血 人血 [ren2 xue4] /human blood (?)/blood, human (?)/
+忍不了 忍不了 [ren3 bu4 liao3] /unable to endure/endure, unable to/
 忍耐到底 忍耐到底 [ren3 nai4_dao4 di3] /endure to the end/
 認得出 认得出 [ren4_de5_chu1] /make out/
 任擇其一 任择其一 [ren4_ze2_qi2_yi1] /choose any one (out of a list etc)/
@@ -36531,6 +36573,7 @@
 驶进 駛進 [shi3 jin4] /steer into (a port etc)/
 矢量圖 矢量图 [shi3 liang4 tu2] /vector image/image, vector/<comp.>/
 始料不及 始料不及 [shi3 liao4 bu4 ji2] /expectation unfulfilled (?)/unfulfilled, expectation (?)/
+使命必達 使命必达 [shi3 ming4_bi4_da2] /the mission will succeed/mission will succeed, the/
 史前人類 史前人类 [shi3 qian2_ren2 lei4] /prehistoric man/
 史特勞斯 史特劳斯 [shi3 te4 lao2 si1] /stauros (older transliteration)/
 使徒保羅 使徒保罗 [shi3 tu2_Bao3 luo2] /apostle Paul/Paul, apostle/
@@ -36945,7 +36988,10 @@
 酸葉 酸叶 [suan1 ye4] /sorrel/
 酸葉草 酸叶草 [suan1 ye4 cao3] /sorrel/
 算什麼 算什么 [suan4_shen2 me5] /amounts to what?/what?, amounts to/
+算筆賬 算笔账 [suan4 bi3 zhang4] /write out a bill/bill, write out a/
+算不算 算不算 [suan4 bu5 suan4] /count as (or not)/
 蒜味麵包 蒜味面包 [suan4 wei4_mian4 bao1] /garlic bread/bread, garlic/
+算一筆賬 算一笔账 [suan4 yi1 bi3 zhang4] /write out a bill/bill, write out a/
 算账 算账 [suan4 zhang4] /make an accounting (lit. compute credit?)/accounting, make an (lit. compute credit?)/
 雖然如此 虽然如此 [sui1 ran2_ru2 ci3] /yet/despite this/
 隨車起重機 随车起重机 [sui2 che1_qi3 zhong4 ji1] /truck-mounted (loader) crane/crane, truck-mounted/
@@ -37330,6 +37376,7 @@
 凸出物 凸出物 [tu1 chu1 wu4] /projection (from wall etc)/
 突出物 突出物 [tu1 chu1 wu4] /protuberance/
 突發奇想 突发奇想 [tu1 fa1_qi2 xiang3] /sudden whim/whim, sudden/
+突擊搜查 突击搜查 [tu1 ji1_sou1 cha2] /raid and search (a home etc)/search, raid and (a home etc)/
 突擊行動 突击行动 [tu1 ji1_xing2 dong4] /sting operation/operation, sting/
 凸塊 凸块 [tu1 kuai4] /bumps (on surface of something)/
 突然間 突然间 [tu1 ran2 jian1] /suddenly/
@@ -37460,6 +37507,7 @@
 玩得團團轉 玩得团团转 [wan2_de5_tuan2 tuan2 zhuan4] /wrapped around one's finger (figurative, of other people)/around one's finger, wrapped (figurative, of other people)/
 玩游戲 玩游戏 [wan2_you2 xi4] /play games/games, play/
 玩捉迷藏 玩捉迷藏 [wan2_zhuo1_mi2 cang2] /play hide-and-seek/hide-and-seek, play/
+玩得起 玩得起 [wan2 de5 qi3] /poke fun/
 玩家 玩家 [wan2 jia1] /player (in electronic games)/
 完美主義者 完美主义者 [wan2 mei3 zhu3 yi4 zhe3] /perfectionist/
 完全沒有 完全没有 [wan2 quan2_mei2 you3] /far from it!/
@@ -38659,6 +38707,7 @@
 依法可以 依法可以 [yi1 fa3_ke3 yi3] /legally entitled (to do something)/entitled, legally (to do something)/
 依法審查 依法审查 [yi1 fa3_shen3 cha2] /legal review/review, legal/
 一分力 一分力 [yi1 fen1 li4] /bit of individual effort (to contribute to a project)/individual effort, bit of (to contribute to a project)/
+衣服店 衣服店 [yi1 fu5_dian4] /clothes shop/shop, clothes/
 一夫多妻或一妻多夫 一夫多妻或一妻多夫 [yi1 fu1 duo1 qi1_huo4_yi1 qi1 duo1 fu1] /polygyny or polyandry/polygamy/polyandry, polygyny or/
 一個不留 一个不留 [yi1 ge5 bu4 liu2] /not leave a single one/leave a single one, not/
 一掛掛 一挂挂 [yi1 gua4 gua4] /cluster after cluster?/after cluster?, cluster/
@@ -39129,10 +39178,12 @@
 願上帝保佑你 愿上帝保佑你 [yuan4_Shang4 di4_bao3 you4_ni3] /God bless you (common saying after a sneeze)/bless you, God (common saying after a sneeze)/
 願不願意 愿不愿意 [yuan4_bu5_yuan4 yi4] /willing or not/
 願你的國來臨 愿你的国来临 [yuan4_ni3_de5_guo2_lai2 lin2] /thy kingdom come/kingdom come, thy/
+願賭服輸 愿赌服输 [yuan4 du3 fu2 shu1] /if you gamble it's your fault if you lose/gamble it's your fault if you lose, if you/
 院方 院方 [yuan4 fang1] /hospital personnel/personnel, hospital/
 怨憤難平 怨愤难平 [yuan4 fen4_nan2_ping2] /bitter (lit. discontent difficult peace?)/
 院士榮銜 院士荣衔 [yuan4 shi4_rong2 xian2] /fellowship (academic honour)/
 院所 院所 [yuan4 suo3] /institute/
+願玩服輸 愿玩服输 [yuan4 wan2 fu2 shu1] /if you play it's your fault if you lose/play it's your fault if you lose, if you/
 願意讓步 愿意让步 [yuan4 yi5_rang4 bu4] /willing to yield/submissive/yield, willing to/
 願意學習 愿意学习 [yuan4 yi5_xue2 xi2] /want to learn/learn, want to/
 約版 约版 [yue1 ban3] /tablets of the covenant/covenant, tablets of the/
@@ -39144,6 +39195,7 @@
 約書 约书 [yue1 shu1] /book of the covenant/covenant, book of the/
 曱甴 曱甴 [yue1 you2] /cockroach/<Cantonese>/
 越刮越大 越刮越大 [yue4_gua1_yue4_da4] /blows harder and harder (of wind)/harder and harder, blows (of wind)/
+悅耳動聽 悦耳动听 [yue4 er3 dong4 ting1] /pleasant to the ear/
 樂感 乐感 [yue4 gan3] /sense of music/music, sense of/
 粵胡 粤胡 [yue4 hu2] /yuehu (another name for gaohu, a higher-pitched huqin)/
 越橘汁 越橘汁 [yue4 ju2 zhi1] /cranberry juice/juice, cranberry/
@@ -39182,6 +39234,7 @@
 災後重建 灾后重建 [zai1 hou4_chong2 jian4] /reconstruction after disaster/after disaster, reconstruction/
 災後重建計劃 灾后重建计划 [zai1 hou4_chong2 jian4_ji4 hua4] /long-term relief efforts/reconstruction programme (after a disaster)/relief efforts, long-term (after a disaster)/programme, reconstruction (after a disaster)/
 災劫 灾劫 [zai1 jie2] /disaster|calamity/
+災難片 灾难片 [zai1 nan4 pian4] /disaster film/film, disaster/
 栽培品種 栽培品种 [zai1 pei2_pin3 zhong3] /cultivar (of a plant)/
 栽上 栽上 [zai1 shang5] /plant (a tree etc, on some place?)/
 宰掉 宰掉 [zai3 diao4] /slaughter drop??/drop??, slaughter/
@@ -39409,9 +39462,11 @@
 徵兵官 征兵官 [zheng1 bing1 guan1] /recruiting officer/officer, recruiting/
 蒸餾酒 蒸馏酒 [zheng1 liu2 jiu3] /distilled liquor/liquor, distilled/
 征稅 征税 [zheng1 shui4] /taxation/
+征信體系 征信体系 [zheng1 xin4_ti3 xi4] /credit-scoring system/system, credit-scoring/
 蒸壓 蒸压 [zheng1 ya1] /autoclave/
 錚錚有聲 铮铮有声 [zheng1 zheng1 you3 sheng1] /rattling sound/sound, rattling/
 整部聖經 整部圣经 [zheng3 bu4_Sheng4 jing1] /the complete Bible/complete Bible, the/
+整蠱 整蛊 [zheng3 gu3] /prank (someone)/
 拯救地球 拯救地球 [zheng3 jiu4_di4 qiu2] /saving the planet/planet, saving the/
 拯救者 拯救者 [zheng3 jiu4 zhe3] /saviour/
 整平 整平 [zheng3 ping2] /polish (plaster etc)/
@@ -39809,6 +39864,7 @@
 自個拍 自个拍 [zi4_ge5_pai1] /take a selfie (informal photographic self-portrait)/selfie, take a (informal photographic self-portrait)/
 自貿協議 自贸协议 [zi4 mao4_xie2 yi4] /free-trade agreement/agreement, free-trade/
 字板 字板 [zi4 ban3] /tablet/writing board/
+自閉 自闭 [zi4 bi4] /autism/
 自辯 自辩 [zi4 bian4] /defend oneself (in court etc)/oneself, defend (in court etc)/
 自殘 自残 [zi4 can2] /self-injuring/doing violence to (oneself's)/
 自稱基督徒 自称基督徒 [zi4 cheng1_Ji1 du1 tu2] /professed Christian/Christian, professed/
@@ -39881,6 +39937,7 @@
 自助者 自助者 [zi4 zhu4 zhe3] /those who help themselves/help themselves, those who/
 自助者天助之 自助者天助之 [zi4 zhu4 zhe3_tian1 zhu4_zhi1] /those who help themselves get help from heaven (attr. Aesop)/help themselves get help from heaven, those who (attr. Aesop)/
 宗徒繼承 宗徒继承 [zong1_tu2_ji4 cheng2] /apostolic succession (Catholic doctrine)/succession, apostolic (Catholic doctrine)/
+綜合樓 综合楼 [zong1 he2 lou2] /multi-use building/building, multi-use/
 棕黃色 棕黄色 [zong1 huang2 se4] /yellowish-red/pale brown/
 宗教百科全書 宗教百科全书 [zong1 jiao4_bai3 ke1 quan2 shu1] /The Encyclopedia of Religion/Encyclopedia of Religion, The/
 宗教出版物 宗教出版物 [zong1 jiao4_chu1 ban3 wu4] /religious publications/publications, religious/
