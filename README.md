@@ -46,78 +46,13 @@ Of course it goes without saying that, despite my best efforts, mistakes are pos
 I also have a separate collection of Chinese words that _are_ in typical dictionaries, with short English definitions that have either been confirmed by multiple independent sources to the extent that it is reasonable to believe they are public domain, or that I’ve written myself.  This separate collection is _not_ likely to help with software that already has a good normal dictionary, but it might be useful for developers to prototype interlinear annotators etc.  It is in the repository as [PD-English-Definitions.txt](PD-English-Definitions.txt) but has not been included in the main CedPane file.
 
 CedPane is public-domain but this Readme file is © Silas S. Brown and may be reproduced as-is.
-Apache is a registered trademark of The Apache Software Foundation.
-Bing is a registered trademark of Microsoft Corp.
-Bluetooth is a registered trademark held by the Bluetooth Special Interest Group.
-Java is a registered trademark of Oracle Corporation in the US and possibly other countries.
-Microsoft is a registered trademark of Microsoft Corp.
-Oracle is a registered trademark of Oracle Corporation and/or its affiliates.
-Oreo is a registered trademark of Intercontinental Great Brands LLC.
-Pimsleur is a registered trademark of Beverly Pimsleur exclusively licensed to Simon &amp; Schuster.
 QR Code is the UK registered trademark of Denso Corporation.
-Sibelius is a registered trademark of Avid Technology, Inc. or its subsidiaries.
-Wikipedia is a registered trademark of the Wikimedia Foundation Inc.
-Windows is a registered trademark of Microsoft Corp.
-Apache is a registered trademark of The Apache Software Foundation.
-Bing is a registered trademark of Microsoft Corp.
-Bluetooth is a registered trademark held by the Bluetooth Special Interest Group.
-Java is a registered trademark of Oracle Corporation in the US and possibly other countries.
-Microsoft is a registered trademark of Microsoft Corp.
-Oracle is a registered trademark of Oracle Corporation and/or its affiliates.
-Oreo is a registered trademark of Intercontinental Great Brands LLC.
-Pimsleur is a registered trademark of Beverly Pimsleur exclusively licensed to Simon &amp; Schuster.
 QR Code is the UK registered trademark of Denso Corporation.
-Sibelius is a registered trademark of Avid Technology, Inc. or its subsidiaries.
-Wikipedia is a registered trademark of the Wikimedia Foundation Inc.
-Windows is a registered trademark of Microsoft Corp.
-Apache is a registered trademark of The Apache Software Foundation.
-Bing is a registered trademark of Microsoft Corp.
-Bluetooth is a registered trademark held by the Bluetooth Special Interest Group.
-Java is a registered trademark of Oracle Corporation in the US and possibly other countries.
-Microsoft is a registered trademark of Microsoft Corp.
-Oracle is a registered trademark of Oracle Corporation and/or its affiliates.
-Oreo is a registered trademark of Intercontinental Great Brands LLC.
-Pimsleur is a registered trademark of Beverly Pimsleur exclusively licensed to Simon &amp; Schuster.
 QR Code is the UK registered trademark of Denso Corporation.
-Sibelius is a registered trademark of Avid Technology, Inc. or its subsidiaries.
-Wikipedia is a registered trademark of the Wikimedia Foundation Inc.
-Windows is a registered trademark of Microsoft Corp.
-Apache is a registered trademark of The Apache Software Foundation.
-Bing is a registered trademark of Microsoft Corp.
-Bluetooth is a registered trademark held by the Bluetooth Special Interest Group.
-Java is a registered trademark of Oracle Corporation in the US and possibly other countries.
-Microsoft is a registered trademark of Microsoft Corp.
-Oracle is a registered trademark of Oracle Corporation and/or its affiliates.
-Oreo is a registered trademark of Intercontinental Great Brands LLC.
-Pimsleur is a registered trademark of Beverly Pimsleur exclusively licensed to Simon &amp; Schuster.
 QR Code is the UK registered trademark of Denso Corporation.
-Sibelius is a registered trademark of Avid Technology, Inc. or its subsidiaries.
-Wikipedia is a registered trademark of the Wikimedia Foundation Inc.
-Windows is a registered trademark of Microsoft Corp.
-Apache is a registered trademark of The Apache Software Foundation.
-Bing is a registered trademark of Microsoft Corp.
-Bluetooth is a registered trademark held by the Bluetooth Special Interest Group.
-Java is a registered trademark of Oracle Corporation in the US and possibly other countries.
-Microsoft is a registered trademark of Microsoft Corp.
-Oracle is a registered trademark of Oracle Corporation and/or its affiliates.
-Oreo is a registered trademark of Intercontinental Great Brands LLC.
-Pimsleur is a registered trademark of Beverly Pimsleur exclusively licensed to Simon &amp; Schuster.
 QR Code is the UK registered trademark of Denso Corporation.
-Sibelius is a registered trademark of Avid Technology, Inc. or its subsidiaries.
-Wikipedia is a registered trademark of the Wikimedia Foundation Inc.
-Windows is a registered trademark of Microsoft Corp.
-Apache is a registered trademark of The Apache Software Foundation.
-Bing is a registered trademark of Microsoft Corp.
-Bluetooth is a registered trademark held by the Bluetooth Special Interest Group.
-Java is a registered trademark of Oracle Corporation in the US and possibly other countries.
-Microsoft is a registered trademark of Microsoft Corp.
-Oracle is a registered trademark of Oracle Corporation and/or its affiliates.
-Oreo is a registered trademark of Intercontinental Great Brands LLC.
-Pimsleur is a registered trademark of Beverly Pimsleur exclusively licensed to Simon &amp; Schuster.
 QR Code is the UK registered trademark of Denso Corporation.
-Sibelius is a registered trademark of Avid Technology, Inc. or its subsidiaries.
-Wikipedia is a registered trademark of the Wikimedia Foundation Inc.
-Windows is a registered trademark of Microsoft Corp.
+QR Code is the UK registered trademark of Denso Corporation.
 Accenture is a trademark of Accenture Global Services Ltd.
 Android is a trademark of Google LLC.
 Apache is a registered trademark of The Apache Software Foundation.
