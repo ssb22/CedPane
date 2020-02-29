@@ -25,7 +25,7 @@ I now understand that most countries’ copyright laws do include a provision fo
 
 So I tried querying a large Chinese Internet search engine for each of my words, to get some measure of which words were common enough to warrant disregarding my reading notes and just saying "here's a translation that's 'out there' and worth recognising". I had to be careful to ensure the search results really showed the word in _common_ use (not just illegal copies of the source I read), and I also had to beware of having documented a rare different use-case of an otherwise common word.
 
-After subsetting and editing my database, I can now present 69% of the ‘specialist’ words I collected between 2009 and 2020 as confirmed “public domain” words you can _do what you want_ with (i.e. please _do_ add them to products to help learners—and email me if you’d like me to mention here that you’ve added it to your product). The other 31% (and my reading notes) have not been added to CedPane, but I hope it’s already useful.
+After subsetting and editing my database, I can now present 70% of the ‘specialist’ words I collected between 2009 and 2020 as confirmed “public domain” words you can _do what you want_ with (i.e. please _do_ add them to products to help learners—and email me if you’d like me to mention here that you’ve added it to your product). The other 30% (and my reading notes) have not been added to CedPane, but I hope it’s already useful.
 
 This Git repository contains a [tab-delimited text file](cedpane.txt) with the following columns:
 
@@ -54,10 +54,13 @@ Baidu is a trademark of Baidu Online Network Technology (Beijing) Co. Ltd.
 Bing is a registered trademark of Microsoft Corp.
 BitBucket is a trademark of Atlassian Pty Ltd.
 Bluetooth is a registered trademark held by the Bluetooth Special Interest Group.
+Bosch is a trademark of Robert Bosch GMBH.
 CNN is a trademark of Cable News Network Inc.
 Cognac is a trademark which is held by France.
 Colgate is a trademark of the Colgate-Palmolive Company.
 Dyson is a trademark of Dyson Technology Ltd.
+Electrolux is a trademark of Aktiebolaget Electrolux.
+Funai is a trademark of Funai Electric Co., Ltd.
 Git is a trademark of the Software Freedom Conservancy.
 GitHub is a trademark of GitHub Inc.
 Google is a trademark of Google LLC.
@@ -65,6 +68,7 @@ Google Maps is a trademark of Google LLC.
 Gucci is a trademark of Gucci America, Inc.
 Heinz is a trademark of H. J. Heinz Company.
 Huawei is a trademark of Huawei Technologies Co., Ltd registered in China and other countries.
+Indesit is a trademark of Indesit Company S.P.A.
 Java is a registered trademark of Oracle Corporation in the US and possibly other countries.
 Javascript is a trademark of Oracle Corporation in the US.
 Mac is a trademark of Apple Inc.
@@ -81,9 +85,12 @@ Raspberry Pi is a trademark of the Raspberry Pi Foundation.
 Segway is a trademark of Segway Inc.
 Sibelius is a registered trademark of Avid Technology, Inc. or its subsidiaries.
 Thermos is a trademark of Thermos LLC.
+Toshiba is a trademark of Kabushiki Kaisha Toshiba.
+Toshiba is a trademark of Tokyo Shibaura Denki Kabushiki Kaisha.
 Uber is a trademark of Uber Technologies, Inc.
 WeChat is a trademark of Tencent Holdings Limited.
 Wenlin is a trademark of Wenlin Institute, Inc. SPC.
+Whirlpool is a trademark of Whirlpool Properties, Inc..
 Wi-Fi is a trademark of the Wi-Fi Alliance.
 Wikipedia is a registered trademark of the Wikimedia Foundation Inc.
 Windows is a registered trademark of Microsoft Corp.
