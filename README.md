@@ -71,6 +71,7 @@ Huawei is a trademark of Huawei Technologies Co., Ltd registered in China and ot
 Indesit is a trademark of Indesit Company S.P.A.
 Java is a registered trademark of Oracle Corporation in the US and possibly other countries.
 Javascript is a trademark of Oracle Corporation in the US.
+LinkedIn is a registered trademark or trademark of LinkedIn Corporation and its affiliates in the United States and/or other countries.
 Mac is a trademark of Apple Inc.
 Microsoft is a registered trademark of Microsoft Corp.
 Nike is a trademark of Nike Inc.
@@ -90,7 +91,7 @@ Toshiba is a trademark of Tokyo Shibaura Denki Kabushiki Kaisha.
 Uber is a trademark of Uber Technologies, Inc.
 WeChat is a trademark of Tencent Holdings Limited.
 Wenlin is a trademark of Wenlin Institute, Inc. SPC.
-Whirlpool is a trademark of Whirlpool Properties, Inc..
+Whirlpool is a trademark of Whirlpool Properties, Inc.
 Wi-Fi is a trademark of the Wi-Fi Alliance.
 Wikipedia is a registered trademark of the Wikimedia Foundation Inc.
 Windows is a registered trademark of Microsoft Corp.
