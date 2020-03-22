@@ -124,6 +124,7 @@ Abū	阿布	阿布	Ābù	A-bou
 acacia wood	金合欢木	金合歡木	jīnhéhuānmù	gām-hahp-fūn-muhk	
 academic-type	学术型	學術型	xuéshùxíng	hohk-seuht-yìhng	
 academic achievement	学术成果	學術成果	xuéshù chéngguǒ	hohk-seuht sìhng-gwó	
+(academic) criticism (of Bible etc)	批判学	批判學	pīpànxué	pāi-pun-hohk	
 academic dress	学位服	學位服	xuéwèifú	hohk-wái-fuhk	
 academic entrepreneur	学术型企业家	學術型企業家	xuéshùxíng qǐyèjiā	hohk-seuht-yìhng kéih-yihp-gā	
 academic gown	学袍	學袍	xuépáo	hohk-pòuh	
@@ -158,7 +159,7 @@ account number (of MSN etc)	账号	賬號	zhànghào	jeung-houh
 Accra	阿克拉	阿克拉	Ākèlā	A-hāk-lāai	ˌəkɹˈæɹ
 accretion (by black hole etc)	吸积	吸積	xījī	kāp-jīk	
 accretion disc	吸积盘	吸積盤	xījīpán	kāp-jīk-pùhn	
-acephate	乙酰甲胺磷	乙酰甲胺磷	yǐxiānjiǎ'ànlín		
+acephate	乙酰甲胺磷	乙酰甲胺磷	yǐxiānjiǎ'ànlín	yuht-sīn-gaap-ngōn-lèuhn	
 Achaia	亚该亚	亞該亞	Yàgāiyà	Nga-gōi-nga	əkˈeɪʌ
 Achan	亚干	亞干	Yàgān	Nga-gōn	ˈeɪkəːn
 Achao	阿乔	阿喬	Āqiáo	A-kìuh	
@@ -333,6 +334,8 @@ affection	深厚的感情	深厚的感情	shēnhòu de gǎnqíng	sām-háuh dīk
 affection	爱意	愛意	àiyì	ngoi-yi	
 affection-inducing	引发爱心	引發愛心	yǐnfā àixīn	yáhn-faat ngoi-sām	
 affiliate programme; corporate membership system	会员制	會員制	huìyuánzhì	wúi-yùhn-jai	
+<math.> affine	仿射	仿射	fǎngshè	fóng-seh	
+<math.> affine transformation; affinity	仿射变换	仿射變換	fǎngshè biànhuàn	fóng-seh bin-wuhn	
 afflict; treat badly	苦待	苦待	kǔdài	fú-doih	
 afflicted and poor	困苦穷乏	困苦窮乏	kùnkǔ-qióngfá	kwan-fú-kùhng-faht	
 affordable	可负担	可負擔	kě fùdān	hó fuh-dāam	
@@ -493,6 +496,7 @@ Akha (language)	阿卡语	阿卡語	Ākǎyǔ	A-kā-yúh
 Akhalkalaki	阿哈尔卡拉基	阿哈爾卡拉基	Āhā'ěrkǎlājī	A-hā-yíh-kā-lāai-gēi	
 Akhaltsikhe	阿哈尔齐赫	阿哈爾齊赫	Āhā'ěrqíhè	A-hā-yíh-chàih-hāk	
 Akha (people)	阿卡族	阿卡族	Ākǎzú	A-kā-juhk	
+Akhenaten	阿肯那顿	阿肯那頓	Ākěnnàdùn	A-háng-náh-deuhn	
 Akhisar	阿克希萨尔	阿克希薩爾	Ākèxīsà'ěr	A-hāk-hēi-saat-yíh	
 Akhmedov	艾哈迈托夫	艾哈邁托夫	Àihāmàituōfū	Ngaaih-hā-maaih-tok-fū	
 Akita	秋田	秋田	Qiūtián	Chāu-tìhn	
@@ -509,7 +513,7 @@ Akram	阿克拉姆	阿克拉姆	Ākèlāmǔ	A-hāk-lāai-móuh
 Akron	阿克伦	阿克倫	Ākèlún	A-hāk-lèuhn	ˈækɹɒn
 Akron (city in Ohio)	阿克伦市	阿克倫市	Ākèlún Shì	A-hāk-lèuhn Síh	
 Aksenov	阿克肖诺夫	阿克肖諾夫	Ākèxiàonuòfū	A-hāk-chiu-nohk-fū	
-<Budd.> Akshobhya	阿閦如来	阿閦如來	Āchùrúlái		
+<Budd.> Akshobhya	阿閦如来	阿閦如來	Āchùrúlái	A-chūk-yùh-lòih	
 Aksu (in Xinjiang)	阿克苏	阿克蘇	Ākèsū	A-hāk-sōu	
 Aksu (in Xinjiang)	阿克苏市	阿克蘇市	Ākèsū Shì	A-hāk-sōu Síh	
 Akto (county, in Xinjiang)	阿克陶县	阿克陶縣	Ākètáo Xiàn	A-hāk-tòuh Yún	
@@ -1009,6 +1013,7 @@ Angara river	安加拉河	安加拉河	Ānjiālāhé	Ngōn-gā-lāai-hòh
 Angarsk	安加尔斯克	安加爾斯克	Ānjiā'ěrsīkè	Ngōn-gā-yíh-sī-hāk	
 Angela	安吉拉	安吉拉	Ānjílā	Ngōn-gāt-lāai	
 Angela	安杰拉	安傑拉	Ānjiélā	Ngōn-giht-lāai	ˈændʒələ
+Angela	安洁拉	安潔拉	Ānjiélā	Ngōn-git-lāai	
 Angela	安琪拉	安琪拉	Ānqílā	Ngōn-kèih-lāai	
 Angel (given name)	安杰尔	安傑爾	Ānjié'ěr	Ngōn-giht-yíh	
 Angel (given name)	安格尔	安格爾	Āngé'ěr	Ngōn-gaak-yíh	
@@ -1425,6 +1430,7 @@ Ard	亚德	亞德	Yàdé	Nga-dāk
 Ardern	阿德恩	阿德恩	Ādé'ēn	A-dāk-yān	
 Ardis	娅迪丝	婭迪絲	Yàdísī	A-dihk-sī	
 area; pocket	片区	片區	piànqū	pin-kēui	
+area studies	区域研究	區域研究	qūyù yánjiū	kēui-wihk yìhn-gau	
 Arecibo	阿雷西沃	阿雷西沃	Āléixīwò	A-lèuih-sāi-yūk	
 Arecibo Observatory	阿雷西沃天文台	阿雷西沃天文台	Āléixīwò Tiānwéntái	A-lèuih-sāi-yūk Tīn-màhn-tòih	
 Areg	阿雷格	阿雷格	Āléigé	A-lèuih-gaak	
@@ -1821,6 +1827,7 @@ automatic electric rice cooker	自动电饭锅	自動電飯鍋	zìdòng diànfà
 automatic transmission; automatic gearbox	自动变速器	自動變速器	zìdòng biànsùqì	jih-duhng bin-chūk-hei	
 automobile accident	交通意外	交通意外	jiāotōng yìwài	gāau-tūng yi-ngoih	
 automobile accident	汽车失事	汽車失事	qìchē shīshì	hei-chē sāt-sih	
+<math.> automorphism	自同构	自同構	zìtónggòu	jih-tùhng-kau	
 autopsy	解剖验尸	解剖驗屍	jiěpōu yànshī	gáai-fáu yihm-sī	
 Autumn Moon [over/on] Calm Lake (1930s 呂文成)	平湖秋月	平湖秋月	Píng Hú Qiūyuè	Pìhng Wùh Chāu-yuht	
 Auyán	奥因	奧因	Àoyīn	Ou-yān	
@@ -2038,6 +2045,7 @@ Bailuqiao (town)	百禄桥镇	百祿橋鎮	Bǎilùqiáozhèn	Baak-luhk-kìuh-jan
 Bailutang (town)	白露塘镇	白露塘鎮	Báilùtángzhèn	Baahk-louh-tòhng-jan	
 Bailu (town)	百禄镇	百祿鎮	Bǎilùzhèn	Baak-luhk-jan	
 Bailu Township	白鹭乡	白鷺鄉	Báilù Xiāng	Baahk-louh Hēung	
+Baily's beads	贝利珠	貝利珠	Bèilì zhū	Bui-leih jyū	
 Bailén	拜伦镇	拜倫鎮	Bàilúnzhèn	Baai-lèuhn-jan	
 Baimadu (town)	白马渡镇	白馬渡鎮	Báimǎdùzhèn	Baahk-máh-douh-jan	
 Baimahu (town)	白马湖镇	白馬湖鎮	Báimǎhúzhèn	Baahk-máh-wùh-jan	
@@ -2192,7 +2200,7 @@ Bamoth	巴末	巴末	Bāmò	Bā-muht	bˈeɪməθ
 Bamoth-baal	巴末巴力	巴末巴力	Bāmòbālì	Bā-muht-bā-lihk	bˌeɪməθbˈeɪəl
 Bamum	巴穆姆	巴穆姆	Bāmùmǔ	Bā-muhk-móuh	
 Bamun (language)	巴姆穆语	巴姆穆語	Bāmǔmùyǔ	Bā-móuh-muhk-yúh	
-Bamu Township	岜暮乡	岜暮鄉	Bāmù Xiāng		
+Bamu Township	岜暮乡	岜暮鄉	Bāmù Xiāng	Bā-mouh Hēung	
 banana-child; Western-born Chinese	香蕉娃	香蕉娃	xiāngjiāowá	hēung-jīu-wā	
 banana boat	香蕉船	香蕉船	xiāngjiāo chuán	hēung-jīu syùhn	
 Banan (district, in Chongqing)	巴南区	巴南區	Bānán Qū	Bā-nàahm Kēui	
@@ -2345,7 +2353,7 @@ Baoyou (town)	抱由镇	抱由鎮	Bàoyóuzhèn	Póuh-yàuh-jan
 Baoyuanzhan Township	宝元栈乡	寶元棧鄉	Bǎoyuánzhàn Xiāng	Bóu-yùhn-jáan Hēung	
 Baozhu (town)	宝珠镇	寶珠鎮	Bǎozhūzhèn	Bóu-jyū-jan	
 Baozidun Kirghiz Township	包孜墩柯尔克孜族乡	包孜墩柯爾克孜族鄉	Bāozīdūn Kē'ěrkèzīzú Xiāng	Bāau-jī-dān Ō-yíh-hāk-jī-juhk Hēung	
-Bapen Township	岜盆乡	岜盆鄉	Bāpén Xiāng		
+Bapen Township	岜盆乡	岜盆鄉	Bāpén Xiāng	Bā-pùhn Hēung	
 baptism	受浸	受浸	shòujìn	sauh-jam	
 Baptist	施浸者	施浸者	Shījìnzhě	Sī-jam-jé	
 Baptista	巴普蒂斯塔	巴普蒂斯塔	Bāpǔdìsītǎ	Bā-póu-dai-sī-taap	
@@ -2430,7 +2438,8 @@ Bartle	巴特尔	巴特爾	Bātè'ěr	Bā-dahk-yíh
 Bartlett	巴特利特	巴特利特	Bātèlìtè	Bā-dahk-leih-dahk	
 Bartlett	巴特立特	巴特立特	Bātèlìtè	Bā-dahk-lahp-dahk	
 Barton	巴顿	巴頓	Bādùn	Bā-deuhn	
-Baruch	巴录	巴錄	Bālù	Bā-luhk	bˈæɹək
+Baruch (Bible)	巴录	巴錄	Bālù	Bā-luhk	bˈæɹək
+Baruch (modern)	巴鲁克	巴魯克	Bālǔkè	Bā-lóuh-hāk	
 Barzillai	巴西莱	巴西萊	Bāxīlái	Bā-sāi-lòih	bˌɑzˈɪlaɪ
 Barzun	巴尔赞	巴爾贊	Bā'ěrzàn	Bā-yíh-jaan	
 <comp.> Base Class Library; BCL	基础类库	基礎類庫	Jīchǔ Lèi Kù	Gēi-chó Leuih Fu	
@@ -2451,6 +2460,7 @@ Basilius	巴西利厄斯	巴西利厄斯	Bāxīlì'èsī	Bā-sāi-leih-āak-sī
 Basil (name)	巴兹尔	巴茲爾	Bāzī'ěr	Bā-jī-yíh	
 basin mouth	盆口	盆口	pénkǒu	pùhn-háu	
 basin stand	盆座	盆座	pénzuò	pùhn-joh	
+<math.> basis function	基函数	基函數	jīhánshù	gēi-hàahm-sou	
 Basken	巴斯肯	巴斯肯	Bāsīkěn	Bā-sī-háng	
 basket-shaped	篮形	籃形	lánxíng	làahm-yìhng	
 Basov	巴索夫	巴索夫	Bāsuǒfū	Bā-sok-fū	
@@ -2805,7 +2815,7 @@ Beisong (town)	北宋镇	北宋鎮	Běisòngzhèn	Bāk-sung-jan
 Beisu (town)	北苏镇	北蘇鎮	Běisūzhèn	Bāk-sōu-jan	
 Beit	拜特	拜特	Bàitè	Baai-dahk	
 Beita District	北塔区	北塔區	Běitǎ Qū	Bāk-taap Kēui	
-Beitangtuan Township	北塘疃乡	北塘疃鄉	Běitángtuǎn Xiāng		
+Beitangtuan Township	北塘疃乡	北塘疃鄉	Běitángtuǎn Xiāng	Bāk-tòhng-téun Hēung	
 Beitanzhuang Township	北谭庄乡	北譚莊鄉	Běitánzhuāng Xiāng	Bāk-tàahm-jōng Hēung	
 Beitian (town)	北田镇	北田鎮	Běitiánzhèn	Bāk-tìhn-jan	
 Beitian Township	北田乡	北田鄉	Běitián Xiāng	Bāk-tìhn Hēung	
@@ -3164,6 +3174,7 @@ Bianyuan (town)	边院镇	邊院鎮	Biānyuànzhèn	Bīn-yún-jan
 Bianzhao (town)	边昭镇	邊昭鎮	Biānzhāozhèn	Bīn-chīu-jan	
 Biaobaisi (town)	表白寺镇	表白寺鎮	Biǎobáisìzhèn	Bíu-baahk-jih-jan	
 Biaoxi Township	标溪乡	標溪鄉	Biāoxī Xiāng	Bīu-kāi Hēung	
+bias variance tradeoff	偏差方差权衡	偏差方差權衡	piānchā fāngchā quánhéng	pīn-chā fōng-chā kyùhn-hàhng	
 bibimbap (Korean dish)	韩式拌饭	韓式拌飯	Hánshì bàn fàn	Hòhn-sīk buhn faahn	
 Bible Belt (south[east] USA region)	圣经地带	聖經地帶	Shèngjīng Dìdài	Sing-gīng Deih-daai	
 Bible (Japanese version)	圣书	聖書	Shèngshū	Sing-syū	
@@ -3602,7 +3613,7 @@ Bopp	博普	博普	Bópǔ	Bok-póu
 Bora Bora (island)	博拉博拉岛	博拉博拉島	Bólābólādǎo	Bok-lāai-bok-lāai-dóu	
 Borashan	波拉珊	波拉珊	Bōlāshān	Bō-lāai-sāan	bˈʊəɹʌʃæn
 Borashan (old translation?)	歌拉珊	歌拉珊	Gēlāshān	Gō-lāai-sāan	
-Bordeaux	波尔多	波爾多	Bō'ěrduō	Bō-yíh-dō	bˌʊədˈəʊ
+Bordeaux (region); claret (wine)	波尔多	波爾多	Bō'ěrduō	Bō-yíh-dō	
 border; fringe (in clothing etc)	领边	領邊	lǐngbiān	líhng-bīn	
 border judge (in badminton)	边裁	邊裁	biāncái	bīn-chòih	
 border wall (between countries)	边境墙	邊境牆	biānjìng qiáng	bīn-gíng chèuhng	
@@ -4040,6 +4051,7 @@ burglar alarm	防盗设备	防盜設備	fángdào shèbèi	fòhng-douh chit-beih
 Burgoyne	布戈伊内	布戈伊內	Bùgēyīnèi	Bou-gwō-yī-noih	
 Burgundy	勃艮第	勃艮第	Bógèndì	Buht-gan-daih	bˈəːɡəndi
 burgundy (colour)	酒红色	酒紅色	jiǔhóngsè	jáu-hùhng-sīk	
+Burgundy (old translation?)	勃根第	勃根第	Bógēndì	Buht-gān-daih	
 Buriak	布里亚克	布里亞克	Bùlǐyàkè	Bou-léih-nga-hāk	
 buried; below-ground	埋地	埋地	máidì	màaih-deih	
 Burkina Faso	布吉纳法索	布吉納法索	Bùjínà Fǎsuǒ	Bou-gāt-naahp Faat-sok	
@@ -4141,6 +4153,7 @@ Byrne	伯恩	伯恩	Bó'ēn	Ba-yān	bəːn
 Byron	拜伦	拜倫	Bàilún	Baai-lèuhn	
 by sight (depend upon sight)	凭着眼见	憑著眼見	píngzhe yǎnjiàn	pàhng-jeuhk ngáahn-gin	
 Byte Order Mark; BOM	字节顺序标记	字節順序標記	zìjié shùnxù biāojì	jih-jit seuhn-jeuih bīu-gei	
+(by the) window	靠窗	靠窗	kàochuāng	kaau-chēung	
 <comp.> by value	按值	按值	ànzhí	on-jihk	
 Byzantine	拜占廷	拜占廷	Bàizhāntíng	Baai-jim-tìhng	
 Bász	巴斯	巴斯	Bāsī	Bā-sī	
@@ -4235,6 +4248,7 @@ Calavi	卡拉维	卡拉維	Kǎlāwéi	Kā-lāai-wàih
 calcium hydrogen phosphate	磷酸氢钙	磷酸氫鈣	línsuānqīnggài	lèuhn-syūn-hīng-koi	
 Calcol	迦科	迦科	Jiākē	Gā-fō	kˈælkɒl
 calculus (dental)	牙结石	牙結石	yájiéshí	ngàh-git-sehk	
+Calcutta (old name of Kolkata)	加尔各达	加爾各達	Jiā'ěrgèdá	Gā-yíh-gok-daaht	
 Caleb (Bible)	迦勒	迦勒	Jiālè	Gā-lahk	kˈeɪlɛb
 Caleb (modern)	凯莱布	凱萊布	Kǎiláibù	Hói-lòih-bou	
 Caleb (modern)	嘉勒	嘉勒	Jiālè	Gā-lahk	
@@ -4502,6 +4516,7 @@ carbon black (substance)	炭黑	炭黑	tànhēi	taan-hāk
 carbon fibre	碳纤维	碳纖維	tànxiānwéi	taan-chīm-wàih	
 Carbonneau	卡尔博诺	卡爾博諾	Kǎ'ěrbónuò	Kā-yíh-bok-nohk	
 Carchemish	迦基米施	迦基米施	Jiājīmǐshī	Gā-gēi-máih-sī	kˈɑkəmɪʃ
+card game	扑克牌游戏	撲克牌游戲	pūkèpái yóuxì	pok-hāk-pàaih yàuh-hei	
 cardiac surgery	心脏外科	心臟外科	xīnzàng wàikē	sām-johng ngoih-fō	
 Cardiff	加的夫	加的夫	Jiādìfū	Gā-dīk-fū	
 Cardiff	卡迪夫	卡迪夫	Kǎdífū	Kā-dihk-fū	
@@ -4722,7 +4737,7 @@ Cedar Point	杉树角	杉樹角	Shānshùjiǎo	Chaam-syuh-gok
 cedarwood	雪松木	雪松木	xuěsōngmù	syut-chùhng-muhk	sˈidəwʊd
 cedarwood panel	雪松木板	雪松木板	xuěsōngmùbǎn	syut-chùhng-muhk-báan	
 Cedaya Township	策大雅乡	策大雅鄉	Cèdàyǎ Xiāng	Chaak-daaih-ngáh Hēung	
-CedPane: this is version 2020-03-10	汉英词典公有领域专名等副刊	漢英詞典公有領域專名等副刊	Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān	Hon-yīng Chìh-dín Gūng-yáuh Líhng-wihk Jyūn-mìhng Dáng Fu-hōn	
+CedPane: this is version 2020-03-22	汉英词典公有领域专名等副刊	漢英詞典公有領域專名等副刊	Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān	Hon-yīng Chìh-dín Gūng-yáuh Líhng-wihk Jyūn-mìhng Dáng Fu-hōn	
 Ceheng (county, in Guizhou)	册亨县	冊亨縣	Cèhēng Xiàn	Chaak-hāng Yún	
 Cejing Township	册井乡	冊井鄉	Cèjǐng Xiāng	Chaak-jéng Hēung	
 Celebes (old name for Sulawesi, island)	西里伯斯岛	西里伯斯島	Xīlǐbósīdǎo	Sāi-léih-baak-sī-dóu	
@@ -4730,6 +4745,7 @@ celebrate holidays	庆祝节日	慶祝節日	qìngzhù jiérì	hing-jūk jit-yah
 celebrity; public figure	公众人物	公眾人物	gōngzhòng rénwù	gūng-jung yàhn-maht	
 celestial phenomena	天空奇观	天空奇觀	tiānkōng qíguān	tīn-hūng kèih-gūn	
 celibate marriage	无性婚姻	無性婚姻	wúxìng hūnyīn	mòuh-sing fān-yān	
+Celine	席琳	席琳	Xílín	Jihk-làhm	
 Cellarius	塞拉里厄斯	塞拉里厄斯	Sàilālǐ'èsī	Choi-lāai-léuih-āak-sī	
 cell biologist	细胞生物学家	細胞生物學家	xìbāo shēngwùxuéjiā	sai-bāau sāang-maht-hohk-gā	
 <biol.> cell differentiation	细胞分化	細胞分化	xìbāo fēnhuà	sai-bāau fān-fa	
@@ -4758,6 +4774,7 @@ Central Narcotics Bureau (Singapore)	中央肃毒局	中央肅毒局	Zhōngyāng
 Central Narcotics Bureau (Singapore)	肃毒局	肅毒局	Sùdújú	Sūk-duhk-guhk	
 central position	中心地位	中心地位	zhōngxīn dìwèi	jūng-sām deih-waih	
 Central Registry for Rehabilitation; CRR (HK)	康复服务中央档案室	康復服務中央檔案室	Kāngfù Fúwù Zhōngyāng Dàng'ànshì	Hōng-fuhk Fuhk-mouh Jūng-yēung Dóng-ngon-sāt	
+Centre for Health Protection; CHP (HK)	衞生防护中心	衞生防護中心	Wèishēng Fánghù Zhōngxīn	Waih-sāang Fòhng-wuh Jūng-sām	
 centre of higher learning	高等教育机构	高等教育機構	gāoděng jiàoyù jīgòu	gōu-dáng gaau-yuhk gēi-kau	
 centre of mass	质量中心	質量中心	zhìliàng zhōngxīn	jāt-leuhng jūng-sām	
 centre (of research or etc)	流动站	流動站	liúdòngzhàn	làuh-duhng-jaahm	
@@ -5064,6 +5081,7 @@ chastisement	怒怼	怒懟	nùduì	nouh-deuih
 chat; talk informally etc	聊一聊	聊一聊	liáo yi liáo	lìuh yāt lìuh	
 chat; talk informally etc	谈一谈	談一談	tán yi tán	tàahm yāt tàahm	
 Chater Garden (HK)	遮打花园	遮打花園	Zhēdǎ Huāyuán	Jē-dá Fā-yùhn	
+chat group (on Internet etc)	聊天群	聊天群	liáotiānqún	lìuh-tīn-kwàhn	
 Chatham	查塔姆	查塔姆	Chátǎmǔ	Chàh-taap-móuh	tʃˈætəm
 Chatian (town)	茶田镇	茶田鎮	Chátiánzhèn	Chàh-tìhn-jan	
 Chating (town)	茶亭镇	茶亭鎮	Chátíngzhèn	Chàh-tìhng-jan	
@@ -5083,6 +5101,8 @@ Chayuan Township	茶园乡	茶園鄉	Cháyuán Xiāng	Chàh-yùhn Hēung
 Chayuan Township	茶院乡	茶院鄉	Cháyuàn Xiāng	Chàh-yún Hēung	
 Chayu County	察隅县	察隅縣	Cháyú Xiàn	Chaat-yùh Yún	
 cheapest (Cantonese translation?)	最平的	最平的	zuì píng de	jeui pìhng dīk	tʃˈipɪst
+cheat code (for video game)	作弊代码	作弊代碼	zuòbì dàimǎ	jok-baih doih-máh	
+cheat code (for video game)	作弊码	作弊碼	zuòbìmǎ	jok-baih-máh	
 cheat consumers; exploit the gullibility of consumers	欺骗消费者	欺騙消費者	qīpiàn xiāofèizhě	hēi-pin sīu-fai-jé	
 Chebar (river)	迦巴鲁河	迦巴魯河	Jiābālǔ hé	Gā-bā-lóuh hòh	khˈibæɹ
 Cheboksary	切博克萨雷	切博克薩雷	Qièbókèsàléi	Chit-bok-hāk-saat-lèuih	
@@ -5251,7 +5271,7 @@ Chenshi (town)	辰时镇	辰時鎮	Chénshízhèn	Sàhn-sìh-jan
 Chenshi (town)	陈师镇	陳師鎮	Chénshīzhèn	Chàhn-sī-jan	
 Chentang (town)	陈塘镇	陳塘鎮	Chéntángzhèn	Chàhn-tòhng-jan	
 Chentao Township	陈涛乡	陳濤鄉	Chéntāo Xiāng	Chàhn-tòuh Hēung	
-Chentuan (town)	陈疃镇	陳疃鎮	Chéntuǎnzhèn		
+Chentuan (town)	陈疃镇	陳疃鎮	Chéntuǎnzhèn	Chàhn-téun-jan	
 Chentun (town)	陈屯镇	陳屯鎮	Chéntúnzhèn	Chàhn-tyùhn-jan	
 Chenwu Township	陈吴乡	陳吳鄉	Chénwú Xiāng	Chàhn-ǹgh Hēung	
 Chenxia Township	陈霞乡	陳霞鄉	Chénxiá Xiāng	Chàhn-hàh Hēung	
@@ -5391,6 +5411,7 @@ China-Western (contrasts etc)	中西方	中西方	Zhōng-Xīfāng	Jūng-sāi-fō
 China Advertising Association	中国广告协会	中國廣告協會	Zhōngguó Guǎnggào Xiéhuì	Jūng-gwok Gwóng-gou Hip-wúi	
 China Airlines	中华航空	中華航空	Zhōnghuá Hángkōng	Jūng-wàh Hòhng-hūng	
 China Computer Federation	中国计算机学会	中國計算機學會	Zhōngguó Jìsuànjī Xuéhuì	Jūng-gwok Gai-syun-gēi Hohk-wúi	
+China Daily	中国日报	中國日報	Zhōngguó Rìbào	Jūng-gwok Yaht-bou	
 China Disabled Persons' Federation	中国残疾人联合会	中國殘疾人聯合會	Zhōngguó Cánjírén Liánhéhuì	Jūng-gwok Chàahn-jaht-yàhn Lyùhn-hahp-wúi	
 China Ethnic News	中国民族报	中國民族報	Zhōngguó Mínzú Bào	Jūng-gwok Màhn-juhk Bou	
 China has	中国有	中國有	Zhōngguó yǒu	Jūng-gwok yáuh	
@@ -5607,7 +5628,7 @@ chrysoprase (gemstone)	绿玉髓	綠玉髓	lǜyùsuǐ	luhk-yuhk-séuih	kɹˈɪs�
 Chrysostom	克里索斯托	克里索斯托	Kèlǐsuǒsītuō	Hāk-léih-sok-sī-tok	
 Chu'an (town)	出岸镇	出岸鎮	Chū'ànzhèn	Chēut-ngohn-jan	
 Chuabo (language)	楚瓦博语	楚瓦博語	Chuwǎbóyǔ	Chó-ngáh-bok-yúh	
-Chuaigutuan (town)	揣骨疃镇	揣骨疃鎮	Chuǎigǔtuǎnzhèn		
+Chuaigutuan (town)	揣骨疃镇	揣骨疃鎮	Chuǎigǔtuǎnzhèn	Chéui-gwāt-téun-jan	
 Chuanbu (town)	船步镇	船步鎮	Chuánbùzhèn	Syùhn-bouh-jan	
 Chuancheng (town)	穿城镇	穿城鎮	Chuānchéngzhèn	Chyūn-sìhng-jan	
 Chuandao (town)	川岛镇	川島鎮	Chuāndǎozhèn	Chyūn-dóu-jan	
@@ -5821,6 +5842,7 @@ classic popular music	经典流行音乐	經典流行音樂	jīngdiǎn liúxíng
 classics department	古典学系	古典學系	gǔdiǎnxuéxì	gú-dín-hohk-haih	
 Classics department (of a university)	古典系	古典系	Gǔdiǎnxì	Gú-dín-haih	
 classics (subject at university etc)	古典学	古典學	gǔdiǎnxué	gú-dín-hohk	
+<comp.> classifier (in "machine learning" etc)	分类器	分類器	fēnlèiqì	fān-leuih-hei	
 classify as	归为	歸為	guī wéi	gwāi wàih	
 <coll.> classmate	童鞋	童鞋	tóngxié	tùhng-hàaih	
 Claude	克劳德	克勞德	Kèláodé	Hāk-lòuh-dāk	
@@ -5883,8 +5905,10 @@ climate emergency	气候紧急状态	氣候緊急狀態	qìhòu jǐnjí zhuàngt
 climb to the top	攀上	攀上	pānshang	pāan-séuhng	
 Cline	克赖恩	克賴恩	Kèlài'ēn	Hāk-laaih-yān	
 cling film	自粘保鲜膜	自粘保鮮膜	zìzhān bǎoxiānmó	jih-nīm bóu-sīn-mohk	
+clinical approval	临床认证	臨床認證	línchuáng rènzhèng	làhm-chòhng yihng-jing	
 clinical medicine	临床医学	臨床醫學	línchuáng yīxué	làhm-chòhng yī-hohk	
 clinical strategies	临床策略	臨床策略	línchuáng cèlüè	làhm-chòhng chaak-leuhk	
+clinical trials	临床试验	臨床試驗	línchuáng shìyàn	làhm-chòhng si-yihm	
 Clint	克林特	克林特	Kèlíntè	Hāk-làhm-dahk	
 Clinton	克林顿	克林頓	Kèlíndùn	Hāk-làhm-deuhn	
 clip (on belt)	扣带	扣帶	kòudài	kau-daai	
@@ -6251,6 +6275,8 @@ consumption rate (of fuel etc)	消耗率	消耗率	xiāohàolǜ	sīu-hou-leuht
 contact lenses	接触镜	接觸鏡	jiēchùjìng	jip-jūk-geng	
 contact management	接触管理	接觸管理	jiēchù guǎnlǐ	jip-jūk gún-léih	
 contactor	接触器	接觸器	jiēchùqì	jip-jūk-hei	
+contact (person, e.g. been nearby)	接触者	接觸者	jiēchùzhě	jip-jūk-jé	
+contact tracing (in disease management)	接触者追查	接觸者追查	jiēchùzhě zhuīchá	jip-jūk-jé jēui-chàh	
 contemporary; contemporaries	同时代的人	同時代的人	tóng shídài de rén	tùhng sìh-doih dīk yàhn	
 contemporary art; modern art	当代艺术	當代藝術	dāngdài yìshù	dōng-doih ngaih-seuht	
 Contemporary Bible	当代圣经	當代聖經	Dāngdài Shèngjīng	Dōng-doih Sing-gīng	
@@ -7091,6 +7117,7 @@ data enrichment (corporate amalgamation of customer data)	数据丰富化	數據
 datang gu (type of drum)	大堂鼓	大堂鼓	dàtánggǔ	daaih-tòhng-gú	
 Datan Township	大坦乡	大坦鄉	Dàtǎn Xiāng	Daaih-táan Hēung	
 data science	数据科学	數據科學	shùjù kēxué	sou-geui fō-hohk	
+data scientist	数据科学家	數據科學家	shùjù kēxuéjiā	sou-geui fō-hohk-gā	
 data service (for mobile phone etc)	数据服务	數據服務	shùjù fúwù	sou-geui fuhk-mouh	
 date cake	椰枣饼	椰棗餅	yēzǎobǐng	yèh-jóu-béng	
 date line	日期变更线	日期變更線	rìqī biàngēngxiàn	yaht-kèih bin-gang-sin	
@@ -7545,7 +7572,7 @@ Dezhou (in Shandong)	德州市	德州市	Dézhōu Shì	Dāk-jāu Síh
 Dhaka	达卡	達卡	Dákǎ	Daaht-kā	
 Dhiban	济班	濟班	Jìbān	Jai-bāan	
 Di-liutun Township	第六屯乡	第六屯鄉	Dì-liùtún Xiāng	Daih-luhk-tyùhn Hēung	
-Di-situan (town)	第四疃镇	第四疃鎮	Dì-sìtuǎnzhèn		
+Di-situan (town)	第四疃镇	第四疃鎮	Dì-sìtuǎnzhèn	Daih-sei-téun-jan	
 Di-yiguan (town)	第一关镇	第一關鎮	Dì-yīguānzhèn	Daih-yāt-gwāan-jan	
 dial-up Internet (1990s etc)	拨号上网	撥號上網	bōhào shàngwǎng	buht-houh séuhng-móhng	
 dial-up speeds (slow Internet)	拨号上网的速度	撥號上網的速度	bōhào shàngwǎng de sùdù	buht-houh séuhng-móhng dīk chūk-douh	
@@ -7576,7 +7603,7 @@ Dianshui Township	靛水乡	靛水鄉	Diànshuǐ Xiāng	Dihn-séui Hēung
 Diantou (town)	点头镇	點頭鎮	Diǎntóuzhèn	Dím-tàuh-jan	
 Dianwan (town)	店湾镇	店灣鎮	Diànwānzhèn	Dim-wāan-jan	
 Dianxia (town)	店下镇	店下鎮	Diànxiàzhèn	Dim-hah-jan	
-Dianya (town)	店垭镇	店埡鎮	Diànyāzhèn		
+Dianya (town)	店垭镇	店埡鎮	Diànyāzhèn	Dim-a-jan	
 Dianzhuang (town)	佃庄镇	佃莊鎮	Diànzhuāngzhèn	Dihn-jōng-jan	
 Diao'e (town)	雕鹗镇	雕鶚鎮	Diāo'èzhèn	Dīu-ngohk-jan	
 Diaobingshan (in Liaoning)	调兵山	調兵山	Diàobīngshān	Diuh-bīng-sāan	
@@ -7723,6 +7750,7 @@ dinnerware set; dinner set	餐套	餐套	cāntào	chāan-tou
 Diocletian	戴克里先	戴克里先	Dàikèlǐxiān	Daai-hāk-léih-sīn	
 Diodorus	狄奥多罗斯	狄奧多羅斯	Dí'àoduōluósī	Dihk-ou-dō-lòh-sī	
 Diogenes	第欧根尼	第歐根尼	Dì'ōugēnní	Daih-ngāu-gān-nèih	daɪˈʊədʒəniz
+Dion	迪翁	迪翁	Díwēng	Dihk-yūng	
 Dionysius	丢尼修	丟尼修	Diūníxiū	Dīu-nèih-sāu	dˌaɪʌnˈɪsiəs
 Dionysus	狄俄尼索斯	狄俄尼索斯	Dí'énísuǒsī	Dihk-ngòh-nèih-sok-sī	
 Dionysus	狄奥尼索斯	狄奧尼索斯	Dí'àonísuǒsī	Dihk-ou-nèih-sok-sī	
@@ -7843,6 +7871,7 @@ doctoral degree; PhD	博士点	博士點	bóshìdiǎn	bok-sih-dím
 doctor of psychology	心理学博士	心理學博士	xīnlǐxué bóshì	sām-léih-hohk bok-sih	
 Doctrine and Covenants (Mormon book)	教义和圣约	教義和聖約	Jiàoyì Hé Shèngyuē	Gaau-yih Wòh Sing-yeuk	
 document	文档	文檔	wéndàng	màhn-dong	
+documentary hypothesis	底本学说	底本學說	dǐběn xuéshuō	dái-bún hohk-syut	
 documentary theory	文献理论	文獻理論	wénxiàn lǐlùn	màhn-hin léih-leuhn	
 documentation	文件记录	文件記錄	wénjiàn jìlù	màhn-gín gei-luhk	
 <comp.> document file format	文档格式	文檔格式	wéndàng géshì	màhn-dong gaak-sīk	
@@ -8287,6 +8316,7 @@ double room	双人间	雙人間	shuāngrénjiān	sēung-yàhn-gāan
 double standard	双标	雙標	shuāngbiāo	sēung-bīu	
 double standard	双重标准	雙重標準	shuāngchóng biāozhǔn	sēung-chùhng bīu-jéun	
 double (the amount etc)	两倍	兩倍	liǎng bèi	léuhng púih	
+<netspeak> doubt you can (but no evidence you can't)	疑车无据	疑車無據	yíchē-wújù	yìh-chē-mòuh-geui	
 Douchang (town)	都昌镇	都昌鎮	Dōuchāngzhèn	Dōu-chēung-jan	
 Doucheng (town)	都城镇	都城鎮	Dōuchéngzhèn	Dōu-sìhng-jan	
 douche syringe	冲洗器	沖洗器	chōngxǐqì	chūng-sái-hei	
@@ -8628,6 +8658,7 @@ Eagle Nebula (M16, NGC 6611)	鹰状星云	鷹狀星云	Yīng zhuàng xīngyún	Y
 eagle owl	雕鸮	雕鴞	diāoxiāo	dīu-hīu	
 Eagleton	伊格尔顿	伊格爾頓	Yīgé'ěrdùn	Yī-gaak-yíh-deuhn	
 Eamon	埃蒙	埃蒙	Āiméng	Āai-mùhng	
+ear candle (disproven treatment)	耳烛	耳燭	ěrzhú	yíh-jūk	
 Earlene	爱莲	愛蓮	Àilián	Ngoi-lìhn	
 Earl (name)	厄尔	厄爾	È'ěr	Āak-yíh	
 early-bird ticket	早鸟票	早鳥票	zǎo niǎo piào	jóu níuh piu	
@@ -9149,7 +9180,7 @@ end of October	十月底	十月底	Shíyuèdǐ	Sahp-yuht-dái
 end of September	九月底	九月底	Jiǔyuèdǐ	Gáu-yuht-dái	
 end of this month	本月底	本月底	běnyuèdǐ	bún-yuht-dái	
 endometriosis	子宫内膜异位	子宮內膜異位	zǐgōng-nèimó-yìwèi	jí-gūng-noih-mohk-yih-wái	
-endorphins	内啡肽	內啡肽	nèifēitài		
+endorphins	内啡肽	內啡肽	nèifēitài	noih-fē-taai	
 endosymbiotic theory	内共生理论	內共生理論	nèi gòngshēng lǐlùn	noih guhng-sāang léih-leuhn	
 endure; survive (a death march etc)	挺过来	挺過來	tǐng guolai	tíhng gwo-lòih	
 endure to the end	忍耐到底	忍耐到底	rěnnài dàodǐ	yán-noih dou-dái	
@@ -9616,6 +9647,7 @@ extend a helping hand	伸出援手	伸出援手	shēnchū yuánshǒu	sān-chēut
 extensive (description etc)	巨细无遗	巨細無遺	jùxìwúyí	geuih-sai-mòuh-wàih	ˌɪkstˈɛnsɪv
 extensive discussion (between different parties etc)	广泛的讨论	廣泛的討論	guǎngfàn de tǎolùn	gwóng-faan dīk tóu-leuhn	
 exteriors team (in construction industry)	外墙组	外牆組	wàiqiángzǔ	ngoih-chèuhng-jóu	
+external examiner	外审	外審	wàishěn	ngoih-sám	
 external walls and windows	外墙和窗户	外牆和窗戶	wàiqiáng hé chuānghu	ngoih-chèuhng wòh chēung-wuh	
 extinguish by crushing	打碎灭绝	打碎滅絕	dǎsuì-mièjué	dá-seui-miht-jyuht	
 extradition treaty	引渡条约	引渡條約	yǐndù tiáoyuē	yáhn-douh tìuh-yeuk	
@@ -10342,6 +10374,7 @@ fiscal reform	财政改革	財政改革	cáizhèng gǎigé	chòih-jing gói-gaak
 Fischer	菲希尔	菲希爾	Fēixī'ěr	Fēi-hēi-yíh	fˈɪʃɚ
 Fischer	菲舍尔	菲舍爾	Fēishè'ěr	Fēi-sé-yíh	
 Fischer (older translation)	费雪	費雪	Fèixuě	Fai-syut	
+Fischhoff	菲施霍夫	菲施霍夫	Fēishīhuòfū	Fēi-sī-fok-fū	
 fish-shaped	鱼状	魚狀	yúzhuàng	yùh-johng	
 fish and chips	炸鱼薯条	炸魚薯條	zháyú shǔtiáo	ja-yùh syùh-tìuh	
 Fisher	费希尔	費希爾	Fèixī'ěr	Fai-hēi-yíh	fˈɪʃɚ
@@ -10408,6 +10441,7 @@ flight number	航班号	航班號	hángbān hào	hòhng-bāan houh
 flight plan	飞行计划	飛行計劃	fēixíng jìhuà	fēi-hàhng gai-waahk	
 flight segment	航段	航段	hángduàn	hòhng-dyuhn	
 flight simulator	飞行模拟器	飛行模擬器	fēixíng mónǐqì	fēi-hàhng mòuh-yíh-hei	
+flight skill (of bird etc)	飞行本领	飛行本領	fēixíng běnlǐng	fēi-hàhng bún-líhng	
 Flinders	弗林德斯	弗林德斯	Fúlíndésī	Fāt-làhm-dāk-sī	
 flint knife	火石刀	火石刀	huǒshídāo	fó-sehk-dōu	
 float around	漂来漂去	漂來漂去	piāolái-piāoqù	pīu-lòih-pīu-heui	
@@ -10551,6 +10585,7 @@ formal training	正式训练	正式訓練	zhèngshì xùnliàn	jing-sīk fan-lih
 form a partnership (variant)	合夥	合夥	héhuǒ	hahp-fó	
 format; (page) layout	编排方式	編排方式	biānpái fāngshì	pīn-pàaih fōng-sīk	
 format; (page) layout	编排设计	編排設計	biānpái shèjì	pīn-pàaih chit-gai	
+form criticism	形式批判学	形式批判學	xíngshì pīpànxué	yìhng-sīk pāi-pun-hohk	
 for me (do sthg etc; lit. in-place-of me)	替我	替我	tì wǒ	tai ngóh	
 former president	前总统	前總統	qián zǒngtǒng	chìhn júng-túng	
 former Soviet Union	前苏联	前蘇聯	Qián Sūlián	Chìhn Sōu-lyùhn	
@@ -10648,7 +10683,7 @@ Franzén	弗兰森	弗蘭森	Fúlánsēn	Fāt-làahn-sām
 François	弗朗索瓦	弗朗索瓦	Fúlǎngsuǒwǎ	Fāt-lóhng-sok-ngáh	
 François	法兰西斯	法蘭西斯	Fǎlánxīsī	Faat-làahn-sāi-sī	
 Fraser	弗雷泽	弗雷澤	Fúléizé	Fāt-lèuih-jaahk	
-Fraser (written language)	傈僳文	傈僳文	Lìsùwén		
+Fraser (written language)	傈僳文	傈僳文	Lìsùwén	Leuht-sūk-màhn	
 fraternity (student club in America etc)	学生联谊	學生聯誼	xuésheng liányì	hohk-sāang lyùhn-yìh	
 Fred	弗烈德	弗烈德	Fúlièdé	Fāt-liht-dāk	
 Freda	弗蕾达	弗蕾達	Fúlěidá	Fāt-lèuih-daaht	
@@ -11086,8 +11121,10 @@ Gamaliel (modern)	加梅利尔	加梅利爾	Jiāméilì'ěr	Gā-mùih-leih-yíh
 Gamble (surname)	甘布尔	甘布爾	Gānbù'ěr	Gām-bou-yíh	
 gambling addiction	赌瘾	賭癮	dǔyǐn	dóu-yáhn	
 Gambos	甘博斯	甘博斯	Gānbósī	Gām-bok-sī	
+game over	游戏结束	游戲結束	yóuxì jiéshù	yàuh-hei git-chūk	
 games; athletic contests (first-century etc)	竞技会	競技會	jìngjìhuì	gihng-geih-wúi	
 gaming disorder	游戏障碍	游戲障礙	yóuxì zhàng'ài	yàuh-hei jeung-ngoih	
+(gaming) resurrect with full hit-points	满血复活	滿血復活	mǎn xuè fùhuó	múhn hyut fuhk-wuht	
 Gamla	迦姆拉	迦姆拉	Jiāmǔlā	Gā-móuh-lāai	
 Gamla (alternate translation)	加马拉	加馬拉	Jiāmǎlā	Gā-máh-lāai	
 gamma globulin	丙种球蛋白	丙種球蛋白	bǐng zhǒng qiúdànbái	bíng júng kàuh-dáan-baahk	
@@ -11111,7 +11148,7 @@ Ganggu Township	缸顾乡	缸顧鄉	Gānggù Xiāng	Gōng-gu Hēung
 Gangkou District	港口区	港口區	Gǎngkǒu Qū	Góng-háu Kēui	
 Gangkoujie (town)	港口街镇	港口街鎮	Gǎngkǒujiēzhèn	Góng-háu-gāai-jan	
 Gangkou (town)	港口镇	港口鎮	Gǎngkǒuzhèn	Góng-háu-jan	
-Gangkou (town)	筻口镇	筻口鎮	Gàngkǒuzhèn		
+Gangkou (town)	筻口镇	筻口鎮	Gàngkǒuzhèn	Gaang-háu-jan	
 Gangkou Township	港口乡	港口鄉	Gǎngkǒu Xiāng	Góng-háu Hēung	
 gang member	帮派分子	幫派分子	bāngpài fēnzǐ	bōng-paai fahn-jí	
 Gangnan District	港南区	港南區	Gǎngnán Qū	Góng-nàahm Kēui	
@@ -11146,6 +11183,7 @@ Ganpu (town)	澉浦镇	澉浦鎮	Gǎnpǔzhèn	Gám-pòuh-jan
 Ganquan County	甘泉县	甘泉縣	Gānquán Xiàn	Gām-chyùhn Yún	
 Ganquan (town)	甘泉镇	甘泉鎮	Gānquánzhèn	Gām-chyùhn-jan	
 Gan River (Inner Mongolia)	甘河	甘河	Gān Hé	Gām Hòh	
+GaNS (fake chemistry, possibly poisonous)	甘斯	甘斯	Gānsī	Gām-sī	
 Gansfort	甘斯福特	甘斯福特	Gānsīfútè	Gām-sī-fūk-dahk	
 Ganshui (town)	赶水镇	趕水鎮	Gǎnshuǐzhèn	Gón-séui-jan	
 Gansu province	甘肃省	甘肅省	Gānsùshěng	Gām-sūk-sáang	
@@ -11293,7 +11331,7 @@ Gaotian Township	高田乡	高田鄉	Gāotián Xiāng	Gōu-tìhn Hēung
 Gaotieling (town)	高铁岭镇	高鐵嶺鎮	Gāotiělǐngzhèn	Gōu-tit-léhng-jan	
 Gaotingsi (town)	高亭司镇	高亭司鎮	Gāotíngsīzhèn	Gōu-tìhng-sī-jan	
 Gaoting (town)	高亭镇	高亭鎮	Gāotíngzhèn	Gōu-tìhng-jan	
-Gaotuan (town)	高疃镇	高疃鎮	Gāotuǎnzhèn		
+Gaotuan (town)	高疃镇	高疃鎮	Gāotuǎnzhèn	Gōu-téun-jan	
 Gaotun (town)	高屯镇	高屯鎮	Gāotúnzhèn	Gōu-tyùhn-jan	
 Gaotuo (town)	高坨镇	高坨鎮	Gāotuózhèn	Gōu-tòh-jan	
 Gaotu (town)	高土镇	高土鎮	Gāotǔzhèn	Gōu-tóu-jan	
@@ -11345,7 +11383,9 @@ garden of nut trees	核桃园	核桃園	hétaoyuán	haht-tòuh-yùhn
 garden paving	花园铺路	花園鋪路	huāyuán pūlù	fā-yùhn pōu-louh	
 Gardiner	加德纳	加德納	Jiādénà	Gā-dāk-naahp	
 Gareb	迦立	迦立	Jiālì	Gā-lahp	ɡˈeɪɹəb
+Gareth; Grace	格瑞斯	格瑞斯	Géruìsī	Gaak-seuih-sī	
 Garfinkel	加芬克尔	加芬克爾	Jiāfēnkè'ěr	Gā-fān-hāk-yíh	
+Garg	加尔各	加爾各	Jiā'ěrgè	Gā-yíh-gok	
 Gargallo	加加略	加加略	Jiājiālüè	Gā-gā-leuhk	
 Garibaldi	加里波第	加里波第	Jiālǐbōdì	Gā-léih-bō-daih	
 garland	编花	編花	biānhuā	pīn-fā	
@@ -11396,6 +11436,8 @@ Gatwick Airport	盖特威克机场	蓋特威克機場	Gàitèwēikè jīchǎng	G
 Gaudí	高迪	高迪	Gāodí	Gōu-dihk	
 Gaugamela	高加米拉	高加米拉	Gāojiāmǐlā	Gōu-gā-máih-lāai	
 Gauguin	高庚	高庚	Gāogēng	Gōu-gāng	
+Gauss	高斯	高斯	Gāosī	Gōu-sī	
+<math.> Gaussian function	高斯函数	高斯函數	Gāosī hánshù	Gōu-sī hàahm-sou	
 Gavette	加韦特	加韋特	Jiāwéitè	Gā-wáih-dahk	
 Gavin	加文	加文	Jiāwén	Gā-màhn	
 Gavin	盖文	蓋文	Gàiwén	Goi-màhn	
@@ -11455,6 +11497,7 @@ Gene (name)	吉恩	吉恩	Jí'ēn	Gāt-yān
 Gener	杰纳	傑納	Jiénà	Giht-naahp	
 General Counsel (type of solicitor)	法律总顾问	法律總顧問	fǎlǜ zǒng gùwèn	faat-leuht júng gu-mahn	
 generalisation (process)	概括化	概括化	gàikuòhuà	koi-kut-fa	
+generalised method of moments	广义矩估计	廣義矩估計	guǎngyì jǔgūjì	gwóng-yih géui-gú-gai	
 generally	普遍来说	普遍來說	pǔbiàn lái shuō	póu-pin lòih syut	
 generally known as (group classification)	统称为	統稱為	tǒngchēng wéi	túng-chīng wàih	
 general practitioner; GP	全科医	全科醫	quánkēyī	chyùhn-fō-yī	
@@ -11850,6 +11893,7 @@ Goldman	戈德曼	戈德曼	Gēdémàn	Gwō-dāk-maahn
 gold plates	金片	金片	jīnpiàn	gām-pin	
 gold ring	金环	金環	jīnhuán	gām-wàahn	
 Goldsmith	戈德史密斯	戈德史密斯	Gēdéshǐmìsī	Gwō-dāk-sí-maht-sī	
+Goldsmiths	金史密斯	金史密斯	Jīnshǐmìsī	Gām-sí-maht-sī	
 gold socket (lit. seat)	金座	金座	jīnzuò	gām-joh	
 gold standard (of medical care etc)	黄金准则	黃金准則	huángjīn zhǔnzé	wòhng-gām jéun-jāk	
 Goldstein	戈尔茨坦	戈爾茨坦	Gē'ěrcítǎn	Gwō-yíh-chìh-táan	
@@ -11994,6 +12038,7 @@ gossip	流言蜚语	流言蜚語	liúyánfēiyǔ	làuh-yìhn-fēi-yúh
 Gosson	戈森	戈森	Gēsēn	Gwō-sām	
 go straight	直走	直走	zhízǒu	jihk-jáu	
 go straight over one's head (lit. not pass through brain)	不过脑子	不過腦子	bù guò nǎozǐ	bāt gwo nóuh-jí	
+Goswami	戈斯瓦米	戈斯瓦米	Gēsīwǎmǐ	Gwō-sī-ngáh-máih	
 "go the extra mile"	多走一里路	多走一里路	duō zǒu yī lǐ lù	dō jáu yāt léih louh	
 Gothenburg	哥德堡	哥德堡	Gēdébǎo	Gō-dāk-bóu	
 <archi.> Gothic	哥特式	哥特式	Gētèshì	Gō-dahk-sīk	
@@ -12755,7 +12800,7 @@ Guyuan (in Ningxia)	固原	固原	Gùyuán	Gu-yùhn
 Guyuan (in Ningxia)	固原市	固原市	Gùyuán Shì	Gu-yùhn Síh	
 Guyuan (town)	古源镇	古源鎮	Gǔyuánzhèn	Gú-yùhn-jan	
 Guyun (town)	古云镇	古云鎮	Gǔyúnzhèn	Gú-wàhn-jan	
-Guzhai Mulam Township	古砦仫佬族乡	古砦仫佬族鄉	Gǔzhài Mùlǎozú Xiāng		
+Guzhai Mulam Township	古砦仫佬族乡	古砦仫佬族鄉	Gǔzhài Mùlǎozú Xiāng	Gú-jaaih Muhk-lóu-juhk Hēung	
 Guzhai (town)	古寨镇	古寨鎮	Gǔzhàizhèn	Gú-jaaih-jan	
 Guzhai Township	古寨乡	古寨鄉	Gǔzhài Xiāng	Gú-jaaih Hēung	
 Guzhai Yao Township	古寨瑶族乡	古寨瑤族鄉	Gǔzhài Yáozú Xiāng	Gú-jaaih Yìuh-juhk Hēung	
@@ -12808,6 +12853,7 @@ Habsburg	哈布斯堡	哈布斯堡	Hābùsībǎo	Hā-bou-sī-bóu
 habu snake (in Okinawa)	竹叶青蛇	竹葉青蛇	zhúyèqīng shé	jūk-yihp-chīng sèh	
 Hacaliah	哈迦利亚	哈迦利亞	Hājiālìyà	Hā-gā-leih-nga	hˌækəlˈaɪʌ
 Hachilah	哈基拉	哈基拉	Hājīlā	Hā-gēi-lāai	hækˈaɪlʌ
+Hackman	哈尔曼	哈爾曼	Hā'ěrmàn	Hā-yíh-maahn	
 Hackmann	哈克曼	哈克曼	Hākèmàn	Hā-hāk-maahn	
 Hadabei (town)	哈达碑镇	哈達碑鎮	Hǎdábēizhèn	Hā-daaht-bēi-jan	
 Hadad	哈达德	哈達德	Hādádé	Hā-daaht-dāk	hˈeɪdæd
@@ -13362,6 +13408,7 @@ headband	头环	頭環	tóuhuán	tàuh-wàahn
 headlamp (on vehicle)	前照灯	前照燈	qiánzhàodēng	chìhn-jiu-dāng	
 headlines (in news)	新闻快讯	新聞快訊	xīnwén kuàixùn	sān-màhn faai-seun	
 headlines (in newspaper)	大字标题	大字標題	dàzì biāotí	daaih-jih bīu-tàih	
+head of iron (stubborn etc)	头铁	頭鐵	tóutiě	tàuh-tit	
 head over all	万有之首	萬有之首	wànyǒu zhī shǒu	maahn-yáuh jī sáu	
 Head (surname)	黑德	黑德	Hēidé	Hāk-dāk	
 heal	医好	醫好	yīhǎo	yī-hóu	
@@ -13369,6 +13416,7 @@ health-care agent	医疗代理人	醫療代理人	yīliáo dàilǐrén	yī-lìuh
 health-care centre	健康护理中心	健康護理中心	jiànkāng hùlǐ zhōngxīn	gihn-hōng wuh-léih jūng-sām	
 health-care professionals	专业医护人员	專業醫護人員	zhuānyè yīhù rényuán	jyūn-yihp yī-wuh yàhn-yùhn	
 health-care professionals	医疗人员	醫療人員	yīliáo rényuán	yī-lìuh yàhn-yùhn	
+health-care provider (person)	保健提供者	保健提供者	bǎojiàn tígōngzhě	bóu-gihn tàih-gūng-jé	
 health-care providers	医护人员	醫護人員	yīhù rényuán	yī-wuh yàhn-yùhn	
 health-care reform; healthcare reform	医疗改革	醫療改革	yīliáo gǎigé	yī-lìuh gói-gaak	
 healthful food	有益健康的食物	有益健康的食物	yǒuyì jiànkāng de shíwù	yáuh-yīk gihn-hōng dīk sihk-maht	
@@ -13636,7 +13684,7 @@ Henadad	希拿达	希拿達	Xīnádá	Hēi-nàh-daaht	hˈɛnʌdæd
 Henandian (town)	河南店镇	河南店鎮	Hénándiànzhèn	Hòh-nàahm-dim-jan	
 Henan province	河南省	河南省	Hénánshěng	Hòh-nàahm-sáang	
 Henan Township	河南乡	河南鄉	Hénán Xiāng	Hòh-nàahm Hēung	
-Henantuan (town)	河南疃镇	河南疃鎮	Hénántuǎnzhèn		
+Henantuan (town)	河南疃镇	河南疃鎮	Hénántuǎnzhèn	Hòh-nàahm-téun-jan	
 Henan ware (pottery type)	河南窑	河南窯	Hénányáo	Hòh-nàahm-yìuh	
 Henanzhai (town)	河南寨镇	河南寨鎮	Hénánzhàizhèn	Hòh-nàahm-jaaih-jan	
 Henborg	翰柏	翰柏	Hànbó	Hohn-paak	
@@ -13711,7 +13759,10 @@ herbal remedies	草药疗法	草藥療法	cǎoyào liáofǎ	chóu-yeuhk lìuh-fa
 Herbert	赫伯特	赫伯特	Hèbótè	Hāk-baak-dahk	
 Herculaneum	赫库兰尼姆	赫庫蘭尼姆	Hèkùlánnímǔ	Hāk-fu-làahn-nèih-móuh	
 Hercules (old translation)	赫尔克里斯	赫爾克里斯	Hè'ěrkèlǐsī	Hāk-yíh-hāk-léih-sī	
+herd-type (immunity etc)	群体性	群體性	qúntǐxìng	kwàhn-tái-sing	
 herd cows and sheep	放牛羊	放牛羊	fàng niúyáng	fong ngàuh-yèuhng	
+herd immunity	群体免疫	群體免疫	qúntǐ miǎnyì	kwàhn-tái míhn-yihk	
+herd immunity	群体性免疫	群體性免疫	qúntǐxìng miǎnyì	kwàhn-tái-sing míhn-yihk	
 Herd (name)	赫德	赫德	Hèdé	Hāk-dāk	
 herd of swine	猪群	豬群	zhūqún	jyū-kwàhn	
 <Cantonese> here	呢度	呢度	nídù	lēi-douh	
@@ -13746,6 +13797,7 @@ Herod	希律	希律	Xīlǜ	Hēi-leuht
 Herodias	希罗底	希羅底	Xīluódǐ	Hēi-lòh-dái	hɚˈəʊdiəs
 Herodotus	希罗多德	希羅多德	Xīluóduōdé	Hēi-lòh-dō-dāk	
 Herod the king	希律王	希律王	Xīlǜ wáng	Hēi-leuht wòhng	
+Heroides (Ovid)	拟情书	擬情書	Nǐqíngshū	Yíh-chìhng-syū	
 heron	鹭鸟	鷺鳥	lùniǎo	louh-níuh	
 Herong (town)	河溶镇	河溶鎮	Héróngzhèn	Hòh-yùhng-jan	
 Heron (surname)	赫伦	赫倫	Hèlún	Hāk-lèuhn	
@@ -13916,6 +13968,7 @@ high priest (in apocrypha?)	大司祭	大司祭	dà sījì	daaih sī-jai
 high quality; top grade	优质的	優質的	yōuzhì de	yāu-jāt dīk	
 high rating (by reviewers etc)	高评分	高評分	gāo píngfēn	gōu pìhng-fān	
 high salary; successful secular career	高薪厚禄	高薪厚祿	gāoxīn-hòulù	gōu-sān-háuh-luhk	
+high score table (in video game)	积分排行榜	積分排行榜	jīfēn páihángbǎng	jīk-fān pàaih-hàhng-bóng	
 high standards	崇高的标准	崇高的標準	chónggāo de biāozhǔn	sùhng-gōu dīk bīu-jéun	
 high table (in formal hall)	高桌	高桌	gāozhuō	gōu-cheuk	
 high tech (innovation) incubator	科技孵化	科技孵化	kējì fūhuà	fō-geih fū-fa	
@@ -13970,6 +14023,7 @@ Hispaniola	伊斯帕尼奥拉岛	伊斯帕尼奧拉島	Yīsīpàní'àolādǎo	Y
 Hissa	希萨	希薩	Xīsà	Hēi-saat	
 histamine	组织胺	組織胺	zǔzhī'àn	jóu-jīk-ngōn	
 histone	组蛋白	組蛋白	zǔdànbái	jóu-dáan-baahk	
+historical criticism	历史批判学	歷史批判學	lìshǐ pīpànxué	lihk-sí pāi-pun-hohk	
 historical record	历史记录	歷史記錄	lìshǐ jìlù	lihk-sí gei-luhk	
 historic battle	历史性战役	歷史性戰役	lìshǐxìng zhànyì	lihk-sí-sing jin-yihk	
 history book	历史书	歷史書	lìshǐshū	lihk-sí-syū	
@@ -14218,7 +14272,7 @@ Hongxin (town)	红心镇	紅心鎮	Hóngxīnzhèn	Hùhng-sām-jan
 Hongxu (town)	洪绪镇	洪緒鎮	Hóngxùzhèn	Hùhng-séuih-jan	
 Hongya (county, in Sichuan)	洪雅县	洪雅縣	Hóngyǎ Xiàn	Hùhng-ngáh Yún	
 Hongyanchuan Township	红眼川乡	紅眼川鄉	Hóngyǎnchuān Xiāng	Hùhng-ngáahn-chyūn Hēung	
-Hongyang River	硔养河	硔養河	Hóngyǎng Hé		
+Hongyang River	硔养河	硔養河	Hóngyǎng Hé	Hùhng-yéuhng Hòh	
 Hongyang (town)	洪阳镇	洪陽鎮	Hóngyángzhèn	Hùhng-yèuhng-jan	
 Hongyan (town)	洪岩镇	洪岩鎮	Hóngyánzhèn	Hùhng-ngàahm-jan	
 Hongyi Township	洪一乡	洪一鄉	Hóngyī Xiāng	Hùhng-yāt Hēung	
@@ -14280,7 +14334,7 @@ Hor (mountain)	何珥山	何珥山	Hé'ěr Shān	Hòh-yih Sāan
 Hormuz	霍尔木兹	霍爾木茲	Huò'ěrmùzī	Fok-yíh-muhk-jī	
 hornbeam tree	鹅耳枥	鵝耳櫪	é'ěrlì	ngòh-yíh-līk	
 Horne	霍恩	霍恩	Huò'ēn	Fok-yān	
-horned snake	角蝰	角蝰	jiǎokuí		
+horned snake	角蝰	角蝰	jiǎokuí	gok-kwāi	
 horns of iron	铁角	鐵角	tiějiǎo	tit-gok	
 Horon	和仑	和崙	Hélún	Wòh-lèuhn	
 Horonaim	何罗念	何羅念	Héluóniàn	Hòh-lòh-nihm	hˌɒɹəʊnˈeɪɪm
@@ -15146,6 +15200,7 @@ Hyman	海曼	海曼	Hǎimàn	Hói-maahn
 Hymenaeus	许米乃	許米乃	Xǔmǐnǎi	Héui-máih-náaih	hˌaɪmənˈiəs
 Hyogo (Japan prefecture)	兵库	兵庫	Bīngkù	Bīng-fu	
 hype	过度宣传	過度宣傳	guòdù xuānchuán	gwo-douh syūn-chyùhn	
+<math.> hyperplane	超平面	超平面	chāopíngmiàn	chīu-pìhng-mihn	
 hypersensitive	过度敏感	過度敏感	guòdù mǐngǎn	gwo-douh máhn-gám	
 hypersensitivity	超敏反应	超敏反應	chāomǐn fǎnyìng	chīu-máhn fáan-ying	
 hypersensitivity	超敏性	超敏性	chāomǐnxìng	chīu-máhn-sing	
@@ -15295,6 +15350,7 @@ immense universe	浩瀚的宇宙	浩瀚的宇宙	hàohàn de yǔzhòu	houh-hohn 
 Immer	音麦	音麥	Yīnmài	Yām-mahk	ˈɪməː
 immersed boundary method (in CFD)	浸入式边界方法	浸入式邊界方法	jìnrùshì biānjiè fāngfǎ	jam-yahp-sīk bīn-gaai fōng-faat	
 immersed (type)	浸入式	浸入式	jìnrùshì	jam-yahp-sīk	
+immersive	沉浸式	沉浸式	chénjìnshì	chàhm-jam-sīk	
 Immigration Agency (government dept)	移民署	移民署	Yímín Shǔ	Yìh-màhn Chyúh	
 immigration detention centre	移民拘留所	移民拘留所	yímín jūliúsuǒ	yìh-màhn kēui-làuh-só	
 immoderateness	漫无节制	漫無節制	mànwú-jiézhì	maahn-mòuh-jit-jai	
@@ -15527,6 +15583,7 @@ interior construction	室内装修	室內裝修	shìnèi zhuāngxiū	sāt-noih j
 interleukins	白细胞介素	白細胞介素	báixìbāo jièsù	baahk-sai-bāau gaai-sou	
 interlibrary loan service	馆际互借服务	館際互借服務	guǎnjìhùjiè fúwù	gún-jai-wuh-je fuhk-mouh	
 <comp.> internal	内置	內置	nèizhì	noih-ji	
+internal examiner; internal audit	内审	內審	nèishěn	noih-sám	
 internal migration	内部移民	內部移民	nèibù yímín	noih-bouh yìh-màhn	
 international; between nations	国际间	國際間	guójìjiān	gwok-jai-gāan	
 International Astronomical Union; IAU	国际天文学联合会	國際天文學聯合會	Guójì Tiānwénxué Liánhéhuì	Gwok-jai Tīn-màhn-hohk Lyùhn-hahp-wúi	
@@ -15715,6 +15772,7 @@ Isoko (language)	伊索科语	伊索科語	Yīsuǒkēyǔ	Yī-sok-fō-yúh
 isolated with no power (?)	势孤力薄	勢孤力薄	shìgū-lìbó	sai-gū-lihk-bohk	
 isolation (from people)	与众寡合	與眾寡合	yǔ zhòng guǎhé	yúh jung gwá-hahp	
 Isolina	伊索利娜	伊索利娜	Yīsuǒlìnà	Yī-sok-leih-nàh	
+<math.> isomorphism (transformation)	同构	同構	tónggòu	tùhng-kau	
 isopycnal (density contor line)	等密度线	等密度線	děngmìdùxiàn	dáng-maht-douh-sin	
 isopycnal (density surface)	等密度面	等密度面	děngmìdùmiàn	dáng-maht-douh-mihn	
 Israel Antiquities Authority; IAA	以色列古物局	以色列古物局	Yǐsèliè Gǔwù Jú	Yíh-sīk-liht Gú-maht Guhk	
@@ -15804,6 +15862,7 @@ Jacek	亚采克	亞采克	Yàcǎikè	Nga-chói-hāk
 Jachin	雅斤	雅斤	Yǎjīn	Ngáh-gān	dʒˈeɪkɪn
 Jacintu	雅辛图	雅辛圖	Yǎxīntú	Ngáh-sān-tòuh	
 jackal	胡狼	胡狼	húláng	wùh-lòhng	dʒˈækʊəl
+Jack Ma	马云	馬云	Mǎ Yún	Máh Wàhn	
 Jack (name)	杰克	傑克	Jiékè	Giht-hāk	
 Jack (name)	积克	積克	Jīkè	Jīk-hāk	
 Jackson	杰克逊	傑克遜	Jiékèxùn	Giht-hāk-seun	
@@ -16198,7 +16257,7 @@ Jiangsu province	江苏省	江蘇省	Jiāngsūshěng	Gōng-sōu-sáang
 Jiangtang Township	江塘乡	江塘鄉	Jiāngtáng Xiāng	Gōng-tòhng Hēung	
 Jiangtang Township	讲堂乡	講堂鄉	Jiǎngtáng Xiāng	Góng-tòhng Hēung	
 Jiangtian (town)	江田镇	江田鎮	Jiāngtiánzhèn	Gōng-tìhn-jan	
-Jiangtuan (town)	姜疃镇	姜疃鎮	Jiāngtuǎnzhèn		
+Jiangtuan (town)	姜疃镇	姜疃鎮	Jiāngtuǎnzhèn	Gēung-téun-jan	
 Jiangtun (town)	姜屯镇	姜屯鎮	Jiāngtúnzhèn	Gēung-tyùhn-jan	
 Jiangtun (town)	江屯镇	江屯鎮	Jiāngtúnzhèn	Gōng-tyùhn-jan	
 Jianguo (town)	建国镇	建國鎮	Jiànguózhèn	Gin-gwok-jan	
@@ -16214,7 +16273,7 @@ Jiangxi (town)	江西镇	江西鎮	Jiāngxīzhèn	Gōng-sāi-jan
 Jiangyan (district, in Jiangsu)	姜堰区	姜堰區	Jiāngyàn Qū	Gēung-yín Kēui	
 Jiangyang District	江阳区	江陽區	Jiāngyáng Qū	Gōng-yèuhng Kēui	
 Jiangyan (town)	姜堰镇	姜堰鎮	Jiāngyànzhèn	Gēung-yín-jan	
-Jiangya (town)	江垭镇	江埡鎮	Jiāngyāzhèn		
+Jiangya (town)	江垭镇	江埡鎮	Jiāngyāzhèn	Gōng-a-jan	
 Jiangying (town)	江英镇	江英鎮	Jiāngyīngzhèn	Gōng-yīng-jan	
 Jiangying (town)	蒋营镇	蔣營鎮	Jiǎngyíngzhèn	Jéung-yìhng-jan	
 Jiangyin (in Jiangsu)	江阴	江陰	Jiāngyīn	Gōng-yām	
@@ -16927,6 +16986,7 @@ Joash	耶薛	耶薛	Yēxuē	Yèh-sit	dʒˈəʊæʃ
 Jobab	约巴	約巴	Yuēbā	Yeuk-bā	dʒˈəʊbæb
 Job (Bible book)	约伯记	約伯記	Yuēbójì	Yeuk-baak-gei	
 Job (book, Catholic version)	约伯传	約伯傳	Yuēbóchuán	Yeuk-baak-chyùhn	
+job characteristics model	工作特征模型	工作特征模型	gōngzuò tèzhēng móxíng	gūng-jok dahk-jīng mòuh-yìhng	
 Jobes; Jobs (surname)	乔布斯	喬布斯	Qiáobùsī	Kìuh-bou-sī	
 job for life	终生职业	終生職業	zhōngshēng zhíyè	jūng-sāang jīk-yihp	
 job market; finding-work situation (in an area etc)	就业情况	就業情況	jiùyè qíngkuàng	jauh-yihp chìhng-fong	
@@ -16980,6 +17040,7 @@ Johnstone	约翰斯通	約翰斯通	Yuēhànsītōng	Yeuk-hohn-sī-tūng
 John the Baptist	施浸者约翰	施浸者約翰	shījìnzhě Yuēhàn	sī-jam-jé Yeuk-hohn	
 Joiakim	约雅金	約雅金	Yuēyǎjīn	Yeuk-ngáh-gām	dʒˈɔɪəkɪm
 Joiarib	约雅立	約雅立	Yuēyǎlì	Yeuk-ngáh-lahp	dʒˈɔɪɚɪb
+jointly sign (a document)	连署	連署	liánshǔ	lìhn-chyúh	
 joint (mechanical)	接合处	接合處	jiēhéchù	jip-hahp-chyu	
 joint offence (crime with accomplices)	共同犯罪	共同犯罪	gòngtóng fànzuì	guhng-tùhng faahn-jeuih	
 joint (of thigh etc)	关节窝	關節窩	guānjiéwō	gwāan-jit-wō	
@@ -17366,7 +17427,7 @@ Kangding (in Sichuan)	康定	康定	Kāngdìng	Hōng-dihng
 Kangding (in Sichuan)	康定市	康定市	Kāngdìng Shì	Hōng-dihng Síh	
 Kanghe (town)	康禾镇	康禾鎮	Kānghézhèn	Hōng-wòh-jan	
 Kangle County	康乐县	康樂縣	Kānglè Xiàn	Hōng-lohk Yún	
-Kangleng Township	炕塄乡	炕塄鄉	Kàngléng Xiāng		
+Kangleng Township	炕塄乡	炕塄鄉	Kàngléng Xiāng	Hong-lìhng Hēung	
 Kangle (town)	康乐镇	康樂鎮	Kānglèzhèn	Hōng-lohk-jan	
 Kangma County	康马县	康馬縣	Kāngmǎ Xiàn	Hōng-máh Yún	
 Kangmei (town)	康美镇	康美鎮	Kāngměizhèn	Hōng-méih-jan	
@@ -17396,7 +17457,7 @@ Kanshi (town)	坎市镇	坎市鎮	Kǎnshìzhèn	Hām-síh-jan
 Kansu Township	坎苏乡	坎蘇鄉	Kǎnsū Xiāng	Hām-sōu Hēung	
 Kant	康德	康德	Kāngdé	Hōng-dāk	
 Kan Township	坎乡	坎鄉	Kǎn Xiāng	Hām Hēung	
-Kantuan (town)	阚疃镇	闞疃鎮	Kàntuǎnzhèn		
+Kantuan (town)	阚疃镇	闞疃鎮	Kàntuǎnzhèn	Háam-téun-jan	
 Kanuri (language)	卡努里语	卡努里語	Kǎnǔlǐyǔ	Kā-nóuh-léih-yúh	
 Kaohsiung City	高雄市	高雄市	Gāoxióng Shì	Gōu-hùhng Síh	
 kaph; kaf (Hebrew letter)	卡弗	卡弗	kǎfú	kā-fāt	
@@ -17622,6 +17683,8 @@ Kerala (state, of India)	喀拉拉邦	喀拉拉邦	Kālālā bāng	haak-lāai-l�
 Kerema	凯里马	凱里馬	Kǎilǐmǎ	Hói-léuih-máh	
 Keren-happuch	基连哈朴	基連哈樸	Jīliánhāpǔ	Gēi-lìhn-hā-pok	kˌɛɹənhæpʌk
 Kerioth	加略	加略	Jiālüè	Gā-leuhk	kˈɪɹiɒθ
+kernel function (in SVM etc)	核函数	核函數	hé hánshù	haht hàahm-sou	
+kernel trick (for SVM classification)	内核技巧	內核技巧	nèihé jìqiǎo	noih-haht geih-háau	
 Keros	基洛	基洛	Jīluò	Gēi-lohk	kˈiɹɒs
 kerosene stove	油电暖炉	油電暖爐	yóudiàn nuǎnlú	yàuh-dihn nyúhn-lòuh	
 Kerr	克尔	克爾	Kè'ěr	Hāk-yíh	kɛɹ
@@ -17648,6 +17711,7 @@ key discipline (in categories of university subjects etc)	一级学科	一級學
 Keyes	凯斯	凱斯	Kǎisī	Hói-sī	
 key point	切入点	切入點	qiērùdiǎn	chit-yahp-dím	
 keys of the kingdom	王国的钥匙	王國的鑰匙	wángguó de yàoshi	wòhng-gwok dīk yeuhk-sìh	
+key workers (of country etc)	关键岗位人员	關鍵崗位人員	guānjiàn gǎngwèi rényuán	gwāan-gihn gōng-wái yàhn-yùhn	
 Keziah	基洗亚	基洗亞	Jīxǐyà	Gēi-sái-nga	kəzˈaɪʌ
 Kezilesu Township	克孜勒苏乡	克孜勒蘇鄉	Kèzīlèsū Xiāng	Hāk-jī-lahk-sōu Hēung	
 kezixian (bowed instrument used in Taiwan regional opera)	壳仔弦	殼仔弦	kézǐxián	hok-jái-yìhn	
@@ -17859,6 +17923,7 @@ Klaudt	克劳特	克勞特	Kèláotè	Hāk-lòuh-dahk
 Klaus	克劳斯	克勞斯	Kèláosī	Hāk-lòuh-sī	
 Klein	克莱因	克萊因	Kèláiyīn	Hāk-lòih-yān	klˈaɪn
 Kleinknecht	克莱因克内希特	克萊因克內希特	Kèláiyīnkènèixītè	Hāk-lòih-yān-hāk-noih-hēi-dahk	
+Klemm; Cramer	克莱姆	克萊姆	Kèláimǔ	Hāk-lòih-móuh	
 kleptocracy	窃盗统治	竊盜統治	qièdào tǒngzhì	sit-douh túng-jih	
 Klijn	克林	克林	Kèlín	Hāk-làhm	
 Klimov	克里莫夫	克里莫夫	Kèlǐmòfū	Hāk-léih-mohk-fū	
@@ -17905,6 +17970,7 @@ Kokoro	科科罗	科科羅	Kēkēluó	Fō-fō-lòh
 Kolarz	科拉茨	科拉茨	Kēlācí	Fō-lāai-chìh	
 Kolbanov	科尔巴诺夫	科爾巴諾夫	Kē'ěrbānuòfū	Fō-yíh-bā-nohk-fū	
 Kolbert	科尔伯特	科爾伯特	Kē'ěrbótè	Fō-yíh-baak-dahk	
+Kolkata	加尔各答	加爾各答	Jiā'ěrgèdá	Gā-yíh-gok-daap	
 Kolodny	科洛德内	科洛德內	Kēluòdénèi	Fō-lohk-dāk-noih	
 Kolwezi	科卢韦齐	科盧韋齊	Kēlúwéiqí	Fō-lòuh-wáih-chàih	
 Kolya	科利亚	科利亞	Kēlìyà	Fō-leih-nga	
@@ -17967,7 +18033,7 @@ Kosrae	科斯拉伊岛	科斯拉伊島	Kēsīlāyīdǎo	Fō-sī-lāai-yī-dóu
 Kosraean (language)	科斯拉伊语	科斯拉伊語	Kēsīlāyīyǔ	Fō-sī-lāai-yī-yúh	
 Kostadinov	科斯塔迪诺夫	科斯塔迪諾夫	Kēsītǎdínuòfū	Fō-sī-taap-dihk-nohk-fū	
 Kostas	科斯塔斯	科斯塔斯	Kēsītǎsī	Fō-sī-taap-sī	
-kotatsu; Japanese leg warming device	炬燵	炬燵	jùdá		
+kotatsu; Japanese leg warming device	炬燵	炬燵	jùdá	geuih-daaht	
 Kotlar	科特拉尔	科特拉爾	Kētèlā'ěr	Fō-dahk-lāai-yíh	
 Kouamé	夸梅	誇梅	Kuāméi	Kwā-mùih	
 Koudian (town)	寇店镇	寇店鎮	Kòudiànzhèn	Kau-dim-jan	
@@ -18522,6 +18588,7 @@ last week	上个星期	上個星期	shàng ge xīngqī	seuhng go sīng-kèih
 last weekend	上周末	上周末	shàng zhōumò	seuhng jāu-muht	
 last will and testament	最后遗嘱	最后遺囑	zuìhòu yízhǔ	jeui-hauh wàih-jūk	
 Las Vegas (alternate translation)	拉斯维加斯	拉斯維加斯	Lāsīwéijiāsī	Lāai-sī-wàih-gā-sī	
+latent class model	潜在类别模型	潛在類別模型	qiánzài lèibié móxíng	chìhm-joih leuih-biht mòuh-yìhng	
 Late Quartets (Beethoven)	晚期四重奏	晚期四重奏	wǎnqī sìchóngzòu	máahn-kèih sei-chùhng-jau	
 Lateran	拉特兰	拉特蘭	Lātèlán	Lāai-dahk-làahn	
 laterite (colour)	土红	土紅	tǔhóng	tóu-hùhng	
@@ -19548,7 +19615,7 @@ listen briefly	听一听	聽一聽	tīng yi tīng	ting yāt tīng
 listen to advice (?)	听劝	聽勸	tīngquàn	ting-hyun	
 listen to a sermon (in church)	听讲道	聽講道	tīng jiǎngdào	ting góng-douh	
 list of life goals	人生目标清单	人生目標清單	rénshēng mùbiāo qīngdān	yàhn-sāang muhk-bīu chīng-dāan	
-Lisu (language)	傈僳语	傈僳語	Lìsùyǔ		
+Lisu (language)	傈僳语	傈僳語	Lìsùyǔ	Leuht-sūk-yúh	
 Liszt	李斯特	李斯特	Lǐsītè	Léih-sī-dahk	
 Litang (county, in Sichuan)	理塘县	理塘縣	Lǐtáng Xiàn	Léih-tòhng Yún	
 Litang (town)	黎塘镇	黎塘鎮	Lítángzhèn	Làih-tòhng-jan	
@@ -19718,7 +19785,7 @@ Liutiao Township	柳条乡	柳條鄉	Liǔtiáo Xiāng	Láuh-tìuh Hēung
 Liutiaozhai (town)	柳条寨镇	柳條寨鎮	Liǔtiáozhàizhèn	Láuh-tìuh-jaaih-jan	
 Liutong Township	六桶乡	六桶鄉	Liùtǒng Xiāng	Luhk-túng Hēung	
 Liutuan (town)	六团镇	六團鎮	Liùtuánzhèn	Luhk-tyùhn-jan	
-Liutuan (town)	柳疃镇	柳疃鎮	Liǔtuǎnzhèn		
+Liutuan (town)	柳疃镇	柳疃鎮	Liǔtuǎnzhèn	Láuh-téun-jan	
 Liutun (town)	柳屯镇	柳屯鎮	Liǔtúnzhèn	Láuh-tyùhn-jan	
 Liutun Township	六屯乡	六屯鄉	Liùtún Xiāng	Luhk-tyùhn Hēung	
 Liuwang (town)	六汪镇	六汪鎮	Liùwāngzhèn	Luhk-wōng-jan	
@@ -20914,6 +20981,7 @@ make of hammered work	锤出	錘出	chuíchū	chèuih-chēut
 make out	认得出	認得出	rèn de chū	yihng dāk chēut	
 make out (??)	鉴辨	鑒辨	jiànbiàn	gaam-bihn	
 make out; pick out	辨认出	辨認出	biànrènchū	bihn-yihng-chēut	
+make (steel etc); temper (metal)	炼成	煉成	liàn chéng	lihn sìhng	
 make straight (?)	修直	修直	xiūzhí	sāu-jihk	
 make time	定下时间	定下時間	dìngxià shíjiān	dihng-hah sìh-gāan	
 make time; set aside time	拨出时间	撥出時間	bōchū shíjiān	buht-chēut sìh-gāan	
@@ -21520,6 +21588,7 @@ Max	麦克斯	麥克斯	Màikèsī	Mahk-hāk-sī
 Max	麦斯	麥斯	Màisī	Mahk-sī	
 Maxian Township	麻线乡	麻線鄉	Máxiàn Xiāng	Màh-sin Hēung	
 Maxim	马克西姆	馬克西姆	Mǎkèxīmǔ	Máh-hāk-sāi-móuh	
+maximal margin classifier	最大边界分类器	最大邊界分類器	zuìdà biānjiè fēnlèiqì	jeui-daaih bīn-gaai fān-leuih-hei	
 Maximilian	马克西米连	馬克西米連	Mǎkèxīmǐlián	Máh-hāk-sāi-máih-lìhn	
 maximum speed (in units per hour)	最高时速	最高時速	zuìgāo shísù	jeui-gōu sìh-chūk	
 Maximus	马克西莫斯	馬克西莫斯	Mǎkèxīmòsī	Máh-hāk-sāi-mohk-sī	
@@ -21637,6 +21706,7 @@ measure with steps; visit to see for oneself (a place)	步量	步量	bùliàng	b
 measuring line	准绳	准繩	zhǔnshéng	jéun-sìhng	
 measuring line	量绳	量繩	liàng shéng	leuhng sìhng	
 measuring pole	量杆	量杆	liánggān	lèuhng-gōn	
+meat industry	肉类行业	肉類行業	ròulèi hángyè	yuhk-leuih hòhng-yihp	
 meat sandwich	肉夹馍	肉夾饃	ròujiāmó	yuhk-gaap-mòh	
 Meaux (in France)	莫城	莫城	Mòchéng	Mohk-sìhng	
 mecca; place you must go to	必到之地	必到之地	bìdàozhīdì	bīt-dou-jī-deih	
@@ -21661,6 +21731,7 @@ media studies	媒体研究	媒體研究	méitǐ yánjiū	mùih-tái yìhn-gau
 Medical Administration department (of NHC)	医政医管局	醫政醫管局	Yīzhèngyīguǎnjú	Yī-jing-yī-gún-guhk	
 medical assistance; first-aid service	急救服务	急救服務	jíjiù fúwù	gāp-gau fuhk-mouh	
 medical diagnosis	医学诊断	醫學診斷	yīxué zhěnduàn	yī-hohk chán-tyúhn	
+medicalisation	医学化	醫學化	yīxuéhuà	yī-hohk-fa	
 medical journals	医学期刊	醫學期刊	yīxué qīkān	yī-hohk kèih-hōn	
 medical law	医疗法	醫療法	yīliáofǎ	yī-lìuh-faat	
 medical research	医学科研	醫學科研	yīxué kēyán	yī-hohk fō-yìhn	
@@ -21958,6 +22029,7 @@ Methodist Church	循道公会	循道公會	Xún Dào Gōnghuì	Chèuhn Douh Gūn
 method of casting	铸法	鑄法	zhùfǎ	jyu-faat	
 method of handling money	理财方式	理財方式	lǐcái fāngshì	léih-chòih fōng-sīk	
 method of interpreting the scriptures	释经法	釋經法	shìjīngfǎ	sīk-gīng-faat	
+method of moments	矩估计	矩估計	jǔgūjì	géui-gú-gai	
 Methuselah	玛土撒拉	瑪土撒拉	Mǎtǔsālā	Máh-tóu-saat-lāai	mˌɪθjˈʉːzələ
 Methushael	玛土撒利	瑪土撒利	Mǎtǔsālì	Máh-tóu-saat-leih	mʌθˈʉːʃiɛl
 Met Office	气象办公室	氣象辦公室	Qìxiàng Bàngōngshì	Hei-jeuhng Baahn-gūng-sāt	
@@ -22024,7 +22096,7 @@ Miaowan Township	庙湾乡	廟灣鄉	Miàowān Xiāng	Miuh-wāan Hēung
 Miaoxian Township	庙仙乡	廟仙鄉	Miàoxiān Xiāng	Miuh-sīn Hēung	
 Miaoxia Township	庙下乡	廟下鄉	Miàoxià Xiāng	Miuh-hah Hēung	
 Miaoxi Township	庙溪乡	廟溪鄉	Miàoxī Xiāng	Miuh-kāi Hēung	
-Miaoya Township	庙垭乡	廟埡鄉	Miàoyā Xiāng		
+Miaoya Township	庙垭乡	廟埡鄉	Miàoyā Xiāng	Miuh-a Hēung	
 Miaoyu (town)	庙宇镇	廟宇鎮	Miàoyǔzhèn	Miuh-yúh-jan	
 Miaozhai Township	苗寨乡	苗寨鄉	Miáozhài Xiāng	Mìuh-jaaih Hēung	
 Miaozhuang (town)	苗庄镇	苗莊鎮	Miáozhuāngzhèn	Mìuh-jōng-jan	
@@ -22292,6 +22364,7 @@ Mirzayev	米尔扎耶夫	米爾扎耶夫	Mǐ'ěrzhāyēfū	Máih-yíh-jaat-yèh-
 Misae	美佐江	美佐江	Měizuǒjiāng	Méih-jo-gōng	
 Misael	米萨尔	米薩爾	Mǐsà'ěr	Máih-saat-yíh	
 miscalculate one's chances	打错了算盘	打錯了算盤	dǎcuòle suànpán	dá-cho-líuh syun-pùhn	
+misclassification	分类错误	分類錯誤	fēnlèi cuòwù	fān-leuih cho-ngh	
 miserly	抠门	摳門	kōumén	kāu-mùhn	
 misguided adoration/devotion	盲目崇拜	盲目崇拜	mángmù chóngbài	màahng-muhk sùhng-baai	
 Mishael	米沙利	米沙利	Mǐshālì	Máih-sā-leih	mˈɪʃeɪɛl
@@ -22633,6 +22706,7 @@ mother-of-pearl (material)	珍珠母	珍珠母	zhēnzhūmǔ	jān-jyū-móuh
 mother bear	母熊	母熊	mǔxióng	móuh-hùhng	
 mother camel	母骆驼	母駱駝	mǔ-luòtuo	móuh-lok-tòh	
 mother superior; convent headmistress	修道院女院长	修道院女院長	xiūdàoyuàn nǚyuànzhǎng	sāu-douh-yún néuih-yún-jéung	
+motivating potential score	激励潜在分数	激勵潛在分數	jīlì qiánzài fēnshù	gīk-laih chìhm-joih fān-sou	
 motorcycle taxi	摩托计程车	摩托計程車	mótuō jìchéngchē	mō-tok gai-chìhng-chē	
 motto	铭言	銘言	míngyán	mìhng-yìhn	
 Motu (language)	莫图语	莫圖語	Mòtúyǔ	Mohk-tòuh-yúh	
@@ -23558,7 +23632,7 @@ Naomi (Bible)	拿俄米	拿俄米	Ná'émǐ	Nàh-ngòh-máih	nˈeɪəmi
 Naomi (modern)	内奥美	內奧美	Nèi'àoměi	Noih-ou-méih	
 Naomi (modern)	娜奥米	娜奧米	Nà'àomǐ	Nàh-ou-máih	
 naos (Greek for temple etc)	拿奥斯	拿奧斯	ná'àosī	nàh-ou-sī	
-Naozhou (town)	硇洲镇	硇洲鎮	Náozhōuzhèn		
+Naozhou (town)	硇洲镇	硇洲鎮	Náozhōuzhèn	Nàauh-jāu-jan	
 Napeng (town)	那彭镇	那彭鎮	Nàpéngzhèn	Náh-pàahng-jan	
 Naphish	拿非施	拿非施	Náfēishī	Nàh-fēi-sī	nˈeɪfɪʃ
 Naphtali	拿弗他利	拿弗他利	Náfútālì	Nàh-fāt-tā-leih	nˈæftəːlaɪ
@@ -23809,6 +23883,7 @@ neurodiversity	神经多样性	神經多樣性	shénjīng duōyàngxìng	sàhn-g
 neurological condition	神经功能障碍	神經功能障礙	shénjīng gōngnéng zhàng'ài	sàhn-gīng gūng-nàhng jeung-ngoih	
 neuroplasticity	神经可塑性	神經可塑性	shénjīng kěsùxìng	sàhn-gīng hó-sok-sing	
 neuropsychologist	神经心理学家	神經心理學家	shénjīng xīnlǐxuéjiā	sàhn-gīng sām-léih-hohk-gā	
+neuropsychology	神经心理学	神經心理學	shénjīng xīnlǐxué	sàhn-gīng sām-léih-hohk	
 neuroscience	神经生物学	神經生物學	shénjīng shēngwùxué	sàhn-gīng sāang-maht-hohk	
 neuroscience	神经科学	神經科學	shénjīng kēxué	sàhn-gīng fō-hohk	
 neuroscience (lit. nervous system science)	神经系统科学	神經系統科學	shénjīng xìtǒng kēxué	sàhn-gīng haih-túng fō-hohk	
@@ -23879,6 +23954,7 @@ Newmarket	纽马克特	紐馬克特	Niǔmǎkètè	Náu-máh-hāk-dahk
 New Market (Virginia)	纽马基特	紐馬基特	Niǔmǎjītè	Náu-máh-gēi-dahk	
 new meaning of old word	老词新用	老詞新用	lǎocíxīnyòng	lóuh-chìh-sān-yuhng	
 new media (Internet broadcasting etc)	新媒体	新媒體	xīn méitǐ	sān mùih-tái	
+new normal (in economics etc)	新常态	新常態	xīn chángtài	sān sèuhng-taai	
 new (of product line)	新款	新款	xīnkuǎn	sān-fún	
 new personality	新品格	新品格	xīn-pǐngé	sān-bán-gaak	
 new product	新品	新品	xīnpǐn	sān-bán	
@@ -24084,6 +24160,7 @@ Ningxiang (in Hunan)	宁乡市	寧鄉市	níngxiāng Shì	nìhng-hēung Síh
 Ningyang County	宁阳县	寧陽縣	Nìngyáng Xiàn	Nìhng-yèuhng Yún	
 Ningyuan (county, in Hunan)	宁远县	寧遠縣	níngyuǎn Xiàn	nìhng-yúhn Yún	
 Ninković	宁科维奇	寧科維奇	níngkēwéiqí	nìhng-fō-wàih-kèih	
+Nino	妮诺	妮諾	Nīnuò	Nèih-nohk	
 Ninurta	尼努尔塔	尼努爾塔	Nínǔ'ěrtǎ	Nèih-nóuh-yíh-taap	
 Nioki	尼奥基	尼奧基	Ní'àojī	Nèih-ou-gēi	
 Nipa	尼帕	尼帕	Nípà	Nèih-paak	
@@ -24097,6 +24174,7 @@ Nisroch	尼斯洛	尼斯洛	Nísīluò	Nèih-sī-lohk	nˈɪsɹɒk
 Nissenbaum	尼森鲍姆	尼森鮑姆	Nísēnbàomǔ	Nèih-sām-bāau-móuh	
 Nistor	尼斯托尔	尼斯托爾	Nísītuō'ěr	Nèih-sī-tok-yíh	
 Nita	妮塔	妮塔	Nītǎ	Nèih-taap	
+Nitika	尼提卡	尼提卡	Nítíkǎ	Nèih-tàih-kā	
 nitrites	亚硝酸盐	亞硝酸鹽	yàxiāosuānyán	nga-sīu-syūn-yìhm	
 nitrogen cycle	氮循环	氮循環	dàn xúnhuán	daahm chèuhn-wàahn	
 niubatui (another name for niutuiqin)	牛巴腿	牛巴腿	niúbātuǐ	ngàuh-bā-téui	
@@ -24172,6 +24250,7 @@ noncommunicable disease	非传染性疾病	非傳染性疾病	fēichuánrǎnxìn
 noncommunicable (of disease)	非传染性	非傳染性	fēichuánrǎnxìng	fēi-chyùhn-yíhm-sing	
 nonconformist (of approach etc)	非传统	非傳統	fēichuántǒng	fēi-chyùhn-túng	
 nondenominational (lit. across sects)	跨越宗派	跨越宗派	kuàyuè zōngpài	kwā-yuht jūng-paai	
+nonenal	壬烯醛	壬烯醛	rénxīquán	yàhm-hēi-chyùhn	
 Nong'an (county, in Jilin)	农安县	農安縣	Nóng'ān Xiàn	Nùhng-ngōn Yún	
 Nongba (town)	农坝镇	農壩鎮	Nóngbàzhèn	Nùhng-ba-jan	
 Nongfeng Manchu Xibo Town	农丰满族锡伯族镇	農丰滿族錫伯族鎮	Nóngfēng Mǎnzú Xībózú Zhèn	Nùhng-fūng Múhn-juhk Sek-baak-juhk Jan	
@@ -24615,6 +24694,7 @@ Omega	奥米加	奧米加	Àomǐjiā	Ou-máih-gā
 Omega nebula (lit. horse-hoof nebula in Chinese)	马蹄星云	馬蹄星云	Mǎtí xīngyún	Máh-tàih sīng-wàhn	
 omer (dry measure, possibly 2.2 liters)	俄梅珥	俄梅珥	éméi'ěr	ngòh-mùih-yih	
 Ometepe (island)	奥梅特佩岛	奧梅特佩島	Àoméitèpèidǎo	Ou-mùih-dahk-pui-dóu	
+omission (legal)	不作为	不作為	bùzuòwéi	bāt-jok-wàih	
 omnipotence paradox (if "omnipotence" is badly defined)	全能悖论	全能悖論	quánnéng bèilùn	chyùhn-nàhng bui-leuhn	
 omnipresent (mistaken idea)	无处不在	無處不在	wúchùbùzài	mòuh-chyu-bāt-joih	ˌɒmnɪpɹˈɛsənt
 Ompong	翁邦	翁邦	Wēngbāng	Yūng-bōng	
@@ -24871,6 +24951,7 @@ outcry (lit. injustice sound)	冤声	冤聲	yuānshēng	yūn-sēng
 outer core (of earth etc)	外核	外核	wàihé	ngoih-haht	
 outer frame	外框	外框	wàikuàng	ngoih-kwāang	
 outer temple?	外殿	外殿	wàidiàn	ngoih-dihn	
+outlier	异常值	異常值	yìchángzhí	yih-sèuhng-jihk	
 outline (hollow) letters	空心字体	空心字體	kōngxīn zìtǐ	hūng-sām jih-tái	
 outline of a talk	演讲大纲	演講大綱	yǎnjiǎng dàgāng	yín-góng daaih-gōng	
 out of a willing heart	甘心乐意	甘心樂意	gānxīn-lèyì	gām-sām-lohk-yi	
@@ -24907,6 +24988,7 @@ overstep the bounds of his authority	越权行事	越權行事	yuèquán xíngsh
 overthrowing(?)	倾败	傾敗	qīngbài	kīng-baaih	
 overview (of a situation etc)	基本概况	基本概況	jīběn gàikuàng	gēi-bún koi-fong	
 overweight	过胖	過胖	guò pàng	gwo buhn	
+Ovid	奥维德	奧維德	Àowéidé	Ou-wàih-dāk	
 Oviedo	奥维耶多	奧維耶多	Àowéiyēduō	Ou-wàih-yèh-dō	
 Owen	艾文	艾文	Àiwén	Ngaaih-màhn	
 Owen; Irvin; Irwin; Irving	欧文	歐文	Ōuwén	Ngāu-màhn	
@@ -25502,6 +25584,7 @@ Perkins	柏金斯	柏金斯	Bójīnsī	Paak-gām-sī
 Perkins	珀金斯	珀金斯	Pòjīnsī	Paak-gām-sī	
 Perla	培拉	培拉	Péilā	Pùih-lāai	
 Perl (surname)	皮尔	皮爾	Pí'ěr	Pèih-yíh	
+permaculture (self-sufficient agriculture)	朴门	樸門	pǔmén	pok-mùhn	
 permanent residency	永居	永居	yǒngjū	wíhng-gēui	
 Perm (place)	彼尔姆	彼爾姆	Bǐ'ěrmǔ	Béi-yíh-móuh	
 Pernambuco	伯南布哥	伯南布哥	Bónánbùgē	Baak-nàahm-bou-gō	
@@ -26704,6 +26787,7 @@ platoon adjutant (assistant leader)	副排长	副排長	fùpáizhǎng	fu-pàaih-
 Platt	普拉特	普拉特	Pǔlātè	Póu-lāai-dahk	
 plausible deniability (of responsibility)	合理推诿	合理推諉	hélǐ tuīwěi	hahp-léih tēui-wái	
 play; have fun	玩玩	玩玩	wánwan	wáan-wáan	
+play a card (lit./fig.)	出牌	出牌	chūpái	chēut-pàaih	
 play cymbals	击钹	擊鈸	jībó	gīk-baht	
 player (for DVD, CD etc)	播放器	播放器	bōfàngqì	bo-fong-hei	plˈeɪɚ
 player (in electronic games)	玩家	玩家	wánjiā	wáan-gā	plˈeɪɚ
@@ -26814,10 +26898,10 @@ Pollux	波吕丢刻斯	波呂丟刻斯	Bōlǚdiūkèsī	Bō-léuih-dīu-hāk-sī
 Polly	波利	波利	Bōlì	Bō-leih	
 Polman	波尔曼	波爾曼	Bō'ěrmàn	Bō-yíh-maahn	
 Polowat	普卢瓦特	普盧瓦特	Pǔlúwǎtè	Póu-lòuh-ngáh-dahk	
-polyacrylamide	聚丙烯酰胺	聚丙烯酰胺	jùbǐngxīxiān'àn		
+polyacrylamide	聚丙烯酰胺	聚丙烯酰胺	jùbǐngxīxiān'àn	jeuih-bíng-hēi-sīn-ngōn	
 Polyakov	波利亚科夫	波利亞科夫	Bōlìyàkēfū	Bō-leih-nga-fō-fū	
 Polyakov	波利亚霍夫	波利亞霍夫	Bōlìyàhuòfū	Bō-leih-nga-fok-fū	
-polyamide	聚酰胺	聚酰胺	jùxiān'àn		
+polyamide	聚酰胺	聚酰胺	jùxiān'àn	jeuih-sīn-ngōn	
 Polyarny	波利亚尔内	波利亞爾內	Bōlìyà'ěrnèi	Bō-leih-nga-yíh-noih	
 Polyarny city	波利亚尔内市	波利亞爾內市	Bōlìyà'ěrnèi Shì	Bō-leih-nga-yíh-noih Síh	
 polycarbonate	聚碳酸酯	聚碳酸酯	jùtànsuānzhǐ	jeuih-taan-syūn-jí	
@@ -26900,6 +26984,7 @@ Port-Vila	维拉港市	維拉港市	Wéilāgǎng Shì	Wàih-lāai-góng Síh
 Portable Game Notation; PGN (Chess)	可移植式棋局记号法	可移植式棋局記號法	Kěyízhíshì Qíjú Jìhaofǎ	Hó-yìh-jihk-sīk Kèih-guhk Gei-houh-faat	
 portable phonograph	手提留声机	手提留聲機	shǒutí liúshēngjī	sáu-tàih làuh-sēng-gēi	
 <comp./TW?> portable (USB/Flash) disk	随身碟	隨身碟	suíshēn dié	chèuih-sān dihp	
+portacabin	方舱	方艙	fāngcāng	fōng-chōng	
 portcullis	城堡吊门	城堡吊門	chéngbǎo diàomén	sìhng-bóu diu-mùhn	
 Port Edward	爱德华港	愛德華港	Àidéhuá gǎng	Ngoi-dāk-wàh góng	
 Portella	波尔泰拉	波爾泰拉	Bō'ěrtàilā	Bō-yíh-taai-lāai	
@@ -27099,6 +27184,7 @@ princess braid (hair arrangement)	公主辫	公主辮	gōngzhǔbiàn	gūng-jyú-
 Princess Mononoke (ghost princess)	幽灵公主	幽靈公主	Yōulíng Gōngzhǔ	Yāu-lìhng Gūng-jyú	
 "princess syndrome" (of girl, derogatory)	公主病	公主病	gōngzhǔ bìng	gūng-jyú behng	
 Princeton	普林斯顿	普林斯頓	Pǔlínsīdùn	Póu-làhm-sī-deuhn	
+<math.> principal component analysis	主成分分析	主成分分析	zhǔ chéngfèn fēnxi	jyú sìhng-fahn fān-sīk	
 principality of Liechtenstein	列支敦士登公国	列支敦士登公國	Lièzhīdūnshìdēng gōngguó	Liht-jī-dēun-sih-dāng gūng-gwok	
 principle of yin and yang	阴阳学说	陰陽學說	yīnyáng xuéshuō	yām-yèuhng hohk-syut	
 Pringle (surname)	普林格尔	普林格爾	Pǔlíngé'ěr	Póu-làhm-gaak-yíh	
@@ -27199,6 +27285,7 @@ pronounce guilty (of a king to his subject) ?	降罪	降罪	jiàng zuì	gong jeu
 proofreader	校对员	校對員	jiàoduìyuán	gaau-deui-yùhn	pɹˈʉːfɹidɚ
 propamocarb	霜霉威	霜霉威	shuāngméiwēi	sēung-mùih-wāi	
 proper discipline	适当管教	適當管教	shìdàng guǎnjiào	sīk-dong gún-gaau	
+property management	物业管理	物業管理	wùyè guǎnlǐ	maht-yihp gún-léih	
 property market	楼市	樓市	lóushì	làuh-síh	
 property rights; property lines	产业权	產業權	chǎnyè quán	cháan-yihp kyùhn	
 prophetess	女先知	女先知	nǚ xiānzhī	néuih sīn-jī	
@@ -27250,6 +27337,7 @@ provide; give	给与	給與	gěiyǔ	kāp-yúh
 provided there is opportunity	只要有机会	只要有機會	zhǐyào yǒu jīhuì	jí-yiu yáuh gēi-wuih	
 provide for one's family	养活家人	養活家人	yǎnghuo jiārén	yéuhng-wuht gā-yàhn	
 Providence (place)	普罗维登斯	普羅維登斯	Pǔluówéidēngsī	Póu-lòh-wàih-dāng-sī	
+provider (of services etc; person)	提供者	提供者	tígōngzhě	tàih-gūng-jé	
 provide shelter (in one's home) for	藏住	藏住	cángzhù	chòhng-jyuh	
 provide transportation	提供交通工具	提供交通工具	tígōng jiāotōng gōngjù	tàih-gūng gāau-tūng gūng-geuih	
 <PRC> Provincial People's Congress	省人大	省人大	Shěng-Rén-Dà	Sáang-yàhn-daaih	
@@ -27378,6 +27466,7 @@ Punon	普嫩	普嫩	Pǔnèn	Póu-nyuhn	pˈʉːnɒn
 Punta	蓬塔	蓬塔	Péngtǎ	Pùhng-taap	
 punting pole	长篙	長篙	chánggāo	chèuhng-gōu	
 Pupa	普帕	普帕	Pǔpà	Póu-paak	
+puppy	狗崽	狗崽	gǒuzǎi	gáu-jói	
 Pur	普珥	普珥	Pǔ'ěr	Póu-yih	
 Purah	普拉	普拉	Pǔlā	Póu-lāai	pˈɒɹæɹ
 Purbeck	波白克	波白克	Bōbáikè	Bō-baahk-hāk	
@@ -27822,7 +27911,7 @@ Qingtian County	青田县	青田縣	Qīngtián Xiàn	Chīng-tìhn Yún
 Qingtian Township	青天乡	青天鄉	Qīngtiān Xiāng	Chīng-tīn Hēung	
 Qingtongxia (in Ningxia)	青铜峡	青銅峽	Qīngtóngxiá	Chīng-tùhng-haahp	
 Qingtongxia (in Ningxia)	青铜峡市	青銅峽市	Qīngtóngxiá Shì	Chīng-tùhng-haahp Síh	
-Qingtuan (town)	青疃镇	青疃鎮	Qīngtuǎnzhèn		
+Qingtuan (town)	青疃镇	青疃鎮	Qīngtuǎnzhèn	Chīng-téun-jan	
 Qingtuo (town)	青驼镇	青駝鎮	Qīngtuózhèn	Chīng-tòh-jan	
 Qingtuoying (town)	青坨营镇	青坨營鎮	Qīngtuóyíngzhèn	Chīng-tòh-yìhng-jan	
 Qingu (town)	秦古镇	秦古鎮	Qíngǔzhèn	Chèuhn-gú-jan	
@@ -27858,7 +27947,7 @@ Qingyuan (in Guangdong)	清远市	清遠市	Qīngyuǎn Shì	Chīng-yúhn Síh
 Qingyuan Manchu Autonomous County	清原满族自治县	清原滿族自治縣	Qīngyuán Mǎnzú Zìzhìxiàn	Chīng-yùhn Múhn-juhk Jih-jih-yún	
 Qingyuan (town)	庆远镇	慶遠鎮	Qìngyuǎnzhèn	Hing-yúhn-jan	
 Qingyuan (town)	清原镇	清原鎮	Qīngyuánzhèn	Chīng-yùhn-jan	
-Qingyuan (town)	清塬镇	清塬鎮	Qīngyuánzhèn		
+Qingyuan (town)	清塬镇	清塬鎮	Qīngyuánzhèn	Chīng-yùhn-jan	
 Qingyuan (town)	清源镇	清源鎮	Qīngyuánzhèn	Chīng-yùhn-jan	
 Qingyuan (town)	清苑镇	清苑鎮	Qīngyuànzhèn	Chīng-yún-jan	
 Qingyuan (town)	青原镇	青原鎮	Qīngyuánzhèn	Chīng-yùhn-jan	
@@ -28005,6 +28094,7 @@ Quanshan District	泉山区	泉山區	Quánshān Qū	Chyùhn-sāan Kēui
 Quanshui (town)	泉水镇	泉水鎮	Quánshuǐzhèn	Chyùhn-séui-jan	
 Quantang (town)	全塘镇	全塘鎮	Quántángzhèn	Chyùhn-tòhng-jan	
 Quantang (town)	泉塘镇	泉塘鎮	Quántángzhèn	Chyùhn-tòhng-jan	
+quantitative easing	量化宽松	量化寬鬆	liànghuà kuānsōng	leuhng-fa fūn-sūng	
 Quantock	匡托克	匡托克	Kuāngtuōkè	Hōng-tok-hāk	
 Quantock Hills	匡托克丘陵	匡托克丘陵	Kuāngtuōkè Qiūlíng	Hōng-tok-hāk Yāu-lìhng	
 quantum physics	量子物理学	量子物理學	liàngzǐ wùlǐxué	leuhng-jí maht-léih-hohk	
@@ -28144,6 +28234,7 @@ Rachmaninoff	拉赫玛尼诺夫	拉赫瑪尼諾夫	Lāhèmǎnínuòfū	Lāai-hā
 racing gang (on vehicles)	飞车党	飛車黨	fēichēdǎng	fēi-chē-dóng	
 racket (noise)	吵耳声	吵耳聲	chǎo'ěrshēng	cháau-yíh-sēng	
 Raddai	拉代	拉代	Lādài	Lāai-doih	ɹˈædaɪ
+radial basis function	径向基函数	徑向基函數	jìngxiàng jīhánshù	ging-heung gēi-hàahm-sou	
 radiant panel (for heating etc)	辐射板	輻射板	fúshèbǎn	fūk-seh-báan	
 radiator (for heating)	放热器	放熱器	fàngrèqì	fong-yiht-hei	ɹˈeɪdɪeɪtɚ
 radicalism (students etc)	激进主义	激進主義	jījìnzhǔyì	gīk-jeun-jyú-yih	
@@ -28429,6 +28520,7 @@ redirect	重定向	重定向	chóngdìngxiàng	chùhng-dihng-heung
 <comp.> redirect (HTTP 301 etc)	跳转	跳轉	tiàozhuǎn	tiu-jyún	
 red kite	赤鸢	赤鳶	chìyuān	chek-yūn	
 red knot (type of seabird)	红腹滨鹬	紅腹濱鷸	hóngfùbīnyù	hùhng-fūk-bān-neuht	
+red meat	红肉	紅肉	hóngròu	hùhng-yuhk	
 red mud material for redware pots	红泥	紅泥	hóngní	hùhng-nàih	
 red pepper	红甜椒	紅甜椒	hóng tiánjiāo	hùhng tìhm-jīu	
 Red Riding Hood (story)	小红帽	小紅帽	Xiǎohóngmào	Síu-hùhng-mouh	
@@ -30211,6 +30303,7 @@ send for; summon; call	传召	傳召	chuánzhào	chyùhn-jiuh
 send here	送来	送來	sònglái	sung-lòih	
 send him	差他	差他	chāi tā	chāai tā	
 send into	送进	送進	sòngjìn	sung-jeun	
+send in (to news etc); send from	发来	發來	fālái	faat-lòih	
 send it back (through the post)	寄回来	寄回來	jì huílai	gei wùih-lòih	
 send me	差我	差我	chāi wǒ	chāai ngóh	
 send (messenger etc)	差去	差去	chāiqu	chāai-heui	
@@ -30453,7 +30546,7 @@ shalal	沙拉勒	沙拉勒	Shālālè	Sā-lāai-lahk
 Shala (lake)	沙拉湖	沙拉湖	Shālāhú	Sā-lāai-wùh	
 Shalang (town)	沙琅镇	沙琅鎮	Shālángzhèn	Sā-lòhng-jan	
 Shala Township	沙拉乡	沙拉鄉	Shālā Xiāng	Sā-lāai Hēung	
-Shalenghe Township	沙塄河乡	沙塄河鄉	Shālénghé Xiāng		
+Shalenghe Township	沙塄河乡	沙塄河鄉	Shālénghé Xiāng	Sā-lìhng-hòh Hēung	
 Shaling (town)	沙岭镇	沙嶺鎮	Shālǐngzhèn	Sā-léhng-jan	
 Shalishah	沙利沙	沙利沙	Shālìshā	Sā-leih-sā	ʃˈæləʃæɹ
 Shali Township	沙梨乡	沙梨鄉	Shālí Xiāng	Sā-lèih Hēung	
@@ -31851,6 +31944,7 @@ sleep (Cantonese?)	瞓觉	瞓覺	shuìjiào	fan-gaau
 sleep disorders	睡眠障碍	睡眠障礙	shuìmián zhàng'ài	seuih-mìhn jeung-ngoih	
 sleep expert	睡眠专家	睡眠專家	shuìmián zhuānjiā	seuih-mìhn jyūn-gā	
 sleeping sickness	嗜睡症	嗜睡症	shìshuìzhèng	si-seuih-jing	
+sleeping tablet	安眠药片	安眠藥片	ānmián yàopiàn	ngōn-mìhn yeuhk-pin	
 sleepless; sleepless nights	不眠	不眠	bùmián	bāt-mìhn	
 sleep soundly (until dawn)	酣睡到天明	酣睡到天明	hānshuì dào tiānmíng	hàhm-seuih dou tīn-mìhng	
 sleep together; lie down with	同寝	同寢	tóngqǐn	tùhng-chám	
@@ -31925,6 +32019,9 @@ Smyrna	士每拿	士每拿	Shìměiná	Sih-múih-nàh	smˈəːnə
 Smyrna (old translation?)	示每拿	示每拿	Shìměiná	Sih-múih-nàh	
 (snake) charmers	念咒人	念咒人	niànzhòurén	nihm-jau-yàhn	
 snake plant	虎尾兰	虎尾蘭	hǔwěilán	fú-méih-làahn	
+<PRC> Snap-like card game	盖棉被	蓋棉被	Gàimiánbèi	Goi-mìhn-péih	
+<HK> Snap-like card game	衾棉胎	衾棉胎	Qīnmiántāi	Kām-mìhn-tōi	
+<PRC, netspeak> Snap-like card game with chat (or just the chat in similar spirit)	盖棉被纯聊天	蓋棉被純聊天	Gàimiánbèi chún liáotiān	Goi-mìhn-péih sèuhn lìuh-tīn	
 snap at; bite	噬咬	噬咬	shìyǎo	saih-ngáauh	
 Snape (Maltings in Aldeburgh)	斯内普	斯內普	Sīnèipǔ	Sī-noih-póu	
 snap open	爆开	爆開	bàokāi	baau-hōi	
@@ -31953,6 +32050,7 @@ Social Art Grade Exams (China's 10-grade music-exam system)	社会艺术水平�
 social centre (house with many visitors)	社交中心	社交中心	shèjiāo zhōngxīn	séh-gāau jūng-sām	
 social credit system	社会信用体系	社會信用體系	shèhuì xìnyòng tǐxì	séh-wúi seun-yuhng tái-haih	
 social culture (of students etc)	社交文化	社交文化	shèjiāo wénhuà	séh-gāau màhn-fa	
+social distancing	社交距离	社交距離	shèjiāo jùlí	séh-gāau kéuih-lèih	
 social enterprise	社会企业	社會企業	shèhuì qǐyè	séh-wúi kéih-yihp	
 social environment (of students etc)	社交环境	社交環境	shèjiāo huánjìng	séh-gāau wàahn-gíng	
 social equality	社会平等	社會平等	shèhuì píngděng	séh-wúi pìhng-dáng	
@@ -32202,6 +32300,7 @@ sound (to find the depth of water)	探探	探探	tàntan	taam-taam
 source code	源代码	源代碼	yuándàimǎ	yùhn-doih-máh	
 <comp.> source code listing	源代码清单	源代碼清單	yuándàimǎ qīngdān	yùhn-doih-máh chīng-dāan	
 <comp.> source code listing	源程序清单	源程序清單	yuánchéngxù qīngdān	yùhn-chìhng-jeuih chīng-dāan	
+source criticism	来源批判学	來源批判學	láiyuán pīpànxué	lòih-yùhn pāi-pun-hohk	
 sour cream	酸奶油	酸奶油	suānnǎiyóu	syūn-náaih-yàuh	
 sourdough	发酵的面团	發酵的面團	fājiào de miàntuán	faat-gaau dīk mihn-tyùhn	
 Sourou	苏乌	蘇烏	Sūwū	Sōu-wū	
@@ -32561,9 +32660,11 @@ Steve	史提夫	史提夫	Shǐtífū	Sí-tàih-fū
 Steve	史蒂夫	史蒂夫	Shǐdìfū	Sí-dai-fū	
 Steven	史提芬	史提芬	Shǐtífēn	Sí-tàih-fān	
 Steven	史蒂文	史蒂文	Shǐdìwén	Sí-dai-màhn	
+Steven	斯蒂文	斯蒂文	Sīdìwén	Sī-dai-màhn	
 Stevens	史提芬斯	史提芬斯	Shǐtífēnsī	Sí-tàih-fān-sī	
 Stevens	史蒂文斯	史蒂文斯	Shǐdìwénsī	Sí-dai-màhn-sī	
 Stevenson	史蒂文森	史蒂文森	Shǐdìwénsēn	Sí-dai-màhn-sām	
+Stevenson	斯蒂文森	斯蒂文森	Sīdìwénsēn	Sī-dai-màhn-sām	
 Stewart (surname)	斯图尔特	斯圖爾特	Sītú'ěrtè	Sī-tòuh-yíh-dahk	
 Stewart (surname, alternate translation)	史都华	史都華	Shǐdōuhuá	Sí-dōu-wàh	
 Steyer	施泰尔	施泰爾	Shītài'ěr	Sī-taai-yíh	
@@ -32866,6 +32967,7 @@ Sumer	苏美尔	蘇美爾	Sūměi'ěr	Sōu-méih-yíh
 Sumerian (language)	苏美尔语	蘇美爾語	Sūměi'ěryǔ	Sōu-méih-yíh-yúh	
 Sumerian (person/people)	苏美尔人	蘇美爾人	Sūměi'ěrrén	Sōu-méih-yíh-yàhn	
 Sumigou Township	苏密沟乡	蘇密溝鄉	Sūmìgōu Xiāng	Sōu-maht-kāu Hēung	
+summary (of main points)	要点总结	要點總結	yàodiǎn zǒngjié	yiu-dím júng-git	
 summer fruit	夏果	夏果	xiàguǒ	hah-gwó	
 Summer Olympics	夏奥会	夏奧會	Xià-Ào-huì	Hah-ou-wúi	
 Summit (surname)	萨米特	薩米特	Sàmǐtè	Saat-máih-dahk	
@@ -32916,7 +33018,7 @@ Sunxingcun (town)	孙杏村镇	孫杏村鎮	Sūnxìngcūnzhèn	Syūn-hahng-chyū
 Sunxi River	笋溪河	筍溪河	Sǔnxī Hé	Séun-kāi Hòh	
 Sunying Township	孙营乡	孫營鄉	Sūnyíng Xiāng	Syūn-yìhng Hēung	
 Sunyuan (town)	孙园镇	孫園鎮	Sūnyuánzhèn	Syūn-yùhn-jan	
-Sunyuan (town)	孙塬镇	孫塬鎮	Sūnyuánzhèn		
+Sunyuan (town)	孙塬镇	孫塬鎮	Sūnyuánzhèn	Syūn-yùhn-jan	
 Sunzhao (town)	孙召镇	孫召鎮	Sūnzhàozhèn	Syūn-jiuh-jan	
 Sunzhen (town)	孙镇镇	孫鎮鎮	Sūnzhènzhèn	Syūn-jan-jan	
 Sunzhuang Township	孙庄乡	孫莊鄉	Sūnzhuāng Xiāng	Syūn-jōng Hēung	
@@ -32956,12 +33058,16 @@ supplementary investigation report	补查重报	補查重報	bǔcháchóngbào	b
 supplementary or postsecondary education option	升学方案	升學方案	shēngxué fāng'àn	sīng-hohk fōng-ngon	
 supplementary tutoring (outside school)	课外补习	課外補習	kèwài bǔxí	fo-ngoih bóu-jaahp	
 supplement (material)	补充资料	補充資料	bǔchōng zīliào	bóu-chūng jī-líu	
+support Hubei (in COVID19 pandemic)	援鄂	援鄂	yuán È	wùhn Ngohk	
 supporting advertisements (for WiFi etc)	赞助广告	贊助廣告	zànzhù guǎnggào	jaan-joh gwóng-gou	
 support leg (of equipment)	桩腿	樁腿	zhuāng tuǐ	jōng téui	
 support personnel	支援人员	支援人員	zhīyuán rényuán	jī-wùhn yàhn-yùhn	
 support team; support system (for depression etc)	救援团队	救援團隊	jiùyuán tuánduì	gau-wùhn tyùhn-deuih	
 support team (of social media fans)	后援团	后援團	hòuyuántuán	hauh-wùhn-tyùhn	
 support the Qing and destroy foreigners (Boxer Rebellion phrase 1898)	扶清灭洋	扶清滅洋	fú Qīng miè yáng	fùh Chīng miht yèuhng	
+support vector classifier	支持向量分类器	支持向量分類器	zhīchí xiàngliàng fēnlèiqì	jī-chìh heung-leuhng fān-leuih-hei	
+support vector (in SVM etc)	支持向量	支持向量	zhīchí xiàngliàng	jī-chìh heung-leuhng	
+support vector machine; SVM	支持向量机	支持向量機	zhīchí xiàngliàng jī	jī-chìh heung-leuhng gēi	
 support (with pillars etc, in architecture)	承托	承托	chéngtuō	sìhng-tok	
 Supreme Court	大法院	大法院	Dà Fǎyuàn	Daaih Faat-yún	
 Supreme One; Majesty	至尊者	至尊者	Zhìzūnzhě	Ji-jyūn-jé	
@@ -33315,6 +33421,7 @@ Tajiki (language)	塔吉克语	塔吉克語	Tǎjíkèyǔ	Taap-gāt-hāk-yúh
 Tajikistan	塔吉克	塔吉克	Tǎjíkè	Taap-gāt-hāk	
 Tajikistan	塔吉克斯坦	塔吉克斯坦	Tǎjíkèsītǎn	Taap-gāt-hāk-sī-táan	
 Taj Mahal	泰姬陵	泰姬陵	Tàijīlíng	Taai-gēi-lìhng	
+Tajon	塔永	塔永	Tǎyǒng	Taap-wíhng	
 Takashima (city)	高岛市	高島市	Gāodǎo Shì	Gōu-dóu Síh	
 take; capture	掠走	掠走	lüèzǒu	leuhk-jáu	
 take a big step (fig./lit.)	迈出一大步	邁出一大步	màichū yī dà bù	maaih-chēut yāt daaih bouh	
@@ -34813,6 +34920,7 @@ totally blind	完全失明	完全失明	wánquán shīmíng	yùhn-chyùhn sāt-m
 totally unjust (?)	不公不正	不公不正	bùgōng-bùzhèng	bāt-gūng-bāt-jing	
 total portion (in pie charts etc)	共占	共占	gòngzhàn	guhng-jim	
 tote (Greek word)	托特	托特	tuōtè	tok-dahk	tˈəʊt
+to tell the truth	说实话	說實話	shuō shíhuà	syut saht-wah	
 totem pole	图腾柱	圖騰柱	túténg zhù	tòuh-tàhng chyúh	
 to the best of our ability	尽己所能	盡己所能	jìnjǐsuǒnéng	jeuhn-géi-só-nàhng	
 to the ends of the earth	直到地极	直到地極	zhídào dìjí	jihk-dou deih-gihk	
@@ -34892,6 +35000,7 @@ trade secrets	商业机密	商業機密	shāngyè jīmì	sēung-yihp gēi-maht
 trading in the stock market	股票买卖	股票買賣	gǔpiào mǎimài	gú-piu máaih-maaih	
 trading volume	交易量	交易量	jiāoyìliàng	gāau-yihk-leuhng	
 trading volume	交易额	交易額	jiāoyì'é	gāau-yihk-ngaahk	
+traditio-historical criticism	传统历史批判学	傳統歷史批判學	chuántǒng lìshǐ pīpànxué	chyùhn-túng lihk-sí pāi-pun-hohk	
 traditional church	传统教会	傳統教會	chuántǒng jiàohuì	chyùhn-túng gaau-wúi	
 traditional incandescent (light)bulbs	传统的白炽灯	傳統的白熾燈	chuántǒng de báichìdēng	chyùhn-túng dīk baahk-chi-dāng	
 traditional script edition	繁体字版	繁體字版	fántǐzìbǎn	fàahn-tái-jih-báan	
@@ -35045,6 +35154,7 @@ truffle (food)	松露	松露	sōnglù	chùhng-louh
 Trujillo	特鲁希略	特魯希略	Tèlǔxīlüè	Dahk-lóuh-hēi-leuhk	
 truly isn't	并没有	並沒有	bìng méiyǒu	bihng muht-yáuh	
 truly not know	并不知道	並不知道	bìng bù zhīdào	bihng bāt jī-dou	
+<TW/netspeak?> Trump	川普	川普	Chuānpǔ	Chyūn-póu	
 trumpet player; trumpeter	小号手	小號手	xiǎohàoshǒu	síu-houh-sáu	
 Trump (surname)	特朗普	特朗普	Tèlǎngpǔ	Dahk-lóhng-póu	
 trust company (Japanese version)	信讬银行	信託銀行	xìntuō yínháng	seun-tok ngàhn-hòhng	
@@ -35111,7 +35221,7 @@ Tudor (surname)	都铎	都鐸	Dōuduó	Dōu-dohk
 Tuen Mun District (HK)	屯门区	屯門區	Túnmén Qū	Tyùhn-mùhn Kēui	
 Tueti	图埃斯	圖埃斯	Tú'āisī	Tòuh-āai-sī	
 Tugou Township	土沟乡	土溝鄉	Tǔgōu Xiāng	Tóu-kāu Hēung	
-Tuguanya (town)	土关垭镇	土關埡鎮	Tǔguānyāzhèn		
+Tuguanya (town)	土关垭镇	土關埡鎮	Tǔguānyāzhèn	Tóu-gwāan-a-jan	
 Tuguegarao	土格加劳	土格加勞	Tǔgéjiāláo	Tóu-gaak-gā-lòuh	
 Tuhe Township	图河乡	圖河鄉	Túhé Xiāng	Tòuh-hòh Hēung	
 tuhu (huqin instrument played in some southern areas)	土胡	土胡	tǔhú	tóu-wùh	
@@ -35353,6 +35463,7 @@ unable to do as much as one would like	心有余而力不足	心有余而力不�
 unable to drive away	赶不走	趕不走	gǎn bu zǒu	gón bāt jáu	
 unable to endure	忍不了	忍不了	rěnbùliǎo	yán-bāt-líuh	
 unable to help	帮不了	幫不了	bāngbùliao	bōng-bāt-líuh	
+unable to hide from; unable to escape	躲不过	躲不過	duǒbuguò	dó-bāt-gwo	
 unable to lift	举不起	舉不起	jǔbùqǐ	géui-bāt-héi	
 unable to lift	举不起来	舉不起來	jǔbùqǐlai	géui-bāt-héi-lòih	
 unable to make ends meet	入不敷支	入不敷支	rùbù fūzhī	yahp-bāt fū-jī	
@@ -35495,6 +35606,7 @@ unnamed (person)	不知名	不知名	bù zhīmíng	bāt jī-mìhng
 Unni	乌尼	烏尼	Wūní	Wū-nèih	ˈʌnaɪ
 unofficial (old translation?)	非官式	非官式	fēiguānshì	fēi-gūn-sīk	
 Uno (name)	乌诺	烏諾	Wūnuò	Wū-nohk	
+unorthodox strategy	不按套路出牌	不按套路出牌	bù àn tàolù chūpái	bāt on tou-louh chēut-pàaih	
 unplanned pregnancy	意外怀孕	意外懷孕	yìwài huáiyùn	yi-ngoih wàaih-yahn	
 unprotected(?)	不保	不保	bùbǎo	bāt-bóu	
 unread	未读	未讀	wèidú	meih-duhk	
@@ -35814,6 +35926,7 @@ Victor Mair	梅维恒	梅維恆	Méi Wéihéng	Mùih Wàih-hàhng
 Vida	蕙达	蕙達	Huìdá	Waih-daaht	
 video-making	视频制作	視頻制作	shìpín zhìzuò	sih-pàhn jai-jok	
 videoconferencing	视频会议	視頻會議	shìpín huìyì	sih-pàhn wuih-yíh	
+video game	视频游戏	視頻游戲	shìpín yóuxì	sih-pàhn yàuh-hei	
 Vieira	维埃拉	維埃拉	Wéi'āilā	Wàih-āai-lāai	
 Vienna	维也纳	維也納	Wéiyěnà	Wàih-yáh-naahp	vˌɪˈɛnə
 Vienna Lin (HK model)	连绮岚	連綺嵐	Lián Qǐlán	Lìhn Yí-làahm	
@@ -36156,7 +36269,7 @@ Wangtai (town)	望台镇	望台鎮	Wàngtáizhèn	Mohng-tòih-jan
 Wangtian (town)	望田镇	望田鎮	Wàngtiánzhèn	Mohng-tìhn-jan	
 Wangting (town)	望亭镇	望亭鎮	Wàngtíngzhèn	Mohng-tìhng-jan	
 Wangting Township	望亭乡	望亭鄉	Wàngtíng Xiāng	Mohng-tìhng Hēung	
-Wangtuan (town)	望疃镇	望疃鎮	Wàngtuǎnzhèn		
+Wangtuan (town)	望疃镇	望疃鎮	Wàngtuǎnzhèn	Mohng-téun-jan	
 Wangtun Township	汪屯乡	汪屯鄉	Wāngtún Xiāng	Wōng-tyùhn Hēung	
 Wangu (town)	万古镇	萬古鎮	Wàngǔzhèn	Maahn-gú-jan	
 Wangxian Township	望仙乡	望仙鄉	Wàngxiān Xiāng	Mohng-sīn Hēung	
@@ -36312,6 +36425,7 @@ Wayúu (people)	瓦尤人	瓦尤人	Wǎyóurén	Ngáh-yàuh-yàhn
 WCC (abbreviation for World Council of Churches)	基教协会	基教協會	Jījiào Xiéhuì	Gēi-gaau Hip-wúi	
 weak and often ill	体弱多病	體弱多病	tǐruòduōbìng	tái-yeuhk-dō-behng	
 weak nuclear force	弱核力	弱核力	ruòhélì	yeuhk-haht-lihk	
+weak person (elderly etc)	体弱者	體弱者	tǐruòzhě	tái-yeuhk-jé	
 wear as a badge etc	佩戴	佩戴	pèidài	pui-daai	
 wear (breastpiece)	佩上	佩上	pèishang	pui-séuhng	
 wear gold and jade (wear lots of jewelry)	披金戴玉	披金戴玉	pījīndàiyù	pēi-gām-daai-yuhk	
@@ -36587,7 +36701,7 @@ Wensu (county, in Xinjiang)	温宿县	溫宿縣	Wēnsù Xiàn	Wān-sūk Yún
 Wentang (town)	温塘镇	溫塘鎮	Wēntángzhèn	Wān-tòhng-jan	
 Wentang (town)	温汤镇	溫湯鎮	Wēntāngzhèn	Wān-tōng-jan	
 Wentian (town)	文田镇	文田鎮	Wéntiánzhèn	Màhn-tìhn-jan	
-Wentuan (town)	文疃镇	文疃鎮	Wéntuǎnzhèn		
+Wentuan (town)	文疃镇	文疃鎮	Wéntuǎnzhèn	Màhn-téun-jan	
 Wentzel	温策尔	溫策爾	Wēncè'ěr	Wān-chaak-yíh	
 Wenxiang (town)	温香镇	溫香鎮	Wēnxiāngzhèn	Wān-hēung-jan	
 Wenxi (county, in Shanxi)	闻喜县	聞喜縣	Wénxǐ Xiàn	Màhn-héi Yún	
@@ -36814,6 +36928,7 @@ winding route	东拐西拐	東拐西拐	dōngguǎixīguǎi	dūng-gwáai-sāi-gw�
 winding route	东转西转	東轉西轉	dōngzhuǎnxīzhuǎn	dūng-jyún-sāi-jyún	
 Windmill (surname)	温德米尔	溫德米爾	Wēndémǐ'ěr	Wān-dāk-máih-yíh	
 wind (of musical instrument)	吹奏类	吹奏類	chuīzòulèi	chēui-jau-leuih	
+window seat	靠窗座位	靠窗座位	kàochuāng zuòwèi	kaau-chēung joh-wái	
 window shopping	逛街购物	逛街購物	guàng jiē gòuwù	gwaahng gāai kau-maht	
 Windows operating system; Microsoft Windows	视窗操作系统	視窗操作系統	Shìchuāng cāozuò xìtǒng	Sih-chēung chōu-jok haih-túng	
 windshield	风窗玻璃	風窗玻璃	fēngchuāngbōli	fūng-chēung-bō-lēi	
@@ -37029,7 +37144,7 @@ would or wouldn't like	喜不喜欢	喜不喜歡	xǐ bu xǐhuan	héi bāt héi-f
 would or wouldn't like (when asking if someone would like something)	想不想	想不想	xiǎng bu xiǎng	séung bāt séung	
 wound by shooting (with arrows etc)	射伤	射傷	shèshāng	seh-sēung	
 wow!	哇塞	哇塞	wāsāi	wā-choi	
-wow! (neologism, vulgar in some contexts?)	哇噻	哇噻	wāsāi		
+wow! (neologism, vulgar in some contexts?)	哇噻	哇噻	wāsāi	wā-sāk	
 Woyang (county, in Anhui)	涡阳县	渦陽縣	Wōyáng Xiàn	Gwō-yèuhng Yún	
 Wo Yeung Shan (peak in HK)	禾秧山	禾秧山	Héyāng Shān	Wòh-yēung Sāan	
 Wozniak	沃兹尼亚克	沃茲尼亞克	Wòzīníyàkè	Yūk-jī-nèih-nga-hāk	
@@ -37151,6 +37266,7 @@ Wuguodian Township	五郭店乡	五郭店鄉	Wǔguōdiàn Xiāng	Ńgh-gwok-dim H
 Wuhai (in Inner Mongolia)	乌海	烏海	Wūhǎi	Wū-hói	
 Wuhai (in Inner Mongolia)	乌海市	烏海市	Wūhǎi Shì	Wū-hói Síh	
 Wuhan (in Hubei)	武汉市	武漢市	Wǔhàn Shì	Móuh-hon Síh	
+Wuhan pneumonia (old name for COVID19)	武汉肺炎	武漢肺炎	Wǔhàn fèiyán	Móuh-hon fai-yìhm	
 Wuhe (county, in Anhui)	五河县	五河縣	Wǔhé Xiàn	Ńgh-hòh Yún	
 Wuhe (town)	五和镇	五和鎮	Wǔhézhèn	Ńgh-wòh-jan	
 Wuhe (town)	五河镇	五河鎮	Wǔhézhèn	Ńgh-hòh-jan	
@@ -38869,7 +38985,7 @@ Yangtian Township	样田乡	樣田鄉	Yàngtián Xiāng	Yeuhng-tìhn Hēung
 Yangting (town)	羊亭镇	羊亭鎮	Yángtíngzhèn	Yèuhng-tìhng-jan	
 Yangtou (town)	羊头镇	羊頭鎮	Yángtóuzhèn	Yèuhng-tàuh-jan	
 Yangtouya Township	羊头崖乡	羊頭崖鄉	Yángtóuyá Xiāng	Yèuhng-tàuh-ngàaih Hēung	
-Yangtuan (town)	杨疃镇	楊疃鎮	Yángtuǎnzhèn		
+Yangtuan (town)	杨疃镇	楊疃鎮	Yángtuǎnzhèn	Yèuhng-téun-jan	
 Yangtun (town)	杨屯镇	楊屯鎮	Yángtúnzhèn	Yèuhng-tyùhn-jan	
 Yangtun Township	杨屯乡	楊屯鄉	Yángtún Xiāng	Yèuhng-tyùhn Hēung	
 Yanguan (town)	严关镇	嚴關鎮	Yánguānzhèn	Yìhm-gwāan-jan	
@@ -38996,7 +39112,7 @@ Yantian (town)	严田镇	嚴田鎮	Yántiánzhèn	Yìhm-tìhn-jan
 Yantian Township	晏田乡	晏田鄉	Yàntián Xiāng	Ngaan-tìhn Hēung	
 Yanting (county, in Sichuan)	盐亭县	鹽亭縣	Yántíng Xiàn	Yìhm-tìhng Yún	
 yantra (Sanskrit for instrument)	扬特拉	揚特拉	yángtèlā	yèuhng-dahk-lāai	
-Yantuan (town)	阎疃镇	閻疃鎮	Yántuǎnzhèn		
+Yantuan (town)	阎疃镇	閻疃鎮	Yántuǎnzhèn	Yìhm-téun-jan	
 Yanwanghu (town)	岩汪湖镇	岩汪湖鎮	Yánwānghúzhèn	Ngàahm-wōng-wùh-jan	
 Yanwan Township	岩湾乡	岩灣鄉	Yánwān Xiāng	Ngàahm-wāan Hēung	
 Yanweigang (town)	燕尾港镇	燕尾港鎮	Yànwěigǎngzhèn	Yin-méih-góng-jan	
@@ -39192,6 +39308,7 @@ Yichun (in Jiangxi)	宜春市	宜春市	Yíchūn Shì	Yìh-chēun Síh
 Yi County	义县	義縣	Yì Xiàn	Yih Yún	
 Yi County	易县	易縣	Yì Xiàn	Yih Yún	
 Yi County	黟县	黟縣	Yī Xiàn	Yī Yún	
+Yidan Prize (2016+)	一丹奖	一丹獎	Yīdān Jiǎng	Yāt-dāan Jéung	
 Yidan (town)	伊丹镇	伊丹鎮	Yīdānzhèn	Yī-dāan-jan	
 Yidao (town)	驿道镇	驛道鎮	Yìdàozhèn	Yihk-douh-jan	
 Yiddish (language)	意第绪语	意第緒語	Yìdìxùyǔ	Yi-daih-séuih-yúh	
@@ -39683,7 +39800,7 @@ Yuanshi (county, in Hebei)	元氏县	元氏縣	Yuánshì Xiàn	Yùhn-sih Yún
 Yuantan (town)	源潭镇	源潭鎮	Yuántánzhèn	Yùhn-tàahm-jan	
 Yuan Tiangang (like Nostradamus in Tang dynasty)	袁天罡	袁天罡	Yuán Tiāngāng	Yùhn Tīn-gōng	
 Yuantou (town)	源头镇	源頭鎮	Yuántóuzhèn	Yùhn-tàuh-jan	
-Yuantuan (town)	元疃镇	元疃鎮	Yuántuǎnzhèn		
+Yuantuan (town)	元疃镇	元疃鎮	Yuántuǎnzhèn	Yùhn-téun-jan	
 Yuanwu (town)	原武镇	原武鎮	Yuánwǔzhèn	Yùhn-móuh-jan	
 Yuanxiang (town)	远襄镇	遠襄鎮	Yuǎnxiāngzhèn	Yúhn-sēung-jan	
 Yuanyang (county, in Henan)	原阳县	原陽縣	Yuányáng Xiàn	Yùhn-yèuhng Yún	
@@ -39781,7 +39898,7 @@ Yueyaquan (town)	月牙泉镇	月牙泉鎮	Yuèyáquánzhèn	Yuht-ngàh-chyùhn-
 Yuezhangji (town)	岳张集镇	岳張集鎮	Yuèzhāngjízhèn	Ngohk-jēung-jaahp-jan	
 Yuezhao Yi Hui Miao Township	月照彝族回族苗族乡	月照彞族回族苗族鄉	Yuèzhào Yízú Huízú Miáozú Xiāng	Yuht-jiu Yìh-juhk Wùih-juhk Mìuh-juhk Hēung	
 Yuezhuang (town)	悦庄镇	悅莊鎮	Yuèzhuāngzhèn	Yuht-jōng-jan	
-Yufa (town)	榆垡镇	榆垡鎮	Yúfázhèn		
+Yufa (town)	榆垡镇	榆垡鎮	Yúfázhèn	Yùh-faht-jan	
 Yufeng District	鱼峰区	魚峰區	Yúfēng Qū	Yùh-fūng Kēui	
 Yufengshan (town)	玉峰山镇	玉峰山鎮	Yùfēngshānzhèn	Yuhk-fūng-sāan-jan	
 Yufeng (town)	玉凤镇	玉鳳鎮	Yùfèngzhèn	Yuhk-fuhng-jan	
@@ -39931,7 +40048,7 @@ Yury	尤里	尤里	Yóulǐ	Yàuh-léih
 Yushan County	玉山县	玉山縣	Yùshān Xiàn	Yuhk-sāan Yún	
 Yushan District	雨山区	雨山區	Yǔshān Qū	Yúh-sāan Kēui	
 Yushan (town)	峪山镇	峪山鎮	Yùshānzhèn	Yuhk-sāan-jan	
-Yushan (town)	嵛山镇	嵛山鎮	Yúshānzhèn		
+Yushan (town)	嵛山镇	嵛山鎮	Yúshānzhèn	Yùh-sāan-jan	
 Yushan (town)	玉山镇	玉山鎮	Yùshānzhèn	Yuhk-sāan-jan	
 Yushan (town)	禹山镇	禹山鎮	Yǔshānzhèn	Yúh-sāan-jan	
 Yushan (town)	虞山镇	虞山鎮	Yúshānzhèn	Yùh-sāan-jan	
