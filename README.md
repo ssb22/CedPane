@@ -58,6 +58,7 @@ Bosch is a trademark of Robert Bosch GMBH.
 CNN is a trademark of Cable News Network Inc.
 Cognac is a trademark which is held by France.
 Colgate is a trademark of the Colgate-Palmolive Company.
+Comcast is a trademark of Comcast Corporation.
 Dyson is a trademark of Dyson Technology Ltd.
 Electrolux is a trademark of Aktiebolaget Electrolux.
 Funai is a trademark of Funai Electric Co., Ltd.
