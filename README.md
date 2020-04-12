@@ -50,6 +50,7 @@ Accenture is a trademark of Accenture Global Services Ltd.
 Android is a trademark of Google LLC.
 Apache is a registered trademark of The Apache Software Foundation.
 Apple is a trademark of Apple Inc.
+AstraZeneca is a trademark of the AstraZeneca group of companies.
 Baidu is a trademark of Baidu Online Network Technology (Beijing) Co. Ltd.
 Bing is a registered trademark of Microsoft Corp.
 BitBucket is a trademark of Atlassian Pty Ltd.
@@ -90,6 +91,7 @@ Thermos is a trademark of Thermos LLC.
 Toshiba is a trademark of Kabushiki Kaisha Toshiba.
 Toshiba is a trademark of Tokyo Shibaura Denki Kabushiki Kaisha.
 Uber is a trademark of Uber Technologies, Inc.
+Walmart is a trademark and brand of Walmart Apollo, LLC.
 WeChat is a trademark of Tencent Holdings Limited.
 Wenlin is a trademark of Wenlin Institute, Inc. SPC.
 Whirlpool is a trademark of Whirlpool Properties, Inc.
