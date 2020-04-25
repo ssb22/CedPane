@@ -56,6 +56,7 @@ Bing is a registered trademark of Microsoft Corp.
 BitBucket is a trademark of Atlassian Pty Ltd.
 Bluetooth is a registered trademark held by the Bluetooth Special Interest Group.
 Bosch is a trademark of Robert Bosch GMBH.
+Cadillac is a trademark and/or registered trademark of General Motors LLC.
 CNN is a trademark of Cable News Network Inc.
 Cognac is a trademark which is held by France.
 Colgate is a trademark of the Colgate-Palmolive Company.

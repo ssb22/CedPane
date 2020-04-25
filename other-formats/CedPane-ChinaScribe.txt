@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2020-04-20
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2020-04-25
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -606,7 +606,7 @@
 埃克塞特 埃克塞特 [Ai1 ke4 se4 te4] /Exeter (Devon)/
 埃克森 埃克森 [Ai1 ke4 sen1] /Exxon/
 埃克特 埃克特 [Ai1 ke4 te4] /Eckert/
-埃拉 埃拉 [Ai1 la1] /Elá/
+埃拉 埃拉 [Ai1 la1] /Elá/Ella/
 埃拉爾多 埃拉尔多 [Ai1 la1 er3 duo1] /Heraldo/
 埃拉特 埃拉特 [Ai1 la1 te4] /Eilat/
 埃萊貝 埃莱贝 [Ai1 lai2 bei4] /Elegbe/
@@ -629,6 +629,7 @@
 埃里溫 埃里温 [Ai1 li3 wen1] /Yerevan/
 埃里希 埃里希 [Ai1 li3 xi1] /Erich/
 埃利 埃利 [Ai1 li4] /Elie/
+埃莉 埃莉 [Ai1 li4] /Ellie/
 埃利安娜 埃利安娜 [Ai1 li4 an1 na4] /Eliana/
 埃利奧特 埃利奥特 [Ai1 li4 ao4 te4] /Elliott/
 埃麗卡 埃丽卡 [Ai1 li4 ka3] /Erica/Erika/
@@ -2283,6 +2284,7 @@
 北淮淀鄉 北淮淀乡 [Bei3 huai2 dian4_Xiang1] /Beihuaidian Township/Township, Beihuaidian/
 北隍城鄉 北隍城乡 [Bei3 huang2 cheng2_Xiang1] /Beihuangcheng- Township/Township, Beihuangcheng-/
 北基伍 北基伍 [Bei3 ji1 wu3] /North Kivu/Kivu, North/
+北極群島 北极群岛 [Bei3 ji2_Qun2 dao3] /Arctic Archipelago/Archipelago, Arctic/
 北極鄉 北极乡 [Bei3 ji2_Xiang1] /Beiji Township/Township, Beiji/
 北極寒流 北极寒流 [Bei3 ji2_han2 liu2] /polar vortex/vortex, polar/
 北極氣團 北极气团 [Bei3 ji2_qi4 tuan2] /Arctic air mass/mass, Arctic air/
@@ -4906,6 +4908,7 @@
 德蒙福特 德蒙福特 [De2 meng2 fu2 te4] /De Montfort/Montfort, De/
 德蒙福特大學 德蒙福特大学 [De2 meng2 fu2 te4_Da4 xue2] /De Montfort University/Montfort University, De/
 德米爾吉 德米尔吉 [De2 mi3 er3 ji2] /Demirci/
+德米斯特爾 德米斯特尔 [De2 mi3 si1 te4 er3] /Demeester/
 德米特里 德米特里 [De2 mi3 te4 li3] /Demetrius (bishop of Alexandria)/
 德米特里 德米特里 [De2 mi3 te4 li3] /Dmitry/
 德米特里耶維奇 德米特里耶维奇 [De2 mi3 te4 li3 ye1 wei2 qi2] /Dmitriyevich/
@@ -7546,6 +7549,7 @@
 格里加拉什維利 格里加拉什维利 [Ge2 li3 jia1 la1 shi2 wei2 li4] /Grigalashvili/
 格里納普 格里纳普 [Ge2 li3 na4 pu3] /Greenup/
 格里森 格里森 [Ge2 li3 sen1] /Greeson/
+格里斯 格里斯 [Ge2 li3 si1] /Grise/
 格里斯巴赫 格里斯巴赫 [Ge2 li3 si1 ba1 he4] /Griesbach/
 格里斯沃爾德 格里斯沃尔德 [Ge2 li3 si1 wo4 er3 de2] /Griswold/
 格里特 格里特 [Ge2 li3 te4] /Gerrit/
@@ -8751,7 +8755,7 @@
 含族 含族 [Han2 zu2] /Hamites/
 含族人 含族人 [Han2 zu2 ren2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2020-04-20/this is version 2020-04-20, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2020-04-25/this is version 2020-04-25, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢濱區 汉滨区 [Han4 bin1_Qu1] /Hanbin (district, in Shaanxi)/
@@ -10439,6 +10443,7 @@
 基瑪 基玛 [Ji1 ma3] /Kimah/
 基瑪利雅 基玛利雅 [Ji1 ma3 li4 ya3] /Gemariah/
 基邁 基迈 [Ji1 mai4] /Chilmad/
+基米魯特 基米鲁特 [Ji1 mi3 lu3 te4] /Kimmirut/
 雞鳴鄉 鸡鸣乡 [Ji1 ming2_Xiang1] /Jiming Township/Township, Jiming/
 雞鳴驛鄉 鸡鸣驿乡 [Ji1 ming2 yi4_Xiang1] /Jimingyi Township/Township, Jimingyi/
 基抹 基抹 [Ji1 mo3] /Chemosh/
@@ -10664,6 +10669,7 @@
 紀德 纪德 [Ji4 de2] /Gide/
 季店鄉 季店乡 [Ji4 dian4_Xiang1] /Jidian Township/Township, Jidian/
 稷峰鎮 稷峰镇 [Ji4 feng1 zhen4] /Jifeng (town)/
+濟金紹爾 济金绍尔 [Ji4 jin1 shao4 er3] /Ziguinchor/
 季拉 季拉 [Ji4 la1] /Gerah/
 際聯鎮 际联镇 [Ji4 lian2 zhen4] /Jilian (town)/
 寄料鎮 寄料镇 [Ji4 liao4 zhen4] /Jiliao (town)/
@@ -11952,6 +11958,7 @@
 卡德萊茨 卡德莱茨 [Ka3 de2 lai2 ci2] /Kadlec/
 卡德瓦拉德 卡德瓦拉德 [Ka3 de2 wa3 la1 de2] /Cadwallader/
 卡迪夫 卡迪夫 [Ka3 di2 fu1] /Cardiff/
+卡迪拉克 卡迪拉克 [Ka3 di2 la1 ke4] /Cadillac (place)/
 卡蒂 卡蒂 [Ka3 di4] /Katty/
 卡蒂奧 卡蒂奥 [Ka3 di4 ao4] /Catío/
 卡第斯 卡第斯 [Ka3 di4 si1] /Cadiz/
@@ -12245,6 +12252,7 @@
 凱楚亞語 凯楚亚语 [Kai3 chu3 ya4 yu3] /Quechua (language)/
 凱達爾 凯达尔 [Kai3 da2 er3] /Kedar/
 凱登 凯登 [Kai3 deng1] /Heidrun/
+凱迪拉克 凯迪拉克 [Kai3 di2 la1 ke4] /Cadillac (car)/
 凱蒂 凯蒂 [Kai3 di4] /Ketie/Katie/Kati/
 凱法利尼亞 凯法利尼亚 [Kai3 fa3 li4 ni2 ya4] /Cephalonia/
 凱風網 凯风网 [Kai3 feng1 wang3] /Kaiwind (anticult website)/
@@ -12843,6 +12851,7 @@
 肯尼斯 肯尼斯 [Ken3 ni2 si1] /Kenneth/
 肯尼特 肯尼特 [Ken3 ni2 te4] /Kennett/
 肯涅利 肯涅利 [Ken3 nie4 li4] /Kennelly/
+肯普夫 肯普夫 [Ken3 pu3 fu1] /Kempf/
 肯普斯 肯普斯 [Ken3 pu3 si1] /Kemps/
 肯特 肯特 [Ken3 te4] /Kent/
 肯辛頓宮 肯辛顿宫 [Ken3 xin1 dun4_Gong1] /Kensington Palace/Palace, Kensington/
@@ -15097,6 +15106,7 @@
 蘆太太 芦太太 [Lu2_tai4 tai5] /Mrs Lu/
 盧先生 卢先生 [Lu2_xian1 sheng5] /Mr Lu/
 蘆先生 芦先生 [Lu2_xian1 sheng5] /Mr Lu/
+盧埃納 卢埃纳 [Lu2 ai1 na4] /Luena/
 盧安達 卢安达 [Lu2 an1 da2] /Rwanda (older translation)/
 盧安果 卢安果 [Lu2 an1 guo3] /Loango/
 盧安夏 卢安夏 [Lu2 an1 xia4] /Luanshya/
@@ -15865,6 +15875,7 @@
 馬爾瓦里語 马尔瓦里语 [Ma3 er3 wa3 li3 yu3] /Marwari (language)/
 馬爾溫 马尔温 [Ma3 er3 wen1] /Marvin/
 馬航 马航 [Ma3 Hang2] /Malaysia Airlines (short form)/Airlines, Malaysia (short form)/
+馬新 马新 [Ma3 Xin1] /Malaysia and Singapore/Singapore, Malaysia and/<abbr>/
 馬壩鎮 马坝镇 [Ma3 ba4 zhen4] /Maba (town)/
 馬蚌鄉 马蚌乡 [Ma3 bang4_Xiang1] /Mabang Township/Township, Mabang/
 馬鼻鎮 马鼻镇 [Ma3 bi2 zhen4] /Mabi (town)/
@@ -16221,6 +16232,7 @@
 馬薩特蘭 马萨特兰 [Ma3 sa4 te4 lan2] /Mazatlán/
 馬薩亞 马萨亚 [Ma3 sa4 ya4] /Masaya/
 馬塞爾 马塞尔 [Ma3 sai1 er3] /Marcel/
+瑪塞拉 玛塞拉 [Ma3 sai1 la1] /Marcela/
 瑪賽 玛赛 [Ma3 sai4] /Maasai/
 馬塞洛 马塞洛 [Ma3 sai4 luo4] /Marcelo/
 馬賽人 马赛人 [Ma3 sai4 ren2] /Masai/
@@ -16626,6 +16638,7 @@
 梅村鎮 梅村镇 [Mei2 cun1 zhen4] /Meicun (town)/
 梅德韋傑夫 梅德韦杰夫 [Mei2 de2 wei2 jie2 fu1] /Medwedew/
 梅登城堡 梅登城堡 [Mei2 deng1_Cheng2 bao3] /Maiden Castle/Castle, Maiden/
+梅迪恩 梅迪恩 [Mei2 di2 en1] /Madián/
 梅迪納 梅迪纳 [Mei2 di2 na4] /Medina/
 梅弗 梅弗 [Mei2 fu2] /Mavor/
 梅甘 梅甘 [Mei2 gan1] /Megan/
@@ -18460,6 +18473,7 @@
 帕鐵 帕铁 [Pa4 tie3] /Paltiel/
 帕維爾 帕维尔 [Pa4 wei2 er3] /Pavel/
 帕維烏 帕维乌 [Pa4 wei2 wu1] /Pawel/
+帕維亞 帕维亚 [Pa4 wei2 ya4] /Paiva/
 帕沃爾 帕沃尔 [Pa4 wo4 er3] /Pavol/
 帕西 帕西 [Pa4 xi1] /Pasi/
 帕夏 帕夏 [Pa4 xia4] /Pacha/
@@ -18589,6 +18603,7 @@
 佩德納萊斯 佩德纳莱斯 [Pei4 de2 na4 lai2 si1] /Pedernales/
 佩德森 佩德森 [Pei4 de2 sen1] /Pedersen/
 佩蒂納 佩蒂纳 [Pei4 di4 na4] /Petina/
+佩頓 佩顿 [Pei4 dun4] /Peyton/
 佩格羅 佩格罗 [Pei4 ge2 luo2] /Peguero/
 佩姬 佩姬 [Pei4 ji1] /Paqui/
 佩吉 佩吉 [Pei4 ji2] /Peggy/
@@ -22872,6 +22887,7 @@
 台灣海峽兩岸關系 台湾海峡两岸关系 [Tai2 wan1_Hai3 xia2_liang3 an4_guan1 xi5] /cross-strait relations (mainland|TW)/relations, cross-strait (mainland|TW)/
 台灣團結聯盟 台湾团结联盟 [Tai2 wan1_Tuan2 jie2_Lian2 meng2] /Taiwan Solidarity Union (political party)/Solidarity Union, Taiwan (political party)/
 台灣地區 台湾地区 [Tai2 wan1_di4 qu1] /Taiwan district/district, Taiwan/<PRC>/
+台灣杉 台湾杉 [Tai2 wan1_shan1] /Taiwania (type of cypress)/
 台灣省 台湾省 [Tai2 wan1 sheng3] /Taiwan province/province, Taiwan/
 臺灣語 台湾语 [Tai2 wan1 yu3] /Taiwanese Hokkien/Hokkien, Taiwanese/
 台語 台语 [Tai2 yu3] /Taiwanese language (Min)/language, Taiwanese (Min)/
@@ -28339,6 +28355,7 @@
 伊弗他 伊弗他 [Yi1 fu2 ta1] /Iphtah/
 伊富高 伊富高 [Yi1 fu4 gao1] /Ifugao/
 伊富高語 伊富高语 [Yi1 fu4 gao1 yu3] /Ifugao (language)/
+伊蓋盧依特 伊盖卢依特 [Yi1 gai4 lu2 yi1 te4] /Iqaluit/
 伊甘加 伊甘加 [Yi1 gan1 jia1] /Iganga/
 伊戈爾 伊戈尔 [Yi1 ge1 er3] /Igor/
 伊戈列維奇 伊戈列维奇 [Yi1 ge1 lie4 wei2 qi2] /Igorevich/
@@ -30472,6 +30489,8 @@
 中國朝鮮語 中国朝鲜语 [Zhong1 guo2_Chao2 xian3 yu3] /Chinese Korean (Korean as spoken in Heilongjiang etc)/Korean, Chinese (Korean as spoken in Heilongjiang etc)/
 中國廣告協會 中国广告协会 [Zhong1 guo2_Guang3 gao4_Xie2 hui4] /China Advertising Association/Advertising Association, China/
 中國計算機學會 中国计算机学会 [Zhong1 guo2_Ji4 suan4 ji1_Xue2 hui4] /China Computer Federation/Computer Federation, China/
+中國教育和科研計算機網 中国教育和科研计算机网 [Zhong1 guo2_Jiao4 yu4_He2_Ke1 yan2_Ji4 suan4 ji1_Wang3] /China Education and Research Network/CERNET (Chinese JANET)/edu.cn/Education and Research Network, China/
+中國科技網 中国科技网 [Zhong1 guo2_Ke1 ji4_Wang3] /China Science and Technology Network (institutional ISP)/CSTNET/Science and Technology Network, China/
 中國科學技術大學 中国科学技术大学 [Zhong1 guo2_Ke1 xue2_Ji4 shu4_Da4 xue2] /University of Science and Technology of China/USTC/Science and Technology of China, University of/
 中國媒體評估委員會 中国媒体评估委员会 [Zhong1 guo2_Mei2 ti3_Ping2 gu1_Wei3 yuan2 hui4] /China Media Rating Council/Media Rating Council, China/
 中國民族報 中国民族报 [Zhong1 guo2_Min2 zu2_Bao4] /China Ethnic News/Ethnic News, China/
@@ -32183,6 +32202,7 @@
 儲水式 储水式 [chu3 shui3 shi4] /storage-type (of water heater)/
 儲物櫃 储物柜 [chu3 wu4 gui4] /locker/
 儲蓄賬戶 储蓄账户 [chu3 xu4_zhang4 hu4] /savings account/account, savings/
+儲蓄卡 储蓄卡 [chu3 xu4 ka3] /debit card/card, debit/<PRC>/
 儲液囊 储液囊 [chu3 ye4 nang2] /reservoir (in animal etc)/
 儲值額 储值额 [chu3 zhi2 e2] /prepaid credit/credit, prepaid/
 儲值金 储值金 [chu3 zhi2 jin1] /balance (on EasyCard etc)/
@@ -32889,6 +32909,7 @@
 定立 定立 [ding4 li4] /establish/set/
 錠盤 锭盘 [ding4 pan2] /whorl (in spinning)/
 訂票 订票 [ding4 piao4] /book tickets (less commonly-used version)/tickets, book (less commonly-used version)/
+定期扣款 定期扣款 [ding4 qi1_kou4 kuan3] /recurring payment (like standing order)/payment, recurring (like standing order)/
 訂情 订情 [ding4 qing2] /love-token(?)/
 定位功能 定位功能 [ding4 wei4_gong1 neng2] /geotagging (lit. location function)/
 釘穩 钉稳 [ding4 wen3] /nail (more) stably/stably, nail/
@@ -35513,9 +35534,11 @@
 口啞 口哑 [kou3 ya3] /speechless/mute/
 口譯證 口译证 [kou3 yi4 zheng4] /certified interpreter qualification/interpreter qualification, certified/
 扣帶 扣带 [kou4 dai4] /clip (on belt)/
+扣款 扣款 [kou4 kuan3] /debit funds/funds, debit/
 扣上手銬 扣上手铐 [kou4 shang5_shou3 kao4] /fasten handcuffs/handcuffs, fasten/
 扣式 扣式 [kou4 shi4] /button-type (battery etc)/
 扣鎖 扣锁 [kou4 suo3] /padlock/
+扣賬卡 扣账卡 [kou4 zhang4 ka3] /debit card/card, debit/<HK, Malaysia etc>/
 骷髏頭 骷髅头 [ku1 lou2 tou2] /skull/
 哭腔 哭腔 [ku1 qiang1] /sob/
 苦集滅道 苦集灭道 [ku3 ji2 mie4 dao4] /Four Noble Truths/Noble Truths, Four/<Budd.>/
@@ -36879,6 +36902,8 @@
 牽去 牵去 [qian1 qu5] /lead (an animal etc) to/
 千萬聖者 千万圣者 [qian1 wan4_sheng4 zhe3] /holy myriads/myriads, holy/
 牽網線 牵网线 [qian1 wang3 xian4] /Internet cable (to a house)/cable, Internet (to a house)/
+簽帳 签帐 [qian1 zhang4] /charge (to account)/
+簽帳金融卡 签帐金融卡 [qian1 zhang4_jin1 rong2 ka3] /debit card (Taiwan term)/card, debit (Taiwan term)/
 牽走 牵走 [qian1 zou3] /lead off (an animal etc)/
 錢的事 钱的事 [qian2_de5_shi4] /money matters/matters, money/
 前倚音 前倚音 [qian2_yi3 yin1] /before-beat (normal) grace note/grace note, before-beat/
@@ -38330,6 +38355,7 @@
 太拼了 太拼了 [tai4_pin1_le5] /awesome/<netspeak>/
 太深了 太深了 [tai4_shen1_le5] /very strong (deep, of addictions etc)/strong, very (deep, of addictions etc)/
 太晚了 太晚了 [tai4_wan3_le5] /too late/late, too/
+泰迪熊 泰迪熊 [tai4 di2_xiong2] /teddy bear/bear, teddy/<loan>/
 態度溫和 态度温和 [tai4 du5_wen1 he2] /mild temper/temper, mild/
 鈦金屬 钛金属 [tai4 jin1 shu3] /titanium/
 太空廢物 太空废物 [tai4 kong1_fei4 wu4] /space debris/space junk/debris, space/junk, space/
