@@ -82,6 +82,7 @@ Oracle is a registered trademark of Oracle Corporation and/or its affiliates.
 Oreo is a registered trademark of Intercontinental Great Brands LLC.
 Palmolive is a trademark of the Colgate-Palmolive Company.
 Pimsleur is a registered trademark of Beverly Pimsleur exclusively licensed to Simon &amp; Schuster.
+Porsche is a trademark of Dr. Ing. h.c.F. Porsche AG.
 Python is a trademark of the Python Software Foundation.
 QR Code is the UK registered trademark of Denso Corporation.
 Quaker is a trademark of The Quaker Oats Company.

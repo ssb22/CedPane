@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2020-04-29
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2020-04-30
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -10,6 +10,7 @@
 阿恩特 阿恩特 [A1 en1 te4] /Arndt/
 阿爾 阿尔 [A1 er3] /Al/
 阿爾安 阿尔安 [A1 er3 an1] /Aljian/
+阿爾恩特 阿尔恩特 [A1 er3 en1 te4] /Arndt/
 阿爾巴 阿尔巴 [A1 er3 ba1] /Alba/
 阿爾巴內塞 阿尔巴内塞 [A1 er3 ba1 nei4 sai1] /Albanese/
 阿爾巴尼亞語 阿尔巴尼亚语 [A1 er3 ba1 ni2 ya4 yu3] /Albanian (language)/
@@ -70,6 +71,7 @@
 阿爾卡蘇瓦什 阿尔卡苏瓦什 [A1 er3 ka3 su1 wa3 shi2] /Alcáçovas/
 阿爾凱奧斯 阿尔凯奥斯 [A1 er3 kai3 ao4 si1] /Alcaeus/
 阿爾坎塔拉 阿尔坎塔拉 [A1 er3 kan3 ta3 la1] /Alcantara/
+阿爾科塔 阿尔科塔 [A1 er3 ke1 ta3] /Alcorta/
 阿爾克墨涅 阿尔克墨涅 [A1 er3 ke4 mo4 nie4] /Alcmene/
 阿爾瑪 阿尔玛 [A1 er3 ma3] /Alma/
 阿爾瑪書 阿尔玛书 [A1 er3 ma3 shu1] /Alma (in Book of Mormon)/
@@ -309,6 +311,7 @@
 阿貢 阿贡 [A1 gong4] /Agon/
 阿谷 阿谷 [A1 gu3] /Akkub/
 阿瓜約 阿瓜约 [A1 gua1 yao1] /Aguayo/
+阿圭勒 阿圭勒 [A1 gui1 le4] /Aguilar/
 阿圭列斯 阿圭列斯 [A1 gui1 lie4 si1] /Arguelles/
 阿哈爾卡拉基 阿哈尔卡拉基 [A1 ha1 er3 ka3 la1 ji1] /Akhalkalaki/
 阿哈爾齊赫 阿哈尔齐赫 [A1 ha1 er3 qi2 he4] /Akhaltsikhe/
@@ -359,6 +362,7 @@
 阿卡得 阿卡得 [A1 ka3 de2] /Akkad/
 阿卡德語 阿卡德语 [A1 ka3 de2 yu3] /Akkadian (Babylonian language)/
 阿卡迪 阿卡迪 [A1 ka3 di2] /Arkady/
+阿卡夫 阿卡夫 [A1 ka3 fu1] /Acuff/
 阿卡卡 阿卡卡 [A1 ka3 ka3] /Akaka/
 阿卡拉 阿卡拉 [A1 ka3 la1] /Arcara/
 阿卡沙 阿卡沙 [A1 ka3 sha1] /Akasha/
@@ -419,6 +423,7 @@
 阿拉爾人 阿拉尔人 [A1 la1 er3 ren2] /person of Aral (in Xinjiang)/Aral, person of (in Xinjiang)/
 阿拉貝拉 阿拉贝拉 [A1 la1 bei4 la1] /Arabella/
 阿拉伯裔 阿拉伯裔 [A1 la1 bo2 yi4] /Arab (in descent)/
+阿拉德 阿拉德 [A1 la1 de2] /Allard/
 阿拉丁 阿拉丁 [A1 la1 ding1] /Aladdin/
 阿拉杜拉 阿拉杜拉 [A1 la1 du4 la1] /Aladura/
 阿拉甫鄉 阿拉甫乡 [A1 la1 fu3_Xiang1] /Alafu Township/Township, Alafu/
@@ -732,6 +737,7 @@
 阿皮亞 阿皮亚 [A1 pi2 ya4] /Apia (place in Samoa)/
 阿匹斯 阿匹斯 [A1 pi3 si1] /Apis/
 阿普爾 阿普尔 [A1 pu3 er3] /Apple (name)/
+阿普爾曼 阿普尔曼 [A1 pu3 er3 man4] /Appleman/
 阿普頓 阿普顿 [A1 pu3 dun4] /Upton/
 阿普費爾 阿普费尔 [A1 pu3 fei4 er3] /Apfel/
 阿普里爾 阿普里尔 [A1 pu3 li3 er3] /Aprille/
@@ -742,6 +748,7 @@
 阿奇 阿奇 [A1 qi2] /Archey/
 阿奇博爾德 阿奇博尔德 [A1 qi2 bo2 er3 de2] /Archibald/
 阿齊茲 阿齐兹 [A1 qi2 zi1] /Aziz/
+阿契貝 阿契贝 [A1 qi4 bei4] /Achebe/
 阿喬 阿乔 [A1 qiao2] /Achao/
 阿喬利語 阿乔利语 [A1 qiao2 li4 yu3] /Acholi (language)/
 阿瓊 阿琼 [A1 qiong2] /Arjun/
@@ -953,6 +960,7 @@
 埃爾加 埃尔加 [Ai1 er3 jia1] /Elgar/
 埃爾加特 埃尔加特 [Ai1 er3 jia1 te4] /Elgart/
 埃爾金 埃尔金 [Ai1 er3 jin1] /Elkind/
+埃爾金斯 埃尔金斯 [Ai1 er3 jin1 si1] /Elkins/
 埃爾卡納 埃尔卡纳 [Ai1 er3 ka3 na4] /Elkanah/
 埃爾坎 埃尔坎 [Ai1 er3 kan3] /Ercan/
 埃爾科 埃尔科 [Ai1 er3 ke1] /Elko/
@@ -1505,6 +1513,7 @@
 隘口鎮 隘口镇 [Ai4 kou3 zhen4] /Aikou (town)/
 愛拉 爱拉 [Ai4 la1] /Ella/
 艾拉 艾拉 [Ai4 la1] /Ella/
+艾拉德 艾拉德 [Ai4 la1 de2] /Allard/
 艾拉孔 艾拉孔 [Ai4 la1 kong3] /Alarcón/
 艾萊妮 艾莱妮 [Ai4 lai2 ni1] /Eleni/
 艾蘭 艾兰 [Ai4 lan2] /Aland (Kurt)/
@@ -2158,6 +2167,7 @@
 奧爾德斯 奥尔德斯 [Ao4 er3 de2 si1] /Aldous/
 奧爾登伯格 奥尔登伯格 [Ao4 er3 deng1 bo2 ge2] /Oldenberg/
 奧爾登布爾格 奥尔登布尔格 [Ao4 er3 deng1 bu4 er3 ge2] /Oldenbourg/
+奧爾登多夫 奥尔登多夫 [Ao4 er3 deng1 duo1 fu1] /Oldendorf/
 奧爾迪斯 奥尔迪斯 [Ao4 er3 di2 si1] /Aldis/
 奧爾蒂賈島 奥尔蒂贾岛 [Ao4 er3 di4 jia3 dao3] /Ortygia (island)/
 奧爾蒂斯 奥尔蒂斯 [Ao4 er3 di4 si1] /Ortiz/
@@ -2193,6 +2203,7 @@
 奧爾欣 奥尔欣 [Ao4 er3 xin1] /Allchin/
 奧匈帝國 奥匈帝国 [Ao4 Xiong1_Di4 guo2] /Austria-Hungary/
 奧巴 奥巴 [Ao4 ba1] /Oba/
+奧巴西 奥巴西 [Ao4 ba1 xi1] /Obasi/
 奧貝德 奥贝德 [Ao4 bei4 de2] /Obed/Ubaid/
 奧本 奥本 [Ao4 ben3] /Auburn/
 奧比 奥比 [Ao4 bi3] /Obi/
@@ -2255,6 +2266,7 @@
 奧多姆 奥多姆 [Ao4 duo1 mu3] /Odom/
 奧法 奥法 [Ao4 fa3] /Offa/
 奧菲 奥菲 [Ao4 fei1] /Aoife/Offie/
+奧菲爾德 奥菲尔德 [Ao4 fei1 er3 de2] /Offield/Orfield/
 奧菲拉 奥菲拉 [Ao4 fei1 la1] /Ofira/
 奧非拉 奥非拉 [Ao4 fei1 la1] /Ophir/
 奧菲利婭 奥菲利娅 [Ao4 fei1 li4 ya4] /Ofelia/Ophelia/
@@ -2264,10 +2276,12 @@
 奧夫雷貢城 奥夫雷贡城 [Ao4 fu1 lei2 gong4 cheng2] /Ciudad Obregón/Obregón, Ciudad/
 奧夫利 奥夫利 [Ao4 fu1 li4] /Offley/
 奧弗貝克 奥弗贝克 [Ao4 fu2 bei4 ke4] /Overbeck/
+奧弗頓 奥弗顿 [Ao4 fu2 dun4] /Overton/
 奧弗林 奥弗林 [Ao4 fu2 lin2] /Overlin/
 奧弗曼 奥弗曼 [Ao4 fu2 man4] /Offerman/
 奧弗涅 奥弗涅 [Ao4 fu2 nie4] /Auvergne/
 奧格爾 奥格尔 [Ao4 ge2 er3] /Ogle/
+奧格爾維 奥格尔维 [Ao4 ge2 er3 wei2] /Ogilvy/
 奧格本 奥格本 [Ao4 ge2 ben3] /Ogburn/
 奧格登 奥格登 [Ao4 ge2 deng1] /Ogden/
 奧格頓 奥格顿 [Ao4 ge2 dun4] /Ogden/
@@ -2370,6 +2384,7 @@
 奧利斯 奥利斯 [Ao4 li4 si1] /Aulis/
 奧莉斯 奥莉斯 [Ao4 li4 si1] /Oris (name)/
 奧利塔 奥利塔 [Ao4 li4 ta3] /Oleta/
+奧利特 奥利特 [Ao4 li4 te4] /Owlett/
 奧利娃 奥利娃 [Ao4 li4 wa2] /Oliva/
 奧利瓦 奥利瓦 [Ao4 li4 wa3] /Oliva/
 奧利瓦雷斯 奥利瓦雷斯 [Ao4 li4 wa3 lei2 si1] /Olivarez/
@@ -2443,6 +2458,7 @@
 奧挪 奥挪 [Ao4 nuo2] /Ono/
 奧諾拉托 奥诺拉托 [Ao4 nuo4 la1 tuo1] /Honorato/Onorato/
 奧帕拉 奥帕拉 [Ao4 pa4 la1] /Okpara/
+奧佩爾 奥佩尔 [Ao4 pei4 er3] /Oppel/
 奧佩爾特 奥佩尔特 [Ao4 pei4 er3 te4] /Oppelt/
 奧皮茨 奥皮茨 [Ao4 pi2 ci2] /Opitz/
 奧珀 奥珀 [Ao4 po4] /Opper/
@@ -2482,11 +2498,13 @@
 奧斯卡金像獎 奥斯卡金像奖 [Ao4 si1 ka3_jin1_xiang4_jiang3] /Oscar (prize)/
 奧斯卡里 奥斯卡里 [Ao4 si1 ka3 li3] /Oskari/
 奧斯克 奥斯克 [Ao4 si1 ke4] /Osk/
+奧斯利 奥斯利 [Ao4 si1 li4] /Owsley/
 奧斯陸 奥斯陆 [Ao4 si1 lu4] /Oslo/
 奧斯馬 奥斯马 [Ao4 si1 ma3] /Osma/
 奧斯曼 奥斯曼 [Ao4 si1 man4] /Ottoman/
 奧斯曼 奧斯曼 [Ao4 si1 man4] /Osman/
 奧斯曼亞文 奥斯曼亚文 [Ao4 si1 man4 ya4 wen2] /Osmanya (written language)/
+奧斯蒙德 奥斯蒙德 [Ao4 si1 meng3 de2] /Osmond/
 奧斯尼 奥斯尼 [Ao4 si1 ni2] /Ozni/
 奧思尼爾 奥思尼尔 [Ao4 si1 ni2 er3] /Othniel/
 奧斯坦德 奥斯坦德 [Ao4 si1 tan3 de2] /Ostend/
@@ -2494,6 +2512,7 @@
 奧斯特比 奥斯特比 [Ao4 si1 te4 bi3] /Ostby/
 奧斯特豪特 奥斯特豪特 [Ao4 si1 te4 hao2 te4] /Osterhout/
 奧斯特霍爾姆 奥斯特霍尔姆 [Ao4 si1 te4 huo4 er3 mu3] /Osterholm/
+奧斯特霍爾特 奥斯特霍尔特 [Ao4 si1 te4 huo4 er3 te4] /Osterholt/
 奧斯特蘭德 奥斯特兰德 [Ao4 si1 te4 lan2 de2] /Ostrander/
 奧斯特里 奥斯特里 [Ao4 si1 te4 li3] /Ostry/
 奧斯特魯達 奥斯特鲁达 [Ao4 si1 te4 lu3 da2] /Ostróda/
@@ -2547,6 +2566,7 @@
 奧維爾 奥维尔 [Ao4 wei2 er3] /Orwell/
 奧維德 奥维德 [Ao4 wei2 de2] /Ovid/
 奧維迪烏 奥维迪乌 [Ao4 wei2 di2 wu1] /Ovidiu/
+奧維斯 奥维斯 [Ao4 wei2 si1] /Orvis/
 奧維亞特 奥维亚特 [Ao4 wei2 ya4 te4] /Oviatt/
 奧維耶多 奥维耶多 [Ao4 wei2 ye1 duo1] /Oviedo/
 奧西安德爾 奥西安德尔 [Ao4 xi1 an1 de2 er3] /Osiander/
@@ -2820,6 +2840,7 @@
 巴里語 巴里语 [Ba1 li3 yu3] /Bari (language)/
 巴利 巴利 [Ba1 li4] /Beri/
 巴力 巴力 [Ba1 li4] /Baal/
+巴利埃特 巴利埃特 [Ba1 li4 ai1 te4] /Balliet/
 巴力比拉辛 巴力比拉辛 [Ba1 li4 bi3 la1 xin1] /Baal-perazim/
 巴力比利 巴力比利 [Ba1 li4 bi3 li4] /Baal-berith/
 巴力哈達 巴力哈达 [Ba1 li4 ha3 da2] /Baal-Hadad/
@@ -3400,6 +3421,7 @@
 保盧斯 保卢斯 [Bao3 lu2 si1] /Paullus/
 寶露 宝露 [Bao3 lu4] /Bolo (name of gorilla)/
 保羅 保罗 [Bao3 luo2] /Paul (Bible, and sometimes modern)/
+保羅齊 保罗齐 [Bao3 luo2 qi2] /Paolozzi/
 寶馬車 宝马车 [Bao3 ma3_che1] /BMW car/
 寶馬汽車 宝马汽车 [Bao3 ma3_qi4 che1] /BMW car/
 保內 保内 [Bao3 nei4] /Paone/
@@ -3417,7 +3439,7 @@
 寶山鄉 宝山乡 [Bao3 shan1_Xiang1] /Baoshan Township/Township, Baoshan/
 保山人 保山人 [Bao3 shan1 ren2] /person of Baoshan (in Yunnan)/Baoshan, person of (in Yunnan)/
 寶山鎮 宝山镇 [Bao3 shan1 zhen4] /Baoshan (town)/
-保時捷 保时捷 [Bao3 shi2 jie2] /Porsche/
+保時捷 保时捷 [Bao3 shi2 jie2] /Porsche (car)/
 保壽鎮 保寿镇 [Bao3 shou4 zhen4] /Baoshou (town)/
 寶塔區 宝塔区 [Bao3 ta3_Qu1] /Baota District/District, Baota/
 寶塔鄉 宝塔乡 [Bao3 ta3_Xiang1] /Baota Township/Township, Baota/
@@ -3476,6 +3498,7 @@
 鮑特爾 鲍特尔 [Bao4 te4 er3] /Boutelle/
 鮑特維尼克 鲍特维尼克 [Bao4 te4 wei2 ni2 ke4] /Botvinnik/
 鮑威爾 鲍威尔 [Bao4 wei1 er3] /Powell/
+鮑威爾斯 鲍威尔斯 [Bao4 wei1 er3 si1] /Powels/
 鮑峽鎮 鲍峡镇 [Bao4 xia2 zhen4] /Baoxia (town)/
 鮑墟鄉 鲍墟乡 [Bao4 xu1_Xiang1] /Baoxu Township/Township, Baoxu/
 鮑伊 鲍伊 [Bao4 yi1] /Bowie/
@@ -3809,6 +3832,7 @@
 貝洛蒂 贝洛蒂 [Bei4 luo4 di4] /Bellotti/
 貝洛塔 贝洛塔 [Bei4 luo4 ta3] /Berothath/
 貝洛特 贝洛特 [Bei4 luo4 te4] /Bellotti/
+貝納德 贝纳德 [Bei4 na4 de2] /Benard/
 貝納姆 贝纳姆 [Bei4 na4 mu3] /Baynham/
 貝納語 贝纳语 [Bei4 na4 yu3] /Bena (language)/
 貝南 贝南 [Bei4 nan2] /Benin (alternate translation)/
@@ -4153,6 +4177,7 @@
 比伊斯 比伊斯 [Bi3 yi1 si1] /Buis/
 比伊特 比伊特 [Bi3 yi1 te4] /Birgit/
 比約恩 比约恩 [Bi3 yue1 en1] /Björn/
+比約克曼 比约克曼 [Bi3 yue1 ke4 man4] /Bjorkman/
 比澤 比泽 [Bi3 ze2] /Bezer/
 彼澤森 彼泽森 [Bi3 ze2 sen1] /Pedersen/
 畢太太 毕太太 [Bi4_tai4 tai5] /Mrs Bi/
@@ -4306,6 +4331,8 @@
 波爾卡 波尔卡 [Bo1 er3 ka3] /Borka/
 波爾克 波尔克 [Bo1 er3 ke4] /Polk/
 波爾曼 波尔曼 [Bo1 er3 man4] /Polman/
+波爾舍 波尔舍 [Bo1 er3 she4] /Porsche (name)/
+波爾斯 波尔斯 [Bo1 er3 si1] /Powles/
 波爾泰拉 波尔泰拉 [Bo1 er3 tai4 la1] /Portella/
 波爾坦斯基 波尔坦斯基 [Bo1 er3 tan3 si1 ji1] /Boltanski/
 波爾圖 波尔图 [Bo1 er3 tu2] /Porto/
@@ -4318,6 +4345,7 @@
 波茨坦 波茨坦 [Bo1 ci2 tan3] /Potsdam/
 波德瑞克 波德瑞克 [Bo1 de2 rui4 ke4] /Baldrick/
 波蒂 波蒂 [Bo1 di4] /Birdie (name)/
+波蒂厄斯 波蒂厄斯 [Bo1 di4 e4 si1] /Porteus/
 波頓 波顿 [Bo1 dun4] /Burton (name)/
 波多野 波多野 [Bo1 duo1 ye3] /Hanato/
 波菲里奧 波菲里奥 [Bo1 fei1 li3 ao4] /Porfirio/
@@ -4335,24 +4363,31 @@
 波季利西基 波季利西基 [Bo1 ji4 li4 xi1 ji1] /Podilskyi/
 波金 波金 [Bo1 jin1] /Bochim/
 波拉德 波拉德 [Bo1 la1 de2] /Pollard/
+波拉蒂 波拉蒂 [Bo1 la1 di4] /Polatty/
 波拉克 波拉克 [Bo1 la1 ke4] /Pollack/
 波拉珊 波拉珊 [Bo1 la1 shan1] /Borashan/
 波拉斯 波拉斯 [Bo1 la1 si1] /Porras/
 波拉特 波拉特 [Bo1 la1 te4] /Porath/
+波萊蒂 波莱蒂 [Bo1 lai2 di4] /Poletti/
 波萊特 波莱特 [Bo1 lai2 te4] /Paulette/
 波蘭籍 波兰籍 [Bo1 lan2 ji2] /Polish (nationality)/
 波蘭斯基 波兰斯基 [Bo1 lan2 si1 ji1] /Polansky/
 波蘭語 波兰语 [Bo1 lan2 yu3] /Polish (language)/
 波勒 波勒 [Bo1 le4] /Pohl (surname)/
+波雷特 波雷特 [Bo1 lei2 te4] /Porrett/
+波里爾 波里尔 [Bo1 li3 er3] /Poirier/
+波里特 波里特 [Bo1 li3 te4] /Porritt/
 波利 波利 [Bo1 li4] /Polly/
 波立 波立 [Bo1 li4] /Polly/
 波莉 波莉 [Bo1 li4] /Poli/
 波麗安娜 波丽安娜 [Bo1 li4 an1 na4] /Pollyanna/
 波利卡普 波利卡普 [Bo1 li4 ka3 pu3] /Polycarp/
+波利克 波利克 [Bo1 li4 ke4] /Pollich/
 波利娜 波利娜 [Bo1 li4 na4] /Polina/
 波利尼西亞 波利尼西亚 [Bo1 li4 ni2 xi1 ya4] /Polynesia/
 波利斯 波利斯 [Bo1 li4 si1] /Pollux/
 波利特 波利特 [Bo1 li4 te4] /Polite (name)/
+玻利瓦爾 玻利瓦尔 [Bo1 li4 wa3 er3] /Bolivar/
 波利希斯托 波利希斯托 [Bo1 li4 xi1 si1 tuo1] /Polyhistor/
 波利亞爾內 波利亚尔内 [Bo1 li4 ya4 er3 nei4] /Polyarny/
 波利亞爾內市 波利亚尔内市 [Bo1 li4 ya4 er3 nei4_Shi4] /Polyarny city/city, Polyarny/
@@ -4404,11 +4439,15 @@
 波索爾特加 波索尔特加 [Bo1 suo3 er3 te4 jia1] /Posoltega/
 波他薩 波他萨 [Bo1 ta1 sa4] /Balthasar/
 波塘鎮 波塘镇 [Bo1 tang2 zhen4] /Botang (town)/
+波特菲爾德 波特菲尔德 [Bo1 te4 fei1 er3 de2] /Porterfield/
+波特克 波特克 [Bo1 te4 ke4] /Poetker/
 波特拉 波特拉 [Bo1 te4 la1] /Portela/
 波特蘭石 波特兰石 [Bo1 te4 lan2 shi2] /Portland stone/stone, Portland/
+波特納 波特纳 [Bo1 te4 na4] /Portner/
 波特奇 波特奇 [Bo1 te4 qi2] /Pottage/
 波提乏 波提乏 [Bo1 ti2 fa2] /Potiphar/
 波提非拉 波提非拉 [Bo1 ti2 fei1 la1] /Potiphera/
+波托卡雷羅 波托卡雷罗 [Bo1 tuo1 ka3 lei2 luo2] /Portocarrero/
 波托西 波托西 [Bo1 tuo1 xi1] /Potos/
 波文 波文 [Bo1 wen2] /Bowen/
 波西 波西 [Bo1 xi1] /Posy/
@@ -4424,6 +4463,7 @@
 波伊斯 波伊斯 [Bo1 yi1 si1] /Boice/
 波義耳 波义耳 [Bo1 yi4 er3] /Boyle/
 玻意耳 玻意耳 [Bo1 yi4 er3] /Boyle (surname)/
+波因塞特 波因塞特 [Bo1 yin1 sai4 te4] /Poinsett/
 波因特 波因特 [Bo1 yin1 te4] /Poynter/
 播植鎮 播植镇 [Bo1 zhi2 zhen4] /Bozhi (town)/
 播州區 播州区 [Bo1 zhou1_Qu1] /Bozhou District/District, Bozhou/
@@ -4465,6 +4505,7 @@
 伯爾尼納 伯尔尼纳 [Bo2 er3 ni2 na4] /Bernina/
 伯爾齊 伯尔齐 [Bo2 er3 qi2] /Bălţi/
 博爾羌吉鎮 博尔羌吉镇 [Bo2 er3 qiang1 ji2 zhen4] /Bo'erqiangji (town)/
+伯爾薩 伯尔萨 [Bo2 er3 sa4] /Parsa/
 博爾索納羅 博尔索纳罗 [Bo2 er3 suo3 na4 luo2] /Bolsonaro/
 博爾塔拉 博尔塔拉 [Bo2 er3 ta3 la1] /Bortala/
 博爾特 博尔特 [Bo2 er3 te4] /Boldt/
@@ -4733,6 +4774,7 @@
 博托爾夫 博托尔夫 [Bo2 tuo1 er3 fu1] /Botolf/Botolph/
 伯托尼 伯托尼 [Bo2 tuo1 ni2] /Bertoni/
 博瓦 博瓦 [Bo2 wa3] /Bova/
+伯瓦爾 伯瓦尔 [Bo2 wa3 er3] /Powell/
 博望區 博望区 [Bo2 wang4_Qu1] /Bowang District/District, Bowang/
 博望鎮 博望镇 [Bo2 wang4 zhen4] /Bowang (town)/
 博維 博维 [Bo2 wei2] /Bovey/Bovie/
@@ -4864,6 +4906,7 @@
 布拉尼米爾 布拉尼米尔 [Bu4 la1 ni2 mi3 er3] /Branimir/
 布拉薩 布拉萨 [Bu4 la1 sa4] /Bourassa/
 布拉斯 布拉斯 [Bu4 la1 si1] /Blas/
+布拉斯敦 布拉斯敦 [Bu4 la1 si1 dun1] /Braxton/
 布拉斯科 布拉斯科 [Bu4 la1 si1 ke1] /Blasco/Blasko/
 布拉特利 布拉特利 [Bu4 la1 te4 li4] /Bratley/
 布拉瓦 布拉瓦 [Bu4 la1 wa3] /Brava/
@@ -4893,6 +4936,7 @@
 布萊克斯通 布莱克斯通 [Bu4 lai2 ke4 si1 tong1] /Blackstone/
 布萊克韋爾 布莱克韦尔 [Bu4 lai2 ke4 wei2 er3] /Blackwell/
 布萊里姆 布莱里姆 [Bu4 lai2 li3 mu3] /Blerim/
+布萊洛克 布莱洛克 [Bu4 lai2 luo4 ke4] /Blalock/
 不來梅 不来梅 [Bu4 lai2 mei2] /Bremen/
 布萊米 布莱米 [Bu4 lai2 mi3] /Blamey/
 布萊姆 布莱姆 [Bu4 lai2 mu3] /Bram/
@@ -4929,6 +4973,7 @@
 布蘭恩 布兰恩 [Bu4 lan2 en1] /Bran/
 布蘭達 布兰达 [Bu4 lan2 da2] /Brenda/
 布蘭德 布兰德 [Bu4 lan2 de2] /Brand (surname)/
+布蘭德爾 布兰德尔 [Bu4 lan2 de2 er3] /Brandl/
 布蘭登 布兰登 [Bu4 lan2 deng1] /Brandon (given name)/
 布蘭登堡 布兰登堡 [Bu4 lan2 deng1 bao3] /Brandenburg (old translation)/
 布蘭迪 布兰迪 [Bu4 lan2 di2] /Brandie/
@@ -5204,6 +5249,7 @@
 布托 布托 [Bu4 tuo1] /Buteau/Butow/
 布拖縣 布拖县 [Bu4 tuo1_Xian4] /Butuo (county, in Sichuan)/
 布瓦洛 布瓦洛 [Bu4 wa3 luo4] /Boileau/
+布維爾 布维尔 [Bu4 wei2 er3] /Bouvier/
 步文鎮 步文镇 [Bu4 wen2 zhen4] /Buwen (town)/
 布希 布希 [Bu4 xi1] /Bushe/Bushey/
 布西 布西 [Bu4 xi1] /Buzi/
@@ -6978,6 +7024,7 @@
 德里安 德里安 [De2 li3 an1] /Derian/Derrian/
 德里達 德里达 [De2 li3 da2] /Derrida/
 德里菲爾德 德里菲尔德 [De2 li3 fei1 er3 de2] /Derifield/
+德里弗 德里弗 [De2 li3 fu2] /Driver (name)/
 德里郡 德里郡 [De2 li3 jun4] /County Derry/Derry, County/
 德里克 德里克 [De2 li3 ke4] /Derek/
 德里克森 德里克森 [De2 li3 ke4 sen1] /Derrickson/
@@ -7444,10 +7491,12 @@
 蒂安娜 蒂安娜 [Di4 an1 na4] /Tiana/Tianna/
 蒂恩 蒂恩 [Di4 en1] /Teehan/
 蒂爾 蒂尔 [Di4 er3] /Teer/Tille/
+蒂爾伯格 蒂尔伯格 [Di4 er3 bo2 ge2] /Tilberg/
 蒂爾達 蒂尔达 [Di4 er3 da2] /Tilda/
 蒂爾頓 蒂尔顿 [Di4 er3 dun4] /Tilton/
 蒂爾加滕 蒂尔加滕 [Di4 er3 jia1 teng2] /Tiergarten/
 蒂爾曼 蒂尔曼 [Di4 er3 man4] /Tilman/
+蒂爾尼 蒂尔尼 [Di4 er3 ni2] /Tierney/
 蒂爾帕克 蒂尔帕克 [Di4 er3 pa4 ke4] /Tirpak/
 蒂爾特 蒂尔特 [Di4 er3 te4] /Tirtha/
 第歐根尼 第欧根尼 [Di4 ou1 gen1 ni2] /Diogenes/
@@ -7464,6 +7513,7 @@
 蒂伯 蒂伯 [Di4 bo2] /Tibor/
 蒂博 蒂博 [Di4 bo2] /Thibault/Thibaut/
 蒂博爾 蒂博尔 [Di4 bo2 er3] /Tibor/
+蒂布爾 蒂布尔 [Di4 bu4 er3] /Tibble/
 蒂德 蒂德 [Di4 de2] /Tiede/
 蒂德曼 蒂德曼 [Di4 de2 man4] /Tidemand/
 的的喀喀湖 的的喀喀湖 [Di4 di4 ka1 ka1 hu2] /Lake Titicaca/Titicaca, Lake/
@@ -7483,6 +7533,7 @@
 帝國理工學院 帝国理工学院 [Di4 guo2_Li3 gong1_Xue2 yuan4] /Imperial College London/ic.ac.uk/College London, Imperial/
 蒂華納 蒂华纳 [Di4 hua2 na4] /Tijuana/
 蒂姬 蒂姬 [Di4 ji1] /Tiki/
+蒂加登 蒂加登 [Di4 jia1 deng1] /Teagarden/Teegarden/
 蒂庫納語 蒂库纳语 [Di4 ku4 na4 yu3] /Ticuna (language)/
 蒂拉 蒂拉 [Di4 la1] /Tierra/Tyra/
 蒂朗 蒂朗 [Di4 lang3] /Tiran/
@@ -7499,12 +7550,14 @@
 蒂米 蒂米 [Di4 mi3] /Timmy/
 地米斯托克利 地米斯托克利 [Di4 mi3 si1 tuo1 ke4 li4] /Themistocles/
 蒂莫 蒂莫 [Di4 mo4] /Timo/
+蒂默曼 蒂默曼 [Di4 mo4 man4] /Timmerman/
 蒂莫泰 蒂莫泰 [Di4 mo4 tai4] /Timothée/
 蒂莫特奧 蒂莫特奥 [Di4 mo4 te4 ao4] /Timoteo/
 蒂莫特烏 蒂莫特乌 [Di4 mo4 te4 wu1] /Timoteo/
 帝莫西 帝莫西 [Di4 mo4 xi1] /Timothy (modern)/
 蒂莫西 蒂莫西 [Di4 mo4 xi1] /Timothy (modern)/
 蒂姆 蒂姆 [Di4 mu3] /Tim/Timm/
+蒂姆肯 蒂姆肯 [Di4 mu3 ken3] /Timken/
 蒂娜 蒂娜 [Di4 na4] /Tina/
 蒂納 蒂纳 [Di4 na4] /Tiner/
 蒂納基約 蒂纳基约 [Di4 na4 ji1 yue1] /Tinaquillo/
@@ -7526,6 +7579,7 @@
 棣棠鄉 棣棠乡 [Di4 tang2_Xiang1] /Ditang Township/Township, Ditang/
 蒂托 蒂托 [Di4 tuo1] /Tito/
 蒂瓦 蒂瓦 [Di4 wa3] /Tiva/
+蒂瓦里 蒂瓦里 [Di4 wa3 li3] /Tiwari/
 帝汶 帝汶 [Di4 wen4] /Timor/
 帝汶島 帝汶岛 [Di4 wen4 dao3] /Timor Island/Island, Timor/
 蒂沃利 蒂沃利 [Di4 wo4 li4] /Tivoli/
@@ -7533,6 +7587,7 @@
 地心游記 地心游记 [Di4 xin1_You2 ji4] /Journey to the Centre of the Earth (Jules Verne) (lit. earth-centre travel-notes)/Centre of the Earth, Journey to the (Jules Verne) (lit. earth-centre travel-notes)/
 蒂雅 蒂雅 [Di4 ya3] /Tia/
 蒂亞戈 蒂亚戈 [Di4 ya4 ge1] /Tiago/
+蒂亞諾 蒂亚诺 [Di4 ya4 nuo4] /Tiano/
 蒂永維爾 蒂永维尔 [Di4 yong3 wei2 er3] /Thionville/
 蒂語 蒂语 [Di4 yu3] /Tii (language)/
 地藏寺滿族鄉 地藏寺满族乡 [Di4 zang4 si4_Man3 zu2_Xiang1] /Dizangsi Manchu Township/Manchu Township, Dizangsi/
@@ -8756,10 +8811,12 @@
 法亞爾 法亚尔 [Fa3 ya4 er3] /Fayard/
 法耶茲 法耶兹 [Fa3 ye1 zi1] /Fayiz/
 法伊 法伊 [Fa3 yi1] /Fai/Fay/Fey/
+法伊爾 法伊尔 [Fa3 yi1 er3] /Pfeil/
 法伊夫 法伊夫 [Fa3 yi1 fu1] /Fyfe/Fyffe/
 法伊弗 法伊弗 [Fa3 yi1 fu2] /Pfeiffer/
 法伊格 法伊格 [Fa3 yi1 ge2] /Feige/
 法伊克 法伊克 [Fa3 yi1 ke4] /Faiq/
+法伊勒 法伊勒 [Fa3 yi1 le4] /Pfeiler/
 法伊扎 法伊扎 [Fa3 yi1 zha1] /Faiza/
 法伊茲 法伊兹 [Fa3 yi1 zi1] /Faiz/
 法因斯 法因斯 [Fa3 yin1 si1] /Fynes/
@@ -8810,6 +8867,7 @@
 范德海登 范德海登 [Fan4 de2 hai3 deng1] /Van der Heyden/Heyden, Van der/
 范德胡夫 范德胡夫 [Fan4 de2 hu2 fu1] /Vanderhoof/
 范德霍夫 范德霍夫 [Fan4 de2 huo4 fu1] /Vanderhoff/
+范德利普 范德利普 [Fan4 de2 li4 pu3] /Vanderlip/
 范德梅韋 范德梅韦 [Fan4 de2 mei2 wei2] /Van der Merwe/Merwe, Van der/
 范德蒙德 范德蒙德 [Fan4 de2 meng2 de2] /van der Monde/Monde, van der/
 范德普爾 范德普尔 [Fan4 de2 pu3 er3] /Vanderpool/
@@ -8928,11 +8986,13 @@
 菲爾賓 菲尔宾 [Fei1 er3 bin1] /Philbin/
 菲爾伯特 菲尔伯特 [Fei1 er3 bo2 te4] /Philbert/
 菲爾布里克 菲尔布里克 [Fei1 er3 bu4 li3 ke4] /Philbrick/
+菲爾布魯克 菲尔布鲁克 [Fei1 er3 bu4 lu3 ke4] /Philbrook/
 菲爾德 菲尔德 [Fei1 er3 de2] /Fielder/
 菲爾曼 菲尔曼 [Fei1 er3 man4] /Fierman/Fillman/
 菲爾米諾 菲尔米诺 [Fei1 er3 mi3 nuo4] /Firmino/
 菲爾默 菲尔默 [Fei1 er3 mo4] /Filmer/
 菲爾莫爾 菲尔莫尔 [Fei1 er3 mo4 er3] /Fillmore/Filmore/
+菲爾普 菲尔普 [Fei1 er3 pu3] /Philp/
 菲爾普斯 菲尔普斯 [Fei1 er3 pu3 si1] /Phelps/
 菲爾斯坦 菲尔斯坦 [Fei1 er3 si1 tan3] /Fierstein/
 菲爾斯特 菲尔斯特 [Fei1 er3 si1 te4] /Fierst/
@@ -8944,6 +9004,7 @@
 菲比 菲比 [Fei1 bi3] /Phoebe/
 非比 非比 [Fei1 bi3] /Phoebe (old translation?)/
 菲伯斯 菲伯斯 [Fei1 bo2 si1] /Phoebus/
+菲布斯 菲布斯 [Fei1 bu4 si1] /Phibbs/
 菲茨傑拉德 菲茨杰拉德 [Fei1 ci2 jie2 la1 de2] /FitzGerald/
 菲茨帕特里克 菲茨帕特里克 [Fei1 ci2 pa4 te4 li3 ke4] /Fitzpatrick/
 菲茨西蒙斯 菲茨西蒙斯 [Fei1 ci2 xi1 meng3 si1] /Fitzsimmons/Fitzsimons/
@@ -9019,6 +9080,7 @@
 菲尼亞斯 菲尼亚斯 [Fei1 ni2 ya4 si1] /Phineas/Phinehas (modern)/
 菲涅耳 菲涅耳 [Fei1 nie4 er3] /Fresnel/
 菲諾 菲诺 [Fei1 nuo4] /Finnot/
+菲普斯 菲普斯 [Fei1 pu3 si1] /Phipps/
 菲奇 菲奇 [Fei1 qi2] /Fiske/
 菲舍爾 菲舍尔 [Fei1 she4 er3] /Fischer/
 菲施 菲施 [Fei1 shi1] /Fish (name)/
@@ -9570,6 +9632,7 @@
 弗萊比 弗莱比 [Fu2 lai2 bi3] /Flebbe/
 弗萊徹 弗莱彻 [Fu2 lai2 che4] /Fletcher/
 弗萊迪 弗莱迪 [Fu2 lai2 di2] /Freddy/
+弗萊格 弗莱格 [Fu2 lai2 ge2] /Pfleger/
 弗萊河 弗莱河 [Fu2 lai2 he2] /Fly River/River, Fly/
 弗萊雷 弗莱雷 [Fu2 lai2 lei2] /Freire (surname)/
 弗萊明 弗莱明 [Fu2 lai2 ming2] /Fleming/
@@ -10744,6 +10807,7 @@
 格蘭岱爾 格兰岱尔 [Ge2 lan2 dai4 er3] /Glendale/
 格蘭德 格兰德 [Ge2 lan2 de2] /Grande/
 格蘭登 格兰登 [Ge2 lan2 deng1] /Glendon/
+格蘭迪 格兰迪 [Ge2 lan2 di2] /Grandy/
 格蘭頓 格兰顿 [Ge2 lan2 dun4] /Glendon/
 格蘭芬多 格兰芬多 [Ge2 lan2 fen1 duo1] /Gryffindor/
 格蘭傑 格兰杰 [Ge2 lan2 jie2] /Grainger/
@@ -10892,6 +10956,7 @@
 格盧亞斯 格卢亚斯 [Ge2 lu2 ya4 si1] /Gluyas/
 格魯 格鲁 [Ge2 lu3] /Grew/
 格魯布 格鲁布 [Ge2 lu3 bu4] /Grubb/
+格魯弗 格鲁弗 [Ge2 lu3 fu2] /Gruver/
 格魯吉亞 格鲁吉亚 [Ge2 lu3 ji2 ya4] /Georgia/
 格魯吉亞語 格鲁吉亚语 [Ge2 lu3 ji2 ya4 yu3] /Georgian (language)/
 格魯克 格鲁克 [Ge2 lu3 ke4] /Gluck/
@@ -10907,6 +10972,7 @@
 格倫費爾 格伦费尔 [Ge2 lun2 fei4 er3] /Grenfell/
 格倫加 格伦加 [Ge2 lun2 jia1] /Grenga/
 格倫尼 格伦尼 [Ge2 lun2 ni2] /Glennie/
+格倫沃爾德 格伦沃尔德 [Ge2 lun2 wo4 er3 de2] /Grunwald/
 格羅 格罗 [Ge2 luo2] /Gro/Groh/Growe/
 格羅爾德 格罗尔德 [Ge2 luo2 er3 de2] /Gerold/
 格羅比 格罗比 [Ge2 luo2 bi3] /Grobe/
@@ -11802,6 +11868,7 @@
 哈該書 哈该书 [Ha1 gai1 shu1] /Haggai (Bible book)/
 哈蓋 哈盖 [Ha1 gai4] /Haggai (book, Catholic version)/
 哈格 哈格 [Ha1 ge2] /Hagger/Harge/
+哈格雷夫 哈格雷夫 [Ha1 ge2 lei2 fu1] /Hargrave/
 哈格里夫斯 哈格里夫斯 [Ha1 ge2 li3 fu1 si1] /Hargreaves/
 哈格隆德 哈格隆德 [Ha1 ge2 long2 de2] /Haglund/
 哈格曼 哈格曼 [Ha1 ge2 man4] /Hageman/Hagemann/
@@ -12002,6 +12069,7 @@
 哈順 哈顺 [Ha1 shun4] /Hashum/
 哈斯 哈斯 [Ha1 si1] /Haas/
 哈斯克爾 哈斯克尔 [Ha1 si1 ke4 er3] /Haskel/Haskell/
+哈斯勒 哈斯勒 [Ha1 si1 le4] /Hassler/
 哈斯利 哈斯利 [Ha1 si1 li4] /Haslett/
 哈斯蒙尼 哈斯蒙尼 [Ha1 si1 meng2 ni2] /Hasmonaean/
 哈斯木 哈斯木 [Ha1 si1 mu4] /Kasim/
@@ -12185,6 +12253,7 @@
 海門林納 海门林纳 [Hai3 men2 lin2 na4] /Hämeenlinna/
 海門人 海门人 [Hai3 men2 ren2] /person of Haimen (in Jiangsu)/Haimen, person of (in Jiangsu)/
 海門鎮 海门镇 [Hai3 men2 zhen4] /Haimen (town)/
+海蒙德 海蒙德 [Hai3 meng3 de2] /Haymond/
 海明威 海明威 [Hai3 ming2 wei1] /Hemingway/
 海莫 海莫 [Hai3 mo4] /Haimo/Heimo/
 海默 海默 [Hai3 mo4] /Heimo/
@@ -12344,7 +12413,7 @@
 含族 含族 [Han2 zu2] /Hamites/
 含族人 含族人 [Han2 zu2 ren2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2020-04-29/this is version 2020-04-29, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2020-04-30/this is version 2020-04-30, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢比 汉比 [Han4 bi3] /Hamby/
@@ -12813,6 +12882,7 @@
 赫德 赫德 [He4 de2] /Herd (name)/
 赫德爾斯頓 赫德尔斯顿 [He4 de2 er3 si1 dun4] /Huddleston/
 赫德伯格 赫德伯格 [He4 de2 bo2 ge2] /Hedberg/
+赫德里克 赫德里克 [He4 de2 li3 ke4] /Hedrick/
 赫德利 赫德利 [He4 de2 li4] /Hedley/
 赫德森 赫德森 [He4 de2 sen1] /Hudson (surname)/
 赫德維格 赫德维格 [He4 de2 wei2 ge2] /Hedvig/
@@ -12842,6 +12912,7 @@
 赫克曼 赫克曼 [He4 ke4 man4] /Heckman/
 赫克斯利 赫克斯利 [He4 ke4 si1 li4] /Huxley (Elspeth)/
 赫克斯曼 赫克斯曼 [He4 ke4 si1 man4] /Huxman/
+赫克特 赫克特 [He4 ke4 te4] /Heckert/
 赫克托 赫克托 [He4 ke4 tuo1] /Hector/
 赫庫蘭尼姆 赫库兰尼姆 [He4 ku4 lan2 ni2 mu3] /Herculaneum/
 赫拉 赫拉 [He4 la1] /Hella/
@@ -12867,6 +12938,7 @@
 赫里克 赫里克 [He4 li3 ke4] /Herrick/
 赫里斯圖 赫里斯图 [He4 li3 si1 tu2] /Christou/
 赫里斯托 赫里斯托 [He4 li3 si1 tuo1] /Hristo/
+赫里沃德 赫里沃德 [He4 li3 wo4 de2] /Hereward/
 赫利 赫利 [He4 li4] /Hulley/
 赫利奧波利斯 赫利奥波利斯 [He4 li4 ao4 bo1 li4 si1] /Heliopolis/
 赫利爾 赫利尔 [He4 li4 er3] /Hellyer/
@@ -14026,6 +14098,7 @@
 惠特邁爾 惠特迈尔 [Hui4 te4 mai4 er3] /Whitmire/
 惠特曼 惠特曼 [Hui4 te4 man4] /Whitman/
 惠特尼 惠特尼 [Hui4 te4 ni2] /Whitney/
+惠特塞爾 惠特塞尔 [Hui4 te4 sai4 er3] /Whitsell/
 惠特斯通 惠特斯通 [Hui4 te4 si1 tong1] /Whetstone/
 惠廷頓 惠廷顿 [Hui4 ting2 dun4] /Whittington/
 會同縣 会同县 [Hui4 tong2_Xian4] /Huitong County/County, Huitong/
@@ -14086,6 +14159,7 @@
 霍爾果斯 霍尔果斯 [Huo4 er3 guo3 si1] /Khorgas (in Xinjiang)/
 霍爾果斯市 霍尔果斯市 [Huo4 er3 guo3 si1_Shi4] /Khorgas (in Xinjiang)/
 霍爾果斯人 霍尔果斯人 [Huo4 er3 guo3 si1 ren2] /person of Khorgas (in Xinjiang)/Khorgas, person of (in Xinjiang)/
+霍爾金 霍尔金 [Huo4 er3 jin1] /Holguin/
 霍爾克 霍尔克 [Huo4 er3 ke4] /Holck/
 霍爾曼 霍尔曼 [Huo4 er3 man4] /Holman/
 霍爾姆 霍尔姆 [Huo4 er3 mu3] /Holm/
@@ -14202,6 +14276,7 @@
 霍斯特 霍斯特 [Huo4 si1 te4] /Horst/
 霍斯特曼 霍斯特曼 [Huo4 si1 te4 man4] /Horstmann/
 霍蘇埃 霍苏埃 [Huo4 su1 ai1] /Josué/
+霍索恩 霍索恩 [Huo4 suo3 en1] /Hawthorne/
 霍索伊 霍索伊 [Huo4 suo3 yi1] /Hosoi/
 霍特 霍特 [Huo4 te4] /Hort/
 霍特爾 霍特尔 [Huo4 te4 er3] /Hottel/
@@ -14429,6 +14504,7 @@
 基斯流月 基斯流月 [Ji1 si1 liu2 yue4] /Chislev/
 基斯倫 基斯伦 [Ji1 si1 lun2] /Chislon/
 基斯帕 基斯帕 [Ji1 si1 pa4] /Gishpa/
+基斯特勒 基斯特勒 [Ji1 si1 te4 le4] /Kistler/
 基蘇律 基苏律 [Ji1 su1 lu:4] /Chesulloth/
 基蘇木 基苏木 [Ji1 su1 mu4] /Kisumu/
 基孫 基孙 [Ji1 sun1] /Gizon/
@@ -16247,6 +16323,7 @@
 卡爾波夫 卡尔波夫 [Ka3 er3 bo1 fu1] /Karpov/
 卡爾博諾 卡尔博诺 [Ka3 er3 bo2 nuo4] /Carbonneau/
 卡爾布 卡尔布 [Ka3 er3 bu4] /Kalb/
+卡爾德隆 卡尔德隆 [Ka3 er3 de2 long2] /Calderon/
 卡爾頓 卡尔顿 [Ka3 er3 dun4] /Carleton/
 卡爾菲 卡尔菲 [Ka3 er3 fei1] /Calfee/
 卡爾海因茨 卡尔海因茨 [Ka3 er3 hai3 yin1 ci2] /Karlheinz/
@@ -16287,6 +16364,7 @@
 卡伯特 卡伯特 [Ka3 bo2 te4] /Cabot/
 卡布佛得魯語 卡布佛得鲁语 [Ka3 bu4 fo2 de5 lu3 yu3] /Kabuverdianu (language)/
 卡布拉爾 卡布拉尔 [Ka3 bu4 la1 er3] /Cabral/
+卡布雷拉 卡布雷拉 [Ka3 bu4 lei2 la1] /Cabrera/
 卡布里 卡布里 [Ka3 bu4 li3] /Carbry/
 卡徹 卡彻 [Ka3 che4] /Karcher/
 卡茨 卡茨 [Ka3 ci2] /Katz/
@@ -16540,6 +16618,7 @@
 卡緬 卡缅 [Ka3 mian3] /Kamen/
 卡明斯 卡明斯 [Ka3 ming2 si1] /Cummins/
 卡明斯基 卡明斯基 [Ka3 ming2 si1 ji1] /Kaminský/
+卡默勒 卡默勒 [Ka3 mo4 le4] /Kammerer/
 卡姆 卡姆 [Ka3 mu3] /Cam/Kamm/
 卡姆河 卡姆河 [Ka3 mu3_He2] /River Cam/
 卡姆巴語 卡姆巴语 [Ka3 mu3 ba1 yu3] /Kamba (language)/
@@ -16619,6 +16698,7 @@
 卡莎莎 卡莎莎 [Ka3 sha1 sha1] /Kashwashwa/
 卡山得 卡山得 [Ka3 shan1 de2] /Cassander/
 卡社溪 卡社溪 [Ka3 she4_Xi1] /Kashe River (Taiwan)/River, Kashe (Taiwan)/
+卡什丹 卡什丹 [Ka3 shi2 dan1] /Cashton/
 卡舒比亞語 卡舒比亚语 [Ka3 shu1 bi3 ya4 yu3] /Kashubian (language)/
 卡舒比語 卡舒比语 [Ka3 shu1 bi3 yu3] /Kashubian (language)/
 卡思 卡思 [Ka3 si1] /Karth/
@@ -16684,6 +16764,7 @@
 卡瓦略 卡瓦略 [Ka3 wa3 lu:e4] /Carvalho/
 卡瓦諾 卡瓦诺 [Ka3 wa3 nuo4] /Cavanaugh/
 卡瓦延 卡瓦延 [Ka3 wa3 yan2] /Cauayan/
+卡瓦佐斯 卡瓦佐斯 [Ka3 wa3 zuo3 si1] /Cavazos/
 卡萬 卡万 [Ka3 wan4] /Cavan/Kavan/
 卡萬戈 卡万戈 [Ka3 wan4 ge1] /Kavango/
 卡維恩 卡维恩 [Ka3 wei2 en1] /Kavieng/
@@ -16989,6 +17070,7 @@
 康納爾 康纳尔 [Kang1 na4 er3] /Cornell (older translation)/
 康納德 康纳德 [Kang1 na4 de2] /Connard/
 康納利 康纳利 [Kang1 na4 li4] /Connolly/
+康納斯 康纳斯 [Kang1 na4 si1] /Conners/
 康納斯維爾 康纳斯维尔 [Kang1 na4 si1 wei2 er3] /Connersville/
 康乃爾 康乃尔 [Kang1 nai3 er3] /Cornell/
 康乃狄格州 康乃狄格州 [Kang1 nai3 di2 ge2_Zhou1] /Connecticut (old translation)/
@@ -17125,6 +17207,7 @@
 科貝爾 科贝尔 [Ke1 bei4 er3] /Kobel/
 科貝特 科贝特 [Ke1 bei4 te4] /Corbett/
 柯比 柯比 [Ke1 bi3] /Kirby/
+科波拉 科波拉 [Ke1 bo1 la1] /Coppola/
 科伯 科伯 [Ke1 bo2] /Cober/
 科博 科博 [Ke1 bo2] /Cobo/
 科伯恩 科伯恩 [Ke1 bo2 en1] /Coburn/
@@ -17154,6 +17237,7 @@
 科芬 科芬 [Ke1 fen1] /Coffin (surname)/
 科芬特里 科芬特里 [Ke1 fen1 te4 li3] /Coventry (older translation)/
 科夫 科夫 [Ke1 fu1] /Cobh/
+科夫勒 科夫勒 [Ke1 fu1 le4] /Koffler/
 科夫斯港 科夫斯港 [Ke1 fu1 si1 gang3] /Coffs Harbour/Harbour, Coffs/
 科孚 科孚 [Ke1 fu2] /Corfu/
 科弗達爾 科弗达尔 [Ke1 fu2 da2 er3] /Coverdale/
@@ -17226,6 +17310,7 @@
 科利 科利 [Ke1 li4] /Coley/Colie/Colley/
 科利爾 科利尔 [Ke1 li4 er3] /Collier/
 科利爾百科全書 科利尔百科全书 [Ke1 li4 er3_bai3 ke1 quan2 shu1] /Collier's Encyclopedia/Collier's/Encyclopedia, Collier's/
+科利根 科利根 [Ke1 li4 gen1] /Colligan/
 科利尼 科利尼 [Ke1 li4 ni2] /Coligny/
 科利斯 科利斯 [Ke1 li4 si1] /Corliss/
 科利特 科利特 [Ke1 li4 te4] /Corlett/
@@ -17279,6 +17364,7 @@
 柯南 柯南 [Ke1 nan2] /Conan/
 科南 科南 [Ke1 nan2] /Conan/
 柯南道爾爵士 柯南道尔爵士 [Ke1 nan2_Dao4 er3_jue2 shi4] /Sir Arthur Conan Doyle/Arthur Conan Doyle, Sir/
+科南特 科南特 [Ke1 nan2 te4] /Conant/
 科內爾 科内尔 [Ke1 nei4 er3] /Cornel/
 科內柳 科内柳 [Ke1 nei4 liu3] /Corneliu/
 科能 科能 [Ke1 neng2] /Kennon/
@@ -17421,6 +17507,7 @@
 客家語 客家语 [Ke4 jia1 yu3] /Hakka/
 克拉碼頭 克拉码头 [Ke4 la1_ma3 tou5] /Clarke Quay (in Singapore)/Quay, Clarke (in Singapore)/
 克拉爾 克拉尔 [Ke4 la1 er3] /Crall/Krall/
+克拉布 克拉布 [Ke4 la1 bu4] /Crabb/
 克拉德諾 克拉德诺 [Ke4 la1 de2 nuo4] /Kladno/
 克拉夫 克拉夫 [Ke4 la1 fu1] /Clough/
 克拉夫頓 克拉夫顿 [Ke4 la1 fu1 dun4] /Crafton/
@@ -17601,6 +17688,7 @@
 克里斯科 克里斯科 [Ke4 li3 si1 ke1] /Chrisco/
 克里斯曼 克里斯曼 [Ke4 li3 si1 man4] /Chrisman/
 克里斯平 克里斯平 [Ke4 li3 si1 ping2] /Crispín/
+克里斯普 克里斯普 [Ke4 li3 si1 pu3] /Crisp (name)/
 克里斯琴 克里斯琴 [Ke4 li3 si1 qin2] /Christian (modern first name)/
 克里斯琴森 克里斯琴森 [Ke4 li3 si1 qin2 sen1] /Christiansen/
 克里絲塔 克里丝塔 [Ke4 li3 si1 ta3] /Christa/
@@ -17711,6 +17799,7 @@
 克羅克 克罗克 [Ke4 luo2 ke4] /Croke/Kroc/Krock/
 克羅克特 克罗克特 [Ke4 luo2 ke4 te4] /Crockett/
 克羅嫩伯格 克罗嫩伯格 [Ke4 luo2 nen4 bo2 ge2] /Kronenberg/
+克羅瑟斯 克罗瑟斯 [Ke4 luo2 se4 si1] /Crothers/
 克羅斯 克罗斯 [Ke4 luo2 si1] /Cross (surname)/
 克羅斯比 克罗斯比 [Ke4 luo2 si1 bi3] /Crosby/
 克羅斯基 克罗斯基 [Ke4 luo2 si1 ji1] /Croskey/
@@ -18021,6 +18110,7 @@
 奎克利 奎克利 [Kui2 ke4 li4] /Quickley/
 奎勒 奎勒 [Kui2 lei1] /Quiller/
 奎利 奎利 [Kui2 li4] /Queally/
+奎利恩 奎利恩 [Kui2 li4 en1] /Quillian/
 奎林 奎林 [Kui2 lin2] /Quillen/Quillin/
 奎洛 奎洛 [Kui2 luo4] /Cuello/Quello/
 奎南 奎南 [Kui2 nan2] /Quinan/
@@ -18104,15 +18194,18 @@
 拉布拉多 拉布拉多 [La1 bu4 la1 duo1] /Labrador/
 拉布拉多獵犬 拉布拉多猎犬 [La1 bu4 la1 duo1_lie4 quan3] /Labrador retriever (dog)/retriever, Labrador (dog)/
 拉布斯 拉布斯 [La1 bu4 si1] /Rabus/
+拉茨拉夫 拉茨拉夫 [La1 ci2 la1 fu1] /Ratzlaff/
 拉達 拉达 [La1 da2] /Lada/Rada/
 拉代 拉代 [La1 dai4] /Raddai/
 拉代西拉德 拉代西拉德 [La1 dai4 xi1 la1 de2] /La Désirade/Désirade, La/
 拉但 拉但 [La1 dan4] /Ladan/
 拉德 拉德 [La1 de2] /Lade/
 拉德科 拉德科 [La1 de2 ke1] /Radko/
+拉德勒 拉德勒 [La1 de2 le4] /Rudler/
 拉德利 拉德利 [La1 de2 li4] /Radlee/
 拉德洛 拉德洛 [La1 de2 luo4] /Ludlow/
 拉德米洛 拉德米洛 [La1 de2 mi3 luo4] /Radmilo/
+拉德納 拉德纳 [La1 de2 na4] /Radner/
 拉德溫 拉德温 [La1 de2 wen1] /Radwan/
 拉登 拉登 [La1 deng1] /Ladin/
 拉登語 拉登语 [La1 deng1 yu3] /Ladin (language)/
@@ -18159,6 +18252,7 @@
 拉夫堡 拉夫堡 [La1 fu1 bao3] /Loughborough/
 拉夫伯勒 拉夫伯勒 [La1 fu1 bo2 le4] /Loughborough/
 拉夫拉 拉夫拉 [La1 fu1 la1] /Rafela/
+拉夫特里 拉夫特里 [La1 fu1 te4 li3] /Raftery/
 拉孚 拉孚 [La1 fu2] /Raphu/
 拉弗蒂 拉弗蒂 [La1 fu2 di4] /Lafferty/
 拉弗拉姆 拉弗拉姆 [La1 fu2 la1 mu3] /LaFlamme/
@@ -18191,6 +18285,7 @@
 拉胡德 拉胡德 [La1 hu2 de2] /Lahood/
 拉祜語 拉祜语 [La1 hu4 yu3] /Lahu (language)/
 拉霍 拉霍 [La1 huo4] /Raho/
+拉霍爾 拉霍尔 [La1 huo4 er3] /Rahall/
 拉基姆 拉基姆 [La1 ji1 mu3] /Rakim/
 拉吉 拉吉 [La1 ji2] /Lachish/
 拉吉夫 拉吉夫 [La1 ji2 fu1] /Rajiv/
@@ -18301,6 +18396,7 @@
 拉穆爾 拉穆尔 [La1 mu4 er3] /Lamour/
 拉娜 拉娜 [La1 na4] /Lana/Lara/
 拉納 拉纳 [La1 na4] /Ragna/
+拉納德 拉纳德 [La1 na4 de2] /Ranald/
 拉納卡 拉纳卡 [La1 na4 ka3] /Larnaca/
 拉奈島 拉奈岛 [La1 nai4 dao3] /Lanai (island)/
 拉尼 拉尼 [La1 ni2] /Lani/Rani/
@@ -18310,6 +18406,7 @@
 拉涅羅 拉涅罗 [La1 nie4 luo2] /Raniero/
 拉帕努伊語 拉帕努伊语 [La1 pa4 nu3 yi1 yu3] /Rapa Nui (language)/
 拉潘 拉潘 [La1 pan1] /Lapan/
+拉普阿諾 拉普阿诺 [La1 pu3 a1 nuo4] /Rapuano/
 拉普拉普市 拉普拉普市 [La1 pu3 la1 pu3_Shi4] /Lapu-Lapu City/City, Lapu-Lapu/
 拉普拉斯 拉普拉斯 [La1 pu3 la1 si1] /Laplace/
 拉普拉塔 拉普拉塔 [La1 pu3 la1 ta3] /La Plata/Plata, La/
@@ -18343,15 +18440,18 @@
 拉沙耶 拉沙耶 [La1 sha1 ye1] /Lashaye/
 拉山德 拉山德 [La1 shan1 de2] /Lysander/
 拉舍德 拉舍德 [La1 she4 de2] /Rashad/
+拉什福德 拉什福德 [La1 shi2 fu2 de2] /Rushford/
 拉什利 拉什利 [La1 shi2 li4] /Lashley/
 拉斯 拉斯 [La1 si1] /Russ/
 拉斯豐特斯 拉斯丰特斯 [La1 si1 feng1 te4 si1] /Las Fuentes/Fuentes, Las/
 拉斯基 拉斯基 [La1 si1 ji1] /Laskey/Lasky/
 拉斯科 拉斯科 [La1 si1 ke1] /Lasko/
 拉斯克 拉斯克 [La1 si1 ke4] /Lasker/
+拉斯孔 拉斯孔 [La1 si1 kong3] /Rascon/
 拉斯洛 拉斯洛 [La1 si1 luo4] /László/
 拉斯馬森 拉斯马森 [La1 si1 ma3 sen1] /Rasmussen/
 拉斯馬斯 拉斯马斯 [La1 si1 ma3 si1] /Rasmus/
+拉思曼 拉思曼 [La1 si1 man4] /Rathman/
 拉斯穆森 拉斯穆森 [La1 si1 mu4 sen1] /Rasmussen/
 拉斯穆斯 拉斯穆斯 [La1 si1 mu4 si1] /Rasmus/
 拉斯特鄉 拉斯特乡 [La1 si1 te4_Xiang1] /Lasite Township/Township, Lasite/
@@ -18387,11 +18487,13 @@
 拉韋爾 拉韦尔 [La1 wei2 er3] /Lavell/Lavelle/
 拉韋德 拉韦德 [La1 wei2 de2] /Ravid/
 拉維多利亞 拉维多利亚 [La1 wei2 duo1 li4 ya4] /La Victoria/Victoria, La/
+拉韋利 拉韦利 [La1 wei2 li4] /Ravelli/
 拉維娜 拉维娜 [La1 wei2 na4] /Lavina/
 拉維納 拉维纳 [La1 wei2 na4] /Lavena/Lavina/Lavinah/
 拉維尼婭 拉维尼娅 [La1 wei2 ni2 ya4] /Lavinia/
 拉維奇 拉维奇 [La1 wei2 qi2] /Ravitch/
 拉維日里 拉维日里 [La1 wei2 ri4 li3] /Lavigerie (surname)/
+拉維亞 拉维亚 [La1 wei2 ya4] /Rawiya/
 拉文 拉文 [La1 wen2] /Lavan/
 拉文德 拉文德 [La1 wen2 de2] /Lavender (name)/
 拉文克勞 拉文克劳 [La1 wen2 ke4 lao2] /Ravenclaw/
@@ -18439,6 +18541,7 @@
 臘口鎮 腊口镇 [La4 kou3 zhen4] /Lakou (town)/
 臘市鎮 腊市镇 [La4 shi4 zhen4] /Lashi (town)/
 臘樹鎮 腊树镇 [La4 shu4 zhen4] /Lashu (town)/
+臘斯克 腊斯克 [La4 si1 ke4] /Rusk/
 來安縣 来安县 [Lai2 an1_Xian4] /Lai'an (county, in Anhui)/
 萊昂 莱昂 [Lai2 ang2] /León/
 萊昂德羅 莱昂德罗 [Lai2 ang2 de2 luo2] /Leandro/
@@ -18455,6 +18558,7 @@
 萊奧妮 莱奥妮 [Lai2 ao4 ni1] /Leonie/
 萊奧塔 莱奥塔 [Lai2 ao4 ta3] /Leota/
 萊恩 莱恩 [Lai2 en1] /Lane (surname)/
+萊恩博 莱恩博 [Lai2 en1 bo2] /Linebaugh/
 萊恩漢 莱恩汉 [Lai2 en1 han4] /Linehan/
 萊爾 莱尔 [Lai2 er3] /Lisle/
 萊爾德 莱尔德 [Lai2 er3 de2] /Laird/
@@ -18507,6 +18611,7 @@
 萊庫 莱库 [Lai2 ku4] /Raquel/
 萊拉 莱拉 [Lai2 la1] /Lela/
 萊拉克 莱拉克 [Lai2 la1 ke4] /Lilac/
+萊蘭德 莱兰德 [Lai2 lan2 de2] /Leland/
 萊利 莱利 [Lai2 li4] /Riley/
 萊莉 莱莉 [Lai2 li4] /Riley/
 萊麗亞 莱丽亚 [Lai2 li4 ya4] /Lelia/
@@ -18606,12 +18711,14 @@
 賴安 赖安 [Lai4 an1] /Ryan/Ryann/
 賴恩 赖恩 [Lai4 en1] /Rijn/
 賴爾 赖尔 [Lai4 er3] /Ryle/
+賴爾森 赖尔森 [Lai4 er3 sen1] /Ryerson/
 賴比瑞亞 赖比瑞亚 [Lai4 bi3 rui4 ya4] /Liberia (alternate translation)/
 賴茨 赖茨 [Lai4 ci2] /Reitz/
 賴村鎮 赖村镇 [Lai4 cun1 zhen4] /Laicun (town)/
 賴德 赖德 [Lai4 de2] /Ryde (surname)/
 賴登 赖登 [Lai4 deng1] /Ryden/
 賴店鎮 赖店镇 [Lai4 dian4 zhen4] /Laidian (town)/
+賴卡特 赖卡特 [Lai4 ka3 te4] /Reichardt/
 賴科 赖科 [Lai4 ke1] /Raiko/
 賴克 赖克 [Lai4 ke4] /Rike/Riker/Ryba/
 賴蘭茲 赖兰兹 [Lai4 lan2 zi1] /Rylands/
@@ -18619,6 +18726,7 @@
 賴馬魯斯 赖马鲁斯 [Lai4 ma3 lu3 si1] /Reimarus/
 賴曼 赖曼 [Lai4 man4] /Reimann/
 賴納 赖纳 [Lai4 na4] /Reiner/
+賴納茨 赖纳茨 [Lai4 na4 ci2] /Reinartz/
 賴納特 赖纳特 [Lai4 na4 te4] /Reinert/
 賴內 赖内 [Lai4 nei4] /Reine/
 賴妮 赖妮 [Lai4 ni1] /Rani/
@@ -18627,11 +18735,15 @@
 賴莎 赖莎 [Lai4 sha1] /Raisa/
 賴斯 赖斯 [Lai4 si1] /Rice (surname)/
 賴斯頓 赖斯顿 [Lai4 si1 dun4] /Reston/
+賴斯曼 赖斯曼 [Lai4 si1 man4] /Reisman/
+賴斯納 赖斯纳 [Lai4 si1 na4] /Reisner/
 賴索托 赖索托 [Lai4 suo3 tuo1] /Lesotho (alternate translation)/
 賴特 赖特 [Lai4 te4] /Wright/
 瀨湍鎮 濑湍镇 [Lai4 tuan1 zhen4] /Laituan (town)/
 賴希 赖希 [Lai4 xi1] /Rei/
 賴肖爾 赖肖尔 [Lai4 xiao4 er3] /Reischauer/
+賴歇爾 赖歇尔 [Lai4 xie1 er3] /Reicher/
+賴辛格 赖辛格 [Lai4 xin1 ge2] /Reisinger/
 賴興巴赫 赖兴巴赫 [Lai4 xing4 ba1 he4] /Reichenbach/
 賴伊 赖伊 [Lai4 yi1] /Rei/
 賴因 赖因 [Lai4 yin1] /Rein/
@@ -19014,6 +19126,7 @@
 雷德菲爾德 雷德菲尔德 [Lei2 de2 fei1 er3 de2] /Redfield/
 雷德沃爾德 雷德沃尔德 [Lei2 de2 wo4 er3 de2] /Raedwald/Redwald/
 雷迪 雷迪 [Lei2 di2] /Reddy/
+雷迪格 雷迪格 [Lei2 di2 ge2] /Reddig/
 雷丁 雷丁 [Lei2 ding1] /Reading (place)/
 雷丁市 雷丁市 [Lei2 ding1_Shi4] /Reading (city)/Redding (city)/Redding, Reading/
 雷敦 雷敦 [Lei2 dun1] /Reidun/
@@ -19025,13 +19138,16 @@
 雷福德 雷福德 [Lei2 fu2 de2] /Rayford/
 雷高鎮 雷高镇 [Lei2 gao1 zhen4] /Leigao (town)/
 雷格 雷格 [Lei2 ge2] /Reg/
+雷格爾 雷格尔 [Lei2 ge2 er3] /Reagle/
 雷格特 雷格特 [Lei2 ge2 te4] /Leggett/
 雷公尖鄉 雷公尖乡 [Lei2 gong1 jian1_Xiang1] /Leigongjian Township/Township, Leigongjian/
 雷公鎮 雷公镇 [Lei2 gong1 zhen4] /Leigong (town)/
 擂鼓鎮 擂鼓镇 [Lei2 gu3 zhen4] /Leigu (town)/
 雷官鎮 雷官镇 [Lei2 guan1 zhen4] /Leiguan (town)/
 雷哈 雷哈 [Lei2 ha1] /Reidar/
+雷哈爾 雷哈尔 [Lei2 ha1 er3] /Rehal/
 雷河鎮 雷河镇 [Lei2 he2 zhen4] /Leihe (town)/
+雷赫爾 雷赫尔 [Lei2 he4 er3] /Reichel/
 雷吉 雷吉 [Lei2 ji2] /Reg/
 雷吉斯 雷吉斯 [Lei2 ji2 si1] /Régis/
 雷集鎮 雷集镇 [Lei2 ji2 zhen4] /Leiji (town)/
@@ -19046,6 +19162,7 @@
 雷克斯福德 雷克斯福德 [Lei2 ke4 si1 fu2 de2] /Rexford/
 雷克雅未克 雷克雅未克 [Lei2 ke4 ya3 wei4 ke4] /Reykjavík/
 雷萊 雷莱 [Lei2 lai2] /Reile/
+雷里格 雷里格 [Lei2 li3 ge2] /Rehrig/
 雷利 雷利 [Lei2 li4] /Raleigh (Walter)/Reilly/Reilly, Raleigh/
 雷嶺鎮 雷岭镇 [Lei2 ling3 zhen4] /Leiling (town)/
 雷曼 雷曼 [Lei2 man4] /Reiman/
@@ -19060,6 +19177,7 @@
 雷米多 雷米多 [Lei2 mi3 duo1] /Ramido/
 雷米吉奧 雷米吉奥 [Lei2 mi3 ji2 ao4] /Remigio/
 雷米吉烏斯 雷米吉乌斯 [Lei2 mi3 ji2 wu1 si1] /Remigius/
+雷米斯 雷米斯 [Lei2 mi3 si1] /Remes/
 雷米希奧 雷米希奥 [Lei2 mi3 xi1 ao4] /Remigio/
 雷鳴鎮 雷鸣镇 [Lei2 ming2 zhen4] /Leiming (town)/
 雷莫 雷莫 [Lei2 mo4] /Remo/
@@ -19078,11 +19196,13 @@
 雷納托 雷纳托 [Lei2 na4 tuo1] /Renato/
 雷內 雷内 [Lei2 nei4] /René/
 雷尼 雷尼 [Lei2 ni2] /Rainey/
+雷尼爾 雷尼尔 [Lei2 ni2 er3] /Ranier/
 雷尼爾山 雷尼尔山 [Lei2 ni2 er3_Shan1] /Mt Rainier/Rainier, Mt/
 雷尼克 雷尼克 [Lei2 ni2 ke4] /Renick/
 雷娜特 雷娜特 [Lei2 nuo2 te4] /Renate/
 雷諾 雷诺 [Lei2 nuo4] /Reynolds/
 雷諾阿 雷诺阿 [Lei2 nuo4 a1] /Renoir/
+雷諾茲 雷诺兹 [Lei2 nuo4 zi1] /Reynolds/
 雷坪鎮 雷坪镇 [Lei2 ping2 zhen4] /Leiping (town)/
 雷平鎮 雷平镇 [Lei2 ping2 zhen4] /Leiping (town)/
 雷切爾 雷切尔 [Lei2 qie4 er3] /Rachelle/
@@ -19101,9 +19221,11 @@
 雷特 雷特 [Lei2 te4] /Rett/
 雷托 雷托 [Lei2 tuo1] /Reto/
 雷瓦爾德 雷瓦尔德 [Lei2 wa3 er3 de2] /Rehwald/
+雷維斯 雷维斯 [Lei2 wei2 si1] /Reavis/
 雷文 雷文 [Lei2 wen2] /Raven/
 雷溪鄉 雷溪乡 [Lei2 xi1_Xiang1] /Leixi Township/Township, Leixi/
 雷西姆農 雷西姆农 [Lei2 xi1 mu3 nong2] /Rethimno/
+雷希特 雷希特 [Lei2 xi1 te4] /Recht/
 雷亞 雷亚 [Lei2 ya4] /Rea/Rehan/Reia/
 雷婭 雷娅 [Lei2 ya4] /Rhea/
 雷亞爾 雷亚尔 [Lei2 ya4 er3] /Real (name)/
@@ -19229,7 +19351,9 @@
 李爾 李尔 [Li3 er3] /Lear/
 里爾 里尔 [Li3 er3] /Lil/
 李爾王 李尔王 [Li3 er3_wang2] /King Lear (Shakespeare play)/Lear, King (Shakespeare play)/
+里爾斯 里尔斯 [Li3 er3 si1] /Reres/
 李派林 李派林 [Li3 Pai4 lin2] /Lea and Perrins (Worcestershire sauce manufacturers)/Perrins, Lea and (Worcestershire sauce manufacturers)/
+里巴克 里巴克 [Li3 ba1 ke4] /Reback/
 里貝羅 里贝罗 [Li3 bei4 luo2] /Ribeiro/
 李埠口鄉 李埠口乡 [Li3 bu4 kou3_Xiang1] /Libukou Township/Township, Libukou/
 李埠鎮 李埠镇 [Li3 bu4 zhen4] /Libu (town)/
@@ -19241,6 +19365,7 @@
 理查三世 理查三世 [Li3 cha2_San1_Shi4] /King Richard III (Shakespeare play)/Richard III, King (Shakespeare play)/
 李查德 李查德 [Li3 cha2 de2] /Richard/
 理查森 理查森 [Li3 cha2 sen1] /Richardson/
+理查特 理查特 [Li3 cha2 te4] /Richart/
 理查茲 理查兹 [Li3 cha2 zi1] /Richards/
 鯉城區 鲤城区 [Li3 cheng2_Qu1] /Licheng District/District, Licheng/
 里茨 里茨 [Li3 ci2] /Ritz/
@@ -19264,6 +19389,8 @@
 里戈韋托 里戈韦托 [Li3 ge1 wei2 tuo1] /Rigoberto/
 李哥莊鎮 李哥庄镇 [Li3 ge1 zhuang1 zhen4] /Ligezhuang (town)/
 里格爾 里格尔 [Li3 ge2 er3] /Rider (name)/
+里格比 里格比 [Li3 ge2 bi3] /Ridley/
+里格利 里格利 [Li3 ge2 li4] /Rigley/
 里格斯 里格斯 [Li3 ge2 si1] /Riggs/
 里格斯比 里格斯比 [Li3 ge2 si1 bi3] /Rigsby/
 李閣鎮 李阁镇 [Li3 ge2 zhen4] /Lige (town)/
@@ -19277,12 +19404,14 @@
 里赫爾 里赫尔 [Li3 he4 er3] /Riher/
 李恆鎮 李恒镇 [Li3 heng2 zhen4] /Liheng (town)/
 里基 里基 [Li3 ji1] /Rickey/Ricki/Ricky/
+里基特 里基特 [Li3 ji1 te4] /Rickett/
 李集鄉 李集乡 [Li3 ji2_Xiang1] /Liji Township/Township, Liji/
 李集鎮 李集镇 [Li3 ji2 zhen4] /Liji (town)/
 禮紀鎮 礼纪镇 [Li3 ji4 zhen4] /Liji (town)/
 里加 里加 [Li3 jia1] /Riga/
 李家鄉 李家乡 [Li3 jia1_Xiang1] /Lijia Township/Township, Lijia/
 李家戶鄉 李家户乡 [Li3 jia1 hu4_Xiang1] /Lijiahu Township/Township, Lijiahu/
+里加拉 里加拉 [Li3 jia1 la1] /Regala/
 理家坪鄉 理家坪乡 [Li3 jia1 ping2_Xiang1] /Lijiaping Township/Township, Lijiaping/
 李家山鎮 李家山镇 [Li3 jia1 shan1 zhen4] /Lijiashan (town)/
 禮嘉鎮 礼嘉镇 [Li3 jia1 zhen4] /Lijia (town)/
@@ -19290,11 +19419,16 @@
 里卡爾多 里卡尔多 [Li3 ka3 er3 duo1] /Riccardo/
 理卡達 理卡达 [Li3 ka3 da2] /Ricarda/
 里卡多 里卡多 [Li3 ka3 duo1] /Ricardo/
+里卡特 里卡特 [Li3 ka3 te4] /Rickart/
 里科 里科 [Li3 ke1] /Rico/
 李克 李克 [Li3 ke4] /Richmal/
 里克 里克 [Li3 ke4] /Rich (Buhler)/
+里克萊夫斯 里克莱夫斯 [Li3 ke4 lai2 fu1 si1] /Ricklefs/
 里克曼 里克曼 [Li3 ke4 man4] /Rickman/
+里克森 里克森 [Li3 ke4 sen1] /Rickson/Rixon/
+里克斯 里克斯 [Li3 ke4 si1] /Ricks/
 里克特 里克特 [Li3 ke4 te4] /Richter/
+里克特邁耶 里克特迈耶 [Li3 ke4 te4 mai4 ye1] /Richtmyer/
 李口鄉 李口乡 [Li3 kou3_Xiang1] /Likou Township/Township, Likou/
 李口鎮 李口镇 [Li3 kou3 zhen4] /Likou (town)/
 李老莊鄉 李老庄乡 [Li3 lao3 zhuang1_Xiang1] /Lilao-zhuang Township/Township, Lilao-zhuang/
@@ -19327,6 +19461,7 @@
 里奇克雷斯特市 里奇克雷斯特市 [Li3 qi2 ke4 lei2 si1 te4_Shi4] /Ridgecrest (city)/
 里奇利 里奇利 [Li3 qi2 li4] /Ridgely/Ridgley/
 里奇韋 里奇韦 [Li3 qi2 wei2] /Ridgeway (surname)/
+里奇韋爾 里奇韦尔 [Li3 qi2 wei2 er3] /Ridgewell/
 李旗莊鎮 李旗庄镇 [Li3 qi2 zhuang1 zhen4] /Liqizhuang (town)/
 里恰 里恰 [Li3 qia4] /Riccia/
 李千戶鄉 李千户乡 [Li3 qian1 hu4_Xiang1] /Liqianhu Township/Township, Liqianhu/
@@ -19348,6 +19483,7 @@
 里斯 里斯 [Li3 si1] /Rees (Martin)/
 里斯本 里斯本 [Li3 si1 ben3] /Lisbon (Portugal)/
 里斯頓 里斯顿 [Li3 si1 dun4] /Riston/
+里斯金 里斯金 [Li3 si1 jin1] /Riskin/
 李斯特 李斯特 [Li3 si1 te4] /Liszt/
 里斯托 里斯托 [Li3 si1 tuo1] /Risto/
 里索利 里索利 [Li3 suo3 li4] /Rizzoli/
@@ -19367,6 +19503,7 @@
 李維 李维 [Li3 wei2] /Livy (place)/
 里維拉 里维拉 [Li3 wei2 la1] /Rivera/
 里韋拉 里韦拉 [Li3 wei2 la1] /Rivera/
+里韋羅 里韦罗 [Li3 wei2 luo2] /Rivero/
 李維斯 李维斯 [Li3 wei2 si1] /Reeves/
 里維斯 里维斯 [Li3 wei2 si1] /Reaves/
 里維耶爾 里维耶尔 [Li3 wei2 ye1 er3] /Rivière/
@@ -19381,6 +19518,7 @@
 李仙江 李仙江 [Li3 xian1_Jiang1] /Lixian River/River, Lixian/
 禮賢鎮 礼贤镇 [Li3 xian2 zhen4] /Lixian (town)/
 里歇特 里歇特 [Li3 xie1 te4] /Richert/
+里謝爾 里谢尔 [Li3 xie4 er3] /Rishell/
 李新莊鎮 李新庄镇 [Li3 xin1 zhuang1 zhen4] /Lixinzhuang (town)/
 李亞 李亚 [Li3 ya4] /Leah (modern)/
 理亞 理亚 [Li3 ya4] /Ria/
@@ -19405,6 +19543,7 @@
 李莊鄉 李庄乡 [Li3 zhuang1_Xiang1] /Lizhuang Township/Township, Lizhuang/
 李莊鎮 李庄镇 [Li3 zhuang1 zhen4] /Lizhuang (town)/
 里茲克 里兹克 [Li3 zi1 ke4] /Rizk/
+里茲曼 里兹曼 [Li3 zi1 man4] /Risman/
 里茲萬 里兹万 [Li3 zi1 wan4] /Rizwan/
 栗戰書 栗战书 [Li4_Zhan4 shu1] /Li Zhanshu (policitian)/Zhanshu, Li (policitian)/
 利安 利安 [Li4 an1] /Léone/
@@ -19488,6 +19627,7 @@
 利法雅 利法雅 [Li4 fa3 ya3] /Rephaiah/
 利非訂 利非订 [Li4 fei1 ding4] /Rephidim/
 利夫 利夫 [Li4 fu1] /Leaf/Leif/
+利夫西 利夫西 [Li4 fu1 xi1] /Livsey/
 麗芙 丽芙 [Li4 fu2] /Liv/
 利弗莫爾 利弗莫尔 [Li4 fu2 mo4 er3] /Livermore/
 利富 利富 [Li4 fu4] /Lifou/
@@ -19630,6 +19770,7 @@
 莉塔 莉塔 [Li4 ta3] /Lita/Risa/
 立陶宛語 立陶宛语 [Li4 tao2 wan3 yu3] /Lithuanian (language)/
 利特爾 利特尔 [Li4 te4 er3] /Little (surname)/
+利特克 利特克 [Li4 te4 ke4] /Litke/
 利特曼 利特曼 [Li4 te4 man4] /Littmann/
 利提瑪 利提玛 [Li4 ti2 ma3] /Rithmah/
 利通區 利通区 [Li4 tong1_Qu1] /Litong District/District, Litong/
@@ -19652,6 +19793,7 @@
 利未人的城 利未人的城 [Li4 wei4 ren2_de5_cheng2] /Levite cities/cities, Levite/
 利未族 利未族 [Li4 wei4 zu2] /sons of Levi/Levite tribe/Levi, sons of/tribe, Levite/
 利文 利文 [Li4 wen2] /Levene/
+利文古德 利文古德 [Li4 wen2 gu3 de2] /Livingood/
 利文斯敦 利文斯敦 [Li4 wen2 si1 dun1] /Livingstone/
 利文斯頓 利文斯顿 [Li4 wen2 si1 dun4] /Livingston/
 利文斯通 利文斯通 [Li4 wen2 si1 tong1] /Livingstone/
@@ -19961,6 +20103,7 @@
 林安 林安 [Lin2 an1] /Leeann/
 臨安區 临安区 [Lin2 an1_Qu1] /Lin'an District/District, Lin'an/
 臨安市 临安市 [Lin2 an1_Shi4] /Lin'an (city, in Zhejiang)/
+林厄姆 林厄姆 [Lin2 e4 mu3] /Ringham/
 鄰鄂鎮 邻鄂镇 [Lin2 e4 zhen4] /Lin'e (town)/
 林恩 林恩 [Lin2 en1] /Lynn/
 琳恩 琳恩 [Lin2 en1] /Lynn/
@@ -20044,6 +20187,7 @@
 臨江人 临江人 [Lin2 jiang1 ren2] /person of Linjiang (in Jilin)/Linjiang, person of (in Jilin)/
 臨江鎮 临江镇 [Lin2 jiang1 zhen4] /Linjiang (town)/
 臨晉鎮 临晋镇 [Lin2 jin4 zhen4] /Linjin (town)/
+林凱維奇 林凯维奇 [Lin2 kai3 wei2 qi2] /Rynkiewicz/
 林克 林克 [Lin2 ke4] /Linke/
 林肯大學 林肯大学 [Lin2 ken3_Da4 xue2] /University of Lincoln/Lincoln, University of/
 林肯郡 林肯郡 [Lin2 ken3 jun4] /Lincolnshire/
@@ -20054,6 +20198,7 @@
 臨澧縣 临澧县 [Lin2 li3_Xian4] /Linli (county, in Hunan)/
 林利 林利 [Lin2 li4] /Lynley/
 琳琳 琳琳 [Lin2 lin2] /Lin-Lin/
+林羅斯 林罗斯 [Lin2 luo2 si1] /Ringrose/
 琳門 琳门 [Lin2 men2] /Rimmon/
 臨洺關鎮 临洺关镇 [Lin2 ming2 guan1 zhen4] /Linmingguan (town)/
 林拿 林拿 [Lin2 na2] /Rinnah/
@@ -20838,6 +20983,7 @@
 魯本 鲁本 [Lu3 ben3] /Reuben (modern)/
 魯本斯 鲁本斯 [Lu3 ben3 si1] /Rubens/
 魯比 鲁比 [Lu3 bi3] /Rubi/Ruby/
+魯比克 鲁比克 [Lu3 bi3 ke4] /Roubik/
 魯比諾 鲁比诺 [Lu3 bi3 nuo4] /Rubino/
 魯邊 鲁边 [Lu3 bian1] /Ruben/
 魯賓 鲁宾 [Lu3 bin1] /Rubén/
@@ -20907,6 +21053,7 @@
 魯希 鲁希 [Lu3 xi1] /Luhith/
 魯西 鲁西 [Lu3 xi1] /Rusi/
 魯溪鎮 鲁溪镇 [Lu3 xi1 zhen4] /Luxi (town)/
+魯伊爾 鲁伊尔 [Lu3 yi1 er3] /Ruyle/
 魯伊斯 鲁伊斯 [Lu3 yi1 si1] /Ruiz/
 魯莊鎮 鲁庄镇 [Lu3 zhuang1 zhen4] /Luzhuang (town)/
 魯茲 鲁兹 [Lu3 zi1] /Luz/
@@ -21091,6 +21238,7 @@
 羅阿米 罗阿米 [Luo2 a1 mi3] /Lo-ammi/
 羅阿諾克市 罗阿诺克市 [Luo2 a1 nuo4 ke4_Shi4] /Roanoke (city)/
 羅安達 罗安达 [Luo2 an1 da2] /Luanda/
+羅安德 罗安德 [Luo2 an1 de2] /Rowand/
 羅昂 罗昂 [Luo2 ang2] /Roan/
 羅恩 罗恩 [Luo2 en1] /Ron/
 羅恩娜 罗恩娜 [Luo2 en1 na4] /Rowena/
@@ -21124,6 +21272,7 @@
 羅伯特斯 罗伯特斯 [Luo2 bo2 te4 si1] /Roberts/
 羅伯托 罗伯托 [Luo2 bo2 tuo1] /Roberto/
 羅伯遜 罗伯逊 [Luo2 bo2 xun4] /Roberson/
+羅伯茲 罗伯兹 [Luo2 bo2 zi1] /Roberds/
 羅布森 罗布森 [Luo2 bu4 sen1] /Robson/
 羅布斯 罗布斯 [Luo2 bu4 si1] /Robbs/
 羅城縣 罗城县 [Luo2 cheng2_Xian4] /Luocheng (county, in Guangxi)/
@@ -21147,6 +21296,8 @@
 羅德斯獎學金 罗德斯奖学金 [Luo2 de2 si1_Jiang3 xue2 jin1] /Cecil Rhodes Scholarship/Rhodes Scholarship, Cecil/
 羅登巴赫 罗登巴赫 [Luo2 deng1 ba1 he4] /Rodenbach/
 羅迪 罗迪 [Luo2 di2] /Roddie/Rowdy/
+羅迪克 罗迪克 [Luo2 di2 ke4] /Roddick/Rodick/
+羅迪納 罗迪纳 [Luo2 di2 na4] /Rodina/
 羅底巴 罗底巴 [Luo2 di3 ba1] /Lo-debar/
 羅蒂 罗蒂 [Luo2 di4] /Rorty/
 羅地島 罗地岛 [Luo2 di4 dao3] /Rotè (island)/
@@ -21169,6 +21320,7 @@
 羅基琳 罗基琳 [Luo2 ji1 lin2] /Rogelim/
 羅吉爾 罗吉尔 [Luo2 ji2 er3] /Rogier/
 羅迦 罗迦 [Luo2 jia1] /Rohgah/
+羅加爾 罗加尔 [Luo2 jia1 er3] /Rogal/
 羅江區 罗江区 [Luo2 jiang1_Qu1] /Luojiang District/District, Luojiang/
 羅江縣 罗江县 [Luo2 jiang1_Xian4] /Luojiang (county, in Sichuan)/
 羅傑 罗杰 [Luo2 jie2] /Roger/
@@ -21184,9 +21336,11 @@
 羅克桑娜 罗克桑娜 [Luo2 ke4 sang1 na4] /Roxana/
 羅克珊 罗克珊 [Luo2 ke4 shan1] /Roxanne/
 羅克珊娜 罗克珊娜 [Luo2 ke4 shan1 na4] /Roxane/
+羅克斯 罗克斯 [Luo2 ke4 si1] /Roques/
 羅克維爾 罗克维尔 [Luo2 ke4 wei2 er3] /Rockville/
 羅克韋爾 罗克韦尔 [Luo2 ke4 wei2 er3] /Rockwell/
 羅克西 罗克西 [Luo2 ke4 xi1] /Roxie/Roxy/
+羅克希爾 罗克希尔 [Luo2 ke4 xi1 er3] /Rockhill/
 蘿拉 萝拉 [Luo2 la1] /Laura/
 羅拉德派 罗拉德派 [Luo2 la1 de2_pai4] /lollards/
 羅蘭 罗兰 [Luo2 lan2] /Rowland/
@@ -21197,6 +21351,7 @@
 羅莉 罗莉 [Luo2 li4] /Lori/
 蘿莉 萝莉 [Luo2 li4] /Lourie/
 蘿莉 蘿莉 [Luo2 li4] /Loli/
+羅利斯 罗利斯 [Luo2 li4 si1] /Rollis/
 羅烈蒂 罗烈蒂 [Luo2 lie4 di4] /Loretta (old translation)/
 羅琳 罗琳 [Luo2 lin2] /Rowling/
 羅林森 罗林森 [Luo2 lin2 sen1] /Rawlinson/
@@ -21265,6 +21420,7 @@
 羅普 罗普 [Luo2 pu3] /Raup (David)/
 羅普斯 罗普斯 [Luo2 pu3 si1] /Rops/
 羅奇 罗奇 [Luo2 qi2] /Rodge/
+羅切爾 罗切尔 [Luo2 qie4 er3] /Rocher/
 羅切斯特 罗切斯特 [Luo2 qie4 si1 te4] /Rochester/
 羅薩 罗萨 [Luo2 sa4] /Rosa/Roza/
 羅薩里奧 罗萨里奥 [Luo2 sa4 li3 ao4] /Rosario/
@@ -21272,19 +21428,24 @@
 羅薩利奧 罗萨利奥 [Luo2 sa4 li4 ao4] /Rosalío/
 羅薩莉婭 罗萨莉娅 [Luo2 sa4 li4 ya4] /Rosalía/
 羅薩娜 罗萨娜 [Luo2 sa4 na4] /Rosana/
+羅塞爾 罗塞尔 [Luo2 sai4 er3] /Rossel/Rossell/Russell/
 羅塞塔 罗塞塔 [Luo2 sai4 ta3] /Rosetta/
 羅塞塔石碑 罗塞塔石碑 [Luo2 sai4 ta3_Shi2 bei1] /Rosetta Stone/Stone, Rosetta/
 羅桑 罗桑 [Luo2 sang1] /Rosann/
 羅桑傑拉 罗桑杰拉 [Luo2 sang1 jie2 la1] /Rosangela/
 羅瑟拉姆 罗瑟拉姆 [Luo2 se4 la1 mu3] /Rotherham/
 羅瑟勒姆 罗瑟勒姆 [Luo2 se4 le4 mu3] /Rotherham/
+羅瑟里 罗瑟里 [Luo2 se4 li3] /Rothery/
 羅森 罗森 [Luo2 sen1] /Rozen/
 羅森堡 罗森堡 [Luo2 sen1 bao3] /Rosenberg/
 羅森鮑姆 罗森鲍姆 [Luo2 sen1 bao4 mu3] /Rosenbaum/
 羅森博格 罗森博格 [Luo2 sen1 bo2 ge2] /Rothenberger/
 羅森布拉特 罗森布拉特 [Luo2 sen1 bu4 la1 te4] /Rosenblatt/
+羅森達爾 罗森达尔 [Luo2 sen1 da2 er3] /Rosendahl/
+羅森代爾 罗森代尔 [Luo2 sen1 dai4 er3] /Rosendale/
 羅森德 罗森德 [Luo2 sen1 de2] /Rosendo/
 羅森菲爾德 罗森菲尔德 [Luo2 sen1 fei1 er3 de2] /Rosenfeld/
+羅森曼 罗森曼 [Luo2 sen1 man4] /Rosenman/
 羅森塔爾 罗森塔尔 [Luo2 sen1 ta3 er3] /Rosenthal/
 羅沙 罗沙 [Luo2 sha1] /Rocha/
 羅莎 罗莎 [Luo2 sha1] /Rosa/
@@ -21305,8 +21466,10 @@
 羅斯 罗斯 [Luo2 si1] /Ross/Rose (surname)/
 蘿絲 萝丝 [Luo2 si1] /Rose (name)/
 羅斯安妮 罗斯安妮 [Luo2 si1 an1 ni1] /Roseanne/
+羅斯伯勒 罗斯伯勒 [Luo2 si1 bo2 le4] /Roseborough/
 羅斯柴爾德 罗斯柴尔德 [Luo2 si1 chai2 er3 de2] /Rothschild/
 羅斯福 罗斯福 [Luo2 si1 fu2] /Roosevelt/
+羅斯基 罗斯基 [Luo2 si1 ji1] /Rawski/
 羅斯金 罗斯金 [Luo2 si1 jin1] /Ruskin/
 羅斯康芒郡 罗斯康芒郡 [Luo2 si1 kang1 mang2 jun4] /County Roscommon/Roscommon, County/
 羅斯科 罗斯科 [Luo2 si1 ke1] /Roscoe/
@@ -21315,9 +21478,12 @@
 蘿絲琳 萝丝琳 [Luo2 si1 lin2] /Roslyn/
 羅絲瑪麗 罗丝玛丽 [Luo2 si1 ma3 li4] /Roseanne/
 羅斯瑪麗 罗斯玛丽 [Luo2 si1 ma3 li4] /Rosemary (name)/
+羅思曼 罗思曼 [Luo2 si1 man4] /Rothman/
+羅斯曼 罗斯曼 [Luo2 si1 man4] /Rosman/Rossman/
 羅斯蒙特 罗斯蒙特 [Luo2 si1 meng2 te4] /Rosemont/
 羅斯蒙德 罗斯蒙德 [Luo2 si1 meng3 de2] /Rosemond/
 羅斯納 罗斯纳 [Luo2 si1 na4] /Rössner/
+羅斯諾 罗斯诺 [Luo2 si1 nuo4] /Rosenow/
 羅斯塔姆 罗斯塔姆 [Luo2 si1 ta3 mu3] /Rostam/
 羅斯坦 罗斯坦 [Luo2 si1 tan3] /Rostam/
 羅斯托夫州 罗斯托夫州 [Luo2 si1 tuo1 fu1_Zhou1] /Rostov (region in Russia)/
@@ -21325,12 +21491,14 @@
 羅斯威爾 罗斯威尔 [Luo2 si1 wei1 er3] /Roswell/
 羅斯韋爾 罗斯韦尔 [Luo2 si1 wei2 er3] /Rossella/
 羅斯維塔 罗斯维塔 [Luo2 si1 wei2 ta3] /Roswitha/
+羅斯沃爾 罗斯沃尔 [Luo2 si1 wo4 er3] /Rosewall/
 羅素 罗素 [Luo2 su4] /Russell (surname)/
 羅梭 罗梭 [Luo2 suo1] /Rossouw/
 羅梭江 罗梭江 [Luo2 suo1_Jiang1] /Luosuo River/River, Luosuo/
 羅塔島 罗塔岛 [Luo2 ta3 dao3] /Rota/
 羅坦 罗坦 [Luo2 tan3] /Lotan/
 羅特 罗特 [Luo2 te4] /Lothar/
+羅特克 罗特克 [Luo2 te4 ke4] /Roethke/
 羅特韋爾 罗特韦尔 [Luo2 te4 wei2 er3] /Rottweiler (dog type)/
 羅提 罗提 [Luo2 ti2] /Lottie/
 羅田縣 罗田县 [Luo2 tian2_Xian4] /Luotian (county, in Hubei)/
@@ -21368,6 +21536,7 @@
 螺洲鎮 螺洲镇 [Luo2 zhou1 zhen4] /Luozhou (town)/
 羅莊區 罗庄区 [Luo2 zhuang1_Qu1] /Luozhuang District/District, Luozhuang/
 羅茲 罗兹 [Luo2 zi1] /Lodz/
+羅茲曼 罗兹曼 [Luo2 zi1 man4] /Rozman/
 裸鰓類動物 裸鳃类动物 [Luo3 sai1 lei4_dong4 wu4] /nudibranch/
 洛江 洛江 [Luo4_Jiang1] /Luo River/River, Luo/
 駱太太 骆太太 [Luo4_tai4 tai5] /Mrs Luo/
@@ -21391,6 +21560,7 @@
 駱店鎮 骆店镇 [Luo4 dian4 zhen4] /Luodian (town)/
 洛東鄉 洛东乡 [Luo4 dong1_Xiang1] /Luodong Township/Township, Luodong/
 洛夫 洛夫 [Luo4 fu1] /Love (name)/
+洛夫頓 洛夫顿 [Luo4 fu1 dun4] /Lofton/
 洛夫曼 洛夫曼 [Luo4 fu1 man4] /Loveman/
 洛夫娜 洛夫娜 [Luo4 fu1 na4] /Lyudmila/
 洛弗 洛弗 [Luo4 fu2] /Lovre/
@@ -21522,6 +21692,7 @@
 呂振中譯本 吕振中译本 [Lu:3_Zhen4 zhong1_Yi4 ben3] /Lu Zhenzhong's version (of Bible)/Zhenzhong's version, Lu (of Bible)/
 呂太太 吕太太 [Lu:3_tai4 tai5] /Mrs Lu/
 呂先生 吕先生 [Lu:3_xian1 sheng5] /Mr Lu/
+呂爾斯 吕尔斯 [Lu:3 er3 si1] /Luhrs/
 呂班 吕班 [Lu:3 ban1] /Ruben (modern)/Rubin/Rubin, Ruben/
 呂貝克 吕贝克 [Lu:3 bei4 ke4] /Lübeck/
 呂便 吕便 [Lu:3 bian4] /Reuben/
@@ -21618,6 +21789,7 @@
 馬恩耶 马恩耶 [Ma3 en1 ye1] /Mahenye/
 馬爾 马尔 [Ma3 er3] /Marc/
 馬爾堡 马尔堡 [Ma3 er3 bao3] /Marburg/
+馬爾德 马尔德 [Ma3 er3 de2] /Mulder/
 馬爾蒂努 马尔蒂努 [Ma3 er3 di4 nu3] /Martinů/
 馬爾杜 马尔杜 [Ma3 er3 du4] /Maldue/
 馬爾杜克 马尔杜克 [Ma3 er3 du4 ke4] /Marduk/
@@ -22037,6 +22209,7 @@
 馬利斯 马利斯 [Ma3 li4 si1] /Malicsi/
 瑪麗塔 玛丽塔 [Ma3 li4 ta3] /Marietta/Marita/
 瑪麗特 玛丽特 [Ma3 li4 te4] /Marit/
+馬利特 马利特 [Ma3 li4 te4] /Marlett/
 瑪麗亞 玛丽亚 [Ma3 li4 ya4] /Maria/
 瑪麗婭 玛丽娅 [Ma3 li4 ya4] /Malia/Mariah/
 瑪利亞 玛利亚 [Ma3 li4 ya4] /Maria/
@@ -22433,11 +22606,13 @@
 邁克爾 迈克尔 [Mai4 ke4 er3] /Michael (modern name)/
 麥克爾 麦克尔 [Mai4 ke4 er3] /Michael (Servetus etc)/
 麥克爾亨尼 麦克尔亨尼 [Mai4 ke4 er3 heng1 ni2] /Mcelhenney/
+麥克爾羅伊 麦克尔罗伊 [Mai4 ke4 er3 luo2 yi1] /Mcelroy/
 麥克爾威 麦克尔威 [Mai4 ke4 er3 wei1] /Mcelwee/
 麥克白 麦克白 [Mai4 ke4 bai2] /Macbeth (Shakespeare play)/
 麥克比 麦克比 [Mai4 ke4 bi3] /Mcbee/
 麥克布賴德 麦克布赖德 [Mai4 ke4 bu4 lai4 de2] /Macbride/
 麥克達菲 麦克达菲 [Mai4 ke4 da2 fei1] /Mcduffie/
+麥克丹尼爾 麦克丹尼尔 [Mai4 ke4 dan1 ni2 er3] /Mcdaniel/
 麥克道爾 麦克道尔 [Mai4 ke4 dao4 er3] /McDowell/
 麥克德莫特 麦克德莫特 [Mai4 ke4 de2 mo4 te4] /McDermott/
 麥克迪爾 麦克迪尔 [Mai4 ke4 di2 er3] /Mcdill/
@@ -22455,6 +22630,7 @@
 麥克拉克倫 麦克拉克伦 [Mai4 ke4 la1 ke4 lun2] /Maclachlan/
 麥克拉斯基 麦克拉斯基 [Mai4 ke4 la1 si1 ji1] /Mcclusky/
 麥克萊恩 麦克莱恩 [Mai4 ke4 lai2 en1] /McLain/
+麥克萊蘭 麦克莱兰 [Mai4 ke4 lai2 lan2] /Mclelland/
 麥克萊林 麦克莱林 [Mai4 ke4 lai2 lin2] /Maclean/
 麥克蘭 麦克兰 [Mai4 ke4 lan2] /Mcclane/
 麥克蘭德 麦克兰德 [Mai4 ke4 lan2 de2] /Macrander/
@@ -22476,11 +22652,13 @@
 麥克馬斯特 麦克马斯特 [Mai4 ke4 ma3 si1 te4] /Macmaster/
 麥克曼 麦克曼 [Mai4 ke4 man4] /Mcmann/
 麥克米倫 麦克米伦 [Mai4 ke4 mi3 lun2] /Macmillan/McMillen/
+麥克默里 麦克默里 [Mai4 ke4 mo4 li3] /Macmurray/
 麥克默特里 麦克默特里 [Mai4 ke4 mo4 te4 li3] /Mcmurtrey/
 麥克納爾 麦克纳尔 [Mai4 ke4 na4 er3] /Mcnall/
 麥克納馬 麦克纳马 [Mai4 ke4 na4 ma3] /Mcnamar/
 麥克納馬拉 麦克纳马拉 [Mai4 ke4 na4 ma3 la1] /McNamara/
 麥克奈里 麦克奈里 [Mai4 ke4 nai4 li3] /Mceniry/
+麥克內利 麦克内利 [Mai4 ke4 nei4 li4] /Mcnelly/
 麥克尼爾 麦克尼尔 [Mai4 ke4 ni2 er3] /McNeill/
 麥克尼科爾 麦克尼科尔 [Mai4 ke4 ni2 ke1 er3] /Mcnicoll/
 麥克尼利 麦克尼利 [Mai4 ke4 ni2 li4] /Mcneely/
@@ -22521,6 +22699,7 @@
 麥市鎮 麦市镇 [Mai4 shi4 zhen4] /Maishi (town)/
 麥斯 麦斯 [Mai4 si1] /Max/
 邁斯基 迈斯基 [Mai4 si1 ji1] /Mayskiy/
+邁斯納 迈斯纳 [Mai4 si1 na4] /Meissner/
 麥斯威爾 麦斯威尔 [Mai4 si1 wei1 er3] /Maxwell/
 邁特 迈特 [Mai4 te4] /Maite/
 麥特 麦特 [Mai4 te4] /Myrtle (name)/
@@ -22579,6 +22758,7 @@
 曼哈頓 曼哈顿 [Man4 ha1 dun4] /Manhattan/
 漫河鄉 漫河乡 [Man4 he2_Xiang1] /Manhe Township/Township, Manhe/
 曼加 曼加 [Man4 jia1] /Manga (place in Burkina Faso)/
+曼加諾 曼加诺 [Man4 jia1 nuo4] /Mangano/
 曼賈克語 曼贾克语 [Man4 jia3 ke4 yu3] /Mandjak (language)/
 漫江鄉 漫江乡 [Man4 jiang1_Xiang1] /Manjiang Township/Township, Manjiang/
 漫江鎮 漫江镇 [Man4 jiang1 zhen4] /Manjiang (town)/
@@ -22620,6 +22800,7 @@
 芒人 芒人 [Mang2 ren2] /person of Mang (in Yunnan)/Mang, person of (in Yunnan)/
 芒山鎮 芒山镇 [Mang2 shan1 zhen4] /Mangshan (town)/
 芒什省 芒什省 [Mang2 shi2 sheng3] /Manche (in Normandy)/
+芒斯特 芒斯特 [Mang2 si1 te4] /Munster/
 芒西 芒西 [Mang2 xi1] /Muncy/
 茫崖市 茫崖市 [Mang2 ya2_Shi4] /Mangya City/City, Mangya/
 茫崖行政區 茫崖行政区 [Mang2 ya2 xing2 zheng4_Qu1] /Mangyaxingzheng (district, in Qinghai)/
@@ -22727,6 +22908,7 @@
 梅爾維爾 梅尔维尔 [Mei2 er3 wei2 er3] /Melville/
 梅爾文 梅尔文 [Mei2 er3 wen2] /Melvyn/
 梅爾文 梅爾文 [Mei2 er3 wen2] /Melvin/
+梅爾澤 梅尔泽 [Mei2 er3 ze2] /Melzer/
 梅貝爾 梅贝尔 [Mei2 bei4 er3] /Maybell/
 梅布爾 梅布尔 [Mei2 bu4 er3] /Mabel/Mable/
 梅察達 梅察达 [Mei2 cha2 da2] /Masada/
@@ -23031,6 +23213,7 @@
 蒙尼特 蒙尼特 [Meng3 ni2 te4] /Monnett/
 蒙塞拉 蒙塞拉 [Meng3 sai1 la1] /Montserrat/
 蒙塔娜 蒙塔娜 [Meng3 ta3 na4] /Montana/
+蒙塔諾 蒙塔诺 [Meng3 ta3 nuo4] /Montano/
 蒙特茲 蒙特兹 [Meng3 te4 zi1] /Montez/
 蒙提 蒙提 [Meng3 ti2] /Monte/Monty/
 蒙托亞 蒙托亚 [Meng3 tuo1 ya4] /Montoya/
@@ -23095,6 +23278,7 @@
 米爾恩 米尔恩 [Mi3 er3 en1] /Milne/
 米爾恩灣 米尔恩湾 [Mi3 er3 en1 wan1] /Milne Bay/
 米爾本 米尔本 [Mi3 er3 ben3] /Milburn/
+米爾伯格 米尔伯格 [Mi3 er3 bo2 ge2] /Muehlberger/
 米爾德里德 米尔德里德 [Mi3 er3 de2 li3 de2] /Mildred/
 米爾德麗 米尔德丽 [Mi3 er3 de2 li4] /Mildred (older translation?)/
 米爾德麗德 米尔德丽德 [Mi3 er3 de2 li4 de2] /Mildred/
@@ -23771,6 +23955,7 @@
 默特爾街 默特尔街 [Mo4 te4 er3 jie1] /Myrtle Avenue/Avenue, Myrtle/
 莫滕 莫滕 [Mo4 teng2] /Morten/
 默滕 默滕 [Mo4 teng2] /Merten/
+默廷斯 默廷斯 [Mo4 ting2 si1] /Mertins/
 莫圖語 莫图语 [Mo4 tu2 yu3] /Motu (language)/
 墨脫縣 墨脱县 [Mo4 tuo1_Xian4] /Motuo County/County, Motuo/
 莫托克 莫托克 [Mo4 tuo1 ke4] /Moltke/
@@ -24069,6 +24254,7 @@
 那楠鄉 那楠乡 [Na4 nan2_Xiang1] /Nanan Township/Township, Nanan/
 娜妮 娜妮 [Na4 ni1] /Nani/
 納尼 纳尼 [Na4 ni2] /Nani/
+納諾斯 纳诺斯 [Na4 nuo4 si1] /Nanos/
 那彭鎮 那彭镇 [Na4 peng2 zhen4] /Napeng (town)/
 納皮 纳皮 [Na4 pi2] /Nappi/
 那坡縣 那坡县 [Na4 po1_Xian4] /Napo (county, in Guangxi)/
@@ -24401,6 +24587,7 @@
 內莉 内莉 [Nei4 li4] /Nellie/
 內良鄉 内良乡 [Nei4 liang2_Xiang1] /Neiliang Township/Township, Neiliang/
 內羅畢 内罗毕 [Nei4 luo2 bi4] /Nairobi/
+內梅羅夫 内梅罗夫 [Nei4 mei2 luo2 fu1] /Nemeroff/
 內門區 内门区 [Nei4 men2_Qu1] /Neimen District (in Kaohsiung)/District, Neimen (in Kaohsiung)/
 內姆 内姆 [Nei4 mu3] /Naim/
 內納德 内纳德 [Nei4 na4 de2] /Nenad/
@@ -24468,6 +24655,7 @@
 尼恩 尼恩 [Ni2 en1] /Kneen/
 尼爾 尼尔 [Ni2 er3] /Neil/
 尼珥 尼珥 [Ni2 er3] /Ner/
+尼爾德 尼尔德 [Ni2 er3 de2] /Nield/
 尼爾森 尼尔森 [Ni2 er3 sen1] /Nilsen/
 尼爾士 尼尔士 [Ni2 er3 shi4] /Niels/
 尼爾斯 尼尔斯 [Ni2 er3 si1] /Nils/
@@ -24526,6 +24714,7 @@
 尼赫邁亞 尼赫迈亚 [Ni2 he4 mai4 ya4] /Nehemiah (modern)/
 尼宏 尼宏 [Ni2 hong2] /Nehum/
 尼霍夫 尼霍夫 [Ni2 huo4 fu1] /Niehoff/
+尼霍姆 尼霍姆 [Ni2 huo4 mu3] /Nyholm/
 尼基 尼基 [Ni2 ji1] /Nicky/
 尼基福爾 尼基福尔 [Ni2 ji1 fu2 er3] /Nikifor/
 尼基塔 尼基塔 [Ni2 ji1 ta3] /Nikita/
@@ -24816,6 +25005,7 @@
 諾伯特 诺伯特 [Nuo4 bo2 te4] /Norbert/
 諾伯托 诺伯托 [Nuo4 bo2 tuo1] /Norberto/
 諾德 诺德 [Nuo4 de2] /Knode/
+諾德霍夫 诺德霍夫 [Nuo4 de2 huo4 fu1] /Nordhoff/
 諾迪卡 诺迪卡 [Nuo4 di2 ka3] /Nordica/
 諾蒂卡 诺蒂卡 [Nuo4 di4 ka3] /Nautica/
 諾丁漢 诺丁汉 [Nuo4 ding1 han4] /Nottingham/
@@ -24825,6 +25015,7 @@
 諾福克 诺福克 [Nuo4 fu2 ke4] /Norfolk/
 諾福克郡 诺福克郡 [Nuo4 fu2 ke4 jun4] /Norfolk (county)/
 諾蓋語 诺盖语 [Nuo4 gai4 yu3] /Nogai (language)/
+諾格倫 诺格伦 [Nuo4 ge2 lun2] /Nordgren/
 諾基亞 诺基亚 [Nuo4 ji1 ya4] /Nokia/
 諾加萊斯 诺加莱斯 [Nuo4 jia1 lai2 si1] /Nogales/
 諾克 诺克 [Nuo4 ke4] /Knoke/Noak/Notker/
@@ -24956,6 +25147,7 @@
 帕耳 帕耳 [Pa4 er3] /Pal (name)/
 帕爾多 帕尔多 [Pa4 er3 duo1] /Pardo/
 帕爾克 帕尔克 [Pa4 er3 ke4] /Park (station name in Johannesburg)/
+帕爾瑪 帕尔玛 [Pa4 er3 ma3] /Palma/
 帕爾馬 帕尔马 [Pa4 er3 ma3] /Palma/
 帕爾馬斯角 帕尔马斯角 [Pa4 er3 ma3 si1 jiao3] /Cape Palmas/Palmas, Cape/
 帕爾邁拉文 帕尔迈拉文 [Pa4 er3 mai4 la1 wen2] /Palmyrene (written language)/
@@ -24969,12 +25161,15 @@
 帕德瑪 帕德玛 [Pa4 de2 ma3] /Padma/
 帕迪 帕迪 [Pa4 di2] /Padi/
 帕迪利亞 帕迪利亚 [Pa4 di2 li4 ya4] /Padilla/
+帕迪尤 帕迪尤 [Pa4 di2 you2] /Pardew/
 帕蒂 帕蒂 [Pa4 di4] /Pattie/
 帕丁頓 帕丁顿 [Pa4 ding1 dun4] /Paddington (London)/
 帕杜 帕杜 [Pa4 du4] /Pardue/
 帕多瓦 帕多瓦 [Pa4 duo1 wa3] /Padua/
 帕多瓦大學 帕多瓦大学 [Pa4 duo1 wa3_Da4 xue2] /University of Padua/Padua, University of/
+帕菲特 帕菲特 [Pa4 fei1 te4] /Puffett/
 帕夫拉戈尼亞 帕夫拉戈尼亚 [Pa4 fu1 la1 ge1 ni2 ya4] /Paphlagonia/
+帕夫拉克 帕夫拉克 [Pa4 fu1 la1 ke4] /Pavlak/
 帕夫萊 帕夫莱 [Pa4 fu1 lai2] /Pavle/
 帕夫列 帕夫列 [Pa4 fu1 lie4] /Pavle/
 帕夫羅 帕夫罗 [Pa4 fu1 luo2] /Pavlo/
@@ -25008,22 +25203,28 @@
 帕拉 帕拉 [Pa4 la1] /Palal/
 帕拉迪諾 帕拉迪诺 [Pa4 la1 di2 nuo4] /Palladino/
 帕拉迪斯 帕拉迪斯 [Pa4 la1 di2 si1] /Paradis/
+帕拉迪索 帕拉迪索 [Pa4 la1 di2 suo3] /Paradiso/
 帕拉蒂諾山 帕拉蒂诺山 [Pa4 la1 di4 nuo4_Shan1] /Palatine (mountain)/
 帕拉赫 帕拉赫 [Pa4 la1 he4] /Parah/
 帕拉馬里博 帕拉马里博 [Pa4 la1 ma3 li3 bo2] /Paramaribo/
 帕拉馬塔 帕拉马塔 [Pa4 la1 ma3 ta3] /Parramatta/
 帕拉莫爾 帕拉莫尔 [Pa4 la1 mo4 er3] /Paramore/Parramore/
+帕拉姆 帕拉姆 [Pa4 la1 mu3] /Parram/
 帕拉斯 帕拉斯 [Pa4 la1 si1] /Pallas/
+帕拉特 帕拉特 [Pa4 la1 te4] /Parratt/
 帕拉維 帕拉维 [Pa4 la1 wei2] /Pallavi/
 帕拉伊 帕拉伊 [Pa4 la1 yi1] /Pally/
 帕拉伊巴 帕拉伊巴 [Pa4 la1 yi1 ba1] /Paraíba/
 帕萊 帕莱 [Pa4 lai2] /Paarai/
 帕萊奧洛格 帕莱奥洛格 [Pa4 lai2 ao4 luo4 ge2] /Paleologu/
 帕蘭 帕兰 [Pa4 lan2] /Paran/
+帕蘭克 帕兰克 [Pa4 lan2 ke4] /Palank/
 帕勞 帕劳 [Pa4 lao2] /Palau/
 帕勞語 帕劳语 [Pa4 lao2 yu3] /Palauan (language)/
 帕勒 帕勒 [Pa4 le4] /Palle/
+帕勒姆 帕勒姆 [Pa4 le4 mu3] /Parham/
 帕勒斯 帕勒斯 [Pa4 le4 si1] /Pallas/
+帕雷特 帕雷特 [Pa4 lei2 te4] /Parrette/
 帕雷托 帕雷托 [Pa4 lei2 tuo1] /Pareto/
 帕雷托法則 帕雷托法则 [Pa4 lei2 tuo1_fa3 ze2] /Pareto principle/principle, Pareto/
 帕累托 帕累托 [Pa4 lei4 tuo1] /Pareto (rarer translation?)/
@@ -25031,7 +25232,10 @@
 帕里薩 帕里萨 [Pa4 li3 sa4] /Parisa/
 帕里什 帕里什 [Pa4 li3 shi2] /Parish/Parrish/
 帕里斯 帕里斯 [Pa4 li3 si1] /Paris (in Kentucky)/
+帕里特 帕里特 [Pa4 li3 te4] /Parret/
 帕利庫爾人 帕利库尔人 [Pa4 li4 ku4 er3 ren2] /Palicur (people)/
+帕利斯 帕利斯 [Pa4 li4 si1] /Pallis/
+帕利斯特 帕利斯特 [Pa4 li4 si1 te4] /Pallister/
 帕列 帕列 [Pa4 lie4] /Palle/
 帕隆藏布 帕隆藏布 [Pa4 long2_Cang2 bu4] /Parlung Tsangpo/Tsangpo, Parlung/
 帕盧 帕卢 [Pa4 lu2] /Palu/
@@ -25051,10 +25255,13 @@
 帕米拉 帕米拉 [Pa4 mi3 la1] /Pamela/
 帕米利 帕米利 [Pa4 mi3 li4] /Parmelee/
 帕米蓮 帕米莲 [Pa4 mi3 lian2] /Pamelyn/
+帕米特 帕米特 [Pa4 mi3 te4] /Parmiter/
 帕姆 帕姆 [Pa4 mu3] /Pam/
 帕姆利 帕姆利 [Pa4 mu3 li4] /Parmley/
 帕納 帕纳 [Pa4 na4] /Parnach/
+帕納爾 帕纳尔 [Pa4 na4 er3] /Parnall/
 帕納約蒂斯 帕纳约蒂斯 [Pa4 na4 yue1 di4 si1] /Panayotis/
+帕內爾 帕内尔 [Pa4 nei4 er3] /Parnel/Parnell/
 帕內塔 帕内塔 [Pa4 nei4 ta3] /Panetta/
 帕諾斯 帕诺斯 [Pa4 nuo4 si1] /Panos/
 帕帕斯 帕帕斯 [Pa4 pa4 si1] /Pappas/
@@ -25077,6 +25284,7 @@
 帕斯卡利斯 帕斯卡利斯 [Pa4 si1 ka3 li4 si1] /Paschalis/
 帕斯卡西奧 帕斯卡西奥 [Pa4 si1 ka3 xi1 ao4] /Pascasio/
 帕斯科 帕斯科 [Pa4 si1 ke1] /Pasqual/
+帕斯克 帕斯克 [Pa4 si1 ke4] /Paske/
 帕斯誇爾 帕斯夸尔 [Pa4 si1 kua1 er3] /Pasqual/
 帕斯誇萊 帕斯夸莱 [Pa4 si1 kua1 lai2] /Pasquale/
 帕斯奎爾 帕斯奎尔 [Pa4 si1 kui2 er3] /Pasquale/
@@ -25084,10 +25292,12 @@
 帕斯塔薩 帕斯塔萨 [Pa4 si1 ta3 sa4] /Pastaza/
 帕斯特 帕斯特 [Pa4 si1 te4] /Pastor (name)/
 帕斯托 帕斯托 [Pa4 si1 tuo1] /Pastor (surname etc)/
+帕索斯 帕索斯 [Pa4 suo3 si1] /Passos/
 帕台農神廟 帕台农神庙 [Pa4 tai2 nong2 shen2 miao4] /Parthenon (temple)/
 帕特 帕特 [Pa4 te4] /Pat (name)/
 帕特爾 帕特尔 [Pa4 te4 er3] /Patel/
 帕特拉吉斯 帕特拉吉斯 [Pa4 te4 la1 ji2 si1] /Paterakis/
+帕特里 帕特里 [Pa4 te4 li3] /Patri/
 帕特里克 帕特里克 [Pa4 te4 li3 ke4] /Patrick/
 帕特里斯 帕特里斯 [Pa4 te4 li3 si1] /Patrice/
 帕特里夏 帕特里夏 [Pa4 te4 li3 xia4] /Patricia/
@@ -25124,10 +25334,12 @@
 牌洲灣鎮 牌洲湾镇 [Pai2 zhou1 wan1 zhen4] /Paizhouwan (town)/
 派恩里奇 派恩里奇 [Pai4 en1 li3 qi2] /Pine Ridge/Ridge, Pine/
 派爾努 派尔努 [Pai4 er3 nu3] /Pärnu/
+派伯斯 派伯斯 [Pai4 bo2 si1] /Pybus/
 派翠克 派翠克 [Pai4 cui4 ke4] /Patrick/
 派翠西亞 派翠西亚 [Pai4 cui4 xi1 ya4] /Patricia/
 派蒂 派蒂 [Pai4 di4] /Patti/
 派克 派克 [Pai4 ke4] /Peck (surname)/
+派克特 派克特 [Pai4 ke4 te4] /Peikert/
 派拉特 派拉特 [Pai4 la1 te4] /Pilat/
 派林 派林 [Pai4 lin2] /Pailing/
 派佩 派佩 [Pai4 pei4] /Pepper (name)/
@@ -25137,6 +25349,7 @@
 派特森 派特森 [Pai4 te4 sen1] /Pattison/
 派瓦 派瓦 [Pai4 wa3] /Paiva/
 派希亞 派希亚 [Pai4 xi1 ya4] /Paihia/
+派亞特 派亚特 [Pai4 ya4 te4] /Piatt/
 潘太太 潘太太 [Pan1_tai4 tai5] /Mrs Pan/
 潘先生 潘先生 [Pan1_xian1 sheng5] /Mr Pan/
 潘村鎮 潘村镇 [Pan1 cun1 zhen4] /Pancun (town)/
@@ -25253,6 +25466,7 @@
 沛縣 沛县 [Pei4_Xian4] /Pei County/County, Pei/
 佩恩 佩恩 [Pei4 en1] /Payne/
 佩恩頓 佩恩顿 [Pei4 en1 dun4] /Paignton/
+佩恩斯 佩恩斯 [Pei4 en1 si1] /Paynes/
 佩爾蒂埃 佩尔蒂埃 [Pei4 er3 di4 ai1] /Pelletier/
 佩爾基 佩尔基 [Pei4 er3 ji1] /Pelkey/
 佩爾吉 佩尔吉 [Pei4 er3 ji2] /Perga/
@@ -25264,6 +25478,7 @@
 佩爾紹德 佩尔绍德 [Pei4 er3 shao4 de2] /Persaud/
 佩爾澤 佩尔泽 [Pei4 er3 ze2] /Pelzer/
 佩波 佩波 [Pei4 bo1] /Pepo/
+佩策爾 佩策尔 [Pei4 ce4 er3] /Petzel/
 沛城鎮 沛城镇 [Pei4 cheng2 zhen4] /Peicheng (town)/
 佩德 佩德 [Pei4 de2] /Peder/
 佩德拉薩 佩德拉萨 [Pei4 de2 la1 sa4] /Pedraza/
@@ -25275,11 +25490,13 @@
 佩頓 佩顿 [Pei4 dun4] /Peyton/
 佩格 佩格 [Pei4 ge2] /Peg (name)/
 佩格羅 佩格罗 [Pei4 ge2 luo2] /Peguero/
+佩格斯 佩格斯 [Pei4 ge2 si1] /Pegues/
 佩姬 佩姬 [Pei4 ji1] /Paqui/
 佩吉 佩吉 [Pei4 ji2] /Peggy/
 佩季 佩季 [Pei4 ji4] /Peti/
 佩卡 佩卡 [Pei4 ka3] /Pekka/
 佩克 佩克 [Pei4 ke4] /Peck (name)/
+佩克斯 佩克斯 [Pei4 ke4 si1] /Pakes/
 佩拉 佩拉 [Pei4 la1] /Pella/
 佩拉加 佩拉加 [Pei4 la1 jia1] /Pelagia/
 佩萊 佩莱 [Pei4 lai2] /Pele/
@@ -25287,19 +25504,23 @@
 佩雷 佩雷 [Pei4 lei2] /Pele/
 佩雷拉 佩雷拉 [Pei4 lei2 la1] /Pereira/
 佩雷斯 佩雷斯 [Pei4 lei2 si1] /Perez (modern)/Pérez/Pérez, Perez/
+佩雷特 佩雷特 [Pei4 lei2 te4] /Perrett/
 佩里 佩里 [Pei4 li3] /Perry/
 佩里達 佩里达 [Pei4 li3 da2] /Perida/
 佩里克萊斯 佩里克莱斯 [Pei4 li3 ke4 lai2 si1] /Pericles/
+佩里曼 佩里曼 [Pei4 li3 man4] /Perriman/
 佩里尼 佩里尼 [Pei4 li3 ni2] /Perini/
 佩里斯 佩里斯 [Pei4 li3 si1] /Perris/
 佩里托莫雷諾 佩里托莫雷诺 [Pei4 li3 tuo1 mo4 lei2 nuo4] /Perito Moreno/Moreno, Perito/
 佩利 佩利 [Pei4 li4] /Pelly/
+佩利特 佩利特 [Pei4 li4 te4] /Pellett/
 佩列瓦利斯克 佩列瓦利斯克 [Pei4 lie4 wa3 li4 si1 ke4] /Perevalsk/
 佩列瓦利斯克市 佩列瓦利斯克市 [Pei4 lie4 wa3 li4 si1 ke4_Shi4] /Perevalsk/
 佩林 佩林 [Pei4 lin2] /Perrin/
 佩龍 佩龙 [Pei4 long2] /Perrone/
 佩倫 佩伦 [Pei4 lun2] /Perren/
 佩羅 佩罗 [Pei4 luo2] /Pero/
+佩羅特 佩罗特 [Pei4 luo2 te4] /Perrott/
 佩洛 佩洛 [Pei4 luo4] /Pello/
 佩洛西 佩洛西 [Pei4 luo4 xi1] /Pelosi/
 佩蒙 佩蒙 [Pei4 meng2] /Pemón/
@@ -25308,23 +25529,28 @@
 佩妮萊 佩妮莱 [Pei4 ni1 lai2] /Pernille/
 佩尼 佩尼 [Pei4 ni2] /Peni/
 佩尼爾 佩尼尔 [Pei4 ni2 er3] /Pernille/
+佩尼克 佩尼克 [Pei4 ni2 ke4] /Penick/
 佩尼娜 佩尼娜 [Pei4 ni2 na4] /Penina/
+佩尼亞 佩尼亚 [Pei4 ni2 ya4] /Penha/
 佩帕 佩帕 [Pei4 pa4] /Pippa/
 佩佩 佩佩 [Pei4 pei4] /Pépé/
 佩皮斯 佩皮斯 [Pei4 pi2 si1] /Pepys/
 佩珀 佩珀 [Pei4 po4] /Pepper (name)/
 佩普 佩普 [Pei4 pu3] /Pep/
+佩普洛 佩普洛 [Pei4 pu3 luo4] /Peplow/
 佩奇 佩奇 [Pei4 qi2] /Pécs/
 佩芮 佩芮 [Pei4 rui4] /Perri/
 佩桑特斯 佩桑特斯 [Pei4 sang1 te4 si1] /Pesantes/
 佩森 佩森 [Pei4 sen1] /Payson/
 佩斯 佩斯 [Pei4 si1] /Pest (plains near Budapest)/
+佩斯金 佩斯金 [Pei4 si1 jin1] /Peskin/
 佩斯利 佩斯利 [Pei4 si1 li4] /Paisley/
 佩塔 佩塔 [Pei4 ta3] /Peta/
 佩塔爾 佩塔尔 [Pei4 ta3 er3] /Petar/
 佩塔盧馬 佩塔卢马 [Pei4 ta3 lu2 ma3] /Petaluma/
 佩特 佩特 [Pei4 te4] /Pate/
 佩特爾 佩特尔 [Pei4 te4 er3] /Petal (name)/
+佩特科夫 佩特科夫 [Pei4 te4 ke1 fu1] /Petkov/
 佩特克維奇 佩特克维奇 [Pei4 te4 ke4 wei2 qi2] /Petkevich/
 佩特拉 佩特拉 [Pei4 te4 la1] /Petra/
 佩特拉斯 佩特拉斯 [Pei4 te4 la1 si1] /Petras/
@@ -25332,6 +25558,7 @@
 佩特里迪斯 佩特里迪斯 [Pei4 te4 li3 di2 si1] /Petridis/
 佩特羅 佩特罗 [Pei4 te4 luo2] /Petro/
 佩特森 佩特森 [Pei4 te4 sen1] /Paterson/
+佩特斯 佩特斯 [Pei4 te4 si1] /Pettus/
 佩特索斯 佩特索斯 [Pei4 te4 suo3 si1] /Petsos/
 佩因特 佩因特 [Pei4 yin1 te4] /Painter (name)/
 盆堯鄉 盆尧乡 [Pen2 yao2_Xiang1] /Penyao Township/Township, Penyao/
@@ -25362,6 +25589,7 @@
 彭集鎮 彭集镇 [Peng2 ji2 zhen4] /Pengji (town)/
 彭家莊回族鄉 彭家庄回族乡 [Peng2 jia1 zhuang1_Hui2 zu2_Xiang1] /Pengjiazhuang Hui Township/Township, Pengjiazhuang Hui/
 蓬江區 蓬江区 [Peng2 jiang1_Qu1] /Pengjiang District/District, Pengjiang/
+彭傑利 彭杰利 [Peng2 jie2 li4] /Pengilly/
 朋口鎮 朋口镇 [Peng2 kou3 zhen4] /Pengkou (town)/
 蓬萊市 蓬莱市 [Peng2 lai2_Shi4] /Penglai (in Shandong)/
 蓬萊人 蓬莱人 [Peng2 lai2 ren2] /person of Penglai (in Shandong)/Penglai, person of (in Shandong)/
@@ -25371,6 +25599,7 @@
 彭內 彭内 [Peng2 nei4] /Penne/
 彭妮 彭妮 [Peng2 ni1] /Penny (name)/
 彭尼 彭尼 [Peng2 ni2] /Penni/Pennie/
+彭尼庫克 彭尼库克 [Peng2 ni2 ku4 ke4] /Pennycook/
 彭寧頓 彭宁顿 [Peng2 ning2 dun4] /Pennington/
 蓬佩奧 蓬佩奥 [Peng2 pei4 ao4] /Pompeo/
 彭婆鎮 彭婆镇 [Peng2 po2 zhen4] /Pengpo (town)/
@@ -25413,7 +25642,10 @@
 皮奧韋內 皮奥韦内 [Pi2 ao4 wei2 nei4] /Piovene/
 琵珥 琵珥 [Pi2 er3] /Peor/
 皮爾 皮尔 [Pi2 er3] /Perl (surname)/
+皮爾恩 皮尔恩 [Pi2 er3 en1] /Pearn/
 皮爾赫 皮尔赫 [Pi2 er3 he4] /Pilch/
+皮爾里 皮尔里 [Pi2 er3 li3] /Peary/
+皮爾尼 皮尔尼 [Pi2 er3 ni2] /Pirnie/
 皮爾龐特 皮尔庞特 [Pi2 er3 pang2 te4] /Pierpont/
 皮爾瑞 皮尔瑞 [Pi2 er3 rui4] /Peri/
 皮爾斯 皮尔斯 [Pi2 er3 si1] /Pierce/
@@ -25433,6 +25665,7 @@
 皮科尼 皮科尼 [Pi2 ke1 ni2] /Piccone/
 皮克 皮克 [Pi2 ke4] /Peake/
 皮克林 皮克林 [Pi2 ke4 lin2] /Pickering/
+皮克曼 皮克曼 [Pi2 ke4 man4] /Pickman/
 皮克斯 皮克斯 [Pi2 ke4 si1] /Pixar (company)/
 皮克斯利 皮克斯利 [Pi2 ke4 si1 li4] /Pixley/
 皮肯斯 皮肯斯 [Pi2 ken3 si1] /Pickens/
@@ -25471,6 +25704,7 @@
 皮山縣 皮山县 [Pi2 shan1_Xian4] /Pishan (county, in Xinjiang)/
 毗濕奴 毗湿奴 [Pi2 shi1 nu2] /Vishnu/
 皮斯 皮斯 [Pi2 si1] /Peace (name)/
+皮斯科 皮斯科 [Pi2 si1 ke1] /Pisko/
 皮斯利 皮斯利 [Pi2 si1 li4] /Peaslee/Peasley/
 皮松 皮松 [Pi2 song1] /Python (mythological serpent)/
 皮特 皮特 [Pi2 te4] /Pitt/Pete/
@@ -25681,11 +25915,14 @@
 鄱陽鎮 鄱阳镇 [Po2 yang2 zhen4] /Poyang (town)/
 珀爾 珀尔 [Po4 er3] /Pearl (name)/
 珀爾曼 珀尔曼 [Po4 er3 man4] /Perlman/
+珀德姆 珀德姆 [Po4 de2 mu3] /Purdum/
 珀迪塔 珀迪塔 [Po4 di2 ta3] /Perdita/
 珀杜 珀杜 [Po4 du4] /Perdue/
 珀杜大學 珀杜大学 [Po4 du4_da4 xue2] /Purdue (university)/
 珀玕鄉 珀玕乡 [Po4 gan1_Xiang1] /Pogan Township/Township, Pogan/
+珀基斯 珀基斯 [Po4 ji1 si1] /Purkis/
 珀金斯 珀金斯 [Po4 jin1 si1] /Perkins/
+珀克斯 珀克斯 [Po4 ke4 si1] /Perkes/
 珀賴因 珀赖因 [Po4 lai4 yin1] /Perrine/
 珀利 珀利 [Po4 li4] /Perley/
 珀那忒斯 珀那忒斯 [Po4 na4 te4 si1] /Penates (Roman god)/
@@ -25747,6 +25984,7 @@
 普爾諾莫 普尔诺莫 [Pu3 er3 nuo4 mo4] /Purnomo/
 普洱人 普洱人 [Pu3 er3 ren2] /person of Pu'er (in Yunnan)/Pu'er, person of (in Yunnan)/
 普爾斯 普尔斯 [Pu3 er3 si1] /Puls/
+普爾維倫蒂 普尔维伦蒂 [Pu3 er3 wei2 lun2 di4] /Pulvirenti/
 浦北縣 浦北县 [Pu3 bei3_Xian4] /Pubei (county, in Guangxi)/
 浦城縣 浦城县 [Pu3 cheng2_Xian4] /Pucheng (county, in Fujian)/
 樸茨茅斯 朴茨茅斯 [Pu3 ci2 mao2 si1] /Portsmouth (variant form?)/
@@ -25755,6 +25993,8 @@
 普丁 普丁 [Pu3 ding1] /Putin (alternate translation)/
 普定縣 普定县 [Pu3 ding4_Xian4] /Puding (county, in Guizhou)/
 浦東新區 浦东新区 [Pu3 dong1_Xin1 qu1] /Pudong New District (in Shanghai)/District, Pudong New (in Shanghai)/
+普法夫 普法夫 [Pu3 fa3 fu1] /Pfaff/
+普費弗 普费弗 [Pu3 fei4 fu2] /Pfeffer/
 普格縣 普格县 [Pu3 ge2_Xian4] /Puge (county, in Sichuan)/
 普格利澤 普格利泽 [Pu3 ge2 li4 ze2] /Pugliese/
 普古彞族苗族鄉 普古彝族苗族乡 [Pu3 gu3_Yi2 zu2_Miao2 zu2_Xiang1] /Pugu Yi Miao Township/Miao Township, Pugu Yi/
@@ -25770,9 +26010,11 @@
 浦口區 浦口区 [Pu3 kou3_Qu1] /Pukou District/District, Pukou/
 浦口鎮 浦口镇 [Pu3 kou3 zhen4] /Pukou (town)/
 普拉 普拉 [Pu3 la1] /Purah/
+普拉茨 普拉茨 [Pu3 la1 ci2] /Platz/
 普拉蒂巴 普拉蒂巴 [Pu3 la1 di4 ba1] /Pratibha/
 普拉蒂亞 普拉蒂亚 [Pu3 la1 di4 ya4] /Plataea/
 普拉東 普拉东 [Pu3 la1 dong1] /Platon/
+普拉格 普拉格 [Pu3 la1 ge2] /Prager/
 普拉卡什 普拉卡什 [Pu3 la1 ka3 shi2] /Prakash/
 普拉門 普拉门 [Pu3 la1 men2] /Plamen/
 普拉姆利 普拉姆利 [Pu3 la1 mu3 li4] /Plumlee/
@@ -25786,13 +26028,17 @@
 普拉特 普拉特 [Pu3 la1 te4] /Platt/
 普拉特 普拉特 [Pu3 la1 te4] /Pratt (Wallace)/
 普拉特卡尼斯 普拉特卡尼斯 [Pu3 la1 te4 ka3 ni2 si1] /Pratkanis/
+普拉特利 普拉特利 [Pu3 la1 te4 li4] /Pratley/
 普拉西多 普拉西多 [Pu3 la1 xi1 duo1] /Placido/
+普萊爾 普莱尔 [Pu3 lai2 er3] /Playle/
 普萊曾茨 普莱曾茨 [Pu3 lai2 ceng2 ci2] /Pleasants/
+普萊克 普莱克 [Pu3 lai2 ke4] /Placke/
 普萊斯 普莱斯 [Pu3 lai2 si1] /Place (surname)/
 普賴爾 普赖尔 [Pu3 lai4 er3] /Pryor/
 普賴默斯 普赖默斯 [Pu3 lai4 mo4 si1] /Primus/
 普賴斯 普赖斯 [Pu3 lai4 si1] /Pryce/
 普蘭縣 普兰县 [Pu3 lan2_Xian4] /Pulan County/County, Pulan/
+普蘭蒂 普兰蒂 [Pu3 lan2 di4] /Planty/
 普蘭蒂斯 普兰蒂斯 [Pu3 lan2 di4 si1] /Prentice/
 普蘭店區 普兰店区 [Pu3 lan2 dian4_Qu1] /Pulandian District/District, Pulandian/
 普蘭店市 普兰店市 [Pu3 lan2 dian4_Shi4] /Pulandian (city, in Liaoning)/
@@ -25801,15 +26047,23 @@
 普朗克 普朗克 [Pu3 lang3 ke4] /Planck/
 普朗坦 普朗坦 [Pu3 lang3 tan3] /Plantin (16th-century Bible printer)/
 普勞蒂 普劳蒂 [Pu3 lao2 di4] /Prouty/
+普勞特 普劳特 [Pu3 lao2 te4] /Plaut/
 普勒 普勒 [Pu3 le4] /Pul/
 普勒斯 普勒斯 [Pu3 lei1 si1] /Pless/
+普雷迪 普雷迪 [Pu3 lei2 di2] /Preddy/
+普雷格 普雷格 [Pu3 lei2 ge2] /Praeger/
 普雷洛格 普雷洛格 [Pu3 lei2 luo4 ge2] /Prelog/
 普雷斯頓 普雷斯顿 [Pu3 lei2 si1 dun4] /Preston/
+普雷斯科德 普雷斯科德 [Pu3 lei2 si1 ke1 de2] /Prescod/
 普雷斯科特 普雷斯科特 [Pu3 lei2 si1 ke1 te4] /Prescott/
+普雷斯利 普雷斯利 [Pu3 lei2 si1 li4] /Pressly/
+普雷斯曼 普雷斯曼 [Pu3 lei2 si1 man4] /Presman/
+普雷斯托 普雷斯托 [Pu3 lei2 si1 tuo1] /Presto (name)/
 普雷西 普雷西 [Pu3 lei2 xi1] /Pressey/
 埔里鎮 埔里镇 [Pu3 li3_Zhen4] /Puli (town in Nantou)/
 普里布 普里布 [Pu3 li3 bu4] /Priebe/
 普里查德 普里查德 [Pu3 li3 cha2 de2] /Pritchard/
+普里茨拉夫 普里茨拉夫 [Pu3 li3 ci2 la1 fu1] /Pritzlaff/
 普里迪 普里迪 [Pu3 li3 di2] /Priddy/
 普里克特 普里克特 [Pu3 li3 ke4 te4] /Prickett/
 普里莫 普里莫 [Pu3 li3 mo4] /Primo/
@@ -25817,6 +26071,7 @@
 普里佩特 普里佩特 [Pu3 li3 pei4 te4] /Pripet/
 普里切特 普里切特 [Pu3 li3 qie4 te4] /Pritchett/
 普里斯 普里斯 [Pu3 li3 si1] /Price/Prys/
+普里斯克 普里斯克 [Pu3 li3 si1 ke4] /Prisk/
 普里斯特 普里斯特 [Pu3 li3 si1 te4] /Priest (name)/
 普里斯特利 普里斯特利 [Pu3 li3 si1 te4 li4] /Priestley/
 普里西拉 普里西拉 [Pu3 li3 xi1 la1] /Priscilla/
@@ -25830,11 +26085,13 @@
 普利茅斯洛克雞 普利茅斯洛克鸡 [Pu3 li4 mao2 si1 luo4 ke4 ji1] /Plymouth Rock (chicken breed)/Rock, Plymouth (chicken breed)/
 普利莫 普利莫 [Pu3 li4 mo4] /Primo/
 普利尼奧 普利尼奥 [Pu3 li4 ni2 ao4] /Plínio/
+普利特 普利特 [Pu3 li4 te4] /Plitt/
 普莉提 普莉提 [Pu3 li4 ti2] /Priti/
 普麗西拉 普丽西拉 [Pu3 li4 xi1 la1] /Priscilla (modern)/
 普莉希拉 普莉希拉 [Pu3 li4 xi1 la1] /Priscilla (modern)/
 普利茲克 普利兹克 [Pu3 li4 zi1 ke4] /Pritzker/
 普連集鎮 普连集镇 [Pu3 lian2 ji2 zhen4] /Pulianji (town)/
+普列托 普列托 [Pu3 lie4 tuo1] /Prieto/
 普林格爾 普林格尔 [Pu3 lin2 ge2 er3] /Pringle (surname)/
 普林節 普林节 [Pu3 lin2 jie2] /Purim/
 普林尼 普林尼 [Pu3 lin2 ni2] /Pliny/
@@ -25843,18 +26100,26 @@
 普林斯頓 普林斯顿 [Pu3 lin2 si1 dun4] /Princeton/
 普林西比 普林西比 [Pu3 lin2 xi1 bi3] /Príncipe/
 普陵節 普陵节 [Pu3 ling2 jie2] /Purim/
+普盧格 普卢格 [Pu3 lu2 ge2] /Ploog/
 普盧默 普卢默 [Pu3 lu2 mo4] /Plumer/Plummer/
 普盧塔 普卢塔 [Pu3 lu2 ta3] /Pluta/
 普盧塔克 普卢塔克 [Pu3 lu2 ta3 ke4] /Plutarch/
 普盧托 普卢托 [Pu3 lu2 tuo1] /Pluto (name)/
 普盧瓦特 普卢瓦特 [Pu3 lu2 wa3 te4] /Polowat/
 普魯 普鲁 [Pu3 lu3] /Prue/
+普魯茨 普鲁茨 [Pu3 lu3 ci2] /Prutz/
 普魯登斯 普鲁登斯 [Pu3 lu3 deng1 si1] /Prudence (name)/
 普魯迪 普鲁迪 [Pu3 lu3 di2] /Purdy/
 普魯多姆 普鲁多姆 [Pu3 lu3 duo1 mu3] /Prudhomme/
+普魯納 普鲁纳 [Pu3 lu3 na4] /Pruna/
 普魯士 普鲁士 [Pu3 lu3 shi4] /Prussia/
 普魯士語 普鲁士语 [Pu3 lu3 shi4 yu3] /Prussian (language)/
+普魯斯 普鲁斯 [Pu3 lu3 si1] /Pruce/
+普魯特 普鲁特 [Pu3 lu3 te4] /Pruett/
+普魯伊特 普鲁伊特 [Pu3 lu3 yi1 te4] /Prewitt/
 普倫蒂斯 普伦蒂斯 [Pu3 lun2 di4 si1] /Prentice/
+普倫基特 普伦基特 [Pu3 lun2 ji1 te4] /Plunket/
+普羅爾 普罗尔 [Pu3 luo2 er3] /Proehl/
 普羅伯特 普罗伯特 [Pu3 luo2 bo2 te4] /Probert/
 普羅夫迪夫 普罗夫迪夫 [Pu3 luo2 fu1 di2 fu1] /Plovdiv/
 普羅哈斯卡 普罗哈斯卡 [Pu3 luo2 ha1 si1 ka3] /Prohaska/
@@ -25862,15 +26127,20 @@
 普羅科皮奧斯 普罗科皮奥斯 [Pu3 luo2 ke1 pi2 ao4 si1] /Prokopios/
 普羅科普 普罗科普 [Pu3 luo2 ke1 pu3] /Prokop/
 普羅克勒斯 普罗克勒斯 [Pu3 luo2 ke4 le4 si1] /Prochorus/
+普羅克斯 普罗克斯 [Pu3 luo2 ke4 si1] /Proulx/
 普羅克特 普罗克特 [Pu3 luo2 ke4 te4] /Proctor (surname)/
 普羅梅什連內 普罗梅什连内 [Pu3 luo2 mei2 shi2 lian2 nei4] /Promyshlenniy/
 普羅奇達島 普罗奇达岛 [Pu3 luo2 qi2 da2 dao3] /Procida (island)/
 普羅瑟 普罗瑟 [Pu3 luo2 se4] /Prosser/
+普羅瑟羅 普罗瑟罗 [Pu3 luo2 se4 luo2] /Prothero/
 普羅斯 普罗斯 [Pu3 luo2 si1] /Prospect (place)/
+普羅思羅 普罗思罗 [Pu3 luo2 si1 luo2] /Prothro/
+普羅斯佩里 普罗斯佩里 [Pu3 luo2 si1 pei4 li3] /Prosperi/
 普羅斯佩羅 普罗斯佩罗 [Pu3 luo2 si1 pei4 luo2] /Prospero/
 普羅斯珀 普罗斯珀 [Pu3 luo2 si1 po4] /Prosper (name)/
 普羅維登斯 普罗维登斯 [Pu3 luo2 wei2 deng1 si1] /Providence (place)/
 普羅伊斯 普罗伊斯 [Pu3 luo2 yi1 si1] /Preuss/
+普洛斯 普洛斯 [Pu3 luo4 si1] /Poulos/
 普洛特金 普洛特金 [Pu3 luo4 te4 jin1] /Plotkin/
 普滿鄉 普满乡 [Pu3 man3_Xiang1] /Puman Township/Township, Puman/
 普明鎮 普明镇 [Pu3 ming2 zhen4] /Puming (town)/
@@ -26160,6 +26430,7 @@
 錢先生 钱先生 [Qian2_xian1 sheng5] /Mr Qian/Qian, Mr/
 乾安縣 乾安县 [Qian2 an1_Xian4] /Qian'an (county, in Jilin)/
 前南斯拉夫 前南斯拉夫 [Qian2 Nan2 si1 la1 fu1] /former Yugoslavia/lands of the former Yugoslavia/Yugoslavia, former/
+錢伯林 钱伯林 [Qian2 bo2 lin2] /Chamberlin/
 錢伯斯 钱伯斯 [Qian2 bo2 si1] /Chambers/
 前倉鎮 前仓镇 [Qian2 cang1 zhen4] /Qiancang (town)/
 前曹鎮 前曹镇 [Qian2 cao2 zhen4] /Qiancao (town)/
@@ -27162,12 +27433,14 @@
 薩阿德 萨阿德 [Sa4 a1 de2] /Saad/
 薩阿迪 萨阿迪 [Sa4 a1 di2] /Saʽdī (Persian poet)/
 薩阿拉 萨阿拉 [Sa4 a1 la1] /Zahara/
+薩恩斯 萨恩斯 [Sa4 en1 si1] /Saenz/
 薩爾 萨尔 [Sa4 er3] /Saarland/
 薩爾大學 萨尔大学 [Sa4 er3_Da4 xue2] /University of Saarland/Saarland, University of/
 薩爾州 萨尔州 [Sa4 er3_Zhou1] /Saarland/
 薩爾茨堡 萨尔茨堡 [Sa4 er3 ci2 bao3] /Salzburg/
 薩爾貢 萨尔贡 [Sa4 er3 gong4] /Sargon/
 薩爾瑪 萨尔玛 [Sa4 er3 ma3] /Salma/
+薩爾曼 萨尔曼 [Sa4 er3 man4] /Salman/
 薩爾蒙 萨尔蒙 [Sa4 er3 meng3] /Salmon (modern name)/
 薩爾尼科夫 萨尔尼科夫 [Sa4 er3 ni2 ke1 fu1] /Salnikov/
 薩爾塞多 萨尔塞多 [Sa4 er3 sai4 duo1] /Salcedo/
@@ -27199,6 +27472,7 @@
 薩達姆 萨达姆 [Sa4 da2 mu3] /Saddam/
 薩達諾夫 萨达诺夫 [Sa4 da2 nuo4 fu1] /Satdanov/
 薩德 萨德 [Sa4 de2] /Saad/Sade/Saeed/
+薩德勒 萨德勒 [Sa4 de2 le4] /Sadler/
 薩迪奧 萨迪奥 [Sa4 di2 ao4] /Sadio/
 薩迪克 萨迪克 [Sa4 di2 ke4] /Sadiq/
 薩迪尼亞 萨迪尼亚 [Sa4 di2 ni2 ya4] /Sardinia/
@@ -27214,12 +27488,14 @@
 薩夫萬 萨夫万 [Sa4 fu1 wan4] /Safwan/
 薩福德 萨福德 [Sa4 fu2 de2] /Safford/
 薩福克郡 萨福克郡 [Sa4 fu2 ke4 jun4] /Suffolk (county)/
+薩弗里 萨弗里 [Sa4 fu2 li3] /Savery/
 薩弗倫沃爾登 萨弗伦沃尔登 [Sa4 fu2 lun2_Wo4 er3 deng1] /Saffron Walden/Walden, Saffron/
 薩伏那洛拉 萨伏那洛拉 [Sa4 fu2 na4 luo4 la1] /Savonarola/
 薩伏伊 萨伏伊 [Sa4 fu2 yi1] /Savoy/
 薩伏依 萨伏依 [Sa4 fu2 yi1] /Savoy (in France)/
 薩嘎縣 萨嘎县 [Sa4 ga1_Xian4] /Saga County/County, Saga/
 薩格勒布 萨格勒布 [Sa4 ge2 le4 bu4] /Zagreb/
+薩格斯 萨格斯 [Sa4 ge2 si1] /Suggs/
 薩根 萨根 [Sa4 gen1] /Sagan/
 薩哈 萨哈 [Sa4 ha1] /Sakha/
 薩哈爾 萨哈尔 [Sa4 ha1 er3] /Sahar/
@@ -27242,17 +27518,22 @@
 薩凱 萨凯 [Sa4 kai3] /Zaccai/
 薩克拉門托 萨克拉门托 [Sa4 ke4 la1 men2 tuo1] /Sacramento/
 薩克里 萨克里 [Sa4 ke4 li3] /Sakari/
+薩克塞 萨克塞 [Sa4 ke4 se4] /Saxer/
+薩克瑟 萨克瑟 [Sa4 ke4 se4] /Saxer/
 薩克森 萨克森 [Sa4 ke4 sen1] /Saxony/
 薩克森堡 萨克森堡 [Sa4 ke4 sen1 bao3] /Sachsenburg/
 薩克森豪森 萨克森豪森 [Sa4 ke4 sen1 hao2 sen1] /Sachsenhausen/
 薩拉 萨拉 [Sa4 la1] /Sarah (modern)/
 薩拉 萨拉 [Sa4 la1] /Zalaph/
 颯拉 飒拉 [Sa4 la1] /Zara/
+薩拉爾 萨拉尔 [Sa4 la1 er3] /Saral/
 薩拉非 萨拉非 [Sa4 la1 fei1] /Saraph/
+薩拉夫 萨拉夫 [Sa4 la1 fu1] /Saraph/
 薩拉戈 萨拉戈 [Sa4 la1 ge1] /Salango/
 薩拉戈薩 萨拉戈萨 [Sa4 la1 ge1 sa4] /Zaragoza/
 薩拉赫 萨拉赫 [Sa4 la1 he4] /Salah/
 薩拉拉 萨拉拉 [Sa4 la1 la1] /Sarala/
+薩拉馬 萨拉马 [Sa4 la1 ma3] /Salama/
 薩拉曼卡 萨拉曼卡 [Sa4 la1 man4 ka3] /Salamanca/
 薩拉曼卡大學 萨拉曼卡大学 [Sa4 la1 man4 ka3_Da4 xue2] /University of Salamanca/Salamanca, University of/
 薩拉梅亞 萨拉梅亚 [Sa4 la1 mei2 ya4] /Salamea/
@@ -27260,6 +27541,8 @@
 薩拉米斯 萨拉米斯 [Sa4 la1 mi3 si1] /Salamis/
 薩拉薩卡 萨拉萨卡 [Sa4 la1 sa4 ka3] /Salasaca/
 薩拉薩特 萨拉萨特 [Sa4 la1 sa4 te4] /Sarasate/
+薩拉斯 萨拉斯 [Sa4 la1 si1] /Salas/
+薩拉特 萨拉特 [Sa4 la1 te4] /Surratt/
 薩拉托夫 萨拉托夫 [Sa4 la1 tuo1 fu1] /Saratov/
 薩拉托夫市 萨拉托夫市 [Sa4 la1 tuo1 fu1_Shi4] /Saratov (city)/
 薩拉耶夫 萨拉耶夫 [Sa4 la1 ye1 fu1] /Salayev/
@@ -27273,6 +27556,7 @@
 薩里 萨里 [Sa4 li3] /Surrey/
 薩里郡 萨里郡 [Sa4 li3 jun4] /Surrey (county)/
 薩里娜 萨里娜 [Sa4 li3 na4] /Sarina/
+薩里斯 萨里斯 [Sa4 li3 si1] /Sarris/
 薩麗 萨丽 [Sa4 li4] /Sally/
 薩利 萨利 [Sa4 li4] /Zeri/
 薩莉 萨莉 [Sa4 li4] /Sally/
@@ -27284,6 +27568,7 @@
 薩利納 萨利纳 [Sa4 li4 na4] /Salina/
 薩利納島 萨利纳岛 [Sa4 li4 na4_Dao3] /Salina (island)/
 薩利納斯 萨利纳斯 [Sa4 li4 na4 si1] /Salinas/
+薩利斯 萨利斯 [Sa4 li4 si1] /Salis/
 薩莉斯 萨莉斯 [Sa4 li4 si1] /Zeresh/
 薩琳 萨琳 [Sa4 lin2] /Shaylyn/
 薩琳娜 萨琳娜 [Sa4 lin2 na4] /Selena/
@@ -27297,6 +27582,7 @@
 薩曼莎 萨曼莎 [Sa4 man4 sha1] /Samantha/
 薩梅克 萨梅克 [Sa4 mei2 ke4] /samekh (Hebrew letter)/
 薩蒙 萨蒙 [Sa4 meng3] /Samon/
+薩蒙德 萨蒙德 [Sa4 meng3 de2] /Salmond/
 薩米 萨米 [Sa4 mi3] /Sami/
 薩米爾 萨米尔 [Sa4 mi3 er3] /Samir/
 薩米拉 萨米拉 [Sa4 mi3 la1] /Zemirah/
@@ -27344,6 +27630,7 @@
 薩斯基亞 萨斯基亚 [Sa4 si1 ji1 ya4] /Saskia/
 薩斯喀徹溫省 萨斯喀彻温省 [Sa4 si1 ka1 che4 wen1 sheng3] /Saskatchewan/
 薩斯卡通 萨斯卡通 [Sa4 si1 ka3 tong1] /Saskatoon/
+薩斯曼 萨斯曼 [Sa4 si1 man4] /Sassman/Sussman/
 薩特 萨特 [Sa4 te4] /Sartre/
 薩提 萨提 [Sa4 ti2] /Sati/
 薩提亞 萨提亚 [Sa4 ti2 ya4] /Satir/
@@ -27356,6 +27643,7 @@
 薩瓦斯 萨瓦斯 [Sa4 wa3 si1] /Savas/
 薩瓦約 萨瓦约 [Sa4 wa3 yue1] /Sahuayo/
 薩韋 萨韦 [Sa4 wei2] /Savé/
+薩維奧 萨维奥 [Sa4 wei2 ao4] /Savio/
 薩維里奧 萨维里奥 [Sa4 wei2 li3 ao4] /Saverio/
 薩韋里奧 萨韦里奥 [Sa4 wei2 li3 ao4] /Saverio/
 薩維諾 萨维诺 [Sa4 wei2 nuo4] /Sabino/Savino/
@@ -27424,13 +27712,18 @@
 塞爾日 塞尔日 [Sai4 er3 ri4] /Serge/
 塞爾蘇斯 塞尔苏斯 [Sai4 er3 su1 si1] /Celsus (ancient enemy of Christianity)/
 塞爾索 塞尔索 [Sai4 er3 suo3] /Celso/
+塞爾特 塞尔特 [Sai4 er3 te4] /Sehrt/
 塞爾特斯 塞尔特斯 [Sai4 er3 te4 si1] /Selters/
+塞爾溫 塞尔温 [Sai4 er3 wen1] /Selwyn/
+塞爾西 塞尔西 [Sai4 er3 xi1] /Scelsi/
+塞爾茲 塞尔兹 [Sai4 er3 zi1] /Selz/
 塞巴斯帝安 塞巴斯帝安 [Sai4 ba1 si1 di4 an1] /Sebastian/
 賽百味 赛百味 [Sai4 bai3 wei4] /Subway (company)/
 塞班 塞班 [Sai4 ban1] /Saipan/
 塞布麗娜 塞布丽娜 [Sai4 bu4 li4 na4] /Sabrina/
 賽達 赛达 [Sai4 da2] /Saida/
 賽德 赛德 [Sai4 de2] /Syed/
+賽德爾 赛德尔 [Sai4 de2 er3] /Seydel/
 賽德克 赛德克 [Sai4 de2 ke4] /Seediq (Nantou aboriginal tribe)/
 賽德克巴萊 赛德克巴莱 [Sai4 de2 ke4_Ba1 lai2] /Seediq Bale/Bale, Seediq/
 賽德克語 赛德克语 [Sai4 de2 ke4 yu3] /Seediq (language)/
@@ -27441,6 +27734,7 @@
 塞格尼 塞格尼 [Sai4 ge2 ni2] /Séguenny/
 賽格威 赛格威 [Sai4 ge2 wei1] /Segway/
 賽罕區 赛罕区 [Sai4 han3_Qu1] /Saihan District/District, Saihan/
+塞赫爾 塞赫尔 [Sai4 he4 er3] /Sakhr/
 塞加拉 塞加拉 [Sai4 jia1 la1] /Saqqara/
 賽澗回族鄉 赛涧回族乡 [Sai4 jian4_Hui2 zu2_Xiang1] /Saijian Hui Township/Township, Saijian Hui/
 賽克斯 赛克斯 [Sai4 ke4 si1] /Sykes/
@@ -27452,11 +27746,13 @@
 塞拉姆 塞拉姆 [Sai4 la1 mu3] /Selam/
 塞拉薩 塞拉萨 [Sai4 la1 sa4] /Selassa/
 賽拉斯 赛拉斯 [Sai4 la1 si1] /Silas (modern name)/
+塞萊克 塞莱克 [Sai4 lai2 ke4] /Selleck/
 塞萊娜 塞莱娜 [Sai4 lai2 na4] /Selena/
 塞勒涅 塞勒涅 [Sai4 le4 nie4] /Selene/
 塞勒什 塞勒什 [Sai4 le4 shi2] /Silash/
 賽勒斯 赛勒斯 [Sai4 le4 si1] /Syrus/
 塞雷爾語 塞雷尔语 [Sai4 lei2 e3 yu3] /Serer (language)/
+塞里諾 塞里诺 [Sai4 li3 nuo4] /Serino/
 賽力鄉 赛力乡 [Sai4 li4_Xiang1] /Saili Township/Township, Saili/
 塞利格 塞利格 [Sai4 li4 ge2] /Seliger (pinyin uncertain)/
 賽琳娜 赛琳娜 [Sai4 lin2 na4] /Selena/
@@ -27476,6 +27772,7 @@
 塞繆爾 塞缪尔 [Sai4 miao4 er3] /Samuel (modern)/
 塞繆爾森 塞缪尔森 [Sai4 miao4 er3 sen1] /Samuelson/
 賽姆 赛姆 [Sai4 mu3] /Sime/
+賽姆斯 赛姆斯 [Sai4 mu3 si1] /Symes/
 塞穆爾 塞穆尔 [Sai4 mu4 er3] /Samuel (Pepys)/
 塞納 塞纳 [Sai4 na4] /Cena/Sener/Senna/
 塞納河 塞纳河 [Sai4 na4 he2] /River Seine (Normandy; pinyin uncertain)/Seine, River (Normandy; pinyin uncertain)/
@@ -27493,6 +27790,7 @@
 塞斯 塞斯 [Sai4 si1] /Seth (modern)/
 塞特 塞特 [Sai4 te4] /Seth (Bible or modern)/
 塞萬提斯 塞万提斯 [Sai4 wan4 ti2 si1] /Cervantes/
+塞維爾 塞维尔 [Sai4 wei2 er3] /Sevier/
 塞韋里諾 塞韦里诺 [Sai4 wei2 li3 nuo4] /Severino/
 塞維列 塞维列 [Sai4 wei2 lie4] /Seville/
 塞耶 塞耶 [Sai4 ye1] /Thayer/
@@ -27707,11 +28005,14 @@
 桑伯格 桑伯格 [Sang1 bo2 ge2] /Thunberg/
 桑村鄉 桑村乡 [Sang1 cun1_Xiang1] /Sangcun Township/Township, Sangcun/
 桑村鎮 桑村镇 [Sang1 cun1 zhen4] /Sangcun (town)/
+桑達爾 桑达尔 [Sang1 da2 er3] /Sundar/
 桑達韋語 桑达韦语 [Sang1 da2 wei2 yu3] /Sandawe (language)/
 桑丹斯基 桑丹斯基 [Sang1 dan1 si1 ji1] /Sandanski/
 桑德 桑德 [Sang1 de2] /Shanda/
 桑德爾 桑德尔 [Sang1 de2 er3] /Zander/
 桑德拉 桑德拉 [Sang1 de2 la1] /Sandra/
+桑德里 桑德里 [Sang1 de2 li3] /Sandry/
+桑德林 桑德林 [Sang1 de2 lin2] /Sanderlin/
 桑德羅 桑德罗 [Sang1 de2 luo2] /Sandro/
 桑德曼 桑德曼 [Sang1 de2 man4] /Sandeman/
 桑德曼派 桑德曼派 [Sang1 de2 man4 pai4] /Sandemanians/
@@ -27779,6 +28080,7 @@
 掃羅 扫罗 [Sao3 luo2] /Saul (Bible)/
 掃羅家 扫罗家 [Sao3 luo2 jia1] /house of Saul/Saul, house of/
 塞爾達爾 塞尔达尔 [Se4 er3 da2 er3] /Serdar/
+塞爾夫 塞尔夫 [Se4 er3 fu1] /Self (name)/Selfe/Selfe, Self/
 塞爾吉奧 塞尔吉奥 [Se4 er3 ji2 ao4] /Sergio/
 塞爾焦 塞尔焦 [Se4 er3 jiao1] /Sergio/
 塞爾久 塞尔久 [Se4 er3 jiu3] /Sergiu/
@@ -27809,6 +28111,7 @@
 塞拉西 塞拉西 [Se4 la1 xi1] /Selassie/
 塞萊斯特 塞莱斯特 [Se4 lai2 si1 te4] /Celeste/
 瑟勒比 瑟勒比 [Se4 le4 bi3] /Çelebi/Celebi/
+瑟雷爾 瑟雷尔 [Se4 lei2 er3] /Serrell/
 塞雷娜 塞雷娜 [Se4 lei2 na4] /Serena/
 塞雷諾 塞雷诺 [Se4 lei2 nuo4] /Sereno/
 色雷斯 色雷斯 [Se4 lei2 si1] /Thrace/
@@ -27822,6 +28125,7 @@
 塞米伊 塞米伊 [Se4 mi3 yi1] /Semey/
 塞納基 塞纳基 [Se4 na4 ji1] /Senaki/
 塞南 塞南 [Se4 nan2] /Senan/
+塞內斯 塞内斯 [Se4 nei4 si1] /Senese/
 瑟尼 瑟尼 [Se4 ni2] /Cerne/
 色尼區 色尼区 [Se4 ni2_Qu1] /Seni District/District, Seni/
 色諾芬 色诺芬 [Se4 nuo4 fen1] /Xenophon/
@@ -27855,8 +28159,10 @@
 沙恩 沙恩 [Sha1 en1] /Shane/
 沙爾克 沙尔克 [Sha1 er3 ke4] /Schalk/
 沙爾克齊 沙尔克齐 [Sha1 er3 ke4 qi2] /Sárközy/
+沙爾曼 沙尔曼 [Sha1 er3 man4] /Salman/
 沙爾梅 沙尔梅 [Sha1 er3 mei2] /Charmet/
 沙巴 沙巴 [Sha1 ba1] /Sabah/
+沙巴茲 沙巴兹 [Sha1 ba1 zi1] /Shabazz/
 沙壩鄉 沙坝乡 [Sha1 ba4_Xiang1] /Shaba Township/Township, Shaba/
 砂壩鎮 砂坝镇 [Sha1 ba4 zhen4] /Shaba (town)/
 沙包鎮 沙包镇 [Sha1 bao1 zhen4] /Shabao (town)/
@@ -27883,6 +28189,7 @@
 沙番 沙番 [Sha1 fan1] /Shaphan/
 沙凡 沙凡 [Sha1 fan2] /Shapham/
 沙畈鄉 沙畈乡 [Sha1 fan4_Xiang1] /Shafan Township/Township, Shafan/
+沙菲爾 沙菲尔 [Sha1 fei1 er3] /Shafir/
 沙斐 沙斐 [Sha1 fei3] /Shaphir/
 沙夫 沙夫 [Sha1 fu1] /Schaff/
 沙崗鄉 沙岗乡 [Sha1 gang3_Xiang1] /Shagang Township/Township, Shagang/
@@ -27914,6 +28221,7 @@
 沙赫巴茲 沙赫巴兹 [Sha1 he4 ba1 zi1] /Shahbaz/
 沙赫拉姆 沙赫拉姆 [Sha1 he4 la1 mu3] /Shahram/
 沙赫里亞爾 沙赫里亚尔 [Sha1 he4 li3 ya4 er3] /Shahriar/
+沙赫特 沙赫特 [Sha1 he4 te4] /Schacht/
 沙后所鎮 沙后所镇 [Sha1 hou4 suo3 zhen4] /Shahousuo (town)/
 沙湖鄉 沙湖乡 [Sha1 hu2_Xiang1] /Shahu Township/Township, Shahu/
 沙湖鎮 沙湖镇 [Sha1 hu2 zhen4] /Shahu (town)/
@@ -27928,6 +28236,7 @@
 莎劇演員 莎剧演员 [Sha1 ju4_yan3 yuan2] /Shakespearean actors/actors, Shakespearean/
 沙克 沙克 [Sha1 ke4] /Shakir/
 沙克爾頓 沙克尔顿 [Sha1 ke4 er3 dun4] /Shackleton/
+沙克提 沙克提 [Sha1 ke4 ti2] /Shakthi/
 沙口集鄉 沙口集乡 [Sha1 kou3 ji2_Xiang1] /Shakouji Township/Township, Shakouji/
 沙口鎮 沙口镇 [Sha1 kou3 zhen4] /Shakou (town)/
 沙奎爾 沙奎尔 [Sha1 kui2 er3] /Shaquille/
@@ -27968,6 +28277,7 @@
 沙倫 沙伦 [Sha1 lun2] /Shallun/
 莎倫 莎伦 [Sha1 lun2] /Sharon/
 莎羅 莎罗 [Sha1 luo2] /Charo/
+沙羅克 沙罗克 [Sha1 luo2 ke4] /Sharrock/
 沙洛尼 沙洛尼 [Sha1 luo4 ni2] /Chalony/
 沙瑪 沙玛 [Sha1 ma3] /Shammah/
 沙馬 沙马 [Sha1 ma3] /Shama (person)/
@@ -27979,6 +28289,7 @@
 沙麥 沙麦 [Sha1 mai4] /Shemed/
 沙曼 沙曼 [Sha1 man4] /Saman/
 莎蔓莎 莎蔓莎 [Sha1 man4 sha1] /Samantha/
+沙梅爾 沙梅尔 [Sha1 mei2 er3] /Shamel/
 莎美拉 莎美拉 [Sha1 mei3 la1] /Zamira/
 沙門鎮 沙门镇 [Sha1 men2 zhen4] /Shamen (town)/
 沙米爾 沙米尔 [Sha1 mi3 er3] /Shamir/
@@ -27988,9 +28299,11 @@
 沙莫尼 沙莫尼 [Sha1 mo4 ni2] /Chamonix/
 沙默斯 沙默斯 [Sha1 mo4 si1] /Seamas/
 沙姆拉角 沙姆拉角 [Sha1 mu3 la1 jiao3] /Ras Shamra/Shamra, Ras/
+沙姆韋 沙姆韦 [Sha1 mu3 wei2] /Shumway/
 沙穆拉多夫 沙穆拉多夫 [Sha1 mu4 la1 duo1 fu1] /Shamuradov/
 沙慕亞 沙慕亚 [Sha1 mu4 ya4] /Shammua/
 莎娜 莎娜 [Sha1 na4] /Sana/Shana/Shanna/Sharna/
+沙納漢 沙纳汉 [Sha1 na4 han4] /Shanahan/
 莎南 莎南 [Sha1 nan2] /Shannen/
 莎妮 莎妮 [Sha1 ni1] /Sunny/
 莎妮婭 莎妮娅 [Sha1 ni1 ya4] /Shania/
@@ -28051,6 +28364,7 @@
 沙洋縣 沙洋县 [Sha1 yang2_Xian4] /Shayang (county, in Hubei)/
 沙窯鄉 沙窑乡 [Sha1 yao2_Xiang1] /Shayao Township/Township, Shayao/
 沙依巴克區 沙依巴克区 [Sha1 yi1 ba1 ke4_Qu1] /Shayibake District/District, Shayibake/
+沙伊德 沙伊德 [Sha1 yi1 de2] /Scheid/
 沙因 沙因 [Sha1 yin1] /Schein/
 沙穎河 沙颖河 [Sha1 ying3_He2] /Shaying River/River, Shaying/
 沙魚鎮 沙鱼镇 [Sha1 yu2 zhen4] /Shayu (town)/
@@ -28070,6 +28384,7 @@
 珊達 珊达 [Shan1 da2] /Shonda/
 山丹縣 山丹县 [Shan1 dan1_Xian4] /Shandan County/County, Shandan/
 山碭鎮 山砀镇 [Shan1 dang4 zhen4] /Shandang (town)/
+山德斯 山德斯 [Shan1 de2 si1] /Sanders/
 山店鄉 山店乡 [Shan1 dian4_Xiang1] /Shandian Township/Township, Shandian/
 山頂纜車 山顶缆车 [Shan1 ding3_Lan3 che1] /Peak Tram (in HK)/Tram, Peak (in HK)/
 山東大學出版社 山东大学出版社 [Shan1 dong1_Da4 xue2_Chu1 ban3 she4] /Shandong University Press/University Press, Shandong/
@@ -28590,23 +28905,34 @@
 詩經村鎮 诗经村镇 [Shi1 jing1 cun1 zhen4] /Shijingcun (town)/
 施拉姆 施拉姆 [Shi1 la1 mu3] /Schramm/
 施萊 施莱 [Shi1 lai2] /Schley/
+施萊爾 施莱尔 [Shi1 lai2 er3] /Schleier/
 施賴伯 施赖伯 [Shi1 lai4 bo2] /Schreiber/
+施勒姆 施勒姆 [Shi1 le4 mu3] /Shrum/
+施里夫 施里夫 [Shi1 li3 fu1] /Shreve/
 施利施亞 施利施亚 [Shi1 li4 shi1 ya4] /shelishiyah/
+施林根 施林根 [Shi1 lin2 gen1] /Schlimgen/
 師靈鎮 师灵镇 [Shi1 ling2 zhen4] /Shiling (town)/
 獅嶺鎮 狮岭镇 [Shi1 ling3 zhen4] /Shiling (town)/
 施魯斯伯里 施鲁斯伯里 [Shi1 lu3 si1 bo2 li3] /Shrewsbury/
 施羅德 施罗德 [Shi1 luo2 de2] /Schroeder/
 施羅克 施罗克 [Shi1 luo2 ke4] /Schrock/
 施羅特 施罗特 [Shi1 luo2 te4] /Schroth/
+施米克 施米克 [Shi1 mi3 ke4] /Schmick/
 施米特 施米特 [Shi1 mi3 te4] /Schmitt/
 施密特 施密特 [Shi1 mi4 te4] /Schmidt/
+施莫克 施莫克 [Shi1 mo4 ke4] /Schmoker/
 施奈德 施奈德 [Shi1 nai4 de2] /Schneider/
+施耐德 施耐德 [Shi1 nai4 de2] /Schneider/
+施奈德曼 施奈德曼 [Shi1 nai4 de2 man4] /Schneiderman/
+施奈特 施奈特 [Shi1 nai4 te4] /Schneiter/
+施內爾 施内尔 [Shi1 nei4 er3] /Schnell/
 施帕茨 施帕茨 [Shi1 pa4 ci2] /Spatz/
 施佩希特 施佩希特 [Shi1 pei4 xi1 te4] /Specht/
 施皮茨 施皮茨 [Shi1 pi2 ci2] /Spitz/
 施皮塔爾 施皮塔尔 [Shi1 pi2 ta3 er3] /Spittal/
 詩篇第二篇 诗篇第二篇 [Shi1 pian1_di4_er4_pian1] /the second psalm/second psalm, the/
 濕婆 湿婆 [Shi1 po2] /Siva (Hindu god)/
+施普勒 施普勒 [Shi1 pu3 le4] /Spuhler/
 施橋鎮 施桥镇 [Shi1 qiao2 zhen4] /Shiqiao (town)/
 施沙 施沙 [Shi1 sha1] /Shilshah/
 獅山 狮山 [Shi1 shan1] /Shishan (in Suzhou)/
@@ -28618,6 +28944,7 @@
 施泰納 施泰纳 [Shi1 tai4 na4] /Steiner/
 施泰納赫 施泰纳赫 [Shi1 tai4 na4 he4] /Steinach/
 施泰納赫爾 施泰纳赫尔 [Shi1 tai4 na4 he4 er3] /Steinacher/
+施泰因貝格爾 施泰因贝格尔 [Shi1 tai4 yin1 bei4 ge2 er3] /Steinberger/
 獅灘鎮 狮滩镇 [Shi1 tan1 zhen4] /Shitan (town)/
 施特勞斯 施特劳斯 [Shi1 te4 lao2 si1] /Strauss/
 施特里格爾 施特里格尔 [Shi1 te4 li3 ge2 er3] /Striegel/
@@ -28628,7 +28955,12 @@
 施托爾珀 施托尔珀 [Shi1 tuo1 er3 po4] /Stolper/
 施瓦布 施瓦布 [Shi1 wa3 bu4] /Schwab/
 施瓦茨 施瓦茨 [Shi1 wa3 ci2] /Schwarz (surname)/
+施萬茨 施万茨 [Shi1 wan4 ci2] /Schwanz/
+施威爾 施威尔 [Shi1 wei1 er3] /Schwier/
 施韋策 施韦策 [Shi1 wei2 ce4] /Schweizer/
+施維默 施维默 [Shi1 wei2 mo4] /Schwimmer/
+施魏策爾 施魏策尔 [Shi1 wei4 ce4 er3] /Schweizer/
+施文克 施文克 [Shi1 wen2 ke4] /Schwenk/
 施亞雅述 施亚雅述 [Shi1 ya4 ya3 shu4] /Shear-jashub/
 師寨鎮 师寨镇 [Shi1 zhai4 zhen4] /Shizhai (town)/
 獅寨鎮 狮寨镇 [Shi1 zhai4 zhen4] /Shizhai (town)/
@@ -28731,6 +29063,7 @@
 石橋鄉 石桥乡 [Shi2 qiao2_Xiang1] /Shiqiao Township/Township, Shiqiao/
 石橋驛鎮 石桥驿镇 [Shi2 qiao2 yi4 zhen4] /Shiqiaoyi (town)/
 石橋鎮 石桥镇 [Shi2 qiao2 zhen4] /Shiqiao (town)/
+什琴斯尼 什琴斯尼 [Shi2 qin2 si1 ni2] /Szczesny/
 石渠縣 石渠县 [Shi2 qu2_Xian4] /Shiqu (county, in Sichuan)/
 石泉縣 石泉县 [Shi2 quan2_Xian4] /Shiquan (county, in Shaanxi)/
 十三陵鎮 十三陵镇 [Shi2 san1 ling2 zhen4] /Shisanling (town)/
@@ -29228,6 +29561,7 @@
 碩龍鎮 硕龙镇 [Shuo4 long2 zhen4] /Shuolong (town)/
 朔默 朔默 [Shuo4 mo4] /Shomer/
 朔亞 朔亚 [Shuo4 ya4] /Shoa/
+朔伊爾 朔伊尔 [Shuo4 yi1 er3] /Scheuer/
 朔州 朔州 [Shuo4 zhou1] /Shuozhou (in Shanxi)/
 朔州市 朔州市 [Shuo4 zhou1_Shi4] /Shuozhou (in Shanxi)/
 朔州人 朔州人 [Shuo4 zhou1 ren2] /person of Shuozhou (in Shanxi)/Shuozhou, person of (in Shanxi)/
@@ -29241,6 +29575,7 @@
 斯波爾丁 斯波尔丁 [Si1 bo1 er3 ding1] /Spalding/
 斯波坎 斯波坎 [Si1 bo1 kan3] /Spokane/
 斯波克 斯波克 [Si1 bo1 ke4] /Spock (Benjamin)/
+斯波思 斯波思 [Si1 bo1 si1] /Spoth/
 斯伯丁 斯伯丁 [Si1 bo2 ding1] /Spalding/
 絲達 丝达 [Si1 da2] /Star (name)/
 斯妲 斯妲 [Si1 da2] /Starr/
@@ -29266,16 +29601,21 @@
 斯蒂芬斯 斯蒂芬斯 [Si1 di4 fen1 si1] /Stephens/
 斯蒂夫 斯蒂夫 [Si1 di4 fu1] /Stef/Steve/
 斯蒂格 斯蒂格 [Si1 di4 ge2] /Stieg/
+斯蒂利 斯蒂利 [Si1 di4 li4] /Stearley/
 斯蒂文 斯蒂文 [Si1 di4 wen2] /Steven/
 斯蒂文森 斯蒂文森 [Si1 di4 wen2 sen1] /Stevenson/
+斯蒂文斯 斯蒂文斯 [Si1 di4 wen2 si1] /Steevens/
 斯多葛派 斯多葛派 [Si1 duo1 ge2 pai4] /Stoic/
 斯多里 斯多里 [Si1 duo1 li3] /Storey (name)/
 斯多亞 斯多亚 [Si1 duo1 ya4] /Stoics/
+斯費爾 斯费尔 [Si1 fei4 er3] /Sfeir/
 斯福爾扎 斯福尔扎 [Si1 fu2 er3 zha1] /Sforza/
 斯基 斯基 [Si1 ji1] /Skea/
+斯基恩 斯基恩 [Si1 ji1 en1] /Skeen/
 斯基巴 斯基巴 [Si1 ji1 ba1] /Skiba/
 斯基伯林 斯基伯林 [Si1 ji1 bo2 lin2] /Skibbereen/
 斯基珀 斯基珀 [Si1 ji1 po4] /Skipper (name)/
+斯基特 斯基特 [Si1 ji1 te4] /Skeet/
 斯吉普 斯吉普 [Si1 ji2 pu3] /Skip (name)/
 斯傑克萊 斯杰克莱 [Si1 jie2 ke4 lai2] /Strathclyde/
 斯傑克萊大學 斯杰克莱大学 [Si1 jie2 ke4 lai2_Da4 xue2] /University of Strathclyde/Strathclyde, University of/
@@ -29284,23 +29624,37 @@
 斯金納 斯金纳 [Si1 jin1 na4] /Skinner/
 斯卡伯勒 斯卡伯勒 [Si1 ka3 bo2 le4] /Scarborough/
 斯卡夫特 斯卡夫特 [Si1 ka3 fu1 te4] /Skaft/
+斯卡格斯 斯卡格斯 [Si1 ka3 ge2 si1] /Skaggs/
 斯卡拉蒂 斯卡拉蒂 [Si1 ka3 la1 di4] /Scarlatti/
 斯卡萊基 斯卡莱基 [Si1 ka3 lai2 ji1] /Skalecki/
+斯卡利 斯卡利 [Si1 ka3 li4] /Scali/
+斯卡利亞 斯卡利亚 [Si1 ka3 li4 ya4] /Scalia/
+斯卡林 斯卡林 [Si1 ka3 lin2] /Scullin/
+斯卡隆 斯卡隆 [Si1 ka3 long2] /Scallon/
+斯卡倫 斯卡伦 [Si1 ka3 lun2] /Scallan/
+斯卡特 斯卡特 [Si1 ka3 te4] /Skutt/
 思凱 思凯 [Si1 kai3] /Sky/Skye/
 斯凱 斯凯 [Si1 kai3] /Sky/Skye/
 斯凱爾頓 斯凯尔顿 [Si1 kai3 er3 dun4] /Skeldon/
 斯凱爾斯 斯凯尔斯 [Si1 kai3 er3 si1] /Scales (name)/
+斯凱夫 斯凯夫 [Si1 kai3 fu1] /Scafe/
 斯凱拉 斯凯拉 [Si1 kai3 la1] /Skyla/Skylar/
 斯凱勒 斯凯勒 [Si1 kai3 le4] /Schuyler/Skylar/Skyler/
 斯凱利 斯凯利 [Si1 kai3 li4] /Skelley/
 斯堪的納維亞 斯堪的纳维亚 [Si1 kan1 di4 na4 wei2 ya4] /Scandinavia/
 斯坎倫 斯坎伦 [Si1 kan3 lun2] /Scanlon/
+斯考滕 斯考滕 [Si1 kao3 teng2] /Schouten/
 斯科爾斯 斯科尔斯 [Si1 ke1 er3 si1] /Skoyles/
 斯科蒂 斯科蒂 [Si1 ke1 di4] /Scottie/
 斯科菲爾德 斯科菲尔德 [Si1 ke1 fei1 er3 de2] /Schofield/
 斯科拉 斯科拉 [Si1 ke1 la1] /Thekla/
+斯科勒 斯科勒 [Si1 ke1 le4] /Scholer/
+斯科林 斯科林 [Si1 ke1 lin2] /Scollin/
+斯科隆 斯科隆 [Si1 ke1 long2] /Scollon/
+斯科倫 斯科伦 [Si1 ke1 lun2] /Scollan/
 斯科普里 斯科普里 [Si1 ke1 pu3 li3] /Skopje/
 斯科舍 斯科舍 [Si1 ke1 she4] /Scotia/
+斯科斯比 斯科斯比 [Si1 ke1 si1 bi3] /Scoresby/
 斯科特 斯科特 [Si1 ke1 te4] /Scott/
 思克萊德 思克莱德 [Si1 ke4 lai2 de2] /Strathclyde/
 思克萊德大學 思克莱德大学 [Si1 ke4 lai2 de2_Da4 xue2] /University of Strathclyde/Strathclyde, University of/
@@ -29308,7 +29662,9 @@
 斯克里布納 斯克里布纳 [Si1 ke4 li3 bu4 na4] /Scribner/
 斯克里普斯 斯克里普斯 [Si1 ke4 li3 pu3 si1] /Scripps/
 斯克倫尼科夫 斯克伦尼科夫 [Si1 ke4 lun2 ni2 ke1 fu1] /Skrynnikov/
+斯克羅格斯 斯克罗格斯 [Si1 ke4 luo2 ge2 si1] /Scroggs/
 斯庫代里 斯库代里 [Si1 ku4 dai4 li3] /Scuderi/
+斯庫利 斯库利 [Si1 ku4 li4] /Schooley/
 斯庫台 斯库台 [Si1 ku4 tai2] /Shkodër/
 斯拉夫人 斯拉夫人 [Si1 la1 fu1 ren2] /Slavic (person or people)/Slavs/
 斯拉夫語 斯拉夫语 [Si1 la1 fu1 yu3] /Slavonic language/language, Slavonic/
@@ -29318,10 +29674,13 @@
 斯拉沃米爾 斯拉沃米尔 [Si1 la1 wo4 mi3 er3] /Slawomir/
 斯萊恩 斯莱恩 [Si1 lai2 en1] /Slane/
 斯萊戈 斯莱戈 [Si1 lai2 ge1] /Sligo/
+斯萊尼 斯莱尼 [Si1 lai2 ni2] /Slaney/
 斯萊特 斯莱特 [Si1 lai2 te4] /Slater/
 斯萊特林 斯莱特林 [Si1 lai2 te4 lin2] /Slytherin/
+斯萊文 斯莱文 [Si1 lai2 wen2] /Slavin/
 斯萊辛格 斯莱辛格 [Si1 lai2 xin1 ge2] /Slézinger/
 斯萊扎克 斯莱扎克 [Si1 lai2 zha1 ke4] /Slezak/
+斯勞特 斯劳特 [Si1 lao2 te4] /Slaughter (name)/
 思樂 思乐 [Si1 le4] /Sile/
 斯蕾特 斯蕾特 [Si1 lei3 te4] /Slate (surname)/
 斯里安 斯里安 [Si1 li3 an1] /Cillian/
@@ -29330,12 +29689,14 @@
 斯洛伐克文 斯洛伐克文 [Si1 luo4 fa2 ke4 wen2] /Slovak (language)/
 斯洛伐克語 斯洛伐克语 [Si1 luo4 fa2 ke4 yu3] /Slovak (language)/
 斯洛曼 斯洛曼 [Si1 luo4 man4] /Sloman/
+斯洛斯 斯洛斯 [Si1 luo4 si1] /Sloss/
 斯洛文尼亞 斯洛文尼亚 [Si1 luo4 wen2 ni2 ya4] /Slovenia/
 斯洛文尼亞人 斯洛文尼亚人 [Si1 luo4 wen2 ni2 ya4 ren2] /Slovenians/Slovenian person or people/
 斯洛文尼亞語 斯洛文尼亚语 [Si1 luo4 wen2 ni2 ya4 yu3] /Slovenian (language)/
 斯馬古洛夫 斯马古洛夫 [Si1 ma3 gu3 luo4 fu1] /Smagulov/
 司馬浦鎮 司马浦镇 [Si1 ma3 pu3 zhen4] /Simapu (town)/
 司馬鎮 司马镇 [Si1 ma3 zhen4] /Sima (town)/
+斯邁利 斯迈利 [Si1 mai4 li4] /Smiley (name)/Smylie/Smylie, Smiley/
 思茅區 思茅区 [Si1 mao2_Qu1] /Simao District/District, Simao/
 斯梅爾 斯梅尔 [Si1 mei2 er3] /Smail/
 斯梅克 斯梅克 [Si1 mei2 ke4] /Smyk/
@@ -29344,6 +29705,7 @@
 斯密約瑟 斯密约瑟 [Si1 mi4_Yue1 se4] /Joseph Smith (Mormon founder)/Smith, Joseph (Mormon founder)/
 思明區 思明区 [Si1 ming2_Qu1] /Siming District/District, Siming/
 斯摩稜斯克州 斯摩稜斯克州 [Si1 mo2 leng2 si1 ke4 zhou1] /Smolensk Region (Russia)/Region, Smolensk (Russia)/
+斯莫爾 斯莫尔 [Si1 mo4 er3] /Small (name)/
 斯奈德 斯奈德 [Si1 nai4 de2] /Snyder/
 思南縣 思南县 [Si1 nan2_Xian4] /Sinan (county, in Guizhou)/
 斯內爾 斯内尔 [Si1 nei4 er3] /Snell/
@@ -29352,37 +29714,58 @@
 斯尼德 斯尼德 [Si1 ni2 de2] /Snyder/
 斯諾 斯诺 [Si1 nuo4] /Snow (name)/
 斯諾特 斯诺特 [Si1 nuo4 te4] /Sinnott/
+斯帕爾 斯帕尔 [Si1 pa4 er3] /Spahr/
+斯帕達 斯帕达 [Si1 pa4 da2] /Spada/
 斯帕克 斯帕克 [Si1 pa4 ke4] /Spark (name)/
 斯帕克斯 斯帕克斯 [Si1 pa4 ke4 si1] /Sparks (surname)/
 斯帕萊蒂 斯帕莱蒂 [Si1 pa4 lai2 di4] /Spalletti/
+斯帕羅 斯帕罗 [Si1 pa4 luo2] /Sparrow (name)/
 斯帕奇爾 斯帕奇尔 [Si1 pa4 qi2 er3] /Spacil/
 斯帕斯基 斯帕斯基 [Si1 pa4 si1 ji1] /Spassky/
 斯派 斯派 [Si1 pai4] /Sippai/
+斯派爾 斯派尔 [Si1 pai4 er3] /Speyer/
+斯派塞 斯派塞 [Si1 pai4 se4] /Spicer/
 斯潘塞 斯潘塞 [Si1 pan1 se4] /Spencer/
 斯潘塞灣 斯潘塞湾 [Si1 pan1 se4_wan1] /Spencer Gulf/Gulf, Spencer/
+斯佩爾曼 斯佩尔曼 [Si1 pei4 er3 man4] /Spelman/
 斯佩克特 斯佩克特 [Si1 pei4 ke4 te4] /Spector/
+斯佩里 斯佩里 [Si1 pei4 li3] /Sperry/
+斯佩林 斯佩林 [Si1 pei4 lin2] /Sperring/
 斯佩西奧蒂斯 斯佩西奥蒂斯 [Si1 pei4 xi1 ao4 di4 si1] /Spetsiotis/
 斯彭斯 斯彭斯 [Si1 peng2 si1] /Spence/
+斯皮爾 斯皮尔 [Si1 pi2 er3] /Speare/
+斯皮爾伯格 斯皮尔伯格 [Si1 pi2 er3 bo2 ge2] /Spielberg/
 斯皮爾斯 斯皮尔斯 [Si1 pi2 er3 si1] /Spears (name)/
 斯皮德 斯皮德 [Si1 pi2 de2] /Speed (name)/
 斯皮克 斯皮克 [Si1 pi2 ke4] /Speke/
 斯皮羅 斯皮罗 [Si1 pi2 luo2] /Spiro/
 斯皮羅斯 斯皮罗斯 [Si1 pi2 luo2 si1] /Spyros/
 斯皮內塔 斯皮内塔 [Si1 pi2 nei4 ta3] /Spinetta/
+斯皮斯 斯皮斯 [Si1 pi2 si1] /Spease/
 斯皮瓦克 斯皮瓦克 [Si1 pi2 wa3 ke4] /Spivak/
 斯平拉德 斯平拉德 [Si1 ping2 la1 de2] /Spinrad/
 斯珀爾 斯珀尔 [Si1 po4 er3] /Spurr/
+斯珀吉翁 斯珀吉翁 [Si1 po4 ji2 weng1] /Spurgeon/
+斯普拉格 斯普拉格 [Si1 pu3 la1 ge2] /Spragg/Sprague/
 斯普拉特利 斯普拉特利 [Si1 pu3 la1 te4 li4] /Spratly/
+斯普拉特林 斯普拉特林 [Si1 pu3 la1 te4 lin2] /Spratling/
 斯普拉溫斯基 斯普拉温斯基 [Si1 pu3 la1 wen1 si1 ji1] /Splavinskyi/
 斯普萊恩 斯普莱恩 [Si1 pu3 lai2 en1] /Splane/
 斯普勞爾 斯普劳尔 [Si1 pu3 lao2 er3] /Sproule/
+斯普勞斯 斯普劳斯 [Si1 pu3 lao2 si1] /Sprouse/
+斯普雷格 斯普雷格 [Si1 pu3 lei2 ge2] /Sprague/
+斯普林菲爾德 斯普林菲尔德 [Si1 pu3 lin2 fei1 er3 de2] /Springfield/
+斯普林格特 斯普林格特 [Si1 pu3 lin2 ge2 te4] /Springett/
+斯普林斯廷 斯普林斯廷 [Si1 pu3 lin2 si1 ting2] /Springsteen/
 斯普倫格 斯普伦格 [Si1 pu3 lun2 ge2] /Sprenger/
 司前畲族鎮 司前畲族镇 [Si1 qian2_She1 zu2_Zhen4] /Siqian She Town/Town, Siqian She/
 司前鄉 司前乡 [Si1 qian2_Xiang1] /Siqian Township/Township, Siqian/
 司前鎮 司前镇 [Si1 qian2 zhen4] /Siqian (town)/
 斯塔爾 斯塔尔 [Si1 ta3 er3] /Starr/
+斯塔賓斯 斯塔宾斯 [Si1 ta3 bin1 si1] /Stubbings/
 斯塔布斯 斯塔布斯 [Si1 ta3 bu4 si1] /Stubbs/
 斯塔登島 斯塔登岛 [Si1 ta3 deng1 dao3] /Staten (island)/
+斯塔芬 斯塔芬 [Si1 ta3 fen1] /Staffen/
 斯塔夫里 斯塔夫里 [Si1 ta3 fu1 li3] /Stavri/
 斯塔夫羅斯 斯塔夫罗斯 [Si1 ta3 fu1 luo2 si1] /Stavros/
 斯塔夫斯基 斯塔夫斯基 [Si1 ta3 fu1 si1 ji1] /Stawski/
@@ -29392,20 +29775,27 @@
 斯塔克 斯塔克 [Si1 ta3 ke4] /Stakh/
 斯塔克豪斯 斯塔克豪斯 [Si1 ta3 ke4 hao2 si1] /Stackhouse/
 斯塔克斯 斯塔克斯 [Si1 ta3 ke4 si1] /Starks/
+斯塔羅賓 斯塔罗宾 [Si1 ta3 luo2 bin1] /Starobin/
 斯塔奇 斯塔奇 [Si1 ta3 qi2] /Staci/
 斯塔萬格 斯塔万格 [Si1 ta3 wan4 ge2] /Stavanger/
 斯塔西斯 斯塔西斯 [Si1 ta3 xi1 si1] /Stathis/
 斯泰恩 斯泰恩 [Si1 tai4 en1] /Stine/
+斯泰爾 斯泰尔 [Si1 tai4 er3] /Steil/
 斯泰爾斯 斯泰尔斯 [Si1 tai4 er3 si1] /Stiles/
 斯泰法諾斯 斯泰法诺斯 [Si1 tai4 fa3 nuo4 si1] /Stephanos/
 斯泰利安 斯泰利安 [Si1 tai4 li4 an1] /Stelian/
 斯泰納爾 斯泰纳尔 [Si1 tai4 na4 er3] /Steinar/
+斯泰斯 斯泰斯 [Si1 tai4 si1] /Stace/
 斯泰西 斯泰西 [Si1 tai4 xi1] /Stacy/
 斯泰因 斯泰因 [Si1 tai4 yin1] /Stein/
 斯坦 斯坦 [Si1 tan3] /Stan/
+斯坦巴克 斯坦巴克 [Si1 tan3 ba1 ke4] /Steinbach/
 斯坦伯格 斯坦伯格 [Si1 tan3 bo2 ge2] /Steinberg/
+斯坦伯里 斯坦伯里 [Si1 tan3 bo2 li3] /Stanberry/
+斯坦迪什 斯坦迪什 [Si1 tan3 di2 shi2] /Standish/
 斯坦頓 斯坦顿 [Si1 tan3 dun4] /Stanton/
 斯坦菲爾德 斯坦菲尔德 [Si1 tan3 fei1 er3 de2] /Stanfield/
+斯坦哈特 斯坦哈特 [Si1 tan3 ha1 te4] /Steinhart/
 斯坦科 斯坦科 [Si1 tan3 ke1] /Stanko/
 斯坦科維奇 斯坦科维奇 [Si1 tan3 ke1 wei2 qi2] /Stanković/
 斯坦克 斯坦克 [Si1 tan3 ke4] /Stanko/
@@ -29427,6 +29817,7 @@
 斯陶丁格 斯陶丁格 [Si1 tao2 ding1 ge2] /Staudinger/
 斯特恩 斯特恩 [Si1 te4 en1] /Stern (surname)/
 斯特恩斯 斯特恩斯 [Si1 te4 en1 si1] /Stearns/
+斯特爾克 斯特尔克 [Si1 te4 er3 ke4] /Stelk/
 斯特德 斯特德 [Si1 te4 de2] /Stead (surname)/
 斯特德曼 斯特德曼 [Si1 te4 de2 man4] /Steadman/
 斯特迪文特 斯特迪文特 [Si1 te4 di2 wen2 te4] /Sturdivant/
@@ -29450,23 +29841,30 @@
 斯特拉斯克萊德 斯特拉斯克莱德 [Si1 te4 la1 si1 ke4 lai2 de2] /Strathclyde/
 斯特拉斯邁爾 斯特拉斯迈尔 [Si1 te4 la1 si1 mai4 er3] /Strassmaier/
 斯特拉特福 斯特拉特福 [Si1 te4 la1 te4 fu2] /Stratford/
+斯特拉溫斯基 斯特拉温斯基 [Si1 te4 la1 wen1 si1 ji1] /Stravinsky/
 斯特拉文斯基 斯特拉文斯基 [Si1 te4 la1 wen2 si1 ji1] /Stravinsky/
 斯特賴克 斯特赖克 [Si1 te4 lai4 ke4] /Stryker/
+斯特蘭 斯特兰 [Si1 te4 lan2] /Stirland/
 斯特蘭奈斯 斯特兰奈斯 [Si1 te4 lan2 nai4 si1] /Strängnäs/
 斯特蘭奇 斯特兰奇 [Si1 te4 lan2 qi2] /Strange (name)/
 斯特朗 斯特朗 [Si1 te4 lang3] /Strong (McClintock and)/
 斯特勞德 斯特劳德 [Si1 te4 lao2 de2] /Stroud/
 斯特勞斯 斯特劳斯 [Si1 te4 lao2 si1] /Strauss/
+斯特雷特 斯特雷特 [Si1 te4 lei2 te4] /Sterrett/
+斯特里奇 斯特里奇 [Si1 te4 li3 qi2] /Stritch/
+斯特里特 斯特里特 [Si1 te4 li3 te4] /Streeter/
 斯特里托 斯特里托 [Si1 te4 li3 tuo1] /Stritto/
 斯特林 斯特林 [Si1 te4 lin2] /Sterling (surname)/
 斯特靈 斯特灵 [Si1 te4 ling2] /Stirling/Sterling (place)/
 斯特魯斯 斯特鲁斯 [Si1 te4 lu3 si1] /Struys/
 斯特倫克 斯特伦克 [Si1 te4 lun2 ke4] /Strunk/
+斯特羅洛 斯特罗洛 [Si1 te4 luo2 luo4] /Strollo/
 斯特羅斯納 斯特罗斯纳 [Si1 te4 luo2 si1 na4] /Stroessner/
 斯特姆 斯特姆 [Si1 te4 mu3] /Sturm/
 斯特娜 斯特娜 [Si1 te4 na4] /Stina/
 斯特納 斯特纳 [Si1 te4 na4] /Stina/
 斯特普托 斯特普托 [Si1 te4 pu3 tuo1] /Steptoe/
+斯特奇斯 斯特奇斯 [Si1 te4 qi2 si1] /Sturges/
 斯特萬 斯特万 [Si1 te4 wan4] /Stevan/
 斯滕伯格 斯滕伯格 [Si1 teng2 bo2 ge2] /Sternberg/
 司提反 司提反 [Si1 ti2 fan3] /Stephen/
@@ -29476,11 +29874,14 @@
 斯圖爾特 斯图尔特 [Si1 tu2 er3 te4] /Stuart/
 斯圖加特 斯图加特 [Si1 tu2 jia1 te4] /Stuttgart/
 斯圖加特日報 斯图加特日报 [Si1 tu2 jia1 te4_ri4 bao4] /Stuttgarter (newspaper)/
+斯圖克 斯图克 [Si1 tu2 ke4] /Stucke/
 斯圖普尼科夫 斯图普尼科夫 [Si1 tu2 pu3 ni2 ke1 fu1] /Stupnikov/
 斯圖亞特 斯图亚特 [Si1 tu2 ya4 te4] /Stuart/
 司徒鎮 司徒镇 [Si1 tu2 zhen4] /Situ (town)/
+斯托厄爾 斯托厄尔 [Si1 tuo1 e4 er3] /Stowell/
 斯托爾 斯托尔 [Si1 tuo1 er3] /Storr/
 斯托爾斯 斯托尔斯 [Si1 tuo1 er3 si1] /Storrs/
+斯托爾茲 斯托尔兹 [Si1 tuo1 er3 zi1] /Stolz/
 斯托博 斯托博 [Si1 tuo1 bo2] /Stobaugh/
 斯托達德 斯托达德 [Si1 tuo1 da2 de2] /Stoddard/
 斯托費爾 斯托费尔 [Si1 tuo1 fei4 er3] /Stoffel/
@@ -29494,8 +29895,10 @@
 斯托納 斯托纳 [Si1 tuo1 na4] /Stoner/
 斯托尼 斯托尼 [Si1 tuo1 ni2] /Stoney/
 斯托佩 斯托佩 [Si1 tuo1 pei4] /Stöppler/
+斯托奇 斯托奇 [Si1 tuo1 qi2] /Stouch/
 斯托特 斯托特 [Si1 tuo1 te4] /Stott/
 斯托辛格 斯托辛格 [Si1 tuo1 xin1 ge2] /Stoessinger/
+斯托伊 斯托伊 [Si1 tuo1 yi1] /Stoy/
 斯瓦 斯瓦 [Si1 wa3] /Siva/
 斯瓦爾巴 斯瓦尔巴 [Si1 wa3 er3 ba1] /Svalbard/
 斯瓦比 斯瓦比 [Si1 wa3 bi3] /Swabie/
@@ -29509,18 +29912,28 @@
 斯旺森 斯旺森 [Si1 wang4 sen1] /Swanson/
 斯旺西 斯旺西 [Si1 wang4 xi1] /Swansea/
 斯威夫特 斯威夫特 [Si1 wei1 fu1 te4] /Swift (Jonathan)/
+斯威格特 斯威格特 [Si1 wei1 ge2 te4] /Swiggett/
+斯威克 斯威克 [Si1 wei1 ke4] /Swick/
+斯威姆 斯威姆 [Si1 wei1 mu3] /Swaim/
+斯威尼 斯威尼 [Si1 wei1 ni2] /Sweeney/
+斯威齊 斯威齐 [Si1 wei1 qi2] /Sweezy/Swezey/
 斯威森 斯威森 [Si1 wei1 sen1] /Swithin/
 斯威士蘭 斯威士兰 [Si1 wei1 shi4 lan2] /Swaziland/
 斯威特 斯威特 [Si1 wei1 te4] /Sweet (name)/
+斯韋恩 斯韦恩 [Si1 wei2 en1] /Svewn/
 斯維爾德洛夫斯克 斯维尔德洛夫斯克 [Si1 wei2 er3 de2 luo4 fu1 si1 ke4] /Sverdlovskiy/
 斯維爾日 斯维尔日 [Si1 wei2 er3 ri4] /Svirzh/
 斯維塔 斯维塔 [Si1 wei2 ta3] /Sveta/
+斯韋特 斯韦特 [Si1 wei2 te4] /Sweatt/Swett/
 斯維特拉娜 斯维特拉娜 [Si1 wei2 te4 la1 na4] /Svetlana/
 斯韋特蘭娜 斯韦特兰娜 [Si1 wei2 te4 lan2 na4] /Svetlana/
+斯韋特納姆 斯韦特纳姆 [Si1 wei2 te4 na4 mu3] /Swetnam/
 斯溫 斯温 [Si1 wen1] /Sveinn/Sven/Swain/Swayn/
 斯溫登 斯温登 [Si1 wen1 deng1] /Swindon/
 斯溫佐夫 斯温佐夫 [Si1 wen1 zuo3 fu1] /Svintsov/
 斯沃爾 斯沃尔 [Si1 wo4 er3] /Schwoerer/
+斯沃尼 斯沃尼 [Si1 wo4 ni2] /Swaney/
+斯沃普 斯沃普 [Si1 wo4 pu3] /Swope/
 司寨鄉 司寨乡 [Si1 zhai4_Xiang1] /Sizhai Township/Township, Sizhai/
 司竹鎮 司竹镇 [Si1 zhu2 zhen4] /Sizhu (town)/
 死海古卷 死海古卷 [Si3_Hai3_gu3 juan4] /Dead Sea scrolls/scrolls, Dead Sea/
@@ -29772,6 +30185,7 @@
 蘇庫爾 苏库尔 [Su1 ku4 er3] /Sukkur/
 蘇庫馬語 苏库马语 [Su1 ku4 ma3 yu3] /Sukuma (language)/
 蘇拉 苏拉 [Su1 la1] /Sora/Zura/
+蘇拉克 苏拉克 [Su1 la1 ke4] /Sulak/
 蘇拉特 苏拉特 [Su1 la1 te4] /Surat/
 蘇拉威西島 苏拉威西岛 [Su1 la1 wei1 xi1 dao3] /Sulawesi (island)/
 蘇拉婭 苏拉娅 [Su1 la1 ya4] /Soraya/
@@ -29783,6 +30197,7 @@
 蘇雷曼 苏雷曼 [Su1 lei2 man4] /Suleiman/
 蘇黎世 苏黎世 [Su1 li2 shi4] /Zurich/
 蘇里高農語 苏里高农语 [Su1 li3 gao1 nong2 yu3] /Surigaonon (language)/
+蘇里納 苏里纳 [Su1 li3 na4] /Surina/
 蘇里亞 苏里亚 [Su1 li3 ya4] /Surya/
 蘇利南 苏利南 [Su1 li4 nan2] /Suriname (alternate translation)/
 蘇利沙代 苏利沙代 [Su1 li4 sha1 dai4] /Zurishaddai/
@@ -29957,6 +30372,7 @@
 瑣安 琐安 [Suo3 an1] /Zoan/
 索厄爾 索厄尔 [Suo3 e4 er3] /Sowell/
 索恩 索恩 [Suo3 en1] /Thorn (surname)/
+索恩斯 索恩斯 [Suo3 en1 si1] /Sones/
 瑣珥 琐珥 [Suo3 er3] /Zoar/
 索爾 索尔 [Suo3 er3] /Thor/Saul (modern)/
 索爾伯格 索尔伯格 [Suo3 er3 bo2 ge2] /Solberg/
@@ -29965,6 +30381,7 @@
 索爾克 索尔克 [Suo3 er3 ke4] /Salk/
 索爾涅奇諾耶 索尔涅奇诺耶 [Suo3 er3 nie4 qi2 nuo4 ye1] /Solnechnoye/
 索爾斯 索尔斯 [Suo3 er3 si1] /Soares/
+索爾斯坦 索尔斯坦 [Suo3 er3 si1 tan3] /Thorstein/
 索爾茲伯里 索尔兹伯里 [Suo3 er3 zi1 bo2 li3] /Salisbury/
 瑣巴 琐巴 [Suo3 ba1] /Zobah/
 瑣巴王 琐巴王 [Suo3 ba1 wang2] /king of Zobah/Zobah, king of/
@@ -29979,6 +30396,7 @@
 索德柏立 索德柏立 [Suo3 de2 bo2 li4] /Sudbury/
 索蒂爾 索蒂尔 [Suo3 di4 er3] /Sotir/
 索蒂里奧斯 索蒂里奥斯 [Suo3 di4 li3 ao4 si1] /Sotirios/
+索頓斯托爾 索顿斯托尔 [Suo3 dun4 si1 tuo1 er3] /Saltonstall/
 所多瑪 所多玛 [Suo3 duo1 ma3] /Sodom/
 所多瑪城 所多玛城 [Suo3 duo1 ma3_Cheng2] /Sodom/
 所多瑪人 所多玛人 [Suo3 duo1 ma3 ren2] /Sodomite/
@@ -29993,6 +30411,7 @@
 索非婭 索非娅 [Suo3 fei1 ya4] /Zofia/
 索福克勒斯 索福克勒斯 [Suo3 fu2 ke4 le4 si1] /Sophocles/
 索福尼亞 索福尼亚 [Suo3 fu2 ni2 ya4] /Zephaniah (book, Catholic version)/
+索弗斯 索弗斯 [Suo3 fu2 si1] /Sophus/
 索格 索格 [Suo3 ge2] /Zog/
 鎖簧鎮 锁簧镇 [Suo3 huang2 zhen4] /Suohuang (town)/
 索加語 索加语 [Suo3 jia1 yu3] /Soga (language)/
@@ -30009,6 +30428,7 @@
 索蘭吉 索兰吉 [Suo3 lan2 ji2] /Solange/
 索朗熱 索朗热 [Suo3 lang3 re4] /Solange/
 索雷爾 索雷尔 [Suo3 lei2 er3] /Sorrell (surname)/
+索里亞 索里亚 [Suo3 li3 ya4] /Soria/
 索里亞諾 索里亚诺 [Suo3 li3 ya4 nuo4] /Soriano/
 索利 索利 [Suo3 li4] /Solley/
 索利納 索利纳 [Suo3 li4 na4] /Solina/
@@ -30027,6 +30447,7 @@
 瑣羅亞斯德 琐罗亚斯德 [Suo3 luo2 ya4 si1 de2] /Zoroastrian/
 瑣羅亞斯德教 琐罗亚斯德教 [Suo3 luo2 ya4 si1 de2 jiao1] /Zoroastrianism/
 索羅茲 索罗兹 [Suo3 luo2 zi1] /Sozos/
+索洛夫 索洛夫 [Suo3 luo4 fu1] /Soloff/
 索洛維耶夫 索洛维耶夫 [Suo3 luo4 wei2 ye1 fu1] /Solovyev/
 所略鄉 所略乡 [Suo3 lu:e4_Xiang1] /Suolue Township/Township, Suolue/
 索瑪 索玛 [Suo3 ma3] /Soma/
@@ -30036,6 +30457,7 @@
 索摩查 索摩查 [Suo3 mo2 cha2] /Somoza/
 索默 索默 [Suo3 mo4] /Saumur/
 索姆河 索姆河 [Suo3 mu3 he2] /River Somme/Somme, River/
+索姆斯 索姆斯 [Suo3 mu3 si1] /Somes/
 索娜 索娜 [Suo3 na4] /Sona/
 索納爾 索纳尔 [Suo3 na4 er3] /Sonal/
 索妮亞 索妮亚 [Suo3 ni1 ya4] /Sonja/
@@ -30048,6 +30470,7 @@
 索齊尼派 索齐尼派 [Suo3 qi2 ni2 pai4] /Socinians/
 所前鎮 所前镇 [Suo3 qian2 zhen4] /Suoqian (town)/
 索薩 索萨 [Suo3 sa4] /Sosa/
+索斯比 索斯比 [Suo3 si1 bi3] /Sorsby/
 索斯尼夫卡 索斯尼夫卡 [Suo3 si1 ni2 fu1 ka3] /Sosnivka/
 所提尼 所提尼 [Suo3 ti2 ni2] /Sosthenes/
 索通 索通 [Suo3 tong1] /Zotung/
@@ -30081,6 +30504,7 @@
 塔安那文 塔安那文 [Ta3 an1 na4 wen2] /Thaana (written language)/
 塔爾 塔尔 [Ta3 er3] /Taal (alternate translation)/
 塔爾伯特 塔尔伯特 [Ta3 er3 bo2 te4] /Talbert/
+塔爾博特 塔尔博特 [Ta3 er3 bo2 te4] /Talbot/
 塔爾迪庫爾干 塔尔迪库尔干 [Ta3 er3 di2 ku4 er3 gan1] /Taldyqorghan/
 塔爾曼 塔尔曼 [Ta3 er3 man4] /Thalemann/
 塔爾喬 塔尔乔 [Ta3 er3 qiao2] /Tárcio/
@@ -30113,6 +30537,7 @@
 塔古姆 塔古姆 [Ta3 gu3 mu3] /Targum/
 塔古斯 塔古斯 [Ta3 gu3 si1] /Tagus/
 塔哈島 塔哈岛 [Ta3 ha1 dao3] /Tahaa (island)/
+塔哈拉 塔哈拉 [Ta3 ha1 la1] /Tahara/
 塔河 塔河 [Ta3 he2] /Tahe (county in Heilongjiang)/
 塔河縣 塔河县 [Ta3 he2_Xian4] /Tahe County (in Heilongjiang)/County, Tahe (in Heilongjiang)/
 塔河鎮 塔河镇 [Ta3 he2 zhen4] /Tahe (town)/
@@ -30173,6 +30598,7 @@
 塔米婭 塔米娅 [Ta3 mi3 ya4] /Tamia/
 塔姆 塔姆 [Ta3 mu3] /Tam/
 塔姆拉 塔姆拉 [Ta3 mu3 la1] /Tamra/
+塔姆森 塔姆森 [Ta3 mu3 sen1] /Tamsen/
 塔姆辛 塔姆辛 [Ta3 mu3 xin1] /Tamsin/Tamsyn/
 塔木德 塔木德 [Ta3 mu4 de2] /Talmud/
 塔娜 塔娜 [Ta3 na4] /Tana/
@@ -30194,6 +30620,7 @@
 塔皮歐 塔皮欧 [Ta3 pi2 ou1] /Tapio/
 塔皮瓦 塔皮瓦 [Ta3 pi2 wa3] /Tapiwa/
 塔普利 塔普利 [Ta3 pu3 li4] /Tapley/Tarpley/
+塔普林 塔普林 [Ta3 pu3 lin2] /Taplin/
 塔奇 塔奇 [Ta3 qi2] /Taqqi/
 塔奇塔 塔奇塔 [Ta3 qi2 ta3] /Tacita/
 塔橋鄉 塔桥乡 [Ta3 qiao2_Xiang1] /Taqiao Township/Township, Taqiao/
@@ -30203,6 +30630,7 @@
 塔什庫爾干縣 塔什库尔干县 [Ta3 shi2 ku4 er3 gan1_Xian4] /Taxkorgan (Tajik county, in Xinjiang)/
 塔什庫爾干鄉 塔什库尔干乡 [Ta3 shi2 ku4 er3 gan1_Xiang1] /Tashiku'ergan Township/Township, Tashiku'ergan/
 塔什庫爾干鎮 塔什库尔干镇 [Ta3 shi2 ku4 er3 gan1 zhen4] /Tashiku'ergan (town)/
+塔斯卡 塔斯卡 [Ta3 si1 ka3] /Tasca/
 塔斯卡盧薩縣 塔斯卡卢萨县 [Ta3 si1 ka3 lu2 sa4_Xian4] /Tuscaloosa (county, in Alabama)/
 塔斯馬尼亞 塔斯马尼亚 [Ta3 si1 ma3 ni2 ya4] /Tasmania/
 塔斯曼 塔斯曼 [Ta3 si1 man4] /Tasman/
@@ -30286,6 +30714,7 @@
 泰爾馬諾夫市 泰尔马诺夫市 [Tai4 er3 ma3 nuo4 fu1_Shi4] /Telmanove/
 泰爾米尼 泰尔米尼 [Tai4 er3 mi3 ni2] /Termini/
 泰爾人 泰尔人 [Tai4 er3 ren2] /person of Tyre/Tyre, person of/
+泰爾斯 泰尔斯 [Tai4 er3 si1] /Tyers/
 泰爾西 泰尔西 [Tai4 er3 xi1] /Tyreese/
 泰巴 泰巴 [Tai4 ba1] /Tebah/
 太拔鄉 太拔乡 [Tai4 ba2_Xiang1] /Taiba Township/Township, Taiba/
@@ -30295,6 +30724,7 @@
 泰比里厄斯 泰比里厄斯 [Tai4 bi3 li3 e4 si1] /Tiberius (modern)/
 泰伯 泰伯 [Tai4 bo2] /Tabor/
 泰博 泰博 [Tai4 bo2] /Tab (name)/
+泰布爾 泰布尔 [Tai4 bu4 er3] /Tabel/
 太倉 太仓 [Tai4 cang1] /Taicang (in Jiangsu)/
 太倉市 太仓市 [Tai4 cang1_Shi4] /Taicang (in Jiangsu)/
 太倉人 太仓人 [Tai4 cang1 ren2] /person of Taicang (in Jiangsu)/Taicang, person of (in Jiangsu)/
@@ -30347,6 +30777,7 @@
 泰里耶 泰里耶 [Tai4 li3 ye1] /Terrier (surname)/
 泰利 泰利 [Tai4 li4] /Taylor (older translation)/
 泰利獎 泰利奖 [Tai4 li4_Jiang3] /Telly Award/Award, Telly/
+泰力克 泰力克 [Tai4 li4 ke4] /Tylique/
 泰麗娜 泰丽娜 [Tai4 li4 na4] /Talina/
 泰麗斯 泰丽斯 [Tai4 li4 si1] /Therese/
 泰利文 泰利文 [Tai4 li4 wen2] /Telemann/
@@ -30531,6 +30962,7 @@
 坦尼 坦尼 [Tan3 ni2] /Tenney/
 坦尼爾 坦尼尔 [Tan3 ni2 er3] /Tennille/
 坦尼寧 坦尼宁 [Tan3 ni2 ning2] /Tanninen/
+坦尼森 坦尼森 [Tan3 ni2 sen1] /Tennison/Tennyson/
 坦尼斯 坦尼斯 [Tan3 ni2 si1] /Tanis/
 坦佩雷 坦佩雷 [Tan3 pei4 lei2] /Tampere/
 坦佩雷市 坦佩雷市 [Tan3 pei4 lei2_Shi4] /Tampere (city)/
@@ -30784,11 +31216,14 @@
 特拉法爾加廣場 特拉法尔加广场 [Te4 la1 fa3 er3 jia1_Guang3 chang3] /Trafalgar Square/Square, Trafalgar/
 特拉法加廣場 特拉法加广场 [Te4 la1 fa3 jia1_Guang3 chang3] /Trafalgar Square/Square, Trafalgar/
 特拉弗斯 特拉弗斯 [Te4 la1 fu2 si1] /Travers/
+特拉漢 特拉汉 [Te4 la1 han4] /Trahan/
 特拉赫 特拉赫 [Te4 la1 he4] /Telah/
 特拉可尼 特拉可尼 [Te4 la1 ke3 ni2] /Trachonitis/
 特拉帕內克語 特拉帕内克语 [Te4 la1 pa4 nei4 ke4 yu3] /Tlapanec (language)/
 特拉帕內塞 特拉帕内塞 [Te4 la1 pa4 nei4 se4] /Trapanese/
 特拉奇 特拉奇 [Te4 la1 qi2] /Traci/
+特拉斯 特拉斯 [Te4 la1 si1] /Terras/
+特拉斯克 特拉斯克 [Te4 la1 si1 ke4] /Trask/
 特拉威 特拉威 [Te4 la1 wei1] /Tarawa/
 特拉維斯 特拉维斯 [Te4 la1 wei2 si1] /Travis/
 特拉溫 特拉温 [Te4 la1 wen1] /Travon/
@@ -30804,6 +31239,8 @@
 特朗德 特朗德 [Te4 lang3 de2] /Trond/
 特朗普 特朗普 [Te4 lang3 pu3] /Trump (surname)/
 特勞戈特 特劳戈特 [Te4 lao2 ge1 te4] /Traugott/
+特勞姆 特劳姆 [Te4 lao2 mu3] /Traum/
+特勞特曼 特劳特曼 [Te4 lao2 te4 man4] /Troutman/
 特勒 特勒 [Te4 lei1] /Tore/
 特雷 特雷 [Te4 lei2] /Treigh/
 特雷爾 特雷尔 [Te4 lei2 er3] /Terrell/
@@ -30816,9 +31253,11 @@
 特雷薩 特雷萨 [Te4 lei2 sa4] /Tresa/
 特雷莎 特雷莎 [Te4 lei2 sha1] /Teresa/
 特雷絲 特雷丝 [Te4 lei2 si1] /Tracy/
+特雷斯 特雷斯 [Te4 lei2 si1] /Trace/Trease/
 特雷索波利斯 特雷索波利斯 [Te4 lei2 suo3 bo1 li4 si1] /Teresópolis/
 特雷沃 特雷沃 [Te4 lei2 wo4] /Trevon/
 特雷西 特雷西 [Te4 lei2 xi1] /Tracey/
+特雷扎 特雷扎 [Te4 lei2 zha1] /Trezza/
 特蕾莎 特蕾莎 [Te4 lei3 sha1] /Teresa/
 特蕾希 特蕾希 [Te4 lei3 xi1] /Traci/
 特蕾茜 特蕾茜 [Te4 lei3 xi1] /Tracy/
@@ -30826,8 +31265,10 @@
 特蕾西亞 特蕾西亚 [Te4 lei3 xi1 ya4] /Theresa/
 特蕾西婭 特蕾西娅 [Te4 lei3 xi1 ya4] /Teresia/
 特蕾澤 特蕾泽 [Te4 lei3 ze2] /Therese/
+特里安諾 特里安诺 [Te4 li3 an1 nuo4] /Trianno/
 特里爾 特里尔 [Te4 li3 er3] /Trier/
 特里格利斯 特里格利斯 [Te4 li3 ge2 li4 si1] /Tregelles/
+特里格斯 特里格斯 [Te4 li3 ge2 si1] /Triggs/
 特里格維 特里格维 [Te4 li3 ge2 wei2] /Tryggvi/
 特里基 特里基 [Te4 li3 ji1] /Teleki (surname)/
 特里林 特里林 [Te4 li3 lin2] /Trilling/
@@ -30839,12 +31280,16 @@
 特里斯丹 特里斯丹 [Te4 li3 si1 dan1] /Tristan/
 特里斯蒂安 特里斯蒂安 [Te4 li3 si1 di4 an1] /Tristian/
 特里斯坦 特里斯坦 [Te4 li3 si1 tan3] /Tristan/
+特里斯特 特里斯特 [Te4 li3 si1 te4] /Treaster/
 特里特 特里特 [Te4 li3 te4] /Tritt/
+特里威克 特里威克 [Te4 li3 wei1 ke4] /Treweek/
 特里維尼 特里维尼 [Te4 li3 wei2 ni2] /Trivini/
 特里維西克 特里维西克 [Te4 li3 wei2 xi1 ke4] /Trevithick/
 特里文 特里文 [Te4 li3 wen2] /Trevan/
+特里翁 特里翁 [Te4 li3 weng1] /Trione/
 特里西亞 特里西亚 [Te4 li3 xi1 ya4] /Theresia/
 特里西婭 特里西娅 [Te4 li3 xi1 ya4] /Tricia/
+特里亞納 特里亚纳 [Te4 li3 ya4 na4] /Triana/
 特麗 特丽 [Te4 li4] /Terry/
 特利 特利 [Te4 li4] /Telly/Turley/
 特莉 特莉 [Te4 li4] /Terry (female)/
@@ -30874,12 +31319,17 @@
 特倫特河 特伦特河 [Te4 lun2 te4_He2] /River Trent/Trent, River/
 特倫特河畔伯頓 特伦特河畔伯顿 [Te4 lun2 te4_He2 pan4_Bo2 dun4] /Burton on Trent/Burton upon Trent/Trent, Burton on/
 特倫特河畔斯托克 特伦特河畔斯托克 [Te4 lun2 te4_he2 pan4_Si1 tuo1 ke4] /Stoke-on-Trent/
+特倫托 特伦托 [Te4 lun2 tuo1] /Trento/
 特倫托會議 特伦托会议 [Te4 lun2 tuo1_hui4 yi4] /Council of Trent/Trent, Council of/
 特羅 特罗 [Te4 luo2] /Tero/
+特羅蒂 特罗蒂 [Te4 luo2 di4] /Trotti/
 特羅非摩 特罗非摩 [Te4 luo2 fei1 mo2] /Trophimus/
 特羅菲莫夫 特罗菲莫夫 [Te4 luo2 fei1 mo4 fu1] /Trofimov/
 特羅菲姆 特罗菲姆 [Te4 luo2 fei1 mu3] /Trophim/
+特羅克 特罗克 [Te4 luo2 ke4] /Troke/
 特羅普 特罗普 [Te4 luo2 pu3] /Troop (surname)/
+特羅斯 特罗斯 [Te4 luo2 si1] /Tross/
+特羅斯特 特罗斯特 [Te4 luo2 si1 te4] /Trost/
 特羅特 特罗特 [Te4 luo2 te4] /Trott/Trotter/
 特羅亞 特罗亚 [Te4 luo2 ya4] /Troas (older translation)/
 特羅耶 特罗耶 [Te4 luo2 ye1] /Troye/
@@ -30908,6 +31358,7 @@
 特斯法馬里亞姆 特斯法马里亚姆 [Te4 si1 fa3 ma3 li3 ya4 mu3] /Tesfamariam/
 特斯拉 特斯拉 [Te4 si1 la1] /Tesla/
 特索語 特索语 [Te4 suo3 yu3] /Teso (language)/
+特特爾 特特尔 [Te4 te4 er3] /Turtle (name)/
 特瓦 特瓦 [Te4 wa3] /Tikvah/
 特萬 特万 [Te4 wan4] /Twan/
 特威德 特威德 [Te4 wei1 de2] /Tweed/
@@ -31365,9 +31816,11 @@
 圖埃斯 图埃斯 [Tu2 ai1 si1] /Tueti/
 圖奧莫 图奥莫 [Tu2 ao4 mo4] /Tuomo/
 圖恩 图恩 [Tu2 en1] /Thun/
+圖爾克 图尔克 [Tu2 er3 ke4] /Tuerk/
 圖爾庫 图尔库 [Tu2 er3 ku4] /Turku/
 圖爾內斯 图尔内斯 [Tu2 er3 nei4 si1] /Tournes/
 圖爾蘇納利 图尔苏纳利 [Tu2 er3 su1 na4 li4] /Tursunali/
+圖爾西 图尔西 [Tu2 er3 xi1] /Tursi/
 圖巴 图巴 [Tu2 ba1] /Tooba/
 圖德 图德 [Tu2 de2] /Tewdwr/
 圖多爾 图多尔 [Tu2 duo1 er3] /Tudor (given name)/
@@ -31382,9 +31835,11 @@
 圖雷特氏 图雷特氏 [Tu2 lei2 te4 shi4] /Tourette/
 圖里 图里 [Tu2 li3] /Turi/
 圖里比奧 图里比奥 [Tu2 li3 bi3 ao4] /Turíbio/
+圖里諾 图里诺 [Tu2 li3 nuo4] /Turino/
 圖利奧 图利奥 [Tu2 li4 ao4] /Tulio/Tullio/
 圖盧茲 图卢兹 [Tu2 lu2 zi1] /Toulouse/
 圖盧茲大學 图卢兹大学 [Tu2 lu2 zi1_Da4 xue2] /University of Toulouse/Toulouse, University of/
+圖羅克 图罗克 [Tu2 luo2 ke4] /Turok/
 圖馬 图马 [Tu2 ma3] /Touma/
 圖曼 图曼 [Tu2 man4] /Tuiman/
 圖們 图们 [Tu2 men5] /Tumen (in Jilin)/
@@ -31396,6 +31851,8 @@
 圖木舒克市 图木舒克市 [Tu2 mu4 shu1 ke4_Shi4] /Tumxuk (in Xinjiang)/
 圖木舒克人 图木舒克人 [Tu2 mu4 shu1 ke4 ren2] /person of Tumxuk (in Xinjiang)/Tumxuk, person of (in Xinjiang)/
 圖納普納 图纳普纳 [Tu2 na4 pu3 na4] /Tunapuna/
+圖帕克 图帕克 [Tu2 pa4 ke4] /Tupac/
+圖派克 图派克 [Tu2 pai4 ke4] /Tupac/
 圖皮南巴 图皮南巴 [Tu2 pi2 nan2 ba1] /Tupinamba/
 圖普里語 图普里语 [Tu2 pu3 li3 yu3] /Toupouri (language)/
 圖瑞 图瑞 [Tu2 rui4] /Turi/
@@ -31482,14 +31939,17 @@
 屯門區 屯门区 [Tun2 men2_Qu1] /Tuen Mun District (HK)/District, Tuen Mun (HK)/
 屯溪區 屯溪区 [Tun2 xi1_Qu1] /Tunxi District/District, Tunxi/
 屯莊營鄉 屯庄营乡 [Tun2 zhuang1 ying2_Xiang1] /Tunzhuangying Township/Township, Tunzhuangying/
+托厄爾 托厄尔 [Tuo1 e4 er3] /Towell/
 托恩 托恩 [Tuo1 en1] /Tone/
 托爾 托尔 [Tuo1 er3] /Thor/
 托爾 托尔 [Tuo1 er3] /Tor (Ben)/
+托爾伯特 托尔伯特 [Tuo1 er3 bo2 te4] /Tolbert/
 托爾迪 托尔迪 [Tuo1 er3 di2] /Toldy/
 托爾金 托尔金 [Tuo1 er3 jin1] /Tolkien/
 托爾卡切夫 托尔卡切夫 [Tuo1 er3 ka3 qie4 fu1] /Tolkachev/
 托爾克馬達 托尔克马达 [Tuo1 er3 ke4 ma3 da2] /Torquemada/
 托爾曼 托尔曼 [Tuo1 er3 man4] /Tallman/
+托爾斯 托尔斯 [Tuo1 er3 si1] /Toles/Towles/
 托爾斯滕 托尔斯滕 [Tuo1 er3 si1 teng2] /Torsten/
 托爾托拉 托尔托拉 [Tuo1 er3 tuo1 la1] /Tortola/
 托巴 托巴 [Tuo1 ba1] /Tob/
@@ -31518,6 +31978,7 @@
 托芬 托芬 [Tuo1 fen1] /Torfinn/
 托弗 托弗 [Tuo1 fu2] /Tove/
 托芙 托芙 [Tuo1 fu2] /Tove/
+托格森 托格森 [Tuo1 ge2 sen1] /Torgerson/
 托古鄉 托古乡 [Tuo1 gu3_Xiang1] /Tuogu Township/Township, Tuogu/
 托霍拉瓦爾語 托霍拉瓦尔语 [Tuo1 huo4 la1 wa3 er3 yu3] /Tojolabal (language)/
 托霍延杜 托霍延杜 [Tuo1 huo4 yan2 du4] /Thohoyandou/
@@ -31540,8 +32001,11 @@
 托雷斯 托雷斯 [Tuo1 lei2 si1] /Torres/
 托雷斯海峽 托雷斯海峡 [Tuo1 lei2 si1_Hai3 xia2] /Torres Strait/Strait, Torres/
 托里縣 托里县 [Tuo1 li3_Xian4] /Toli (county, in Xinjiang)/
+托里安 托里安 [Tuo1 li3 an1] /Torian/
+托里斯 托里斯 [Tuo1 li3 si1] /Torres/Torris/
 托里亞 托里亚 [Tuo1 li3 ya4] /Toria/
 托利 托利 [Tuo1 li4] /Toli/Torey/Torley/
+托利弗 托利弗 [Tuo1 li4 fu2] /Toliver/
 托列伊 托列伊 [Tuo1 lie4 yi1] /Torey/
 托林 托林 [Tuo1 lin2] /Torin/
 托龍 托龙 [Tuo1 long2] /Torrón/
@@ -31582,6 +32046,7 @@
 托普 托普 [Tuo1 pu3] /Tope/
 托普卡 托普卡 [Tuo1 pu3 ka3] /Tohopka/
 拖市鎮 拖市镇 [Tuo1 shi4 zhen4] /Tuoshi (town)/
+托斯卡 托斯卡 [Tuo1 si1 ka3] /Tosca/
 托斯滕 托斯滕 [Tuo1 si1 teng2] /Torsten/
 托特里奇 托特里奇 [Tuo1 te4 li3 qi2] /Totteridge/
 托特里奇市 托特里奇市 [Tuo1 te4 li3 qi2_Shi4] /Totteridge/
@@ -31626,6 +32091,7 @@
 瓦爾迪維亞 瓦尔迪维亚 [Wa3 er3 di2 wei2 ya4] /Valdivia/
 瓦爾海姆 瓦尔海姆 [Wa3 er3 hai3 mu3] /Waldheim/
 瓦爾加 瓦尔加 [Wa3 er3 jia1] /Varga/
+瓦爾納 瓦尔纳 [Wa3 er3 na4] /Varner/
 瓦爾納瓦斯 瓦尔纳瓦斯 [Wa3 er3 na4 wa3 si1] /Varnavas/
 瓦爾帕萊索 瓦尔帕莱索 [Wa3 er3 pa4 lai2 suo3] /Valparaiso/
 瓦爾皮瑞語 瓦尔皮瑞语 [Wa3 er3 pi2 rui4 yu3] /Warlpiri (language)/
@@ -32016,6 +32482,7 @@
 威海人 威海人 [Wei1 hai3 ren2] /person of Weihai (in Shandong)/Weihai, person of (in Shandong)/
 威海衛 威海卫 [Wei1 hai3 wei4] /Weihaiwei/
 威基 威基 [Wei1 ji1] /Wickey/
+威金斯 威金斯 [Wei1 jin1 si1] /Wiggins/
 威科夫 威科夫 [Wei1 ke1 fu1] /Wyckoff/
 威克 威克 [Wei1 ke4] /Vic/
 威克爾 威克尔 [Wei1 ke4 er3] /Wykle/
@@ -32023,6 +32490,7 @@
 威克里夫 威克里夫 [Wei1 ke4 li3 fu1] /Wycliffe/
 威克利 威克利 [Wei1 ke4 li4] /Weakley/
 威克利夫 威克利夫 [Wei1 ke4 li4 fu1] /Wycliffe (old translation)/
+威克曼 威克曼 [Wei1 ke4 man4] /Wichman/
 威克森 威克森 [Wei1 ke4 sen1] /Wixon/
 威克斯 威克斯 [Wei1 ke4 si1] /Weeks (surname)/
 倭肯河 倭肯河 [Wei1 ken3_He2] /Woken River/River, Woken/
@@ -32821,6 +33289,7 @@
 沃瑟曼 沃瑟曼 [Wo4 se4 man4] /Wasserman/
 沃森 沃森 [Wo4 sen1] /Watson/
 沃什 沃什 [Wo4 shi2] /Wash/
+沃什伯恩 沃什伯恩 [Wo4 shi2 bo2 en1] /Washburn/
 沃思 沃思 [Wo4 si1] /Worth (name)/
 沃斯 沃斯 [Wo4 si1] /Wąs/
 沃斯伯勒 沃斯伯勒 [Wo4 si1 bo2 le4] /Vosburgh/
@@ -32839,6 +33308,7 @@
 沃威克 沃威克 [Wo4 wei1 ke4] /Warwick (New York)/
 沃維 沃维 [Wo4 wei2] /Wavy (surname)/
 沃肖 沃肖 [Wo4 xiao4] /Warshaw/
+沃辛頓 沃辛顿 [Wo4 xin1 dun4] /Worthington/
 沃伊科夫 沃伊科夫 [Wo4 yi1 ke1 fu1] /Voikov/
 沃伊切赫 沃伊切赫 [Wo4 yi1 qie4 he4] /Wojciech/
 沃伊特 沃伊特 [Wo4 yi1 te4] /Voight/Voigt/
@@ -33367,6 +33837,7 @@
 希爾勒 希尔勒 [Xi1 er3 le4] /Searle/
 希爾瑪 希尔玛 [Xi1 er3 ma3] /Hilmar/
 希爾曼 希尔曼 [Xi1 er3 man4] /Hillman/
+西爾帕 西尔帕 [Xi1 er3 pa4] /Sirpa/
 西珥人 西珥人 [Xi1 er3 ren2] /person of Seir/Seir, person of/
 希爾森 希尔森 [Xi1 er3 sen1] /Hilson/
 西珥山 西珥山 [Xi1 er3 shan1] /mount Seir/Seir, mount/
@@ -33410,12 +33881,14 @@
 西豹峪鄉 西豹峪乡 [Xi1 bao4 yu4_Xiang1] /Xibaoyu Township/Township, Xibaoyu/
 西北灣鄉 西北湾乡 [Xi1 bei3 wan1_Xiang1] /Xibeiwan Township/Township, Xibeiwan/
 錫北鎮 锡北镇 [Xi1 bei3 zhen4] /Xibei (town)/
+西貝爾 西贝尔 [Xi1 bei4 er3] /Sibel/
 西貝柳斯 西贝柳斯 [Xi1 bei4 liu3 si1] /Sibelius/
 西比爾 西比尔 [Xi1 bi3 er3] /Sibyl/
 西比拉 西比拉 [Xi1 bi3 la1] /Sybille/
 西比瑪 西比玛 [Xi1 bi3 ma3] /Sibmah/
 西比雅 西比雅 [Xi1 bi3 ya3] /Zibia/
 西比亞 西比亚 [Xi1 bi3 ya4] /Zibiah/
+西庇阿 西庇阿 [Xi1 bi4 a1] /Scipio/
 西庇太 西庇太 [Xi1 bi4 tai4] /Zebedee/
 希別 希别 [Xi1 bie2] /Heber/
 希賓 希宾 [Xi1 bin1] /Hibbing/
@@ -33434,6 +33907,7 @@
 希伯來書 希伯来书 [Xi1 bo2 lai2 shu1] /Hebrews (Bible book)/
 希伯來文 希伯来文 [Xi1 bo2 lai2 wen2] /Hebrew language (written?)/language, Hebrew (written?)/
 希伯來語經卷 希伯来语经卷 [Xi1 bo2 lai2 yu3_Jing1 juan4] /Hebrew Scriptures/Scriptures, Hebrew/
+西伯里 西伯里 [Xi1 bo2 li3] /Seabury/
 西伯蓮 西伯莲 [Xi1 bo2 lian2] /Sibraim/
 希伯林 希伯林 [Xi1 bo2 lin2] /Heaberlin/
 希伯崙 希伯仑 [Xi1 bo2 lun2] /Hebron (city in Judah)/
@@ -33441,9 +33915,12 @@
 希伯崙谷 希伯仑谷 [Xi1 bo2 lun2_Gu3] /Valley of Hebron/Hebron, Valley of/
 希伯特 希伯特 [Xi1 bo2 te4] /Hiebert/
 西伯特 西伯特 [Xi1 bo2 te4] /Siebert/
+西布賴特 西布赖特 [Xi1 bu4 lai4 te4] /Seabright/
 希布勒 希布勒 [Xi1 bu4 le4] /Hibler/
 西布勒 西布勒 [Xi1 bu4 le4] /Zebul/
+西布里 西布里 [Xi1 bu4 li3] /Sebree/
 西布莉 西布莉 [Xi1 bu4 li4] /Cybele/
+西布林 西布林 [Xi1 bu4 lin2] /Sebring/
 西布倫 西布伦 [Xi1 bu4 lun2] /Zebulun/
 西布倫地 西布伦地 [Xi1 bu4 lun2 di4] /land of Zebulun/Zebulun, land of/
 西布倫門 西布伦门 [Xi1 bu4 lun2 men2] /gate of Zebulun/Zebulun, gate of/
@@ -33475,8 +33952,10 @@
 希德 希德 [Xi1 de2] /Shead/Syd/
 錫德 锡德 [Xi1 de2] /Cid/Thede/
 西德馬克 西德马克 [Xi1 de2_Ma3 ke4] /deutsche mark (West Germany before euro)/mark, deutsche (West Germany before euro)/
+西德爾 西德尔 [Xi1 de2 er3] /Siddle/
 西德拉 西德拉 [Xi1 de2 la1] /Sidra/
 西德尼 西德尼 [Xi1 de2 ni2] /Sidney (given name)/
+西德諾 西德诺 [Xi1 de2 nuo4] /Sydnor/
 西堤島 西堤岛 [Xi1 di1_Dao3] /Île de la Cité/Cité, Île de la/
 希迪 希迪 [Xi1 di2] /Sheedy/
 西迪奧洛斯 西迪奥洛斯 [Xi1 di2 ao4 luo4 si1] /Sidiropoulos/
@@ -33502,6 +33981,7 @@
 西多尼 西多尼 [Xi1 duo1 ni2] /Sidonie/
 西多尼亞 西多尼亚 [Xi1 duo1 ni2 ya4] /Sidonia/
 西發 西发 [Xi1 fa1] /Sephar/
+西法克斯 西法克斯 [Xi1 fa3 ke4 si1] /Syphax/
 西法拉 西法拉 [Xi1 fa3 la1] /Sepharad/
 西法瓦音 西法瓦音 [Xi1 fa3 wa3 yin1] /Sepharvaim/
 西法瓦音人 西法瓦音人 [Xi1 fa3 wa3 yin1 ren2] /Sepharvites/
@@ -33537,6 +34017,7 @@
 西格麗德 西格丽德 [Xi1 ge2 li4 de2] /Sigrid/
 西格莉德 西格莉德 [Xi1 ge2 li4 de2] /Sigrid/
 希格曼 希格曼 [Xi1 ge2 man4] /Higman/
+西格曼 西格曼 [Xi1 ge2 man4] /Sigman/
 西格蒙德 西格蒙德 [Xi1 ge2 meng2 de2] /Sigmund/
 西格妮 西格妮 [Xi1 ge2 ni1] /Sigourney/
 西格尼 西格尼 [Xi1 ge2 ni2] /Signy/
@@ -33547,6 +34028,7 @@
 西溝滿族鄉 西沟满族乡 [Xi1 gou1_Man3 zu2_Xiang1] /Xigou Manchu Township/Manchu Township, Xigou/
 西溝鄉 西沟乡 [Xi1 gou1_Xiang1] /Xigou Township/Township, Xigou/
 西沽 西沽 [Xi1 gu1] /Secu/
+西古爾 西古尔 [Xi1 gu3 er3] /Sigur/
 錫古爾達 锡古尔达 [Xi1 gu3 er3 da2] /Sigulda/
 西古提人 西古提人 [Xi1 gu3 ti2 ren2] /Scythian/
 西固區 西固区 [Xi1 gu4_Qu1] /Xigu District/District, Xigu/
@@ -33682,6 +34164,7 @@
 希利克 希利克 [Xi1 li4 ke4] /Hilliker/
 西利拉 西利拉 [Xi1 li4 la1] /Zererah/
 希利斯 希利斯 [Xi1 li4 si1] /Helez/
+錫利斯 锡利斯 [Xi1 li4 si1] /Silis/
 錫利斯特拉 锡利斯特拉 [Xi1 li4 si1 te4 la1] /Silistra/
 西利西亞 西利西亚 [Xi1 li4 xi1 ya4] /Cilicia/
 希利亞 希利亚 [Xi1 li4 ya4] /Hilja/
@@ -33738,6 +34221,7 @@
 西羅姆 西罗姆 [Xi1 luo2 mu3] /Solomon (Rabbi)/
 西羅尼姆斯 西罗尼姆斯 [Xi1 luo2 ni2 mu3 si1] /Hieronymus/
 希羅斯 希罗斯 [Xi1 luo2 si1] /Hirose/
+西羅斯 西罗斯 [Xi1 luo2 si1] /Theros/
 西羅雅 西罗雅 [Xi1 luo2 ya3] /Shiloah/
 西羅亞 西罗亚 [Xi1 luo2 ya4] /Siloam/
 西羅亞池 西罗亚池 [Xi1 luo2 ya4 chi2] /pool of Siloam/Siloam, pool of/
@@ -33771,6 +34255,7 @@
 西彌斯 西弥斯 [Xi1 mi2 si1] /Themis/
 西米恩 西米恩 [Xi1 mi3 en1] /Simion/Symeon/
 西米谷 西米谷 [Xi1 mi3 gu3] /Simi Valley/Valley, Simi/
+西米克 西米克 [Xi1 mi3 ke4] /Simic/
 西米利安 西米利安 [Xi1 mi3 li4 an1] /Similian/
 西緬 西缅 [Xi1 mian3] /Simeon/
 西緬門 西缅门 [Xi1 mian3 men2] /gate of Simeon/Simeon, gate of/
@@ -33785,6 +34270,7 @@
 希莫尤 希莫尤 [Xi1 mo4 you2] /Chimoio/
 西陌鎮 西陌镇 [Xi1 mo4 zhen4] /Ximo (town)/
 西姆 西姆 [Xi1 mu3] /Sim (name)/
+西姆科 西姆科 [Xi1 mu3 ke1] /Simco/
 希姆萊 希姆莱 [Xi1 mu3 lai2] /Himmler/
 希姆那 希姆那 [Xi1 mu3 na4] /Himmler/
 西姆森 西姆森 [Xi1 mu3 sen1] /Simson/
@@ -33874,8 +34360,10 @@
 西順河鎮 西顺河镇 [Xi1 shun4 he2 zhen4] /Xishunhe (town)/
 希思 希思 [Xi1 si1] /Heath (name)/
 希斯 希斯 [Xi1 si1] /Hays/
+西斯科 西斯科 [Xi1 si1 ke1] /Siscoe/
 希斯科克 希斯科克 [Xi1 si1 ke1 ke4] /Hiscock/
 希斯科克斯 希斯科克斯 [Xi1 si1 ke1 ke4 si1] /Hiscox/
+西斯克 西斯克 [Xi1 si1 ke4] /Sisk/
 希思黎 希思黎 [Xi1 si1 li2] /Sisley/
 希斯利 希斯利 [Xi1 si1 li4] /Heasley/
 西斯莉 西斯莉 [Xi1 si1 li4] /Sisley/
@@ -33924,6 +34412,8 @@
 西汪鎮 西汪镇 [Xi1 wang1 zhen4] /Xiwang (town)/
 西威斯特 西威斯特 [Xi1 wei1 si1 te4] /Sylvester/
 希維 希维 [Xi1 wei2] /Heavey/
+西韋爾 西韦尔 [Xi1 wei2 er3] /Seawell/
+茜維倫 茜维伦 [Xi1 wei2 lun2] /Shivaun/
 西維納 西维纳 [Xi1 wei2 na4] /Silvanus/
 溪尾鄉 溪尾乡 [Xi1 wei3_Xiang1] /Xiwei Township/Township, Xiwei/
 溪尾鎮 溪尾镇 [Xi1 wei3 zhen4] /Xiwei (town)/
@@ -33934,6 +34424,7 @@
 西溫莊鄉 西温庄乡 [Xi1 wen1 zhuang1_Xiang1] /Xiwenzhuang Township/Township, Xiwenzhuang/
 溪翁莊鎮 溪翁庄镇 [Xi1 weng1 zhuang1 zhen4] /Xiwengzhuang (town)/
 西沃恩 西沃恩 [Xi1 wo4 en1] /Siobhan/
+西沃德 西沃德 [Xi1 wo4 de2] /Seward/
 西沃特 西沃特 [Xi1 wo4 te4] /Siewert/
 希屋爾 希屋尔 [Xi1 wu1 er3] /Sheol (Hebrew word)/
 西烏珠穆沁旗 西乌珠穆沁旗 [Xi1 wu1 zhu1 mu4 qin4_Qi2] /West Ujimqin (banner, in Inner Mongolia)/Ujimqin, West (banner, in Inner Mongolia)/
@@ -34626,6 +35117,7 @@
 小朱莊鄉 小朱庄乡 [Xiao3 zhu1 zhuang1_Xiang1] /Xiaozhuzhuang Township/Township, Xiaozhuzhuang/
 小莊鄉 小庄乡 [Xiao3 zhuang1_Xiang1] /Xiaozhuang Township/Township, Xiaozhuang/
 肖恩 肖恩 [Xiao4 en1] /Shawn/
+肖爾茨 肖尔茨 [Xiao4 er3 ci2] /Scholz/
 孝昌縣 孝昌县 [Xiao4 chang1_Xian4] /Xiaochang (county, in Hubei)/
 孝丰鎮 孝丰镇 [Xiao4 feng1 zhen4] /Xiaofeng (town)/
 孝感 孝感 [Xiao4 gan3] /Xiaogan (in Hubei)/
@@ -34633,6 +35125,8 @@
 孝感人 孝感人 [Xiao4 gan3 ren2] /person of Xiaogan (in Hubei)/Xiaogan, person of (in Hubei)/
 孝敬鎮 孝敬镇 [Xiao4 jing4 zhen4] /Xiaojing (town)/
 肖凱特 肖凯特 [Xiao4 kai3 te4] /Choquette/
+肖克萊 肖克莱 [Xiao4 ke4 lai2] /Shockley/
+肖克利 肖克利 [Xiao4 ke4 li4] /Shockley/
 孝墓鄉 孝墓乡 [Xiao4 mu4_Xiang1] /Xiaomu Township/Township, Xiaomu/
 孝南區 孝南区 [Xiao4 nan2_Qu1] /Xiaonan District/District, Xiaonan/
 肖尼 肖尼 [Xiao4 ni2] /Shawnee/
@@ -34664,6 +35158,7 @@
 謝爾頓 谢尔顿 [Xie4 er3 dun4] /Shelton/
 謝爾蓋 谢尔盖 [Xie4 er3 gai4] /Sergei/
 謝爾吉延科 谢尔吉延科 [Xie4 er3 ji2 yan2 ke1] /Sergienko/
+謝爾普 谢尔普 [Xie4 er3 pu3] /Shelp/
 謝村鄉 谢村乡 [Xie4 cun1_Xiang1] /Xiecun Township/Township, Xiecun/
 謝德 谢德 [Xie4 de2] /Shedd/
 謝菲 谢菲 [Xie4 fei1] /Sheffield (short form)/
@@ -34685,6 +35180,7 @@
 謝里爾 谢里尔 [Xie4 li3 er3] /Sharyl/Sherryl/Sheryl/
 謝里丹 谢里丹 [Xie4 li3 dan1] /Sheridan/
 謝里夫 谢里夫 [Xie4 li3 fu1] /Sherif (surname)/
+謝里克 谢里克 [Xie4 li3 ke4] /Sherick/
 謝利 谢利 [Xie4 li4] /Shetty/
 謝莉 谢莉 [Xie4 li4] /Shelley/
 謝麗爾 谢丽尔 [Xie4 li4 er3] /Cherelle/Cheryl/
@@ -34695,12 +35191,14 @@
 謝龍 谢龙 [Xie4 long2] /Sherron/
 謝爐鎮 谢炉镇 [Xie4 lu2 zhen4] /Xielu (town)/
 謝倫 谢伦 [Xie4 lun2] /Sheron/Sherron/
+謝羅德 谢罗德 [Xie4 luo2 de2] /Sherrod/
 謝苗 谢苗 [Xie4 miao2] /Semyon/
 謝苗諾夫 谢苗诺夫 [Xie4 miao2 nuo4 fu1] /Semenov/
 謝默斯 谢默斯 [Xie4 mo4 si1] /Seamus/
 謝姆維奇 谢姆维奇 [Xie4 mu3 wei2 qi2] /Semkovych/
 謝娜 谢娜 [Xie4 na4] /Shaina/
 謝南多厄 谢南多厄 [Xie4 nan2 duo1 e4] /Shenandoah/
+謝帕德 谢帕德 [Xie4 pa4 de2] /Shepherd (name)/
 謝潑德 谢泼德 [Xie4 po1 de2] /Shepard (surname)/
 謝普利 谢普利 [Xie4 pu3 li4] /Shepley/Sheply/
 澥浦鎮 澥浦镇 [Xie4 pu3 zhen4] /Xiepu (town)/
@@ -35208,6 +35706,7 @@
 熊寨鎮 熊寨镇 [Xiong2 zhai4 zhen4] /Xiongzhai (town)/
 雄州鎮 雄州镇 [Xiong2 zhou1 zhen4] /Xiongzhou (town)/
 西屯區 西屯区 [Xi5 tun2_Qu1] /Xitun District (in Taichung)/District, Xitun (in Taichung)/
+休厄爾 休厄尔 [Xiu1 e4 er3] /Sewall/Sewell/
 休厄德 休厄德 [Xiu1 e4 de2] /Heward/
 休伯特 休伯特 [Xiu1 bo2 te4] /Hubert/
 休達 休达 [Xiu1 da2] /Ceuta/
@@ -35217,6 +35716,7 @@
 休梅克 休梅克 [Xiu1 mei2 ke4] /Shoemaker (name)/
 休謨 休谟 [Xiu1 mo2] /Hume/
 休姆 休姆 [Xiu1 mu3] /Hume/
+休姆斯 休姆斯 [Xiu1 mu3 si1] /Humes/
 修納 修纳 [Xiu1 na4] /Shona (name)/
 休寧縣 休宁县 [Xiu1 ning2_Xian4] /Xiuning (county, in Anhui)/
 休奇 休奇 [Xiu1 qi2] /Hugh/
@@ -43284,6 +43784,7 @@
 機械系 机械系 [ji1 xie4 xi4] /Department of Mechanical Engineering/Mechanical Engineering, Department of/
 機械組 机械组 [ji1 xie4 zu3] /mechanical team (on building site)/team, mechanical (on building site)/
 畸形的牙齒 畸形的牙齿 [ji1 xing2_de5_ya2 chi3] /disfigured teeth/teeth, disfigured/
+積學成寶 积学成宝 [ji1 xue2 cheng2 bao3] /treasure up one's study/one's study, treasure up/
 基因庫 基因库 [ji1 yin1_ku4] /gene bank/bank, gene/
 基因體 基因体 [ji1 yin1 ti3] /genosome/
 基因組 基因组 [ji1 yin1 zu3] /genome/
@@ -45705,6 +46206,7 @@
 切入點 切入点 [qie1 ru4 dian3] /key point/point, key/
 切葉蟻 切叶蚁 [qie1 ye4 yi3] /leaf-cutting ant/<zoo.>/
 切磚機 切砖机 [qie1 zhuan1 ji1] /masonry saw/
+契而不舍 契而不舍 [qie4 er2 bu4 she4] /keep plugging away at (a difficult task)/plugging away at, keep (a difficult task)/
 竊盜統治 窃盗统治 [qie4 dao4_tong3 zhi4] /kleptocracy/
 切合實際 切合实际 [qie4 he2_shi2 ji4] /practical/
 切慕 切慕 [qie4 mu4] /longing/long for/
@@ -49976,6 +50478,7 @@
 桌上型 桌上型 [zhuo1 shang4 xing2] /desktop (type of computer)/
 捉雙 捉双 [zhuo1 shuang1] /fork (in chess)/
 桌游 桌游 [zhuo1 you2] /tabletop game/game, tabletop/
+酌理增才 酌理增才 [zhuo2 li3 zeng1 cai2] /consider theory to increase your talent (encouragement to study)/theory to increase your talent, consider (encouragement to study)/
 茲證明 兹证明 [zi1_zheng4 ming2] /this is to certify (wording used on certificates)/certify, this is to (wording used on certificates)/
 資金槓桿 资金槓杆 [zi1 jin1_gang4 gan3] /leverage (investing borrowed funds)/
 資歷過高 资历过高 [zi1 li4_guo4 gao1] /overqualified/
