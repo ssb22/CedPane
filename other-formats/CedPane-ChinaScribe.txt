@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2020-05-07
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2020-05-08
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -4001,6 +4001,8 @@
 貝爾提 贝尔提 [Bei4 er3 ti2] /Berti/
 貝爾托利 贝尔托利 [Bei4 er3 tuo1 li4] /Bertolli/
 貝爾瓦 贝尔瓦 [Bei4 er3 wa3] /Belva/
+貝爾維爾 贝尔维尔 [Bei4 er3 wei2 er3] /Belleville/
+貝爾維爾市 贝尔维尔市 [Bei4 er3 wei2 er3_Shi4] /Belleville (city)/
 貝爾謝巴 贝尔谢巴 [Bei4 er3 xie4 ba1] /Beersheba (old translation?)/
 貝爾扎諾 贝尔扎诺 [Bei4 er3 zha1 nuo4] /Berzano/
 貝爾茲 贝尔兹 [Bei4 er3 zi1] /Belz/
@@ -4177,6 +4179,9 @@
 貝婭塔 贝娅塔 [Bei4 ya4 ta3] /Beata/
 貝亞特 贝亚特 [Bei4 ya4 te4] /Beate/
 貝耶爾 贝耶尔 [Bei4 ye1 er3] /Beier/
+貝葉斯 贝叶斯 [Bei4 ye4 si1] /Bayes/
+貝葉斯定理 贝叶斯定理 [Bei4 ye4 si1_ding4 li3] /Bayes' theorem/theorem, Bayes'/
+貝葉斯推斷 贝叶斯推断 [Bei4 ye4 si1_tui1 duan4] /Bayesian inference/inference, Bayesian/
 貝伊 贝伊 [Bei4 yi1] /Beyea/
 貝贊特 贝赞特 [Bei4 zan4 te4] /Bessant/
 貝扎比 贝扎比 [Bei4 zha1 bi3] /Bezabih/
@@ -4736,6 +4741,7 @@
 波塞冬 波塞冬 [Bo1 se4 dong1] /Poseidon/
 波森 波森 [Bo1 sen1] /Pawson/
 波士頓先驅報 波士顿先驱报 [Bo1 shi4 dun4_Xian1 qu1_Bao4] /Boston Target (newspaper, old translation)/Target, Boston (newspaper, old translation)/
+波士尼亞 波士尼亚 [Bo1 shi4 ni2 ya4] /Bosnia (alternate translation)/
 波斯波利斯 波斯波利斯 [Bo1 si1 bo1 li4 si1] /Persepolis/
 波斯頓 波斯顿 [Bo1 si1 dun4] /Boston/
 波斯加 波斯加 [Bo1 si1 jia1] /Bozkath/
@@ -13185,7 +13191,7 @@
 含族 含族 [Han2 zu2] /Hamites/
 含族人 含族人 [Han2 zu2 ren2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2020-05-07/this is version 2020-05-07, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2020-05-08/this is version 2020-05-08, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢比 汉比 [Han4 bi3] /Hamby/
@@ -13797,6 +13803,7 @@
 赫塞爾坦 赫塞尔坦 [He4 sai1 er3 tan3] /Heseltine/
 赫塞爾 赫塞尔 [He4 sai4 er3] /Hessel/
 赫瑟 赫瑟 [He4 se4] /Hesser/
+赫塞哥維納 赫塞哥维纳 [He4 se4 ge1 wei2 na4] /Herzegovina (alternate translation)/
 赫森 赫森 [He4 sen1] /Herson/
 赫莎 赫莎 [He4 sha1] /Hertha/
 鶴山 鹤山 [He4 shan1] /Heshan (in Guangdong)/
@@ -24215,6 +24222,7 @@
 梅爾頓 梅尔顿 [Mei2 er3 dun4] /Melton/
 梅爾菲 梅尔菲 [Mei2 er3 fei1] /Melfi/
 梅爾該 梅尔该 [Mei2 er3 gai1] /Melchior (3 kings story)/
+梅爾漢 梅尔汉 [Mei2 er3 han4] /Melham/
 梅爾赫姆 梅尔赫姆 [Mei2 er3 he4 mu3] /Melhem/
 梅爾霍恩 梅尔霍恩 [Mei2 er3 huo4 en1] /Mehlhorn/
 梅爾基奧爾 梅尔基奥尔 [Mei2 er3 ji1 ao4 er3] /Melchior/
@@ -24532,6 +24540,7 @@
 蒙特婁 蒙特娄 [Meng2 te4 lou2] /Montreal (alternate translation)/
 蒙特倫齊奧 蒙特伦齐奥 [Meng2 te4 lun2 qi2 ao4] /Monterenzio/
 蒙特羅 蒙特罗 [Meng2 te4 luo2] /Montero/
+蒙特內哥羅 蒙特内哥罗 [Meng2 te4 nei4 ge1 luo2] /Montenegro (alternate translation)/
 蒙特普拉塔 蒙特普拉塔 [Meng2 te4 pu3 la1 ta3] /Monte Plata/Plata, Monte/
 蒙田 蒙田 [Meng2 tian2] /Montaigne/
 蒙席 蒙席 [Meng2 xi2] /Monsignor/
@@ -27343,6 +27352,7 @@
 平遙縣 平遥县 [Ping2 yao2_Xian4] /Pingyao (county, in Shanxi)/
 瓶窯鎮 瓶窑镇 [Ping2 yao2 zhen4] /Pingyao (town)/
 平邑縣 平邑县 [Ping2 yi4_Xian4] /Pingyi County/County, Pingyi/
+評議會大樓 评议会大楼 [Ping2 yi4 hui4_Da4 lou2] /Senate House/House, Senate/
 平邑鎮 平邑镇 [Ping2 yi4 zhen4] /Pingyi (town)/
 平陰縣 平阴县 [Ping2 yin1_Xian4] /Pingyin County/County, Pingyin/
 平陰鎮 平阴镇 [Ping2 yin1 zhen4] /Pingyin (town)/
@@ -39568,6 +39578,7 @@
 因杜 因杜 [Yin1 du4] /Intel (old translation?)/
 因方特 因方特 [Yin1 fang1 te4] /Infant (name)/
 因戈 因戈 [Yin1 ge1] /Ingo/
+因格貝爾 因格贝尔 [Yin1 ge2 bei4 er3] /Ingber/
 音河鄉 音河乡 [Yin1 he2_Xiang1] /Yinhe Township/Township, Yinhe/
 音坑鄉 音坑乡 [Yin1 keng1_Xiang1] /Yinkeng Township/Township, Yinkeng/
 音麥 音麦 [Yin1 mai4] /Immer/
@@ -42092,6 +42103,7 @@
 安裝電子監控系統 安装电子监控系统 [an1 zhuang1_dian4 zi3_jian1 kong4_xi4 tong3] /install electronic surveillance (systems)/electronic surveillance, install (systems)/
 安裝文檔 安装文档 [an1 zhuang1_wen2 dang4] /installation instructions/instructions, installation/<comp.>/
 安裝包 安装包 [an1 zhuang1 bao1] /installation package/APK/package, installation/
+安裝好 安装好 [an1 zhuang1 hao3] /installed/
 安坐家中 安坐家中 [an1 zuo4_jia1 zhong1] /sit in one's own place/one's own place, sit in/
 銨鹽 铵盐 [an3 yan2] /ammonium salts/salts, ammonium/
 按表操課 按表操课 [an4_biao3_cao1 ke4] /step by step (lessons|exercises)/following the schedule/following the schedule, step by step/
@@ -42152,6 +42164,7 @@
 白餅 白饼 [bai2 bing3] /white bread (ancient)/bread, white (ancient)/
 白粉蝶 白粉蝶 [bai2 fen3 die2] /cabbage white butterfly/white butterfly, cabbage/
 白富美 白富美 [bai2 fu4 mei3] /pale rich beauty (stereotype)/rich beauty, pale (stereotype)/
+白鴿洞 白鸽洞 [bai2 ge1_dong4] /pigeon hole (for mail)/hole, pigeon (for mail)/
 白格 白格 [bai2 ge2] /white square (on chessboard, short version)/square, white (on chessboard, short version)/
 白鶴芋 白鹤芋 [bai2 he4 yu4] /peace lily/lily, peace/
 白喉 白喉 [bai2 hou2] /diphtheria/
@@ -42207,6 +42220,7 @@
 半昏迷 半昏迷 [ban4_hun1 mi2] /semiconscious/
 半小時 半小时 [ban4_xiao3 shi2] /half an hour/hour, half an/
 絆跌 绊跌 [ban4 die1] /stumble and fall/fall, stumble and/
+辦公隔間 办公隔间 [ban4 gong1_ge2 jian1] /office partition/partition, office/
 辦公樓 办公楼 [ban4 gong1 lou2] /office buildings/buildings, office/
 辦公室人員 办公室人员 [ban4 gong1 shi4_ren2 yuan2] /office worker/worker, office/
 辦好 办好 [ban4 hao3] /done (of a job)/
@@ -42447,6 +42461,7 @@
 避過 避过 [bi4 guo4] /leave (let escape from a plague)/
 閉合器 闭合器 [bi4 he2 qi4] /closer (of automatic door)/
 庇護城 庇护城 [bi4 hu4 cheng2] /city of refuge/refuge, city of/
+避雷網 避雷网 [bi4 lei2 wang3] /air termination network (for lightning protection)/termination network, air (for lightning protection)/
 避雷線 避雷线 [bi4 lei2 xian4] /lightning protector/protector, lightning/
 碧蓮 碧莲 [bi4 lian2] /shameless/<netspeak>/
 避免入不敷出 避免入不敷出 [bi4 mian3_ru4 bu4 fu1 chu1] /living within one's means (lit. avoid income not cover expenditure)/within one's means, living (lit. avoid income not cover expenditure)/
@@ -43784,6 +43799,7 @@
 電話線杆 电话线杆 [dian4 hua4 xian4_gan1] /telephone pole/pole, telephone/
 電話線槽 电话线槽 [dian4 hua4 xian4 cao2] /telephone wire duct (in building)/wire duct, telephone (in building)/
 奠基日 奠基日 [dian4 ji1 ri4] /foundation-laying day/
+電剪刀 电剪刀 [dian4 jian3 dao1] /slitting shears/electric scissors/shears, slitting/scissors, electric/
 電解質溶液 电解质溶液 [dian4 jie3 zhi4_rong2 ye4] /electrolyte solution/solution, electrolyte/
 電解質飲料 电解质饮料 [dian4 jie3 zhi4_yin3 liao4] /electrolyte drink/sports drink/drink, electrolyte/
 電競 电竞 [dian4 jing4] /E-sports (video-game competitions)/
@@ -44275,6 +44291,7 @@
 防蚊水 防蚊水 [fang2 wen2 shui3] /mosquito repellant/repellant, mosquito/
 防煙門 防烟门 [fang2 yan1 men2] /smoke door/door, smoke/
 防御武器 防御武器 [fang2 yu4_wu3 qi4] /defense weapon/weapon, defense/
+防撞貼膜 防撞贴膜 [fang2 zhuang4 tie1 mo2] /window safety sticker/safety sticker, window/
 訪日游客 访日游客 [fang3_Ri4_you2 ke4] /tourists visiting Japan/visiting Japan, tourists/
 紡杆 纺杆 [fang3 gan1] /distaff/
 訪客停車場 访客停车场 [fang3 ke4_ting2 che1 chang3] /visitor parking/parking, visitor/
@@ -44381,6 +44398,7 @@
 分類錯誤 分类错误 [fen1 lei4_cuo4 wu4] /misclassification/
 分類歸檔 分类归档 [fen1 lei4_gui1 dang4] /organized (into filing cabinets etc)/
 分類器 分类器 [fen1 lei4 qi4] /classifier (in "machine learning" etc)/<comp.>/
+分泌出 分泌出 [fen1 mi4 chu1] /exude/secrete/
 分身不暇 分身不暇 [fen1 shen1 bu4 xia2] /attending to things with no spare time (?)/things with no spare time, attending to (?)/
 分屍 分尸 [fen1 shi1] /dismember (a corpse)/
 芬太尼 芬太尼 [fen1 tai4 ni2] /fentanyl/
@@ -44430,6 +44448,7 @@
 風信子石 风信子石 [feng1 xin4 zi3 shi2] /hyacinth (stone)/
 風雨帶 风雨带 [feng1 yu3 dai4] /weatherstripping/
 封裝 封装 [feng1 zhuang1] /encapsulation/<comp.>/
+縫合釘 缝合钉 [feng2 he2 ding1] /surgical staples (like stitches)/staples, surgical (like stitches)/
 縫紉尺 缝纫尺 [feng2 ren4 chi3] /tape measure (for clothes)/measure, tape (for clothes)/
 縫制 缝制 [feng2 zhi4] /sewing/
 縫製衣服 缝制衣服 [feng2 zhi4_yi1 fu5] /sew clothes/clothes, sew/
@@ -44584,6 +44603,7 @@
 鋼帶 钢带 [gang1 dai4] /steel belt/belt, steel/
 鋼勾心 钢勾心 [gang1 gou1 xin1] /shank (below insole of shoe)/
 鋼管舞 钢管舞 [gang1 guan3 wu3] /pole dancing/dancing, pole/
+鋼桁梁 钢桁梁 [gang1 heng2 liang2] /box truss/truss, box/
 鋼架 钢架 [gang1 jia4] /steel frame/steel rafter/frame, steel/rafter, steel/
 缸口 缸口 [gang1 kou3] /brim|mouth of a jar or vat/
 鋼梁架 钢梁架 [gang1 liang2 jia4] /steel framework/framework, steel/
@@ -44666,6 +44686,7 @@
 隔熱材料 隔热材料 [ge2 re4_cai2 liao4] /insulation (thermal)/
 隔熱支架 隔热支架 [ge2 re4_zhi1 jia4] /insulated support brackets (for heating pipes)/support brackets, insulated (for heating pipes)/
 隔熱板 隔热板 [ge2 re4 ban3] /soffit boards/insulated boards (for ceiling)/boards, soffit (for ceiling)/
+隔熱層 隔热层 [ge2 re4 ceng2] /insulation (around pipe etc)/
 格桑花 格桑花 [ge2 sang1 hua1] /shrubby cinquefoil (flower)/cinquefoil, shrubby (flower)/
 格外留意 格外留意 [ge2 wai4_liu2 yi4] /pay more than the usual attention/more than the usual attention, pay/
 隔音材料 隔音材料 [ge2 yin1_cai2 liao4] /soundproofing (material)/
@@ -44884,6 +44905,8 @@
 關好 关好 [guan1 hao3] /shut well (?)/well, shut (?)/
 關機功能 关机功能 [guan1 ji1_gong1 neng2] /switchoff function/shutdown function/function, switchoff/
 關鍵崗位人員 关键岗位人员 [guan1 jian4_gang3 wei4_ren2 yuan2] /key workers (of country etc)/workers, key (of country etc)/
+關鍵意見領袖 关键意见领袖 [guan1 jian4_yi4 jian5_ling3 xiu4] /key opinion leader/KOL (in influencer marketing)/opinion leader, key (in influencer marketing)/
+關鍵意見消費者 关键意见消费者 [guan1 jian4_yi4 jian5_xiao1 fei4 zhe3] /key opinion consumer/KOC (smaller influence than KOL)/opinion consumer, key (smaller influence than KOL)/
 關節窩 关节窝 [guan1 jie2 wo1] /joint (of thigh etc)/
 觀景台 观景台 [guan1 jing3 tai2] /viewing deck/deck, viewing/
 觀禮者 观礼者 [guan1 li3 zhe3] /onlooker at ceremony/ceremony, onlooker at/
@@ -45950,6 +45973,7 @@
 接觸器 接触器 [jie1 chu4 qi4] /contactor/
 接觸者 接触者 [jie1 chu4 zhe3] /contact (person, e.g. been nearby)/
 接觸者追查 接触者追查 [jie1 chu4 zhe3_zhui1 cha2] /contact tracing (in disease management)/tracing, contact (in disease management)/
+接待中心 接待中心 [jie1 dai4_zhong1 xin1] /reception area/reception centre/area, reception/centre, reception/
 接待廳 接待厅 [jie1 dai4 ting1] /reception area/area, reception/
 接單 接单 [jie1 dan1] /take orders (from customers)/orders, take (from customers)/
 街道地圖 街道地图 [jie1 dao4_di4 tu2] /road map/
@@ -46442,6 +46466,7 @@
 可悲的事 可悲的事 [ke3 bei1_de5_shi4] /what a pity/unfortunately/sadly/pity, what a/
 可變參數 可变参数 [ke3 bian4_can1 shu4] /variadic/<comp.>/
 可不容易 可不容易 [ke3 bu4 rong2 yi4] /can be difficult/difficult, can be/
+可拆卸 可拆卸 [ke3 chai1 xie4] /demountable/
 可持續 可持续 [ke3 chi2 xu4] /can last/sustained/sustainable/last, can/
 可持續性 可持续性 [ke3 chi2 xu4 xing4] /sustainability/
 可恥的行為 可耻的行为 [ke3 chi3_de5_xing2 wei2] /shameful conduct/conduct, shameful/
@@ -47588,6 +47613,7 @@
 怒贊 怒赞 [nu4 zan4] /recommend forcefully/forcefully, recommend/
 暖水管 暖水管 [nuan3_shui3 guan3] /heating pipe/pipe, heating/
 暖系統 暖系统 [nuan3_xi4 tong3] /heating system/system, heating/
+暖氣管道 暖气管道 [nuan3 qi4_guan3 dao4] /heating pipes/pipes, heating/
 暖人心窩 暖人心窝 [nuan3 ren2 xin1 wo1] /heartwarming/
 暖手器 暖手器 [nuan3 shou3 qi4] /hand warmer (appliance)/warmer, hand (appliance)/
 暖水袋 暖水袋 [nuan3 shui3 dai4] /hot water bottle/water bottle, hot/
@@ -47809,6 +47835,7 @@
 鋪上 铺上 [pu1 shang5] /spread over (with cloth cover etc)/over, spread (with cloth cover etc)/
 撲下 扑下 [pu1 xia5] /pounce down (e.g. of bird of prey)/down, pounce (e.g. of bird of prey)/
 撲向 扑向 [pu1 xiang4] /pounce toward/toward, pounce/
+鋪勻 铺匀 [pu1 yun2] /spread evenly/evenly, spread/
 僕婢 仆婢 [pu2 bi4] /manservants and maidservants/maidservants, manservants and/
 僕人們 仆人们 [pu2 ren2 men5] /servants (plural)/
 葡萄 葡萄 [pu2 tao5] /grapes/vine/
@@ -48344,6 +48371,7 @@
 洒净 洒净 [sa3 jing4] /sprinkle clean/clean, sprinkle/
 灑淨 灑淨 [sa3 jing4] /sprinkle clean/clean, sprinkle/
 灑禮 洒礼 [sa3 li3] /sprinkling ceremony/ceremony, sprinkling/
+灑水器 洒水器 [sa3 shui3 qi4] /sprinkler/
 撒下 撒下 [sa3 xia5] /sprinkle (on the ground)/
 撒種的人 撒种的人 [sa3 zhong3_de5_ren2] /sower/
 卅二 卅二 [sa4 er4] /thirty-two/<Cant.>/
@@ -48759,6 +48787,7 @@
 獅鼓 狮鼓 [shi1 gu3] /lion drum/drum, lion/
 屍橫 尸横 [shi1 heng2] /lie as corpse/corpse, lie as/
 屍橫遍地 尸横遍地 [shi1 heng2 bian4 di4] /corpses lying everywhere/lying everywhere, corpses/
+濕滑 湿滑 [shi1 hua2] /wet and slippery/slippery, wet and/
 施浸 施浸 [shi1 jin4] /baptize/
 施浸者約翰 施浸者约翰 [shi1 jin4 zhe3_Yue1 han4] /John the Baptist/Baptist, John the/
 詩論 诗论 [shi1 lun4] /poetics/
@@ -49551,6 +49580,7 @@
 跳跳 跳跳 [tiao4 tiao5] /jump (informal)/
 跳轉 跳转 [tiao4 zhuan3] /redirect (HTTP 301 etc)/<comp.>/
 貼瓷磚 贴瓷砖 [tie1_ci2 zhuan1] /to tile (stick tiles onto walls)/tile, to (stick tiles onto walls)/
+貼附 贴附 [tie1 fu4] /stick onto/attach/onto, stick/
 貼文 贴文 [tie1 wen2] /(blog etc) post/
 鐵軛 铁轭 [tie3 e4] /iron yoke/yoke, iron/
 鐵刀 铁刀 [tie3 dao1] /iron scythe/scythe, iron/
@@ -49585,6 +49615,7 @@
 挺有意思 挺有意思 [ting3_you3_yi4 si5] /quite interesting/interesting, quite/
 挺身昂首 挺身昂首 [ting3 shen1 ang2 shou3] /raise erect and lift head up/erect and lift head up, raise/
 通常稱為 通常称为 [tong1 chang2_cheng1 wei2] /often called/usually known as/called, often/known as, usually/
+通風管道 通风管道 [tong1 feng1_guan3 dao4] /ventilation ducting/ducting, ventilation/
 通過決議 通过决议 [tong1 guo4_jue2 yi4] /by resolution (of a society's members etc)/resolution, by (of a society's members etc)/
 通姦 通奸 [tong1 jian1] /adultery/
 通姦罪 通奸罪 [tong1 jian1 zui4] /adultery/
@@ -49665,6 +49696,7 @@
 頭帶 头带 [tou2 dai4] /headband/
 投遞箱 投递箱 [tou2 di4 xiang1] /delivery box (for mail, forms etc)/
 頭髮變白 头发变白 [tou2 fa5_bian4_bai2] /hair turning grey or white/gray hair/turning grey or white, hair/
+投行 投行 [tou2 hang2] /investment banking (abbreviated version)/banking, investment (abbreviated version)/
 頭環 头环 [tou2 huan2] /headband/
 頭昏腦漲 头昏脑涨 [tou2 hun1 nao3 zhang4] /muddled/
 投進 投进 [tou2 jin4] /drop (something) into (a box etc)/"drop in"/
@@ -49677,6 +49709,7 @@
 頭禿 头秃 [tou2 tu1] /bald/
 頭位 头位 [tou2 wei4] /pole position (in racing)/position, pole (in racing)/
 投資理財 投资理财 [tou2 zi1_li3 cai2] /making investments/investments, making/
+投資銀行 投资银行 [tou2 zi1_yin2 hang2] /investment banking/banking, investment/
 投資詐騙 投资诈骗 [tou2 zi1_zha4 pian4] /Ponzi schemes (lit. investment fraud)/schemes, Ponzi (lit. investment fraud)/
 透光板 透光板 [tou4 guang1_ban3] /translucent panels (architecture)/panels, translucent (architecture)/
 禿額 秃额 [tu1 e2] /forehead baldness/baldness, forehead/
@@ -49741,6 +49774,7 @@
 推斷為 推断为 [tui1 duan4_wei2] /assign as (by deduction or inference)/
 推弓 推弓 [tui1 gong1] /upbow (on huqin)/
 推薦人 推荐人 [tui1 jian4 ren2] /referee (for application to job or study)/
+推論統計 推论统计 [tui1 lun4_tong3 ji4] /statistical inference/inference, statistical/
 推送 推送 [tui1 song4] /push notification/notification, push/<comp.>/
 推文 推文 [tui1 wen2] /tweet/<comp.>/
 推撞 推撞 [tui1 zhuang4] /pushing (type of conflict)/
@@ -49802,6 +49836,7 @@
 外核 外核 [wai4 he2] /outer core (of earth etc)/core, outer (of earth etc)/
 外籍客工 外籍客工 [wai4 ji2 ke4 gong1] /foreign worker/worker, foreign/
 外科口罩 外科口罩 [wai4 ke1_kou3 zhao4] /surgical mask/mask, surgical/
+外科手術 外科手术 [wai4 ke1_shou3 shu4] /surgery/operations/
 外科植入物 外科植入物 [wai4 ke1_zhi2 ru4 wu4] /surgical implant/implant, surgical/
 外框 外框 [wai4 kuang4] /outer frame/frame, outer/
 外賣店 外卖店 [wai4 mai4 dian4] /takeaway/carryout restaurant/takeout/
@@ -50139,6 +50174,7 @@
 無藥可救 无药可救 [wu2 yao4 ke3 jiu4] /(no medicine can help) nothing can save it/the situation is really bad/save it, nothing can/situation is really bad, the/
 無一 无一 [wu2 yi1] /without one/not so much as one/one, without/much as one, not so/
 無一幸免 无一幸免 [wu2 yi1 xing4 mian3] /no survivor/no escapee/survivor, no/escapee, no/
+無意識偏見 无意识偏见 [wu2 yi4 shi5_pian1 jian4] /unconscious bias/bias, unconscious/
 無憂 无忧 [wu2 you1] /at ease (without worry)/ease, at (without worry)/
 無源音箱 无源音箱 [wu2 yuan2_yin1 xiang1] /passive speakers/speakers, passive/
 無原罪 无原罪 [wu2 yuan2 zui4] /immaculate conception/conception, immaculate/
@@ -50206,6 +50242,7 @@
 悉心照料 悉心照料 [xi1 xin1_zhao4 liao4] /watchcare/
 吸血蠅 吸血蝇 [xi1 xue4 ying2] /gadfly/
 吸菸 吸菸 [xi1 yan1] /smoking/<TW>/
+吸音牆板 吸音墙板 [xi1 yin1_qiang2 ban3] /acoustic panel/panel, acoustic/
 吸引人們 吸引人们 [xi1 yin3_ren2 men5] /attract people/people, attract/
 吸引術 吸引术 [xi1 yin3 shu4] /suction surgery/surgery, suction/
 稀有氣體 稀有气体 [xi1 you3_qi4 ti3] /rare gases (on the periodic table)/gases, rare (on the periodic table)/
@@ -50213,6 +50250,7 @@
 襲擊者 袭击者 [xi2 ji1 zhe3] /attacker (in crime etc)/
 習字簿 习字簿 [xi2 zi4 bu4] /exercise book (for handwriting)/book, exercise (for handwriting)/
 喜不喜歡 喜不喜欢 [xi3_bu5_xi3 huan5] /would or wouldn't like/wouldn't like, would or/
+洗窗工具 洗窗工具 [xi3_chuang1_gong1 ju4] /window-washing tool/tool, window-washing/
 洗碗碟機 洗碗碟机 [xi3_wan3 die2_ji1] /dishwasher/
 洗一洗 洗一洗 [xi3_yi5_xi3] /wash (in pool etc)/
 洗熨 洗熨 [xi3 yun4] /laundry (lit. wash and iron)/
@@ -50431,6 +50469,7 @@
 象牙塊 象牙块 [xiang4 ya2 kuai4] /ivory plate/plate, ivory/
 相由心生 相由心生 [xiang4 you2 xin1 sheng1] /appearance comes from the mind/what you see is your own graphics/comes from the mind, appearance/graphics, what you see is your own/
 向著目標前進 向着目标前进 [xiang4 zhe5_mu4 biao1_qian2 jin4] /move forward (toward personal goals)/forward, move (toward personal goals)/
+消泡滾筒 消泡滚筒 [xiao1_pao4_gun3 tong3] /spiked roller (for removing bubbles)/roller, spiked (for removing bubbles)/
 消除偏見 消除偏见 [xiao1 chu2_pian1 jian4] /overcome prejudice/prejudice, overcome/
 消毒法 消毒法 [xiao1 du2 fa3] /disinfection (method)/
 消毒櫃 消毒柜 [xiao1 du2 gui4] /disinfection cabinet/cabinet, disinfection/
@@ -51540,6 +51579,7 @@
 元老會議 元老会议 [yuan2 lao3_hui4 yi4] /council of older men/Gerousia/older men, council of/
 原牛 原牛 [yuan2 niu2] /wild bull/aurochs/bull, wild/
 園區內 园区内 [yuan2 qu1_nei4] /within the garden/within the park (of rule jurisdiction)/garden, within the (of rule jurisdiction)/park, within the (of rule jurisdiction)/
+原生灌木 原生灌木 [yuan2 sheng1_guan4 mu4] /native shrubs/shrubs, native/
 原生植物 原生植物 [yuan2 sheng1_zhi2 wu4] /native plant species/plant species, native/
 原生態 原生态 [yuan2 sheng1 tai4] /indigenous (culture etc)/
 元數據 元数据 [yuan2 shu4 ju4] /metadata/<comp.>/
@@ -51686,9 +51726,12 @@
 棗椰樹 枣椰树 [zao3 ye1 shu4] /date palm/palm, date/
 造法 造法 [zao4 fa3] /building or manufacturing method/how to make it/manufacturing method, building or/make it, how to/
 造好 造好 [zao4 hao3] /completed (of something being made)/
+造景 造景 [zao4 jing3] /landscaping/
+造景組 造景组 [zao4 jing3 zu3] /landscaping team/team, landscaping/
 噪聲限值 噪声限值 [zao4 sheng1_xian4 zhi2] /noise limit/limit, noise/
 噪聲級 噪声级 [zao4 sheng1 ji2] /noise level/level, noise/
 造型機 造型机 [zao4 xing2 ji1] /moulding machine/machine, moulding/
+造型室 造型室 [zao4 xing2 shi4] /modelling room/hair and makeup room/room, modelling/makeup room, hair and/
 躁性 躁性 [zao4 xing4] /irritable (physiologically)/
 躁性大腸症候群 躁性大肠症候群 [zao4 xing4_da4 chang2_zheng4 hou4 qun2] /irritable bowel syndrome (alternate translation)/bowel syndrome, irritable (alternate translation)/
 造血功能 造血功能 [zao4 xue4_gong1 neng2] /hematopoiesis/
@@ -52035,7 +52078,7 @@
 中低胡 中低胡 [zhong1_di1 hu2] /alto dihu/dihu, alto/
 中樂團 中乐团 [zhong1_yue4 tuan2] /Chinese orchestra (HK)/orchestra, Chinese (HK)/
 中小學生 中小学生 [zhong1 xiao3 xue2 sheng1] /primary and middle school children (age 7-15?)/middle school children, primary and (age 7-15?)/
-終必 终必 [zhong1 bi4] /(all along) certain to/
+終必 终必 [zhong1 bi4] /certain to/
 衷誠 衷诚 [zhong1 cheng2] /honest (variant?)/
 鐘點工 钟点工 [zhong1 dian3_gong1] /casual labourer paid by the hour/time-worker/labourer paid by the hour, casual/
 中度 中度 [zhong1 du4] /moderate (degree of)/
@@ -52306,6 +52349,8 @@
 自覺意識 自觉意识 [zi4 jue2_yi4 shi5] /consciousness (self-awareness)/
 自戀桿 自恋杆 [zi4 lian4 gan3] /Narcissistick (satirical word for selfie-stick)/
 自戀狂 自恋狂 [zi4 lian4 kuang2] /narcissist(s)/
+自流平 自流平 [zi4 liu2 ping2] /self-leveling/
+自流平刮板 自流平刮板 [zi4 liu2 ping2_gua1 ban3] /gauge rake/rake, gauge/
 字面意思 字面意思 [zi4 mian4_yi4 si5] /literal meaning/meaning, literal/
 自拍桿 自拍杆 [zi4 pai1 gan3] /selfie stick (for self-portraits without a timer)/stick, selfie (for self-portraits without a timer)/
 自拍照 自拍照 [zi4 pai1 zhao4] /selfie (informal photographic self-portrait)/
