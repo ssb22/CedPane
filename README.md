@@ -65,6 +65,7 @@ Colgate is a trademark of the Colgate-Palmolive Company.
 Comcast is a trademark of Comcast Corporation.
 Dyson is a trademark of Dyson Technology Ltd.
 Electrolux is a trademark of Aktiebolaget Electrolux.
+Facebook is a trademark of Facebook, Inc.
 Funai is a trademark of Funai Electric Co., Ltd.
 Git is a trademark of the Software Freedom Conservancy.
 GitHub is a trademark of GitHub Inc.
@@ -94,6 +95,7 @@ Sibelius is a registered trademark of Avid Technology, Inc. or its subsidiaries.
 Thermos is a trademark of Thermos LLC.
 Toshiba is a trademark of Kabushiki Kaisha Toshiba.
 Toshiba is a trademark of Tokyo Shibaura Denki Kabushiki Kaisha.
+Twitter and Tweet are trademarks of Twitter Inc.
 Uber is a trademark of Uber Technologies, Inc.
 Walmart is a trademark and brand of Walmart Apollo, LLC.
 WeChat is a trademark of Tencent Holdings Limited.
@@ -103,4 +105,5 @@ Wi-Fi is a trademark of the Wi-Fi Alliance.
 Wikipedia is a registered trademark of the Wikimedia Foundation Inc.
 Windows is a registered trademark of Microsoft Corp.
 Wyeth is a trademark of Wyeth LLC.
+Zoom is a trademark of Zoom Video Communications, Inc.
 Any other trademarks I mentioned without realising are trademarks of their respective holders.

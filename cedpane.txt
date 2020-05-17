@@ -213,6 +213,7 @@ account number (of MSN etc)	账号	賬號	zhànghào	jeung-houh
 Accra	阿克拉	阿克拉	Ākèlā	A-hāk-lāai	ˌəkɹˈæɹ
 accretion (by black hole etc)	吸积	吸積	xījī	kāp-jīk	
 accretion disc	吸积盘	吸積盤	xījīpán	kāp-jīk-pùhn	
+accuracy before speed (in language learning)	先准后快	先准后快	xiānzhǔnhòukuài	sīn-jéun-hauh-faai	
 Acebo	埃斯博	埃斯博	Āisībó	Āai-sī-bok	
 Acelin	阿斯林	阿斯林	Āsīlín	A-sī-làhm	
 acephate	乙酰甲胺磷	乙酰甲胺磷	yǐxiānjiǎ'ànlín	yuht-sīn-gaap-ngōn-lèuhn	
@@ -4362,6 +4363,7 @@ between the two evenings	黄昏时分	黃昏時分	huánghūn shífèn	wòhng-f�
 Beulah	比拉	比拉	Bǐlā	Béi-lāai	
 Beulah	贝乌拉	貝烏拉	Bèiwūlā	Bui-wū-lāai	
 be unyielding	不肯让步	不肯讓步	bùkěn ràngbù	bāt-háng yeuhng-bouh	
+be useful (of tool, ability etc)	派得上用场	派得上用場	pàideshàng yòngchǎng	paai-dāk-séuhng yuhng-chèuhng	
 Beutler	博伊特勒	博伊特勒	Bóyītèlè	Bok-yī-dahk-lahk	
 Bev; Bever	贝弗	貝弗	Bèifú	Bui-fāt	
 Bevan	贝文	貝文	Bèiwén	Bui-màhn	
@@ -4644,6 +4646,8 @@ Bislama	比斯拉玛语	比斯拉瑪語	Bǐsīlāmǎyǔ	Béi-sī-lāai-máh-yúh
 Bislama (language)	比斯拉马语	比斯拉馬語	Bǐsīlāmǎyǔ	Béi-sī-lāai-máh-yúh	
 Bissegue	比斯盖	比斯蓋	Bǐsīgài	Béi-sī-goi	
 Bisset	比塞特	比塞特	Bǐsètè	Béi-choi-dahk	
+bistable	双稳态	雙穩態	shuāngwěntài	sēung-wán-taai	
+bistable structure	双稳态结构	雙穩態結構	shuāngwěntài jiégòu	sēung-wán-taai git-kau	
 Biswas	比斯瓦斯	比斯瓦斯	Bǐsīwǎsī	Béi-sī-ngáh-sī	
 Bitar	比塔尔	比塔爾	Bǐtǎ'ěr	Béi-taap-yíh	
 Bitcoin	比特币	比特幣	Bǐtèbì	Béi-dahk-baih	
@@ -4959,6 +4963,7 @@ Boltanski	波尔坦斯基	波爾坦斯基	Bō'ěrtǎnsījī	Bō-yíh-táan-sī-g
 Bolten	博尔滕	博爾滕	Bó'ěrténg	Bok-yíh-tàhng	
 Bolton	博尔顿	博爾頓	Bó'ěrdùn	Bok-yíh-deuhn	
 Boluo (county, in Guangdong)	博罗县	博羅縣	Bóluó Xiàn	Bok-lòh Yún	
+Bolzano	博尔扎诺	博爾扎諾	Bó'ěrzhānuò	Bok-yíh-jaat-nohk	
 Bomba	邦巴	邦巴	Bāngbā	Bōng-bā	
 Bombala	邦巴拉	邦巴拉	Bāngbālā	Bōng-bā-lāai	
 bombardier beetle	放屁甲虫	放屁甲蟲	fàngpì jiǎchóng	fong-pei gaap-chùhng	
@@ -5245,6 +5250,7 @@ Brahms	布拉姆斯	布拉姆斯	Bùlāmǔsī	Bou-lāai-móuh-sī
 Braille	盲人点字	盲人點字	mángrén diǎnzì	màahng-yàhn dím-jih	
 Braille edition; Braille format	点字版	點字版	diǎnzìbǎn	dím-jih-báan	
 Braille (Louis)	布莱叶	布萊葉	Bùláiyè	Bou-lòih-yihp	
+Braille music	点字乐谱	點字樂譜	diǎnzì yuèpǔ	dím-jih ngohk-póu	
 Braille (system)	盲人点字法	盲人點字法	mángrén diǎnzìfǎ	màahng-yàhn dím-jih-faat	
 brain-machine interface	脑机接口	腦機接口	nǎo-jī jiēkǒu	nóuh-gēi jip-háu	
 brain and cognition science	脑与认知科学	腦與認知科學	nǎo yǔ rènzhī kēxué	nóuh yúh yihng-jī fō-hohk	
@@ -6726,7 +6732,7 @@ cedarwood	雪松木	雪松木	xuěsōngmù	syut-chùhng-muhk	sˈidəwʊd
 cedarwood panel	雪松木板	雪松木板	xuěsōngmùbǎn	syut-chùhng-muhk-báan	
 Cedaya Township	策大雅乡	策大雅鄉	Cèdàyǎ Xiāng	Chaak-daaih-ngáh Hēung	
 Ceddia	切迪亚	切迪亞	Qièdíyà	Chit-dihk-nga	
-CedPane: this is version 2020-05-08	汉英词典公有领域专名等副刊	漢英詞典公有領域專名等副刊	Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān	Hon-yīng Chìh-dín Gūng-yáuh Líhng-wihk Jyūn-mìhng Dáng Fu-hōn	
+CedPane: this is version 2020-05-17	汉英词典公有领域专名等副刊	漢英詞典公有領域專名等副刊	Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān	Hon-yīng Chìh-dín Gūng-yáuh Líhng-wihk Jyūn-mìhng Dáng Fu-hōn	
 Cedric; Dedric; Sedrick	塞德里克	塞德里克	Sāidélǐkè	Choi-dāk-léuih-hāk	
 Ceely	西利	西利	Xīlì	Sāi-leih	
 Ceheng (county, in Guizhou)	册亨县	冊亨縣	Cèhēng Xiàn	Chaak-hāng Yún	
@@ -8143,6 +8149,7 @@ Clint	克林特	克林特	Kèlíntè	Hāk-làhm-dahk
 Clinton	克林顿	克林頓	Kèlíndùn	Hāk-làhm-deuhn	
 <comp.> clipboard	剪贴板	剪貼板	jiǎntiēbǎn	jín-tip-báan	
 clip (on belt)	扣带	扣帶	kòudài	kau-daai	
+clipper; trimmer	修剪器	修剪器	xiūjiǎnqì	sāu-jín-hei	
 Clise	克莱斯	克萊斯	Kèláisī	Hāk-lòih-sī	
 Clive	克莱夫	克萊夫	Kèláifū	Hāk-lòih-fū	
 Clodagh	克洛达赫	克洛達赫	Kèluòdáhè	Hāk-lohk-daaht-hāk	
@@ -8355,6 +8362,7 @@ come into the belly (via eating)	吃进	吃進	chījìn	hek-jeun
 come into the world	到世上来	到世上來	dào shìshang lái	dou sai-seuhng lòih	
 come late; arrive late	来晚	來晚	láiwǎn	lòih-máahn	
 Comenius	夸美纽斯	誇美紐斯	Kuāměiniǔsī	Kwā-méih-náu-sī	
+come to be (useful etc)	派得上	派得上	pàideshàng	paai-dāk-séuhng	
 come to one's end in smoke	灰飞烟灭	灰飛煙滅	huīfēi-yānmiè	fūi-fēi-yīn-miht	
 come to the wrong house or person (by mistake)	找错人了	找錯人了	zhǎo cuò rén le	jáau cho yàhn líuh	
 come true	成真	成真	chéng zhēn	sìhng jān	
@@ -9065,6 +9073,7 @@ Croesus	克罗伊斯	克羅伊斯	Kèluóyīsī	Hāk-lòh-yī-sī	kɹˈisəs
 Crofford	克罗福德	克羅福德	Kèluófúdé	Hāk-lòh-fūk-dāk	
 Croghan	克罗根	克羅根	Kèluógēn	Hāk-lòh-gān	
 Crohn	克罗恩	克羅恩	Kèluó'ēn	Hāk-lòh-yān	
+Crohn's disease	克隆氏症	克隆氏症	Kèlóngshìzhèng	Hāk-lùhng-sih-jing	
 Croke; Kroc; Krock	克罗克	克羅克	Kèluókè	Hāk-lòh-hāk	
 Croll	克罗尔	克羅爾	Kèluó'ěr	Hāk-lòh-yíh	
 Cromwell	克伦威尔	克倫威爾	Kèlúnwēi'ěr	Hāk-lèuhn-wāi-yíh	
@@ -9742,6 +9751,7 @@ dark circles under eyes	黑眼圈	黑眼圈	hēiyǎnquān	hāk-ngáahn-hyūn
 dark energy	暗能量	暗能量	àn néngliàng	ngam nàhng-leuhng	
 Darkes	达克斯	達克斯	Dákèsī	Daaht-hāk-sī	
 dark matter	暗物质	暗物質	àn wùzhì	ngam maht-jāt	
+<comp.> dark mode	黑暗模式	黑暗模式	hēi'àn móshì	hāk-ngam mòuh-sīk	
 Darko	达科	達科	Dákē	Daaht-fō	
 Darkon	达昆	達昆	Dákūn	Daaht-kwān	dˈɑkɒn
 dark square; black square (on chessboard)	暗格子	暗格子	àn gézi	ngam gaak-jí	
@@ -11011,6 +11021,7 @@ Domenic	多门尼克	多門尼克	Duōménníkè	Dō-mùhn-nèih-hāk
 Domenica	多梅尼卡	多梅尼卡	Duōméiníkǎ	Dō-mùih-nèih-kā	
 Domenick	多梅尼克	多梅尼克	Duōméiníkè	Dō-mùih-nèih-hāk	
 Domenico	多梅尼科	多梅尼科	Duōméiníkē	Dō-mùih-nèih-fō	
+domestic abuse; domestic violence	家暴	家暴	jiābào	gā-bouh	
 domestic and overseas	境内外	境內外	jìngnèiwài	gíng-noih-ngoih	
 domestic carbon monoxide alarm	家用一氧化碳警报器	家用一氧化碳警報器	jiāyòng yīyǎnghuàtàn jǐngbàoqì	gā-yuhng yāt-yéuhng-fa-taan gíng-bou-hei	
 domestic violence	家庭暴力	家庭暴力	jiātíng bàolì	gā-tìhng bouh-lihk	
@@ -12803,6 +12814,8 @@ enter (a city etc in military attack)	攻入	攻入	gōngrù	gūng-yahp	ˈɛntɚ
 enter (a hiding place)	躲进	躲進	duǒjìn	dó-jeun	ˈɛntɚ
 enter into (government) database	入库备案	入庫備案	rùkù bèi'àn	yahp-fu beih-ngon	
 enter into sheath (of sword)	入鞘	入鞘	rùqiào	yahp-chiu	
+enterprise resource planning; ERP	企业资源规划	企業資源規劃	qǐyè zīyuán guīhuà	kéih-yihp jī-yùhn kwāi-waahk	
+enterprise resource planning; ERP	企业资源计划	企業資源計劃	qǐyè zīyuán jìhuà	kéih-yihp jī-yùhn gai-waahk	
 entertainment scene	娱乐圈	娛樂圈	yúlèquān	yùh-lohk-hyūn	
 entire family	全家人	全家人	quánjiārén	chyùhn-gā-yàhn	
 entire nation's king	一国之君	一國之君	yīguózhījūn	yāt-gwok-jī-gwān	
@@ -13416,6 +13429,7 @@ Fabiano	法比亚诺	法比亞諾	Fǎbǐyànuò	Faat-béi-nga-nohk
 Fabienne	法比耶娜	法比耶娜	Fǎbǐyēnà	Faat-béi-yèh-nàh	
 Fabio	法比奥	法比奧	Fǎbǐ'ào	Faat-béi-ou	
 Fabio	法维奥	法維奧	Fǎwéi'ào	Faat-wàih-ou	
+Fabiola	法维奥拉	法維奧拉	Fǎwéi'àolā	Faat-wàih-ou-lāai	
 Fabius	法比尤斯	法比尤斯	Fǎbǐyóusī	Faat-béi-yàuh-sī	
 Fabrice	法布里斯	法布里斯	Fǎbùlǐsī	Faat-bou-léih-sī	
 Fabricio	法夫里西奥	法夫里西奧	Fǎfūlǐxī'ào	Faat-fū-léih-sāi-ou	
@@ -14180,6 +14194,7 @@ Fia	菲亚	菲亞	Fēiyà	Fēi-nga
 Fiachra; Fiacre	菲亚克	菲亞克	Fēiyàkè	Fēi-nga-hāk	
 Fiammetta	费德尔	費德爾	Fèidé'ěr	Fai-dāk-yíh	
 Fibonacci (alternative translation)	费布纳西	費布納西	Fèibùnàxī	Fai-bou-naahp-sāi	
+fibroadenoma (type of cancers)	纤维腺瘤	纖維腺瘤	xiānwéixiànliú	chīm-wàih-sin-làuh	
 fibromyalgia (lit. fibre muscle-pain disease)	纤维肌痛症	纖維肌痛症	xiānwéi jītòng zhèng	chīm-wàih gēi-tung jing	
 Fickett	菲克特	菲克特	Fēikètè	Fēi-hāk-dahk	
 FIDE (Chess organisation, abbreviated form)	国际棋联	國際棋聯	Guójì Qílián	Gwok-jai Kèih-lyùhn	
@@ -17961,6 +17976,7 @@ Haining (in Zhejiang)	海宁市	海寧市	Hǎiníng Shì	Hói-nìhng Síh
 Haiphong Road (place in HK)	海防道	海防道	Hǎifáng Dào	Hói-fòhng Douh	
 Haiqing (town)	海青镇	海青鎮	Hǎiqīngzhèn	Hói-chīng-jan	
 Haiqing Township	海青乡	海青鄉	Hǎiqīng Xiāng	Hói-chīng Hēung	
+hair clipper	头发修剪器	頭發修剪器	tóufa xiūjiǎnqì	tàuh-faat sāu-jín-hei	
 Hai River	海河	海河	Hǎi Hé	Hói Hòh	
 hairless dog	无毛狗	無毛狗	wúmáogǒu	mòuh-mòuh-gáu	
 hairline crack	细小裂缝	細小裂縫	xìxiǎo lièfèng	sai-síu liht-fùhng	
@@ -18244,6 +18260,7 @@ Hannah (modern)	汉娜	漢娜	Hànnà	Hon-nàh
 Hannan	汉南	漢南	Hànnán	Hon-nàahm	
 Hannan District	汉南区	漢南區	Hànnán Qū	Hon-nàahm Kēui	
 Hannay	汉内	漢內	Hànnèi	Hon-noih	
+Hannchen	汉杏	漢杏	Hànxìng	Hon-hahng	
 Hanne	汉妮	漢妮	Hànnī	Hon-nèih	
 Hannelore	安内洛蕾	安內洛蕾	Ānnèiluòlěi	Ngōn-noih-lohk-lèuih	
 Hannelore	汉内洛蕾	漢內洛蕾	Hànnèiluòlěi	Hon-noih-lohk-lèuih	
@@ -19422,7 +19439,7 @@ Hilker	希尔克	希爾克	Xī'ěrkè	Hēi-yíh-hāk
 Hilkiah	希勒家	希勒家	Xīlèjiā	Hēi-lahk-gā	hˌɪlkˈaɪʌ
 Hillard	希拉德	希拉德	Xīlādé	Hēi-lāai-dāk	
 Hillary	希拉莉	希拉莉	Xīlālì	Hēi-lāai-leih	
-Hillas	希拉斯	希拉斯	Xīlāsī	Hēi-lāai-sī	
+Hillas; Silas (modern)	希拉斯	希拉斯	Xīlāsī	Hēi-lāai-sī	
 Hilleary	希勒里	希勒里	Xīlèlǐ	Hēi-lahk-léih	
 Hillebrand	希勒布兰德	希勒布蘭德	Xīlèbùlándé	Hēi-lahk-bou-làahn-dāk	
 Hillel	希列	希列	Xīliè	Hēi-liht	hˈɪlɛl
@@ -19519,6 +19536,7 @@ Hitz	希茨	希茨	Xīcí	Hēi-chìh
 Hiv(?)	希未	希未	Xīwèi	Hēi-meih	
 Hiva	希瓦	希瓦	Xīwǎ	Hēi-ngáh	
 Hiva Oa (island)	希瓦瓦岛	希瓦瓦島	Xīwǎwǎdǎo	Hēi-ngáh-ngáh-dóu	
+Hive Box (locker company)	丰巢	丰巢	Fēngcháo	Fūng-chàauh	
 hive mind	蜂巢思维	蜂巢思維	fēngcháo sīwéi	fūng-chàauh sī-wàih	
 Hivite	希未人	希未人	Xīwèirén	Hēi-meih-yàhn	hˈaɪvaɪt
 Hixson	希克森	希克森	Xīkèsēn	Hēi-hāk-sām	
@@ -20671,6 +20689,7 @@ human intelligence (in contrast to AI)	人类智能	人類智能	rénlèi zhìn�
 humanist (person)	人道主义者	人道主義者	réndàozhǔyìzhě	yàhn-douh-jyú-yih-jé	hjˈʉːmənɪst
 humanist (person; older translation)	人文主义者	人文主義者	rénwénzhǔyìzhě	yàhn-màhn-jyú-yih-jé	hjˈʉːmənɪst
 humanities area (in library)	人文区	人文區	rénwénqū	yàhn-màhn-kēui	
+human kindness is everywhere	人间有真情	人間有真情	rénjiān yǒu zhēnqíng	yàhn-gāan yáuh jān-chìhng	
 human papillomavirus; HPV	人乳头瘤病毒	人乳頭瘤病毒	rénrǔtóuliúbìngdú	yàhn-yúh-tàuh-làuh-behng-duhk	
 human resources; HR (department in company etc)	人力资源部	人力資源部	rénlì zīyuán bù	yàhn-lihk jī-yùhn bouh	
 human rights advocates	人权人士	人權人士	rénquán rénshì	yàhn-kyùhn yàhn-sih	
@@ -23730,6 +23749,7 @@ Karth	卡思	卡思	Kǎsī	Kā-sī
 Karting	卡丁车	卡丁車	Kǎdīngchē	Kā-dīng-chē	
 Karuna	卡鲁纳	卡魯納	Kǎlǔnà	Kā-lóuh-naahp	
 Karuo District	卡若区	卡若區	Kǎruò Qū	Kā-yeuhk Kēui	
+Karyn	卡丽恩	卡麗恩	Kǎlì'ēn	Kā-laih-yān	
 Karítsa	卡里萨	卡里薩	Kǎlǐsà	Kā-léih-saat	
 Kas	考斯	考斯	Kǎosī	Háau-sī	
 Kasa; Kassa	卡萨	卡薩	Kǎsà	Kā-saat	
@@ -25688,6 +25708,7 @@ leprosy (variant?)	麻疯病	麻瘋病	máfēngbìng	màh-fūng-behng	lˈɛpɹə
 lepton (coin)	雷普顿	雷普頓	léipǔdùn	lèuih-póu-deuhn	
 Lequn Manchu Township	乐群满族乡	樂群滿族鄉	Lèqún Mǎnzú Xiāng	Lohk-kwàhn Múhn-juhk Hēung	
 Lerma	莱尔马	萊爾馬	Lái'ěrmǎ	Lòih-yíh-máh	
+Lerner	勒纳	勒納	Lènà	Lahk-naahp	
 Leron	勒龙	勒龍	Lèlóng	Lahk-lùhng	
 Leroy	勒罗伊	勒羅伊	Lēiluóyī	Lahk-lòh-yī	
 Leroy	勒鲁瓦	勒魯瓦	Lèlǔwǎ	Lahk-lóuh-ngáh	
@@ -28156,6 +28177,7 @@ Makaz	玛迦斯	瑪迦斯	Mǎjiāsī	Máh-gā-sī	mˈeɪkæz
 make/allow all people to (do sthg)	让人人	讓人人	ràng rénrén	yeuhng yàhn-yàhn	
 make; manufacture/build	制造出	制造出	zhìzàochū	jai-jouh-chēut	
 "make a killing" in business (lit. be very successful)	大有斩获	大有斬獲	dàyǒu zhǎnhuò	daaih-yáuh jáam-wohk	
+make a list of names	列名单	列名單	liè míngdān	liht mìhng-dāan	
 make (amendments etc)	作出	作出	zuòchū	jok-chēut	
 make an accounting (lit. compute credit?)	算账	算账	suànzhàng	syun-jeung	
 make an agreement	达成协议	達成協議	dáchéng xiéyì	daaht-sìhng hip-yíh	
@@ -30274,6 +30296,7 @@ monarch butterfly	君蝶	君蝶	jūndié	gwān-dihp
 monarch butterfly (alternate translation)	帝王蝶	帝王蝶	dìwángdié	dai-wòhng-dihp	
 monastery	隐修院	隱修院	yǐnxiūyuàn	yán-sāu-yún	mˈɒnəstɹi
 Monat	莫纳特	莫納特	Mònàtè	Mohk-naahp-dahk	
+Moncada	蒙卡达	蒙卡達	Méngkǎdá	Mùhng-kā-daaht	
 Monckton	蒙克顿	蒙克頓	Měngkèdùn	Mùhng-hāk-deuhn	
 Moncrieffe	蒙克里夫	蒙克里夫	Měngkèlǐfū	Mùhng-hāk-léih-fū	
 Monday (name of person)	蒙迪	蒙迪	Méngdí	Mùhng-dihk	
@@ -33002,6 +33025,7 @@ open-heart surgery	剖心手术	剖心手術	pōuxīn shǒushù	fáu-sām sáu-s
 open-source license	开源协议	開源協議	kāiyuán xiéyì	hōi-yùhn hip-yíh	
 open a notebook	开贴	開貼	kāitiē	hōi-tip	
 open completely (?)	开尽	開盡	kāijìn	hōi-jeuhn	
+open course (broadcast to public by university etc)	公开课	公開課	gōngkāikè	gūng-hōi-fo	
 opening exhibition	开幕展	開幕展	kāimùzhǎn	hōi-mohk-jín	
 opening (hole) in a tooth	牙洞	牙洞	yádòng	ngàh-duhng	
 opening in the wall of a city	城墙口	城牆口	chéngqiángkǒu	sìhng-chèuhng-háu	
@@ -35503,6 +35527,7 @@ Plínio	普利尼奥	普利尼奧	Pǔlìní'ào	Póu-leih-nèih-ou
 pneuma	普纽马	普紐馬	pǔniǔmǎ	póu-náu-máh	
 pneumatic tyre	充气轮胎	充氣輪胎	chōngqì lúntāi	chūng-hei lèuhn-tōi	
 pneumococcus	肺炎球菌	肺炎球菌	fèiyán qiújūn	fai-yìhm kàuh-kwán	
+pneumoconiosis	尘肺病	塵肺病	chénfèibìng	chàhn-fai-behng	
 poaching	非法猎杀	非法獵殺	fēifǎ lièshā	fēi-faat lihp-saat	
 Poage; Pogue	波格	波格	Bōgé	Bō-gaak	
 Pocang Township	坡仓乡	坡倉鄉	Pōcāng Xiāng	Bō-chōng Hēung	
@@ -35810,6 +35835,7 @@ practical skills	实用的技能	實用的技能	shíyòng de jìnéng	saht-yuhn
 practical suggestions	实用的建议	實用的建議	shíyòng de jiànyì	saht-yuhng dīk gin-yíh	
 practical value	实用价值	實用價值	shíyòng jiàzhí	saht-yuhng ga-jihk	
 practitioner	实践者	實踐者	shíjiànzhě	saht-chíhn-jé	
+Praderas	普拉德拉斯	普拉德拉斯	Pǔlādélāsī	Póu-lāai-dāk-lāai-sī	
 Praeger	普雷格	普雷格	Pǔléigé	Póu-lèuih-gaak	
 praetorian palace	禁宫	禁宮	jìngōng	gam-gūng	
 Praetorius	普雷托里亚斯	普雷托里亞斯	Pǔléituōlǐyàsī	Póu-lèuih-tok-léuih-nga-sī	
@@ -37868,6 +37894,7 @@ residence building	宿舍楼	宿舍樓	sùshèlóu	sūk-se-làuh
 residence supervisor; accommodation manager	宿管	宿管	sùguǎn	sūk-gún	
 resident	居住者	居住者	jūzhùzhě	gēui-jyuh-jé	
 <PRC> resident's ID card number	居民身份证号码	居民身份證號碼	jūmín shēnfènzhèng hàomǎ	gēui-màhn sān-fán-jing houh-máh	
+resilience (person's ability to resist pressure)	抗压能力	抗壓能力	kàng yā nénglì	kong ngaat nàhng-lihk	
 resilience (to pressure etc)	抗压性	抗壓性	kàngyāxìng	kong-ngaat-sing	
 resin paint	树脂油漆	樹脂油漆	shùzhī yóuqī	syuh-jī yàuh-chāt	
 resistance welding machine	电阻焊机	電阻焊機	diànzǔhànjī	dihn-jó-hohn-gēi	
@@ -39250,6 +39277,7 @@ Santa Cruz (Bolivia)	圣克鲁斯	聖克魯斯	Shèng Kèlǔsī	Sing Hāk-lóuh-
 Santa Fe (county)	圣菲省	聖菲省	Shèngfēishěng	Sing-fēi-sáang	
 Santai (county, in Sichuan)	三台县	三台縣	Sāntái Xiàn	Sāam-tòih Yún	
 Santa Maria	圣玛利亚	聖瑪利亞	Shèng Mǎlìyà	Sing Máh-leih-nga	
+Santana	圣安娜	聖安娜	Shèng Ānnà	Sing Ngōn-nàh	
 Santana	桑塔纳	桑塔納	Sāngtǎnà	Sōng-taap-naahp	
 Santana	桑塔那	桑塔那	Sāngtǎnà	Sōng-taap-náh	
 Santander (Spanish port)	桑坦德	桑坦德	Sāngtǎndé	Sōng-táan-dāk	
@@ -39320,6 +39348,7 @@ Sapphira (old translation?)	撒非喇	撒非喇	Sāfēilā	Saat-fēi-lā
 Sapphire (name)	萨菲	薩菲	Sàfēi	Saat-fēi	
 Saqqara	塞加拉	塞加拉	Sàijiālā	Choi-gā-lāai	
 Sarah (Bible)	撒拉	撒拉	Sālā	Saat-lāai	sˈɛːɹə
+Sarahi	萨拉希	薩拉希	Sàlāxī	Saat-lāai-hēi	
 Sarah (modern)	莎拉	莎拉	Shālā	Sā-lāai	
 Sarah (modern)	萨拉	薩拉	Sàlā	Saat-lāai	
 Sarai	撒莱	撒萊	Sālái	Saat-lòih	sˈɛɹaɪ
@@ -39420,6 +39449,7 @@ Savoy	萨伏伊	薩伏伊	Sàfúyī	Saat-fuhk-yī
 Savoy	萨瓦	薩瓦	Sàwǎ	Saat-ngáh	
 Savoy (in France)	萨伏依	薩伏依	Sàfúyī	Saat-fuhk-yī	
 Savé	萨韦	薩韋	Sàwéi	Saat-wáih	
+sawatdee kha (transliteration of Thai female greeting)	萨瓦迪卡	薩瓦迪卡	sàwǎdí kǎ	saat-ngáh-dihk kā	
 Sawla	索拉去	索拉去	Suǒlāqù	Sok-lāai-heui	
 saw neat (by cutting with a saw)	锯齐	鋸齊	jùqí	geui-chàih	
 Sawston	沙士顿	沙士頓	Shāshìdùn	Sā-sih-deuhn	
@@ -40834,6 +40864,7 @@ Shiqiao Township	石桥乡	石橋鄉	Shíqiáo Xiāng	Sehk-kìuh Hēung
 Shiqiaoyi (town)	石桥驿镇	石橋驛鎮	Shíqiáoyìzhèn	Sehk-kìuh-yihk-jan	
 Shiquan (county, in Shaanxi)	石泉县	石泉縣	Shíquán Xiàn	Sehk-chyùhn Yún	
 Shiqu (county, in Sichuan)	石渠县	石渠縣	Shíqú Xiàn	Sehk-kèuih Yún	
+Shiranthi	希兰蒂	希蘭蒂	Xīlándì	Hēi-làahn-dai	
 Shireen	希琳	希琳	Xīlín	Hēi-làhm	
 Shire River	希雷河	希雷河	Xīléi Hé	Hēi-lèuih Hòh	
 shirk blame	甩锅	甩鍋	shuǎiguō	lāt-wō	
@@ -42160,6 +42191,7 @@ speak tactfully; tact	说话得体	說話得體	shuōhuà détǐ	syut-wah dāk-t
 speak with a person	跟人说话	跟人說話	gēn rén shuōhuà	gān yàhn syut-wah	
 spear	枪矛	槍矛	qiāngmáo	chēung-màauh	
 Speare	斯皮尔	斯皮爾	Sīpí'ěr	Sī-pèih-yíh	
+Spearman	斯皮尔曼	斯皮爾曼	Sīpí'ěrmàn	Sī-pèih-yíh-maahn	
 spearmen	矛手	矛手	máoshǒu	màauh-sáu	
 spear shaft	矛杆	矛杆	máogān	màauh-gōn	
 Spears (name)	斯皮尔斯	斯皮爾斯	Sīpí'ěrsī	Sī-pèih-yíh-sī	
@@ -43026,6 +43058,9 @@ Surabaya	泗水	泗水	Sìshuǐ	Si-séui
 Surabaya (alternate translation)	苏腊巴亚	蘇臘巴亞	Sūlàbāyà	Sōu-laahp-bā-nga	
 Surat	苏拉特	蘇拉特	Sūlātè	Sōu-lāai-dahk	
 "surely" or "so be it" (meaning of amen)	确实如此	確實如此	quèshí rúcǐ	kok-saht yùh-chí	
+surfactant	张力素	張力素	zhānglìsù	jēung-lihk-sou	
+surfactant	表面张力素	表面張力素	biǎomiàn zhānglìsù	bíu-mihn jēung-lihk-sou	
+surfactant	表面活性剂	表面活性劑	biǎomiàn huóxìngjì	bíu-mihn wuht-sing-jāi	
 surgery; operations	外科手术	外科手術	wàikē shǒushù	ngoih-fō sáu-seuht	
 surgical implant	外科植入物	外科植入物	wàikē zhírùwù	ngoih-fō jihk-yahp-maht	
 surgical mask	外科口罩	外科口罩	wàikē kǒuzhào	ngoih-fō háu-jaau	
@@ -44541,6 +44576,7 @@ Throop	思鲁普	思魯普	Sīlǔpǔ	Sī-lóuh-póu
 throughout the house or building	全栋	全棟	quándòng	chyùhn-duhng	
 throughout the world; located across the globe	遍布全球	遍布全球	biànbù quánqiú	pin-bou chyùhn-kàuh	
 through the Red Sea	过红海	過紅海	guò Hónghǎi	gwo Hùhng-hói	
+throw and catch; juggle (a ball)	抛接	拋接	pāojiē	pāau-jip	
 throw (away) into	丢入	丟入	diūrù	dīu-yahp	
 throw (away) to	丢到	丟到	diūdào	dīu-dou	
 throw into	扔进	扔進	rēngjìn	yìhng-jeun	
@@ -44740,6 +44776,7 @@ Tiefu (town)	铁富镇	鐵富鎮	Tiěfùzhèn	Tit-fu-jan
 Tiegan (town)	铁杆镇	鐵桿鎮	Tiěgǎnzhèn	Tit-gōn-jan	
 Tiehe Township	铁河乡	鐵河鄉	Tiěhé Xiāng	Tit-hòh Hēung	
 tie into	扎成	扎成	zhāchéng	jaat-sìhng	
+tie in (to a meeting); attend online	连线参加	連線參加	liánxiàn cānjiā	lìhn-sin chāam-gā	
 tie into place	系住	繫住	xìzhù	haih-jyuh	
 Tiekuang Township	铁矿乡	鐵礦鄉	Tiěkuàng Xiāng	Tit-kwong Hēung	
 Tieli (in Heilongjiang)	铁力	鐵力	Tiělì	Tit-lihk	
@@ -45278,6 +45315,7 @@ Toudao (town)	头道镇	頭道鎮	Tóudàozhèn	Tàuh-douh-jan
 Toulouse	图卢兹	圖盧茲	Túlúzī	Tòuh-lòuh-jī	
 Touma	图马	圖馬	Túmǎ	Tòuh-máh	
 to understand or be clear about	明瞭	明瞭	míngliǎo	mìhng-lìuh	
+Tounkara	图恩卡拉	圖恩卡拉	Tú'ēnkǎlā	Tòuh-yān-kā-lāai	
 Toupai (town)	头排镇	頭排鎮	Tóupáizhèn	Tàuh-pàaih-jan	
 Toupouri (language)	图普里语	圖普里語	Túpǔlǐyǔ	Tòuh-póu-léih-yúh	
 Touqian River (Taiwan)	头前溪	頭前溪	Tóuqián Xī	Tàuh-chìhn Kāi	
@@ -45998,6 +46036,7 @@ unemotional (not grieving over self)	不以己悲	不以己悲	bùyǐjǐbēi	bā
 unexpected situation	突如其来的情况	突如其來的情況	tūrúqílái de qíngkuàng	daht-yùh-kèih-lòih dīk chìhng-fong	
 unfair	不公平	不公平	bù gōngpíng	bāt gūng-pìhng	ˌʌnfˈɛː
 unfair	不公道	不公道	bù gōngdao	bāt gūng-douh	ˌʌnfˈɛː
+unfamiliar word	陌生单词	陌生單詞	mòshēng dāncí	mahk-sāang dāan-chìh	
 unfermented; unleavened	无酵	無酵	wújiào	mòuh-gaau	
 unfollow (someone) (on social media)	取消追踪	取消追蹤	qǔxiāo zhuīzōng	chéui-sīu jēui-jūng	
 unforeseen occurrences	无法预料的事	無法預料的事	wúfǎ yùliào de shì	mòuh-faat yuh-líu dīk sih	
@@ -46593,6 +46632,7 @@ Vickie	薇琪	薇琪	Wēiqí	Mèih-kèih
 Vicky; Vicki	维姬	維姬	Wéijī	Wàih-gēi	
 Vico	维柯	維柯	Wéikē	Wàih-ō	
 Vico	维科	維科	Wéikē	Wàih-fō	
+victims of domestic abuse	家暴受害者	家暴受害者	jiābào shòuhàizhě	gā-bouh sauh-hoih-jé	
 Victoire	维克图瓦	維克圖瓦	Wéikètúwǎ	Wàih-hāk-tòuh-ngáh	
 Victor	维克托	維克托	Wéikètuō	Wàih-hāk-tok	
 Victor	维多	維多	Wéiduō	Wàih-dō	
@@ -46626,6 +46666,7 @@ Vigo	维哥	維哥	Wéigē	Wàih-gō
 Vigo	维戈	維戈	Wéigē	Wàih-gwō	
 Vigouroux	维古鲁	維古魯	Wéigǔlǔ	Wàih-gú-lóuh	
 Viguerie	维格里	維格里	Wéigélǐ	Wàih-gaak-léih	
+Vihanga	维汉加	維漢加	Wéihànjiā	Wàih-hon-gā	
 VIII (8th in a line of kings etc)	八世	八世	Bāshì	Baat-sai	
 Vijay	维杰	維傑	Wéijié	Wàih-giht	
 Vijaya	维佳雅	維佳雅	Wéijiāyǎ	Wàih-gāai-ngáh	
@@ -48846,7 +48887,6 @@ Xiaochang'an (town)	小长安镇	小長安鎮	Xiǎocháng'ānzhèn	Síu-chèuhng
 Xiaochang (county, in Hubei)	孝昌县	孝昌縣	Xiàochāng Xiàn	Haau-chēung Yún	
 Xiaochang (town)	小厂镇	小廠鎮	Xiǎochǎngzhèn	Síu-chóng-jan	
 Xiaochang Township	小厂乡	小廠鄉	Xiǎochǎng Xiāng	Síu-chóng Hēung	
-Xiaocheng- (town)	小城镇	小城鎮	Xiǎochéng-zhèn	Síu-sìhng-jan	
 Xiaocheng (town)	筱埕镇	筱埕鎮	Xiǎochéngzhèn	Síu-chìhng-jan	
 Xiaochen Township	小陈乡	小陳鄉	Xiǎochén Xiāng	Síu-chàhn Hēung	
 Xiaochi (town)	小池镇	小池鎮	Xiǎochízhèn	Síu-chìh-jan	

@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2020-05-08
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2020-05-17
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -4839,6 +4839,7 @@
 博爾特 博尔特 [Bo2 er3 te4] /Boldt/
 博爾滕 博尔滕 [Bo2 er3 teng2] /Bolten/
 博爾西帕 博尔西帕 [Bo2 er3 xi1 pa4] /Borsippa/
+博爾扎諾 博尔扎诺 [Bo2 er3 zha1 nuo4] /Bolzano/
 伯巴拉 伯巴拉 [Bo2 ba1 la1] /Beth-barah/
 博白縣 博白县 [Bo2 bai2_Xian4] /Bobai (county, in Guangxi)/
 伯班克 伯班克 [Bo2 ban1 ke4] /Burbank/
@@ -9375,6 +9376,7 @@
 法特鎮 法特镇 [Fa3 te4 zhen4] /Fate (town)/
 法瓦爾 法瓦尔 [Fa3 wa3 er3] /Favale/
 法維奧 法维奥 [Fa3 wei2 ao4] /Fabio/
+法維奧拉 法维奥拉 [Fa3 wei2 ao4 la1] /Fabiola/
 法維爾 法维尔 [Fa3 wei2 er3] /Faville/
 法韋爾 法韦尔 [Fa3 wei2 er3] /Farwell/
 法維拉 法维拉 [Fa3 wei2 la1] /Faviana/
@@ -9929,6 +9931,7 @@
 丰縣 丰县 [Feng1_Xian4] /Feng County/County, Feng/
 楓邊鄉 枫边乡 [Feng1 bian1_Xiang1] /Fengbian Township/Township, Fengbian/
 丰產鄉 丰产乡 [Feng1 chan3_Xiang1] /Fengchan Township/Township, Fengchan/
+丰巢 丰巢 [Feng1 chao2] /Hive Box (locker company)/
 風車星系 风车星系 [Feng1 che1_Xing1 xi4] /Pinwheel Galaxy/Galaxy, Pinwheel/
 丰城 丰城 [Feng1 cheng2] /Fengcheng (in Jiangxi)/
 丰城市 丰城市 [Feng1 cheng2_Shi4] /Fengcheng (in Jiangxi)/
@@ -13191,7 +13194,7 @@
 含族 含族 [Han2 zu2] /Hamites/
 含族人 含族人 [Han2 zu2 ren2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2020-05-08/this is version 2020-05-08, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2020-05-17/this is version 2020-05-17, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢比 汉比 [Han4 bi3] /Hamby/
@@ -13268,6 +13271,7 @@
 漢威爾 汉威尔 [Han4 wei1 er3] /Hywel/
 旱溪夜市 旱溪夜市 [Han4 xi1_Ye4 shi4] /Hanxi Night Market (in Taichung)/Night Market, Hanxi (in Taichung)/
 瀚仙鎮 瀚仙镇 [Han4 xian1 zhen4] /Hanxian (town)/
+漢杏 汉杏 [Han4 xing4] /Hannchen/
 漢薛鎮 汉薛镇 [Han4 xue1 zhen4] /Hanxue (town)/
 漢陽區 汉阳区 [Han4 yang2_Qu1] /Hanyang District/District, Hanyang/
 漢陰縣 汉阴县 [Han4 yin1_Xian4] /Hanyin (county, in Shaanxi)/
@@ -17443,6 +17447,7 @@
 卡莉 卡莉 [Ka3 li4] /Carly/
 卡利安 卡利安 [Ka3 li4 an1] /Kalyan/
 卡利奧 卡利奥 [Ka3 li4 ao4] /Kallio/
+卡麗恩 卡丽恩 [Ka3 li4 en1] /Karyn/
 卡莉恩 卡莉恩 [Ka3 li4 en1] /Kalyn/
 卡利巴 卡利巴 [Ka3 li4 ba1] /Kariba/
 卡利班 卡利班 [Ka3 li4 ban1] /Caliban/
@@ -18831,6 +18836,7 @@
 克柳切夫 克柳切夫 [Ke4 liu3 qie4 fu1] /Kamchatka/
 克龍 克龙 [Ke4 long2] /Cron/
 克隆德 克隆德 [Ke4 long2 de2] /Klunder/
+克隆氏症 克隆氏症 [Ke4 long2 shi4 zheng4] /Crohn's disease/disease, Crohn's/
 克婁巴特拉 克娄巴特拉 [Ke4 lou2 ba1 te4 la1] /Cleopatra/
 克盧 克卢 [Ke4 lu2] /Klugh/
 克盧爾 克卢尔 [Ke4 lu2 er3] /Clure/
@@ -20215,6 +20221,7 @@
 勒梅 勒梅 [Le4 mei2] /Lemay/
 勒蒙 勒蒙 [Le4 meng2] /Lemon (name)/
 勒米特 勒米特 [Le4 mi3 te4] /Lamit/
+勒納 勒纳 [Le4 na4] /Lerner/
 勒努瓦 勒努瓦 [Le4 nu3 wa3] /Lenoir/
 勒潘特 勒潘特 [Le4 pan1 te4] /Le Painctre/Painctre, Le/
 樂平 乐平 [Le4 ping2] /Leping (in Jiangxi)/
@@ -24518,6 +24525,7 @@
 蒙戈莫 蒙戈莫 [Meng2 ge1 mo4] /Mongomo/
 蒙古人 蒙古人 [Meng2 gu3 ren2] /Mongols/Mongolian people/
 濛江鄉 濛江乡 [Meng2 jiang1_Xiang1] /Mengjiang Township/Township, Mengjiang/
+蒙卡達 蒙卡达 [Meng2 ka3 da2] /Moncada/
 蒙克 蒙克 [Meng2 ke4] /Munch (surname)/
 蒙羅維亞 蒙罗维亚 [Meng2 luo2 wei2 ya4] /Monrovia/
 蒙茅斯 蒙茅斯 [Meng2 mao2 si1] /Monmouth/
@@ -27478,6 +27486,7 @@
 普拉 普拉 [Pu3 la1] /Purah/
 普拉爾 普拉尔 [Pu3 la1 er3] /Prahl/
 普拉茨 普拉茨 [Pu3 la1 ci2] /Platz/
+普拉德拉斯 普拉德拉斯 [Pu3 la1 de2 la1 si1] /Praderas/
 普拉蒂巴 普拉蒂巴 [Pu3 la1 di4 ba1] /Pratibha/
 普拉蒂亞 普拉蒂亚 [Pu3 la1 di4 ya4] /Plataea/
 普拉東 普拉东 [Pu3 la1 dong1] /Platon/
@@ -29045,6 +29054,7 @@
 薩拉特 萨拉特 [Sa4 la1 te4] /Surratt/
 薩拉托夫 萨拉托夫 [Sa4 la1 tuo1 fu1] /Saratov/
 薩拉托夫市 萨拉托夫市 [Sa4 la1 tuo1 fu1_Shi4] /Saratov (city)/
+薩拉希 萨拉希 [Sa4 la1 xi1] /Sarahi/
 薩拉耶夫 萨拉耶夫 [Sa4 la1 ye1 fu1] /Salayev/
 薩拉伊 萨拉伊 [Sa4 la1 yi1] /Salay/
 薩萊納 萨莱纳 [Sa4 lai2 na4] /Salina/
@@ -30308,6 +30318,7 @@
 省人大 省人大 [Sheng3 Ren2 Da4] /Provincial People's Congress/People's Congress, Provincial/<PRC>/
 聖安德烈 圣安德烈 [Sheng4_An1 de2 lie4] /Sant’Andrea/
 聖安德烈十字 圣安德烈十字 [Sheng4_An1 de2 lie4_shi2 zi4] /St. Andrew's cross (X)/Andrew's cross, St. (X)/
+聖安娜 圣安娜 [Sheng4_An1 na4] /Santana/
 聖彼得堡 圣彼得堡 [Sheng4_Bi3 de2 bao3] /St. Petersburg/Petersburg, St./
 聖華倫泰 圣华伦泰 [Sheng4_Hua2 lun2 tai4] /St. Valentine/Valentine, St./
 聖凱瑟琳修道院 圣凯瑟琳修道院 [Sheng4_Kai3 se4 lin2_Xiu1 dao4 yuan4] /St. Catherine's Monastery/Catherine's Monastery, St./
@@ -31289,6 +31300,7 @@
 斯彭斯 斯彭斯 [Si1 peng2 si1] /Spence/
 斯皮爾 斯皮尔 [Si1 pi2 er3] /Speare/
 斯皮爾伯格 斯皮尔伯格 [Si1 pi2 er3 bo2 ge2] /Spielberg/
+斯皮爾曼 斯皮尔曼 [Si1 pi2 er3 man4] /Spearman/
 斯皮爾斯 斯皮尔斯 [Si1 pi2 er3 si1] /Spears (name)/
 斯皮德 斯皮德 [Si1 pi2 de2] /Speed (name)/
 斯皮克 斯皮克 [Si1 pi2 ke4] /Speke/
@@ -33441,6 +33453,7 @@
 圖埃斯 图埃斯 [Tu2 ai1 si1] /Tueti/
 圖奧莫 图奥莫 [Tu2 ao4 mo4] /Tuomo/
 圖恩 图恩 [Tu2 en1] /Thun/
+圖恩卡拉 图恩卡拉 [Tu2 en1 ka3 la1] /Tounkara/
 圖爾克 图尔克 [Tu2 er3 ke4] /Tuerk/
 圖爾庫 图尔库 [Tu2 er3 ku4] /Turku/
 圖爾內斯 图尔内斯 [Tu2 er3 nei4 si1] /Tournes/
@@ -34338,6 +34351,7 @@
 維格里 维格里 [Wei2 ge2 li3] /Viguerie/
 韋格納 韦格纳 [Wei2 ge2 na4] /Wegner/
 維古魯 维古鲁 [Wei2 gu3 lu3] /Vigouroux/
+維漢加 维汉加 [Wei2 han4 jia1] /Vihanga/
 韋華第 韦华第 [Wei2 hua2 di4] /Vivaldi/
 維姬 维姬 [Wei2 ji1] /Vicky/Vicki/
 維基媒體 维基媒体 [Wei2 ji1_mei2 ti3] /Wikimedia/
@@ -35835,7 +35849,7 @@
 希拉曼書 希拉曼书 [Xi1 la1 man4 shu1] /Helaman (in Book of Mormon)/
 希拉姆 希拉姆 [Xi1 la1 mu3] /Hiram/
 西拉木倫河 西拉木伦河 [Xi1 la1 mu4 lun2_He2] /Xar Moron River/Moron River, Xar/
-希拉斯 希拉斯 [Xi1 la1 si1] /Hillas/
+希拉斯 希拉斯 [Xi1 la1 si1] /Hillas/Silas (modern)/
 西拉斯 西拉斯 [Xi1 la1 si1] /Silas (modern name in Africa etc)/
 西拉希雅 西拉希雅 [Xi1 la1 xi1 ya3] /Zerahiah/
 希臘正教會 希腊正教会 [Xi1 la4_Zheng4 jiao4 hui4] /Greek Orthodox Church/Orthodox Church, Greek/
@@ -35852,6 +35866,7 @@
 希蘭 希兰 [Xi1 lan2] /Hiram (Bible)/
 西蘭 西兰 [Xi1 lan2] /Siran/
 西蘭島 西兰岛 [Xi1 lan2 dao3] /Sjælland (island)/
+希蘭蒂 希兰蒂 [Xi1 lan2 di4] /Shiranthi/
 昔蘭尼 昔兰尼 [Xi1 lan2 ni2] /Cyrene/
 希勒 希勒 [Xi1 le4] /Helek/
 希勒爾 希勒尔 [Xi1 le4 er3] /Hillel/
@@ -36702,7 +36717,6 @@
 小廠鄉 小厂乡 [Xiao3 chang3_Xiang1] /Xiaochang Township/Township, Xiaochang/
 小廠鎮 小厂镇 [Xiao3 chang3 zhen4] /Xiaochang (town)/
 小陳鄉 小陈乡 [Xiao3 chen2_Xiang1] /Xiaochen Township/Township, Xiaochen/
-小城鎮 小城镇 [Xiao3 cheng2 zhen4] /Xiaocheng- (town)/
 筱埕鎮 筱埕镇 [Xiao3 cheng2 zhen4] /Xiaocheng (town)/
 小池鎮 小池镇 [Xiao3 chi2 zhen4] /Xiaochi (town)/
 小川鄉 小川乡 [Xiao3 chuan1_Xiang1] /Xiaochuan Township/Township, Xiaochuan/
@@ -42541,6 +42555,8 @@
 表達意見 表达意见 [biao3 da2_yi4 jian5] /express an opinion/opinion, express an/
 表觀基因 表观基因 [biao3 guan1_ji1 yin1] /epigenome/
 表觀基因組學 表观基因组学 [biao3 guan1_ji1 yin1 zu3_xue2] /epigenetics/
+表面活性劑 表面活性剂 [biao3 mian4_huo2 xing4 ji4] /surfactant/
+表面張力素 表面张力素 [biao3 mian4_zhang1 li4 su4] /surfactant/
 表皮層 表皮层 [biao3 pi2 ceng2] /epidermis/
 表情圖案 表情图案 [biao3 qing2_tu2 an4] /emoticon/
 表情圖標 表情图标 [biao3 qing2_tu2 biao1] /emoji/
@@ -42996,6 +43012,7 @@
 扯下 扯下 [che3 xia5] /pull off (one's body etc)/
 徹底搜查 彻底搜查 [che4 di3_sou1 cha2] /thorough search (of confiscated building)/search, thorough (of confiscated building)/
 沉到 沉到 [chen2 dao4] /sink down to/down to, sink/
+塵肺病 尘肺病 [chen2 fei4 bing4] /pneumoconiosis/
 晨更 晨更 [chen2 geng1] /morning watch/watch, morning/
 沉浸式 沉浸式 [chen2 jin4 shi4] /immersive/
 沉沒成本 沉没成本 [chen2 mo4_cheng2 ben3] /sunk cost/cost, sunk/
@@ -43773,6 +43790,7 @@
 點選 点选 [dian3 xuan3] /click on (something with mouse etc)/
 點陣式 点阵式 [dian3 zhen4 shi4] /dot-matrix type/type, dot-matrix/
 點陣式打印機 点阵式打印机 [dian3 zhen4 shi4_da3 yin4 ji1] /dot-matrix printer/printer, dot-matrix/
+點字樂譜 点字乐谱 [dian3 zi4_yue4 pu3] /Braille music/music, Braille/
 點字版 点字版 [dian3 zi4 ban3] /Braille edition/Braille format/edition, Braille/format, Braille/
 電壓力鍋 电压力锅 [dian4_ya1 li4 guo1] /electric pressure-cooker/pressure-cooker, electric/
 電錶房 电表房 [dian4 biao3 fang2] /meter room (electricity)/room, meter (electricity)/
@@ -44756,6 +44774,7 @@
 公開放棄 公开放弃 [gong1 kai1_fang4 qi4] /recantation/
 公開聲明 公开声明 [gong1 kai1_sheng1 ming2] /public declaration/declaration, public/
 公開宣讀 公开宣读 [gong1 kai1_xuan1 du2] /public reading/reading, public/
+公開課 公开课 [gong1 kai1 ke4] /open course (broadcast to public by university etc)/course, open (broadcast to public by university etc)/
 公驢 公驴 [gong1 lu:2] /ass/donkey/
 功率轉換效率 功率转换效率 [gong1 lu:4_zhuan3 huan4_xiao4 lu:4] /power conversion efficiency (of solar cells etc)/PCE/conversion efficiency, power/
 公綿羊 公绵羊 [gong1 mian2 yang2] /ram (male sheep)/
@@ -45209,6 +45228,7 @@
 黑監獄 黑监狱 [hei1_jian1 yu4] /black prison/prison, black/
 黑巧克力 黑巧克力 [hei1_qiao3 ke4 li4] /dark chocolate/chocolate, dark/
 黑樂譜 黑乐谱 [hei1_yue4 pu3] /black MIDI (ultra-short chords for percussive effect)/MIDI, black (ultra-short chords for percussive effect)/
+黑暗模式 黑暗模式 [hei1 an4_mo2 shi4] /dark mode/mode, dark/<comp.>/
 黑白照 黑白照 [hei1 bai2_zhao4] /black-and-white photograph/photograph, black-and-white/
 黑斑羚 黑斑羚 [hei1 ban1 ling2] /impala/
 黑帶 黑带 [hei1 dai4] /black belt/belt, black/
@@ -45684,6 +45704,8 @@
 家裡的事 家里的事 [jia1_li5_de5_shi4] /family matters/matters, family/
 加他 加他 [jia1_ta1] /add him (on QQ etc)/
 加我微信 加我微信 [jia1_wo3_Wei1 xin4] /add me on WeChat/WeChat, add me on/
+家暴 家暴 [jia1 bao4] /domestic abuse/domestic violence/abuse, domestic/violence, domestic/
+家暴受害者 家暴受害者 [jia1 bao4_shou4 hai4 zhe3] /victims of domestic abuse/domestic abuse, victims of/
 夾餅 夹饼 [jia1 bing3] /waffles/
 加插 加插 [jia1 cha1] /insert/include/
 加持 加持 [jia1 chi2] /blessing (in Buddhism etc?)/
@@ -46399,6 +46421,7 @@
 慷慨好客 慷慨好客 [kang1 kai3 hao4 ke4] /hospitable and generous/generous, hospitable and/
 扛抬 扛抬 [kang2 tai2] /carry on the shoulder/shoulder, carry on the/
 抗逆轉錄病毒藥物 抗逆转录病毒药物 [kang4_ni4 zhuan3 lu4_bing4 du2_yao4 wu4] /antiretroviral drugs/ARVs/drugs, antiretroviral/
+抗壓能力 抗压能力 [kang4_ya1_neng2 li4] /resilience (person's ability to resist pressure)/
 抗菌 抗菌 [kang4 jun1] /antibacterial/
 抗菌布料 抗菌布料 [kang4 jun1_bu4 liao4] /antibacterial cloth/cloth, antibacterial/
 抗壓性 抗压性 [kang4 ya1 xing4] /resilience (to pressure etc)/
@@ -46795,6 +46818,7 @@
 連繫 连系 [lian2 xi4] /link (variant?)/
 聯系到 联系到 [lian2 xi4_dao4] /reach/contact (a person)/
 聯系上 联系上 [lian2 xi4_shang5] /get in contact (with)/contact, get in (with)/
+連線參加 连线参加 [lian2 xian4_can1 jia1] /tie in (to a meeting)/attend online/
 連小區 连小区 [lian2 xiao3 qu1] /district chain (in some cities)/chain, district (in some cities)/
 鐮狀細胞性貧血 镰状细胞性贫血 [lian2 zhuang4_xi4 bao1_xing4_pin2 xie3] /sickle-cell anemia/anemia, sickle-cell/
 廉租住房 廉租住房 [lian2 zu1_zhu4 fang2] /low-rent housing/housing, low-rent/<PRC>/
@@ -46851,6 +46875,7 @@
 聊一聊 聊一聊 [liao2_yi5_liao2] /chat/talk informally etc/
 聊天群 聊天群 [liao2 tian1 qun2] /chat group (on Internet etc)/group, chat (on Internet etc)/
 瞭如指掌 瞭如指掌 [liao3 ru2 zhi3 zhang3] /know like the back of one's hand (variant)/like the back of one's hand, know (variant)/
+列名單 列名单 [lie4_ming2 dan1] /make a list of names/list of names, make a/
 列邦 列邦 [lie4 bang1] /lineup of nations/nations, lineup of/
 裂鼻 裂鼻 [lie4 bi2] /nose slit/slit, nose/
 劣跡昭彰 劣迹昭彰 [lie4 ji4 zhao1 zhang1] /notorious (of criminals; lit. misdeeds manifest)/
@@ -47335,6 +47360,7 @@
 默認字體 默认字体 [mo4 ren4_zi4 ti3] /default font/font, default/
 末日教派 末日教派 [mo4 ri4_jiao4 pai4] /"doomsday cults"/cults", "doomsday/
 黙殺 黙杀 [mo4 sha1] /silent treatment (Japanese version)/treatment, silent (Japanese version)/
+陌生單詞 陌生单词 [mo4 sheng1_dan1 ci2] /unfamiliar word/word, unfamiliar/
 末時 末时 [mo4 shi2] /time of the end/
 末世論 末世论 [mo4 shi4 lun4] /eschatology/
 末世學 末世学 [mo4 shi4 xue2] /eschatology/
@@ -47661,6 +47687,8 @@
 排位賽 排位赛 [pai2 wei4 sai4] /qualifying race (to determine one's position in another)/race, qualifying (to determine one's position in another)/
 排序函數 排序函数 [pai2 xu4_han2 shu4] /sort function/function, sort/<comp.>/
 派到 派到 [pai4 dao4] /dispatch to (a place)/
+派得上 派得上 [pai4 de5 shang4] /come to be (useful etc)/
+派得上用場 派得上用场 [pai4 de5 shang4_yong4 chang3] /be useful (of tool, ability etc)/useful, be (of tool, ability etc)/
 派遞 派递 [pai4 di4] /delivery/<HK?>/
 派克瑞特 派克瑞特 [pai4 ke4 rui4 te4] /pykrete/
 派來 派来 [pai4 lai5] /send to come (here)/come, send to (here)/
@@ -47682,6 +47710,7 @@
 旁友 旁友 [pang2 you5] /friend/<netspeak>/
 旁柱 旁柱 [pang2 zhu4] /side pillars/pillars, side/
 拋到 抛到 [pao1 dao4] /throw to/
+拋接 抛接 [pao1 jie1] /throw and catch/juggle (a ball)/catch, throw and (a ball)/
 抛進 抛进 [pao1 jin4] /throw into/
 抛入 抛入 [pao1 ru4] /throw into/
 拋散 抛散 [pao1 san4] /parcel out (breaking something up into parts when allocating territory etc)/
@@ -47887,6 +47916,8 @@
 企業孵化器 企业孵化器 [qi3 ye4_fu1 hua4 qi4] /startup incubator/incubator, startup/
 企業決策 企业决策 [qi3 ye4_jue2 ce4] /business decision/decision, business/
 企業社會責任 企业社会责任 [qi3 ye4_she4 hui4_ze2 ren4] /corporate social responsibility/social responsibility, corporate/
+企業資源規劃 企业资源规划 [qi3 ye4_zi1 yuan2_gui1 hua4] /enterprise resource planning/ERP/resource planning, enterprise/
+企業資源計劃 企业资源计划 [qi3 ye4_zi1 yuan2_ji4 hua4] /enterprise resource planning/ERP/resource planning, enterprise/
 起源于 起源于 [qi3 yuan2 yu2] /originates|derives from/can be traced to/from, originates|derives/traced to, can be/
 起重機械 起重机械 [qi3 zhong4 ji1 xie4] /lifting equipment/equipment, lifting/
 棄惡擇善 弃恶择善 [qi4 e4 ze2 shan4] /choose what is right and avoid what is wrong/what is right and avoid what is wrong, choose/
@@ -48233,6 +48264,7 @@
 人道主義者 人道主义者 [ren2 dao4 zhu3 yi4 zhe3] /humanist (person)/
 人工池 人工池 [ren2 gong1 chi2] /the pool that had been made/pool that had been made, the/
 人際交往 人际交往 [ren2 ji4_jiao1 wang3] /relationships (between people)/
+人間有真情 人间有真情 [ren2 jian1_you3_zhen1 qing2] /human kindness is everywhere/kindness is everywhere, human/
 人艱不拆 人艰不拆 [ren2 jian1 bu4 chai1] /best not mention as life is hard enough already/mention as life is hard enough already, best not/<netspeak>/
 人口稠密的地區 人口稠密的地区 [ren2 kou3_chou2 mi4_de5_di4 qu1] /densely populated areas/populated areas, densely/
 人口登記 人口登记 [ren2 kou3_deng1 ji4] /registration/
@@ -48384,6 +48416,7 @@
 卅三 卅三 [sa4 san1] /thirty-three/<Cant.>/
 卅四 卅四 [sa4 si4] /thirty-four/<Cant.>/
 薩它爾 萨它尔 [sa4 ta1 er3] /sataer (Uyghur lute)/
+薩瓦迪卡 萨瓦迪卡 [sa4 wa3 di2_ka3] /sawatdee kha (transliteration of Thai female greeting)/
 卅五 卅五 [sa4 wu3] /thirty-five/<Cant.>/
 卅一 卅一 [sa4 yi1] /thirty-one/<Cant.>/
 塞進 塞进 [sai1 jin4] /stuff|block-up into (the midst of)/
@@ -49158,6 +49191,8 @@
 雙乳 双乳 [shuang1 ru3] /two breasts/breasts, two/
 雙腿 双腿 [shuang1 tui3] /pair of legs/legs, pair of/
 雙桅帆船 双桅帆船 [shuang1 wei2_fan1 chuan2] /two-masted sailing boat/ketch/sailing boat, two-masted/
+雙穩態 双稳态 [shuang1 wen3 tai4] /bistable/
+雙穩態結構 双稳态结构 [shuang1 wen3 tai4_jie2 gou4] /bistable structure/structure, bistable/
 雙向圖 双向图 [shuang1 xiang4 tu2] /ambigram/
 雙性戀者 双性恋者 [shuang1 xing4 lian4 zhe3] /bisexual (person)/
 雙語新聞 双语新闻 [shuang1 yu3_xin1 wen2] /bilingual news/news, bilingual/
@@ -49696,6 +49731,7 @@
 頭帶 头带 [tou2 dai4] /headband/
 投遞箱 投递箱 [tou2 di4 xiang1] /delivery box (for mail, forms etc)/
 頭髮變白 头发变白 [tou2 fa5_bian4_bai2] /hair turning grey or white/gray hair/turning grey or white, hair/
+頭發修剪器 头发修剪器 [tou2 fa5_xiu1 jian3 qi4] /hair clipper/clipper, hair/
 投行 投行 [tou2 hang2] /investment banking (abbreviated version)/banking, investment (abbreviated version)/
 頭環 头环 [tou2 huan2] /headband/
 頭昏腦漲 头昏脑涨 [tou2 hun1 nao3 zhang4] /muddled/
@@ -50353,11 +50389,13 @@
 先森 先森 [xian1 sen1] /Mr/<netspeak>/
 先天愚型 先天愚型 [xian1 tian1_yu2_xing2] /Down's syndrome (improper term? lit. congenital stupidity)/syndrome, Down's (improper term? lit. congenital stupidity)/
 纖維肌痛症 纤维肌痛症 [xian1 wei2_ji1 tong4_zheng4] /fibromyalgia (lit. fibre muscle-pain disease)/
+纖維腺瘤 纤维腺瘤 [xian1 wei2 xian4 liu2] /fibroadenoma (type of cancers)/
 先行開路 先行开路 [xian1 xing2_kai1 lu4] /forerunner/
 先這樣 先这样 [xian1 zhe4 yang4] /that's all for now/
 先知爾撒 先知尔撒 [xian1 zhi1_Er3 sa1] /the prophet Isa (Islamic name for Jesus)/prophet Isa, the (Islamic name for Jesus)/
 先知們 先知们 [xian1 zhi1 men5] /prophets (plural)/
 先知書 先知书 [xian1 zhi1 shu1] /Prophets (books)/
+先准后快 先准后快 [xian1 zhun3 hou4 kuai4] /accuracy before speed (in language learning)/before speed, accuracy (in language learning)/
 鹹牛肉 咸牛肉 [xian2_niu2 rou4] /corned beef/beef, corned/
 咸草 咸草 [xian2 cao3] /salt herb/herb, salt/
 閑愁 闲愁 [xian2 chou2] /worry during free time/during free time, worry/
@@ -50765,6 +50803,7 @@
 修道院院長 修道院院长 [xiu1 dao4 yuan4_yuan4 zhang3] /prelate/archimandrite/abbot/
 修復工作 修复工作 [xiu1 fu4_gong1 zuo4] /restoration work (on a building etc)/work, restoration (on a building etc)/
 修高 修高 [xiu1 gao1] /elevate (a road etc) (?)/
+修剪器 修剪器 [xiu1 jian3 qi4] /clipper/trimmer/
 修理店 修理店 [xiu1 li3 dian4] /repair shop/shop, repair/
 修理員 修理员 [xiu1 li3 yuan2] /repairman/
 修例 修例 [xiu1 li4] /amendment (law)/
@@ -51790,6 +51829,7 @@
 戰衣 战衣 [zhan4 yi1] /war garments/garments, war/
 占有率 占有率 [zhan4 you3 lu:4] /share (of market etc)/
 張網子 张网子 [zhang1_wang3 zi5] /spread a net/
+張力素 张力素 [zhang1 li4 su4] /surfactant/
 章數 章数 [zhang1 shu4] /chapter number/number, chapter/
 長知識 长知识 [zhang3_zhi1 shi5] /get knowledge/learn something/knowledge, get/something, learn/
 漲到 涨到 [zhang3 dao4] /rise up to (of liquid etc?)/
