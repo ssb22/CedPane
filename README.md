@@ -49,6 +49,7 @@ I also have a separate collection of Chinese words that _are_ in typical diction
 
 CedPane is public-domain but this Readme file is © Silas S. Brown and may be reproduced as-is.
 Twitter and Tweet are trademarks of Twitter Inc.
+Twitter and Tweet are trademarks of Twitter Inc.
 Accenture is a trademark of Accenture Global Services Ltd.
 Android is a trademark of Google LLC.
 Apache is a registered trademark of The Apache Software Foundation.

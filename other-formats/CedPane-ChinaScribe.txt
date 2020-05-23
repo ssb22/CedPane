@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2020-05-18
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2020-05-23
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -3338,6 +3338,7 @@
 巴施戶珥 巴施户珥 [Ba1 shi1 hu4 er3] /Pashhur/
 八十八鄉 八十八乡 [Ba1 shi2 ba1_Xiang1] /Bashiba Township/Township, Bashiba/
 巴什基爾語 巴什基尔语 [Ba1 shi2 ji1 er3 yu3] /Bashkir (language)/
+巴什基洛夫 巴什基洛夫 [Ba1 shi2 ji1 luo4 fu1] /Bashkirov/
 巴什科爾托斯坦 巴什科尔托斯坦 [Ba1 shi2 ke1 er3 tuo1 si1 tan3] /Bashkortostan/
 巴什科爾托斯坦共和國 巴什科尔托斯坦共和国 [Ba1 shi2 ke1 er3 tuo1 si1 tan3_Gong4 he2 guo2] /Republic of Bashkortostan/Bashkortostan, Republic of/
 巴實抹 巴实抹 [Ba1 shi2 mo3] /Basemath/
@@ -3841,7 +3842,7 @@
 寶庫鄉 宝库乡 [Bao3 ku4_Xiang1] /Baoku Township/Township, Baoku/
 保拉 保拉 [Bao3 la1] /Paula/
 寶拉 宝拉 [Bao3 la1] /Paula/Paola/
-葆拉 葆拉 [Bao3 la1] /Paola/
+葆拉 葆拉 [Bao3 la1] /Paola/Paula/
 寶萊特 宝莱特 [Bao3 lai2 te4] /Paulette/
 寶萊塢 宝莱坞 [Bao3 lai2 wu4] /Bollywood/
 保利 保利 [Bao3 li4] /Paoli/Paulie/
@@ -6036,6 +6037,7 @@
 采桑鎮 采桑镇 [Cai3 sang1 zhen4] /Caisang (town)/
 彩塘鎮 彩塘镇 [Cai3 tang2 zhen4] /Caitang (town)/
 彩亭橋鎮 彩亭桥镇 [Cai3 ting2 qiao2 zhen4] /Caitingqiao (town)/
+蔡英文 蔡英文 [Cai4_Ying1 wen2] /Tsai Ing-wen (Taiwan leader 2016)/Ing-wen, Tsai (Taiwan leader 2016)/
 蔡太太 蔡太太 [Cai4_tai4 tai5] /Mrs Cai/
 蔡先生 蔡先生 [Cai4_xian1 sheng5] /Mr Cai/
 蔡鍔鄉 蔡锷乡 [Cai4 e4_Xiang1] /Cai'e Township/Township, Cai'e/
@@ -8203,6 +8205,7 @@
 鄧莊鎮 邓庄镇 [Deng4 zhuang1 zhen4] /Dengzhuang (town)/
 堤村鄉 堤村乡 [Di1 cun1_Xiang1] /Dicun Township/Township, Dicun/
 滴道區 滴道区 [Di1 dao4_Qu1] /Didao District/District, Didao/
+滴滴云 滴滴云 [Di1 di1 yun2] /DiDi Cloud (cloud-computing service)/Cloud, DiDi (cloud-computing service)/
 低地德語 低地德语 [Di1 di4_De2 yu3] /Low German/German, Low/
 低加波利 低加波利 [Di1 jia1 bo1 li4] /Decapolis (old translation?)/
 低莊鎮 低庄镇 [Di1 zhuang1 zhen4] /Dizhuang (town)/
@@ -13876,7 +13879,7 @@
 含族 含族 [Han2 zu2] /Hamites/
 含族人 含族人 [Han2 zu2 ren2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2020-05-18/this is version 2020-05-18, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2020-05-23/this is version 2020-05-23, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢比 汉比 [Han4 bi3] /Hamby/
@@ -18599,6 +18602,7 @@
 卡文迪許 卡文迪许 [Ka3 wen2 di2 xu3] /Cavendish/
 卡翁德語 卡翁德语 [Ka3 weng1 de2 yu3] /Kikaonde (language)/
 卡烏達 卡乌达 [Ka3 wu1 da2] /Cauda/
+卡烏托 卡乌托 [Ka3 wu1 tuo1] /Cavuto/
 卡茜 卡茜 [Ka3 xi1] /Cassie/
 卡西 卡西 [Ka3 xi1] /Cassie/
 卡錫 卡锡 [Ka3 xi1] /Carthy/
@@ -28218,6 +28222,7 @@
 佩季 佩季 [Pei4 ji4] /Peti/
 佩卡 佩卡 [Pei4 ka3] /Pekka/
 佩克 佩克 [Pei4 ke4] /Peck (name)/
+佩克漢姆 佩克汉姆 [Pei4 ke4 han4 mu3] /Peckham/
 佩克斯 佩克斯 [Pei4 ke4 si1] /Pakes/
 佩拉 佩拉 [Pei4 la1] /Pella/
 佩拉爾 佩拉尔 [Pei4 la1 er3] /Peral/
@@ -42961,6 +42966,7 @@
 中港澳 中港澳 [Zhong1 Gang3 Ao4] /China-Hong Kong-Macau (before handover?)/Kong-Macau, China-Hong (before handover?)/
 中西方 中西方 [Zhong1 Xi1 fang1] /China-Western (contrasts etc)/
 中英筆譯 中英笔译 [Zhong1 Ying1_bi3 yi4] /Chinese-English translation (written)/translation, Chinese-English (written)/
+中英對照 中英对照 [Zhong1 Ying1_dui4 zhao4] /Chinese-English comparison (interlinear etc)/comparison, Chinese-English (interlinear etc)/
 中英翻譯 中英翻译 [Zhong1 Ying1_fan1 yi4] /Chinese-English translation/translation, Chinese-English/
 中英國際 中英国际 [Zhong1 Ying1_guo2 ji4] /Sino-British/UK-China (of institution)/
 中英兩地 中英两地 [Zhong1 Ying1_liang3_di4] /both China and the UK/China and the UK, both/
@@ -44422,6 +44428,7 @@
 查一下 查一下 [cha2_yi1 xia4] /check it/look into/
 查案審判 查案审判 [cha2 an4_shen3 pan4] /"investigative judgment" (SDA teaching)/judgment", "investigative (SDA teaching)/
 茶包 茶包 [cha2 bao1] /tea bag/
+茶煲 茶煲 [cha2 bao1] /trouble/<loan, Cantonese>/
 查查 查查 [cha2 cha5] /search (manually)/
 察德 察德 [cha2 de2] /tsadheh/tsadi (Hebrew letter)/
 叉電器 叉电器 [cha2 dian4 qi4] /charger/<Cantonese>/
@@ -44725,6 +44732,7 @@
 臭你媽 臭你妈 [chou4_ni3_ma1] /your mother stinks/mother stinks, your/<vulgar>/
 臭草 臭草 [chou4 cao3] /stinking weeds/weeds, stinking/
 出埃及 出埃及 [chu1_Ai1 ji2] /exodus (deliverance from Egypt)/
+出包 出包 [chu1 bao1] /trouble/<loan, TW>/
 初步投票 初步投票 [chu1 bu4_tou2 piao4] /preliminary vote/vote, preliminary/
 出廠設置 出厂设置 [chu1 chang3_she4 zhi4] /factory default (setting)/default, factory (setting)/
 初創企業 初创企业 [chu1 chuang4_qi3 ye4] /startup (business)/
@@ -44783,6 +44791,7 @@
 穿進 穿进 [chuan1 jin4] /pierce into (side of ark of covenant)/
 穿上愛 穿上爱 [chuan1 shang5_ai4] /clothe (yourselves with) love/love, clothe/
 穿引 穿引 [chuan1 yin3] /to thread (in sewing)/thread, to (in sewing)/
+穿著打扮 穿着打扮 [chuan1 zhuo2_da3 ban5] /dress and grooming/grooming, dress and/
 船到橋門自然直 船到桥门自然直 [chuan2_dao4_qiao2_men2_zi4 ran2_zhi2] /problem won't be there when you come to it (lit. boat arrive bridge gate naturally straight)/won't be there when you come to it, problem (lit. boat arrive bridge gate naturally straight)/
 傳播花粉 传播花粉 [chuan2 bo1_hua1 fen3] /pollination/
 傳播媒介 传播媒介 [chuan2 bo1_mei2 jie4] /press (news media)/
@@ -45128,6 +45137,7 @@
 單線程 单线程 [dan1 xian4 cheng2] /single-threaded/<comp.>/
 單行路 单行路 [dan1 xing2 lu4] /one-way street (old way of saying it)/street, one-way (old way of saying it)/
 丹顏 丹颜 [dan1 yan2] /crimson (old translation?)/
+單一數據源 单一数据源 [dan1 yi1_shu4 ju4 yuan2] /single source of truth/source of truth, single/<comp.|database>/
 單元素 单元素 [dan1 yuan2 su4] /single-element (tuple, set etc)/
 單元素集合 单元素集合 [dan1 yuan2 su4_ji2 he2] /singleton/<math.>/
 單褶 单褶 [dan1 zhe3] /pleated (trousers style)/
@@ -45302,6 +45312,7 @@
 地理學家 地理学家 [di4 li3 xue2 jia1] /geographer/
 地球的磁場 地球的磁场 [di4 qiu2_de5_ci2 chang3] /earth's magnetic field/magnetic field, earth's/
 地球的年齡 地球的年龄 [di4 qiu2_de5_nian2 ling2] /age of the earth/earth, age of the/
+地球化 地球化 [di4 qiu2 hua4] /terraform/<sci-fi>/
 地區辦事處 地区办事处 [di4 qu1_ban4 shi4 chu4] /country office (lit. area office)/office, country (lit. area office)/
 地區的歷史 地区的历史 [di4 qu1_de5_li4 shi3] /history of the area/local history/area, history of the/
 地區戰爭 地区战争 [di4 qu1_zhan4 zheng1] /regional wars/wars, regional/
@@ -45370,6 +45381,7 @@
 電解質溶液 电解质溶液 [dian4 jie3 zhi4_rong2 ye4] /electrolyte solution/solution, electrolyte/
 電解質飲料 电解质饮料 [dian4 jie3 zhi4_yin3 liao4] /electrolyte drink/sports drink/drink, electrolyte/
 電競 电竞 [dian4 jing4] /E-sports (video-game competitions)/
+電鏡 电镜 [dian4 jing4] /electron microscope (abbreviation)/microscope, electron (abbreviation)/
 電絕緣 电绝缘 [dian4 jue2 yuan2] /electrically insulating/insulating, electrically/
 電烙術 电烙术 [dian4 lao4 shu4] /electrocautery/
 電力短缺 电力短缺 [dian4 li4_duan3 que1] /power shortage (electrical)/shortage, power (electrical)/
@@ -45626,6 +45638,7 @@
 多了解一點 多了解一点 [duo1_liao3 jie3_yi1 dian3] /dig deeper/understand a bit more/deeper, dig/more, understand a bit/
 多年前 多年前 [duo1_nian2_qian2] /many years ago/years ago, many/
 多人參與 多人参与 [duo1_ren2_can1 yu4] /multiplayer/more participants/
+多小節休止 多小节休止 [duo1_xiao3 jie2_xiu1 zhi3] /multi-bar rest/rest, multi-bar/<mus.>/
 多走一里路 多走一里路 [duo1_zou3_yi1_li3_lu4] /"go the extra mile"/extra mile", "go the/
 多而又多 多而又多 [duo1 er2 you4 duo1] /more and yet more/
 多重宇宙論 多重宇宙论 [duo1 chong2_yu3 zhou4_lun4] /multiverse theory/many-universe theory/theory, multiverse/
@@ -45802,12 +45815,14 @@
 反邪教 反邪教 [fan3_xie2 jiao4] /anticult/
 反安慰劑 反安慰剂 [fan3 an1 wei4 ji4] /nocebo/
 反安慰劑效應 反安慰剂效应 [fan3 an1 wei4 ji4_xiao4 ying4] /nocebo effect/effect, nocebo/
+反華勢力 反华势力 [fan3 Hua2_shi4 li5] /anti-China influence/influence, anti-China/
 反英 反英 [fan3 Ying1] /anti-British/
 反查 反查 [fan3 cha2] /reverse lookup/lookup, reverse/
 反法西斯 反法西斯 [fan3 fa3 xi1 si1] /anti-Fascist/
 反法西斯主義 反法西斯主义 [fan3 fa3 xi1 si1 zhu3 yi4] /anti-fascist/
 反覆無常 反复无常 [fan3 fu4 wu2 chang2] /arbitrary/capricious/
 反光貼紙 反光贴纸 [fan3 guang1_tie1 zhi3] /reflective sticker/sticker, reflective/
+返利 返利 [fan3 li4] /rebate/
 反流 反流 [fan3 liu2] /reflux/
 反權威 反权威 [fan3 quan2 wei1] /antiauthority/
 反吐麗蠅 反吐丽蝇 [fan3 tu3 li4 ying2] /bluebottle (fly)/
@@ -46127,6 +46142,7 @@
 乾槽症 干槽症 [gan1 cao2 zheng4] /dry socket (dental condition)/socket, dry (dental condition)/
 乾地 干地 [gan1 di4] /dry land/land, dry/
 尷尬場面 尴尬场面 [gan1 ga4_chang3 mian4] /embarrassing moments/moments, embarrassing/
+乾鍋 干锅 [gan1 guo1] /dry-pot (dish)/
 乾淨 干淨 [gan1 jing4] /clean/neat and tidy (variant)/
 乾葡萄 干葡萄 [gan1 pu2 tao5] /dried grapes/grapes, dried/
 乾乳酪 干乳酪 [gan1 ru3 lao4] /(dry) cheese/
@@ -46356,6 +46372,7 @@
 工作崗位 工作岗位 [gong1 zuo4_gang3 wei4] /job post/assignment/post, job/
 工作清單 工作清单 [gong1 zuo4_qing1 dan1] /to-do list/list, to-do/
 工作任務 工作任务 [gong1 zuo4_ren4 wu5] /work assignment/assignment, work/
+工作態度 工作态度 [gong1 zuo4_tai4 du5] /work ethic/work attitude/ethic, work/attitude, work/
 工作特征模型 工作特征模型 [gong1 zuo4_te4 zheng1_mo2 xing2] /job characteristics model/characteristics model, job/
 工作小組 工作小组 [gong1 zuo4_xiao3 zu3] /working group/group, working/
 工作間 工作间 [gong1 zuo4 jian1] /workshop/workstation (in open-plan office etc)/
@@ -46572,6 +46589,8 @@
 滾粗 滚粗 [gun3 cu1] /(vulgar) get lost!/lost!, get/<netspeak>/
 滾到 滚到 [gun3 dao4] /roll toward/toward, roll/
 滾回 滚回 [gun3 hui2] /roll back (lit. roll return)/back, roll (lit. roll return)/
+鍋從天上來 锅从天上来 [guo1_cong2_tian1 shang5_lai2] /blamed for no reason/reason, blamed for no/<netspeak?>/
+鍋從天降 锅从天降 [guo1 cong2 tian1 jiang4] /blamed for no reason/reason, blamed for no/<netspeak?>/
 鍋氣 锅气 [guo1 qi4] /wok flavour/flavour, wok/
 國與國 国与国 [guo2_yu3_guo2] /between countries/countries, between/
 國樂團 国乐团 [guo2_yue4 tuan2] /Chinese orchestra (TW)/orchestra, Chinese (TW)/
@@ -47550,6 +47569,7 @@
 街道地圖 街道地图 [jie1 dao4_di4 tu2] /road map/
 接地插腳 接地插脚 [jie1 di4_cha1 jiao3] /grounding pin/earth pin (on a plug)/pin, grounding (on a plug)/<elec.>/
 接骨木花 接骨木花 [jie1 gu3 mu4 hua1] /elderflower/
+接鍋 接锅 [jie1 guo1] /take the blame/get blamed/blame, take the/blamed, get/<netspeak?>/
 接合處 接合处 [jie1 he2 chu4] /joint (mechanical)/
 接機 接机 [jie1 ji1] /welcome at an airport/airport, welcome at an/
 階級之分 阶级之分 [jie1 ji2_zhi1_fen1] /class distinctions/distinctions, class/
@@ -48290,8 +48310,10 @@
 累覺不愛 累觉不爱 [lei4 jue2 bu4 ai4] /dead tired/tired, dead/<netspeak>/
 淚泉 泪泉 [lei4 quan2] /spring of tears/tears, spring of/
 類型轉換 类型转换 [lei4 xing2_zhuan3 huan4] /type cast/cast, type/<comp.|C++>/
+冷凍電鏡 冷冻电镜 [leng3 dong4_dian4 jing4] /cryo-electron microscope/microscope, cryo-electron/
 冷凝機組 冷凝机组 [leng3 ning2_ji1 zu3] /condensing unit (for air con etc)/unit, condensing (for air con etc)/
 冷艷 冷艳 [leng3 yan4] /cold beauty/beauty, cold/
+冷戰思維 冷战思维 [leng3 zhan4_si1 wei2] /cold war mentality/mentality, cold war/
 冷知識 冷知识 [leng3 zhi1 shi5] /trivia (for quiz etc)/
 犁地 犁地 [li2_di4] /to plough/to plow/plough, to/plow, to/
 離你不遠 离你不远 [li2_ni3_bu4_yuan3] /not far from you/
@@ -48457,6 +48479,7 @@
 淋浴房 淋浴房 [lin2 yu4 fang2] /shower room/room, shower/
 淋浴間 淋浴间 [lin2 yu4 jian1] /shower room/room, shower/
 淋浴器 淋浴器 [lin2 yu4 qi4] /shower (apparatus)/
+零號病人 零号病人 [ling2_hao4_bing4 ren2] /patient zero/zero, patient/
 零碳 零碳 [ling2_tan4] /zero carbon/carbon neutral/carbon, zero/neutral, carbon/
 鈴鼓聲 铃鼓声 [ling2 gu3 sheng1] /tambourine sound/sound, tambourine/
 靈活變通 灵活变通 [ling2 huo2_bian4 tong5] /flexibility/adaptable/
@@ -48488,6 +48511,7 @@
 另類療法 另类疗法 [ling4 lei4_liao2 fa3] /alternative treatment/treatment, alternative/
 另類搖滾樂 另类摇滚乐 [ling4 lei4_yao2 gun3 yue4] /alternative rock music/rock music, alternative/
 另類醫學 另类医学 [ling4 lei4_yi1 xue2] /alternative medicine/medicine, alternative/
+留英 留英 [liu2_Ying1] /stay abroad in Britain/abroad in Britain, stay/
 留個聯系方式 留个联系方式 [liu2_ge5_lian2 xi4_fang1 shi4] /exchange contact information (with someone)/contact information, exchange (with someone)/
 留過 留过 [liu2_guo4] /stay beyond .../keep more than .../beyond ..., stay/more than ..., keep/
 留在家 留在家 [liu2_zai4_jia1] /stay home/home, stay/
@@ -48505,6 +48529,7 @@
 瀏覽社交網站 浏览社交网站 [liu2 lan3_she4 jiao1_wang3 zhan4] /social networking (browsing social networks)/networking, social (browsing social networks)/
 流量包 流量包 [liu2 liang4 bao1] /data package (in service-provider contracts)/package, data (in service-provider contracts)/
 流露出來 流露出来 [liu2 lu4_chu5 lai5] /show it (whether wanted or not, e.g. words will show it)/
+流明維持率 流明维持率 [liu2 ming2_wei2 chi2_lu:4] /lumen maintenance (of LED, CFL etc)/maintenance, lumen (of LED, CFL etc)/
 流去 流去 [liu2 qu5] /flow forth/forth, flow/
 流水淙淙 流水淙淙 [liu2 shui3 cong2 cong2] /torrents of water (lit. flowing water gurgling)/water, torrents of (lit. flowing water gurgling)/
 留心聽 留心听 [liu2 xin1_ting1] /carefully listen/listen, carefully/
@@ -48686,6 +48711,7 @@
 盲人點字 盲人点字 [mang2 ren2_dian3 zi4] /Braille/
 盲人點字法 盲人点字法 [mang2 ren2_dian3 zi4 fa3] /Braille (system)/
 芒松 芒松 [mang2 song1] /bristlecone pine/pine, bristlecone/
+盲文點字 盲文点字 [mang2 wen2_dian3 zi4] /Braille/
 貓咪濾鏡 猫咪滤镜 [mao1 mi1_lu:4 jing4] /cat filter (image processing software adding cat features to faces)/filter, cat (image processing software adding cat features to faces)/
 貓頭鷹的羽毛 猫头鹰的羽毛 [mao1 tou2 ying1_de5_yu3 mao2] /owl's feather/feather, owl's/
 貓鼬 猫鼬 [mao1 you4] /mongoose/
@@ -49075,7 +49101,9 @@
 尼米杜 尼米杜 [ni2 mi3 du4] /nîmedu/
 泥模 泥模 [ni2 mu2] /clay mold/mold, clay/
 泥造 泥造 [ni2 zao4] /made of clay/clay, made of/
+你背 你背 [ni3_bei1] /you carry the blame/your fault/carry the blame, you/fault, your/<netspeak>/
 你不如 你不如 [ni3_bu4 ru2] /you'd better/better, you'd/
+你的鍋 你的锅 [ni3_de5_guo1] /your fault/fault, your/<netspeak>/
 你的隱私 你的隐私 [ni3_de5_yin3 si1] /your privacy (on Internet etc)/privacy, your (on Internet etc)/
 你好嗎 你好吗 [ni3_hao3_ma5] /Is it all right with you?/right with you?, Is it all/
 你妹 你妹 [ni3_mei4] /(attack) your sister/sister, your/<netspeak>/
@@ -49489,6 +49517,7 @@
 謙卑自抑 谦卑自抑 [qian1 bei1 zi4 yi4] /humble yourself/yourself, humble/
 謙卑人 谦卑人 [qian1 bei1 ren2] /humble people/people, humble/
 鉛筆刨 铅笔刨 [qian1 bi3 bao4] /pencil sharpener/sharpener, pencil/<Cantonese>/
+千層面 千层面 [qian1 ceng2 mian4] /lasagne/
 牽出 牵出 [qian1 chu1] /lead out (of sheep etc) (?)/
 牽到 牵到 [qian1 dao4] /lead (animal etc) to/
 千夫長 千夫长 [qian1 fu1 zhang3] /chief over a thousand/over a thousand, chief/
@@ -50677,6 +50706,7 @@
 數據包 数据包 [shu4 ju4 bao1] /packet/<comp.>/
 數據庫軟件 数据库软件 [shu4 ju4 ku4_ruan3 jian4] /database software/software, database/
 數據線 数据线 [shu4 ju4 xian4] /data cable/cable, data/
+數據源 数据源 [shu4 ju4 yuan2] /data source/source, data/<comp.>/
 樹坑 树坑 [shu4 keng1] /tree pit (for planing a tree)/
 數碼錄音磁帶 数码录音磁带 [shu4 ma3_lu4 yin1_ci2 dai4] /digital audio tape/DAT/audio tape, digital/
 樹莓 树莓 [shu4 mei2] /Asian raspberry/rubus corchorifolius/raspberry, Asian/corchorifolius, rubus/
@@ -51443,6 +51473,7 @@
 玩游戲 玩游戏 [wan2_you2 xi4] /play games/games, play/
 玩捉迷藏 玩捉迷藏 [wan2_zhuo1_mi2 cang2] /play hide-and-seek/hide-and-seek, play/
 玩得起 玩得起 [wan2 de5 qi3] /poke fun/
+頑固堅持 顽固坚持 [wan2 gu4_jian1 chi2] /obstinately insist on/insist on, obstinately/
 玩家 玩家 [wan2 jia1] /player (in electronic games)/
 完美主義者 完美主义者 [wan2 mei3 zhu3 yi4 zhe3] /perfectionist/
 完全沒有 完全没有 [wan2 quan2_mei2 you3] /far from it!/
@@ -51500,6 +51531,7 @@
 網紅 网红 [wang3 hong2] /Internet celebrity/celebrity, Internet/
 網間 网间 [wang3 jian1] /inter-network/<comp.>/
 網間連接器 网间连接器 [wang3 jian1_lian2 jie1 qi4] /gateway (hardware)/<comp.>/
+網軍 网军 [wang3 jun1] /Internet army/keyboard warriors/army, Internet/warriors, keyboard/<netspeak, TW?>/
 網課 网课 [wang3 ke4] /online lesson/lesson, online/
 網路轉播 网路转播 [wang3 lu4_zhuan3 bo1] /Internet broadcast/stream/broadcast, Internet/
 網絡暴力 网络暴力 [wang3 luo4_bao4 li4] /cyberbullying/
@@ -52106,10 +52138,12 @@
 小紅蛺蝶 小红蛱蝶 [xiao3 hong2 jia2 die2] /painted lady butterfly/vanessa cardui/lady butterfly, painted/cardui, vanessa/
 小黃臉 小黄脸 [xiao3 huang2 lian3] /small yellow faces (emoji set)/yellow faces, small (emoji set)/
 小灰蝶科 小灰蝶科 [xiao3 hui1 die2 ke1] /Lycaenidae family (of butterflies)/family, Lycaenidae (of butterflies)/
+小伙 小伙 [xiao3 huo3] /comrade/<netspeak?>/
 小火 小火 [xiao3 huo3] /small fire/fire, small/
 小伙伴 小伙伴 [xiao3 huo3 ban4] /comrade/<netspeak?>/
 小伙伴們 小伙伴们 [xiao3 huo3 ban4 men5] /comrades/<netspeak?>/
 小夥子 小夥子 [xiao3 huo3 zi5] /lad (variant)/
+小節休止符 小节休止符 [xiao3 jie2_xiu1 zhi3 fu2] /bar rest/full-bar rest/rest, bar/<mus.>/
 小羚羊 小羚羊 [xiao3 ling2 yang2] /duiker/
 小綠人 小绿人 [xiao3 lu:4 ren2] /green man (traffic signal)/<TW>/
 小麥粉 小麦粉 [xiao3 mai4 fen3] /wheat flour/flour, wheat/
@@ -53267,6 +53301,7 @@
 再過不久 再过不久 [zai4_guo4_bu4 jiu3] /soon/before long/
 在合理的時間內 在合理的时间内 [zai4_he2 li3_de5_shi2 jian1_nei4] /in a reasonable amount of time/reasonable amount of time, in a/
 在家工作 在家工作 [zai4_jia1_gong1 zuo4] /work from home/home, work from/
+在家中 在家中 [zai4_jia1 zhong1] /at home/home, at/
 再見到 再见到 [zai4_jian4 dao4] /meet again/again, meet/
 在軍事方面 在军事方面 [zai4_jun1 shi4_fang1 mian4] /militarily/
 在哪一方面 在哪一方面 [zai4_na3_yi1_fang1 mian4] /in what way/what way, in/
@@ -53370,6 +53405,7 @@
 站到 站到 [zhan4 dao4] /stand (away) to/
 站得穩 站得稳 [zhan4 de5 wen3] /standing (stably)/
 蘸醬 蘸酱 [zhan4 jiang4] /dipping sauces/sauces, dipping/
+戰狼 战狼 [zhan4 lang2] /wolf warrior (aggressive pro-PRC stance influenced by 2015 violent film of same name)/warrior, wolf (aggressive pro-PRC stance influenced by 2015 violent film of same name)/
 站滿 站满 [zhan4 man3] /to cover (a place, with camels etc; lit. stand full)/cover, to (a place, with camels etc; lit. stand full)/
 站牌 站牌 [zhan4 pai2] /stop flag (for bus etc)/flag, stop (for bus etc)/
 站起 站起 [zhan4 qi5] /stand up (from sitting etc)/
@@ -53538,6 +53574,7 @@
 政治分析家 政治分析家 [zheng4 zhi4_fen1 xi5 jia1] /political analyst/analyst, political/
 政治勢力 政治势力 [zheng4 zhi4_shi4 li5] /political elements/elements, political/
 政治信條 政治信条 [zheng4 zhi4_xin4 tiao2] /political dogma/political creed/dogma, political/creed, political/
+政治戰略 政治战略 [zheng4 zhi4_zhan4 lu:e4] /political strategy/strategy, political/
 政治組織 政治组织 [zheng4 zhi4_zu3 zhi1] /political institutions/institutions, political/
 政治學家 政治学家 [zheng4 zhi4 xue2 jia1] /political scientist/scientist, political/
 正子斷層掃描 正子断层扫描 [zheng4 zi3_duan4 ceng2_sao3 miao2] /positron tomography scan (abbreviated version of PET)/tomography scan, positron (abbreviated version of PET)/
