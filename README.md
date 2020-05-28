@@ -27,7 +27,7 @@ I now understand that most countries’ copyright laws do include a provision fo
 
 So I tried querying a large Chinese Internet search engine for each of my words, to get some measure of which words were common enough to warrant disregarding my reading notes and just saying "here's a translation that's 'out there' and worth recognising". I had to be careful to ensure the search results really showed the word in _common_ use (not just illegal copies of the source I read), and I also had to beware of having documented a rare different use-case of an otherwise common word.
 
-After subsetting and editing my database, I can now present 75% of the ‘specialist’ words I collected between 2009 and 2020 as confirmed “public domain” words you can _do what you want_ with (i.e. please _do_ add them to products to help learners—and email me if you’d like me to mention here that you’ve added it to your product). The other 25% (and my reading notes) have not been added to CedPane, but I hope it’s already useful.
+After subsetting and editing my database, I can now present 76% of the ‘specialist’ words I collected between 2009 and 2020 as confirmed “public domain” words you can _do what you want_ with (i.e. please _do_ add them to products to help learners—and email me if you’d like me to mention here that you’ve added it to your product). The other 24% (and my reading notes) have not been added to CedPane, but I hope it’s already useful.
 
 This Git repository contains a [tab-delimited text file](cedpane.txt) with the following columns:
 
@@ -48,6 +48,7 @@ Of course it goes without saying that, despite my best efforts, mistakes are pos
 I also have a separate collection of Chinese words that _are_ in typical dictionaries, with short English definitions that have either been confirmed by multiple independent sources to the extent that it is reasonable to believe they are public domain, or that I’ve written myself.  This separate collection is _not_ likely to help with software that already has a good normal dictionary, but it might be useful for developers to prototype interlinear annotators etc.  It is in the repository as [PD-English-Definitions.txt](PD-English-Definitions.txt) but has not been included in the main CedPane file.
 
 CedPane is public-domain but this Readme file is © Silas S. Brown and may be reproduced as-is.
+Twitter and Tweet are trademarks of Twitter Inc.
 Twitter and Tweet are trademarks of Twitter Inc.
 Twitter and Tweet are trademarks of Twitter Inc.
 Twitter and Tweet are trademarks of Twitter Inc.
