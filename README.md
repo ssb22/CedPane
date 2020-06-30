@@ -78,6 +78,7 @@ Heinz is a trademark of H. J. Heinz Company.
 HTC and Touch are trademarks of HTC Corporation.
 Huawei is a trademark of Huawei Technologies Co., Ltd registered in China and other countries.
 Indesit is a trademark of Indesit Company S.P.A.
+Intel is a trademark of Intel Corporation or its subsidiaries.
 Java is a registered trademark of Oracle Corporation in the US and possibly other countries.
 Javascript is a trademark of Oracle Corporation in the US.
 LinkedIn is a registered trademark or trademark of LinkedIn Corporation and its affiliates in the United States and/or other countries.
