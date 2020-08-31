@@ -88,6 +88,7 @@ Nike is a trademark of Nike Inc.
 Oracle is a registered trademark of Oracle Corporation and/or its affiliates.
 Oreo is a registered trademark of Intercontinental Great Brands LLC.
 Palmolive is a trademark of the Colgate-Palmolive Company.
+Picture Exchange Communication System is a registered trademark of Pyramid Educational Consultants, Inc.
 Pimsleur is a registered trademark of Beverly Pimsleur exclusively licensed to Simon &amp; Schuster.
 Pizza Hut is a trademark of Pizza Hut Inc.
 Porsche is a trademark of Dr. Ing. h.c.F. Porsche AG.
@@ -98,8 +99,7 @@ Raspberry Pi is a trademark of the Raspberry Pi Foundation.
 Segway is a trademark of Segway Inc.
 Sibelius is a registered trademark of Avid Technology, Inc. or its subsidiaries.
 Thermos is a trademark of Thermos LLC.
-Toshiba is a trademark of Kabushiki Kaisha Toshiba.
-Toshiba is a trademark of Tokyo Shibaura Denki Kabushiki Kaisha.
+Toshiba is a trademark of Tokyo Shibaura Denki Kabushiki Kaisha, also called Kabushiki Kaisha Toshiba.
 Twitter and Tweet are trademarks of Twitter Inc.
 Uber is a trademark of Uber Technologies, Inc.
 Walmart is a trademark and brand of Walmart Apollo, LLC.
