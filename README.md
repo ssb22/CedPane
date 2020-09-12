@@ -75,6 +75,7 @@ Google is a trademark of Google LLC.
 Google Maps is a trademark of Google LLC.
 Gucci is a trademark of Gucci America, Inc.
 Heinz is a trademark of H. J. Heinz Company.
+Hermès is a trademark of H51.
 HTC and Touch are trademarks of HTC Corporation.
 Huawei is a trademark of Huawei Technologies Co., Ltd registered in China and other countries.
 Indesit is a trademark of Indesit Company S.P.A.
