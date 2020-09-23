@@ -106,6 +106,7 @@ Uber is a trademark of Uber Technologies, Inc.
 Walmart is a trademark and brand of Walmart Apollo, LLC.
 WeChat is a trademark of Tencent Holdings Limited.
 Wenlin is a trademark of Wenlin Institute, Inc. SPC.
+WhatsApp is a trademark of WhatsApp Inc., registered in the U.S. and other countries.
 Whirlpool is a trademark of Whirlpool Properties, Inc.
 Wi-Fi is a trademark of the Wi-Fi Alliance.
 Wikipedia is a registered trademark of the Wikimedia Foundation Inc.
