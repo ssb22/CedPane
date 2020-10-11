@@ -84,6 +84,7 @@ Java is a registered trademark of Oracle Corporation in the US and possibly othe
 Javascript is a trademark of Oracle Corporation in the US.
 LinkedIn is a registered trademark or trademark of LinkedIn Corporation and its affiliates in the United States and/or other countries.
 Mac is a trademark of Apple Inc.
+Maglite is a registered trademark of Mag Instrument, Inc.
 Microsoft is a registered trademark of Microsoft Corp.
 Nike is a trademark of Nike Inc.
 Oracle is a registered trademark of Oracle Corporation and/or its affiliates.
