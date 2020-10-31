@@ -65,6 +65,7 @@ CNN is a trademark of Cable News Network Inc.
 Cognac is a trademark which is held by France.
 Colgate is a trademark of the Colgate-Palmolive Company.
 Comcast is a trademark of Comcast Corporation.
+Dettol was a trademark of Reckitt &amp; Colman (Overseas) Limited but I was unable to confirm its current status.
 Dyson is a trademark of Dyson Technology Ltd.
 Electrolux is a trademark of Aktiebolaget Electrolux.
 Facebook is a trademark of Facebook, Inc.
