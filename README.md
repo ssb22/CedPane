@@ -48,6 +48,7 @@ Of course it goes without saying that, despite my best efforts, mistakes are pos
 I also have a separate collection of Chinese words that _are_ in typical dictionaries, with short English definitions that have either been confirmed by multiple independent sources to the extent that it is reasonable to believe they are public domain, or that I’ve written myself.  This separate collection is _not_ likely to help with software that already has a good normal dictionary, but it might be useful for developers to prototype interlinear annotators etc.  It is in the repository as [PD-English-Definitions.txt](PD-English-Definitions.txt) but has not been included in the main CedPane file.
 
 CedPane is public-domain but this Readme file is © Silas S. Brown and may be reproduced as-is.
+Dettol was a trademark of Reckitt &amp; Colman (Overseas) Limited but I was unable to confirm its current status.
 Accenture is a trademark of Accenture Global Services Ltd.
 Android is a trademark of Google LLC.
 Apache is a registered trademark of The Apache Software Foundation.
@@ -101,10 +102,13 @@ Quaker is a trademark of The Quaker Oats Company.
 Raspberry Pi is a trademark of the Raspberry Pi Foundation.
 Segway is a trademark of Segway Inc.
 Sibelius is a registered trademark of Avid Technology, Inc. or its subsidiaries.
+Star Trek is a trademark of CBS Studios Inc. / Paramount.
 Thermos is a trademark of Thermos LLC.
 Toshiba is a trademark of Tokyo Shibaura Denki Kabushiki Kaisha, also called Kabushiki Kaisha Toshiba.
 Twitter and Tweet are trademarks of Twitter Inc.
 Uber is a trademark of Uber Technologies, Inc.
+UltraCane is a trademark owned by Sound Foresight Ltd.
+Unilever is a trademark either owned or used under license by Unilever PLC/Unilever NV and affiliates.
 Walmart is a trademark and brand of Walmart Apollo, LLC.
 WeChat is a trademark of Tencent Holdings Limited.
 Wenlin is a trademark of Wenlin Institute, Inc. SPC.
