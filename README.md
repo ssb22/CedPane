@@ -49,6 +49,7 @@ I also have a separate collection of Chinese words that _are_ in typical diction
 
 CedPane is public-domain but this Readme file is © Silas S. Brown and may be reproduced as-is.
 Dettol was a trademark of Reckitt &amp; Colman (Overseas) Limited but I was unable to confirm its current status.
+Dettol was a trademark of Reckitt &amp; Colman (Overseas) Limited but I was unable to confirm its current status.
 Accenture is a trademark of Accenture Global Services Ltd.
 Android is a trademark of Google LLC.
 Apache is a registered trademark of The Apache Software Foundation.
@@ -66,7 +67,7 @@ CNN is a trademark of Cable News Network Inc.
 Cognac is a trademark which is held by France.
 Colgate is a trademark of the Colgate-Palmolive Company.
 Comcast is a trademark of Comcast Corporation.
-Dettol was a trademark of Reckitt &amp; Colman (Overseas) Limited but I was unable to confirm its current status.
+Dettol was a trademark of Reckitt & Colman (Overseas) Limited but I was unable to confirm its current status.
 Dyson is a trademark of Dyson Technology Ltd.
 Electrolux is a trademark of Aktiebolaget Electrolux.
 Facebook is a trademark of Facebook, Inc.
@@ -93,7 +94,7 @@ Oracle is a registered trademark of Oracle Corporation and/or its affiliates.
 Oreo is a registered trademark of Intercontinental Great Brands LLC.
 Palmolive is a trademark of the Colgate-Palmolive Company.
 Picture Exchange Communication System is a registered trademark of Pyramid Educational Consultants, Inc.
-Pimsleur is a registered trademark of Beverly Pimsleur exclusively licensed to Simon &amp; Schuster.
+Pimsleur is a registered trademark of Beverly Pimsleur exclusively licensed to Simon & Schuster.
 Pizza Hut is a trademark of Pizza Hut Inc.
 Porsche is a trademark of Dr. Ing. h.c.F. Porsche AG.
 Python is a trademark of the Python Software Foundation.
