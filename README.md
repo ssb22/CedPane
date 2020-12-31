@@ -49,6 +49,7 @@ I also have a separate collection of Chinese words that _are_ in typical diction
 
 CedPane is public-domain but this Readme file is © Silas S. Brown and may be reproduced as-is.
 Accenture is a trademark of Accenture Global Services Ltd.
+Adobe is a trademark of Adobe Systems Incorporated in the United States and/or other countries.
 Android is a trademark of Google LLC.
 Apache is a registered trademark of The Apache Software Foundation.
 Apple is a trademark of Apple Inc.
@@ -59,6 +60,7 @@ Bing is a registered trademark of Microsoft Corp.
 BitBucket is a trademark of Atlassian Pty Ltd.
 Bluetooth is a registered trademark held by the Bluetooth Special Interest Group.
 Bosch is a trademark of Robert Bosch GMBH.
+Bvlgari is a trademark of Bulgari SpA.
 Cadillac is a trademark and/or registered trademark of General Motors LLC.
 Carrefour is a trademark of Carrefour of Boulogne-Billancourt, France.
 CNN is a trademark of Cable News Network Inc.
@@ -102,12 +104,14 @@ Raspberry Pi is a trademark of the Raspberry Pi Foundation.
 Segway is a trademark of Segway Inc.
 Sibelius is a registered trademark of Avid Technology, Inc. or its subsidiaries.
 Star Trek is a trademark of CBS Studios Inc. / Paramount.
+TeX is a trademark of the American Mathematical Society.
 Thermos is a trademark of Thermos LLC.
 Toshiba is a trademark of Tokyo Shibaura Denki Kabushiki Kaisha, also called Kabushiki Kaisha Toshiba.
 Twitter and Tweet are trademarks of Twitter Inc.
 Uber is a trademark of Uber Technologies, Inc.
 UltraCane is a trademark owned by Sound Foresight Ltd.
 Unilever is a trademark either owned or used under license by Unilever PLC/Unilever NV and affiliates.
+Velcro is a registered trademark of Velcro Industries B.V.
 Walmart is a trademark and brand of Walmart Apollo, LLC.
 WeChat is a trademark of Tencent Holdings Limited.
 Wenlin is a trademark of Wenlin Institute, Inc. SPC.
@@ -117,5 +121,6 @@ Wi-Fi is a trademark of the Wi-Fi Alliance.
 Wikipedia is a registered trademark of the Wikimedia Foundation Inc.
 Windows is a registered trademark of Microsoft Corp.
 Wyeth is a trademark of Wyeth LLC.
+YouTube is a trademark of Google Inc.
 Zoom is a trademark of Zoom Video Communications, Inc.
 Any other trademarks I mentioned without realising are trademarks of their respective holders.
