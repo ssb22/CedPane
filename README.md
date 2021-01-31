@@ -48,3 +48,84 @@ Of course it goes without saying that, despite my best efforts, mistakes are pos
 I also have a separate collection of Chinese words that _are_ in typical dictionaries, with short English definitions that have either been confirmed by multiple independent sources to the extent that it is reasonable to believe they are public domain, or that I’ve written myself.  This separate collection is _not_ likely to help with software that already has a good normal dictionary, but it might be useful for developers to prototype interlinear annotators etc.  It is in the repository as [PD-English-Definitions.txt](PD-English-Definitions.txt) but has not been included in the main CedPane file.
 
 CedPane is public-domain but this Readme file is © Silas S. Brown and may be reproduced as-is.
+Accenture is a trademark of Accenture Global Services Ltd.
+Adobe is a trademark of Adobe Systems Incorporated in the United States and/or other countries.
+Android is a trademark of Google LLC.
+Apache is a registered trademark of The Apache Software Foundation.
+Apple is a trademark of Apple Inc.
+Aquabeads is a trademark of EPOCH Company Ltd.
+AstraZeneca is a trademark of the AstraZeneca group of companies.
+Auchan is a trademark of Groupe Auchan.
+Baidu is a trademark of Baidu Online Network Technology (Beijing) Co. Ltd.
+Bing is a registered trademark of Microsoft Corp.
+BitBucket is a trademark of Atlassian Pty Ltd.
+Bluetooth is a registered trademark held by the Bluetooth Special Interest Group.
+Bosch is a trademark of Robert Bosch GMBH.
+Bvlgari is a trademark of Bulgari SpA.
+Cadillac is a trademark and/or registered trademark of General Motors LLC.
+Carrefour is a trademark of Carrefour of Boulogne-Billancourt, France.
+CNN is a trademark of Cable News Network Inc.
+Cognac is a trademark which is held by France.
+Colgate is a trademark of the Colgate-Palmolive Company.
+Comcast is a trademark of Comcast Corporation.
+Dettol was a trademark of Reckitt & Colman (Overseas) Limited but I was unable to confirm its current status.
+Dyson is a trademark of Dyson Technology Ltd.
+Electrolux is a trademark of Aktiebolaget Electrolux.
+Ericsson is a trademark or registered trademark of Telefonaktiebolaget LM Ericsson.
+Facebook is a trademark of Facebook, Inc.
+Funai is a trademark of Funai Electric Co., Ltd.
+GameStop is a trademark of GameStop, Inc.
+Git is a trademark of the Software Freedom Conservancy.
+GitHub is a trademark of GitHub Inc.
+Google is a trademark of Google LLC.
+Google Maps is a trademark of Google LLC.
+Gucci is a trademark of Gucci America, Inc.
+Heinz is a trademark of H. J. Heinz Company.
+Hermès is a trademark of H51.
+HTC and Touch are trademarks of HTC Corporation.
+Huawei is a trademark of Huawei Technologies Co., Ltd registered in China and other countries.
+Indesit is a trademark of Indesit Company S.P.A.
+Intel is a trademark of Intel Corporation or its subsidiaries.
+Java is a registered trademark of Oracle Corporation in the US and possibly other countries.
+Javascript is a trademark of Oracle Corporation in the US.
+LinkedIn is a registered trademark or trademark of LinkedIn Corporation and its affiliates in the United States and/or other countries.
+Mac is a trademark of Apple Inc.
+Maglite is a registered trademark of Mag Instrument, Inc.
+Microsoft is a registered trademark of Microsoft Corp.
+Nike is a trademark of Nike Inc.
+Oracle is a registered trademark of Oracle Corporation and/or its affiliates.
+Oreo is a registered trademark of Intercontinental Great Brands LLC.
+Palmolive is a trademark of the Colgate-Palmolive Company.
+Picture Exchange Communication System is a registered trademark of Pyramid Educational Consultants, Inc.
+Pimsleur is a registered trademark of Beverly Pimsleur exclusively licensed to Simon & Schuster.
+Pizza Hut is a trademark of Pizza Hut Inc.
+Porsche is a trademark of Dr. Ing. h.c.F. Porsche AG.
+Prada is a trademark of Prada.
+Python is a trademark of the Python Software Foundation.
+QR Code is the UK registered trademark of Denso Corporation.
+Quaker is a trademark of The Quaker Oats Company.
+Raspberry Pi is a trademark of the Raspberry Pi Foundation.
+Segway is a trademark of Segway Inc.
+Sibelius is a registered trademark of Avid Technology, Inc. or its subsidiaries.
+Star Trek is a trademark of CBS Studios Inc. / Paramount.
+TeX is a trademark of the American Mathematical Society.
+Thermos is a trademark of Thermos LLC.
+Toshiba is a trademark of Tokyo Shibaura Denki Kabushiki Kaisha, also called Kabushiki Kaisha Toshiba.
+Twitter and Tweet are trademarks of Twitter Inc.
+Uber is a trademark of Uber Technologies, Inc.
+UltraCane is a trademark owned by Sound Foresight Ltd.
+Unilever is a trademark either owned or used under license by Unilever PLC/Unilever NV and affiliates.
+Velcro is a registered trademark of Velcro Industries B.V.
+Walmart is a trademark and brand of Walmart Apollo, LLC.
+WeChat is a trademark of Tencent Holdings Limited.
+Weibo is a trademark of Sina.Com Technology (China) Co. Ltd.
+Wenlin is a trademark of Wenlin Institute, Inc. SPC.
+WhatsApp is a trademark of WhatsApp Inc., registered in the U.S. and other countries.
+Whirlpool is a trademark of Whirlpool Properties, Inc.
+Wi-Fi is a trademark of the Wi-Fi Alliance.
+Wikipedia is a registered trademark of the Wikimedia Foundation Inc.
+Windows is a registered trademark of Microsoft Corp.
+Wyeth is a trademark of Wyeth LLC.
+YouTube is a trademark of Google Inc.
+Zoom is a trademark of Zoom Video Communications, Inc.
+Any other trademarks I mentioned without realising are trademarks of their respective holders.
