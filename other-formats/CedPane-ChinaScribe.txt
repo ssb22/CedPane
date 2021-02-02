@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2021-01-31
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2021-02-02
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -3069,6 +3069,8 @@
 奧布賴恩 奥布赖恩 [Ao4 bu4 lai4 en1] /O'Brien/
 奧布雷特 奥布雷特 [Ao4 bu4 lei2 te4] /Albrecht/
 奧布里 奥布里 [Ao4 bu4 li3] /Aubrey/
+奧布盧奇耶 奥布卢奇耶 [Ao4 bu4 lu2 qi2 ye1] /Obluchye (in Obluchenskiy District)/
+奧布盧奇耶區 奥布卢奇耶区 [Ao4 bu4 lu2 qi2 ye1 qu1] /Obluchenskiy District/District, Obluchenskiy/
 奧布洛伊 奥布洛伊 [Ao4 bu4 luo4 yi1] /Obloy/
 奧查德 奥查德 [Ao4 cha2 de2] /Orchard (surname)/
 奧達 奥达 [Ao4 da2] /Oda/
@@ -5740,6 +5742,7 @@
 別克斯島 别克斯岛 [Bie2 ke4 si1 dao3] /Vieques (island)/
 別克扎特 别克扎特 [Bie2 ke4 zha1 te4] /Bekzat/
 別雷赫 别雷赫 [Bie2 lei2 he4] /Belykh/
+別利亞耶夫斯基 别利亚耶夫斯基 [Bie2 li4 ya4 ye1 fu1 si1 ji1] /Belyayevsky/
 別廖佐夫斯基 别廖佐夫斯基 [Bie2 liao4 zuo3 fu1 si1 ji1] /Berezovsky/
 別廖佐夫斯基市 别廖佐夫斯基市 [Bie2 liao4 zuo3 fu1 si1 ji1_Shi4] /Berezovsky (city)/
 別列霍夫 别列霍夫 [Bie2 lie4 huo4 fu1] /Berehove/
@@ -6091,6 +6094,7 @@
 伯比 伯比 [Bo2 bi3] /Badby/
 伯比利 伯比利 [Bo2 bi3 li4] /Beth-biri/
 伯比斯 伯比斯 [Bo2 bi3 si1] /Berbice/
+博比特 博比特 [Bo2 bi3 te4] /Bobbitt/
 博博吉 博博吉 [Bo2 bo2 ji2] /Bobogi/
 博博焦諾夫 博博焦诺夫 [Bo2 bo2 jiao1 nuo4 fu1] /Bobojonov/
 博布科 博布科 [Bo2 bu4 ke1] /Bobko/
@@ -9661,6 +9665,7 @@
 德善鄉 德善乡 [De2 shan4_Xiang1] /Deshan Township/Township, Deshan/
 德尚 德尚 [De2 shang4] /Deschamp/
 德紹爾 德绍尔 [De2 shao4 er3] /Dessauer/
+德紹維茨 德绍维茨 [De2 shao4 wei2 ci2] /Dershowitz/
 德勝鄉 德胜乡 [De2 sheng4_Xiang1] /Desheng Township/Township, Desheng/
 得勝鎮 得胜镇 [De2 sheng4 zhen4] /Desheng (town)/
 德勝鎮 德胜镇 [De2 sheng4 zhen4] /Desheng (town)/
@@ -11980,7 +11985,7 @@
 菲爾伯特 菲尔伯特 [Fei1 er3 bo2 te4] /Philbert/
 菲爾布里克 菲尔布里克 [Fei1 er3 bu4 li3 ke4] /Philbrick/
 菲爾布魯克 菲尔布鲁克 [Fei1 er3 bu4 lu3 ke4] /Philbrook/
-菲爾德 菲尔德 [Fei1 er3 de2] /Fielder/
+菲爾德 菲尔德 [Fei1 er3 de2] /Fielder/Field (name)/
 菲爾登 菲尔登 [Fei1 er3 deng1] /Fielden/
 菲爾頓 菲尔顿 [Fei1 er3 dun4] /Felton/
 菲爾金斯 菲尔金斯 [Fei1 er3 jin1 si1] /Filkins/
@@ -16463,7 +16468,7 @@
 含族 含族 [Han2 zu2] /Hamites/
 含族人 含族人 [Han2 zu2 ren2] /Hamites/
 漢典 汉典 [Han4_Dian3] /zdic (website)/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2021-01-31/this is version 2021-01-31, CedPane:/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4 Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2021-02-02/this is version 2021-02-02, CedPane:/
 漢英詞典 汉英词典 [Han4 Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/
 漢堡王 汉堡王 [Han4 bao3_Wang2] /Burger King/King, Burger/
 漢貝格 汉贝格 [Han4 bei4 ge2] /Hamberg/
@@ -20483,6 +20488,7 @@
 傑寧 杰宁 [Jie2 ning2] /Jannine/
 傑諾 杰诺 [Jie2 nuo4] /Geno/
 傑普 杰普 [Jie2 pu3] /Jeppe/
+捷普洛若爾斯克 捷普洛若尔斯克 [Jie2 pu3 luo4 ruo4 er3 si1 ke4] /Teploozyorsk/
 傑普森 杰普森 [Jie2 pu3 sen1] /Jeppesen/
 傑仁 杰仁 [Jie2 ren2] /Jaren/
 傑瑞 杰瑞 [Jie2 rui4] /Jari/Jeri/Jerri/Jerrie/Jerry/
@@ -22463,7 +22469,7 @@
 考珀思韋特 考珀思韦特 [Kao3 po4 si1 wei2 te4] /Cowperthwaite/
 考瑞 考瑞 [Kao3 rui4] /Korey/Kori/Kory/
 考施 考施 [Kao3 shi1] /Kausch/
-考斯 考斯 [Kao3 si1] /Kas/
+考斯 考斯 [Kao3 si1] /Kas/Kuls/
 考斯利 考斯利 [Kao3 si1 li4] /Causley/
 考索恩 考索恩 [Kao3 suo3 en1] /Cauthorn/Cawthorne/
 考特爾 考特尔 [Kao3 te4 er3] /Courter/
@@ -22740,6 +22746,7 @@
 柯利福 柯利福 [Ke1 li4 fu2] /Cliff (name)/
 科利根 科利根 [Ke1 li4 gen1] /Colligan/
 科利克 科利克 [Ke1 li4 ke4] /Collick/
+科麗娜 科丽娜 [Ke1 li4 na4] /Corina/
 科利尼 科利尼 [Ke1 li4 ni2] /Coligny/
 科利森 科利森 [Ke1 li4 sen1] /Collison/
 科利斯 科利斯 [Ke1 li4 si1] /Corliss/
@@ -22751,7 +22758,8 @@
 科林 科林 [Ke1 lin2] /Colin/
 科琳 科琳 [Ke1 lin2] /Colleen/
 科林頓 科林顿 [Ke1 lin2 dun4] /Corrington/
-科琳娜 科琳娜 [Ke1 lin2 na4] /Corinna/
+科林娜 科林娜 [Ke1 lin2 na4] /Corrina/
+科琳娜 科琳娜 [Ke1 lin2 na4] /Corinna/Corrina/
 科林奇 科林奇 [Ke1 lin2 qi2] /Collinge/
 科林森 科林森 [Ke1 lin2 sen1] /Collinson/
 柯林斯 柯林斯 [Ke1 lin2 si1] /Collins/
@@ -22875,7 +22883,7 @@
 科恰班巴 科恰班巴 [Ke1 qia4 ban1 ba1] /Cochabamba/
 柯橋區 柯桥区 [Ke1 qiao2_Qu1] /Keqiao District/District, Keqiao/
 科欽 科钦 [Ke1 qin1] /Cochin/
-科瑞 科瑞 [Ke1 rui4] /Corina/Cory/
+科瑞 科瑞 [Ke1 rui4] /Cory/
 科瑞妮 科瑞妮 [Ke1 rui4 ni1] /Corene/
 柯薩 柯萨 [Ke1 sa4] /Kisa/
 科薩語 科萨语 [Ke1 sa4 yu3] /Xhosa (language)/
@@ -24774,6 +24782,7 @@
 萊特富特 莱特富特 [Lai2 te4 fu4 te4] /Lightfoot/
 萊特曼 莱特曼 [Lai2 te4 man4] /Lightman/
 萊特納 莱特纳 [Lai2 te4 na4] /Lightner/
+萊特文 莱特文 [Lai2 te4 wen2] /Letwin/
 萊特希爾 莱特希尔 [Lai2 te4 xi1 er3] /Lighthill/
 萊特希澤 莱特希泽 [Lai2 te4 xi1 ze2] /Lighthizer/
 萊瓦爾 莱瓦尔 [Lai2 wa3 er3] /Levar/
@@ -26177,6 +26186,7 @@
 麗奈特 丽奈特 [Li4 nai4 te4] /Lynette/
 利瑙 利瑙 [Li4 nao3] /Linao/
 利內爾 利内尔 [Li4 nei4 er3] /Linel/
+莉內特 莉内特 [Li4 nei4 te4] /Linette/
 麗妮爾 丽妮尔 [Li4 ni1 er3] /Linnea/
 麗尼 丽尼 [Li4 ni2] /Leni/
 立尼 立尼 [Li4 ni2] /Libni/
@@ -29186,6 +29196,7 @@
 馬利亞納 马利亚纳 [Ma3 li4 ya4 na4] /Maliana/
 馬利亞托 马利亚托 [Ma3 li4 ya4 tuo1] /Magliato/
 瑪麗葉特 玛丽叶特 [Ma3 li4 ye4 te4] /Mariette/
+瑪麗扎 玛丽扎 [Ma3 li4 zha1] /Mariza/
 馬利茲 马利兹 [Ma3 li4 zi1] /Malise/
 瑪蓮 玛莲 [Ma3 lian2] /Marlin/
 馬連鎮 马连镇 [Ma3 lian2 zhen4] /Malian (town)/
@@ -29543,6 +29554,7 @@
 馬雅 马雅 [Ma3 ya3] /Maya(n)/
 瑪雅爾 玛雅尔 [Ma3 ya3 er3] /Mayar/
 馬雅語 马雅语 [Ma3 ya3 yu3] /Maya (language)/
+瑪亞拉 玛亚拉 [Ma3 ya4 la1] /Mayara/
 馬亞拉 马亚拉 [Ma3 ya4 la1] /Mayara/
 馬亞姆 马亚姆 [Ma3 ya4 mu3] /Maryam/
 馬延鄉 马延乡 [Ma3 yan2_Xiang1] /Mayan Township/Township, Mayan/
@@ -29695,6 +29707,7 @@
 麥吉夫尼 麦吉夫尼 [Mai4 ji2 fu1 ni2] /Mcgivney/
 麥吉利夫雷 麦吉利夫雷 [Mai4 ji2 li4 fu1 lei2] /Macgillivray/
 麥吉利斯 麦吉利斯 [Mai4 ji2 li4 si1] /Mcgillis/
+麥吉奇 麦吉奇 [Mai4 ji2 qi2] /McGeachy/McGeachie/
 麥加恩 麦加恩 [Mai4 jia1 en1] /Mcgahan/
 麥加爾 麦加尔 [Mai4 jia1 er3] /Mcgarr/
 麥加菲 麦加菲 [Mai4 jia1 fei1] /Mcgaffey/
@@ -32156,6 +32169,7 @@
 納迪婭 纳迪娅 [Na4 di2 ya4] /Nadia/
 納蒂 纳蒂 [Na4 di4] /Natty/
 娜蒂亞 娜蒂亚 [Na4 di4 ya4] /Nadia/
+娜玎 娜玎 [Na4 ding1] /Nadeine/Nadeen/
 納丁 纳丁 [Na4 ding1] /Nadine/
 納夫齊格 纳夫齐格 [Na4 fu1 qi2 ge2] /Naffziger/
 納夫塔利 纳夫塔利 [Na4 fu1 ta3 li4] /Naphtali (modern)/
@@ -32190,6 +32204,7 @@
 納克爾斯 纳克尔斯 [Na4 ke4 er3 si1] /Nuckles/
 納克曼 纳克曼 [Na4 ke4 man4] /Nachman/
 那空那育 那空那育 [Na4 kong1 na4 yu4] /Nakhon Nayok province (Thailand, alternate translation)/Nayok province, Nakhon (Thailand, alternate translation)/
+納孔德 纳孔德 [Na4 kong3 de2] /Nakonde/
 納拉 纳拉 [Na4 la1] /Nala/
 納拉伯 纳拉伯 [Na4 la1 bo2] /Nullarbor/
 納拉亞納 纳拉亚纳 [Na4 la1 ya4 na4] /Narayana/
@@ -34514,6 +34529,7 @@
 普利默 普利默 [Pu3 li4 mo4] /Plimmer/
 普利尼 普利尼 [Pu3 li4 ni2] /Pliny/
 普利尼奧 普利尼奥 [Pu3 li4 ni2 ao4] /Plínio/
+普莉斯卡 普莉斯卡 [Pu3 li4 si1 ka3] /Prisca (modern)/
 普利特 普利特 [Pu3 li4 te4] /Plitt/
 普莉提 普莉提 [Pu3 li4 ti2] /Priti/
 普麗西拉 普丽西拉 [Pu3 li4 xi1 la1] /Priscilla (modern)/
@@ -35716,6 +35732,7 @@
 熱奈特 热奈特 [Re4 nai4 te4] /Genette/
 熱內斯 热内斯 [Re4 nei4 si1] /Gernes/
 熱內特 热内特 [Re4 nei4 te4] /Genette/
+熱內西奧 热内西奥 [Re4 nei4 xi1 ao4] /Genésio/
 熱內亞 热内亚 [Re4 nei4 ya4] /Genoa/
 熱尼 热尼 [Re4 ni2] /Genny/
 熱尼亞 热尼亚 [Re4 ni2 ya4] /Genia/
@@ -36972,6 +36989,7 @@
 瑟尼 瑟尼 [Se4 ni2] /Cerne/
 色尼區 色尼区 [Se4 ni2_Qu1] /Seni District/District, Seni/
 色諾芬 色诺芬 [Se4 nuo4 fen1] /Xenophon/
+瑟切娃 瑟切娃 [Se4 qie4 wa2] /Sycheva/
 色薩利 色萨利 [Se4 sa4 li4] /Thessaly/
 瑟斯頓 瑟斯顿 [Se4 si1 dun4] /Thurston/
 色斯文 色斯文 [Se4 si1 wen2] /Cirth (written language)/
@@ -37417,6 +37435,7 @@
 上城區 上城区 [Shang4 cheng2_Qu1] /Shangcheng District/District, Shangcheng/
 尚村鎮 尚村镇 [Shang4 cun1 zhen4] /Shangcun (town)/
 尚德拉 尚德拉 [Shang4 de2 la1] /Shandra/
+上帝插手 上帝插手 [Shang4 di4_cha1 shou3] /divine intervention/intervention, divine/
 上帝的兒子 上帝的儿子 [Shang4 di4_de5_er2 zi5] /son(s) of God/God's son/God, son(s) of/
 上帝的僕人 上帝的仆人 [Shang4 di4_de5_pu2 ren2] /ministers/
 上帝的智慧 上帝的智慧 [Shang4 di4_de5_zhi4 hui4] /godly wisdom/God's wisdom/wisdom, godly/
@@ -43344,6 +43363,7 @@
 翁邦 翁邦 [Weng1 bang1] /Ompong/
 翁貝托 翁贝托 [Weng1 bei4 tuo1] /Umberto/
 翁貝瓦 翁贝瓦 [Weng1 bei4 wa3] /Ombeva/
+翁本杜語 翁本杜语 [Weng1 ben3 du4 yu3] /Umbundu (language)/
 翁布里亞 翁布里亚 [Weng1 bu4 li3 ya4] /Umbria/
 翁城鎮 翁城镇 [Weng1 cheng2 zhen4] /Wengcheng (town)/
 翁達 翁达 [Weng1 da2] /Onda/
@@ -43757,7 +43777,7 @@
 烏鎮 乌镇 [Wu1 zhen4] /Wuzhen (town in Zhejiang)/
 烏鎮鎮 乌镇镇 [Wu1 zhen4 zhen4] /Wuzhen (town, in Zhejiang)/
 烏茲恩 乌兹恩 [Wu1 zi1 en1] /Uzon (caldera)/
-烏茲別克 乌兹别克 [Wu1 zi1 bie2 ke4] /Uzbekistan/
+烏茲別克 乌兹别克 [Wu1 zi1 bie2 ke4] /Uzbekistan (alternate translation)/
 烏茲別克斯坦 乌兹别克斯坦 [Wu1 zi1 bie2 ke4 si1 tan3] /Uzbekistan/
 烏茲別克語 乌兹别克语 [Wu1 zi1 bie2 ke4 yu3] /Uzbek (language)/
 吳太太 吴太太 [Wu2_tai4 tai5] /Mrs Wu/
@@ -44746,6 +44766,7 @@
 西姆森 西姆森 [Xi1 mu3 sen1] /Simson/
 西姆斯 西姆斯 [Xi1 mu3 si1] /Simms/
 希姆斯特拉 希姆斯特拉 [Xi1 mu3 si1 te4 la1] /Hiemstra/
+西姆溫加 西姆温加 [Xi1 mu3 wen1 jia1] /Simwinga/
 析木鎮 析木镇 [Xi1 mu4 zhen4] /Ximu (town)/
 希拿 希拿 [Xi1 na2] /Hena/
 希拿達 希拿达 [Xi1 na2 da2] /Henadad/
@@ -47753,7 +47774,7 @@
 葉爾莫拉耶夫 叶尔莫拉耶夫 [Ye4 er3 mo4 la1 ye1 fu1] /Yermolayev/
 葉城縣 叶城县 [Ye4 cheng2_Xian4] /Yecheng (county, in Xinjiang, also called Kargilik)/
 葉夫根尼 叶夫根尼 [Ye4 fu1 gen1 ni2] /Yevgeny/
-葉夫根尼婭 叶夫根尼娅 [Ye4 fu1 gen1 ni2 ya4] /Evgeniya/
+葉夫根尼婭 叶夫根尼娅 [Ye4 fu1 gen1 ni2 ya4] /Yevgeniya/
 葉夫根耶維奇 叶夫根耶维奇 [Ye4 fu1 gen1 ye1 wei2 qi2] /Yevgenyevich/
 葉甫根尼 叶甫根尼 [Ye4 fu3 gen1 ni2] /Evgeny/
 葉戈爾 叶戈尔 [Ye4 ge1 er3] /Egor/
@@ -49120,6 +49141,7 @@
 尤塔 尤塔 [You2 ta3] /Uta/
 猶太百科全書 犹太百科全书 [You2 tai4_Bai3 ke1 quan2 shu1] /The Jewish Encyclopedia/Encyclopaedia Judaica/Jewish Encyclopedia, The/Judaica, Encyclopaedia/
 猶太復國主義者 犹太复国主义者 [You2 tai4_Fu4 guo2 zhu3 yi4 zhe3] /Zionists/
+猶太自治州 犹太自治州 [You2 tai4_Zi4 zhi4 zhou1] /Jewish Autonomous Region (in Russia)/Autonomous Region, Jewish (in Russia)/
 猶太商人 犹太商人 [You2 tai4_shang1 ren2] /commercial Jews/Geldjudentum/Jews, commercial/
 猶太公會 犹太公会 [You2 tai4 gong1 hui4] /Sanhedrin/
 猶太人賢士議定書 犹太人贤士议定书 [You2 tai4 ren2_Xian2 shi4_Yi4 ding4 shu1] /Protocols of the Learned Elders of Zion (anti-Semitic tract)/Learned Elders of Zion, Protocols of the (anti-Semitic tract)/
@@ -51487,6 +51509,7 @@
 辦案人員 办案人员 [ban4 an4_ren2 yuan2] /case-handling personnel/case handler/personnel, case-handling/handler, case/<law>/
 絆跌 绊跌 [ban4 die1] /stumble and fall/fall, stumble and/
 辦公隔間 办公隔间 [ban4 gong1_ge2 jian1] /office partition/partition, office/
+辦公自動化系統 办公自动化系统 [ban4 gong1_zi4 dong4 hua4_xi4 tong3] /office automation system/OA system (factory time tracking etc)/automation system, office (factory time tracking etc)/system, OA (factory time tracking etc)/
 辦公樓 办公楼 [ban4 gong1 lou2] /office buildings/buildings, office/
 辦公室的隔板 办公室的隔板 [ban4 gong1 shi4_de5_ge2 ban3] /office partitions/partitions, office/
 辦公室人員 办公室人员 [ban4 gong1 shi4_ren2 yuan2] /office worker/worker, office/
@@ -51555,6 +51578,7 @@
 保惠師 保惠师 [bao3 hui4 shi1] /the helper/helper, the/
 保健提供者 保健提供者 [bao3 jian4_ti2 gong1 zhe3] /health-care provider (person)/provider, health-care (person)/
 保健品 保健品 [bao3 jian4 pin3] /dietary supplement/vitamin pill/supplement, dietary/pill, vitamin/
+保潔員 保洁员 [bao3 jie2 yuan2] /cleaner (of public place etc)/
 飽經 饱经 [bao3 jing1] /had enough of/enough of, had/
 堡壘象 堡垒象 [bao3 lei3_xiang4] /fianchettoed bishop/bishop, fianchettoed/<chess>/
 保留所有權利 保留所有权利 [bao3 liu2_suo3 you3_quan2 li4] /all rights reserved/rights reserved, all/
@@ -52802,6 +52826,9 @@
 錯一步 错一步 [cuo4_yi1_bu4] /one false step/one wrong move/false step, one/wrong move, one/
 挫敗感 挫败感 [cuo4 bai4 gan3] /feeling of frustration or defeat/frustration or defeat, feeling of/
 剉冰 剉冰 [cuo4 bing1] /shaved ice (common alternate name)/
+錯峰 错峰 [cuo4 feng1] /accidently (do sthg) at peak time/peak time, accidently at/
+錯峰游 错峰游 [cuo4 feng1 you2] /accidentally tour at peak time/tour at peak time, accidentally/
+錯失恐懼症 错失恐惧症 [cuo4 shi1_kong3 ju4 zheng4] /fear of missing out/FOMO/missing out, fear of/
 錯失良機 错失良机 [cuo4 shi1_liang2 ji1] /missed a good opportunity/good opportunity, missed a/
 錯誤的警報 错误的警报 [cuo4 wu4_de5_jing3 bao4] /false alarm/alarm, false/
 錯誤的思想 错误的思想 [cuo4 wu4_de5_si1 xiang3] /wrong thoughts/thoughts, wrong/
@@ -53016,6 +53043,7 @@
 代孕 代孕 [dai4 yun4] /surrogate pregnancy/surrogacy/pregnancy, surrogate/
 帶著 带着 [dai4 zhe5] /taking (with)/together with/together with, taking/
 戴著 戴着 [dai4 zhe5] /wearing (of headgear etc)/
+戴著玫瑰色眼鏡 戴着玫瑰色眼镜 [dai4 zhe5_mei2 gui5 se4_yan3 jing4] /through rose-tinted glasses (do something)/(while) wearning rose-coloured glasses (do something)/rose-tinted glasses, through/rose-coloured glasses, wearning/
 單柄鍋 单柄锅 [dan1 bing3 guo1] /one-handled cooking pot/cooking pot, one-handled/
 單氟磷酸鈉 单氟磷酸钠 [dan1 fu2 lin2 suan1 na4] /sodium monofluorophosphate/monofluorophosphate, sodium/
 單軌列車 单轨列车 [dan1 gui3_lie4 che1] /monorail train/train, monorail/
@@ -57480,6 +57508,8 @@
 玫瑰經 玫瑰经 [mei2 gui5_jing1] /rosary text (Catholic; older translation?)/text, rosary (Catholic; older translation?)/
 玫瑰餅 玫瑰饼 [mei2 gui5 bing3] /rose cake/cake, rose/
 玫瑰花餅 玫瑰花饼 [mei2 gui5 hua1 bing3] /rose cake/cake, rose/
+玫瑰色的眼鏡 玫瑰色的眼镜 [mei2 gui5 se4_de5_yan3 jing4] /rose-tinted glasses/rose-coloured glasses/glasses, rose-tinted/
+玫瑰色眼鏡 玫瑰色眼镜 [mei2 gui5 se4_yan3 jing4] /rose-tinted glasses/rose-coloured glasses/glasses, rose-tinted/
 梅花香自苦寒來 梅花香自苦寒来 [mei2 hua1_xiang1_zi4_ku3 han2_lai2] /flower scent from bitter cold/April showers bring May flowers/scent from bitter cold, flower/showers bring May flowers, April/
 梅塔梅洛邁 梅塔梅洛迈 [mei2 ta3 mei2 luo4 mai4] /metamelomai (Greek remorse)/
 梅塔尼阿 梅塔尼阿 [mei2 ta3 ni2 a1] /metanoia (Greek repent)/
@@ -57552,6 +57582,7 @@
 蒙著眼 蒙着眼 [meng2 zhe5_yan3] /be blindfolded/blindfolded, be/
 懵逼 懵逼 [meng3 bi1] /bewildering/
 猛闖 猛闯 [meng3 chuang3] /fierce rush/rush, fierce/
+猛烈毆打 猛烈殴打 [meng3 lie4_ou1 da3] /severe beating (physical)/beating, severe (physical)/
 懵懵逼逼 懵懵逼逼 [meng3 meng3 bi1 bi1] /bewildering/
 猛獅 猛狮 [meng3 shi1] /fierce lion/lion, fierce/
 夢回 梦回 [meng4 hui2] /remember (in) a dream/wake up from a dream/dream, remember a/
@@ -59089,6 +59120,7 @@
 傷殘人士 伤残人士 [shang1 can2_ren2 shi4] /the disabled/disabled, the/
 傷到 伤到 [shang1 dao4] /to damage (something)/damage, to (something)/
 商店行竊 商店行窃 [shang1 dian4_xing2 qie4] /shoplifting/
+傷痕實驗 伤痕实验 [shang1 hen2_shi2 yan4] /scar experiment (Kleck & Strenta 1980)/experiment, scar (Kleck & Strenta 1980)/
 商鋪 商铺 [shang1 pu4] /business (building)/shop/shop, business/
 商談隊 商谈队 [shang1 tan2 dui4] /negotiating team/team, negotiating/
 商務禮儀 商务礼仪 [shang1 wu4_li3 yi2] /business etiquette/etiquette, business/
@@ -59224,6 +59256,7 @@
 设谋 設謀 [she4 mou2] /devise or scheme (something)/scheme, devise or (something)/
 社區股份合作聯社 社区股份合作联社 [she4 qu1_gu3 fen4_he2 zuo4_lian2 she4] /community stock cooperative (in rural PRC)/stock cooperative, community (in rural PRC)/
 社區護士 社区护士 [she4 qu1_hu4 shi5] /community nurse/nurse, community/
+社區集會 社区集会 [she4 qu1_ji2 hui4] /community meeting/meeting, community/
 社群媒體 社群媒体 [she4 qun2_mei2 ti3] /social media/media, social/
 社群網站 社群网站 [she4 qun2_wang3 zhan4] /social media (Web-based)/media, social (Web-based)/
 射入 射入 [she4 ru4] /shoot into/
@@ -59561,6 +59594,7 @@
 使徒時代 使徒时代 [shi3 tu2_shi2 dai4] /apostolic age/apostolic period/age, apostolic/period, apostolic/
 使徒們 使徒们 [shi3 tu2 men5] /apostles/
 使用不當 使用不当 [shi3 yong4_bu4 dang4] /used improperly/improperly, used/
+使用簡便 使用简便 [shi3 yong4_jian3 bian4] /easy to use (vague phrase used by sales departments etc)/
 使用頻率 使用频率 [shi3 yong4_pin2 lu:4] /frequency of use/
 使用條款 使用条款 [shi3 yong4_tiao2 kuan3] /terms of use/
 使用牙線 使用牙线 [shi3 yong4_ya2 xian4] /flossing/using dental floss/
@@ -62037,6 +62071,7 @@
 牙周 牙周 [ya2 zhou1] /gum (dental)/
 牙周疾病 牙周疾病 [ya2 zhou1_ji2 bing4] /gum disease/disease, gum/
 軋鬧猛 轧闹猛 [ya4_nao4 meng3] /join lively activities/lively activities, join/<Wu?>/
+軋空 轧空 [ya4 kong1] /short squeeze (stock-market situation)/squeeze, short (stock-market situation)/
 亞硝酸鹽 亚硝酸盐 [ya4 xiao1 suan1 yan2] /nitrites/
 亞型 亚型 [ya4 xing2] /subtype/
 亞原子粒子 亚原子粒子 [ya4 yuan2 zi3_li4 zi3] /subatomic particle/particle, subatomic/
@@ -63939,6 +63974,7 @@
 作伴 作伴 [zuo4_ban4] /accompany/have a sharing with/
 做筆記 做笔记 [zuo4_bi3 ji4] /take notes (in study etc)/notes, take (in study etc)/
 作別論 作别论 [zuo4_bie2 lun4] /be taken as a different matter/not be misconstrued/taken as a different matter, be/misconstrued, not be/
+做不出來 做不出来 [zuo4_bu4_chu1 lai5] /not able to achieve anything/able to achieve anything, not/
 做大祭司 做大祭司 [zuo4_da4 ji4 si1] /serving as high priest/high priest, serving as/
 做蛋糕 做蛋糕 [zuo4_dan4 gao1] /bake a cake/cake, bake a/
 做得不好 做得不好 [zuo4_de5_bu4 hao3] /did something badly/something badly, did/
@@ -63951,6 +63987,8 @@
 做啥都行 做啥都行 [zuo4_sha2_dou1_xing2] /do whatever it takes (attitude)/whatever it takes, do (attitude)/
 做什麼都願意 做什么都愿意 [zuo4_shen2 me5_dou1_yuan4 yi5] /will do whatever it takes/whatever it takes, will do/
 做題 做题 [zuo4_ti2] /do a question/answer a question in an examination/question, do a/examination, answer a question in an/
+坐在輪以上 坐在轮以上 [zuo4_zai4_lun2 yi3_shang4] /in a wheelchair (common typing error?)/wheelchair, in a (common typing error?)/
+坐在輪椅上 坐在轮椅上 [zuo4_zai4_lun2 yi3_shang4] /in a wheelchair/confined to a wheelchair/wheelchair, in a/
 做作業 做作业 [zuo4_zuo4 ye4] /do homework/homework, do/
 作弊代碼 作弊代码 [zuo4 bi4_dai4 ma3] /cheat code (for video game)/code, cheat (for video game)/
 作弊碼 作弊码 [zuo4 bi4 ma3] /cheat code (for video game)/code, cheat (for video game)/
