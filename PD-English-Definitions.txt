@@ -5,6 +5,7 @@
 䴉		ibis
 䴕		woodpecker
 一		one
+㊀		one
 🈩		one
 一一		one after another
 一丁不識		illiterate
@@ -19,7 +20,6 @@
 一丝		one thread
 一丝一毫		an iota
 一个中国政策		one China policy
-一个🀄国政策		one China policy
 一个劲		continuously/persistently
 一个样		same
 一举两得		kill two birds with one stone
@@ -36,7 +36,6 @@
 一体		all concerned
 一体化		unification/integration
 一個中國政策		one China policy
-一個🀄國政策		one China policy
 一個勁		continuously/persistently
 一個勁兒		persistently
 一個樣		same
@@ -405,6 +404,7 @@
 丁香		clove/lilac
 丁香花		lilac
 七		seven/7
+㊆		seven/7
 七上八下		at sixes and sevens
 七十		seventy/70
 七台河市		Qitaihe
@@ -485,6 +485,7 @@
 丈母		mother-in-law/wife's mother
 丈母娘		mother-in-law/wife's mother
 三		3/three
+㊂		3/three
 🈪		3/three
 🉁		3/three
 三K党		Ku Klux Klan
@@ -641,6 +642,7 @@
 三鮮		three fresh ingredients (in cooking)
 三鲜		three fresh ingredients (in cooking)
 上		on
+㊤		on
 上万		over ten thousand
 上上下下		high and low/old and young/everybody
 上下		about/up and down
@@ -750,11 +752,8 @@
 上海戲劇學院		Shanghai Theatrical Institute
 上海戲劇學院		Shanghai Theatrical Institute
 上海浦东发展银行		Shanghai Pudong Development Bank
-上海浦🀀发展银行		Shanghai Pudong Development Bank
 上海浦东发展银行		Shanghai Pudong Development Bank
-上海浦🀀发展银行		Shanghai Pudong Development Bank
 上海浦东发展银行		Shanghai Pudong Development Bank
-上海浦🀀发展银行		Shanghai Pudong Development Bank
 上海浦東發展銀行		Shanghai Pudong Development Bank
 上海浦東發展銀行		Shanghai Pudong Development Bank
 上海浦東發展銀行		Shanghai Pudong Development Bank
@@ -863,6 +862,7 @@
 上齿		upper teeth
 上齿龈		upper alveolar ridge
 下		lower
+㊦		lower
 下一个		the next one/the next/next
 下一個		the next one/the next/next
 下一次		next
@@ -1060,13 +1060,9 @@
 不下於		as many as
 不下於		as many as
 不中意		not to one's liking
-不🀄意		not to one's liking
 不中意		not to one's liking
-不🀄意		not to one's liking
 不中用		unfit for anything/useless
-不🀄用		unfit for anything/useless
 不中用		unfit for anything/useless
-不🀄用		unfit for anything/useless
 不丹		Bhutan
 不丹		Bhutan
 不丹		Bhutan
@@ -1632,13 +1628,9 @@
 不安好心		have bad intentions
 不安好心		have bad intentions
 不完全中立		imperfect neutrality
-不完全🀄立		imperfect neutrality
 不完全中立		imperfect neutrality
-不完全🀄立		imperfect neutrality
 不完全中立		imperfect neutrality
-不完全🀄立		imperfect neutrality
 不完全中立		imperfect neutrality
-不完全🀄立		imperfect neutrality
 不完全叶		incomplete leaf
 不完全叶		incomplete leaf
 不完全叶		incomplete leaf
@@ -2858,23 +2850,17 @@
 世界貿易		world trade
 世界貿易		world trade
 世界貿易中心		World Trade Centre
-世界貿易🀄心		World Trade Centre
 世界貿易中心		World Trade Centre
-世界貿易🀄心		World Trade Centre
 世界貿易組織		World Trade Organization (WTO)/World Trade Organization
 世界貿易組織		World Trade Organization (WTO)/World Trade Organization
 世界贸易		world trade
 世界贸易		world trade
 世界贸易中心		World Trade Centre
-世界贸易🀄心		World Trade Centre
 世界贸易中心		World Trade Centre
-世界贸易🀄心		World Trade Centre
 世界贸易组织		World Trade Organization (WTO)/World Trade Organization
 世界贸易组织		World Trade Organization (WTO)/World Trade Organization
 世界金融中心		World Financial Centre
-世界金融🀄心		World Financial Centre
 世界金融中心		World Financial Centre
-世界金融🀄心		World Financial Centre
 世界銀行		World Bank
 世界銀行		World Bank
 世界银行		World Bank
@@ -2897,9 +2883,7 @@
 世袭		hereditary
 世襲		hereditary
 世貿中心		World Trade Centre
-世貿🀄心		World Trade Centre
 世贸中心		World Trade Centre
-世贸🀄心		World Trade Centre
 世锦赛		world championship
 世間		world/earth
 世间		world/earth
@@ -2907,7 +2891,6 @@
 世风		public morals
 丘		hillock/mound/grave
 丘北		Qiubei
-丘🀃		Qiubei
 丘北		Qiubei
 丘县		Qiu county
 丘吉尔		Churchill
@@ -2954,153 +2937,71 @@
 丛林		jungle/forest
 丛林		jungle/forest
 东		host/east
-🀀		host/east
 东丰		Dongfeng
-🀀丰		Dongfeng
 东亚		East Asia
-🀀亚		East Asia
 东亚运动会		East Asian Games
-🀀亚运动会		East Asian Games
 东京		Tokyo
-🀀京		Tokyo
 东京湾		Tokyo Bay
-🀀京湾		Tokyo Bay
 东光		Dongguang
-🀀光		Dongguang
 东兰		Donglan
-🀀兰		Donglan
 东北		northeast
-🀀北		northeast
-东🀃		northeast
 东北		northeast
-🀀北		northeast
 东北亚		Northeast Asia
-🀀北亚		Northeast Asia
-东🀃亚		Northeast Asia
 东北亚		Northeast Asia
-🀀北亚		Northeast Asia
 东北方		northeast
-🀀北方		northeast
-东🀃方		northeast
 东北方		northeast
-🀀北方		northeast
 东南		southeast
-东🀁		southeast
-🀀南		southeast
 东南亚		Southeast Asia
-东🀁亚		Southeast Asia
-🀀南亚		Southeast Asia
 东南亚国		Southeast Asia
-东🀁亚国		Southeast Asia
-🀀南亚国		Southeast Asia
 东南亚国家联盟		ASEAN (Association of Southeast Asian Nations)
-东🀁亚国家联盟		ASEAN (Association of Southeast Asian Nations)
-🀀南亚国家联盟		ASEAN (Association of Southeast Asian Nations)
 东南大学		Southeast University
-东🀁大学		Southeast University
-🀀南大学		Southeast University
 东南西北		all directions
-东南🀂北		all directions
-东🀁西北		all directions
-🀀南西北		all directions
-东南西🀃		all directions
 东南西北		all directions
-东南🀂北		all directions
-东🀁西北		all directions
-🀀南西北		all directions
 东印度公司		East India Company
-🀀印度公司		East India Company
 东印度公司		East India Company
-🀀印度公司		East India Company
 东台		Dongtai
-🀀台		Dongtai
 东台市		Dongtai
-🀀台市		Dongtai
 东吴大学		Soochow University
-🀀吴大学		Soochow University
 东坡		Dongpo
-🀀坡		Dongpo
 东宁		Dongning
-🀀宁		Dongning
 东家		master/landlord/boss
-🀀家		master/landlord/boss
 东山		Dongshan
-🀀山		Dongshan
 东山再起		stage a comeback
-🀀山再起		stage a comeback
 东帝汶		East Timor
-🀀帝汶		East Timor
 东平		Dongping
-🀀平		Dongping
 东德		East Germany
-🀀德		East Germany
 东拼西凑		scrape together
-东拼🀂凑		scrape together
-🀀拼西凑		scrape together
 东方		the East/the Orient/east
-🀀方		the East/the Orient/east
 东方文化		Oriental culture
-🀀方文化		Oriental culture
 东方航空		China Eastern Airlines
-🀀方航空		China Eastern Airlines
 东方黎族自治县		Dongfang Lizu autonomous county
-🀀方黎族自治县		Dongfang Lizu autonomous county
 东方黎族自治县		Dongfang Lizu autonomous county
-🀀方黎族自治县		Dongfang Lizu autonomous county
 东明		Dongming
-🀀明		Dongming
 东条英机		Tojo Hideki
-🀀条英机		Tojo Hideki
 东欧		Eastern Europe
-🀀欧		Eastern Europe
 东正教		Eastern Orthodox Church
-🀀正教		Eastern Orthodox Church
 东沟		Donggou
-🀀沟		Donggou
 东洋		Japan
-🀀洋		Japan
 东海		East China Sea
-🀀海		East China Sea
 东海		East China Sea
-🀀海		East China Sea
 东盟		ASEAN
-🀀盟		ASEAN
 东经		east longitude
-🀀经		east longitude
 东至		Dongzhi
-🀀至		Dongzhi
 东芝		Toshiba
-🀀芝		Toshiba
 东莞		Dongguan
-🀀莞		Dongguan
 东营市		Dongying
-🀀营市		Dongying
 东西		thing/east and west
-东🀂		thing/east and west
-🀀西		thing/east and west
 东边		the east
-🀀边		the east
 东辽		Dongliao
-🀀辽		Dongliao
 东道		host
-🀀道		host
 东道主		host
-🀀道主		host
 东部		east
-🀀部		east
 东阳		Dongyang
-🀀阳		Dongyang
 东阳市		Dongyang
-🀀阳市		Dongyang
 东非共同体		East African Community
-🀀非共同体		East African Community
 东面		east
-🀀面		east
 东风		east wind
-🀀风		east wind
 东鳞西爪		odds and ends
-东鳞🀂爪		odds and ends
-🀀鳞西爪		odds and ends
 丝		silk/trace/thread
 丝兰		yucca
 丝带		ribbon
@@ -3275,9 +3176,7 @@
 个		*/individual
 个个		each and every
 个中		therein
-个🀄		therein
 个中人		a person in the know
-个🀄人		a person in the know
 个人		personal/individual
 个人主义		individualism
 个人习语		idiolect
@@ -3300,737 +3199,370 @@
 丫頭		girl
 丫鬟		servant girl
 中		among
-🀄		among
+㊥		among
 🈭		among
 中专		technical secondary school
-🀄专		technical secondary school
 中世紀		medieval/Middle Ages
-🀄世紀		medieval/Middle Ages
 中世纪		medieval/Middle Ages
-🀄世纪		medieval/Middle Ages
 中东		Middle East
-中🀀		Middle East
-🀄东		Middle East
 中亚		Central Asia
-🀄亚		Central Asia
 中亚细亚		Central Asia
-🀄亚细亚		Central Asia
 中亞		Central Asia
-🀄亞		Central Asia
 中亞細亞		Central Asia
-🀄亞細亞		Central Asia
 中产阶层		middle class
-🀄产阶层		middle class
 中产阶级		bourgeoisie/middle class
-🀄产阶级		bourgeoisie/middle class
 中人		go-between/intermediary/mediator
-🀄人		go-between/intermediary/mediator
 中介		agent
-🀄介		agent
 中伤		slander
-🀄伤		slander
 中位数		median
-🀄位数		median
 中位數		median
-🀄位數		median
 中位數		median
-🀄位數		median
 中保		advocate
-🀄保		advocate
 中傷		slander
-🀄傷		slander
 中共		Chinese Communist
-🀄共		Chinese Communist
 中关村		Zhongguancun
-🀄关村		Zhongguancun
 中兴		resurgence
-🀄兴		resurgence
 中医学		traditional Chinese medicine
-🀄医学		traditional Chinese medicine
 中午		noon/midday
-🀄午		noon/midday
 中华		China
-🀄华		China
 中华全国总工会		All-China Federation of Trade Unions
-🀄华全国总工会		All-China Federation of Trade Unions
 中华全国总工会		All-China Federation of Trade Unions
-🀄华全国总工会		All-China Federation of Trade Unions
 中华文化		Chinese culture
-🀄华文化		Chinese culture
 中华民国		Republic of China
-🀄华民国		Republic of China
 中华航空公司		China Airlines
-🀄华航空公司		China Airlines
 中南海		Zhongnanhai
-中🀁海		Zhongnanhai
-🀄南海		Zhongnanhai
 中南海		Zhongnanhai
-中🀁海		Zhongnanhai
-🀄南海		Zhongnanhai
 中厅		foyer/lobby
-🀄厅		foyer/lobby
 中古		Sino-Cuban/Middle Ages
-🀄古		Sino-Cuban/Middle Ages
 中叶		middle period
-🀄叶		middle period
 中号		medium size
-🀄号		medium size
 中听		pleasant to the ear
-🀄听		pleasant to the ear
 中和		neutralize
-🀄和		neutralize
 中和剂		neutralizer
-🀄和剂		neutralizer
 中和劑		neutralizer
-🀄和劑		neutralizer
 中国		China
-🀄国		China
 中国中央电视台		China Central Television
-🀄国🀄央电视台		China Central Television
 中国人		Chinese person
-🀄国人		Chinese person
 中国人民大学		Renmin University
-🀄国人民大学		Renmin University
 中国人民解放军		Chinese People's Liberation Army (PLA)
-🀄国人民解放军		Chinese People's Liberation Army (PLA)
 中国传媒大学		Communication University of China
-🀄国传媒大学		Communication University of China
 中国保险监督管理委员会		China Insurance Regulatory Commission
-🀄国保险监督管理委员会		China Insurance Regulatory Commission
 中国保险监督管理委员会		China Insurance Regulatory Commission
-🀄国保险监督管理委员会		China Insurance Regulatory Commission
 中国光大银行		China Everbright Bank
-🀄国光大银行		China Everbright Bank
 中国光大银行		China Everbright Bank
-🀄国光大银行		China Everbright Bank
 中国共产主义青年团		Communist Youth League of China
-🀄国共产主义青年团		Communist Youth League of China
 中国共产主义青年团		Communist Youth League of China
-🀄国共产主义青年团		Communist Youth League of China
 中国共产党		Chinese Communist Party
-🀄国共产党		Chinese Communist Party
 中国农业银行		Agricultural Bank of China
-🀄国农业银行		Agricultural Bank of China
 中国农业银行		Agricultural Bank of China
-🀄国农业银行		Agricultural Bank of China
 中国制造		made in China
-🀄国制造		made in China
 中国化		sinicize
-🀄国化		sinicize
 中国历史博物馆		Museum of Chinese History
-🀄国历史博物馆		Museum of Chinese History
 中国国家博物馆		National Museum of China
-🀄国国家博物馆		National Museum of China
 中国国际广播电台		China Radio International
-🀄国国际广播电台		China Radio International
 中国城		Chinatown
-🀄国城		Chinatown
 中国工商银行		Industrial and Commercial Bank of China
-🀄国工商银行		Industrial and Commercial Bank of China
 中国工商银行		Industrial and Commercial Bank of China
-🀄国工商银行		Industrial and Commercial Bank of China
 中国工程院		Chinese Academy of Engineering
-🀄国工程院		Chinese Academy of Engineering
 中国建设银行		China Construction Bank
-🀄国建设银行		China Construction Bank
 中国建设银行		China Construction Bank
-🀄国建设银行		China Construction Bank
 中国式		Chinese style
-🀄国式		Chinese style
 中国教育和科研计算机网		China Education and Research Network
-🀄国教育和科研计算机网		China Education and Research Network
 中国文学艺术界联合会		China Federation of Literary and Art Circles
-🀄国文学艺术界联合会		China Federation of Literary and Art Circles
 中国日报		China Daily
-🀄国日报		China Daily
 中国民主促进会		China Association for Promoting Democracy
-🀄国民主促进会		China Association for Promoting Democracy
 中国民主同盟		China Democratic League
-🀄国民主同盟		China Democratic League
 中国民主建国会		China Democratic National Construction Association
-🀄国民主建国会		China Democratic National Construction Association
 中国民用航空局		Civil Aviation Administration of China
-🀄国民用航空局		Civil Aviation Administration of China
 中国海		China Sea
-🀄国海		China Sea
 中国海		China Sea
-🀄国海		China Sea
 中国电信		China Telecom
-🀄国电信		China Telecom
 中国社会科学院		Chinese Academy of Social Sciences
-🀄国社会科学院		Chinese Academy of Social Sciences
 中国社会科学院		Chinese Academy of Social Sciences
-🀄国社会科学院		Chinese Academy of Social Sciences
 中国科学院		Chinese Academy of Science
-🀄国科学院		Chinese Academy of Science
 中国经营报		China Business
-🀄国经营报		China Business
 中国联通		China Unicom
-🀄国联通		China Unicom
 中国菜		Chinese cuisine
-🀄国菜		Chinese cuisine
 中国证监会		China Securities Regulatory Commission
-🀄国证监会		China Securities Regulatory Commission
 中国银行		Bank of China
-🀄国银行		Bank of China
 中国银行		Bank of China
-🀄国银行		Bank of China
 中国银行业监督管理委员会		China Banking Regulatory Commission
-🀄国银行业监督管理委员会		China Banking Regulatory Commission
 中国银行业监督管理委员会		China Banking Regulatory Commission
-🀄国银行业监督管理委员会		China Banking Regulatory Commission
 中国银行业监督管理委员会		China Banking Regulatory Commission
-🀄国银行业监督管理委员会		China Banking Regulatory Commission
 中国青年报		China Youth Daily
-🀄国青年报		China Youth Daily
 中国青年报		China Youth Daily
-🀄国青年报		China Youth Daily
 中國		China
-🀄國		China
 中國人		Chinese person
-🀄國人		Chinese person
 中國人民大學		Renmin University
-🀄國人民大學		Renmin University
 中國人民解放軍		Chinese People's Liberation Army (PLA)
-🀄國人民解放軍		Chinese People's Liberation Army (PLA)
 中國保險監督管理委員會		China Insurance Regulatory Commission
-🀄國保險監督管理委員會		China Insurance Regulatory Commission
 中國保險監督管理委員會		China Insurance Regulatory Commission
-🀄國保險監督管理委員會		China Insurance Regulatory Commission
 中國傳媒大學		Communication University of China
-🀄國傳媒大學		Communication University of China
 中國光大銀行		China Everbright Bank
-🀄國光大銀行		China Everbright Bank
 中國光大銀行		China Everbright Bank
-🀄國光大銀行		China Everbright Bank
 中國共產主義青年團		Communist Youth League of China
-🀄國共產主義青年團		Communist Youth League of China
 中國共產主義青年團		Communist Youth League of China
-🀄國共產主義青年團		Communist Youth League of China
 中國共產黨		Chinese Communist Party
-🀄國共產黨		Chinese Communist Party
 中國化		sinicize
-🀄國化		sinicize
 中國城		Chinatown
-🀄國城		Chinatown
 中國學		Sinology
-🀄國學		Sinology
 中國工商銀行		Industrial and Commercial Bank of China
-🀄國工商銀行		Industrial and Commercial Bank of China
 中國工商銀行		Industrial and Commercial Bank of China
-🀄國工商銀行		Industrial and Commercial Bank of China
 中國工程院		Chinese Academy of Engineering
-🀄國工程院		Chinese Academy of Engineering
 中國建設銀行		China Construction Bank
-🀄國建設銀行		China Construction Bank
 中國建設銀行		China Construction Bank
-🀄國建設銀行		China Construction Bank
 中國式		Chinese style
-🀄國式		Chinese style
 中國教育和科研計算機網		China Education and Research Network
-🀄國教育和科研計算機網		China Education and Research Network
 中國文學藝術界聯合會		China Federation of Literary and Art Circles
-🀄國文學藝術界聯合會		China Federation of Literary and Art Circles
 中國文學藝術界聯合會		China Federation of Literary and Art Circles
-🀄國文學藝術界聯合會		China Federation of Literary and Art Circles
 中國日報		China Daily
-🀄國日報		China Daily
 中國民主促進會		China Association for Promoting Democracy
-🀄國民主促進會		China Association for Promoting Democracy
 中國民主同盟		China Democratic League
-🀄國民主同盟		China Democratic League
 中國民主建國會		China Democratic National Construction Association
-🀄國民主建國會		China Democratic National Construction Association
 中國海		China Sea
-🀄國海		China Sea
 中國海		China Sea
-🀄國海		China Sea
 中國社會科學院		Chinese Academy of Social Sciences
-🀄國社會科學院		Chinese Academy of Social Sciences
 中國社會科學院		Chinese Academy of Social Sciences
-🀄國社會科學院		Chinese Academy of Social Sciences
 中國科學院		Chinese Academy of Science
-🀄國科學院		Chinese Academy of Science
 中國經營報		China Business
-🀄國經營報		China Business
 中國聯通		China Unicom
-🀄國聯通		China Unicom
 中國聯通		China Unicom
-🀄國聯通		China Unicom
 中國菜		Chinese cuisine
-🀄國菜		Chinese cuisine
 中國製造		made in China
-🀄國製造		made in China
 中國證監會		China Securities Regulatory Commission
-🀄國證監會		China Securities Regulatory Commission
 中國農業銀行		Agricultural Bank of China
-🀄國農業銀行		Agricultural Bank of China
 中國農業銀行		Agricultural Bank of China
-🀄國農業銀行		Agricultural Bank of China
 中國銀行		Bank of China
-🀄國銀行		Bank of China
 中國銀行		Bank of China
-🀄國銀行		Bank of China
 中國銀行業監督管理委員會		China Banking Regulatory Commission
-🀄國銀行業監督管理委員會		China Banking Regulatory Commission
 中國銀行業監督管理委員會		China Banking Regulatory Commission
-🀄國銀行業監督管理委員會		China Banking Regulatory Commission
 中國銀行業監督管理委員會		China Banking Regulatory Commission
-🀄國銀行業監督管理委員會		China Banking Regulatory Commission
 中國電信		China Telecom
-🀄國電信		China Telecom
 中國青年報		China Youth Daily
-🀄國青年報		China Youth Daily
 中國青年報		China Youth Daily
-🀄國青年報		China Youth Daily
 中场		midfield
-🀄场		midfield
 中坚		backbone/nucleus
-🀄坚		backbone/nucleus
 中型		middle
-🀄型		middle
 中堅		backbone/nucleus
-🀄堅		backbone/nucleus
 中場		midfield
-🀄場		midfield
 中天		culmination
-🀄天		culmination
 中央		central/middle/centre
-🀄央		central/middle/centre
 中央书记处		Secretariat of the Central Committee
-🀄央书记处		Secretariat of the Central Committee
 中央全会		plenary session of the Central Committee
-🀄央全会		plenary session of the Central Committee
 中央全会		plenary session of the Central Committee
-🀄央全会		plenary session of the Central Committee
 中央全會		plenary session of the Central Committee
-🀄央全會		plenary session of the Central Committee
 中央全會		plenary session of the Central Committee
-🀄央全會		plenary session of the Central Committee
 中央台		Central Broadcasting Station
-🀄央台		Central Broadcasting Station
 中央委员会		Central Committee
-🀄央委员会		Central Committee
 中央委員會		Central Committee
-🀄央委員會		Central Committee
 中央政府		central government
-🀄央政府		central government
 中央書記處		Secretariat of the Central Committee
-🀄央書記處		Secretariat of the Central Committee
 中央电视台		China Central Television
-🀄央电视台		China Central Television
 中央研究院		Academia Sinica
-🀄央研究院		Academia Sinica
 中央社		Central News Agency
-🀄央社		Central News Agency
 中央社		Central News Agency
-🀄央社		Central News Agency
 中央銀行		central bank
-🀄央銀行		central bank
 中央銀行		central bank
-🀄央銀行		central bank
 中央银行		central bank
-🀄央银行		central bank
 中央银行		central bank
-🀄央银行		central bank
 中子		neutron
-🀄子		neutron
 中子弹		neutron bomb
-🀄子弹		neutron bomb
 中子彈		neutron bomb
-🀄子彈		neutron bomb
 中学		middle school
-🀄学		middle school
 中学生		middle-school student
-🀄学生		middle-school student
 中學		middle school
-🀄學		middle school
 中學生		middle-school student
-🀄學生		middle-school student
 中宁		Zhongning
-🀄宁		Zhongning
 中宣部		Central Propaganda Department
-🀄宣部		Central Propaganda Department
 中寧		Zhongning
-🀄寧		Zhongning
 中寧		Zhongning
-🀄寧		Zhongning
 中寧		Zhongning
-🀄寧		Zhongning
 中将		lieutenant general/vice admiral
-🀄将		lieutenant general/vice admiral
 中將		lieutenant general/vice admiral
-🀄將		lieutenant general/vice admiral
 中專		technical secondary school
-🀄專		technical secondary school
 中尉		first lieutenant
-🀄尉		first lieutenant
 中小学		primary and middle schools
-🀄小学		primary and middle schools
 中小學		primary and middle schools
-🀄小學		primary and middle schools
 中局		middle game
-🀄局		middle game
 中层		middle level
-🀄层		middle level
 中層		middle level
-🀄層		middle level
 中層		middle level
-🀄層		middle level
 中山		Zhongshan
-🀄山		Zhongshan
 中山市		Zhongshan
-🀄山市		Zhongshan
 中山服		Chinese tunic suit/Mao jacket
-🀄山服		Chinese tunic suit/Mao jacket
 中山装		Chinese tunic suit
-🀄山装		Chinese tunic suit
 中山裝		Chinese tunic suit
-🀄山裝		Chinese tunic suit
 中常		average
-🀄常		average
 中年		middle age
-🀄年		middle age
 中年		middle age
-🀄年		middle age
 中庭		courtyard
-🀄庭		courtyard
 中庸之道		doctrine of the mean
-🀄庸之道		doctrine of the mean
 中廳		foyer/lobby
-🀄廳		foyer/lobby
 中式		Chinese style
-🀄式		Chinese style
 中弹		hit by a bullet/shot
-🀄弹		hit by a bullet/shot
 中彈		hit by a bullet/shot
-🀄彈		hit by a bullet/shot
 中微子		neutrino
-🀄微子		neutrino
 中心		centre
-🀄心		centre
 中心点		centre
-🀄心点		centre
 中心粒		centriole
-🀄心粒		centriole
 中心粒		centriole
-🀄心粒		centriole
 中心語		qualified word
-🀄心語		qualified word
 中心语		qualified word
-🀄心语		qualified word
 中心點		centre
-🀄心點		centre
 中性		neutral
-🀄性		neutral
 中性粒細胞		neutrophil
-🀄性粒細胞		neutrophil
 中性粒細胞		neutrophil
-🀄性粒細胞		neutrophil
 中性粒细胞		neutrophil
-🀄性粒细胞		neutrophil
 中性粒细胞		neutrophil
-🀄性粒细胞		neutrophil
 中意		be to one's liking
-🀄意		be to one's liking
 中指		middle finger
-🀄指		middle finger
 中提琴		viola
-🀄提琴		viola
 中文		Chinese
-🀄文		Chinese
 中文化		Sinify
-🀄文化		Sinify
 中断		to discontinue/break off
-🀄断		to discontinue/break off
 中斷		to discontinue/break off
-🀄斷		to discontinue/break off
 中方		the Chinese side
-🀄方		the Chinese side
 中旬		middle third of a month
-🀄旬		middle third of a month
 中暑		heatstroke/sunstroke
-🀄暑		heatstroke/sunstroke
 中暑		heatstroke/sunstroke
-🀄暑		heatstroke/sunstroke
 中村		Nakamura
-🀄村		Nakamura
 中東		Middle East
-🀄東		Middle East
 中板		moderato
-🀄板		moderato
 中果皮		mesocarp
-🀄果皮		mesocarp
 中枢		pivot
-🀄枢		pivot
 中枢神经系统		central nervous system
-🀄枢神经系统		central nervous system
 中枢神经系统		central nervous system
-🀄枢神经系统		central nervous system
 中校		lieutenant colonel/commander
-🀄校		lieutenant colonel/commander
 中欧		Central Europe
-🀄欧		Central Europe
 中歐		Central Europe
-🀄歐		Central Europe
 中止		to cease
-🀄止		to cease
 中正		fair
-🀄正		fair
 中毒		be poisoned/poisoned
-🀄毒		be poisoned/poisoned
 中气层		mesosphere
-🀄气层		mesosphere
 中氣層		mesosphere
-🀄氣層		mesosphere
 中氣層		mesosphere
-🀄氣層		mesosphere
 中江		Zhongjiang
-🀄江		Zhongjiang
 中洋脊		mid-ocean ridge
-🀄洋脊		mid-ocean ridge
 中流		midstream
-🀄流		midstream
 中流		midstream
-🀄流		midstream
 中流		midstream
-🀄流		midstream
 中流砥柱		mainstay
-🀄流砥柱		mainstay
 中流砥柱		mainstay
-🀄流砥柱		mainstay
 中流砥柱		mainstay
-🀄流砥柱		mainstay
 中游		middle (of river etc)
-🀄游		middle (of river etc)
 中点		midpoint
-🀄点		midpoint
 中產階級		bourgeoisie/middle class
-🀄產階級		bourgeoisie/middle class
 中盘		middle game
-🀄盘		middle game
 中盤		middle game
-🀄盤		middle game
 中看		pleasant to the eye
-🀄看		pleasant to the eye
 中石器时代		Mesolithic
-🀄石器时代		Mesolithic
 中石器时代		Mesolithic
-🀄石器时代		Mesolithic
 中石器時代		Mesolithic
-🀄石器時代		Mesolithic
 中石器時代		Mesolithic
-🀄石器時代		Mesolithic
 中研院		Academia Sinica
-🀄研院		Academia Sinica
 中空		hollow
-🀄空		hollow
 中立		neutrality/neutral
-🀄立		neutrality/neutral
 中立		neutrality/neutral
-🀄立		neutrality/neutral
 中立位置		neutral position
-🀄立位置		neutral position
 中立位置		neutral position
-🀄立位置		neutral position
 中立化		neutralization
-🀄立化		neutralization
 中立化		neutralization
-🀄立化		neutralization
 中等		medium
-🀄等		medium
 中等学校		secondary school
-🀄等学校		secondary school
 中等學校		secondary school
-🀄等學校		secondary school
 中篇小說		novella
-🀄篇小說		novella
 中篇小說		novella
-🀄篇小說		novella
 中篇小說		novella
-🀄篇小說		novella
 中篇小说		novella
-🀄篇小说		novella
 中綴		infix
-🀄綴		infix
 中繼		to relay/relay
-🀄繼		to relay/relay
 中繼器		repeater
-🀄繼器		repeater
 中繼器		repeater
-🀄繼器		repeater
 中繼站		relay station
-🀄繼站		relay station
 中繼線		trunk line
-🀄繼線		trunk line
 中继		to relay/relay
-🀄继		to relay/relay
 中继器		repeater
-🀄继器		repeater
 中继器		repeater
-🀄继器		repeater
 中继站		relay station
-🀄继站		relay station
 中继线		trunk line
-🀄继线		trunk line
 中缀		infix
-🀄缀		infix
 中美洲		Central America
-🀄美洲		Central America
 中老年		middle and old age
-🀄老年		middle and old age
 中老年		middle and old age
-🀄老年		middle and old age
 中老年		middle and old age
-🀄老年		middle and old age
 中耕		intertill
-🀄耕		intertill
 中耳		middle ear
-🀄耳		middle ear
 中耳炎		tympanitis
-🀄耳炎		tympanitis
 中聽		pleasant to the ear
-🀄聽		pleasant to the ear
 中肯		pertinent/apropos
-🀄肯		pertinent/apropos
 中脑		mesencephal
-🀄脑		mesencephal
 中腦		mesencephal
-🀄腦		mesencephal
 中腹部		midriff
-🀄腹部		midriff
 中興		resurgence
-🀄興		resurgence
 中草药		Chinese herbal medicine
-🀄草药		Chinese herbal medicine
 中草藥		Chinese herbal medicine
-🀄草藥		Chinese herbal medicine
 中药		traditional Chinese medicine
-🀄药		traditional Chinese medicine
 中華		China
-🀄華		China
 中華		China
-🀄華		China
 中華全國總工會		All-China Federation of Trade Unions
-🀄華全國總工會		All-China Federation of Trade Unions
 中華全國總工會		All-China Federation of Trade Unions
-🀄華全國總工會		All-China Federation of Trade Unions
 中華全國總工會		All-China Federation of Trade Unions
-🀄華全國總工會		All-China Federation of Trade Unions
 中華文化		Chinese culture
-🀄華文化		Chinese culture
 中華文化		Chinese culture
-🀄華文化		Chinese culture
 中華民國		Republic of China
-🀄華民國		Republic of China
 中華民國		Republic of China
-🀄華民國		Republic of China
 中華航空公司		China Airlines
-🀄華航空公司		China Airlines
 中華航空公司		China Airlines
-🀄華航空公司		China Airlines
 中葉		middle period
-🀄葉		middle period
 中葉		middle period
-🀄葉		middle period
 中藥		traditional Chinese medicine
-🀄藥		traditional Chinese medicine
 中西		China and the West
-中🀂		China and the West
-🀄西		China and the West
 中西医结合		combine traditional Chinese and Western medicine
-中🀂医结合		combine traditional Chinese and Western medicine
-🀄西医结合		combine traditional Chinese and Western medicine
 中西部		midwest
-中🀂部		midwest
-🀄西部		midwest
 中西醫結合		combine traditional Chinese and Western medicine
-中🀂醫結合		combine traditional Chinese and Western medicine
-🀄西醫結合		combine traditional Chinese and Western medicine
 中計		be taken in/fall into a trap
-🀄計		be taken in/fall into a trap
 中计		be taken in/fall into a trap
-🀄计		be taken in/fall into a trap
 中輟		give up halfway
-🀄輟		give up halfway
 中轴线		central axis
-🀄轴线		central axis
 中辍		give up halfway
-🀄辍		give up halfway
 中途		midway
-🀄途		midway
 中途岛		Midway Island
-🀄途岛		Midway Island
 中途島		Midway Island
-🀄途島		Midway Island
 中邪		be bewitched
-🀄邪		be bewitched
 中部		central/central section
-🀄部		central/central section
 中醫學		traditional Chinese medicine
-🀄醫學		traditional Chinese medicine
 中量級		middleweight
-🀄量級		middleweight
 中量級		middleweight
-🀄量級		middleweight
 中量级		middleweight
-🀄量级		middleweight
 中量级		middleweight
-🀄量级		middleweight
 中鋒		centre (basketball)
-🀄鋒		centre (basketball)
 中锋		centre (basketball)
-🀄锋		centre (basketball)
 中間		middle
-🀄間		middle
 中間人		mediator
-🀄間人		mediator
 中間路線		middle road
-🀄間路線		middle road
 中間路線		middle road
-🀄間路線		middle road
 中關村		Zhongguancun
-🀄關村		Zhongguancun
 中间		middle
-🀄间		middle
 中间人		mediator
-🀄间人		mediator
 中间件		middleware
-🀄间件		middleware
 中间路线		middle road
-🀄间路线		middle road
 中间路线		middle road
-🀄间路线		middle road
 中隊		squadron
-🀄隊		squadron
 中青		China Youth
-🀄青		China Youth
 中非		Central Africa
-🀄非		Central Africa
 中非共和国		Central African Republic
-🀄非共和国		Central African Republic
 中飯		lunch
-🀄飯		lunch
 中飯		lunch
-🀄飯		lunch
 中飽		embezzle
-🀄飽		embezzle
 中餐館		Chinese restaurant
-🀄餐館		Chinese restaurant
 中餐館		Chinese restaurant
-🀄餐館		Chinese restaurant
 中餐馆		Chinese restaurant
-🀄餐馆		Chinese restaurant
 中饭		lunch
-🀄饭		lunch
 中饱		embezzle
-🀄饱		embezzle
 中點		midpoint
-🀄點		midpoint
 丰		plentiful
 丰产		bumper crop/high yield
 丰南		Fengnan
-丰🀁		Fengnan
 丰厚		thick
 丰县		Feng county
 丰城		Fengcheng
@@ -4135,13 +3667,9 @@
 丹		pellet/powder/red
 丹		pellet/powder/red
 丹东		Dandong
-丹🀀		Dandong
 丹东		Dandong
-丹🀀		Dandong
 丹东市		Dandong
-丹🀀市		Dandong
 丹东市		Dandong
-丹🀀市		Dandong
 丹佛		Denver
 丹佛		Denver
 丹凤		Danfeng
@@ -4450,7 +3978,6 @@
 之上		above
 之下		under
 之中		among/inside/in
-之🀄		among/inside/in
 之举		's choice
 之久		duration of
 之內		inside/within
@@ -4500,7 +4027,6 @@
 乌漆墨黑		pitch-dark
 乌苏		Wusu
 乌西亚		Uzzia
-乌🀂亚		Uzzia
 乌贼		cuttle/cuttlefish
 乌鲁木齐		Urumqi
 乌鲳		black pomfret
@@ -4526,9 +4052,7 @@
 乐不思蜀		indulge in pleasure and forget home and duty
 乐业		Leye
 乐东黎族自治县		Ledong Lizu autonomous county
-乐🀀黎族自治县		Ledong Lizu autonomous county
 乐东黎族自治县		Ledong Lizu autonomous county
-乐🀀黎族自治县		Ledong Lizu autonomous county
 乐事		pleasure
 乐于		be happy to
 乐善好施		charitable
@@ -4537,7 +4061,6 @@
 乐团		band
 乐园		paradise
 乐在其中		happy in
-乐在其🀄		happy in
 乐坛		music circles
 乐天		happy-go-lucky
 乐天派		optimist
@@ -4656,6 +4179,7 @@
 乜嘢		what? (Cantonese)
 乜斜		squint
 九		9/nine
+㊈		9/nine
 九九乘法表		multiplication table
 九十		ninety
 九台		Jiutai
@@ -5051,6 +4575,7 @@
 事项		item
 事體		affair
 二		2/two
+㊁		2/two
 🈔		2/two
 🉂		2/two
 二來		in the second place
@@ -5135,7 +4660,6 @@
 于都		Yudu
 于都		Yudu
 于雾霭之中		becloud
-于雾霭之🀄		becloud
 亏		deficiency/luckily
 亏得		fortunately/luckily
 亏损		deficit/lose
@@ -5147,11 +4671,8 @@
 云		cloud
 云云		and so on
 云南		Yunnan province/Yunnan
-云🀁		Yunnan province/Yunnan
 云南省		Yunnan Province
-云🀁省		Yunnan Province
 云南省		Yunnan Province
-云🀁省		Yunnan Province
 云县		Yun county
 云吞		wonton
 云和		Yunhe
@@ -5219,6 +4740,7 @@
 互連		interconnection
 亓		their
 五		5/five
+㊄		5/five
 五七干部学校		May 7 Cadre School
 五七幹部學校		May 7 Cadre School
 五代十国		Five Dynasties (907-960) and Ten Kingdoms (902-979)
@@ -5313,7 +4835,6 @@
 亚		second/inferior/Asia
 亚丁		Aden
 亚东		Yadong
-亚🀀		Yadong
 亚们		Amon
 亚伯		Abel/Abe
 亚伯拉罕		Abraham
@@ -5383,7 +4904,6 @@
 亚美尼亚语		Armenian
 亚该亚		Achaia
 亚达薛西		Artaxerxes
-亚达薛🀂		Artaxerxes
 亚运		Asian Games
 亚运会		Asian Games
 亚运村		Yayuncun
@@ -5488,7 +5008,6 @@
 亞運		Asian Games
 亞運村		Yayuncun
 亞達薛西		Artaxerxes
-亞達薛🀂		Artaxerxes
 亞里士多德		Aristotle
 亞里士多德		Aristotle
 亞里斯多德		Aristotle
@@ -5828,7 +5347,6 @@
 人世間		human world
 人世间		human world
 人中		philtrum
-人🀄		philtrum
 人为		man-made/artificial
 人事		human affairs
 人事变动		personnel change
@@ -6213,9 +5731,7 @@
 从不		never
 从不		never
 从中		therefrom/from
-从🀄		therefrom/from
 从中作梗		interfere
-从🀄作梗		interfere
 从事		to engage in/deal with/to deal with
 从事研究		to do research
 从今以后		from today on
@@ -6463,7 +5979,6 @@
 以利沙		Elisha
 以前		previous/formerly/before
 以北		to the north of
-以🀃		to the north of
 以北		to the north of
 以及		and/as well as
 以后		after/afterwards/later
@@ -6510,11 +6025,8 @@
 以色列人		Israeli/Israelite
 以色列人		Israeli/Israelite
 以西		to the west
-以🀂		to the west
 以西結書		Book of Ezekiel
-以🀂結書		Book of Ezekiel
 以西结书		Book of Ezekiel
-以🀂结书		Book of Ezekiel
 以賽亞書		Book of Isaiah
 以赛亚书		Book of Isaiah
 以身作则		set an example
@@ -6629,6 +6141,7 @@
 仿製品		imitation
 仿造		copy/counterfeit
 企		stand on tiptoe
+㊭		stand on tiptoe
 企业		company/business/enterprise
 企业内网路		intranet
 企业内网路		intranet
@@ -6810,6 +6323,7 @@
 伐		attack/fell/cut down
 伐木工人		lumberjack
 休		to rest
+㊡		to rest
 休伊特		Hewitt
 休会		adjourn
 休伯特		Hubert
@@ -6895,7 +6409,6 @@
 伙夫		mess cook
 会		can/union
 会东		Huidong
-会🀀		Huidong
 会众		participants/congregation
 会党		anti-Qing secret societies
 会厌		epiglottis
@@ -7000,7 +6513,6 @@
 传给		pass on to
 传统		traditional/tradition/convention
 传统中国医药		Chinese traditional medicine
-传统🀄国医药		Chinese traditional medicine
 传统医药		Chinese traditional medicine
 传统教育		traditional education
 传言		rumor/hearsay
@@ -7129,7 +6641,6 @@
 伯勞鳥		shrike
 伯勞鳥		shrike
 伯南布哥		Pernambuco
-伯🀁布哥		Pernambuco
 伯叔祖母		great aunt
 伯叔祖母		great aunt
 伯叔祖父		great uncle
@@ -7452,9 +6963,7 @@
 何苦		why bother
 何處		where
 何西阿书		Book of Hosea
-何🀂阿书		Book of Hosea
 何西阿書		Book of Hosea
-何🀂阿書		Book of Hosea
 何謂		what is the meaning of
 何谓		what is/what is the meaning of
 佗		carry on the back
@@ -7753,11 +7262,8 @@
 使用者		user
 使用者		user
 使用者中介		user agent
-使用者🀄介		user agent
 使用者中介		user agent
-使用者🀄介		user agent
 使用者中介		user agent
-使用者🀄介		user agent
 使用量		volume of use
 使用量		volume of use
 使硬化		harden
@@ -8117,9 +7623,7 @@
 便		then
 便		then
 便中		at one's convenience
-便🀄		at one's convenience
 便中		at one's convenience
-便🀄		at one's convenience
 便于		easy to/convenient for
 便于		easy to/convenient for
 便便		obese
@@ -8514,7 +8018,6 @@
 信念		faith/belief/conviction
 信息		information/message/news
 信息中心		information centre
-信息🀄心		information centre
 信息产业部		Ministry of Information Industries
 信息传视		videotex
 信息傳視		videotex
@@ -8721,9 +8224,7 @@
 倉皇		panic
 倉鼠		hamster
 個中		therein
-個🀄		therein
 個中人		a person in the know
-個🀄人		a person in the know
 個人		personal/individual
 個人主義		individualism
 個人崇拜		personality cult
@@ -9114,7 +8615,6 @@
 偕		in company with
 做		do/be
 做东		to act as host
-做🀀		to act as host
 做主		decide
 做买卖		do business
 做事		handle matters/work
@@ -9368,7 +8868,6 @@
 傑斐遜城		Jefferson City
 傑米		Jamie
 傑西卡		Jessica
-傑🀂卡		Jessica
 傑里米		Jeremy
 傑里米		Jeremy
 傖		rough/low fellow/rude
@@ -9500,7 +8999,6 @@
 傳給		pass on to
 傳統		traditional/tradition/convention
 傳統中國醫藥		Chinese traditional medicine
-傳統🀄國醫藥		Chinese traditional medicine
 傳統教育		traditional education
 傳統醫藥		Chinese traditional medicine
 傳聞		rumor
@@ -9757,6 +9255,7 @@
 償還		repay/to repay
 儡		injure
 優		superior/excellent
+㊝		superior/excellent
 優伶		actor/actress
 優先		priority
 優劣		good and bad
@@ -10216,7 +9715,6 @@
 光顾		patronize
 克		to restrain/gram
 克东		Kedong
-克🀀		Kedong
 克什米尔		Kashmir
 克什米尔		Kashmir
 克什米爾		Kashmir
@@ -10658,9 +10156,7 @@
 全力以赴		do at all costs
 全力以赴		do at all costs
 全南		Quannan
-全🀁		Quannan
 全南		Quannan
-全🀁		Quannan
 全同		identical
 全同		identical
 全名		full name
@@ -10818,9 +10314,7 @@
 全身		whole body
 全身		whole body
 全身中毒性毒剂		systemic agent
-全身🀄毒性毒剂		systemic agent
 全身中毒性毒剂		systemic agent
-全身🀄毒性毒剂		systemic agent
 全部		entire
 全部		entire
 全都		all/without exception
@@ -10916,6 +10410,7 @@
 兩黨制		two-party system
 兩黨制		two-party system
 八		8/eight
+㊇		8/eight
 八九不离十		pretty close/about right
 八九不离十		pretty close/about right
 八九不離十		pretty close/about right
@@ -11242,6 +10737,7 @@
 公鹿		stag/buck
 公鹿		stag/buck
 六		six/6
+㊅		six/6
 六		six/6
 六亲		one's kin
 六亲		one's kin
@@ -11399,7 +10895,6 @@
 关		close
 关上		window
 关东		Northeast China
-关🀀		Northeast China
 关乎		concern
 关于		about
 关切		be deeply concerned
@@ -11434,7 +10929,6 @@
 关节		joint
 关节炎		arthritis
 关西		Kansai
-关🀂		Kansai
 关贸总协定		GATT
 关达		Gwanda
 关进		shut in/impound
@@ -11548,7 +11042,6 @@
 其一		firstly/first
 其三		thirdly/third
 其中		among/in
-其🀄		among/in
 其二		secondly/second
 其他		other
 其余		the rest
@@ -11913,6 +11406,7 @@
 冗食		eating without working
 冗餘		redundancy/redundant
 写		write/to write
+㊢		write/to write
 写下		to write down/write down
 写作		writing
 写信		write a letter/to write a letter
@@ -12676,7 +12170,6 @@
 凯尔		Kyl
 凯尔特人		Celt
 凯尔西		Kelsey
-凯尔🀂		Kelsey
 凯尼恩		Kenyon
 凯恩斯		Cairns/Keynes
 凯悦		Hyatt
@@ -12958,7 +12451,6 @@
 出面		appear personally
 击		strike/to hit/hit
 击中		hit
-击🀄		hit
 击倒		knock down
 击剑		fencing
 击发		percussion
@@ -13248,9 +12740,7 @@
 切實可行		practical/feasible
 切實可行		practical/feasible
 切尔西		Chelsea
-切尔🀂		Chelsea
 切尔西		Chelsea
-切尔🀂		Chelsea
 切尔诺贝利		Chernobyl
 切尔诺贝利		Chernobyl
 切尔诺贝利		Chernobyl
@@ -13274,9 +12764,7 @@
 切望		eagerly anticipate
 切望		eagerly anticipate
 切爾西		Chelsea
-切爾🀂		Chelsea
 切爾西		Chelsea
-切爾🀂		Chelsea
 切爾諾貝利		Chernobyl
 切爾諾貝利		Chernobyl
 切爾諾貝利		Chernobyl
@@ -13507,7 +12995,6 @@
 🈠		first
 初一		New Year's Day/first
 初中		junior high school
-初🀄		junior high school
 初具規模		begin to take shape
 初具规模		begin to take shape
 初冬		early winter
@@ -13544,10 +13031,8 @@
 初等教育		primary education
 初級		junior/primary
 初級中學		junior middle school
-初級🀄學		junior middle school
 初级		junior/primary
 初级中学		junior middle school
-初级🀄学		junior middle school
 初衷		original intention
 初試		preliminary test
 初试		preliminary test
@@ -14681,13 +14166,9 @@
 加利福尼亞理工學院		California Institute of Technology
 加利福尼亞理工學院		California Institute of Technology
 加利西亚		Galicia
-加利🀂亚		Galicia
 加利西亚		Galicia
-加利🀂亚		Galicia
 加利西亞		Galicia
-加利🀂亞		Galicia
 加利西亞		Galicia
-加利🀂亞		Galicia
 加剧		to aggravate/aggravate/intensify
 加劇		to aggravate/aggravate/intensify
 加勒比		Caribbean
@@ -14810,9 +14291,7 @@
 加蓋		seal
 加蓬		Gabon
 加西亚		Garcia
-加🀂亚		Garcia
 加西亞		Garcia
-加🀂亞		Garcia
 加農炮		cannon
 加速		accelerate/expedite
 加速度		acceleration
@@ -14987,6 +14466,7 @@
 劲头		vigor/enthusiasm/strength
 劲风		gale/strong wind
 劳		toil/console
+㊘		toil/console
 劳伦斯		Lawrence
 劳倦		exhausted
 劳力		labour
@@ -15678,307 +15158,199 @@
 化验		laboratory test
 化齋		beg for food (of monks)
 北		north
-🀃		north
 北		north
 北京		Beijing
-🀃京		Beijing
 北京		Beijing
 北京周報		Beijing Review
-🀃京周報		Beijing Review
 北京周報		Beijing Review
 北京周报		Beijing Review
-🀃京周报		Beijing Review
 北京周报		Beijing Review
 北京城		Beijing
-🀃京城		Beijing
 北京城		Beijing
 北京大学		Peking University
-🀃京大学		Peking University
 北京大学		Peking University
 北京大學		Peking University
-🀃京大學		Peking University
 北京大學		Peking University
 北京市		Beijing
-🀃京市		Beijing
 北京市		Beijing
 北京师范大学		Beijing Normal University
-🀃京师范大学		Beijing Normal University
 北京师范大学		Beijing Normal University
 北京日報		Beijing Daily
-🀃京日報		Beijing Daily
 北京日報		Beijing Daily
 北京日报		Beijing Daily
-🀃京日报		Beijing Daily
 北京日报		Beijing Daily
 北京晨報		Beijing Morning Post
-🀃京晨報		Beijing Morning Post
 北京晨報		Beijing Morning Post
 北京晨报		Beijing Morning Post
-🀃京晨报		Beijing Morning Post
 北京晨报		Beijing Morning Post
 北京艺术学院		Beijing Academy of Fine Arts
-🀃京艺术学院		Beijing Academy of Fine Arts
 北京艺术学院		Beijing Academy of Fine Arts
 北京藝術學院		Beijing Academy of Fine Arts
-🀃京藝術學院		Beijing Academy of Fine Arts
 北京藝術學院		Beijing Academy of Fine Arts
 北京青年報		Beijing Youth Daily
-🀃京青年報		Beijing Youth Daily
 北京青年報		Beijing Youth Daily
 北京青年報		Beijing Youth Daily
-🀃京青年報		Beijing Youth Daily
 北京青年报		Beijing Youth Daily
-🀃京青年报		Beijing Youth Daily
 北京青年报		Beijing Youth Daily
 北京青年报		Beijing Youth Daily
-🀃京青年报		Beijing Youth Daily
 北京音		Beijing pronunciation
-🀃京音		Beijing pronunciation
 北京音		Beijing pronunciation
 北伐军		the Northern Expeditionary Army
-🀃伐军		the Northern Expeditionary Army
 北伐军		the Northern Expeditionary Army
 北伐軍		the Northern Expeditionary Army
-🀃伐軍		the Northern Expeditionary Army
 北伐軍		the Northern Expeditionary Army
 北冕座		Corona Borealis
-🀃冕座		Corona Borealis
 北冕座		Corona Borealis
 北卡罗来纳		North Carolina
-🀃卡罗来纳		North Carolina
 北卡罗来纳		North Carolina
 北卡羅來納		North Carolina
-🀃卡羅來納		North Carolina
 北卡羅來納		North Carolina
-🀃卡羅來納		North Carolina
 北卡羅來納		North Carolina
 北卡羅來納		North Carolina
-🀃卡羅來納		North Carolina
 北印度語		Hindi
-🀃印度語		Hindi
 北印度語		Hindi
-🀃印度語		Hindi
 北印度語		Hindi
 北印度语		Hindi
-🀃印度语		Hindi
 北印度语		Hindi
-🀃印度语		Hindi
 北印度语		Hindi
 北回归线		Tropic of Cancer
-🀃回归线		Tropic of Cancer
 北回归线		Tropic of Cancer
 北回歸線		Tropic of Cancer
-🀃回歸線		Tropic of Cancer
 北回歸線		Tropic of Cancer
 北国		the northern part of the country/the north
-🀃国		the northern part of the country/the north
 北国		the northern part of the country/the north
 北國		the northern part of the country/the north
-🀃國		the northern part of the country/the north
 北國		the northern part of the country/the north
 北大		Beijing University
-🀃大		Beijing University
 北大		Beijing University
 北大西洋		North Atlantic
-北大🀂洋		North Atlantic
-🀃大西洋		North Atlantic
 北大西洋		North Atlantic
-北大🀂洋		North Atlantic
 北安普敦		Northampton
-🀃安普敦		Northampton
 北安普敦		Northampton
 北宋		Northern Song
-🀃宋		Northern Song
 北宋		Northern Song
 北寒带		the north frigid zone
-🀃寒带		the north frigid zone
 北寒带		the north frigid zone
 北寒帶		the north frigid zone
-🀃寒帶		the north frigid zone
 北寒帶		the north frigid zone
 北屯区		Peitun
-🀃屯区		Peitun
 北屯区		Peitun
 北川		Beichuan
-🀃川		Beichuan
 北川		Beichuan
 北愛爾蘭		Northern Ireland
-🀃愛爾蘭		Northern Ireland
 北愛爾蘭		Northern Ireland
-🀃愛爾蘭		Northern Ireland
 北愛爾蘭		Northern Ireland
 北戴河		Beidaihe
-🀃戴河		Beidaihe
 北戴河		Beidaihe
 北戴河		Beidaihe
-🀃戴河		Beidaihe
 北斗星		the Plow/the Big Dipper
-🀃斗星		the Plow/the Big Dipper
 北斗星		the Plow/the Big Dipper
 北斗镇		Peitou
-🀃斗镇		Peitou
 北斗镇		Peitou
 北方		north
-🀃方		north
 北方		north
 北朝		Northern Dynasties (386-581)
-🀃朝		Northern Dynasties (386-581)
 北朝		Northern Dynasties (386-581)
 北朝鮮		North Korea
-🀃朝鮮		North Korea
 北朝鮮		North Korea
 北朝鲜		North Korea
-🀃朝鲜		North Korea
 北朝鲜		North Korea
 北极		North
-🀃极		North
 北极		North
 北极光		aurora borealis
-🀃极光		aurora borealis
 北极光		aurora borealis
 北极圈		Arctic Circle
-🀃极圈		Arctic Circle
 北极圈		Arctic Circle
 北极星		Polaris/North Star
-🀃极星		Polaris/North Star
 北极星		Polaris/North Star
 北极熊		polar bear
-🀃极熊		polar bear
 北极熊		polar bear
 北極		North
-🀃極		North
 北極		North
 北極光		aurora borealis
-🀃極光		aurora borealis
 北極光		aurora borealis
 北極圈		Arctic Circle
-🀃極圈		Arctic Circle
 北極圈		Arctic Circle
 北極星		Polaris/North Star
-🀃極星		Polaris/North Star
 北極星		Polaris/North Star
 北極熊		polar bear
-🀃極熊		polar bear
 北極熊		polar bear
 北流		Beiliu
-🀃流		Beiliu
 北流		Beiliu
-🀃流		Beiliu
 北流		Beiliu
-🀃流		Beiliu
 北流		Beiliu
 北流市		Beiliu
-🀃流市		Beiliu
 北流市		Beiliu
-🀃流市		Beiliu
 北流市		Beiliu
-🀃流市		Beiliu
 北流市		Beiliu
 北海		the North Sea
-🀃海		the North Sea
 北海		the North Sea
-🀃海		the North Sea
 北海		the North Sea
 北海市		Beihai
-🀃海市		Beihai
 北海市		Beihai
-🀃海市		Beihai
 北海市		Beihai
 北海道		Hokkaido
-🀃海道		Hokkaido
 北海道		Hokkaido
-🀃海道		Hokkaido
 北海道		Hokkaido
 北温带		the north temperate zone
-🀃温带		the north temperate zone
 北温带		the north temperate zone
 北溫帶		the north temperate zone
-🀃溫帶		the north temperate zone
 北溫帶		the north temperate zone
 北爱尔兰		Northern Ireland
-🀃爱尔兰		Northern Ireland
 北爱尔兰		Northern Ireland
 北票		Beipiao
-🀃票		Beipiao
 北票		Beipiao
 北票市		Beipiao
-🀃票市		Beipiao
 北票市		Beipiao
 北端		northern extremity
-🀃端		northern extremity
 北端		northern extremity
 北竿乡		Peikan
-🀃竿乡		Peikan
 北竿乡		Peikan
 北約		NATO
-🀃約		NATO
 北約		NATO
 北緯		north
-🀃緯		north
 北緯		north
 北约		NATO
-🀃约		NATO
 北约		NATO
 北纬		north
-🀃纬		north
 北纬		north
 北美		North America
-🀃美		North America
 北美		North America
 北美洲		North America
-🀃美洲		North America
 北美洲		North America
 北美馴鹿		caribou
-🀃美馴鹿		caribou
 北美馴鹿		caribou
-🀃美馴鹿		caribou
 北美馴鹿		caribou
 北美驯鹿		caribou
-🀃美驯鹿		caribou
 北美驯鹿		caribou
-🀃美驯鹿		caribou
 北美驯鹿		caribou
 北荷兰		North Holland
-🀃荷兰		North Holland
 北荷兰		North Holland
 北越		North Vietnam
-🀃越		North Vietnam
 北越		North Vietnam
 北边		northern part/north/north side
-🀃边		northern part/north/north side
 北边		northern part/north/north side
 北达科他		North Dakota
-🀃达科他		North Dakota
 北达科他		North Dakota
 北達科他		North Dakota
-🀃達科他		North Dakota
 北達科他		North Dakota
 北邊		northern part/north/north side
-🀃邊		northern part/north/north side
 北邊		northern part/north/north side
 北部		northern part
-🀃部		northern part
 北部		northern part
 北鎮滿族自治縣		Beizhen
-🀃鎮滿族自治縣		Beizhen
 北鎮滿族自治縣		Beizhen
 北镇满族自治县		Beizhen
-🀃镇满族自治县		Beizhen
 北镇满族自治县		Beizhen
 北门乡		Peimen
-🀃门乡		Peimen
 北门乡		Peimen
 北非		North Africa
-🀃非		North Africa
 北非		North Africa
 北面		northern side/north
-🀃面		northern side/north
 北面		northern side/north
 北韓		North Korea
-🀃韓		North Korea
 北韓		North Korea
 北韩		North Korea
-🀃韩		North Korea
 北韩		North Korea
 匙		spoon
 匝加利亚		Zechariah
@@ -16048,6 +15420,7 @@
 区域网路技术		LAN technology
 区处		handle
 医		doctor
+㊩		doctor
 医书		medical book
 医保		medical insurance
 医务		medical matters
@@ -16057,7 +15430,6 @@
 医学		medicine/medical science
 医学专家		medical expert
 医学中心		medical centre
-医学🀄心		medical centre
 医学家		medical scientist
 医学界		medical circles
 医学院		medical school
@@ -16114,6 +15486,7 @@
 區處		handle
 區號		area code
 十		10/ten
+㊉		10/ten
 十一		11/eleven
 十一月		November
 十七		seventeen/17
@@ -16326,7 +15699,6 @@
 半		half
 半个		half
 半中腰		middle/halfway
-半🀄腰		middle/halfway
 半乳糖血症		galactosemia
 半乳糖血症		galactosemia
 半人馬座		Centaurus
@@ -16412,7 +15784,6 @@
 半生		half a lifetime
 半票		half fare
 半空中		in the air
-半空🀄		in the air
 半群		semigroup
 半胱氨酸		cysteine
 半腰		middle/halfway
@@ -16458,17 +15829,14 @@
 半點		the least bit
 华		flower/China
 华东		East China
-华🀀		East China
 华为		Huawei
 华丽		gorgeous
 华亭		Huating
 华人		ethnic Chinese
 华侨		overseas Chinese
 华北		North China
-华🀃		North China
 华北		North China
 华北平原		North China plain
-华🀃平原		North China plain
 华北平原		North China plain
 华县		Hua county
 华发		gray hair
@@ -16506,7 +15874,6 @@
 华莱士		Wallace
 华裔		ethnic Chinese
 华西		West China
-华🀂		West China
 华语		Chinese language
 华贵		sumptuous
 华里		li
@@ -16582,6 +15949,7 @@
 卓资		Zhuozi
 卓越		outstanding
 協		to help/assist/cooperate
+㊯		to help/assist/cooperate
 協作		coordination/cooperation
 協助		assist
 協同作用		synergy
@@ -16702,318 +16070,160 @@
 卖给		sell to
 卖身		prostitute oneself
 南		south
-🀁		south
 南丰		Nanfeng
-🀁丰		Nanfeng
 南丹		Nandan
-🀁丹		Nandan
 南丹		Nandan
-🀁丹		Nandan
 南乐		Nanle
-🀁乐		Nanle
 南亚		southern Asia
-🀁亚		southern Asia
 南亚区域合作联盟		South Asian Association for Regional Cooperation
-🀁亚区域合作联盟		South Asian Association for Regional Cooperation
 南亞		southern Asia
-🀁亞		southern Asia
 南亞區域合作聯盟		South Asian Association for Regional Cooperation
-🀁亞區域合作聯盟		South Asian Association for Regional Cooperation
 南亞區域合作聯盟		South Asian Association for Regional Cooperation
-🀁亞區域合作聯盟		South Asian Association for Regional Cooperation
 南京		Nanjing
-🀁京		Nanjing
 南京农业大学		Nanjing Agricultural University
-🀁京农业大学		Nanjing Agricultural University
 南京大学		Nanjing University
-🀁京大学		Nanjing University
 南京大學		Nanjing University
-🀁京大學		Nanjing University
 南京市		Nanjing
-🀁京市		Nanjing
 南京農業大學		Nanjing Agricultural University
-🀁京農業大學		Nanjing Agricultural University
 南充		Nanchong
-🀁充		Nanchong
 南充		Nanchong
-🀁充		Nanchong
 南充市		Nanchong
-🀁充市		Nanchong
 南充市		Nanchong
-🀁充市		Nanchong
 南冕座		Corona Australis
-🀁冕座		Corona Australis
 南冰洋		Antarctic Ocean
-🀁冰洋		Antarctic Ocean
 南化乡		Nanhua
-🀁化乡		Nanhua
 南北		north and south
-🀁北		north and south
-南🀃		north and south
 南北		north and south
-🀁北		north and south
 南北朝		Northern and Southern dynasties (420-589)
-🀁北朝		Northern and Southern dynasties (420-589)
-南🀃朝		Northern and Southern dynasties (420-589)
 南北朝		Northern and Southern dynasties (420-589)
-🀁北朝		Northern and Southern dynasties (420-589)
 南北极		south and north poles
-🀁北极		south and north poles
-南🀃极		south and north poles
 南北极		south and north poles
-🀁北极		south and north poles
 南北極		south and north poles
-🀁北極		south and north poles
-南🀃極		south and north poles
 南北極		south and north poles
-🀁北極		south and north poles
 南匯		Nanhui
-🀁匯		Nanhui
 南十字座		Crux/Southern Cross
-🀁十字座		Crux/Southern Cross
 南半球		Southern Hemisphere
-🀁半球		Southern Hemisphere
 南华		Nanhua
-🀁华		Nanhua
 南华早报		South China Morning Post
-🀁华早报		South China Morning Post
 南卡罗来纳		South Carolina
-🀁卡罗来纳		South Carolina
 南卡罗来纳州		South Carolina
-🀁卡罗来纳州		South Carolina
 南卡羅來納		South Carolina
-🀁卡羅來納		South Carolina
 南卡羅來納		South Carolina
-🀁卡羅來納		South Carolina
 南卡羅來納		South Carolina
-🀁卡羅來納		South Carolina
 南卡羅來納州		South Carolina
-🀁卡羅來納州		South Carolina
 南卡羅來納州		South Carolina
-🀁卡羅來納州		South Carolina
 南卡羅來納州		South Carolina
-🀁卡羅來納州		South Carolina
 南县		Nan county
-🀁县		Nan county
 南召		Nanzhao
-🀁召		Nanzhao
 南和		Nanhe
-🀁和		Nanhe
 南回归线		Tropic of Capricorn
-🀁回归线		Tropic of Capricorn
 南回歸線		Tropic of Capricorn
-🀁回歸線		Tropic of Capricorn
 南國		southern part of a country
-🀁國		southern part of a country
 南坪		Nanping
-🀁坪		Nanping
 南城		Nancheng
-🀁城		Nancheng
 南大		Nanjing University
-🀁大		Nanjing University
 南宁		Nanning
-🀁宁		Nanning
 南安普敦		Southampton
-🀁安普敦		Southampton
 南宋		Southern Song
-🀁宋		Southern Song
 南定		Nam Dinh
-🀁定		Nam Dinh
 南宫		Nangong
-🀁宫		Nangong
 南宫市		Nangong
-🀁宫市		Nangong
 南宮		Nangong
-🀁宮		Nangong
 南宮市		Nangong
-🀁宮市		Nangong
 南寧		Nanning
-🀁寧		Nanning
 南寧		Nanning
-🀁寧		Nanning
 南寧		Nanning
-🀁寧		Nanning
 南屯区		Nantun
-🀁屯区		Nantun
 南川		Nanchuan
-🀁川		Nanchuan
 南州乡		Nanchou
-🀁州乡		Nanchou
 南希		Nancy
-🀁希		Nancy
 南平		Nanping
-🀁平		Nanping
 南平市		Nanping
-🀁平市		Nanping
 南康		Nankang
-🀁康		Nankang
 南开		Nankai
-🀁开		Nankai
 南开大学		Nankai University
-🀁开大学		Nankai University
 南投		Nantou
-🀁投		Nantou
 南斯拉夫		Yugoslavia
-🀁斯拉夫		Yugoslavia
 南斯拉夫		Yugoslavia
-🀁斯拉夫		Yugoslavia
 南方		southern/south
-🀁方		southern/south
 南方周末		Southern Weekend
-🀁方周末		Southern Weekend
 南昌		Nanchang
-🀁昌		Nanchang
 南昌市		Nanchang
-🀁昌市		Nanchang
 南昌起义		Nanchang Uprising
-🀁昌起义		Nanchang Uprising
 南昌起義		Nanchang Uprising
-🀁昌起義		Nanchang Uprising
 南朝		Southern Dynasties (420-589)
-🀁朝		Southern Dynasties (420-589)
 南朝鮮		South Korea
-🀁朝鮮		South Korea
 南朝鲜		South Korea
-🀁朝鲜		South Korea
 南木林		Namling
-🀁木林		Namling
 南木林		Namling
-🀁木林		Namling
 南极		south pole
-🀁极		south pole
 南极座		Octans
-🀁极座		Octans
 南极洲		Antarctica
-🀁极洲		Antarctica
 南森		Nansen
-🀁森		Nansen
 南極		south pole
-🀁極		south pole
 南極座		Octans
-🀁極座		Octans
 南極洲		Antarctica
-🀁極洲		Antarctica
 南樂		Nanle
-🀁樂		Nanle
 南樂		Nanle
-🀁樂		Nanle
 南樂		Nanle
-🀁樂		Nanle
 南樂		Nanle
-🀁樂		Nanle
 南欧		Southern Europe
-🀁欧		Southern Europe
 南歐		Southern Europe
-🀁歐		Southern Europe
 南汇		Nanhui
-🀁汇		Nanhui
 南江		Nanjiang
-🀁江		Nanjiang
 南沙		Nansha
-🀁沙		Nansha
 南海		South China Sea
-🀁海		South China Sea
 南海		South China Sea
-🀁海		South China Sea
 南涧彝族自治县		Nanjian Yizu autonomous county
-🀁涧彝族自治县		Nanjian Yizu autonomous county
 南港区		Nankang
-🀁港区		Nankang
 南溪		Nanxi
-🀁溪		Nanxi
 南漳		Nanzhang
-🀁漳		Nanzhang
 南澗彞族自治縣		Nanjian Yizu autonomous county
-🀁澗彞族自治縣		Nanjian Yizu autonomous county
 南特		Nantes
-🀁特		Nantes
 南猿		Australopithecus
-🀁猿		Australopithecus
 南瓜		pumpkin
-🀁瓜		pumpkin
 南皮		Nanpi
-🀁皮		Nanpi
 南端		end
-🀁端		end
 南竿乡		Nankan
-🀁竿乡		Nankan
 南縣		Nan county
-🀁縣		Nan county
 南美		South America
-🀁美		South America
 南美大草原		pampa
-🀁美大草原		pampa
 南美洲		South America
-🀁美洲		South America
 南胶河		Nanjiao River
-🀁胶河		Nanjiao River
 南華		Nanhua
-🀁華		Nanhua
 南華		Nanhua
-🀁華		Nanhua
 南華早報		South China Morning Post
-🀁華早報		South China Morning Post
 南華早報		South China Morning Post
-🀁華早報		South China Morning Post
 南豐		Nanfeng
-🀁豐		Nanfeng
 南越		South Vietnam
-🀁越		South Vietnam
 南边		the south/south
-🀁边		the south/south
 南达科他		South Dakota
-🀁达科他		South Dakota
 南达科他州		South Dakota
-🀁达科他州		South Dakota
 南通		Nantong
-🀁通		Nantong
 南通市		Nantong
-🀁通市		Nantong
 南達科他		South Dakota
-🀁達科他		South Dakota
 南達科他州		South Dakota
-🀁達科他州		South Dakota
 南邊		the south/south
-🀁邊		the south/south
 南郑		Nanzheng
-🀁郑		Nanzheng
 南部		southern part
-🀁部		southern part
 南鄭		Nanzheng
-🀁鄭		Nanzheng
 南開		Nankai
-🀁開		Nankai
 南開大學		Nankai University
-🀁開大學		Nankai University
 南阳		Nanyang
-🀁阳		Nanyang
 南阳市		Nanyang
-🀁阳市		Nanyang
 南陵		Nanling
-🀁陵		Nanling
 南陵		Nanling
-🀁陵		Nanling
 南陽		Nanyang
-🀁陽		Nanyang
 南陽市		Nanyang
-🀁陽市		Nanyang
 南雄		Nanxiong
-🀁雄		Nanxiong
 南非		South Africa
-🀁非		South Africa
 南非語		Afrikaans
-🀁非語		Afrikaans
 南非语		Afrikaans
-🀁非语		Afrikaans
 南面		south side/south
-🀁面		south side/south
 南韓		South Korea
-🀁韓		South Korea
 南韩		South Korea
-🀁韩		South Korea
 博		extensive/to win
 博伊西		Boise
-博伊🀂		Boise
 博兴		Boxing
 博加特		Bogart
 博取		gain by strategy
@@ -17229,11 +16439,8 @@
 卡薩布蘭卡		Casablanca
 卡薩布蘭卡		Casablanca
 卡西尼		Cassini
-卡🀂尼		Cassini
 卡西欧		Casio
-卡🀂欧		Casio
 卡西歐		Casio
-卡🀂歐		Casio
 卡賓槍		carbine rifle
 卡賓槍		carbine rifle
 卡路里		calorie
@@ -17331,6 +16538,7 @@
 卮		goblet
 卯榫		mortise and tenon
 印		stamp
+㊞		stamp
 印信		official seal
 印制		print
 印制电路		printed circuit
@@ -17359,21 +16567,13 @@
 印度人		Indian (person)
 印度人		Indian (person)
 印度尼西亚		Indonesia
-印度尼🀂亚		Indonesia
 印度尼西亚		Indonesia
-印度尼🀂亚		Indonesia
 印度尼西亚语		Indonesian language
-印度尼🀂亚语		Indonesian language
 印度尼西亚语		Indonesian language
-印度尼🀂亚语		Indonesian language
 印度尼西亞		Indonesia
-印度尼🀂亞		Indonesia
 印度尼西亞		Indonesia
-印度尼🀂亞		Indonesia
 印度尼西亞語		Indonesian language
-印度尼🀂亞語		Indonesian language
 印度尼西亞語		Indonesian language
-印度尼🀂亞語		Indonesian language
 印度教		Hinduism
 印度教		Hinduism
 印度教徒		Hindu
@@ -18321,9 +17521,7 @@
 发射机		transmitter
 发展		development
 发展中		in the pipeline/developing
-发展🀄		in the pipeline/developing
 发展中国家		developing country
-发展🀄国家		developing country
 发展基金		development fund
 发展基金		development fund
 发展模式		development mode
@@ -19210,19 +18408,14 @@
 台		platform/Taiwan
 台下		off the stage
 台东		Taitung
-台🀀		Taitung
 台中		Taichung
-台🀄		Taichung
 台伯河		Tiber
 台前		Taiqian
 台北		Taibei/Taipei
-台🀃		Taibei/Taipei
 台北		Taibei/Taipei
 台北市		Taibei
-台🀃市		Taibei
 台北市		Taibei
 台南		Tainan
-台🀁		Tainan
 台商		Taiwanese business
 台地		mesa/tableland
 台子		platform/table/desk
@@ -19304,6 +18497,7 @@
 史詩		epic
 史诗		epic
 右		right/west
+㊨		right/west
 🈮		right/west
 右上		upper right
 右下		lower right
@@ -19424,8 +18618,6 @@
 吃不開		be unpopular
 吃不開		be unpopular
 吃东西		eat something
-吃东🀂		eat something
-吃🀀西		eat something
 吃亏		come to grief
 吃刀		penetration of a cutting tool
 吃力		entail strenuous effort
@@ -19893,6 +19085,7 @@
 同龄		of the same age
 同龄人		peer
 名		famous/name
+㊔		famous/name
 名下		name's account
 名为		be known as
 名义		nominal
@@ -20097,7 +19290,6 @@
 向上		up/upward
 向下		down/downward
 向东		eastward
-向🀀		eastward
 向何处		whither
 向何處		whither
 向來		always/all along
@@ -20106,10 +19298,8 @@
 向例		custom
 向前		forward/onward
 向北		northward
-向🀃		northward
 向北		northward
 向北地		northward
-向🀃地		northward
 向北地		northward
 向后		backward
 向外		outward/out
@@ -20130,10 +19320,7 @@
 向着		toward
 向着		toward
 向西		westward
-向🀂		westward
 向西南		southwestward
-向🀂南		southwestward
-向西🀁		southwestward
 向量		vector
 向量		vector
 向阳		exposed to the sun
@@ -20303,9 +19490,7 @@
 吮吸		to suck/suck
 启		to open/enlighten
 启东		Qidong
-启🀀		Qidong
 启东市		Qidong
-启🀀市		Qidong
 启事		announcement
 启动		to start
 启动子		promoter
@@ -20629,7 +19814,6 @@
 呼出		exhale
 呼叫		yell
 呼叫中心		call centre
-呼叫🀄心		call centre
 呼叫器		pager/beeper
 呼叫器		pager/beeper
 呼叫声		whoop
@@ -20669,9 +19853,7 @@
 呼號		cry out in distress/wail
 命		life/order/fate
 命中注定		decreed by fate
-命🀄注定		decreed by fate
 命中註定		decreed by fate
-命🀄註定		decreed by fate
 命令		command/order
 命令		command/order
 命名		name
@@ -21330,7 +20512,6 @@
 商丘市		Shangqiu
 商业		commerce/business/trade
 商业中心		business centre
-商业🀄心		business centre
 商业化		to commercialize/commercialization
 商业区		business district
 商业发票		commercial invoice
@@ -21353,7 +20534,6 @@
 商務		commercial
 商務部		Department of Commerce
 商南		Shangnan
-商🀁		Shangnan
 商号		store
 商品		good
 商品流通		commodity circulation
@@ -21385,7 +20565,6 @@
 商棧		inn/caravansary
 商業		commerce/business/trade
 商業中心		business centre
-商業🀄心		business centre
 商業化		to commercialize/commercialization
 商業區		business district
 商業應用		business application
@@ -21682,27 +20861,13 @@
 喝茶		drink tea
 喝茶		drink tea
 喝西北風		suffer from cold and hunger
-喝🀂北風		suffer from cold and hunger
-喝西🀃風		suffer from cold and hunger
 喝西北風		suffer from cold and hunger
-喝🀂北風		suffer from cold and hunger
 喝西北風		suffer from cold and hunger
-喝🀂北風		suffer from cold and hunger
-喝西🀃風		suffer from cold and hunger
 喝西北風		suffer from cold and hunger
-喝🀂北風		suffer from cold and hunger
-喝西🀃風		suffer from cold and hunger
 喝西北风		suffer from cold and hunger
-喝🀂北风		suffer from cold and hunger
-喝西🀃风		suffer from cold and hunger
 喝西北风		suffer from cold and hunger
-喝🀂北风		suffer from cold and hunger
 喝西北风		suffer from cold and hunger
-喝🀂北风		suffer from cold and hunger
-喝西🀃风		suffer from cold and hunger
 喝西北风		suffer from cold and hunger
-喝🀂北风		suffer from cold and hunger
-喝西🀃风		suffer from cold and hunger
 喝醉		to get drunk/get drunk
 喝醉		to get drunk/get drunk
 喝醉		to get drunk/get drunk
@@ -22243,6 +21408,7 @@
 囚犯		prisoner/convict
 囚禁		to imprison/captivity/imprison
 四		four/4
+㊃		four/4
 四下		everywhere
 四下裡		all around
 四下裡		all around
@@ -23178,6 +22344,7 @@
 團體		organization/group/team
 圜		circle
 土		earth
+㊏		earth
 土产		local product
 土人		aborigine/native
 土匪		bandit
@@ -23263,7 +22430,6 @@
 圣典		canon
 圣化		sanctify
 圣卢西亚		Saint Lucia
-圣卢🀂亚		Saint Lucia
 圣君		sage
 圣地		shrine/sacred place
 圣地亚哥		Santiago/San Diego
@@ -23275,7 +22441,6 @@
 圣奥古斯丁		St Augustine
 圣子		Jesus Christ/Holy Son
 圣安东尼奥		San Antonio
-圣安🀀尼奥		San Antonio
 圣徒		saint
 圣心		Sacred Heart
 圣旨		imperial edict
@@ -23315,11 +22480,8 @@
 圣路易斯		St Louis
 圣路易斯		St Louis
 圣路易斯波托西		San Luis Potosi
-圣路易斯波托🀂		San Luis Potosi
 圣路易斯波托西		San Luis Potosi
-圣路易斯波托🀂		San Luis Potosi
 圣路易斯波托西		San Luis Potosi
-圣路易斯波托🀂		San Luis Potosi
 圣迭戈		San Diego
 圣餐		sacrament
 圣马利诺		San Marino
@@ -23338,7 +22500,6 @@
 在先		formerly/before
 在內		including
 在其中		therein
-在其🀄		therein
 在内		including
 在前		formerly
 在即		near at hand/imminent
@@ -23419,9 +22580,7 @@
 地下铁路		subway
 地下铁道		subway
 地中海		Mediterranean Sea/Mediterranean
-地🀄海		Mediterranean Sea/Mediterranean
 地中海		Mediterranean Sea/Mediterranean
-地🀄海		Mediterranean Sea/Mediterranean
 地主		host/landlord
 地价		land price
 地位		status/position
@@ -24415,9 +23574,7 @@
 塔帕丘拉		Tapachula
 塔帕丘拉		Tapachula
 塔拉哈西		Tallahassee
-塔拉哈🀂		Tallahassee
 塔拉哈西		Tallahassee
-塔拉哈🀂		Tallahassee
 塔拉瓦		Tarawa
 塔拉瓦		Tarawa
 塔斯社		TASS
@@ -24717,29 +23874,17 @@
 墨菲		Murphy
 墨菲		Murphy
 墨西哥		Mexico
-墨🀂哥		Mexico
 墨西哥		Mexico
-墨🀂哥		Mexico
 墨西哥人		Mexican
-墨🀂哥人		Mexican
 墨西哥人		Mexican
-墨🀂哥人		Mexican
 墨西哥城		Mexico City
-墨🀂哥城		Mexico City
 墨西哥城		Mexico City
-墨🀂哥城		Mexico City
 墨西哥湾		Gulf of Mexico
-墨🀂哥湾		Gulf of Mexico
 墨西哥湾		Gulf of Mexico
-墨🀂哥湾		Gulf of Mexico
 墨西哥灣		Gulf of Mexico
-墨🀂哥灣		Gulf of Mexico
 墨西哥灣		Gulf of Mexico
-墨🀂哥灣		Gulf of Mexico
 墨西拿		Messina
-墨🀂拿		Messina
 墨西拿		Messina
-墨🀂拿		Messina
 墨跡		ink marks
 墨跡		ink marks
 墨迹		ink marks
@@ -24867,7 +24012,6 @@
 壞人		bad person
 壞帳		bad debt
 壞東西		scoundrel
-壞東🀂		scoundrel
 壞死		necrosis
 壞疽		gangrene
 壞處		harm/disadvantage
@@ -25536,13 +24680,9 @@
 多站地址		multicast address
 多端		multiport
 多端中繼器		multiport repeater
-多端🀄繼器		multiport repeater
 多端中繼器		multiport repeater
-多端🀄繼器		multiport repeater
 多端中继器		multiport repeater
-多端🀄继器		multiport repeater
 多端中继器		multiport repeater
-多端🀄继器		multiport repeater
 多米尼克		Dominica
 多米尼加		Dominica
 多米尼加共和国		Dominican Republic
@@ -25562,7 +24702,6 @@
 多肽		polypeptide
 多胞形		polytope
 多萝西		Dorothy
-多萝🀂		Dorothy
 多葉		leafy
 多葉		leafy
 多虧		luckily/thanks to
@@ -25614,6 +24753,7 @@
 多黨		multiparty
 多黨選舉		multiparty election
 夜		night
+㊰		night
 夜來香		tuberose
 夜來香		tuberose
 夜光虫		noctiluca
@@ -25680,7 +24820,6 @@
 夠用		have enough to use
 夢		dream/to dream
 夢中		in a dream
-夢🀄		in a dream
 夢境		dreamland
 夢寐		sleep/dream
 夢幻		dream/illusion/reverie
@@ -25717,11 +24856,8 @@
 大业		great cause
 大个儿		tall person
 大中型		middle-large size
-大🀄型		middle-large size
 大中学生		university and high school students
-大🀄学生		university and high school students
 大中學生		university and high school students
-大🀄學生		university and high school students
 大丰		Dafeng
 大为		greatly
 大主教		archbishop
@@ -26161,7 +25297,6 @@
 大衣		overcoat/topcoat
 大袋子		sack
 大西洋		Atlantic Ocean/Atlantic
-大🀂洋		Atlantic Ocean/Atlantic
 大要		abstract/gist/main points
 大規模		large scale
 大規模殺傷性武器		weapons of mass destruction
@@ -27160,7 +26295,6 @@
 奥斯卡金像奖		Oscar
 奥斯坦德		Ostend
 奥斯威辛集中营		Auschwitz concentration camp
-奥斯威辛集🀄营		Auschwitz concentration camp
 奥斯汀		Austin
 奥斯瓦尔德		Oswald
 奥斯陆		Oslo
@@ -27213,7 +26347,6 @@
 奧斯卡金像獎		Oscar
 奧斯坦德		Ostend
 奧斯威辛集中營		Auschwitz concentration camp
-奧斯威辛集🀄營		Auschwitz concentration camp
 奧斯汀		Austin
 奧斯陸		Oslo
 奧斯陸		Oslo
@@ -27263,6 +26396,7 @@
 奮進		advance bravely
 奮鬥		to struggle/struggle/strive
 女		woman/daughter/female
+㊛		woman/daughter/female
 女		woman/daughter/female
 女主人		hostess
 女主人		hostess
@@ -27341,9 +26475,7 @@
 女性化		feminization
 女性化		feminization
 女房东		landlady
-女房🀀		landlady
 女房东		landlady
-女房🀀		landlady
 女房東		landlady
 女房東		landlady
 女排		women's volleyball
@@ -27486,8 +26618,6 @@
 好不容易		very difficult
 好不容易		very difficult
 好东西		good thing
-好东🀂		good thing
-好🀀西		good thing
 好久		quite a while
 好久不見		Long time no see
 好久不見		Long time no see
@@ -27594,7 +26724,6 @@
 如		like
 如下		as follows
 如东		Rudong
-如🀀		Rudong
 如今		now/nowadays
 如何		how
 如出一轍		be precisely the same
@@ -27989,13 +27118,9 @@
 娛樂		recreation/amusement/entertainment
 娛樂		recreation/amusement/entertainment
 娛樂中心		recreation
-娛樂🀄心		recreation
 娛樂中心		recreation
-娛樂🀄心		recreation
 娛樂中心		recreation
-娛樂🀄心		recreation
 娛樂中心		recreation
-娛樂🀄心		recreation
 娛樂場		resort
 娛樂場		resort
 娛樂場		resort
@@ -28017,7 +27142,6 @@
 娱乐		recreation/amusement/entertainment
 娱乐业		entertainment industry
 娱乐中心		recreation
-娱乐🀄心		recreation
 娱乐场		resort
 娴		elegant/refined/skilled
 娴熟		adept/skilled
@@ -28574,6 +27698,7 @@
 孤鸟		lone bird
 孥		child
 学		imitate
+㊫		imitate
 学业		schoolwork
 学乖		learn from experience
 学习		to study/to learn
@@ -28729,7 +27854,6 @@
 宁乡		Ningxiang
 宁化		Ninghua
 宁南		Ningnan
-宁🀁		Ningnan
 宁县		Ning county
 宁可		preferably
 宁国		Ningguo
@@ -28848,11 +27972,8 @@
 安丘		Anqiu
 安丘市		Anqiu
 安东		Anton
-安🀀		Anton
 安东尼		Anthony
-安🀀尼		Anthony
 安东尼奥		Antonio
-安🀀尼奥		Antonio
 安乃近		analgin
 安义		Anyi
 安之若素		bear hardship with equanimity
@@ -28903,7 +28024,6 @@
 安化		Anhua
 安华		Anwar
 安南		Annan
-安🀁		Annan
 安卡拉		Ankara
 安卡拉		Ankara
 安危		safety/safety and danger
@@ -29055,7 +28175,6 @@
 安装		installation
 安裝		installation
 安西		Anxi
-安🀂		Anxi
 安設		set up/install
 安詳		serene
 安謐		tranquil/peaceful
@@ -29170,6 +28289,7 @@
 宕		dissipated
 宕昌		Dangchang
 宗		clan
+㊪		clan
 宗主权		suzerainty
 宗主權		suzerainty
 宗教		religion
@@ -29246,7 +28366,6 @@
 定则		rule
 定則		rule
 定南		Dingnan
-定🀁		Dingnan
 定名		name
 定名為		name
 定向		orient/directional
@@ -29315,7 +28434,6 @@
 定興		Dingxing
 定襄		Dingxiang
 定西		Dingxi
-定🀂		Dingxi
 定調子		set the tone
 定調子		set the tone
 定論		final conclusion
@@ -29547,9 +28665,7 @@
 客舱		passenger cabin
 客艙		passenger cabin
 客西馬尼		Gethsemane
-客🀂馬尼		Gethsemane
 客西马尼		Gethsemane
-客🀂马尼		Gethsemane
 客觀		objective
 客觀主義		objectivism
 客觀唯心主義		objective idealism
@@ -29695,7 +28811,6 @@
 家世		family background
 家业		family property
 家中		one's family
-家🀄		one's family
 家乐氏		Kellogg
 家乐福		Carrefour
 家乐福		Carrefour
@@ -29863,7 +28978,6 @@
 宾格		accusative
 宾至如归		a home away from home
 宾西法尼亚		Pennsylvania
-宾🀂法尼亚		Pennsylvania
 宾词		predicate
 宾语		object
 宾阳		Binyang
@@ -29942,11 +29056,8 @@
 密令		secret order
 密会		secret meeting
 密克罗尼西亚		Micronesia
-密克罗尼🀂亚		Micronesia
 密克羅尼西亞		Micronesia
-密克羅尼🀂亞		Micronesia
 密克羅尼西亞		Micronesia
-密克羅尼🀂亞		Micronesia
 密切		familiar
 密切		familiar
 密切注意		pay close attention
@@ -29999,15 +29110,10 @@
 密蘇里州		Missouri
 密蘇里州		Missouri
 密西根		Michigan
-密🀂根		Michigan
 密西根州		Michigan
-密🀂根州		Michigan
 密西西比		Mississippi
-密🀂🀂比		Mississippi
 密西西比州		Mississippi
-密🀂🀂比州		Mississippi
 密西西比河		Mississippi
-密🀂🀂比河		Mississippi
 密詔		secret imperial edict
 密語		code
 密謀		scheme/conspire
@@ -30228,11 +29334,8 @@
 寧化		Ninghua
 寧化		Ninghua
 寧南		Ningnan
-寧🀁		Ningnan
 寧南		Ningnan
-寧🀁		Ningnan
 寧南		Ningnan
-寧🀁		Ningnan
 寧可		preferably
 寧可		preferably
 寧可		preferably
@@ -31533,9 +30636,7 @@
 尼科尔森		Nicholson
 尼科爾森		Nicholson
 尼科西亚		Nicosia
-尼科🀂亚		Nicosia
 尼科西亞		Nicosia
-尼科🀂亞		Nicosia
 尼維斯		Nevis
 尼维斯		Nevis
 尼罗河		Nile
@@ -31737,9 +30838,7 @@
 屎尿		excrement and urine
 屏		get rid of/hold (one's breath)
 屏东		Pingtung
-屏🀀		Pingtung
 屏南		Pingnan
-屏🀁		Pingnan
 屏山		Pingshan
 屏幕		screen
 屏息		hold one's breath
@@ -31908,13 +31007,9 @@
 山		mountain/hill
 山丘		hill
 山东		Shandong/Shandong province
-山🀀		Shandong/Shandong province
 山东大学		Shandong University
-山🀀大学		Shandong University
 山东省		Shandong Province
-山🀀省		Shandong Province
 山东省		Shandong Province
-山🀀省		Shandong Province
 山丹		Shandan
 山丹		Shandan
 山人		hermit/recluse
@@ -32005,11 +31100,8 @@
 山茶花		camellia
 山葵		horseradish
 山西		Shanxi province/Shanxi
-山🀂		Shanxi province/Shanxi
 山西省		Shanxi
-山🀂省		Shanxi
 山西省		Shanxi
-山🀂省		Shanxi
 山谷		valley
 山貓		leopard cat
 山路		mountain road
@@ -32106,7 +31198,6 @@
 岳池		Yuechi
 岳父		wife's father
 岳西		Yuexi
-岳🀂		Yuexi
 岳阳		Yueyang
 岳陽		Yueyang
 岵		mountain covered with vegetation
@@ -32456,6 +31547,7 @@
 工齡		seniority/length of service
 工龄		seniority/length of service
 左		left
+㊧		left
 🈬		left
 左上		upper left
 左下		lower left
@@ -32611,22 +31703,16 @@
 巴不得		hope for
 巴不得		hope for
 巴东		Padang
-巴🀀		Padang
 巴中		Bazhong
-巴🀄		Bazhong
 巴中市		Bazhong
-巴🀄市		Bazhong
 巴伊亚		Bahia
 巴伐利亚		Bavaria
 巴伐利亚		Bavaria
 巴伐利亞		Bavaria
 巴伐利亞		Bavaria
 巴伦西亚		Valencia
-巴伦🀂亚		Valencia
 巴倫西亞		Valencia
-巴倫🀂亞		Valencia
 巴倫西亞		Valencia
-巴倫🀂亞		Valencia
 巴克		Buck
 巴克夏猪		Berkshire swine
 巴克夏猪		Berkshire swine
@@ -32662,9 +31748,7 @@
 巴哈马		Bahamas
 巴基斯坦		Pakistan
 巴基西梅托		Barquisimeto
-巴基🀂梅托		Barquisimeto
 巴基西梅托		Barquisimeto
-巴基🀂梅托		Barquisimeto
 巴塘		Batang
 巴塞尔		Basel
 巴塞尔		Basel
@@ -32764,19 +31848,12 @@
 巴统		Batumi
 巴蒂		Battey
 巴西		Brazil
-巴🀂		Brazil
 巴西利亚		Brasilia
-巴🀂利亚		Brasilia
 巴西利亚		Brasilia
-巴🀂利亚		Brasilia
 巴西利亞		Brasilia
-巴🀂利亞		Brasilia
 巴西利亞		Brasilia
-巴🀂利亞		Brasilia
 巴西利厄斯		Basilius
-巴🀂利厄斯		Basilius
 巴西利厄斯		Basilius
-巴🀂利厄斯		Basilius
 巴豆		croton
 巴貝多		Barbados
 巴贝多		Barbados
@@ -32811,7 +31888,6 @@
 币制		currency system
 市		city/market
 市中心		downtown/city centre
-市🀄心		downtown/city centre
 市井		town/marketplace
 市井小民		philistine
 市区		urban district
@@ -32886,7 +31962,6 @@
 布哈拉		Bukhara
 布哈拉		Bukhara
 布坎南		Buchanan
-布坎🀁		Buchanan
 布埃亚		Buea
 布基納法索		Burkina Faso
 布基納法索		Burkina Faso
@@ -33160,7 +32235,6 @@
 希臘語		Greek language
 希臘語		Greek language
 希西家		Hezekiah
-希🀂家		Hezekiah
 帏		curtain
 帏幕		screen
 帐		canopy/tent/curtain
@@ -33291,7 +32365,6 @@
 带鱼		hairtail/ribbonfish
 帧		frame
 帧中继		frame relay
-帧🀄继		frame relay
 帧格式		frame format
 帧检验序列		frame check sequence
 帧检验序列		frame check sequence
@@ -33474,7 +32547,6 @@
 帽针		hatpin
 幀		frame
 幀中繼		frame relay
-幀🀄繼		frame relay
 幀格式		frame format
 幀檢驗序列		frame check sequence
 幀檢驗序列		frame check sequence
@@ -33608,7 +32680,6 @@
 平利		Pingli
 平利		Pingli
 平南		Pingnan
-平🀁		Pingnan
 平原		field/plain
 平台		platform/terrace
 平和		gentle/Pinghe/moderate
@@ -34120,22 +33191,16 @@
 幾點		what time
 广		wide
 广东		Guangdong
-广🀀		Guangdong
 广东人		Cantonese
-广🀀人		Cantonese
 广东省		Guangdong
-广🀀省		Guangdong
 广东省		Guangdong
-广🀀省		Guangdong
 广东话		Cantonese
-广🀀话		Cantonese
 广丰		Guangfeng
 广义相对论		general relativity
 广传		propagate
 广元		Guangyuan
 广元市		Guangyuan
 广南		Guangnan
-广🀁		Guangnan
 广博		extensive
 广告		advertisement
 广告业		advertising
@@ -34175,9 +33240,7 @@
 广灵		Guangling
 广电		radio and television
 广西		Guangxi
-广🀂		Guangxi
 广西壮族自治区		Guangxi Zhuang Autonomous Region
-广🀂壮族自治区		Guangxi Zhuang Autonomous Region
 广角镜		wide-angle lens
 广阔		wide/vast
 广陵		Guangling
@@ -34612,7 +33675,6 @@
 廣元		Guangyuan
 廣元市		Guangyuan
 廣南		Guangnan
-廣🀁		Guangnan
 廣博		extensive
 廣告		advertisement
 廣告商		advertising company
@@ -34662,9 +33724,7 @@
 廣義相對論		general relativity
 廣義相對論		general relativity
 廣西		Guangxi
-廣🀂		Guangxi
 廣西壯族自治區		Guangxi Zhuang Autonomous Region
-廣🀂壯族自治區		Guangxi Zhuang Autonomous Region
 廣角鏡		wide-angle lens
 廣豐		Guangfeng
 廣闊		wide/vast
@@ -35159,17 +34219,11 @@
 弗朗茨		Franz
 弗朗茨		Franz
 弗朗西丝		Frances
-弗朗🀂丝		Frances
 弗朗西丝		Frances
-弗朗🀂丝		Frances
 弗朗西丝		Frances
-弗朗🀂丝		Frances
 弗朗西斯		Francis
-弗朗🀂斯		Francis
 弗朗西斯		Francis
-弗朗🀂斯		Francis
 弗朗西斯		Francis
-弗朗🀂斯		Francis
 弗林		Flynn
 弗林		Flynn
 弗林德斯		Flinders
@@ -35245,7 +34299,6 @@
 张力计		tensiometer
 张力计		tensiometer
 张北		Zhangbei
-张🀃		Zhangbei
 张北		Zhangbei
 张国荣		Leslie Cheung
 张大		magnify
@@ -35355,7 +34408,6 @@
 張力計		tensiometer
 張力計		tensiometer
 張北		Zhangbei
-張🀃		Zhangbei
 張北		Zhangbei
 張國榮		Leslie Cheung
 張學良		Zhang Xueliang
@@ -35575,7 +34627,6 @@
 归纳法		induction
 归结		sum up
 归西		die
-归🀂		die
 归谬法		reductio ad absurdum
 归路		return route
 归路		return route
@@ -35586,7 +34637,6 @@
 当下		immediately
 当且仅当		if and only if
 当中		among/in the middle
-当🀄		among/in the middle
 当之无愧		worthy
 当事		be in charge/involved
 当事人		person/involved
@@ -36171,7 +35221,6 @@
 從不		never
 從不		never
 從中		therefrom/from
-從🀄		therefrom/from
 從事		to engage in/deal with/to deal with
 從事研究		to do research
 從來		at all times/always
@@ -36293,7 +35342,6 @@
 微不足道		negligible
 微不足道		negligible
 微中子		neutrino
-微🀄子		neutrino
 微乎其微		very little/next to nothing
 微分		differential
 微创手术		minimally invasive surgery
@@ -36430,7 +35478,6 @@
 德庆		Deqing
 德弗		Dever
 德彪西		Debussy
-德彪🀂		Debussy
 德惠		Dehui
 德惠市		Dehui
 德意志		Germany
@@ -36461,14 +35508,10 @@
 德行		morality and conduct
 德語		German/German (language)
 德謨克拉西		democracy
-德謨克拉🀂		democracy
 德謨克拉西		democracy
-德謨克拉🀂		democracy
 德语		German/German (language)
 德谟克拉西		democracy
-德谟克拉🀂		democracy
 德谟克拉西		democracy
-德谟克拉🀂		democracy
 德赖弗		Driver
 德里		Delhi
 德里		Delhi
@@ -36505,13 +35548,9 @@
 心不在焉		inattentive
 心不在焉		inattentive
 心中		mind
-心🀄		mind
 心中无数		have no idea
-心🀄无数		have no idea
 心中無數		have no idea
-心🀄無數		have no idea
 心中無數		have no idea
-心🀄無數		have no idea
 心事		worry
 心內膜		endocardium
 心内膜		endocardium
@@ -37111,7 +36150,6 @@
 思前想后		ponder over
 思前想後		ponder over
 思南		Sinan
-思🀁		Sinan
 思忖		ponder
 思念		to miss
 思念		to miss
@@ -37922,7 +36960,6 @@
 惟獨		only
 惠		favor/benefit
 惠东		Huidong
-惠🀀		Huidong
 惠來		Huilai
 惠來		Huilai
 惠农		Huinong
@@ -38172,7 +37209,6 @@
 愎		perverse
 意		desire
 意中人		one's beloved
-意🀄人		one's beloved
 意义		meaning/sense/significance
 意兴		enthusiasm/interest
 意向		intent
@@ -38219,9 +37255,7 @@
 意料		anticipate/expect
 意料		anticipate/expect
 意料之中		as expected
-意料之🀄		as expected
 意料之中		as expected
-意料之🀄		as expected
 意料之外		contrary to expectation/unexpected
 意料之外		contrary to expectation/unexpected
 意旨		intention/wish/will
@@ -39375,9 +38409,7 @@
 戴表		wear a watch
 戴表		wear a watch
 戴西		Daisy
-戴🀂		Daisy
 戴西		Daisy
-戴🀂		Daisy
 戶		household/door/family
 戶主		head of the household
 戶內		indoors
@@ -39406,7 +38438,6 @@
 房		house/room
 房下		one's wife
 房东		landlord
-房🀀		landlord
 房主		house owner
 房事		sexual intercourse
 房产		real estate
@@ -40021,7 +39052,6 @@
 扫黑		crack down on crime
 扬		to raise
 扬中市		Yangzhong
-扬🀄市		Yangzhong
 扬名		become famous
 扬声器		speaker
 扬声器		speaker
@@ -41564,17 +40594,12 @@
 指关节		knuckle
 指出		to indicate
 指北針		compass
-指🀃針		compass
 指北針		compass
 指北针		compass
-指🀃针		compass
 指北针		compass
 指南		to guide/guide/guidebook
-指🀁		to guide/guide/guidebook
 指南針		compass
-指🀁針		compass
 指南针		compass
-指🀁针		compass
 指印		finger mark/fingerprint
 指压		acupressure
 指名		mention by name
@@ -41599,7 +40624,6 @@
 指指點點		gesticulate/point out/point
 指挥		conductor
 指挥中心		command centre
-指挥🀄心		command centre
 指挥员		commander
 指挥官		commander
 指挥家		conductor
@@ -41613,7 +40637,6 @@
 指控		accusation/to accuse/accuse
 指揮		conductor
 指揮中心		command centre
-指揮🀄心		command centre
 指揮員		commander
 指揮官		commander
 指揮家		conductor
@@ -42513,7 +41536,6 @@
 控		control
 控制		control
 控制中心		control centre
-控制🀄心		control centre
 控制力		control
 控制力		control
 控制台		console
@@ -42791,7 +41813,6 @@
 插頭		plug
 揚		to raise
 揚中市		Yangzhong
-揚🀄市		Yangzhong
 揚名		become famous
 揚子江		Yangtze
 揚子鱷		Chinese alligator
@@ -42855,7 +41876,6 @@
 揪揪		creased
 揭		uncover/expose
 揭东		Jiedong
-揭🀀		Jiedong
 揭发		to disclose/expose/bring to light
 揭幕		opening
 揭幕式		unveiling
@@ -42869,7 +41889,6 @@
 揭示		reveal/to show
 揭穿		expose
 揭西		Jiexi
-揭🀂		Jiexi
 揭開		uncover/open
 揭阳		Jieyang
 揭阳市		Jieyang
@@ -43288,11 +42307,8 @@
 摩苏尔		Mosul
 摩蘇爾		Mosul
 摩西		Moses
-摩🀂		Moses
 摩西律法		law of Moses
-摩🀂律法		law of Moses
 摩西律法		law of Moses
-摩🀂律法		law of Moses
 摩門經		Book of Mormon
 摩门经		Book of Mormon
 摭		to select/pick up
@@ -43598,7 +42614,6 @@
 擇業		choose
 擊		strike/to hit/hit
 擊中		hit
-擊🀄		hit
 擊倒		knock down
 擊傷		wound
 擊劍		fencing
@@ -44445,7 +43460,6 @@
 敗不成軍		The army is completely routed.
 敗仗		lost battle
 敗北		suffer defeat
-敗🀃		suffer defeat
 敗北		suffer defeat
 敗壞		corrupt/ruin/undermine
 敗子回頭		return of the prodigal son
@@ -45124,7 +44138,6 @@
 斐濟		Fiji
 斐然		brilliant
 斐迪南		Ferdinand
-斐迪🀁		Ferdinand
 斑		striped/stripe
 斑岩		porphyry
 斑斓		multicolore
@@ -45310,7 +44323,6 @@
 斯塔万格		Stavanger
 斯塔萬格		Stavanger
 斯塔西		Stacy
-斯塔🀂		Stacy
 斯威士兰		Swaziland
 斯威士蘭		Swaziland
 斯威士蘭		Swaziland
@@ -45332,7 +44344,6 @@
 斯拉夫语		Slavic language
 斯文		gentle/refined
 斯旺西		Swansea
-斯旺🀂		Swansea
 斯普利特		Split
 斯普利特		Split
 斯普林菲尔德		Springfield
@@ -45450,7 +44461,6 @@
 新加坡		Singapore
 新化		Xinhua
 新北市		New Taipei City
-新🀃市		New Taipei City
 新北市		New Taipei City
 新华		Xinhua
 新华日报		Xinhua Daily
@@ -45459,13 +44469,9 @@
 新华通讯社		Xinhua News Agency
 新华通讯社		Xinhua News Agency
 新南威尔士		New South Wales
-新🀁威尔士		New South Wales
 新南威尔士州		New South Wales
-新🀁威尔士州		New South Wales
 新南威爾士		New South Wales
-新🀁威爾士		New South Wales
 新南威爾士州		New South Wales
-新🀁威爾士州		New South Wales
 新历		solar calendar
 新县		Xin county
 新古典		neoclassical
@@ -45482,13 +44488,9 @@
 新城		new city
 新增		newly added
 新墨西哥		New Mexico
-新墨🀂哥		New Mexico
 新墨西哥		New Mexico
-新墨🀂哥		New Mexico
 新墨西哥州		New Mexico
-新墨🀂哥州		New Mexico
 新墨西哥州		New Mexico
-新墨🀂哥州		New Mexico
 新大陆		the Americas/the New World
 新大陸		the Americas/the New World
 新大陸		the Americas/the New World
@@ -45573,9 +44575,7 @@
 新泰		Xintai
 新泰市		Xintai
 新泽西		New Jersey
-新泽🀂		New Jersey
 新泽西州		New Jersey
-新泽🀂州		New Jersey
 新津		Xinjin
 新洲		Xinzhou
 新浪		Sina
@@ -45586,9 +44586,7 @@
 新潮流		new trend
 新潮流		new trend
 新澤西		New Jersey
-新澤🀂		New Jersey
 新澤西州		New Jersey
-新澤🀂州		New Jersey
 新版		new edition
 新特		new mate
 新生		rebirth
@@ -45665,11 +44663,8 @@
 新蔡		Xincai
 新装		new clothes
 新西兰		New Zealand
-新🀂兰		New Zealand
 新西蘭		New Zealand
-新🀂蘭		New Zealand
 新西蘭		New Zealand
-新🀂蘭		New Zealand
 新詞		neologism
 新词		neologism/new word
 新豐		Xinfeng
@@ -45815,7 +44810,6 @@
 於		from
 於是		hence
 於霧靄之中		becloud
-於霧靄之🀄		becloud
 施		bestow/carry out/give
 施与		giving
 施以		use
@@ -46088,7 +45082,6 @@
 无情		ruthless/merciless/pitiless
 无意		inadvertent
 无意中		accidentally/unintentionally
-无意🀄		accidentally/unintentionally
 无意识		unconscious
 无愧		have a clear conscience
 无懈可击		invulnerable
@@ -46261,8 +45254,8 @@
 既而		later
 既而		later
 日		day/sun/daily
+㊐		day/sun/daily
 日中		midday
-日🀄		midday
 日产		Nissan
 日人		the Japanese
 日元		Japanese yen
@@ -46579,7 +45572,6 @@
 昆蟲		insect
 昆蟲學		entomology
 昆西		Quincy
-昆🀂		Quincy
 昌		prosperous/flourishing
 昌乐		Changle
 昌吉		Changji
@@ -46718,9 +45710,7 @@
 易		amiable
 易		amiable
 易北河		Elbe
-易🀃河		Elbe
 易北河		Elbe
-易🀃河		Elbe
 易北河		Elbe
 易县		Yi county
 易县		Yi county
@@ -47208,7 +46198,6 @@
 普鲁士		Prussia
 景		scenery/bright/scene
 景东		Jingdong Yizu autonomous county
-景🀀		Jingdong Yizu autonomous county
 景况		circumstances
 景况		circumstances
 景县		Jing county
@@ -47390,7 +46379,6 @@
 暖锋		warm front
 暗		dark
 暗中		surreptitiously/in the dark
-暗🀄		surreptitiously/in the dark
 暗亏		hidden loss
 暗井		winze/blind shaft
 暗号		countersign
@@ -47465,9 +46453,7 @@
 暧昧		ambiguous/equivocal/dubious
 暨		and
 暨南大学		Jinan University
-暨🀁大学		Jinan University
 暨南大學		Jinan University
-暨🀁大學		Jinan University
 暫		temporarily
 暫且		for the moment/temporarily
 暫住		reside temporarily
@@ -47951,6 +46937,7 @@
 會面		to meet with/to meet
 會黨		anti-Qing secret societies
 月		month/monthly/moon
+㊊		month/monthly/moon
 🈷		month/monthly/moon
 月下老人		matchmaker
 月下老人		matchmaker
@@ -48026,6 +47013,7 @@
 月餅		moon cake
 月饼		moon cake
 有		to have
+㊒		to have
 🈶		to have
 有一些		rather/some/somewhat
 有一次		once
@@ -48347,7 +47335,6 @@
 服务		serve/to serve/service
 服务业		service industry
 服务中心		service centre
-服务🀄心		service centre
 服务员		waiter/attendant
 服务器		server
 服务器		server
@@ -48362,7 +47349,6 @@
 服务部门		service department
 服務		serve/to serve/service
 服務中心		service centre
-服務🀄心		service centre
 服務員		waiter/attendant
 服務器		server
 服務器		server
@@ -48523,7 +47509,6 @@
 朝鲜语		Korean/Korean language
 期		term
 期中		midterm
-期🀄		midterm
 期刊		periodical
 期待		look forward to/to look forward to
 期望		expectation/hope/expect
@@ -48554,6 +47539,7 @@
 朦		deceive
 朦朧		obscure
 木		wooden
+㊍		wooden
 木乃伊		mummy
 木乃伊化		mummification
 木偶		puppet
@@ -49128,7 +48114,6 @@
 杜布羅夫尼克		Dubrovnik
 杜撰		fabricate
 杜普莱西斯		Duplessis
-杜普莱🀂斯		Duplessis
 杜松子酒		gin
 杜瓦利埃		Duvalier
 杜瓦利埃		Duvalier
@@ -49272,7 +48257,6 @@
 杭纺		Hangzhou silk
 杯		cup
 杯中物		wine
-杯🀄物		wine
 杯子		glass/cup
 杯水車薪		utterly inadequate measure
 杯水車薪		utterly inadequate measure
@@ -49294,7 +48278,6 @@
 杰斐逊城		Jefferson City
 杰米		Jamie
 杰西卡		Jessica
-杰🀂卡		Jessica
 杰里		Jerry
 杰里		Jerry
 杰里科		Jericho
@@ -49307,33 +48290,19 @@
 東京灣		Tokyo Bay
 東光		Dongguang
 東北		northeast
-東🀃		northeast
 東北		northeast
 東北亞		Northeast Asia
-東🀃亞		Northeast Asia
 東北亞		Northeast Asia
 東北方		northeast
-東🀃方		northeast
 東北方		northeast
 東南		southeast
-東🀁		southeast
 東南亞		Southeast Asia
-東🀁亞		Southeast Asia
 東南亞國		Southeast Asia
-東🀁亞國		Southeast Asia
 東南亞國家聯盟		ASEAN (Association of Southeast Asian Nations)
-東🀁亞國家聯盟		ASEAN (Association of Southeast Asian Nations)
 東南亞國家聯盟		ASEAN (Association of Southeast Asian Nations)
-東🀁亞國家聯盟		ASEAN (Association of Southeast Asian Nations)
 東南大學		Southeast University
-東🀁大學		Southeast University
 東南西北		all directions
-東南🀂北		all directions
-東🀁西北		all directions
-東南西🀃		all directions
 東南西北		all directions
-東南🀂北		all directions
-東🀁西北		all directions
 東印度		the East Indies
 東印度		the East Indies
 東印度公司		East India Company
@@ -49352,7 +48321,6 @@
 東平		Dongping
 東德		East Germany
 東拼西湊		scrape together
-東拼🀂湊		scrape together
 東方		the East/the Orient/east
 東方文化		Oriental culture
 東方航空		China Eastern Airlines
@@ -49376,7 +48344,6 @@
 東蘭		Donglan
 東蘭		Donglan
 東西		east and west/thing
-東🀂		east and west/thing
 東豐		Dongfeng
 東道		host
 東道主		host
@@ -49390,9 +48357,7 @@
 東面		east
 東風		east wind
 東鱗西爪		odds and ends
-東鱗🀂爪		odds and ends
 東鱗西爪		odds and ends
-東鱗🀂爪		odds and ends
 杲		high/to shine
 杳		dark and quiet
 杳如黃鶴		gone forever
@@ -49509,7 +48474,6 @@
 板鼓		small drum for marking time
 极		utmost/extremely
 极东		the Far East
-极🀀		the Far East
 极为		exceedingly/extremely
 极乐		bliss
 极乐世界		Elysium
@@ -49917,7 +48881,6 @@
 柬埔寨		Cambodia
 柯		stem
 柯南		Conan
-柯🀁		Conan
 柯廷		Curtin
 柯曾		Curzon
 柯林斯		Collins
@@ -50154,6 +49117,7 @@
 栩		Quercus serrata
 栩栩如生		like the real thing
 株		trunk/stem
+㊑		trunk/stem
 株洲		Zhuzhou
 株洲市		Zhuzhou
 株距		spacing
@@ -50317,9 +49281,7 @@
 根莖		runner/stolon
 根號		radical sign
 根西岛		Guernsey
-根🀂岛		Guernsey
 根西島		Guernsey
-根🀂島		Guernsey
 根除		eliminate
 根须		root
 根鬚		root
@@ -50461,7 +49423,6 @@
 桁架		truss
 桂		laurel/cassia
 桂东		Guidong
-桂🀀		Guidong
 桂冠		laurel
 桂平		Guiping
 桂平市		Guiping
@@ -50715,7 +49676,6 @@
 梢		tip/tip of branch
 梦		dream/to dream
 梦中		in a dream
-梦🀄		in a dream
 梦乡		dreamland
 梦境		dreamland
 梦寐		sleep/dream
@@ -51167,7 +50127,6 @@
 榅桲		quince
 榆		elm
 榆中		Yuzhong
-榆🀄		Yuzhong
 榆林		Yulin
 榆林		Yulin
 榆林市		Yulin
@@ -51717,9 +50676,7 @@
 橋頭堡		bridgehead
 橐		sack
 橐中装		gems/valuables/jewels
-橐🀄装		gems/valuables/jewels
 橐中裝		gems/valuables/jewels
-橐🀄裝		gems/valuables/jewels
 橐囊		sacks/bags
 橐笔		make one's living by writing
 橐笥		bag/satchel
@@ -52096,9 +51053,7 @@
 欧文斯		Owens
 欧洲		Europe
 欧洲中央银行		European Central Bank
-欧洲🀄央银行		European Central Bank
 欧洲中央银行		European Central Bank
-欧洲🀄央银行		European Central Bank
 欧洲之星		Eurostar
 欧洲人权法院		European Court of Human Rights
 欧洲共同体		European Community
@@ -52201,11 +51156,8 @@
 歌星		singing star
 歌曲		song
 歌罗西书		Colossians
-歌罗🀂书		Colossians
 歌羅西書		Colossians
-歌羅🀂書		Colossians
 歌羅西書		Colossians
-歌羅🀂書		Colossians
 歌聲		sound of singing
 歌舞		song and dance
 歌舞伎		kabuki
@@ -52235,9 +51187,7 @@
 歐文斯		Owens
 歐洲		Europe
 歐洲中央銀行		European Central Bank
-歐洲🀄央銀行		European Central Bank
 歐洲中央銀行		European Central Bank
-歐洲🀄央銀行		European Central Bank
 歐洲之星		Eurostar
 歐洲人權法院		European Court of Human Rights
 歐洲共同體		European Community
@@ -52304,12 +51254,10 @@
 止血棉塞		tampon
 止血棉塞		tampon
 正		just
+㊣		just
 正中		centre
-正🀄		centre
 正中央		midpoint
-正🀄央		midpoint
 正中要害		hit the nail on the head
-正🀄要害		hit the nail on the head
 正义		justice
 正交		orthogonality/orthogonal
 正人		honest
@@ -52693,7 +51641,6 @@
 歸納法		induction
 歸結		sum up
 歸西		die
-歸🀂		die
 歸謬法		reductio ad absurdum
 歸路		return route
 歸路		return route
@@ -53330,9 +52277,7 @@
 毛毯		blanket
 毛氈		felt
 毛泽东		Mao Zedong
-毛泽🀀		Mao Zedong
 毛泽东思想		Mao Zedong Thought
-毛泽🀀思想		Mao Zedong Thought
 毛澤東		Mao Zedong
 毛澤東思想		Mao Zedong Thought
 毛猪		live pig
@@ -53432,7 +52377,6 @@
 民主改革		democratic reform
 民主政治		democratic/democracy
 民主集中制		democratic centralism
-民主集🀄制		democratic centralism
 民主革命		democratic revolution
 民主黨		Democratic Party
 民乐		folk music
@@ -53762,6 +52706,7 @@
 氲		heavy atmosphere
 氳		heavy atmosphere
 水		water/river/liquid
+㊌		water/river/liquid
 水上		aquatic
 水上飛機		seaplane
 水上飞机		seaplane
@@ -54174,9 +53119,7 @@
 汇集		compile/to collect
 汉		man/Chinese/the Han dynasty
 汉中		Hanzhong
-汉🀄		Hanzhong
 汉中市		Hanzhong
-汉🀄市		Hanzhong
 汉化		Chinese localization
 汉城		Seoul
 汉堡		Hamburg
@@ -54241,7 +53184,6 @@
 汞合金		amalgam
 江		river
 江北		Jiangbei
-江🀃		Jiangbei
 江北		Jiangbei
 江华瑶族自治县		Jianghua Yaozu autonomous county
 江宁		Jiangning
@@ -54284,11 +53226,8 @@
 江蘇省		Jiangsu
 江蘇省		Jiangsu
 江西		Jiangxi province/Jiangxi
-江🀂		Jiangxi province/Jiangxi
 江西省		Jiangxi
-江🀂省		Jiangxi
 江西省		Jiangxi
-江🀂省		Jiangxi
 江輪		river steamer
 江輪		river steamer
 江轮		river steamer
@@ -54470,7 +53409,6 @@
 沃尔沃		Volvo
 沃尔特		Walter
 沃尔西		Wolsey
-沃尔🀂		Wolsey
 沃德		Ward
 沃斯利		Worsley
 沃斯利		Worsley
@@ -54771,19 +53709,13 @@
 河內		Hanoi
 河内		Hanoi
 河北		Hebei/Hebei province
-河🀃		Hebei/Hebei province
 河北		Hebei/Hebei province
 河北省		Hebei
-河🀃省		Hebei
 河北省		Hebei
 河北省		Hebei
-河🀃省		Hebei
 河南		Henan/Henan province
-河🀁		Henan/Henan province
 河南省		Henan
-河🀁省		Henan
 河南省		Henan
-河🀁省		Henan
 河卵石		pebble
 河卵石		pebble
 河口		river mouth
@@ -54814,11 +53746,8 @@
 河蚌		mussel
 河蟹		river crab
 河西		region west of the Yellow River
-河🀂		region west of the Yellow River
 河西走廊		Hexi Corridor
-河🀂走廊		Hexi Corridor
 河西走廊		Hexi Corridor
-河🀂走廊		Hexi Corridor
 河谷		river valley
 河豚		puffer/blowfish
 河道		river course
@@ -55029,9 +53958,7 @@
 法兰克福汇报		Frankfurter Allgemeine Zeitung
 法兰绒		flannel
 法兰西		France
-法兰🀂		France
 法兰西斯		Francis
-法兰🀂斯		Francis
 法典		statute
 法军		French army
 法则		rule
@@ -55147,16 +54074,11 @@
 法蘭絨		flannel
 法蘭絨		flannel
 法蘭西		France
-法蘭🀂		France
 法蘭西		France
-法蘭🀂		France
 法術		magic
 法西斯		fascist
-法🀂斯		fascist
 法西斯主义		fascism
-法🀂斯主义		fascism
 法西斯主義		fascism
-法🀂斯主義		fascism
 法規		legislation
 法规		legislation
 法語		French language/French (language)
@@ -55225,15 +54147,10 @@
 波兰		Poland
 波兰语		Polish (language)
 波兹南		Poznan
-波兹🀁		Poznan
 波利尼西亚		Polynesia
-波利尼🀂亚		Polynesia
 波利尼西亚		Polynesia
-波利尼🀂亚		Polynesia
 波利尼西亞		Polynesia
-波利尼🀂亞		Polynesia
 波利尼西亞		Polynesia
-波利尼🀂亞		Polynesia
 波动		fluctuation
 波動		fluctuation
 波及		affect/to spread to/spread to
@@ -55322,7 +54239,6 @@
 波美比重计		Baume hydrometer
 波茨坦		Potsdam
 波茲南		Poznan
-波茲🀁		Poznan
 波荡		heave/surge
 波蕩		heave/surge
 波蘭		Poland
@@ -55395,6 +54311,7 @@
 泥鳅		loach
 泥鳅		loach
 注		note
+㊟		note
 注入		pour in
 注册		to register/register
 注册商标		registered trademark
@@ -55503,7 +54420,6 @@
 泸水		Lushui
 泸溪		Luxi
 泸西		Luxi
-泸🀂		Luxi
 泺		name of a river
 泻		to flow
 泻湖		lagoon
@@ -55517,7 +54433,6 @@
 泽尼察		Zenica
 泽库		Zeku
 泽西		Jersey
-泽🀂		Jersey
 泾县		Jing county
 泾川		Jingchuan
 泾源		Jingyuan
@@ -55526,7 +54441,6 @@
 洁净		to clean/clean
 洁白		spotlessly white
 洁西卡		Jessica
-洁🀂卡		Jessica
 洄		eddy
 洋		ocean/vast/foreign
 洋人		foreigner
@@ -55664,9 +54578,7 @@
 洛克菲勒		Rockefeller
 洛克菲勒		Rockefeller
 洛南		Luonan
-洛🀁		Luonan
 洛南		Luonan
-洛🀁		Luonan
 洛厄尔		Lowell
 洛厄尔		Lowell
 洛可可		rococo
@@ -56359,7 +55271,6 @@
 济		aid/be of help
 济助		relieve and help
 济南		Jinan
-济🀁		Jinan
 济源		Jiyuan
 济源市		Jiyuan
 济阳		Jiyang
@@ -56414,9 +55325,7 @@
 浣纱		wash silk
 浣衣		wash clothes
 浦东		Pudong
-浦🀀		Pudong
 浦北		Pubei
-浦🀃		Pubei
 浦北		Pubei
 浦口		Pukou
 浦城		Pucheng
@@ -56610,23 +55519,14 @@
 海勒姆		Hiram
 海勒姆		Hiram
 海南		Hainan
-海🀁		Hainan
 海南		Hainan
-海🀁		Hainan
 海南岛		Hainan Island
-海🀁岛		Hainan Island
 海南岛		Hainan Island
-海🀁岛		Hainan Island
 海南島		Hainan Island
-海🀁島		Hainan Island
 海南島		Hainan Island
-海🀁島		Hainan Island
 海南省		Hainan
-海🀁省		Hainan
 海南省		Hainan
-海🀁省		Hainan
 海南省		Hainan
-海🀁省		Hainan
 海厄特		Hyatt
 海厄特		Hyatt
 海原		Haiyuan
@@ -57457,10 +56357,8 @@
 淬		to temper/dip into water
 淬火		quench
 淮北市		Huaibei
-淮🀃市		Huaibei
 淮北市		Huaibei
 淮南市		Huainan
-淮🀁市		Huainan
 淮河		Huai River
 淮滨		Huaibin
 淮濱		Huaibin
@@ -57965,9 +56863,7 @@
 測面器		planimeter
 測驗		test/to test
 渭南		Weinan
-渭🀁		Weinan
 渭南市		Weinan
-渭🀁市		Weinan
 渭源		Weiyuan
 港		harbor/Hong Kong/port
 港人		Hong Kong person
@@ -58092,25 +56988,17 @@
 湔雪		wipe away (a humiliation)/redress (a wrong)
 湖		lake
 湖北		Hubei
-湖🀃		Hubei
 湖北		Hubei
 湖北省		Hubei Province
-湖🀃省		Hubei Province
 湖北省		Hubei Province
 湖北省		Hubei Province
-湖🀃省		Hubei Province
 湖区		Lake District
 湖區		Lake District
 湖南		Hunan/Hunan province
-湖🀁		Hunan/Hunan province
 湖南大学		Hunan University
-湖🀁大学		Hunan University
 湖南大學		Hunan University
-湖🀁大學		Hunan University
 湖南省		Hunan
-湖🀁省		Hunan
 湖南省		Hunan
-湖🀁省		Hunan
 湖口		Hukou
 湖州		Huzhou
 湖州市		Huzhou
@@ -58140,7 +57028,6 @@
 湜		clear water
 湟		name of a river
 湟中		Huangzhong
-湟🀄		Huangzhong
 湟源		Huangyuan
 湫		marsh
 湮		obscured
@@ -58625,7 +57512,6 @@
 滥用		misuse/abuse/to abuse
 滦		name of a river
 滦南		Luannan
-滦🀁		Luannan
 滦县		Luan county
 滦平		Luanping
 滨		shore/bank
@@ -58850,27 +57736,19 @@
 漠不关心		apathetic
 漠不关心		apathetic
 漠北		Outer Mongolia
-漠🀃		Outer Mongolia
 漠北		Outer Mongolia
 漠南		Inner Mongolia
-漠🀁		Inner Mongolia
 漠河		Mohe
 漠视		despise
 漢		man/Chinese/the Han dynasty
 漢		man/Chinese/the Han dynasty
 漢		man/Chinese/the Han dynasty
 漢中		Hanzhong
-漢🀄		Hanzhong
 漢中		Hanzhong
-漢🀄		Hanzhong
 漢中		Hanzhong
-漢🀄		Hanzhong
 漢中市		Hanzhong
-漢🀄市		Hanzhong
 漢中市		Hanzhong
-漢🀄市		Hanzhong
 漢中市		Hanzhong
-漢🀄市		Hanzhong
 漢化		Chinese localization
 漢化		Chinese localization
 漢化		Chinese localization
@@ -59051,7 +57929,6 @@
 潔淨		clean
 潔白		spotlessly white
 潔西卡		Jessica
-潔🀂卡		Jessica
 潘朵拉		Pandora
 潘朵拉		Pandora
 潛		dive
@@ -59123,7 +58000,6 @@
 潞城		Lucheng
 潞城市		Lucheng
 潞西		Luxi
-潞🀂		Luxi
 潢		dye paper
 潢川		Huangchuan
 潤		moist
@@ -59183,7 +58059,6 @@
 潼		high
 潼关		Tongguan
 潼南		Tongnan
-潼🀁		Tongnan
 潼關		Tongguan
 澀		obscure/astringent/rough
 澀味		astringent
@@ -59223,7 +58098,6 @@
 澡盆		bath tub
 澤庫		Zeku
 澤西		Jersey
-澤🀂		Jersey
 澥		become watery
 澧县		Li county
 澧縣		Li county
@@ -59333,7 +58207,6 @@
 濟		aid/be of help
 濟助		relieve and help
 濟南		Jinan
-濟🀁		Jinan
 濟源		Jiyuan
 濟源市		Jiyuan
 濟貧		aid
@@ -59427,7 +58300,6 @@
 瀘溪		Luxi
 瀘縣		Lu county
 瀘西		Luxi
-瀘🀂		Luxi
 瀚		vast/ocean
 瀛		ocean
 瀝		drip
@@ -59447,7 +58319,6 @@
 灌		to pour/irrigate/pour
 灌云		Guanyun
 灌南		Guannan
-灌🀁		Guannan
 灌木		bush/shrub
 灌木丛		shrub
 灌木叢		shrub
@@ -59480,10 +58351,10 @@
 灣潭		curved pool
 灤		name of a river
 灤南		Luannan
-灤🀁		Luannan
 灤平		Luanping
 灤縣		Luan county
 火		fire
+㊋		fire
 火候		crucial moment
 火儿		fire/angry
 火光		flame/blaze
@@ -59967,7 +58838,6 @@
 烏蘭巴托		Ulan Bator
 烏蘭巴托		Ulan Bator
 烏西亞		Uzzia
-烏🀂亞		Uzzia
 烏賊		cuttle/cuttlefish
 烏金		coal
 烏金		coal
@@ -60098,9 +58968,7 @@
 烬		ashes
 热		to heat up
 热中		eagerly
-热🀄		eagerly
 热中子		thermal neutron
-热🀄子		thermal neutron
 热切		fervent
 热切		fervent
 热力		heat
@@ -60298,7 +59166,6 @@
 無情		ruthless/merciless/pitiless
 無意		inadvertent
 無意中		accidentally/unintentionally
-無意🀄		accidentally/unintentionally
 無意識		unconscious
 無意識		unconscious
 無愧		have a clear conscience
@@ -60793,7 +59660,6 @@
 熬煎		suffering
 熱		to heat up
 熱中子		thermal neutron
-熱🀄子		thermal neutron
 熱切		fervent
 熱切		fervent
 熱力		heat
@@ -61596,6 +60462,7 @@
 牵绊		impede
 牵连		implicate
 特		especially/special
+㊕		especially/special
 特产		special local product
 特价		special price
 特伦顿		Trenton
@@ -61626,9 +60493,7 @@
 特務		spy
 特区		special district
 特古西加尔巴		Tegucigalpa
-特古🀂加尔巴		Tegucigalpa
 特古西加爾巴		Tegucigalpa
-特古🀂加爾巴		Tegucigalpa
 特地		specially
 特大号		king-size
 特大號		king-size
@@ -62657,7 +61522,6 @@
 玛拉基亚		Malachi
 玛拉基亚		Malachi
 玛拿西		Manasseh
-玛拿🀂		Manasseh
 玛曲		Maqu
 玛格丽特		Margaret
 玛瑙		agate
@@ -62794,13 +61658,9 @@
 玷辱		dishonor/disgrace
 玻		glass
 玻利尼西亚		Polynesia
-玻利尼🀂亚		Polynesia
 玻利尼西亚		Polynesia
-玻利尼🀂亚		Polynesia
 玻利尼西亞		Polynesia
-玻利尼🀂亞		Polynesia
 玻利尼西亞		Polynesia
-玻利尼🀂亞		Polynesia
 玻利維亞		Bolivia
 玻利維亞		Bolivia
 玻利维亚		Bolivia
@@ -62818,13 +61678,10 @@
 玻璃門		glass door
 玻璃门		glass door
 玻里尼西亚		Polynesia
-玻里尼🀂亚		Polynesia
 玻里尼西亚		Polynesia
-玻里尼🀂亚		Polynesia
 珀		amber
 珀斯		Perth
 珀西瓦尔		Percival
-珀🀂瓦尔		Percival
 珀金斯		Perkins
 珀金斯		Perkins
 珂罗版		collotype
@@ -63265,7 +62122,6 @@
 瑪拉基書		Book of Malachi
 瑪拉基書		Book of Malachi
 瑪拿西		Manasseh
-瑪拿🀂		Manasseh
 瑪曲		Maqu
 瑪格麗特		Margaret
 瑪格麗特		Margaret
@@ -63395,13 +62251,9 @@
 瓦工		plastering/bricklaying/tiling
 瓦当		eaves-tile
 瓦拉納西		Varanasi
-瓦拉納🀂		Varanasi
 瓦拉納西		Varanasi
-瓦拉納🀂		Varanasi
 瓦拉纳西		Varanasi
-瓦拉纳🀂		Varanasi
 瓦拉纳西		Varanasi
-瓦拉纳🀂		Varanasi
 瓦斯		gas
 瓦杜兹		Vaduz
 瓦杜茲		Vaduz
@@ -63454,7 +62306,6 @@
 甘		sweet/willing
 甘农		Gannon
 甘南		Gannan
-甘🀁		Gannan
 甘地		Gandhi
 甘布尔		Gamble
 甘心		be willing/be willing to
@@ -63894,9 +62745,7 @@
 田		farm/field
 田七		pseudo-ginseng
 田东		Tiandong
-田🀀		Tiandong
 田中		Tanaka
-田🀄		Tanaka
 田亩		field
 田凫		lapwing
 田园		countryside/fields
@@ -63909,13 +62758,9 @@
 田林		Tianlin
 田畝		field
 田納西		Tennessee
-田納🀂		Tennessee
 田納西州		Tennessee
-田納🀂州		Tennessee
 田纳西		Tennessee
-田纳🀂		Tennessee
 田纳西州		Tennessee
-田纳🀂州		Tennessee
 田舍		farmhouse
 田菁		sesbania
 田賦		land tax
@@ -64214,8 +63059,8 @@
 电饭锅		electric rice cooker
 电鳗		electric eel
 男		male/man
+㊚		male/man
 男中音		baritone
-男🀄音		baritone
 男主角		leading actor
 男人		men/man
 男修道院長		abbot
@@ -64621,7 +63466,6 @@
 當下		immediately
 當且僅當		if and only if
 當中		among/in the middle
-當🀄		among/in the middle
 當事		be in charge/involved
 當事人		person/involved
 當今		current/present
@@ -64819,7 +63663,6 @@
 疾步		at a fast pace
 疾病		disease
 疾病控制中心		Centres for Disease Control
-疾病控制🀄心		Centres for Disease Control
 疾苦		suffering
 疾走		scamper
 疾風		blast/strong wind
@@ -65204,9 +64047,7 @@
 發射臺		pad
 發展		development
 發展中		in the pipeline/developing
-發展🀄		in the pipeline/developing
 發展中國家		developing country
-發展🀄國家		developing country
 發展基金		development fund
 發展基金		development fund
 發展模式		development mode
@@ -66020,9 +64861,7 @@
 盘头		hair ornament/interrogate
 盘子		dish/plate/tray
 盘尼西林		penicillin
-盘尼🀂林		penicillin
 盘尼西林		penicillin
-盘尼🀂林		penicillin
 盘山		Panshan
 盘弄		fondle
 盘弄		fondle
@@ -66139,6 +64978,7 @@
 盡量		as much as possible
 盡頭		extremity/end
 監		to supervise
+㊬		to supervise
 監利		Jianli
 監利		Jianli
 監外執行		serve (a sentence) outside prison
@@ -66174,9 +65014,7 @@
 盤問		cross-examine/interrogate
 盤子		dish/plate/tray
 盤尼西林		penicillin
-盤尼🀂林		penicillin
 盤尼西林		penicillin
-盤尼🀂林		penicillin
 盤山		Panshan
 盤弄		fondle
 盤弄		fondle
@@ -66731,7 +65569,6 @@
 看不顺眼		unpleasant to the eye
 看不顺眼		unpleasant to the eye
 看中		settle on
-看🀄		settle on
 看书		to read/study
 看似		look as if
 看作		look upon as
@@ -66888,7 +65725,6 @@
 眼		eye/small hole
 眼下		at present/now
 眼中		's eyes
-眼🀄		's eyes
 眼光		foresight
 眼冒金星		see stars
 眼冒金星		see stars
@@ -67307,9 +66143,7 @@
 矬		short
 短		weak point
 短中抽長		make the best of a bad job
-短🀄抽長		make the best of a bad job
 短中抽长		make the best of a bad job
-短🀄抽长		make the best of a bad job
 短传		short pass
 短促		of very short duration
 短信		text message/SMS
@@ -67411,13 +66245,9 @@
 石化		petrochemical industry
 石匠		stonemason/stonecutter
 石南属		heather
-石🀁属		heather
 石南屬		heather
-石🀁屬		heather
 石南树		heath
-石🀁树		heath
 石南樹		heath
-石🀁樹		heath
 石印		lithography/lithographic printing
 石台		Shitai
 石器		stone tool/stone implement
@@ -67623,7 +66453,6 @@
 研究		research
 研究与发展		research and development
 研究中心		research centre
-研究🀄心		research centre
 研究人员		research worker/researcher
 研究人員		research worker/researcher
 研究会		research association
@@ -67764,7 +66593,6 @@
 破颜		break into a smile
 砷		arsenic
 砷中毒		arsenic poisoning
-砷🀄毒		arsenic poisoning
 砷化氢		arsine
 砷化氫		arsine
 砸		fail
@@ -67995,7 +66823,6 @@
 碰面		meet/to meet
 碱		base
 碱中毒		alkalosis
-碱🀄毒		alkalosis
 碱度		alkalinity
 碱度		alkalinity
 碲		tellurium
@@ -68298,6 +67125,7 @@
 礼金		cash gift
 礼金		cash gift
 社		club/society/agency
+㊓		club/society/agency
 社		club/society/agency
 社交		social contact
 社交		social contact
@@ -68446,7 +67274,6 @@
 社長		president/director (of an association)
 社長		president/director (of an association)
 祁东		Qidong
-祁🀀		Qidong
 祁東		Qidong
 祁连		Qilian
 祁連		Qilian
@@ -68532,6 +67359,7 @@
 祛寒		dispel cold
 祜		celestial blessing
 祝		wish
+㊗		wish
 祝		wish
 祝发		cut one's hair
 祝发		cut one's hair
@@ -69347,7 +68175,6 @@
 种子选手		seeded player
 种族		race
 种族中心主义		ethnocentrism
-种族🀄心主义		ethnocentrism
 种族主义		racism
 种族主义者		racist
 种族主义者		racist
@@ -69474,6 +68301,7 @@
 秕子		blighted grain
 秕糠		chaff/worthless stuff
 秘		secret/secretary
+㊙		secret/secretary
 秘书		secretary
 秘书长		secretary-general
 秘传		esoteric
@@ -69716,7 +68544,6 @@
 種子選手		seeded player
 種族		race
 種族中心主義		ethnocentrism
-種族🀄心主義		ethnocentrism
 種族主義		racism
 種族主義者		racist
 種族主義者		racist
@@ -69914,13 +68741,9 @@
 空	kòng	free time
 🈳	kòng	free time
 空中		in the sky/in the air
-空🀄		in the sky/in the air
 空中客車		Airbus
-空🀄客車		Airbus
 空中客車		Airbus
-空🀄客車		Airbus
 空中客车		Airbus
-空🀄客车		Airbus
 空余		free
 空儿		spare time
 空兒		spare time
@@ -70070,13 +68893,9 @@
 突尼斯		Tunisia/Tunis
 突尼斯		Tunisia/Tunis
 突尼西亚		Tunisia
-突尼🀂亚		Tunisia
 突尼西亚		Tunisia
-突尼🀂亚		Tunisia
 突尼西亞		Tunisia
-突尼🀂亞		Tunisia
 突尼西亞		Tunisia
-突尼🀂亞		Tunisia
 突擊		assault
 突擊		assault
 突显		conspicuous
@@ -72256,9 +71075,7 @@
 紐曼		Newman
 紐曼		Newman
 紐澤西		New Jersey
-紐澤🀂		New Jersey
 紐澤西		New Jersey
-紐澤🀂		New Jersey
 紐瓦克		Newark
 紐瓦克		Newark
 紐約		New York
@@ -72279,11 +71096,8 @@
 紐襻		button loop
 紐襻		button loop
 紐西蘭		New Zealand
-紐🀂蘭		New Zealand
 紐西蘭		New Zealand
-紐🀂蘭		New Zealand
 紐西蘭		New Zealand
-紐🀂蘭		New Zealand
 紐黑文		New Haven
 紐黑文		New Haven
 紓		to free from
@@ -72566,9 +71380,7 @@
 累累		again and again/countless
 累累		again and again/countless
 累西腓		Recife
-累🀂腓		Recife
 累西腓		Recife
-累🀂腓		Recife
 累計		add up
 累計		add up
 累计		add up
@@ -72913,7 +71725,6 @@
 綈		coarse greenish black pongee
 綏		pacify
 綏中		Suizhong
-綏🀄		Suizhong
 綏化		Suihua
 綏化市		Suihua
 綏寧		Suining
@@ -74114,7 +72925,6 @@
 纽扣		button
 纽曼		Newman
 纽泽西		New Jersey
-纽泽🀂		New Jersey
 纽瓦克		Newark
 纽约		New York
 纽约人		New Yorker
@@ -74125,7 +72935,6 @@
 纽芬兰		Newfoundland
 纽襻		button loop
 纽西兰		New Zealand
-纽🀂兰		New Zealand
 纽黑文		New Haven
 纾		to free from
 纾困		provide financial relief
@@ -74570,7 +73379,6 @@
 绣花鞋		embroidered shoes
 绥		pacify
 绥中		Suizhong
-绥🀄		Suizhong
 绥化		Suihua
 绥化市		Suihua
 绥宁		Suining
@@ -75094,7 +73902,6 @@
 罗利		Raleigh
 罗刹		demon
 罗南		Ronan
-罗🀁		Ronan
 罗嘉良		Gallen Lo
 罗嘉良		Gallen Lo
 罗塔岛		Rota
@@ -75116,7 +73923,6 @@
 罗得		Lot
 罗得岛		Rhodes/Rhode Island
 罗得西亚		Rhodesia
-罗得🀂亚		Rhodesia
 罗德岛		Rhode Island
 罗德里戈		Rodrigo
 罗德里戈		Rodrigo
@@ -75161,7 +73967,6 @@
 罗荣桓		Luo Ronghuan
 罗莎		Rosa
 罗西塔		Rosita
-罗🀂塔		Rosita
 罗马		Rome
 罗马书		Romans
 罗马尼亚		Romania
@@ -75526,13 +74331,9 @@
 美德		virtue
 美意		kindness
 美拉尼西亚		Melanesia
-美拉尼🀂亚		Melanesia
 美拉尼西亚		Melanesia
-美拉尼🀂亚		Melanesia
 美拉尼西亞		Melanesia
-美拉尼🀂亞		Melanesia
 美拉尼西亞		Melanesia
-美拉尼🀂亞		Melanesia
 美援		U
 美方		the US side
 美景		beautiful scenery
@@ -76348,7 +75149,6 @@
 耶穌基督末世聖徒教會		The Church of Jesus Christ of Latter-day Saints
 耶穌教		Protestantism
 耶西		Jesse
-耶🀂		Jesse
 耶誕節		Christmas
 耶誕節		Christmas
 耶誕節		Christmas
@@ -76410,7 +75210,6 @@
 职		duty/office
 职业		vocation/profession/occupation
 职业中学		vocational high school
-职业🀄学		vocational high school
 职业特性		professionalism
 职业病		occupational disease
 职业运动员		pro
@@ -76543,11 +75342,8 @@
 聖路易斯		St Louis
 聖路易斯		St Louis
 聖路易斯波托西		San Luis Potosi
-聖路易斯波托🀂		San Luis Potosi
 聖路易斯波托西		San Luis Potosi
-聖路易斯波托🀂		San Luis Potosi
 聖路易斯波托西		San Luis Potosi
-聖路易斯波托🀂		San Luis Potosi
 聖迭戈		San Diego
 聖靈		holy spirit
 聖靈		holy spirit
@@ -76810,7 +75606,6 @@
 職掌		be in charge of
 職業		vocation/profession/occupation
 職業中學		vocational high school
-職業🀄學		vocational high school
 職業特性		professionalism
 職業病		occupational disease
 職業運動員		pro
@@ -76889,9 +75684,7 @@
 肆無忌憚		unbridled
 肆虐		to wreak havoc
 肇东		Zhaodong
-肇🀀		Zhaodong
 肇东市		Zhaodong
-肇🀀市		Zhaodong
 肇因		origin/cause
 肇始		start/initiate
 肇州		Zhaozhou
@@ -77018,7 +75811,6 @@
 肠骨		ilium
 股		section/share/thigh
 股东		shareholder/stockholder
-股🀀		shareholder/stockholder
 股价		stock price
 股份公司		joint-stock company
 股份資本		share capital
@@ -77053,7 +75845,6 @@
 肤色		skin colour
 肥		fertile
 肥东		Feidong
-肥🀀		Feidong
 肥乡		Feixiang
 肥力		fertility (of soil)
 肥力		fertility (of soil)
@@ -77087,7 +75878,6 @@
 肥腻		greasy
 肥膩		greasy
 肥西		Feixi
-肥🀂		Feixi
 肥鄉		Feixiang
 肥頭大耳		chubby
 肩		shoulder
@@ -77449,9 +76239,7 @@
 胶乳		latex
 胶体		colloid
 胶南		Jiaonan
-胶🀁		Jiaonan
 胶南市		Jiaonan
-胶🀁市		Jiaonan
 胶印		offset
 胶卷		film
 胶原质		collagen
@@ -78134,9 +76922,7 @@
 膠		rubber/glue/gum
 膠乳		latex
 膠南		Jiaonan
-膠🀁		Jiaonan
 膠南市		Jiaonan
-膠🀁市		Jiaonan
 膠印		offset
 膠卷		film
 膠原質		collagen
@@ -78399,7 +77185,6 @@
 自以为		wrongly think oneself
 自传		autobiography
 自体中毒		autointoxication
-自体🀄毒		autointoxication
 自作聪明		think oneself clever
 自作聰明		think oneself clever
 自作自受		as one sows, so shall one reap
@@ -78735,7 +77520,6 @@
 自食其果		reap what one has sown
 自養生物		autotroph
 自體中毒		autointoxication
-自體🀄毒		autointoxication
 臬		standard
 臭		to smell/smell/stench
 臭		to smell/smell/stench
@@ -78845,15 +77629,11 @@
 致癌物质		carcinogen
 致辞		to make a speech
 臺中		Taichung
-臺🀄		Taichung
 臺北		Taibei/Taipei
-臺🀃		Taibei/Taipei
 臺北		Taibei/Taipei
 臺北市		Taibei
-臺🀃市		Taibei
 臺北市		Taibei
 臺南		Tainan
-臺🀁		Tainan
 臺商		Taiwan merchants
 臺地		mesa/tableland
 臺座		pedestal
@@ -79156,7 +77936,6 @@
 舸		barge
 船		ship/boat
 船东		ship owner
-船🀀		ship owner
 船主		shipowner
 船位		ship's position
 船体		hull
@@ -79397,7 +78176,6 @@
 艾菲爾鐵塔		Eiffel Tower
 艾萨克		Isaac
 艾西尔		Eisele
-艾🀂尔		Eisele
 艾达		Ida
 艾迪		Eddie
 艾迪生		Addison
@@ -79676,7 +78454,6 @@
 苍凉		desolate/bleak
 苍劲		old and strong/vigorous/bold
 苍南		Cangnan
-苍🀁		Cangnan
 苍天		heaven
 苍山		Cangshan
 苍梧		Cangwu
@@ -79726,18 +78503,12 @@
 苏菜		Jiangsu cuisine
 苏菲		Sophie
 苏西洛		Susilo
-苏🀂洛		Susilo
 苏西洛		Susilo
-苏🀂洛		Susilo
 苏醒		come to
 苏里南		Suriname/Surinam
-苏里🀁		Suriname/Surinam
 苏里南		Suriname/Surinam
-苏里🀁		Suriname/Surinam
 苏里南河		Suriname River
-苏里🀁河		Suriname River
 苏里南河		Suriname River
-苏里🀁河		Suriname River
 苏门答腊		Sumatra
 苏门答腊岛		Sumatra
 苏黎世		Zurich
@@ -80470,9 +79241,7 @@
 莱菔子		radish seed
 莱蒂		Lettie
 莱西		Laixi
-莱🀂		Laixi
 莱西市		Laixi
-莱🀂市		Laixi
 莱阳		Laiyang
 莱阳市		Laiyang
 莱顿		Leiden
@@ -80598,14 +79367,10 @@
 華僑		overseas Chinese
 華僑		overseas Chinese
 華北		North China
-華🀃		North China
 華北		North China
-華🀃		North China
 華北		North China
 華北平原		North China plain
-華🀃平原		North China plain
 華北平原		North China plain
-華🀃平原		North China plain
 華北平原		North China plain
 華埠		Chinatown
 華埠		Chinatown
@@ -80671,9 +79436,7 @@
 華裔		ethnic Chinese
 華裔		ethnic Chinese
 華西		West China
-華🀂		West China
 華西		West China
-華🀂		West China
 華語		Chinese language
 華語		Chinese language
 華貴		sumptuous
@@ -80763,9 +79526,7 @@
 萊蕪		field with dense growth of wild weeds/Laiwu
 萊蕪市		Laiwu
 萊西		Laixi
-萊🀂		Laixi
 萊西市		Laixi
-萊🀂市		Laixi
 萊陽		Laiyang
 萊陽市		Laiyang
 萊頓		Leiden
@@ -80794,7 +79555,6 @@
 萜烯		terpene
 萝		radish
 萝北		Luobei
-萝🀃		Luobei
 萝北		Luobei
 萝卜		radish
 萤		firefly
@@ -81259,7 +80019,6 @@
 蒂姆		Tim/Timm
 蒂法尼		Tiffany
 蒂莫西		Timothy
-蒂莫🀂		Timothy
 蒇		to complete/complete
 蒉		Amaranthus mangostanus
 蒋介石		Chiang Kaishek
@@ -81390,7 +80149,6 @@
 蒼		dark blue
 蒼勁		vigorous/bold
 蒼南		Cangnan
-蒼🀁		Cangnan
 蒼天		heaven
 蒼山		Cangshan
 蒼梧		Cangwu
@@ -81922,13 +80680,9 @@
 蘇菲		Sophie
 蘇醒		regain consciousness/revive
 蘇里南		Suriname/Surinam
-蘇里🀁		Suriname/Surinam
 蘇里南		Suriname/Surinam
-蘇里🀁		Suriname/Surinam
 蘇里南河		Suriname River
-蘇里🀁河		Suriname River
 蘇里南河		Suriname River
-蘇里🀁河		Suriname River
 蘇門答臘		Sumatra
 蘇門答臘		Sumatra
 蘇門答臘島		Sumatra
@@ -81996,9 +80750,7 @@
 蘿		radish
 蘿		radish
 蘿北		Luobei
-蘿🀃		Luobei
 蘿北		Luobei
-蘿🀃		Luobei
 蘿北		Luobei
 虎		tiger
 虎列拉		cholera
@@ -82739,7 +81491,6 @@
 蠼螋		earwig
 血		blood
 血中毒		blood poisoning
-血🀄毒		blood poisoning
 血亏		anemia
 血制品		blood products
 血压		blood pressure
@@ -83173,9 +81924,7 @@
 衝鋒槍		submachine gun
 衡		weigh
 衡东		Hengdong
-衡🀀		Hengdong
 衡南		Hengnan
-衡🀁		Hengnan
 衡山		Hengshan
 衡東		Hengdong
 衡水		Hengshui
@@ -83952,394 +82701,195 @@
 襲擊者		attacker
 襲擾		harass
 西		west
-🀂		west
 西丰		Xifeng
-🀂丰		Xifeng
 西乃山		Mount Sinai
-🀂乃山		Mount Sinai
 西乡		Xixiang
-🀂乡		Xixiang
 西亚		Southwest Asia
-🀂亚		Southwest Asia
 西亞		Southwest Asia
-🀂亞		Southwest Asia
 西人		Westerner
-🀂人		Westerner
 西伯利亚		Siberia
-🀂伯利亚		Siberia
 西伯利亚		Siberia
-🀂伯利亚		Siberia
 西伯利亞		Siberia
-🀂伯利亞		Siberia
 西伯利亞		Siberia
-🀂伯利亞		Siberia
 西元		Christian era
-🀂元		Christian era
 西充		Xichong
-🀂充		Xichong
 西充		Xichong
-🀂充		Xichong
 西兰花		broccoli
-🀂兰花		broccoli
 西北		northwest
-🀂北		northwest
-西🀃		northwest
 西北		northwest
-🀂北		northwest
 西北大学		Northwest University
-🀂北大学		Northwest University
-西🀃大学		Northwest University
 西北大学		Northwest University
-🀂北大学		Northwest University
 西北大學		Northwest University
-🀂北大學		Northwest University
-西🀃大學		Northwest University
 西北大學		Northwest University
-🀂北大學		Northwest University
 西北方		northwest
-🀂北方		northwest
-西🀃方		northwest
 西北方		northwest
-🀂北方		northwest
 西北角		northwest corner
-🀂北角		northwest corner
-西🀃角		northwest corner
 西北角		northwest corner
-🀂北角		northwest corner
 西医		Western medicine
-🀂医		Western medicine
 西半球		Western Hemisphere
-🀂半球		Western Hemisphere
 西华		Xihua
-🀂华		Xihua
 西单		Xidan
-🀂单		Xidan
 西南		southwest
-🀂南		southwest
-西🀁		southwest
 西南亚		southwest Asia
-🀂南亚		southwest Asia
-西🀁亚		southwest Asia
 西南亞		southwest Asia
-🀂南亞		southwest Asia
-西🀁亞		southwest Asia
 西南部		southwest part
-🀂南部		southwest part
-西🀁部		southwest part
 西博尔德		Seybold
-🀂博尔德		Seybold
 西厢记		Romance of the West Chamber
-🀂厢记		Romance of the West Chamber
 西吉		Xiji
-🀂吉		Xiji
 西和		Xihe
-🀂和		Xihe
 西單		Xidan
-🀂單		Xidan
 西坡拉		Zipporah
-🀂坡拉		Zipporah
 西坡拉		Zipporah
-🀂坡拉		Zipporah
 西塞罗		Cicero
-🀂塞罗		Cicero
 西塞罗		Cicero
-🀂塞罗		Cicero
 西塞羅		Cicero
-🀂塞羅		Cicero
 西塞羅		Cicero
-🀂塞羅		Cicero
 西塞羅		Cicero
-🀂塞羅		Cicero
 西天		Western Paradise
-🀂天		Western Paradise
 西奈		Sinai
-🀂奈		Sinai
 西奈		Sinai
-🀂奈		Sinai
 西奈山		Mount Sinai
-🀂奈山		Mount Sinai
 西奈山		Mount Sinai
-🀂奈山		Mount Sinai
 西姆科克斯		Simcox
-🀂姆科克斯		Simcox
 西学		Western learning
-🀂学		Western learning
 西學		Western learning
-🀂學		Western learning
 西宁		Xining
-🀂宁		Xining
 西宁市		Xining
-🀂宁市		Xining
 西寧		Xining
-🀂寧		Xining
 西寧		Xining
-🀂寧		Xining
 西寧		Xining
-🀂寧		Xining
 西寧市		Xining
-🀂寧市		Xining
 西寧市		Xining
-🀂寧市		Xining
 西寧市		Xining
-🀂寧市		Xining
 西尔维奥		Silvio
-🀂尔维奥		Silvio
 西岸		west coast
-🀂岸		west coast
 西峡		Xixia
-🀂峡		Xixia
 西峽		Xixia
-🀂峽		Xixia
 西巴		Seba
-🀂巴		Seba
 西平		Xiping
-🀂平		Xiping
 西廂記		Romance of the West Chamber
-🀂廂記		Romance of the West Chamber
 西式		Western style
-🀂式		Western style
 西弗吉尼亚		West Virginia
-🀂弗吉尼亚		West Virginia
 西弗吉尼亞		West Virginia
-🀂弗吉尼亞		West Virginia
 西德		West Germany
-🀂德		West Germany
 西摩		Seymour
-🀂摩		Seymour
 西撒哈拉		Western Sahara
-🀂撒哈拉		Western Sahara
 西撒哈拉		Western Sahara
-🀂撒哈拉		Western Sahara
 西斯廷		Sistine
-🀂斯廷		Sistine
 西方		West/the Occident/Western
-🀂方		West/the Occident/Western
 西方人		Westerner
-🀂方人		Westerner
 西昌		Xichang
-🀂昌		Xichang
 西昌市		Xichang
-🀂昌市		Xichang
 西晉		Western Jin dynasty (265-316)
-🀂晉		Western Jin dynasty (265-316)
 西晋		Western Jin dynasty (265-316)
-🀂晋		Western Jin dynasty (265-316)
 西普里安		Cyprian
-🀂普里安		Cyprian
 西普里安		Cyprian
-🀂普里安		Cyprian
 西服		Western-style clothes
-🀂服		Western-style clothes
 西林		Xilin
-🀂林		Xilin
 西林		Xilin
-🀂林		Xilin
 西格蒙德		Sigmund
-🀂格蒙德		Sigmund
 西欧		Western Europe
-🀂欧		Western Europe
 西欧联盟		Western European Union
-🀂欧联盟		Western European Union
 西歐		Western Europe
-🀂歐		Western Europe
 西歐聯盟		Western European Union
-🀂歐聯盟		Western European Union
 西歐聯盟		Western European Union
-🀂歐聯盟		Western European Union
 西江		Xijiang
-🀂江		Xijiang
 西洋		the West
-🀂洋		the West
 西洋人		Westerner
-🀂洋人		Westerner
 西洋杉		cedar
-🀂洋杉		cedar
 西洋李子		damson
-🀂洋李子		damson
 西洋李子		damson
-🀂洋李子		damson
 西洋棋		chess
-🀂洋棋		chess
 西洋菜		watercress
-🀂洋菜		watercress
 西洋鏡		trickery
-🀂洋鏡		trickery
 西洋镜		trickery
-🀂洋镜		trickery
 西海岸		west coast
-🀂海岸		west coast
 西海岸		west coast
-🀂海岸		west coast
 西游记		Journey to the West
-🀂游记		Journey to the West
 西湖		West Lake
-🀂湖		West Lake
 西点		West Point
-🀂点		West Point
 西班牙		Spain
-🀂班牙		Spain
 西班牙人		Spanish
-🀂班牙人		Spanish
 西班牙語		Spanish language
-🀂班牙語		Spanish language
 西班牙语		Spanish language
-🀂班牙语		Spanish language
 西瓜		watermelon
-🀂瓜		watermelon
 西番莲		passion flower
-🀂番莲		passion flower
 西番蓮		passion flower
-🀂番蓮		passion flower
 西番蓮		passion flower
-🀂番蓮		passion flower
 西番雅书		Book of Zephaniah
-🀂番雅书		Book of Zephaniah
 西番雅書		Book of Zephaniah
-🀂番雅書		Book of Zephaniah
 西畴		Xichou
-🀂畴		Xichou
 西疇		Xichou
-🀂疇		Xichou
 西皮		one of the two chief types of music
-🀂皮		one of the two chief types of music
 西皮奥		Scipio
-🀂皮奥		Scipio
 西直門		Xizhimen
-🀂直門		Xizhimen
 西直門		Xizhimen
-🀂直門		Xizhimen
 西直门		Xizhimen
-🀂直门		Xizhimen
 西直门		Xizhimen
-🀂直门		Xizhimen
 西米		sago
-🀂米		sago
 西米德兰兹		West Midlands
-🀂米德兰兹		West Midlands
 西米德蘭茲		West Midlands
-🀂米德蘭茲		West Midlands
 西米德蘭茲		West Midlands
-🀂米德蘭茲		West Midlands
 西紅柿		tomato
-🀂紅柿		tomato
 西红柿		tomato
-🀂红柿		tomato
 西药		Western medicine
-🀂药		Western medicine
 西華		Xihua
-🀂華		Xihua
 西華		Xihua
-🀂華		Xihua
 西萨摩亚		Western Samoa
-🀂萨摩亚		Western Samoa
 西葫芦		pumpkin
-🀂葫芦		pumpkin
 西葫蘆		pumpkin
-🀂葫蘆		pumpkin
 西葫蘆		pumpkin
-🀂葫蘆		pumpkin
 西蒙		Simon
-🀂蒙		Simon
 西蒙娜		Simone
-🀂蒙娜		Simone
 西薩摩亞		Western Samoa
-🀂薩摩亞		Western Samoa
 西藏		Tibet
-🀂藏		Tibet
 西藏人		Tibetan
-🀂藏人		Tibetan
 西藥		Western medicine
-🀂藥		Western medicine
 西蘭花		broccoli
-🀂蘭花		broccoli
 西蘭花		broccoli
-🀂蘭花		broccoli
 西装		suit/Western-style clothes
-🀂装		suit/Western-style clothes
 西裝		suit/Western-style clothes
-🀂裝		suit/Western-style clothes
 西西		cubic centimeter (cc)
-🀂🀂		cubic centimeter (cc)
 西西里		Sicily
-🀂🀂里		Sicily
 西西里		Sicily
-🀂🀂里		Sicily
 西语		Spanish
-🀂语		Spanish
 西豐		Xifeng
-🀂豐		Xifeng
 西貢		Saigon
-🀂貢		Saigon
 西贡		Saigon
-🀂贡		Saigon
 西距		westing
-🀂距		westing
 西边		west/west side
-🀂边		west/west side
 西邊		west/west side
-🀂邊		west/west side
 西部		western part
-🀂部		western part
 西部片		Western
-🀂部片		Western
 西鄉		Xixiang
-🀂鄉		Xixiang
 西醫		Western medicine
-🀂醫		Western medicine
 西里尔		Cyril/Cyrillic
-🀂里尔		Cyril/Cyrillic
 西里尔		Cyril/Cyrillic
-🀂里尔		Cyril/Cyrillic
 西里尔字母		Cyrillic alphabet
-🀂里尔字母		Cyrillic alphabet
 西里尔字母		Cyrillic alphabet
-🀂里尔字母		Cyrillic alphabet
 西里爾		Cyril
-🀂里爾		Cyril
 西里爾		Cyril
-🀂里爾		Cyril
 西里爾字母		Cyrillic alphabet
-🀂里爾字母		Cyrillic alphabet
 西里爾字母		Cyrillic alphabet
-🀂里爾字母		Cyrillic alphabet
 西里西亚		Silesia
-🀂里🀂亚		Silesia
 西里西亚		Silesia
-🀂里🀂亚		Silesia
 西里西亞		Silesia
-🀂里🀂亞		Silesia
 西里西亞		Silesia
-🀂里🀂亞		Silesia
 西門子		Siemens
-🀂門子		Siemens
 西門子公司		Siemens
-🀂門子公司		Siemens
 西门子		Siemens
-🀂门子		Siemens
 西门子公司		Siemens
-🀂门子公司		Siemens
 西雅图		Seattle
-🀂雅图		Seattle
 西雅圖		Seattle
-🀂雅圖		Seattle
 西非		West Africa
-🀂非		West Africa
 西面		west/west side
-🀂面		west/west side
 西頓		Sidon
-🀂頓		Sidon
 西顿		Sidon
-🀂顿		Sidon
 西風		west/westerly wind
-🀂風		west/westerly wind
 西風帶		westerlies
-🀂風帶		westerlies
 西风带		westerlies
-🀂风带		westerlies
 西餐		Western-style food
-🀂餐		Western-style food
 西點		West Point
-🀂點		West Point
 要		to want
 要不		or else/or/otherwise
 要不		or else/or/otherwise
@@ -85096,7 +83646,6 @@
 計算尺		slide rule
 計算機		calculator/computer
 計算機中心		computer centre
-計算機🀄心		computer centre
 計算機工業		computer industry
 計算機模擬		computer simulation
 計算機病毒		computer virus
@@ -85426,11 +83975,8 @@
 詰		investigate
 話		words/dialect
 話中有刺		hidden barbs in one's words
-話🀄有刺		hidden barbs in one's words
 話中有刺		hidden barbs in one's words
-話🀄有刺		hidden barbs in one's words
 話中有話		overtones in conversation
-話🀄有話		overtones in conversation
 話亭		telephone booth
 話別		say good-bye
 話劇		modern drama/stage play
@@ -86698,7 +85244,6 @@
 计算尺		slide rule
 计算机		calculator/computer
 计算机中心		computer centre
-计算机🀄心		computer centre
 计算机工业		computer industry
 计算机模拟		computer simulation
 计算机病毒		computer virus
@@ -87166,11 +85711,8 @@
 诜		to inform
 话		words/dialect
 话中有刺		hidden barbs in one's words
-话🀄有刺		hidden barbs in one's words
 话中有刺		hidden barbs in one's words
-话🀄有刺		hidden barbs in one's words
 话中有话		overtones in conversation
-话🀄有话		overtones in conversation
 话亭		telephone booth
 话别		say good-bye
 话剧		modern drama/stage play
@@ -87335,7 +85877,6 @@
 说不定		maybe
 说不定		maybe
 说中		correctly say
-说🀄		correctly say
 说亲		to act as a matchmaker/act as a matchmaker
 说到		speak of/mention
 说到做到		do what one says
@@ -87769,7 +86310,6 @@
 豎起		hold up/erect
 豐		plentiful
 豐南		Fengnan
-豐🀁		Fengnan
 豐厚		thick
 豐城		Fengcheng
 豐城市		Fengcheng
@@ -87969,6 +86509,7 @@
 負面		negative
 負鼠		opossum
 財		money/riches/wealth
+㊖		money/riches/wealth
 財主		moneybags/rich man
 財力		financial resources
 財力		financial resources
@@ -88105,7 +86646,6 @@
 貴		noble/your/expensive
 貴公司		your company
 貴南		Guinan
-貴🀁		Guinan
 貴妃醉酒		The Drunken Beauty
 貴姓		what is your name
 貴婦人		dame
@@ -88214,9 +86754,7 @@
 貿易		trade
 貿易		trade
 貿易中心		trade centre
-貿易🀄心		trade centre
 貿易中心		trade centre
-貿易🀄心		trade centre
 貿易伙伴		trading partner
 貿易伙伴		trading partner
 貿易保護主義		trade protectionism
@@ -88259,8 +86797,8 @@
 賄賂		bribe
 賅		full/complete
 資		resource
+㊮		resource
 資中		Zizhong
-資🀄		Zizhong
 資信		capital and credit
 資俸		salary/pay
 資助		subsidy/subsidize/to subsidize
@@ -88311,11 +86849,8 @@
 賈		merchant/buy/to buy
 賈		merchant/buy/to buy
 賈南德拉		Gyanendra
-賈🀁德拉		Gyanendra
 賈南德拉		Gyanendra
-賈🀁德拉		Gyanendra
 賈南德拉		Gyanendra
-賈🀁德拉		Gyanendra
 賈慶林		Jia Qinglin
 賈慶林		Jia Qinglin
 賈慶林		Jia Qinglin
@@ -88354,9 +86889,7 @@
 賓至如歸		a home away from home
 賓至如歸		a home away from home
 賓西法尼亞		Pennsylvania
-賓🀂法尼亞		Pennsylvania
 賓西法尼亞		Pennsylvania
-賓🀂法尼亞		Pennsylvania
 賓詞		predicate
 賓詞		predicate
 賓語		object
@@ -88494,7 +87027,6 @@
 購得		purchase/to purchase
 購物		shopping
 購物中心		shopping centre
-購物🀄心		shopping centre
 購買		purchase/buy/to purchase
 購買力		purchasing power
 購買力		purchasing power
@@ -88656,7 +87188,6 @@
 贡献者		contributor
 财		money/riches/wealth
 财东		moneybags/shopowner/shop owner
-财🀀		moneybags/shopowner/shop owner
 财主		moneybags/rich man
 财产		property
 财产权		property/property right
@@ -88722,7 +87253,6 @@
 败仗		lost battle
 败兴		disappointed
 败北		suffer defeat
-败🀃		suffer defeat
 败北		suffer defeat
 败坏		corrupt/ruin/undermine
 败子回头		return of the prodigal son
@@ -88853,7 +87383,6 @@
 购得		purchase/to purchase
 购物		shopping
 购物中心		shopping centre
-购物🀄心		shopping centre
 贮		save/store
 贮存		store up
 贮水处		reservoir
@@ -88892,7 +87421,6 @@
 贵		noble/your/expensive
 贵公司		your company
 贵南		Guinan
-贵🀁		Guinan
 贵妃醉酒		The Drunken Beauty
 贵妇人		dame
 贵姓		what is your name
@@ -88927,9 +87455,7 @@
 贸易		trade
 贸易		trade
 贸易中心		trade centre
-贸易🀄心		trade centre
 贸易中心		trade centre
-贸易🀄心		trade centre
 贸易伙伴		trading partner
 贸易伙伴		trading partner
 贸易保护主义		trade protectionism
@@ -88957,9 +87483,7 @@
 费利克斯		Felix
 费利克斯		Felix
 费利西亚		Felicia
-费利🀂亚		Felicia
 费利西亚		Felicia
-费利🀂亚		Felicia
 费力		take effort
 费力		take effort
 费加罗		Figaro
@@ -89003,9 +87527,7 @@
 贽		gifts to superiors
 贾		merchant/buy/to buy
 贾南德拉		Gyanendra
-贾🀁德拉		Gyanendra
 贾南德拉		Gyanendra
-贾🀁德拉		Gyanendra
 贾庆林		Jia Qinglin
 贾庆林		Jia Qinglin
 贾德森		Judson
@@ -89019,7 +87541,6 @@
 赃物		booty
 资		resource
 资中		Zizhong
-资🀄		Zizhong
 资产		property/assets
 资产负债表		balance sheet
 资产阶级		bourgeois
@@ -89303,15 +87824,9 @@
 走勢		tendency
 走卒		pawn
 走南闖北		travel extensively
-走🀁闖北		travel extensively
-走南闖🀃		travel extensively
 走南闖北		travel extensively
-走🀁闖北		travel extensively
 走南闯北		travel extensively/to travel extensively
-走🀁闯北		travel extensively/to travel extensively
-走南闯🀃		travel extensively/to travel extensively
 走南闯北		travel extensively/to travel extensively
-走🀁闯北		travel extensively/to travel extensively
 走向		trend
 走向断层		strike fault
 走向斷層		strike fault
@@ -89565,11 +88080,8 @@
 越剧		Shaoxing opera
 越劇		Shaoxing opera
 越南		Vietnam
-越🀁		Vietnam
 越南語		Vietnamese language
-越🀁語		Vietnamese language
 越南语		Vietnamese language
-越🀁语		Vietnamese language
 越发		more and more/more
 越战		Vietnam War
 越戰		Vietnam War
@@ -89579,7 +88091,6 @@
 越界		cross a border
 越發		more and more/more
 越西		Yuexi
-越🀂		Yuexi
 越軌		transgress
 越轨		transgress
 越过		cross
@@ -89887,9 +88398,7 @@
 路缘		curb
 路缘		curb
 路西弗		Lucifer
-路🀂弗		Lucifer
 路西弗		Lucifer
-路🀂弗		Lucifer
 路边		roadside
 路边		roadside
 路过		to pass by
@@ -91341,7 +89850,6 @@
 边陲		border area/frontier
 辽		short name for Liaoning
 辽中		Liaozhong
-辽🀄		Liaozhong
 辽宁		Liaoning province/Liaoning
 辽宁省		Liaoning province/Liaoning
 辽宁省		Liaoning province/Liaoning
@@ -91398,7 +89906,6 @@
 迁徙自由		freedom of residence
 迁移		migrate/to migrate/move
 迁西		Qianxi
-迁🀂		Qianxi
 迁都		move the capital
 迁都		move the capital
 迁飞		migrate (of birds)
@@ -91579,7 +90086,6 @@
 运送		to transport/transport
 近		close/near
 近东		Near East
-近🀀		Near East
 近乎		intimate/close to
 近乎同步		plesiochronous
 近亲		close relative/near relation
@@ -91756,7 +90262,6 @@
 进餐		have a meal
 远		far/distant
 远东		Far East
-远🀀		Far East
 远亲		distant relative
 远古		remote antiquity
 远因		remote cause
@@ -91902,7 +90407,6 @@
 迥異		totally different
 迥異		totally different
 迦南		Canaan
-迦🀁		Canaan
 迦太基		Carthage
 迦納		Ghana
 迦纳		Ghana
@@ -92167,7 +90671,6 @@
 送风机		blower
 适		to fit/suitable
 适中		moderate
-适🀄		moderate
 适可而止		stop before going too far
 适合		to fit/fit/suit
 适婚		of marriageable age
@@ -92277,7 +90780,6 @@
 逆风		headwind/go against the wind
 选		to choose
 选中		pick/decide
-选🀄		pick/decide
 选举		election/to elect
 选举人		chooser
 选举法庭		election court
@@ -92381,7 +90883,6 @@
 递给		hand to
 途		way
 途中		en route
-途🀄		en route
 途人		stranger
 途径		channel/way
 途徑		channel/way
@@ -93382,8 +91883,8 @@
 遨		make excursion
 遨游		roam
 適		to fit/suitable
+㊜		to fit/suitable
 適中		moderate
-適🀄		moderate
 適可而止		stop before going too far
 適合		to fit/fit/suit
 適婚		of marriageable age
@@ -93496,13 +91997,11 @@
 遷徙自由		freedom of residence
 遷移		migrate/to migrate/move
 遷西		Qianxi
-遷🀂		Qianxi
 遷都		move the capital
 遷都		move the capital
 遷飛		migrate (of birds)
 選		to choose
 選中		pick/decide
-選🀄		pick/decide
 選修課		elective course
 選出		to select
 選區		electoral district
@@ -93577,9 +92076,7 @@
 遼		short name for Liaoning
 遼		short name for Liaoning
 遼中		Liaozhong
-遼🀄		Liaozhong
 遼中		Liaozhong
-遼🀄		Liaozhong
 遼寧		Liaoning province/Liaoning
 遼寧		Liaoning province/Liaoning
 遼寧		Liaoning province/Liaoning
@@ -93856,7 +92353,6 @@
 邳縣		Pi county
 邴		happy
 邵东		Shaodong
-邵🀀		Shaodong
 邵東		Shaodong
 邵武		Shaowu
 邵武市		Shaowu
@@ -93922,7 +92418,6 @@
 郧		name of a feudal state
 郧县		Yun county
 郧西		Yunxi
-郧🀂		Yunxi
 部		department/troops
 部下		subordinate
 部件		part/component/parts
@@ -94059,7 +92554,6 @@
 鄖		name of a feudal state
 鄖縣		Yun county
 鄖西		Yunxi
-鄖🀂		Yunxi
 鄙		rustic
 鄙人		I/your humble servant
 鄙俗		vulgar/philistine
@@ -94233,9 +92727,7 @@
 酒精		alcohol
 酒精		alcohol
 酒精中毒		alcohol poisoning
-酒精🀄毒		alcohol poisoning
 酒精中毒		alcohol poisoning
-酒精🀄毒		alcohol poisoning
 酒精灯		spirit lamp
 酒精灯		spirit lamp
 酒精燈		spirit lamp
@@ -94467,7 +92959,6 @@
 醫務所		clinic
 醫學		medicine/medical science
 醫學中心		medical centre
-醫學🀄心		medical centre
 醫學家		medical scientist
 醫學專家		medical expert
 醫學界		medical circles
@@ -94946,6 +93437,7 @@
 釐升		centiliter
 釐米		centimeter
 金		golden
+㊎		golden
 金		golden
 金三角		Golden Triangle
 金三角		Golden Triangle
@@ -95173,9 +93665,7 @@
 金融		banking/financial/finance
 金融		banking/financial/finance
 金融中心		financial centre
-金融🀄心		financial centre
 金融中心		financial centre
-金融🀄心		financial centre
 金融危机		financial crisis
 金融危机		financial crisis
 金融危機		financial crisis
@@ -95430,7 +93920,6 @@
 鉚釘		rivet
 鉛		lead
 鉛中毒		lead poisoning
-鉛🀄毒		lead poisoning
 鉛丹		minium
 鉛丹		minium
 鉛字盤		type case
@@ -95747,7 +94236,6 @@
 錦縣		Jin county
 錦繡		beautiful
 錦西		Jinxi
-錦🀂		Jinxi
 錦雞		golden pheasant
 錨		anchor
 錨爪		fluke
@@ -96272,7 +94760,6 @@
 铀浓缩		uranium enrichment
 铁		weapon
 铁东		Tiedong
-铁🀀		Tiedong
 铁丝		iron wire
 铁丝网		wire netting
 铁了心		determined
@@ -96344,7 +94831,6 @@
 铄		bright
 铅		lead
 铅中毒		lead poisoning
-铅🀄毒		lead poisoning
 铅丹		minium
 铅丹		minium
 铅字盘		type case
@@ -96647,7 +95133,6 @@
 锦绣		beautiful
 锦缎		brocade
 锦西		Jinxi
-锦🀂		Jinxi
 锦鸡		golden pheasant
 锫		berkelium
 锬		long spear
@@ -97455,7 +95940,6 @@
 關聯		related
 關聯		related
 關西		Kansai
-關🀂		Kansai
 關貿總協定		GATT
 關進		shut/impound/shut in
 關鍵		crux/crucial/key
@@ -97836,7 +96320,6 @@
 防震		guard against earthquakes
 阳		sun
 阳东		Yangdong
-阳🀀		Yangdong
 阳伞		parasol
 阳信		Yangxin
 阳光		sunshine
@@ -97862,7 +96345,6 @@
 阳离子		cation
 阳萎		impotence
 阳西		Yangxi
-阳🀂		Yangxi
 阳高		Yanggao
 阴		hidden/overcast
 阴云		dark cloud
@@ -98168,13 +96650,9 @@
 阿樸嗎啡		apomorphine
 阿比		Abby
 阿比西尼亚		Abyssinia
-阿比🀂尼亚		Abyssinia
 阿比西尼亚官话		Amharic
-阿比🀂尼亚官话		Amharic
 阿比西尼亞		Abyssinia
-阿比🀂尼亞		Abyssinia
 阿比西尼亞官話		Amharic
-阿比🀂尼亞官話		Amharic
 阿比讓		Abidjan
 阿比让		Abidjan
 阿波罗		Apollo
@@ -98252,9 +96730,7 @@
 阿里巴巴		Ali Baba
 阿里巴巴		Ali Baba
 阿雷西沃		Arecibo
-阿雷🀂沃		Arecibo
 阿雷西沃		Arecibo
-阿雷🀂沃		Arecibo
 阿非利加		Africa
 阿非利加		Africa
 阿飛		hoodlum
@@ -98316,7 +96792,6 @@
 陆军		army
 陆军上校		colonel
 陆军中尉		lieutenant
-陆军🀄尉		lieutenant
 陆地		dry land
 陆川		Luchuan
 陆架		continental shelf
@@ -98337,7 +96812,6 @@
 陇		short name for Gansu province
 陇川		Longchuan
 陇西		Longxi
-陇🀂		Longxi
 陈		old
 陈云林		Chen Yunlin
 陈云林		Chen Yunlin
@@ -98474,22 +96948,16 @@
 陕县		Shan county
 陕甘		Shaanxi and Gansu
 陕西		Shaanxi province/Shaanxi
-陕🀂		Shaanxi province/Shaanxi
 陕西省		Shaanxi
-陕🀂省		Shaanxi
 陕西省		Shaanxi
-陕🀂省		Shaanxi
 陘		border the stove
 陛		the steps to the throne
 陛下		Your Majesty
 陝甘		Shaanxi and Gansu
 陝縣		Shan county
 陝西		Shaanxi province/Shaanxi
-陝🀂		Shaanxi province/Shaanxi
 陝西省		Shaanxi
-陝🀂省		Shaanxi
 陝西省		Shaanxi
-陝🀂省		Shaanxi
 陟		advance/promote/ascend
 陡		suddenly/steep/precipitous
 陡削		precipitous
@@ -98727,9 +97195,7 @@
 陸軍上校		colonel
 陸軍上校		colonel
 陸軍中尉		lieutenant
-陸軍🀄尉		lieutenant
 陸軍中尉		lieutenant
-陸軍🀄尉		lieutenant
 陸連島		tombolo
 陸連島		tombolo
 陸連島		tombolo
@@ -98763,7 +97229,6 @@
 陽臺		balcony
 陽萎		impotence
 陽西		Yangxi
-陽🀂		Yangxi
 陽離子		cation
 陽離子		cation
 陽電子		antielectron/positron
@@ -99019,7 +97484,6 @@
 隴		short name for Gansu province
 隴川		Longchuan
 隴西		Longxi
-隴🀂		Longxi
 隶		attached to
 隶书		Han style of calligraphy/official script
 隶圉		underlings/servants
@@ -99154,17 +97618,11 @@
 雅驯		refined
 集		to gather/gather/collect
 集中		concentrated
-集🀄		concentrated
 集中化		centralization
-集🀄化		centralization
 集中器		concentrator
-集🀄器		concentrator
 集中器		concentrator
-集🀄器		concentrator
 集中營		concentration camp
-集🀄營		concentration camp
 集中营		concentration camp
-集🀄营		concentration camp
 集会		assembly
 集体		collective/social/team
 集体主义		collectivism
@@ -99455,7 +97913,6 @@
 雞蛋裡挑骨頭		nitpick
 雞蛋裡挑骨頭		nitpick
 雞西市		Jixi
-雞🀂市		Jixi
 雞霍亂		fowl cholera
 雞霍亂		fowl cholera
 雞頭米		Gorgon fruit
@@ -99711,11 +98168,8 @@
 雰		mist
 雲		cloud
 雲南		Yunnan province/Yunnan
-雲🀁		Yunnan province/Yunnan
 雲南省		Yunnan Province
-雲🀁省		Yunnan Province
 雲南省		Yunnan Province
-雲🀁省		Yunnan Province
 雲吞		wonton
 雲夢		Yunmeng
 雲室		cloud chamber
@@ -100166,7 +98620,6 @@
 霆		clap of thunder
 震		shake
 震中		earthquake epicentre
-震🀄		earthquake epicentre
 震动		shock/vibrate/shake
 震動		shock/vibrate/shake
 震怒		furious
@@ -100318,9 +98771,7 @@
 露袒		uncovered/naked/exposed
 露袒		uncovered/naked/exposed
 露西		Lucy
-露🀂		Lucy
 露西		Lucy
-露🀂		Lucy
 露辛达		Lucinda
 露辛达		Lucinda
 露面		to appear
@@ -100541,11 +98992,8 @@
 靖江		Jingjiang
 靖江		Jingjiang
 靖西		Jingxi
-靖🀂		Jingxi
 靖西		Jingxi
-靖🀂		Jingxi
 靖西		Jingxi
-靖🀂		Jingxi
 靖边		Jingbian
 靖边		Jingbian
 靖边		Jingbian
@@ -101122,6 +99570,7 @@
 頃者		just now/a short while ago
 頃者		just now/a short while ago
 項		term/sum (of money)
+㊠		term/sum (of money)
 項圈		necklace
 項城		Xiangcheng
 項城市		Xiangcheng
@@ -102326,7 +100775,6 @@
 食火鸡		cassowary
 食物		food
 食物中毒		food poisoning
-食物🀄毒		food poisoning
 食物房		pantry
 食物鏈		food chain
 食物链		food chain
@@ -102787,9 +101235,7 @@
 香波		shampoo
 香港		Hong Kong
 香港中文大学		Chinese University of Hong Kong
-香港🀄文大学		Chinese University of Hong Kong
 香港中文大學		Chinese University of Hong Kong
-香港🀄文大學		Chinese University of Hong Kong
 香港人		Hong Kong person
 香港脚		athlete's foot
 香港腳		athlete's foot
@@ -102848,13 +101294,9 @@
 馬來半島		Malay Peninsula
 馬來半島		Malay Peninsula
 馬來西亞		Malaysia
-馬來🀂亞		Malaysia
 馬來西亞		Malaysia
-馬來🀂亞		Malaysia
 馬來西亞語		Malaysian
-馬來🀂亞語		Malaysian
 馬來西亞語		Malaysian
-馬來🀂亞語		Malaysian
 馬來語		Malaysian language
 馬來語		Malaysian language
 馬修		Matthew
@@ -102865,9 +101307,7 @@
 馬克白		Macbeth
 馬克筆		marker
 馬克西米連		Maximilian
-馬克🀂米連		Maximilian
 馬克西米連		Maximilian
-馬克🀂米連		Maximilian
 馬兜鈴		birthwort
 馬兜鈴		birthwort
 馬六甲		Malacca
@@ -103273,7 +101713,6 @@
 马克白		Macbeth
 马克笔		marker
 马克西米连		Maximilian
-马克🀂米连		Maximilian
 马兜铃		birthwort
 马六甲		Malacca
 马六甲		Malacca
@@ -103376,9 +101815,7 @@
 马来亚		Malaya
 马来半岛		Malay Peninsula
 马来西亚		Malaysia
-马来🀂亚		Malaysia
 马来西亚语		Malaysian
-马来🀂亚语		Malaysian
 马来语		Malaysian language
 马林迪		Malindi
 马林迪		Malindi
@@ -103769,9 +102206,7 @@
 高不可攀		unreachable
 高不可攀		unreachable
 高中		high school
-高🀄		high school
 高中生		senior high school student
-高🀄生		senior high school student
 高丽		Korea
 高丽菜		cabbage
 高举		hold high/aloft
@@ -104170,7 +102605,6 @@
 魁伟		stalwart
 魁偉		stalwart
 魁北克		Quebec
-魁🀃克		Quebec
 魁北克		Quebec
 魁梧		big and tall/stalwart
 魁首		chief
@@ -104774,7 +103208,6 @@
 鸡		chicken
 鸡丁		diced chicken meat/diced chicken
 鸡东		Jidong
-鸡🀀		Jidong
 鸡冠		crest
 鸡冠花		cockscomb
 鸡头米		Gorgon fruit
@@ -104799,7 +103232,6 @@
 鸡蛋里挑骨头		nitpick/to nitpick
 鸡蛋里挑骨头		nitpick/to nitpick
 鸡西市		Jixi
-鸡🀂市		Jixi
 鸡霍乱		fowl cholera
 鸢		kite
 鸣禽		songbird
@@ -104925,7 +103357,6 @@
 鹺		brine/salt
 鹼		base
 鹼中毒		alkalosis
-鹼🀄毒		alkalosis
 鹼度		alkalinity
 鹼度		alkalinity
 鹽		salt
@@ -105476,7 +103907,6 @@
 黑龙江省		Heilongjiang
 黑龙江省		Heilongjiang
 黔西		Qianxi
-黔🀂		Qianxi
 黔阳		Qianyang
 黔陽		Qianyang
 默		write from memory/silent
@@ -105653,7 +104083,6 @@
 鼹鼠皮		moleskin
 鼻		nose
 鼻中隔		nasal septum
-鼻🀄隔		nasal septum
 鼻口部分		muzzle
 鼻子		nose
 鼻孔		nostril
@@ -105813,9 +104242,7 @@
 龍利		sole
 龍利		sole
 龍南		Longnan
-龍🀁		Longnan
 龍南		Longnan
-龍🀁		Longnan
 龍口市		Longkou
 龍口市		Longkou
 龍山		Longshan
@@ -105900,7 +104327,6 @@
 龙利		sole
 龙利		sole
 龙南		Longnan
-龙🀁		Longnan
 龙卷风		tornado
 龙口市		Longkou
 龙头		faucet
