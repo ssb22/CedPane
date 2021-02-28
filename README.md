@@ -57,6 +57,7 @@ Aquabeads is a trademark of EPOCH Company Ltd.
 AstraZeneca is a trademark of the AstraZeneca group of companies.
 Auchan is a trademark of Groupe Auchan.
 Baidu is a trademark of Baidu Online Network Technology (Beijing) Co. Ltd.
+Baofeng is a trademark of Fujian Nan'an Baofeng Electronics Company Ltd
 Bing is a registered trademark of Microsoft Corp.
 BitBucket is a trademark of Atlassian Pty Ltd.
 Bluetooth is a registered trademark held by the Bluetooth Special Interest Group.
