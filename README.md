@@ -102,6 +102,7 @@ Pimsleur is a registered trademark of Beverly Pimsleur exclusively licensed to S
 Pizza Hut is a trademark of Pizza Hut Inc.
 Porsche is a trademark of Dr. Ing. h.c.F. Porsche AG.
 Prada is a trademark of Prada.
+Proya is a trademark of Proya Cosmetic Company Ltd
 Python is a trademark of the Python Software Foundation.
 QR Code is the UK registered trademark of Denso Corporation.
 Quaker is a trademark of The Quaker Oats Company.
