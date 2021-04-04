@@ -22777,7 +22777,7 @@
 地頭蛇		local bully
 地點		place/site
 圹		tomb
-场		market/stage
+场		stage/market
 场合		occasion/situation
 场地		place/site/space
 场所		place/location
@@ -23513,7 +23513,7 @@
 報頭		nameplate
 報館		newspaper office
 報館		newspaper office
-場		market/stage
+場		stage/market
 場合		occasion/situation
 場地		place/site/space
 場所		place/location
@@ -104439,3 +104439,4 @@
 唯独		just
 巨型		very big
 一见如故		old friends from 1 meeting
+共青团=Communist Youth League
