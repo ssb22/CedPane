@@ -4045,7 +4045,8 @@
 乏力		fatigue
 乏力		fatigue
 乏味		tedious
-乐		music/laugh/happy
+乐	yuè	music
+乐	lè	happy
 乐不可支		overjoyed
 乐不可支		overjoyed
 乐不思蜀		indulge in pleasure and forget home and duty
@@ -19442,7 +19443,7 @@
 含苞待放		in bud
 含量		content
 含量		content
-听		obey
+听		hear/obey
 听不到		can't hear
 听不到		can't hear
 听之任之		take a laissez-faire attitude
@@ -50253,10 +50254,14 @@
 槿		Hibiscus syriacus
 樁		stake/pile
 樁構棧道		pile trestle
-樂		music/laugh/happy
-樂		music/laugh/happy
-樂		music/laugh/happy
-樂		music/laugh/happy
+樂	yuè	music
+樂	yuè	music
+樂	yuè	music
+樂	yuè	music
+樂	lè	happy
+樂	lè	happy
+樂	lè	happy
+樂	lè	happy
 樂不可支		overjoyed
 樂不可支		overjoyed
 樂不可支		overjoyed
@@ -75612,7 +75617,7 @@
 職業道德		professional ethics
 職能		function
 職責		duty
-聽		obey
+聽		hear/obey
 聽不到		can't hear
 聽不到		can't hear
 聽之任之		take a laissez-faire attitude
@@ -104440,3 +104445,15 @@
 巨型		very big
 一见如故		old friends from 1 meeting
 共青团=Communist Youth League
+自高自大		self-exalted
+记忆力		memory
+牵挂		concerned about
+义不容辞		responsible thing
+弥天大谎		big lie
+作呕		repulsive
+冒名		to impostor
+心灰意冷		lose heart
+赛程		race (event)
+呵护		protect (divinely)
+突如其来		suddenly
+自省		ask oneself
