@@ -5,7 +5,7 @@ From http://ssb22.user.srcf.net/cedpane/
 
 (mirrored at http://ssb22.gitlab.io/cedpane/ just in case)
 
-People learning Chinese as a foreign language sometimes use software to help them read a text.  But when Western names are written using Chinese characters, the result is not always something an average dictionary can help with—the software might give you an inappropriate “analysis” like 沃(wò)=irrigate 兹(zī)=this/now 沃(wò)=irrigate 思(sī)=thought instead of 沃兹沃思(Wòzīwòsī)=Wordsworth. So I found it useful to compile a list of names (focusing on, but not limited to, Western names) and a few other potentially-useful phrases not always found in learners’ software, with examples of how these have been written in Chinese, which we can add to our software to help with our reading.
+People learning Chinese as a foreign language sometimes use software to help them read a text.  But when Western names are written using Chinese characters, the result is not always something an average dictionary can help with—the software might give you an inappropriate “analysis” like 沃(wò)=irrigate 兹(zī)=this/now 沃(wò)=irrigate 思(sī)=thought instead of 沃兹沃思(Wòzīwòsī)=Wordsworth. So I found it useful to compile a list of names (focusing on, but not limited to, Western names) and some other potentially-useful phrases not always found in learners’ software, with examples of how these have been written in Chinese, which we can add to our software to help with our reading.
 
 我们学汉语的西方人有时使用电脑软件加拼音和下定义，不过那软件里的词典经常缺乏专名。比如，《沃兹沃思》是个著名诗人的贵姓，英语Wordsworth，但有些学汉语软件看《沃兹沃思》就说： “沃”等于“灌溉”，“兹”等于“这个”，“沃”等于“灌溉”，“思”等于“思想”。电脑不知道“沃兹沃思”是个名字而不需这样分割。所以，我编写一个汉英词典《专名等副刊》让我们的软件看出哪里有英文名的译音和类似不必分割的词语。
 
