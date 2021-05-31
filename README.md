@@ -71,6 +71,7 @@ CNN is a trademark of Cable News Network Inc.
 Cognac is a trademark which is held by France.
 Colgate is a trademark of the Colgate-Palmolive Company.
 Comcast is a trademark of Comcast Corporation.
+Debenhams is a trademark of Debenhams Retail PLC.
 Dettol was a trademark of Reckitt & Colman (Overseas) Limited but I was unable to confirm its current status.
 Dyson is a trademark of Dyson Technology Ltd.
 Electrolux is a trademark of Aktiebolaget Electrolux.
@@ -114,6 +115,7 @@ Sibelius is a registered trademark of Avid Technology, Inc. or its subsidiaries.
 Star Trek is a trademark of CBS Studios Inc. / Paramount.
 TeX is a trademark of the American Mathematical Society.
 Thermos is a trademark of Thermos LLC.
+Think different is a trademark of Apple Computer, Inc.
 Toshiba is a trademark of Tokyo Shibaura Denki Kabushiki Kaisha, also called Kabushiki Kaisha Toshiba.
 Twitter and Tweet are trademarks of Twitter Inc.
 Uber is a trademark of Uber Technologies, Inc.
