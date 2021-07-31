@@ -59,7 +59,7 @@ Aquabeads is a trademark of EPOCH Company Ltd.
 AstraZeneca is a trademark of the AstraZeneca group of companies.
 Auchan is a trademark of Groupe Auchan.
 Baidu is a trademark of Baidu Online Network Technology (Beijing) Co. Ltd.
-Baofeng is a trademark of Fujian Nan'an Baofeng Electronics Company Ltd
+Baofeng is a trademark of Fujian Nan'an Baofeng Electronics Company Ltd.
 Bing is a registered trademark of Microsoft Corp.
 BitBucket is a trademark of Atlassian Pty Ltd.
 Bluetooth is a registered trademark held by the Bluetooth Special Interest Group.
@@ -105,11 +105,12 @@ Pimsleur is a registered trademark of Beverly Pimsleur exclusively licensed to S
 Pizza Hut is a trademark of Pizza Hut Inc.
 Porsche is a trademark of Dr. Ing. h.c.F. Porsche AG.
 Prada is a trademark of Prada.
-Proya is a trademark of Proya Cosmetic Company Ltd
+Proya is a trademark of Proya Cosmetic Company Ltd.
 Python is a trademark of the Python Software Foundation.
 QR Code is the UK registered trademark of Denso Corporation.
 Quaker is a trademark of The Quaker Oats Company.
 Raspberry Pi is a trademark of the Raspberry Pi Foundation.
+Sainsbury's is a trademark of J Sainsbury PLC.
 Segway is a trademark of Segway Inc.
 Sibelius is a registered trademark of Avid Technology, Inc. or its subsidiaries.
 Star Trek is a trademark of CBS Studios Inc. / Paramount.
