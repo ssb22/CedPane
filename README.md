@@ -77,6 +77,7 @@ Dyson is a trademark of Dyson Technology Ltd.
 Electrolux is a trademark of Aktiebolaget Electrolux.
 Ericsson is a trademark or registered trademark of Telefonaktiebolaget LM Ericsson.
 Facebook is a trademark of Facebook, Inc.
+Ferrari is a trademark of Ferrari S.p.A.
 Funai is a trademark of Funai Electric Co., Ltd.
 GameStop is a trademark of GameStop, Inc.
 Git is a trademark of the Software Freedom Conservancy.
