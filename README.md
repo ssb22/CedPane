@@ -60,6 +60,7 @@ AstraZeneca is a trademark of the AstraZeneca group of companies.
 Auchan is a trademark of Groupe Auchan.
 Baidu is a trademark of Baidu Online Network Technology (Beijing) Co. Ltd.
 Baofeng is a trademark of Fujian Nan'an Baofeng Electronics Company Ltd.
+Bentley is a trademark of Bentley Motors Limited of Crewe.
 Bing is a registered trademark of Microsoft Corp.
 BitBucket is a trademark of Atlassian Pty Ltd.
 Bluetooth is a registered trademark held by the Bluetooth Special Interest Group.
@@ -76,6 +77,7 @@ Dettol was a trademark of Reckitt & Colman (Overseas) Limited but I was unable t
 Dyson is a trademark of Dyson Technology Ltd.
 Electrolux is a trademark of Aktiebolaget Electrolux.
 Ericsson is a trademark or registered trademark of Telefonaktiebolaget LM Ericsson.
+Ethernet was a trademark of Xerox Corporation but it was relinquished in 1982.
 Facebook is a trademark of Facebook, Inc.
 Ferrari is a trademark of Ferrari S.p.A.
 Funai is a trademark of Funai Electric Co., Ltd.
@@ -111,6 +113,7 @@ Python is a trademark of the Python Software Foundation.
 QR Code is the UK registered trademark of Denso Corporation.
 Quaker is a trademark of The Quaker Oats Company.
 Raspberry Pi is a trademark of the Raspberry Pi Foundation.
+Rolls-Royce is a trademark of Rolls-Royce Plc.
 Sainsbury's is a trademark of J Sainsbury PLC.
 Segway is a trademark of Segway Inc.
 Sibelius is a registered trademark of Avid Technology, Inc. or its subsidiaries.
