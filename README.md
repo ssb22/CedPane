@@ -87,6 +87,7 @@ GitHub is a trademark of GitHub Inc.
 Google is a trademark of Google LLC.
 Google Maps is a trademark of Google LLC.
 Gucci is a trademark of Gucci America, Inc.
+Heineken is a trademark of Heineken Brouwerijen B.V.
 Heinz is a trademark of H. J. Heinz Company.
 Hermès is a trademark of H51.
 HTC and Touch are trademarks of HTC Corporation.
