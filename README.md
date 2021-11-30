@@ -65,6 +65,7 @@ Bing is a registered trademark of Microsoft Corp.
 BitBucket is a trademark of Atlassian Pty Ltd.
 Bluetooth is a registered trademark held by the Bluetooth Special Interest Group.
 Bosch is a trademark of Robert Bosch GMBH.
+Butlin's is a trademark of Butlins Skyline Limited.
 Bvlgari is a trademark of Bulgari SpA.
 Cadillac is a trademark and/or registered trademark of General Motors LLC.
 Carrefour is a trademark of Carrefour of Boulogne-Billancourt, France.
@@ -119,6 +120,7 @@ Sainsbury's is a trademark of J Sainsbury PLC.
 Segway is a trademark of Segway Inc.
 Sibelius is a registered trademark of Avid Technology, Inc. or its subsidiaries.
 Star Trek is a trademark of CBS Studios Inc. / Paramount.
+Telegram is a trademark of Telegram Messenger LLP.
 TeX is a trademark of the American Mathematical Society.
 Thermos is a trademark of Thermos LLC.
 Think different is a trademark of Apple Computer, Inc.
