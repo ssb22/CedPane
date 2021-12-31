@@ -119,6 +119,7 @@ Rolls-Royce is a trademark of Rolls-Royce Plc.
 Sainsbury's is a trademark of J Sainsbury PLC.
 Segway is a trademark of Segway Inc.
 Sibelius is a registered trademark of Avid Technology, Inc. or its subsidiaries.
+Spotify is a trademark of Spotify Ltd.
 Star Trek is a trademark of CBS Studios Inc. / Paramount.
 Telegram is a trademark of Telegram Messenger LLP.
 TeX is a trademark of the American Mathematical Society.
