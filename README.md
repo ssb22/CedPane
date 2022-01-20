@@ -75,6 +75,7 @@ Colgate is a trademark of the Colgate-Palmolive Company.
 Comcast is a trademark of Comcast Corporation.
 Debenhams is a trademark of Debenhams Retail PLC.
 Dettol was a trademark of Reckitt & Colman (Overseas) Limited but I was unable to confirm its current status.
+Dividend Aristocrats is a trademark of Standard & Poor's Financial Services LLC.
 Dyson is a trademark of Dyson Technology Ltd.
 Electrolux is a trademark of Aktiebolaget Electrolux.
 Ericsson is a trademark or registered trademark of Telefonaktiebolaget LM Ericsson.
