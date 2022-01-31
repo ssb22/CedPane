@@ -61,6 +61,7 @@ Auchan is a trademark of Groupe Auchan.
 Baidu is a trademark of Baidu Online Network Technology (Beijing) Co. Ltd.
 Baofeng is a trademark of Fujian Nan'an Baofeng Electronics Company Ltd.
 Bentley is a trademark of Bentley Motors Limited of Crewe.
+Bilibili is a trademark of Shanghai Hode Information Technology Co., Ltd.
 Bing is a registered trademark of Microsoft Corp.
 BitBucket is a trademark of Atlassian Pty Ltd.
 Bluetooth is a registered trademark held by the Bluetooth Special Interest Group.
