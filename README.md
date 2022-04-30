@@ -58,6 +58,7 @@ Apple is a trademark of Apple Inc.
 Aquabeads is a trademark of EPOCH Company Ltd.
 AstraZeneca is a trademark of the AstraZeneca group of companies.
 Auchan is a trademark of Groupe Auchan.
+Bactroban is a registered trademark of the GlaxoSmithKline group of companies.
 Baidu is a trademark of Baidu Online Network Technology (Beijing) Co. Ltd.
 Baofeng is a trademark of Fujian Nan'an Baofeng Electronics Company Ltd.
 Bentley is a trademark of Bentley Motors Limited of Crewe.
