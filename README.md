@@ -67,6 +67,7 @@ Bing is a registered trademark of Microsoft Corp.
 BitBucket is a trademark of Atlassian Pty Ltd.
 Bluetooth is a registered trademark held by the Bluetooth Special Interest Group.
 Bosch is a trademark of Robert Bosch GMBH.
+Bubble Wrap is a registered trademark of Sealed Air Corporation.
 Butlin's is a trademark of Butlins Skyline Limited.
 Bvlgari is a trademark of Bulgari SpA.
 Cadillac is a trademark and/or registered trademark of General Motors LLC.
@@ -105,6 +106,7 @@ Javascript is a trademark of Oracle Corporation in the US.
 LinkedIn is a registered trademark or trademark of LinkedIn Corporation and its affiliates in the United States and/or other countries.
 Mac is a trademark of Apple Inc.
 Maglite is a registered trademark of Mag Instrument, Inc.
+Makaton is a registered trademark of The Makaton Charity.
 Microsoft is a registered trademark of Microsoft Corp.
 Nike is a trademark of Nike Inc.
 Oracle is a registered trademark of Oracle Corporation and/or its affiliates.
@@ -120,6 +122,7 @@ Python is a trademark of the Python Software Foundation.
 QR Code is the UK registered trademark of Denso Corporation.
 Quaker is a trademark of The Quaker Oats Company.
 Raspberry Pi is a trademark of the Raspberry Pi Foundation.
+Rawlplug is a trademark of Rawlplug Ltd.
 Rolls-Royce is a trademark of Rolls-Royce Plc.
 Sainsbury's is a trademark of J Sainsbury PLC.
 Segway is a trademark of Segway Inc.
@@ -146,6 +149,7 @@ Wi-Fi is a trademark of the Wi-Fi Alliance.
 Wikipedia is a registered trademark of the Wikimedia Foundation Inc.
 Windows is a registered trademark of Microsoft Corp.
 Wyeth is a trademark of Wyeth LLC.
+Yamaha is a trademark of Yamaha Corporation.
 YouTube is a trademark of Google Inc.
 Zoom is a trademark of Zoom Video Communications, Inc.
 Any other trademarks I mentioned without realising are trademarks of their respective holders.
