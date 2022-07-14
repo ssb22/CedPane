@@ -93,6 +93,7 @@ GitHub is a trademark of GitHub Inc.
 Google is a trademark of Google LLC.
 Google Maps is a trademark of Google LLC.
 Gucci is a trademark of Gucci America, Inc.
+Hasbro is a trademark or registered trademark of Hasbro, Inc. in the U.S. and/or other jurisdictions.
 Heineken is a trademark of Heineken Brouwerijen B.V.
 Heinz is a trademark of H. J. Heinz Company.
 Hermès is a trademark of H51.
@@ -104,6 +105,7 @@ Invisalign is a trademark of Align Technology, Inc.
 Java is a registered trademark of Oracle Corporation in the US and possibly other countries.
 Javascript is a trademark of Oracle Corporation in the US.
 LinkedIn is a registered trademark or trademark of LinkedIn Corporation and its affiliates in the United States and/or other countries.
+Linux is the registered trademark of Linus Torvalds in the U.S. and other countries.
 Mac is a trademark of Apple Inc.
 Maglite is a registered trademark of Mag Instrument, Inc.
 Makaton is a registered trademark of The Makaton Charity.
