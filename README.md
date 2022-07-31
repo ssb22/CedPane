@@ -82,6 +82,7 @@ Debenhams is a trademark of Debenhams Retail PLC.
 Dettol was a trademark of Reckitt & Colman (Overseas) Limited but I was unable to confirm its current status.
 Dividend Aristocrats is a trademark of Standard & Poor's Financial Services LLC.
 Dulux is a trademark of ICI (Imperial Chemical Industries).
+Duolingo is a trademark of Duolingo, Inc.
 Dyson is a trademark of Dyson Technology Ltd.
 Electrolux is a trademark of Aktiebolaget Electrolux.
 Ericsson is a trademark or registered trademark of Telefonaktiebolaget LM Ericsson.
