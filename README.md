@@ -69,6 +69,7 @@ Bing is a registered trademark of Microsoft Corp.
 BitBucket is a trademark of Atlassian Pty Ltd.
 Bluetooth is a registered trademark held by the Bluetooth Special Interest Group.
 Bosch is a trademark of Robert Bosch GMBH.
+Brita is a registered trademark of Brita GmbH.
 Bubble Wrap is a registered trademark of Sealed Air Corporation.
 Butlin's is a trademark of Butlins Skyline Limited.
 Bvlgari is a trademark of Bulgari SpA.
@@ -121,6 +122,7 @@ Picture Exchange Communication System is a registered trademark of Pyramid Educa
 Pimsleur is a registered trademark of Beverly Pimsleur exclusively licensed to Simon & Schuster.
 Pizza Hut is a trademark of Pizza Hut Inc.
 Porsche is a trademark of Dr. Ing. h.c.F. Porsche AG.
+Post-it is a trademark of 3M.
 Prada is a trademark of Prada.
 Proya is a trademark of Proya Cosmetic Company Ltd.
 Python is a trademark of the Python Software Foundation.
