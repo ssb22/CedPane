@@ -7729,8 +7729,8 @@
 便難		retort with challenging questions
 便鞋		slippers/cloth shoes
 便鞋		slippers/cloth shoes
-便饭 biànfàn gloss
-便饭 biànfàn gloss
+便饭		simple meal
+便饭		simple meal
 俁		big
 係		be/relate to
 係數		coefficient
@@ -37437,8 +37437,8 @@
 感情用事		act impetuously
 感想		impression/reflections/thoughts
 感愤		indignant
-感慨                 excited
-感慨                 excited
+感慨		excited
+感慨		excited
 感憤		indignant
 感應		reaction/interaction
 感應器		inductor
@@ -69522,6 +69522,8 @@
 第二声		rising tone
 第二次世界大战		World War II
 第二次世界大戰		World War II
+第一次世界大战		World War I
+第一次世界大戰		World War I
 二战		World War II
 第二產業		secondary industry
 第二聲		rising tone
@@ -104458,7 +104460,7 @@
 唯独		just
 巨型		very big
 一见如故		old friends from 1 meeting
-共青团=Communist Youth League
+共青团		Communist Youth League
 自高自大		self-exalted
 记忆力		memory
 牵挂		concerned about
@@ -104826,6 +104828,60 @@
 书脊		spine
 书页		page
 隐含		imply
+彻夜		all night
+对质		confront
+动身		set off
+小花		little flower
+婚前		before marriage
+推移		change
+强光		strong light
+参政		involved in politics
+打探		pry into; spy on
+旧账		old grudge
+奖励		reward
+实例		real-life example
+告密		inform (police etc)
+时态		(verb) tense
+精采		exciting
+出行		departure
+攻占		conquer
+雷鸣		thunder
+时速		per hour (speed)
+特赦		pardon (for crime)
+一流		elite
+翻看		look through (a book)
+心烦		irritating
+电铸		electroplating
+大发		strongly
+建基		basis
+顺遂		smoothly
+各异		each
+和善		kind
+入门		introductory course
+合上		close
+手持		in the hand
+撒网		throw a net
+迎敌		meet enemy
+冰封		frozen
+水气		water vapour
+堂堂		mighty
+饱餐		eat one's fill
+灭族		destroy a tribe/race
+耐劳		hardworking
+刚硬		unresponsive; stubborn
+投影		projection; cast (shadow)
+千金		treasure
+鱼线		fishing line
+主谋		evil adviser
+煤油灯		kerosene lamp
+折叠刀		pocket knife
+现代人		people of today
+两回事		two different things
+需求量		demand
+导师们		instructors
+靠得住		dependable
+诽谤者		slanderer
+废弃物		waste
 移民局		immigration office
 运动会		sports event
 乱葬岗		common grave
@@ -104881,7 +104937,29 @@
 右上角		top right corner
 右下角		bottom right corner
 出发点		foundation; starting point
+收银员		cashier
+发行量		circulation (figures)
+绿油油		green (nature)
+安安稳稳		safe and sound
+雪上加霜		adding to problems
+养尊处优		cushioned life
+从早到晚		from morning until evening
+挺身而出		stand up (for sthg)
+吃吃喝喝		eat and drink
+以貌取人		choose ppl by appearances
+欢声雷动		thunderous cheering
+一厢情愿		wishful thinking
+满面笑容		all smiles
+夺眶而出		shed tears
+风平浪静		calm
+狼吞虎咽		devour
+至理名言		well-known proverb
+充耳不闻		refuse to listen
 德高望重		respected (of person)
+胡作非为		do bad crimes
+缺衣少食		lack clothes and food
+死里逃生		barely escape
+总而言之		in summary
 急转直下		turn worse
 非同凡响		incomparable
 措手不及		caught off guard
@@ -105014,5 +105092,9 @@
 没完没了		endless
 轻举妄动		rash
 全军覆没		army wiped out
+安分守己		quietist (non-political)
+如饥似渴		hunger for
+真相大白		truth was plain
+体无完肤		ruined
 西澳大利亚州		Western Australia
 阿尔茨海默病		Alzheimer's disease
