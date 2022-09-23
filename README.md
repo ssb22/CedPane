@@ -71,9 +71,11 @@ Bluetooth is a registered trademark held by the Bluetooth Special Interest Group
 Bosch is a trademark of Robert Bosch GMBH.
 Brita is a registered trademark of Brita GmbH.
 Bubble Wrap is a registered trademark of Sealed Air Corporation.
+Bunge is a trademark of Bunge Limited.
 Butlin's is a trademark of Butlins Skyline Limited.
 Bvlgari is a trademark of Bulgari SpA.
 Cadillac is a trademark and/or registered trademark of General Motors LLC.
+Cargill is a trademark of Cargill Inc.
 Carrefour is a trademark of Carrefour of Boulogne-Billancourt, France.
 CNN is a trademark of Cable News Network Inc.
 Cognac is a trademark which is held by France.
