@@ -132,6 +132,7 @@ QR Code is the UK registered trademark of Denso Corporation.
 Quaker is a trademark of The Quaker Oats Company.
 Raspberry Pi is a trademark of the Raspberry Pi Foundation.
 Rawlplug is a trademark of Rawlplug Ltd.
+Rimowa is a trademark of Rimowa GmbH.
 Rolls-Royce is a trademark of Rolls-Royce Plc.
 Sainsbury's is a trademark of J Sainsbury PLC.
 Segway is a trademark of Segway Inc.
