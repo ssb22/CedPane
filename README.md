@@ -110,6 +110,7 @@ Intel is a trademark of Intel Corporation or its subsidiaries.
 Invisalign is a trademark of Align Technology, Inc.
 Java is a registered trademark of Oracle Corporation in the US and possibly other countries.
 Javascript is a trademark of Oracle Corporation in the US.
+Lego is a trademark of the Lego Group, which does not sponsor, authorize or endorse this document.
 LinkedIn is a registered trademark or trademark of LinkedIn Corporation and its affiliates in the United States and/or other countries.
 Linux is the registered trademark of Linus Torvalds in the U.S. and other countries.
 Mac is a trademark of Apple Inc.
