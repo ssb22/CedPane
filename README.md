@@ -75,6 +75,7 @@ Bunge is a trademark of Bunge Limited.
 Butlin's is a trademark of Butlins Skyline Limited.
 Bvlgari is a trademark of Bulgari SpA.
 Cadillac is a trademark and/or registered trademark of General Motors LLC.
+Camino is a registered trademark of The Mozilla Foundation.
 Cargill is a trademark of Cargill Inc.
 Carrefour is a trademark of Carrefour of Boulogne-Billancourt, France.
 CNN is a trademark of Cable News Network Inc.
@@ -138,6 +139,7 @@ Rolls-Royce is a trademark of Rolls-Royce Plc.
 Sainsbury's is a trademark of J Sainsbury PLC.
 Segway is a trademark of Segway Inc.
 Sibelius is a registered trademark of Avid Technology, Inc. or its subsidiaries.
+Siemens is a trademark of Siemens Aktiengesellschaft.
 SimSun is a trademark of Zhongyi Electronic Co., Beijing, which is licensed to Microsoft.
 Spotify is a trademark of Spotify Ltd.
 Star Trek is a trademark of CBS Studios Inc. / Paramount.
