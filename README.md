@@ -82,6 +82,7 @@ CNN is a trademark of Cable News Network Inc.
 Cognac is a trademark which is held by France.
 Colgate is a trademark of the Colgate-Palmolive Company.
 Comcast is a trademark of Comcast Corporation.
+Danfoss is a trademark of Danfoss A/S.
 Debenhams is a trademark of Debenhams Retail PLC.
 Dettol was a trademark of Reckitt & Colman (Overseas) Limited but I was unable to confirm its current status.
 Dividend Aristocrats is a trademark of Standard & Poor's Financial Services LLC.
@@ -118,6 +119,7 @@ Mac is a trademark of Apple Inc.
 Maglite is a registered trademark of Mag Instrument, Inc.
 Makaton is a registered trademark of The Makaton Charity.
 Microsoft is a registered trademark of Microsoft Corp.
+Naxos is a trademark of Naxos Ltd.
 Nike is a trademark of Nike Inc.
 Oracle is a registered trademark of Oracle Corporation and/or its affiliates.
 Oreo is a registered trademark of Intercontinental Great Brands LLC.
