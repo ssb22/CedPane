@@ -78,6 +78,7 @@ Cadillac is a trademark and/or registered trademark of General Motors LLC.
 Camino is a registered trademark of The Mozilla Foundation.
 Cargill is a trademark of Cargill Inc.
 Carrefour is a trademark of Carrefour of Boulogne-Billancourt, France.
+Chevrolet is a trademark or registered trademark of General Motors.
 CNN is a trademark of Cable News Network Inc.
 Cognac is a trademark which is held by France.
 Colgate is a trademark of the Colgate-Palmolive Company.
