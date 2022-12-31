@@ -135,6 +135,7 @@ Proya is a trademark of Proya Cosmetic Company Ltd.
 Python is a trademark of the Python Software Foundation.
 QR Code is the UK registered trademark of Denso Corporation.
 Quaker is a trademark of The Quaker Oats Company.
+Qualcomm is a trademark of Qualcomm Incorporated, registered in the United States and other countries.
 Raspberry Pi is a trademark of the Raspberry Pi Foundation.
 Rawlplug is a trademark of Rawlplug Ltd.
 Rimowa is a trademark of Rimowa GmbH.
@@ -144,6 +145,7 @@ Segway is a trademark of Segway Inc.
 Sibelius is a registered trademark of Avid Technology, Inc. or its subsidiaries.
 Siemens is a trademark of Siemens Aktiengesellschaft.
 SimSun is a trademark of Zhongyi Electronic Co., Beijing, which is licensed to Microsoft.
+Snapdragon is a trademark or registered trademark of Qualcomm Incorporated.
 Spotify is a trademark of Spotify Ltd.
 Star Trek is a trademark of CBS Studios Inc. / Paramount.
 Telegram is a trademark of Telegram Messenger LLP.
