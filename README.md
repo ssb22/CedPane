@@ -54,6 +54,7 @@ Legal
 CedPane is public-domain but this Readme file is © Silas S. Brown and may be reproduced as-is.
 Accenture is a trademark of Accenture Global Services Ltd.
 Adobe is a trademark of Adobe Systems Incorporated in the United States and/or other countries.
+AirBnB is a trademark of AirBnB Inc.
 Android is a trademark of Google LLC.
 Apache is a registered trademark of The Apache Software Foundation.
 Apple is a trademark of Apple Inc.
