@@ -137,6 +137,7 @@ Python is a trademark of the Python Software Foundation.
 QR Code is the UK registered trademark of Denso Corporation.
 Quaker is a trademark of The Quaker Oats Company.
 Qualcomm is a trademark of Qualcomm Incorporated, registered in the United States and other countries.
+Railcard is a trademark of ATOC Ltd.
 Raspberry Pi is a trademark of the Raspberry Pi Foundation.
 Rawlplug is a trademark of Rawlplug Ltd.
 Rimowa is a trademark of Rimowa GmbH.
