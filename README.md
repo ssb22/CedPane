@@ -140,6 +140,7 @@ Qualcomm is a trademark of Qualcomm Incorporated, registered in the United State
 Railcard is a trademark of ATOC Ltd.
 Raspberry Pi is a trademark of the Raspberry Pi Foundation.
 Rawlplug is a trademark of Rawlplug Ltd.
+Ribena is a trademark of Lucozade Ribena Suntory Ltd.
 Rimowa is a trademark of Rimowa GmbH.
 Rolls-Royce is a trademark of Rolls-Royce Plc.
 Sainsbury's is a trademark of J Sainsbury PLC.
