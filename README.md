@@ -152,6 +152,7 @@ Snapdragon is a trademark or registered trademark of Qualcomm Incorporated.
 Spotify is a trademark of Spotify Ltd.
 Star Trek is a trademark of CBS Studios Inc. / Paramount.
 Telegram is a trademark of Telegram Messenger LLP.
+TeX is a trademark of the American Mathematical Society.
 Thermos is a trademark of Thermos LLC.
 Think different is a trademark of Apple Computer, Inc.
 Toshiba is a trademark of Tokyo Shibaura Denki Kabushiki Kaisha, also called Kabushiki Kaisha Toshiba.
