@@ -96,6 +96,7 @@ Ericsson is a trademark or registered trademark of Telefonaktiebolaget LM Ericss
 Ethernet was a trademark of Xerox Corporation but it was relinquished in 1982.
 Facebook is a trademark of Facebook, Inc.
 Ferrari is a trademark of Ferrari S.p.A.
+Flyboard is a trademark of ZIPH2O SAS, Le Rove France.
 Funai is a trademark of Funai Electric Co., Ltd.
 GameStop is a trademark of GameStop, Inc.
 Git is a trademark of the Software Freedom Conservancy.
