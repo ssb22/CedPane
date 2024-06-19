@@ -99,6 +99,7 @@ Ferrari is a trademark of Ferrari S.p.A.
 Flyboard is a trademark of ZIPH2O SAS, Le Rove France.
 Funai is a trademark of Funai Electric Co., Ltd.
 GameStop is a trademark of GameStop, Inc.
+Garmin is a trademark of Garmin Ltd. or its subsidiaries, registered in the USA and other countries.
 Git is a trademark of the Software Freedom Conservancy.
 GitHub is a trademark of GitHub Inc.
 Google is a trademark of Google LLC.
@@ -152,6 +153,7 @@ SimSun is a trademark of Zhongyi Electronic Co., Beijing, which is licensed to M
 Snapdragon is a trademark or registered trademark of Qualcomm Incorporated.
 Spotify is a trademark of Spotify Ltd.
 Star Trek is a trademark of CBS Studios Inc. / Paramount.
+Strepsils is a trademark of Reckitt & Colman (Overseas) Ltd.
 Telegram is a trademark of Telegram Messenger LLP.
 TeX is a trademark of the American Mathematical Society.
 Thermos is a trademark of Thermos LLC.
