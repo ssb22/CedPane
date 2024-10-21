@@ -4270,7 +4270,6 @@
 书商		bookseller
 书局		book store/publishing house
 书库		stack room
-书库		stack room
 书店		bookstore
 书房		study/studio
 书报摊		bookstall
@@ -6194,6 +6193,7 @@
 伊利諾伊		Illinois
 伊利諾伊		Illinois
 伊利諾伊		Illinois
+伊利诺伊州		Illinois
 伊利諾州		Illinois
 伊利諾州		Illinois
 伊利諾州		Illinois
@@ -12100,7 +12100,6 @@
 几乎完全		almost entirely
 几何		geometry/how much
 几何学		geometry
-几内亚		Guinea
 几内亚		Guinea
 几内亚比绍		Guinea-Bissau
 几内亚湾		Gulf of Guinea
@@ -26653,7 +26652,6 @@
 好奇		curious
 好奇心		curiosity
 好好		nicely
-好好		nicely
 好学		studious
 好學		studious
 好客		hospitable/hospitality
@@ -30665,7 +30663,6 @@
 尽心		with all one's heart
 尽忠		be utterly loyal/be faithful unto death
 尽快		as quickly/soon as possible
-尽快		as quickly/soon as possible
 尽情		as much as one likes
 尽收眼底		have a panoramic view
 尽早		as early as possible
@@ -33166,7 +33163,6 @@
 幾何		geometry/how much
 幾何學		geometry
 幾個		a few/several/how many
-幾內亞		Guinea
 幾內亞		Guinea
 幾內亞比紹		Guinea-Bissau
 幾內亞灣		Gulf of Guinea
@@ -44996,8 +44992,6 @@
 无上		supreme
 无不		invariably
 无不		invariably
-无不		invariably
-无不		invariably
 无与伦比		incomparable
 无业		unemployed/out of work
 无丝分裂		amitosis
@@ -46742,7 +46736,6 @@
 書寫語言		written language
 書局		book store/publishing house
 書店		bookstore
-書庫		stack room
 書庫		stack room
 書房		study/studio
 書擋		bookend
@@ -52323,7 +52316,6 @@
 毛里求斯		Mauritius
 毛重		gross weight
 毛錢		coins of 10/20 cent denominations
-毛錢		coins of 10/20 cent denominations
 毛驢		donkey
 毛驴		donkey
 毛髮		hair
@@ -54465,7 +54457,6 @@
 洋服		Western-style clothes
 洋油		imported oil/kerosene
 洋洋		ocean-vast
-洋洋得意		happy with oneself
 洋洋得意		happy with oneself
 洋洋洒洒		voluminous
 洋洋灑灑		voluminous
@@ -62415,7 +62406,6 @@
 生僻		rare
 生养		bring up
 生出		give birth to
-生出		give birth to
 生前		prenatal/during life
 生力軍		fresh troops
 生力軍		fresh troops
@@ -64975,7 +64965,6 @@
 盡孝		do one's filial duty
 盡心		with all one's heart
 盡忠		be utterly loyal/be faithful unto death
-盡快		as quickly/soon as possible
 盡快		as quickly/soon as possible
 盡情		as much as one likes
 盡收眼底		have a panoramic view
@@ -96877,8 +96866,6 @@
 降下		to fall/drop
 降世		come down to the world
 降世		come down to the world
-降世		come down to the world
-降世		come down to the world
 降临		to arrive
 降临		to arrive
 降为		fall to
@@ -105305,6 +105292,37 @@
 挽歌		dirge; mournful song
 宽裕		financially comfortable
 泡影		bubble; nothing
+原位		usual place
+忌恨		envy
+晚辈		subordinate; junior
+治罪		repay; avenge
+申冤		defend (legally)
+空地		plot of land
+遗言		final words
+闪现		flash up
+伴奏		accompany (musically)
+包包		bag; purse
+流涕		tearful
+车票		ticket (bus/train)
+累倒		give out; drop from tiredness
+达人		wise person
+枪炮		guns
+忆述		recall
+车头		front (seat of car)
+谆谆		constant
+碑文		inscription
+腌制		preserve (food)
+砰砰		banging (sound)
+数列		series (math.)
+入手		start
+主食		staple (food)
+口腹		appetite
+万众		big crowd
+瞩目		attention
+谩骂		verbal abuse
+行房		marital relations
+号角声		horn sound
+停机坪		tarmac (of airport)
 公式化		going through the motions
 老太太		old lady
 老奶奶		old lady
@@ -105316,6 +105334,25 @@
 牲口棚		stable; cattle shed
 眼睁睁		open-eyed
 播音室		(broadcasting) studio
+大丰收		plenty; big harvest
+靠不住		untrustworthy; unreliable
+撕心裂肺		grief
+震耳欲聋		thundering; deafening
+如火如荼		thick and fast
+泪如泉涌		tearful
+无儿无女		childless
+斩钉截铁		assertive
+交头接耳		whispering
+奇装异服		outlandish clothing
+大吃大喝		to feast
+一本正经		serious all the time
+一成不变		rigid; unchangeable
+筋疲力竭		burnout
+火上加油		add fuel to the fire
+引吭高歌		sing out
+背信弃义		misuse trust; treachery
+百废待兴		not fully recovered (from damage)
+为非作歹		do bad; wicked
 过眼云烟		temporary; short-lived
 字里行间		in the words/lines
 宽大为怀		show mercy
