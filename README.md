@@ -109,6 +109,7 @@ Hasbro is a trademark or registered trademark of Hasbro, Inc. in the U.S. and/or
 Heineken is a trademark of Heineken Brouwerijen B.V.
 Heinz is a trademark of H. J. Heinz Company.
 Hermès is a trademark of H51.
+Honeywell is a trademark of Honeywell International Inc which makes no representations or warranties with respect to my services.
 HTC and Touch are trademarks of HTC Corporation.
 Huawei is a trademark of Huawei Technologies Co., Ltd registered in China and other countries.
 Indesit is a trademark of Indesit Company S.P.A.
