@@ -56,7 +56,7 @@ Accenture is a trademark of Accenture Global Services Ltd.
 Adobe is a trademark of Adobe Systems Incorporated in the United States and/or other countries.
 AirBnB is a trademark of AirBnB Inc.
 Android is a trademark of Google LLC.
-Apache is a registered trademark of The Apache Software Foundation.
+Apache is a registered trademark of The Apache Software Foundation, which from February to July 2023 acknowledged the Chiricahua Apache, the Choctaw Apache, the Fort Sill Apache, the Jicarilla Apache, the Mescalero Apache, the Lipan Apache, the Apache Tribe of Oklahoma, the Plains Apache, the San Carlos Apache, the Tonto Apache, the White Mountain Apache, the Yavapai Apache and the Apache Alliance.
 Apple is a trademark of Apple Inc.
 Aquabeads is a trademark of EPOCH Company Ltd.
 AstraZeneca is a trademark of the AstraZeneca group of companies.
@@ -117,6 +117,7 @@ Intel is a trademark of Intel Corporation or its subsidiaries.
 Invisalign is a trademark of Align Technology, Inc.
 Java is a registered trademark of Oracle Corporation in the US and possibly other countries.
 Javascript is a trademark of Oracle Corporation in the US.
+LDS is possibly registered as a trademark in some countries by Intellectual Reserve Inc (owned by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints) but I was unable to find which countries.
 Lego is a trademark of the Lego Group, which does not sponsor, authorize or endorse this document.
 LinkedIn is a registered trademark or trademark of LinkedIn Corporation and its affiliates in the United States and/or other countries.
 Linux is the registered trademark of Linus Torvalds in the U.S. and other countries.
@@ -124,6 +125,7 @@ Mac is a trademark of Apple Inc.
 Maglite is a registered trademark of Mag Instrument, Inc.
 Makaton is a registered trademark of The Makaton Charity.
 Microsoft is a registered trademark of Microsoft Corp.
+Mormon is registered as a trademark in Europe held by Intellectual Reserve Inc. which is owned by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints.
 Naxos is a trademark of Naxos Ltd.
 Nike is a trademark of Nike Inc.
 Oracle is a registered trademark of Oracle Corporation and/or its affiliates.
