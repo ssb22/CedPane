@@ -58,6 +58,8 @@ LDS is possibly registered as a trademark in some countries by Intellectual Rese
 Mormon is registered as a trademark in Europe held by Intellectual Reserve Inc. which is owned by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints.
 LDS is possibly registered as a trademark in some countries by Intellectual Reserve Inc (owned by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints) but I was unable to find which countries.
 Mormon is registered as a trademark in Europe held by Intellectual Reserve Inc. which is owned by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints.
+LDS is possibly registered as a trademark in some countries by Intellectual Reserve Inc (owned by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints) but I was unable to find which countries.
+Mormon is registered as a trademark in Europe held by Intellectual Reserve Inc. which is owned by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints.
 Accenture is a trademark of Accenture Global Services Ltd.
 Adobe is a trademark of Adobe Systems Incorporated in the United States and/or other countries.
 AirBnB is a trademark of AirBnB Inc.
