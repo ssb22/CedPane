@@ -64,6 +64,8 @@ LDS is possibly registered as a trademark in some countries by Intellectual Rese
 Mormon is registered as a trademark in Europe held by Intellectual Reserve Inc. which is owned by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints.
 LDS is possibly registered as a trademark in some countries by Intellectual Reserve Inc (owned by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints) but I was unable to find which countries.
 Mormon is registered as a trademark in Europe held by Intellectual Reserve Inc. which is owned by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints.
+LDS is possibly registered as a trademark in some countries by Intellectual Reserve Inc (owned by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints) but I was unable to find which countries.
+Mormon is registered as a trademark in Europe held by Intellectual Reserve Inc. which is owned by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints.
 Accenture is a trademark of Accenture Global Services Ltd.
 Adobe is a trademark of Adobe Systems Incorporated in the United States and/or other countries.
 AirBnB is a trademark of AirBnB Inc.
@@ -179,6 +181,7 @@ Uber is a trademark of Uber Technologies, Inc.
 UltraCane is a trademark owned by Sound Foresight Ltd.
 Unilever is a trademark either owned or used under license by Unilever PLC/Unilever NV and affiliates.
 Velcro is a registered trademark of Velcro Industries B.V.
+VoiceOver is a trademark of the Apple Computer Corporation.
 Walmart is a trademark and brand of Walmart Apollo, LLC.
 WeChat is a trademark of Tencent Holdings Limited.
 Weibo is a trademark of Sina.Com Technology (China) Co. Ltd.
