@@ -52,20 +52,6 @@ Meanwhile, the file [word-overrides.txt](word-overrides.txt) lists words that ar
 Legal
 -----
 CedPane is public-domain but this Readme file is © Silas S. Brown and may be reproduced as-is.
-LDS is possibly registered as a trademark in some countries by Intellectual Reserve Inc (owned by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints) but I was unable to find which countries.
-Mormon is registered as a trademark in Europe held by Intellectual Reserve Inc. which is owned by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints.
-LDS is possibly registered as a trademark in some countries by Intellectual Reserve Inc (owned by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints) but I was unable to find which countries.
-Mormon is registered as a trademark in Europe held by Intellectual Reserve Inc. which is owned by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints.
-LDS is possibly registered as a trademark in some countries by Intellectual Reserve Inc (owned by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints) but I was unable to find which countries.
-Mormon is registered as a trademark in Europe held by Intellectual Reserve Inc. which is owned by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints.
-LDS is possibly registered as a trademark in some countries by Intellectual Reserve Inc (owned by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints) but I was unable to find which countries.
-Mormon is registered as a trademark in Europe held by Intellectual Reserve Inc. which is owned by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints.
-LDS is possibly registered as a trademark in some countries by Intellectual Reserve Inc (owned by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints) but I was unable to find which countries.
-Mormon is registered as a trademark in Europe held by Intellectual Reserve Inc. which is owned by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints.
-LDS is possibly registered as a trademark in some countries by Intellectual Reserve Inc (owned by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints) but I was unable to find which countries.
-Mormon is registered as a trademark in Europe held by Intellectual Reserve Inc. which is owned by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints.
-LDS is possibly registered as a trademark in some countries by Intellectual Reserve Inc (owned by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints) but I was unable to find which countries.
-Mormon is registered as a trademark in Europe held by Intellectual Reserve Inc. which is owned by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints.
 Accenture is a trademark of Accenture Global Services Ltd.
 Adobe is a trademark of Adobe Systems Incorporated in the United States and/or other countries.
 AirBnB is a trademark of AirBnB Inc.
