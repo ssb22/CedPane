@@ -5,12 +5,13 @@ license: pddl
 language: [en, zh]
 configs:
 - config_name: default
-  separator: "\t"
   data_files:
   - split: main
     path: cedpane.txt
+    separator: "\t"
   - split: glosses
     path: PD-English-Definitions.txt
+    separator: "\t"
   - split: overrides
     path: word-overrides.txt
 ---
