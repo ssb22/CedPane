@@ -44,7 +44,7 @@ So I tried querying a large Chinese Internet search engine for each of my words,
 
 After subsetting and editing my database, I can now present 81% of the ‘specialist’ words I collected between 2009 and 2025 as confirmed “public domain” words you can _do what you want_ with (i.e. please _do_ add them to products to help learners—and email me if you’d like me to mention here that you’ve added it to your product). The other 19% (and my reading notes) have not been added to CedPane, but I hope it’s already useful.
 
-This Git repository contains a [tab-delimited text file](cedpane.txt) with the following columns:
+This Git repository contains a [tab-delimited text file](cedpane.tsv) with the following columns:
 
 1. Word as it might be written in an English text (in the case of a non-English name this is usually a transcription), or a brief definition
 
@@ -60,9 +60,9 @@ This Git repository contains a [tab-delimited text file](cedpane.txt) with the f
 
 Of course it goes without saying that, despite my best efforts, mistakes are possible anywhere (as is true of every dictionary) and I’m happy to receive corrections.
 
-I also have a separate collection of Chinese words that _are_ in typical dictionaries, with short English definitions that have either been confirmed by multiple independent sources to the extent that it is reasonable to believe they are public domain, or that I’ve written myself.  This separate collection is _not_ likely to help with software that already has a good normal dictionary, but it might be useful for developers to prototype interlinear annotators etc.  It is in the repository as [PD-English-Definitions.txt](PD-English-Definitions.txt) but has not been included in the main CedPane file.
+I also have a separate collection of Chinese words that _are_ in typical dictionaries, with short English definitions that have either been confirmed by multiple independent sources to the extent that it is reasonable to believe they are public domain, or that I’ve written myself.  This separate collection is _not_ likely to help with software that already has a good normal dictionary, but it might be useful for developers to prototype interlinear annotators etc.  It is in the repository as [PD-English-Definitions](PD-English-Definitions.tsv) but has not been included in the main CedPane file.
 
-Meanwhile, the file [word-overrides.txt](word-overrides.txt) lists words that are often over-matched which you might be better off deactivating from dictionaries.
+Meanwhile, the file [word-overrides](word-overrides.txt) lists words that are often over-matched which you might be better off deactivating from dictionaries.
 
 ### 中文摘要
 (I used a Chinese LLM to improve my translation)
@@ -78,9 +78,9 @@ Meanwhile, the file [word-overrides.txt](word-overrides.txt) lists words that ar
 本数据集中的词条均来自公开可查的网络使用实例（通过大型中文搜索引擎验证），已排除个人笔记中可能涉及版权或争议的内容。目前收录的词条占我2009–2025年收集总量的81%，已确认可自由使用（即属于“公共领域”）。欢迎将这些词条集成到词典软件（如Pleco、Wenlin）、NLP 工具或在线服务中，以提升中文学习者的阅读体验。若您的产品已使用本数据集，欢迎发邮件告知，我将在本页致谢。
 
 本仓库包含以下文件：
-- [`cedpane.txt`](cedpane.txt)： 主词表，制表符分隔，字段包括英文原文、简体中文、繁体中文、普通话拼音、粤语耶鲁拼音（暂未充分校对）、英语IPA 音标。
-- [`PD-English-Definitions.txt`](PD-English-Definitions.txt)： 另一份补充词表，包含常见汉字词的简明英文释义，适合开发注释工具。
-- [`word-overrides.txt`](word-overrides.txt)： 建议在词典中停用的易误匹配词。
+- [`cedpane`](cedpane.tsv)： 主词表，制表符分隔，字段包括英文原文、简体中文、繁体中文、普通话拼音、粤语耶鲁拼音（暂未充分校对）、英语IPA 音标。
+- [`PD-English-Definitions`](PD-English-Definitions.tsv)： 另一份补充词表，包含常见汉字词的简明英文释义，适合开发注释工具。
+- [`word-overrides`](word-overrides.txt)： 建议在词典中停用的易误匹配词。
 
 尽管我已尽力校对，但错误仍可能存在（如同所有词典一样），欢迎提出修正建议。
 
