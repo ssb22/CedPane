@@ -5,13 +5,11 @@ license: pddl
 language: [en, zh]
 configs:
 - config_name: default
-  data_files:
-  - split: main
-    path: cedpane.tsv
-  - split: glosses
-    path: PD-English-Definitions.tsv
-  - split: overrides
-    path: word-overrides.txt
+  data_files: cedpane.tsv
+- config_name: glosses
+  data_files: PD-English-Definitions.tsv
+- config_name: overrides
+  data_files: word-overrides.txt
 ---
 
 # CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc
