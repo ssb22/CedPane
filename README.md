@@ -1,13 +1,29 @@
-CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc
-=========================================================================
+---
+# Metadata for HuggingFace dataset viewer （请垂直下移看汉语解释）
+# (Humans please skip past this.  Why does HuggingFace insist it comes first?...)
+license: pddl
+language: [en, zh]
+configs:
+- config_name: default
+  separator: "\t"
+  data_files:
+  - split: main
+    path: cedpane.txt
+  - split: glosses
+    path: PD-English-Definitions.txt
+  - split: overrides
+    path: word-overrides.txt
+---
 
+# CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc
+## 汉英词典公有领域专名等副刊CedPane
 From http://ssb22.user.srcf.net/cedpane/
 
 (mirrored at http://ssb22.gitlab.io/cedpane/ just in case)
 
-People learning Chinese as a foreign language sometimes use software to help them read a text.  But when Western names are written using Chinese characters, the result is not always something an average dictionary can help with—the software might give you an inappropriate “analysis” like 沃(wò)=irrigate 兹(zī)=this/now 沃(wò)=irrigate 思(sī)=thought instead of 沃兹沃思(Wòzīwòsī)=Wordsworth. So I found it useful to compile a list of names (focusing on, but not limited to, Western names) and some other potentially-useful phrases not always found in learners’ software, with examples of how these have been written in Chinese, which we can add to our software to help with our reading.
+### English summary
 
-我们学汉语的西方人有时使用电脑软件加拼音和下定义，不过那软件里的词典经常缺乏专名。比如，《沃兹沃思》是个著名诗人的贵姓，英语Wordsworth，但有些学汉语软件看《沃兹沃思》就说： “沃”等于“灌溉”，“兹”等于“这个”，“沃”等于“灌溉”，“思”等于“思想”。电脑不知道“沃兹沃思”是个名字而不需这样分割。所以，我编写一个汉英词典《专名等副刊》让我们的软件看出哪里有英文名的译音和类似不必分割的词语。
+People learning Chinese as a foreign language sometimes use software to help them read a text.  But when Western names are written using Chinese characters, the result is not always something an average dictionary can help with—the software might give you an inappropriate “analysis” like 沃(wò)=irrigate 兹(zī)=this/now 沃(wò)=irrigate 思(sī)=thought instead of 沃兹沃思(Wòzīwòsī)=Wordsworth. So I found it useful to compile a list of names (focusing on, but not limited to, Western names) and some other potentially-useful phrases not always found in learners’ software, with examples of how these have been written in Chinese, which we can add to our software to help with our reading.
 
 While the primary purpose of this list is to help software recognise a name when it sees one, it’s understandable that some people will also want to use it to ‘look up’ how a specific name “should” be translated. However:
 
@@ -48,6 +64,26 @@ Of course it goes without saying that, despite my best efforts, mistakes are pos
 I also have a separate collection of Chinese words that _are_ in typical dictionaries, with short English definitions that have either been confirmed by multiple independent sources to the extent that it is reasonable to believe they are public domain, or that I’ve written myself.  This separate collection is _not_ likely to help with software that already has a good normal dictionary, but it might be useful for developers to prototype interlinear annotators etc.  It is in the repository as [PD-English-Definitions.txt](PD-English-Definitions.txt) but has not been included in the main CedPane file.
 
 Meanwhile, the file [word-overrides.txt](word-overrides.txt) lists words that are often over-matched which you might be better off deactivating from dictionaries.
+
+### 中文摘要
+(I used a Chinese LLM to improve my translation)
+
+汉语学习者常借助软件辅助阅读，但这类软件的词典往往缺少对专有名词（如人名、地名）的收录。例如，“沃兹沃思” 是英国诗人Wordsworth的中文译名，但一些软件会错误地将其拆解为“沃（灌溉）兹（这个）沃（灌溉）思（思想）”，而无法识别这是一个整体音译的姓名。
+
+为此，我整理了这份《专名等副刊》（CedPane），收录了大量常见于中文文本但未被通用词典充分覆盖的音译名和特殊表达，旨在帮助软件更准确地识别这些词汇，避免误切分。
+
+需要特别说明的是：
+1. 同一个外文名字可能有**多种中文写法**，有时并无对错之分，选择哪一种可能反映使用者的年龄、地域或文化背景； 在极少数情况下，选错译名甚至可能冒犯他人。因此，本数据集仅为**描述性记录** （记录实际用法），**不具权威性**，请勿用它来批评他人翻译。
+2. 多个不同的外文名字有时会音译为**相同的中文写法**，因此反向查询时可能产生歧义。
+
+本数据集中的词条均来自公开可查的网络使用实例（通过大型中文搜索引擎验证），已排除个人笔记中可能涉及版权或争议的内容。目前收录的词条占我2009–2025年收集总量的81%，已确认可自由使用（即属于“公共领域”）。欢迎将这些词条集成到词典软件（如Pleco、Wenlin）、NLP 工具或在线服务中，以提升中文学习者的阅读体验。若您的产品已使用本数据集，欢迎发邮件告知，我将在本页致谢。
+
+本仓库包含以下文件：
+- [`cedpane.txt`](cedpane.txt)： 主词表，制表符分隔，字段包括英文原文、简体中文、繁体中文、普通话拼音、粤语耶鲁拼音（暂未充分校对）、英语IPA 音标。
+- [`PD-English-Definitions.txt`](PD-English-Definitions.txt)： 另一份补充词表，包含常见汉字词的简明英文释义，适合开发注释工具。
+- [`word-overrides.txt`](word-overrides.txt)： 建议在词典中停用的易误匹配词。
+
+尽管我已尽力校对，但错误仍可能存在（如同所有词典一样），欢迎提出修正建议。
 
 Legal
 -----
