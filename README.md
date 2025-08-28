@@ -4,10 +4,12 @@
 license: pddl
 language: [en, zh]
 configs:
-- config_name: default
+- config_name: entries
   data_files: cedpane.tsv
+  sep: "\t"
 - config_name: glosses
   data_files: PD-English-Definitions.tsv
+  sep: "\t"
 - config_name: overrides
   data_files: word-overrides.txt
 ---
