@@ -1,0 +1,38 @@
+# dataset.yaml - Dataset metadata for ModelScope future compatibility
+name: CedPane
+title: CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc
+language:
+  - en
+  - zh
+license: PDDL
+domain:
+  - nlp
+  - translation
+  - lexicon
+  - named-entity-recognition
+task:
+  - machine-translation
+  - text-processing
+  - dictionary-extension
+version: "1.0"
+description: |
+  A public-domain collection of Chinese-English word pairs, focusing on proper nouns,
+  transliterations, and expressions not commonly found in standard dictionaries.
+  For NLP, dictionary augmentation, and language learning tools.
+splits:
+  - name: entries
+    path: cedpane.tsv
+    format: tsv
+  - name: glosses
+    path: PD-English-Definitions.tsv
+    format: tsv
+  - name: overrides
+    path: word-overrides.txt
+    format: tsv
+citation: |
+  @misc{cedpane,
+    author = {Silas S. Brown},
+    title = {CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc},
+    year = {2025},
+    howpublished = {\url{http://ssb22.user.srcf.net/cedpane/}}
+  }
