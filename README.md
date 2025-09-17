@@ -115,6 +115,7 @@ Camino is a registered trademark of The Mozilla Foundation.
 Cargill is a trademark of Cargill Inc.
 Carrefour is a trademark of Carrefour of Boulogne-Billancourt, France.
 Chevrolet is a trademark or registered trademark of General Motors.
+Claude is a trademark of Anthropic.
 CNN is a trademark of Cable News Network Inc.
 Cognac is a trademark which is held by France.
 Colgate is a trademark of the Colgate-Palmolive Company.
@@ -135,6 +136,7 @@ Flyboard is a trademark of ZIPH2O SAS, Le Rove France.
 Funai is a trademark of Funai Electric Co., Ltd.
 GameStop is a trademark of GameStop, Inc.
 Garmin is a trademark of Garmin Ltd. or its subsidiaries, registered in the USA and other countries.
+Gemini is a trademark of Google LLC when used in the context of LLMs.
 Git is a trademark of the Software Freedom Conservancy.
 GitHub is a trademark of GitHub Inc.
 Google is a trademark of Google LLC.
@@ -152,6 +154,7 @@ Intel is a trademark of Intel Corporation or its subsidiaries.
 Invisalign is a trademark of Align Technology, Inc.
 Java is a registered trademark of Oracle Corporation in the US and possibly other countries.
 Javascript is a trademark of Oracle Corporation in the US.
+Kimi is a trademark of Beijing Moonshot AI Technology Co., Ltd.
 LDS is possibly registered as a trademark in some countries by Intellectual Reserve Inc (owned by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints) but I was unable to find which countries.
 Lego is a trademark of the Lego Group, which does not sponsor, authorize or endorse this document.
 LinkedIn is a registered trademark or trademark of LinkedIn Corporation and its affiliates in the United States and/or other countries.
@@ -191,6 +194,7 @@ SimSun is a trademark of Zhongyi Electronic Co., Beijing, which is licensed to M
 Snapdragon is a trademark or registered trademark of Qualcomm Incorporated.
 Spotify is a trademark of Spotify Ltd.
 Star Trek is a trademark of CBS Studios Inc. / Paramount.
+Starlink is a trademark of Space Exploration Technologies Corp (SpaceX)
 Strepsils is a trademark of Reckitt & Colman (Overseas) Ltd.
 Telegram is a trademark of Telegram Messenger LLP.
 TeX is a trademark of the American Mathematical Society.
