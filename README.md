@@ -137,6 +137,7 @@ Funai is a trademark of Funai Electric Co., Ltd.
 GameStop is a trademark of GameStop, Inc.
 Garmin is a trademark of Garmin Ltd. or its subsidiaries, registered in the USA and other countries.
 Gemini is a trademark of Google LLC when used in the context of LLMs.
+GenScript is a trademark of Nanjing GenScript Biotech Co., Ltd
 Git is a trademark of the Software Freedom Conservancy.
 GitHub is a trademark of GitHub Inc.
 Google is a trademark of Google LLC.
