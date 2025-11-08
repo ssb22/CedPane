@@ -122,7 +122,7 @@ Colgate is a trademark of the Colgate-Palmolive Company.
 Comcast is a trademark of Comcast Corporation.
 Danfoss is a trademark of Danfoss A/S.
 Debenhams is a trademark of Debenhams Retail PLC.
-Dettol was a trademark of Reckitt & Colman (Overseas) Limited but I was unable to confirm its current status.
+Dettol is a trademark of Reckitt & Colman (Overseas) Health Limited, part of the Reckitt Group.
 Dividend Aristocrats is a trademark of Standard & Poor's Financial Services LLC.
 Dulux is a trademark of ICI (Imperial Chemical Industries).
 Duolingo is a trademark of Duolingo, Inc.
@@ -202,7 +202,7 @@ TeX is a trademark of the American Mathematical Society.
 Thermos is a trademark of Thermos LLC.
 Think different is a trademark of Apple Computer, Inc.
 Toshiba is a trademark of Tokyo Shibaura Denki Kabushiki Kaisha, also called Kabushiki Kaisha Toshiba.
-Twitter and Tweet are trademarks of Twitter Inc.
+Twitter and Tweet are trademarks of X Inc (previously Twitter Inc).
 Uber is a trademark of Uber Technologies, Inc.
 UltraCane is a trademark owned by Sound Foresight Ltd.
 Unilever is a trademark either owned or used under license by Unilever PLC/Unilever NV and affiliates.
