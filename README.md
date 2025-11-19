@@ -16,9 +16,9 @@ configs:
 
 # CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc
 ## 汉英词典公有领域专名等副刊CedPane
-From http://ssb22.user.srcf.net/cedpane/
+From https://ssb22.user.srcf.net/cedpane/
 
-(mirrored at http://ssb22.gitlab.io/cedpane/ just in case)
+(mirrored at https://ssb22.gitlab.io/cedpane/ just in case)
 
 ### English summary
 
