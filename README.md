@@ -42,7 +42,7 @@ I now understand that most countries’ copyright laws do include a provision fo
 
 So I tried querying a large Chinese Internet search engine for each of my words, to get some measure of which words were common enough to warrant disregarding my reading notes and just saying "here's a translation that's 'out there' and worth recognising". I had to be careful to ensure the search results really showed the word in _common_ use (not just illegal copies of the source I read), and I also had to beware of having documented a rare different use-case of an otherwise common word.
 
-After subsetting and editing my database, I can now present 81% of the ‘specialist’ words I collected between 2009 and 2025 as confirmed “public domain” words you can _do what you want_ with (i.e. please _do_ add them to products to help learners—and email me if you’d like me to mention here that you’ve added it to your product). The other 19% (and my reading notes) have not been added to CedPane, but I hope it’s already useful.
+After subsetting and editing my database, I can now present 81% of the ‘specialist’ words I collected between 2009 and 2026 as confirmed “public domain” words you can _do what you want_ with (i.e. please _do_ add them to products to help learners—and email me if you’d like me to mention here that you’ve added it to your product). The other 19% (and my reading notes) have not been added to CedPane, but I hope it’s already useful.
 
 This Git repository contains a [tab-delimited text file](cedpane.tsv) with the following columns:
 
@@ -75,7 +75,7 @@ Meanwhile, the file [word-overrides](word-overrides.txt) lists words that are of
 1. 同一个外文名字可能有**多种中文写法**，有时并无对错之分，选择哪一种可能反映使用者的年龄、地域或文化背景； 在极少数情况下，选错译名甚至可能冒犯他人。因此，本数据集仅为**描述性记录** （记录实际用法），**不具权威性**，请勿用它来批评他人翻译。
 2. 多个不同的外文名字有时会音译为**相同的中文写法**，因此反向查询时可能产生歧义。
 
-本数据集中的词条均来自公开可查的网络使用实例（通过大型中文搜索引擎验证），已排除个人笔记中可能涉及版权或争议的内容。目前收录的词条占我2009–2025年收集总量的81%，已确认可自由使用（即属于“公共领域”）。欢迎将这些词条集成到词典软件（如Pleco、Wenlin）、NLP 工具或在线服务中，以提升中文学习者的阅读体验。若您的产品已使用本数据集，欢迎发邮件告知，我将在本页致谢。
+本数据集中的词条均来自公开可查的网络使用实例（通过大型中文搜索引擎验证），已排除个人笔记中可能涉及版权或争议的内容。目前收录的词条占我2009–2026年收集总量的81%，已确认可自由使用（即属于“公共领域”）。欢迎将这些词条集成到词典软件（如Pleco、Wenlin）、NLP 工具或在线服务中，以提升中文学习者的阅读体验。若您的产品已使用本数据集，欢迎发邮件告知，我将在本页致谢。
 
 本仓库包含以下文件：
 - [`cedpane`](cedpane.tsv)： 主词表，制表符分隔，字段包括英文原文、简体中文、繁体中文、普通话拼音、粤语耶鲁拼音（暂未充分校对）、英语IPA 音标。
@@ -201,6 +201,7 @@ Telegram is a trademark of Telegram Messenger LLP.
 TeX is a trademark of the American Mathematical Society.
 Thermos is a trademark of Thermos LLC.
 Think different is a trademark of Apple Computer, Inc.
+TomTom is a trademark of TomTom International BV.
 Toshiba is a trademark of Tokyo Shibaura Denki Kabushiki Kaisha, also called Kabushiki Kaisha Toshiba.
 Twitter and Tweet are trademarks of X Inc (previously Twitter Inc).
 Uber is a trademark of Uber Technologies, Inc.
