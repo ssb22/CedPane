@@ -17,8 +17,7 @@ configs:
 # CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc
 ## 汉英词典公有领域专名等副刊CedPane
 From https://ssb22.user.srcf.net/cedpane/
-
-(mirrored at https://ssb22.gitlab.io/cedpane/ just in case)
+(also [mirrored on GitLab Pages](https://ssb22.gitlab.io/cedpane/) just in case)
 
 ### English summary
 
@@ -63,6 +62,34 @@ Of course it goes without saying that, despite my best efforts, mistakes are pos
 I also have a separate collection of Chinese words that _are_ in typical dictionaries, with short English definitions that have either been confirmed by multiple independent sources to the extent that it is reasonable to believe they are public domain, or that I’ve written myself.  This separate collection is _not_ likely to help with software that already has a good normal dictionary, but it might be useful for developers to prototype interlinear annotators etc.  It is in the repository as [PD-English-Definitions](PD-English-Definitions.tsv) but has not been included in the main CedPane file.
 
 Meanwhile, the file [word-overrides](word-overrides.txt) lists words that are often over-matched which you might be better off deactivating from dictionaries.
+
+### Common problems adding pinyin to Chinese names
+from https://ssb22.user.srcf.net/cedpane/pynames.html (also [mirrored on GitLab Pages](https://ssb22.gitlab.io/cedpane/pynames.html) just in case)
+
+While working on CedPane I tried to keep these in mind (please let me know if I missed any):
+* 娜 tends to be **nà ** in names, not nuó as in words like ēnuó 婀娜
+* 什 tends to be **shí** in names, not shén as in words like shénme 什么
+* 菲 tends to be **fēi** in names, not fěi as in words like fěibó 菲薄 (but 斐 is still fěi)
+* 耶 tends to be **yē ** in names, not yé as in words like shìyéfēiyé 是耶非耶
+* 贾/賈 tends to be **jiǎ** in names, not gǔ as in words like gǔmǎi 贾买
+* 柏 tends to be **bó ** in names, not bǎi as in words like bǎishù 柏树
+* 伯 could be bó or bǎi
+* 莎 tends to be **shā** in names, not suō
+* 切 tends to be **qiè** in names, not qiē as in words like qiēcàidāo 切菜刀
+* 的 (e.g. in Scandinavia) is **dì** not de
+* 勒 is usually **lè** rather than lēi
+* 塞 could be sài, sāi or sè (depending on the name)
+* 宁/寧 tends to be **níng** in names, not nìng as in words like nìngkěn 宁肯
+* 兴/興 tends to be **xīng** in names, not xìng as in words like gāoxìng 高兴
+* 更 tends to be **gēng** not gèng
+* 茜 tends to be **xī** not qiàn
+* 冯 tends to be **féng** not píng
+* 佛 tends to be fó in names, although fú can also be acceptable in some
+* Simple-form 云 (yún) tends to correspond with Full-form 雲 in names (but 里 is not usually 裡)
+
+Additionally 藏 is zàng not cáng in names about Tibet, and 蒙 is měng not méng in names about Mongolia, but these are rarely used in names outside those contexts.
+
+**Please do not trust the website namespedia.com**—their pinyin appears to have been generated automatically by software that does *not* apply the above rules.
 
 ### 中文摘要
 (I used a Chinese LLM to improve my translation)
