@@ -122591,7 +122591,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2026-05-24
+definition CedPane: this is version 2026-06-17
 remark heading 1only
 *** 
 pinyin càidān gōngchéng
@@ -319267,7 +319267,7 @@ definition Agis
 pinyin Ālìkè
 characters 阿利克
 serial-number CedPane64016
-definition Alique
+definition Alique; Alik
 *** 
 pinyin Āmǔlìzé
 characters 阿姆利则[---則]
@@ -372237,7 +372237,7 @@ definition Jørgen
 pinyin Hàn-Yīng Gōng-Lǐng
 characters 汉英公领[漢---]
 serial-number CedPane74496
-definition CedPane v2026-05-24
+definition CedPane v2026-06-17
 remark heading 1only
 *** 
 pinyin Ài'ěrsībólǐ
@@ -422763,3 +422763,165 @@ pinyin wéidù yuējiǎn
 characters 维度约减[維-約減]
 serial-number CedPane84592
 definition dimensionality reduction
+*** 
+pinyin Ā'ěrqiáomòfū
+characters 阿尔乔莫夫[-爾喬--]
+serial-number CedPane84593
+definition Artemov
+*** 
+pinyin Āilónggé
+characters 埃隆格
+serial-number CedPane84594
+definition Elongo
+*** 
+pinyin Àojīnzuǒfū
+characters 奥金佐夫[奧---]
+serial-number CedPane84595
+definition Odintsov
+*** 
+pinyin Bā'ěrsūkēfū
+characters 巴尔苏科夫[-爾蘇--]
+serial-number CedPane84596
+definition Barsukov
+*** 
+pinyin Běimò'ěrsīkè
+characters 北莫尔斯克[--爾--]
+serial-number CedPane84597
+definition Severomorsk
+*** 
+pinyin Běndíbùjiāo
+characters 本迪布焦
+serial-number CedPane84598
+definition Bundibugyo
+*** 
+pinyin chǔlǐ jīzhì
+characters 处理机制[處-機-]
+serial-number CedPane84599
+definition processing mechanism
+*** 
+pinyin Dòu É
+characters 窦娥[竇-]
+serial-number CedPane84600
+definition Dou E; Midsummer Snow (play)
+*** 
+pinyin fēnjiēduàn
+characters 分阶段[-階-]
+serial-number CedPane84601
+definition divided into steps; in stages
+*** 
+pinyin fúdiǎn biànliàng
+characters 浮点变量[-點變-]
+serial-number CedPane84602
+definition floating-point variable
+*** 
+pinyin fùzhí
+characters 赋值[賦-]
+serial-number CedPane84603
+environment   comp.
+definition assign (a value)
+*** 
+pinyin Gēdǎbātuō
+characters 哥打巴托
+serial-number CedPane84604
+definition Cotabato
+*** 
+pinyin Gēdǎbātuō Shěng
+characters 哥打巴托省
+serial-number CedPane84605
+definition Cotabato (province, in Philippines)
+*** 
+pinyin Hāwǔyǔ
+characters 哈武语[--語]
+serial-number CedPane84606
+definition Havu (language)
+*** 
+pinyin jiǎnpīn
+characters 简拼[簡-]
+serial-number CedPane84607
+definition abbreviated pinyin input method (completes phrase from initial letters)
+*** 
+pinyin jiàn zhàn gōngjù
+characters 建站工具
+serial-number CedPane84608
+definition website builder (tool)
+*** 
+pinyin juàndàigǎn
+characters 倦怠感
+serial-number CedPane84609
+definition fatigue; exhaustion
+*** 
+pinyin Kǎnàshèwò
+characters 卡纳舍沃[-納--]
+serial-number CedPane84610
+definition Kanashevo
+*** 
+pinyin línshí biànliàng
+characters 临时变量[臨時變-]
+serial-number CedPane84611
+environment   comp.
+definition temporary variable
+*** 
+pinyin Mǎkèluónísuǒsī
+characters 马克罗尼索斯[馬-羅---]
+serial-number CedPane84612
+definition Makrónisos
+*** 
+pinyin Mǎlālán
+characters 马拉兰[馬-蘭]
+serial-number CedPane84613
+definition Malalan
+*** 
+pinyin màomíngdǐngtì zhènghòuqún
+characters 冒名顶替症候群[--頂----]
+serial-number CedPane84614
+definition imposter syndrome
+*** 
+pinyin Nán Gēdǎbātuō Shěng
+characters 南哥打巴托省
+serial-number CedPane84615
+definition South Cotabato (province, in Philippines)
+*** 
+pinyin Nánjīwǔ
+characters 南基伍
+serial-number CedPane84616
+definition South Kivu
+*** 
+pinyin Piānpiāntǐ
+characters 翩翩体[--體]
+serial-number CedPane84617
+definition HanziPen (font bundled with MacOS 10.11+)
+*** 
+pinyin qìpào bōli
+characters 气泡玻璃[氣---]
+serial-number CedPane84618
+definition seeded glass; bubble glass
+*** 
+pinyin Xībài
+characters 锡拜[錫-]
+serial-number CedPane84619
+definition Sibay
+*** 
+pinyin xìngrénnǎi
+characters 杏仁奶
+serial-number CedPane84620
+definition almond milk
+*** 
+pinyin Yèlìxièyēfū
+characters 叶利谢耶夫[葉-謝--]
+serial-number CedPane84621
+definition Yeliseyev
+*** 
+pinyin Yījíwéi Dǎo
+characters 伊吉维岛[--維島]
+serial-number CedPane84622
+definition Idjwi (island)
+*** 
+pinyin zhǎngzhǎngzhǎng
+characters 涨涨涨[漲漲漲]
+serial-number CedPane84623
+definition go up and up and up
+*** 
+pinyin zhěngshù biànliàng
+characters 整数变量[-數變-]
+serial-number CedPane84624
+definition integer variable
