@@ -73024,7 +73024,7 @@ definition Mien (tribe, alternate translation of Yao)
 pinyin Yīwàn
 characters 伊万[-萬]
 serial-number CedPane14637
-definition Ivan
+definition Ivan; Ioan
 *** 
 pinyin diànzǐ chūbǎnwù
 characters 电子出版物[電----]
@@ -122591,7 +122591,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2026-06-17
+definition CedPane: this is version 2026-07-15
 remark heading 1only
 *** 
 pinyin càidān gōngchéng
@@ -247417,7 +247417,7 @@ definition Ritva
 pinyin Liǔbómǐ'ěr
 characters 柳博米尔[---爾]
 serial-number CedPane49737
-definition Ljubomir
+definition Ljubomir; Liubomyr
 *** 
 pinyin Lìyàluòhā
 characters 利亚洛哈[-亞--]
@@ -372237,7 +372237,7 @@ definition Jørgen
 pinyin Hàn-Yīng Gōng-Lǐng
 characters 汉英公领[漢---]
 serial-number CedPane74496
-definition CedPane v2026-06-17
+definition CedPane v2026-07-15
 remark heading 1only
 *** 
 pinyin Ài'ěrsībólǐ
@@ -422925,3 +422925,234 @@ pinyin zhěngshù biànliàng
 characters 整数变量[-數變-]
 serial-number CedPane84624
 definition integer variable
+*** 
+pinyin Bāngkèxī'ěr
+characters 邦克希尔[---爾]
+serial-number CedPane84625
+definition Bunker Hill
+*** 
+pinyin Bāshíjīluófū
+characters 巴什基罗夫[---羅-]
+serial-number CedPane84626
+definition Bashkirov
+*** 
+pinyin Bǐshào
+characters 比绍[-紹]
+serial-number CedPane84627
+definition Bissau
+*** 
+pinyin bǐ xiānqián
+characters 比先前
+serial-number CedPane84628
+definition (compared) with before
+*** 
+pinyin Bóyuēkè
+characters 博约克[-約-]
+serial-number CedPane84629
+definition Boiok
+*** 
+pinyin cǎi zài jiǎo xià
+characters 踩在脚下[--腳-]
+serial-number CedPane84630
+definition trample underfoot
+*** 
+pinyin cǐqián
+characters 此前
+serial-number CedPane84631
+definition until now; before this
+*** 
+pinyin cuīmiángǎn
+characters 催眠感
+serial-number CedPane84632
+definition mesmerising
+*** 
+pinyin Dēng'èsī
+characters 登厄斯
+serial-number CedPane84633
+definition Denys
+*** 
+pinyin dì yī céng lóu
+characters 第一层楼[--層樓]
+serial-number CedPane84634
+definition the first floor
+*** 
+pinyin fāshèzhàn
+characters 发射站[發--]
+serial-number CedPane84635
+definition base station (for mobile phones etc); launchpad
+*** 
+pinyin Hāníngyē
+characters 哈宁耶[-寧-]
+serial-number CedPane84636
+definition Haninge
+*** 
+pinyin huīhuī
+characters 灰灰
+serial-number CedPane84637
+definition dark; sad
+*** 
+pinyin jiājiàn
+characters 加建
+serial-number CedPane84638
+definition extend (a building)
+*** 
+pinyin Jìbèilǐ
+characters 季贝里[-貝-]
+serial-number CedPane84639
+definition Tiberii
+*** 
+pinyin Kǎyàpà
+characters 卡亚帕[-亞-]
+serial-number CedPane84640
+definition Kayapa
+*** 
+pinyin Kērèmǐyàjīn
+characters 科热米亚金[-熱-亞-]
+serial-number CedPane84641
+definition Kozhemiakin
+*** 
+pinyin Kùlǐqíbā
+characters 库里奇巴[庫---]
+serial-number CedPane84642
+definition Curitiba
+*** 
+pinyin Lāguāyīlā
+characters 拉瓜伊拉
+serial-number CedPane84643
+definition La Guaira
+*** 
+pinyin liǎojiě
+characters 瞭解
+serial-number CedPane84644
+environment   TW
+definition understand
+*** 
+pinyin Luóhuòfū
+characters 罗霍夫[羅--]
+serial-number CedPane84645
+definition Rohov
+*** 
+pinyin měi yī céng lóu
+characters 每一层楼[--層樓]
+serial-number CedPane84646
+definition every floor
+*** 
+pinyin Mǐluóshēn
+characters 米罗申[-羅-]
+serial-number CedPane84647
+definition Miroshkin
+*** 
+pinyin Mǔpǔmùzhā
+characters 姆普穆扎
+serial-number CedPane84648
+definition Mpumuza
+*** 
+pinyin Qíqiáo
+characters 奇乔[-喬]
+serial-number CedPane84649
+definition Cicio
+*** 
+pinyin Sà'ěrhuòshí
+characters 萨尔霍什[薩爾--]
+serial-number CedPane84650
+definition Sarhosh
+*** 
+pinyin shàng pái zuǒ zhì yòu
+characters 上排左至右
+serial-number CedPane84651
+definition top row left to right (in pictures caption)
+*** 
+pinyin shīhàizhě
+characters 施害者
+serial-number CedPane84652
+definition perpetrator
+*** 
+pinyin Sōngdùmǔbǐlì
+characters 松杜姆比利
+serial-number CedPane84653
+definition Sundumbili
+*** 
+pinyin tóngyī céng lóu
+characters 同一层楼[--層樓]
+serial-number CedPane84654
+definition the same floor
+*** 
+pinyin Túdéníqíní
+characters 图德尼奇尼[圖----]
+serial-number CedPane84655
+definition Rudnichniy
+*** 
+pinyin Túlóngfēng
+characters 屠龙锋[-龍鋒]
+serial-number CedPane84656
+definition Tulongfeng (360-hyped vunerability scanner)
+*** 
+pinyin Túlǔshèfū
+characters 图鲁舍夫[圖魯--]
+serial-number CedPane84657
+definition Turushev
+*** 
+pinyin wèi rùjìng
+characters 未入镜[--鏡]
+serial-number CedPane84658
+definition not pictured (here)
+*** 
+pinyin Wòluóniǔkè
+characters 沃罗纽克[-羅紐-]
+serial-number CedPane84659
+definition Voroniuk
+*** 
+pinyin wúyā
+characters 无压[無壓]
+serial-number CedPane84660
+definition stress-free; without pressure
+*** 
+pinyin Xī'àilā
+characters 西爱拉[-愛-]
+serial-number CedPane84661
+definition Sierra
+*** 
+pinyin xià pái zuǒ zhì yòu
+characters 下排左至右
+serial-number CedPane84662
+definition bottom row left to right (in pictures caption)
+*** 
+pinyin xié yǎn
+characters 邪眼
+serial-number CedPane84663
+definition evil eye (superstitions etc)
+*** 
+pinyin Xīnbǐsīkāishěng
+characters 新比斯开省[---開-]
+serial-number CedPane84664
+definition Nueva Vizcaya province (Philippines)
+*** 
+pinyin Xīsījīn
+characters 希斯金
+serial-number CedPane84665
+definition Shishkin
+*** 
+pinyin yèfēng
+characters 夜风[-風]
+serial-number CedPane84666
+definition night wind
+*** 
+pinyin yī céng lóu
+characters 一层楼[-層樓]
+serial-number CedPane84667
+definition a floor (of a building); a storey
+*** 
+pinyin yōushēng
+characters 优生[優-]
+serial-number CedPane84668
+definition high-achieving student
+*** 
+pinyin zhíjiē piānhào yōuhuà
+characters 直接偏好优化[----優-]
+serial-number CedPane84669
+definition Direct Preference Optimisation; DPO (like RLHF but don't need a separate reward model)
+*** 
+pinyin zìshā yìniàn
+characters 自杀意念[-殺--]
+serial-number CedPane84670
+definition suicidal ideation
