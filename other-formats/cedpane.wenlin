@@ -8252,7 +8252,7 @@ characters 布莱因[-萊-]
 serial-number CedPane1654
 definition Blain
 *** 
-pinyin Bùlakè
+pinyin Bùlākè
 characters 布拉克
 serial-number CedPane1655
 definition Burak
@@ -16471,7 +16471,7 @@ definition Georg
 pinyin Gé'ào'ěrjī
 characters 格奥尔基[-奧爾-]
 serial-number CedPane3297
-definition Gheorghe
+definition Gheorghe; Georgi
 *** 
 pinyin Gēbì shāmò
 characters 戈壁沙漠
@@ -122591,7 +122591,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2026-07-15
+definition CedPane: this is version 2026-08-20
 remark heading 1only
 *** 
 pinyin càidān gōngchéng
@@ -210149,7 +210149,7 @@ definition Anselm
 pinyin Ānsī
 characters 安斯
 serial-number CedPane42281
-definition Aines
+definition Aines; Ans
 *** 
 pinyin Āntǎ'ěr
 characters 安塔尔[--爾]
@@ -211759,7 +211759,7 @@ definition Boone; Bourn; Bourne
 pinyin Bù'ěr
 characters 布尔[-爾]
 serial-number CedPane42603
-definition Bugher; Bull
+definition Bugher; Bull; Bour
 *** 
 pinyin Bùhè
 characters 布赫
@@ -372237,7 +372237,7 @@ definition Jørgen
 pinyin Hàn-Yīng Gōng-Lǐng
 characters 汉英公领[漢---]
 serial-number CedPane74496
-definition CedPane v2026-07-15
+definition CedPane v2026-08-20
 remark heading 1only
 *** 
 pinyin Ài'ěrsībólǐ
@@ -423156,3 +423156,327 @@ pinyin zìshā yìniàn
 characters 自杀意念[-殺--]
 serial-number CedPane84670
 definition suicidal ideation
+*** 
+pinyin Āifúlā'ēn
+characters 埃弗拉恩
+serial-number CedPane84671
+definition Efraín
+*** 
+pinyin duànluò shùzì
+characters 段落数字[--數-]
+serial-number CedPane84672
+definition paragraph number
+*** 
+pinyin fànzuì huódòng
+characters 犯罪活动[---動]
+serial-number CedPane84673
+definition crime; criminal activity
+*** 
+pinyin Gēgēfū
+characters 戈戈夫
+serial-number CedPane84674
+definition Gogov
+*** 
+pinyin Huòlǐkēfū
+characters 霍里科夫
+serial-number CedPane84675
+definition Khorikov
+*** 
+pinyin Kǎlā'ěrdá
+characters 卡拉尔达[--爾達]
+serial-number CedPane84676
+definition Karalda
+*** 
+pinyin Lēijiā'ěr
+characters 勒加尔[--爾]
+serial-number CedPane84677
+definition Le Gall
+*** 
+pinyin Lìtuōfūkē
+characters 利托夫科
+serial-number CedPane84678
+definition Litovko
+*** 
+pinyin Qièbùlākè
+characters 切布拉克
+serial-number CedPane84679
+definition Chebrak
+*** 
+pinyin Sàmòkēfū
+characters 萨莫科夫[薩---]
+serial-number CedPane84680
+definition Samokov
+*** 
+pinyin Shālèluówǎ
+characters 沙勒罗瓦[--羅-]
+serial-number CedPane84681
+definition Charleroi
+*** 
+pinyin Shūménzhèn
+characters 舒门镇[-門鎮]
+serial-number CedPane84682
+definition Shumen (town in Bulgaria)
+*** 
+pinyin Wéilièfū
+characters 韦列夫[韋--]
+serial-number CedPane84683
+definition Velev
+*** 
+pinyin Xīsījīnnà
+characters 希斯金娜
+serial-number CedPane84684
+definition Shishkina
+*** 
+pinyin Yīlādá
+characters 伊拉达[--達]
+serial-number CedPane84685
+definition Irada
+*** 
+pinyin ānquán fǎngchá
+characters 安全访查[--訪-]
+serial-number CedPane84686
+definition welfare check (by police)
+*** 
+pinyin ān-wēi jiǎnchá
+characters 安危检查[--檢-]
+serial-number CedPane84687
+definition welfare check (by police)
+*** 
+pinyin biāoshìchū
+characters 标示出[標--]
+serial-number CedPane84688
+definition show out (on map etc)
+*** 
+pinyin Bīndùlā
+characters 宾杜拉[賓--]
+serial-number CedPane84689
+definition Bindula; Bindura
+*** 
+pinyin bōli wā
+characters 玻璃蛙
+serial-number CedPane84690
+definition glass frog; Hyalinobatrachium
+*** 
+pinyin chéngzhī
+characters 橙汁
+serial-number CedPane84691
+definition orange juice
+*** 
+pinyin chūyú wúguān yuányīn
+characters 出于无关原因[--無關--]
+serial-number CedPane84692
+definition for unrelated reasons
+*** 
+pinyin éwài jiàoyù
+characters 额外教育[額---]
+serial-number CedPane84693
+definition additional education
+*** 
+pinyin Fāng Táozi
+characters 方桃子
+serial-number CedPane84694
+definition Fang Taozi (virtual actress)
+*** 
+pinyin Gǎigé Dǎng
+characters 改革党[--黨]
+serial-number CedPane84695
+definition Reform Party
+remark heading 1only
+*** 
+pinyin Hābó'ěr
+characters 哈博尔[--爾]
+serial-number CedPane84696
+definition Habor (modern)
+*** 
+pinyin huángtǐ qī
+characters 黄体期[黃體-]
+serial-number CedPane84697
+definition luteal phase
+*** 
+pinyin jiāoyǒuquān
+characters 交友圈
+serial-number CedPane84698
+definition circle of friends (of a person)
+*** 
+pinyin Jīdébó
+characters 基德博
+serial-number CedPane84699
+definition Quibdó
+*** 
+pinyin jíjiùyuán
+characters 急救员[--員]
+serial-number CedPane84700
+definition first aider
+remark heading 1only
+*** 
+pinyin Jílì'ēn
+characters 吉利恩
+serial-number CedPane84701
+definition Gillian (male)
+*** 
+pinyin Kǎsōnggǔ
+characters 卡松古
+serial-number CedPane84702
+definition Kasungu
+*** 
+pinyin Kèlèkènà
+characters 克勒克纳[---納]
+serial-number CedPane84703
+definition Klöckner
+*** 
+pinyin Lāshèfūsījī
+characters 拉舍夫斯基
+serial-number CedPane84704
+definition Rashevskyi
+*** 
+pinyin Lúqínzhā
+characters 卢琴扎[盧--]
+serial-number CedPane84705
+definition Luchenza
+*** 
+pinyin Mǎjiāwǎ
+characters 马加瓦[馬--]
+serial-number CedPane84706
+definition Magawa
+*** 
+pinyin Màngēqiè
+characters 曼戈切
+serial-number CedPane84707
+definition Mangochi
+*** 
+pinyin Mǎnísàláisī
+characters 马尼萨莱斯[馬-薩萊-]
+serial-number CedPane84708
+definition Manizales
+*** 
+pinyin Méngtènèigéluó
+characters 蒙特内格罗[--內-羅]
+serial-number CedPane84709
+definition Montenegro
+*** 
+pinyin Mǐgēwéi
+characters 米戈维[--維]
+serial-number CedPane84710
+definition Migowi; Migovi
+*** 
+pinyin Mǔbōnèilā
+characters 姆波内拉[--內-]
+serial-number CedPane84711
+definition Mponela
+*** 
+pinyin Mǔpǔlónggǔ
+characters 姆普隆古
+serial-number CedPane84712
+definition Mpulungu
+*** 
+pinyin Mǔwǎwǎ
+characters 姆瓦瓦
+serial-number CedPane84713
+definition Mwawa; Mława
+*** 
+pinyin Nàzháluófū
+characters 纳札罗夫[納-羅-]
+serial-number CedPane84714
+definition Nazarov
+*** 
+pinyin qiángmiàn tiānshǐ
+characters 墙面天使[牆---]
+serial-number CedPane84715
+definition wall angels (exercise)
+remark heading 1only
+*** 
+pinyin Qíbùyē
+characters 奇布耶
+serial-number CedPane84716
+definition Chibuye
+*** 
+pinyin qǐmǎ yǒu ge dǐ
+characters 起码有个底[-碼-個-]
+serial-number CedPane84717
+definition at least have a backup plan
+*** 
+pinyin Sàfūjīnnà
+characters 萨夫金娜[薩---]
+serial-number CedPane84718
+definition Savkina
+*** 
+pinyin Sèmǔtīng
+characters 塞姆汀
+serial-number CedPane84719
+definition Semtex
+*** 
+pinyin shālāwǎn
+characters 沙拉碗
+serial-number CedPane84720
+definition salad bowl
+*** 
+pinyin shì hǎo shì huài
+characters 是好是坏[---壞]
+serial-number CedPane84721
+definition (whether) for good or bad
+*** 
+pinyin Sītàipàniǔkè
+characters 斯泰帕纽克[---紐-]
+serial-number CedPane84722
+definition Stepaniuk
+*** 
+pinyin Sūshíkē
+characters 苏什科[蘇--]
+serial-number CedPane84723
+definition Sushko
+*** 
+pinyin wàisòng
+characters 外送
+serial-number CedPane84724
+definition takeaway delivery (Uber Eats etc)
+*** 
+pinyin wèibīngduì
+characters 卫兵队[衛-隊]
+serial-number CedPane84725
+definition guards
+*** 
+pinyin wèi dàjiā zhuóxiǎng
+characters 为大家着想[為--著-]
+serial-number CedPane84726
+definition consider everyone
+*** 
+pinyin xīnjiànchéng
+characters 新建成
+serial-number CedPane84727
+definition newly-constructed (building)
+*** 
+pinyin Xīntírén
+characters 辛提人
+serial-number CedPane84728
+definition Sinti (people)
+*** 
+pinyin xuéxí jìhuà
+characters 学习计划[學習計劃]
+serial-number CedPane84729
+definition study plan
+remark heading 1only
+*** 
+pinyin Yīláixiū
+characters 伊莱休[-萊-]
+serial-number CedPane84730
+definition Elihú
+*** 
+pinyin Yīnièshā
+characters 伊涅莎
+serial-number CedPane84731
+definition Inessa
+*** 
+pinyin Yīnsībèi'ěrgé
+characters 因斯贝尔格[--貝爾-]
+serial-number CedPane84732
+definition Insberg
+*** 
+pinyin yī zhōu wǔ tiān
+characters 一周五天
+serial-number CedPane84733
+definition five days a week
+*** 
+pinyin Zhāláiwǎ
+characters 扎莱瓦[-萊-]
+serial-number CedPane84734
+definition Zalewa

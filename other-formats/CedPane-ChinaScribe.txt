@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2026-07-15
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2026-08-20
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -2087,6 +2087,7 @@
 埃弗格林 埃弗格林 [Ai1 fu2 ge2 lin2] /Evergreen/{}/
 埃弗哈德 埃弗哈德 [Ai1 fu2 ha1 de2] /Everhard/{}/
 埃弗哈特 埃弗哈特 [Ai1 fu2 ha1 te4] /Everhardt/Everhart/{}/
+埃弗拉恩 埃弗拉恩 [Ai1 fu2 la1 en1] /Efraín/{}/
 埃弗拉德 埃弗拉德 [Ai1 fu2 la1 de2] /Everard/{}/
 埃弗拉姆 埃弗拉姆 [Ai1 fu2 la1 mu3] /Efraim/{}/
 埃弗拉伊姆 埃弗拉伊姆 [Ai1 fu2 la1 yi1 mu3] /Ephraim (modern)/{}/
@@ -3654,7 +3655,7 @@
 安順 安顺 [An1 shun4] /Anshun (in Guizhou)/{}/
 安順市 安顺市 [An1 shun4_Shi4] /Anshun (in Guizhou)/{}/
 安順人 安顺人 [An1 shun4 ren2] /person of Anshun (in Guizhou)/Anshun, person of (in Guizhou)/{}/
-安斯 安斯 [An1 si1] /Aines/{}/
+安斯 安斯 [An1 si1] /Aines/Ans/{}/
 安斯蒂斯 安斯蒂斯 [An1 si1 di4 si1] /Anstice/Anstiss/{}/
 安斯加 安斯加 [An1 si1 jia1] /Ansgar/{}/
 安斯利 安斯利 [An1 si1 li4] /Ainsley/Ainslie/Ansley/{}/
@@ -7512,6 +7513,7 @@
 賓德斯波爾 宾德斯波尔 [Bin1 de2 si1 bo1 er3] /Bindesbøll/{}/
 賓德瓦爾德 宾德瓦尔德 [Bin1 de2 wa3 er3 de2] /Bindewald/{}/
 賓杜 宾杜 [Bin1 du4] /Bindu/{}/
+賓杜拉 宾杜拉 [Bin1 du4 la1] /Bindula/Bindura/{}/
 賓福德 宾福德 [Bin1 fu2 de2] /Binford/{}/
 賓格爾 宾格尔 [Bin1 ge2 er3] /Buenger/{}/
 賓格勒 宾格勒 [Bin1 ge2 le4] /Bingler/{}/
@@ -8578,7 +8580,7 @@
 布埃亞 布埃亚 [Bu4 ai1 ya4] /Buea/{}/
 布奧拉姆維尼 布奥拉姆维尼 [Bu4 ao4 la1 mu3 wei2 ni2] /Buolamwini/{}/
 布恩 布恩 [Bu4 en1] /Boone/Bourn/Bourne/{}/
-布爾 布尔 [Bu4 er3] /Bugher/Bull/{}/
+布爾 布尔 [Bu4 er3] /Bugher/Bull/Bour/{}/
 布爾巴 布尔巴 [Bu4 er3 ba1] /Burba/{}/
 布爾德特 布尔德特 [Bu4 er3 de2 te4] /Bourdette/Burdette/{}/
 布爾杜塞爾 布尔杜塞尔 [Bu4 er3 du4 sai4 er3] /Burdsall/{}/
@@ -8721,6 +8723,7 @@
 布拉傑 布拉杰 [Bu4 la1 jie2] /Brager/{}/
 布拉傑文 布拉杰文 [Bu4 la1 jie2 wen2] /Braj (written language)/{}/
 布拉傑語 布拉杰语 [Bu4 la1 jie2 yu3] /Braj (language)/{}/
+布拉克 布拉克 [Bu4 la1 ke4] /Burak/{}/
 布拉克曼 布拉克曼 [Bu4 la1 ke4 man4] /Brackman/{}/
 布拉克納 布拉克纳 [Bu4 la1 ke4 na4] /Brackner/{}/
 布拉克斯頓 布拉克斯顿 [Bu4 la1 ke4 si1 dun4] /Braxton/{}/
@@ -8881,7 +8884,6 @@
 布賴滕費爾德 布赖滕费尔德 [Bu4 lai4 teng2 fei4 er3 de2] /Breitenfeld/{}/
 布賴通 布赖通 [Bu4 lai4 tong1] /Breitung/{}/
 布賴因德爾 布赖因德尔 [Bu4 lai4 yin1 de2 er3] /Breindel/{}/
-布拉克 布拉克 [Bu4 la5 ke4] /Burak/{}/
 布拉馬普特拉河 布拉马普特拉河 [Bu4 la5 ma3 pu3 te4 la1 he2] /Brahmaputra (river)/{}/
 布蘭 布兰 [Bu4 lan2] /Brayne/{}/
 布蘭詩歌 布兰诗歌 [Bu4 lan2_Shi1 ge1] /Carmina Burana/Burana, Carmina/{}/
@@ -14931,6 +14933,7 @@
 范寨鄉 范寨乡 [Fan4 zhai4_Xiang1] /Fanzhai Township/Township, Fanzhai/{}/
 范鎮 范镇 [Fan4 zhen4] /Fan (town)/{}/
 范莊鎮 范庄镇 [Fan4 zhuang1 zhen4] /Fanzhuang (town)/{}/
+方桃子 方桃子 [Fang1_Tao2 zi5] /Fang Taozi (virtual actress)/Taozi, Fang (virtual actress)/{}/
 方太太 方太太 [Fang1_tai4 tai5] /Mrs Fang/Fang, Mrs/{}/
 方先生 方先生 [Fang1_xian1 sheng5] /Mr Fang/Fang, Mr/{}/
 方城縣 方城县 [Fang1 cheng2_Xian4] /Fangcheng (county, in Henan)/{}/
@@ -16792,6 +16795,7 @@
 該亞法 该亚法 [Gai1 ya4 fa3] /Caiaphas/{}/
 該隱 该隐 [Gai1 yin3] /Cain/{}/
 該猶 该犹 [Gai1 you2] /Gaius/{}/
+改革黨 改革党 [Gai3 ge2_Dang3] /Reform Party/{}/
 改則縣 改则县 [Gai3 ze2_Xian4] /Gaize County/County, Gaize/{}/
 蓋恩 盖恩 [Gai4 en1] /Guion/Guynn/{}/
 蓋恩斯 盖恩斯 [Gai4 en1 si1] /Gaines/{}/
@@ -17455,6 +17459,7 @@
 戈弗雷多 戈弗雷多 [Ge1 fu2 lei2 duo1] /Goffredo/{}/
 戈福思 戈福思 [Ge1 fu2 si1] /Goforth (name)/{}/
 戈戈達拉語 戈戈达拉语 [Ge1 ge1 da2 la1 yu3] /Gogodala (language)/{}/
+戈戈夫 戈戈夫 [Ge1 ge1 fu1] /Gogov/{}/
 歌革 歌革 [Ge1 ge2] /Gog/{}/
 戈基爾迪茲 戈基尔迪兹 [Ge1 ji1 er3 di2 zi1] /Gökyıldız/{}/
 哥吉拉 哥吉拉 [Ge1 ji2 la1] /Godzilla (1954)/Gojira/Gojira, Godzilla/{}/
@@ -17628,7 +17633,7 @@
 格奧爾格 格奥尔格 [Ge2 ao4 er3 ge2] /Georg/{}/
 格奧爾格斯 格奥尔格斯 [Ge2 ao4 er3 ge2 si1] /Georgs/{}/
 格奧爾根貝格山 格奥尔根贝格山 [Ge2 ao4 er3 gen1 bei4 ge2 shan1] /Georgenberg (mountain)/{}/
-格奧爾基 格奥尔基 [Ge2 ao4 er3 ji1] /Gheorghe/{}/
+格奧爾基 格奥尔基 [Ge2 ao4 er3 ji1] /Gheorghe/Georgi/{}/
 格奧爾吉 格奥尔吉 [Ge2 ao4 er3 ji2] /Georgiy/{}/
 格恩哈特 格恩哈特 [Ge2 en1 ha1 te4] /Gernhardt/{}/
 格恩西 格恩西 [Ge2 en1 xi1] /Gurnsey/{}/
@@ -19418,6 +19423,7 @@
 哈勃太空望遠鏡 哈勃太空望远镜 [Ha1 bo2_Tai4 kong1_Wang4 yuan3 jing4] /Hubble Space Telescope/Space Telescope, Hubble/{}/
 哈博恩 哈博恩 [Ha1 bo2 en1] /Harborne/Harborn/{}/
 哈伯爾 哈伯尔 [Ha1 bo2 er3] /Hubbell/{}/
+哈博爾 哈博尔 [Ha1 bo2 er3] /Habor (modern)/{}/
 哈伯德 哈伯德 [Ha1 bo2 de2] /Hubbard/{}/
 哈博德 哈博德 [Ha1 bo2 de2] /Harbord/{}/
 哈博羅內 哈博罗内 [Ha1 bo2 luo2 nei4] /Gaborone/{}/
@@ -20392,8 +20398,8 @@
 含族人 含族人 [Han2 zu2 ren2] /Hamites/{}/
 漢典 汉典 [Han4_Dian3] /zdic (website)/{}/
 漢語言 汉语言 [Han4_yu3 yan2] /Chinese language (as school subject etc)/language, Chinese (as school subject etc)/{}/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4-Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2026-07-15/{}/
-漢英公领 汉英公领 [Han4-Ying1_Gong1-Ling3] /CedPane v2026-07-15/{}/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4-Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2026-08-20/{}/
+漢英公领 汉英公领 [Han4-Ying1_Gong1-Ling3] /CedPane v2026-08-20/{}/
 漢英詞典 汉英词典 [Han4-Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/{}/
 漢班托塔 汉班托塔 [Han4 ban1 tuo1 ta3] /Hambantota/{}/
 漢堡市 汉堡市 [Han4 bao3_Shi4] /city of Hamburg/Hamburg, city of/{}/
@@ -22839,6 +22845,7 @@
 霍雷修斯 霍雷修斯 [Huo4 lei2 xiu1 si1] /Horatius/{}/
 霍里 霍里 [Huo4 li3] /Horry/{}/
 霍里根 霍里根 [Huo4 li3 gen1] /Horrigan/{}/
+霍里科夫 霍里科夫 [Huo4 li3 ke1 fu1] /Khorikov/{}/
 霍里奇 霍里奇 [Huo4 li3 qi2] /Horwich/{}/
 霍利 霍利 [Huo4 li4] /Holly (name)/{}/
 霍莉 霍莉 [Huo4 li4] /Holly (name)/{}/
@@ -23077,6 +23084,7 @@
 基大利 基大利 [Ji1 da4 li4] /Gedaliah/{}/
 基德 基德 [Ji1 de2] /Geder/{}/
 基德爾 基德尔 [Ji1 de2 er3] /Kidder/{}/
+基德博 基德博 [Ji1 de2 bo2] /Quibdó/{}/
 基德里 基德里 [Ji1 de2 li3] /Kidri/{}/
 基德曼 基德曼 [Ji1 de2 man4] /Kidman/{}/
 基德明斯特 基德明斯特 [Ji1 de2 ming2 si1 te4] /Kidderminster/{}/
@@ -23596,6 +23604,7 @@
 吉利區 吉利区 [Ji2 li4_Qu1] /Jili District/District, Jili/{}/
 吉利鄉 吉利乡 [Ji2 li4_Xiang1] /Jili Township/Township, Jili/{}/
 吉莉安 吉莉安 [Ji2 li4 an1] /Jillian/{}/
+吉利恩 吉利恩 [Ji2 li4 en1] /Gillian (male)/{}/
 吉莉恩 吉莉恩 [Ji2 li4 en1] /Gillian/{}/
 吉利夫雷 吉利夫雷 [Ji2 li4 fu1 lei2] /Gillivray/{}/
 吉利根 吉利根 [Ji2 li4 gen1] /Gilligan/{}/
@@ -26169,6 +26178,7 @@
 卡庫塔 卡库塔 [Ka3 ku4 ta3] /Kakuta/{}/
 卡拉 卡拉 [Ka3 la1] /Cara/Kara/{}/
 卡拉爾 卡拉尔 [Ka3 la1 er3] /Callard/{}/
+卡拉爾達 卡拉尔达 [Ka3 la1 er3 da2] /Karalda/{}/
 卡拉巴赫 卡拉巴赫 [Ka3 la1 ba1 he4] /Karabakh/{}/
 卡拉巴什 卡拉巴什 [Ka3 la1 ba1 shi2] /Karabash/{}/
 卡拉布里亞 卡拉布里亚 [Ka3 la1 bu4 li3 ya4] /Calabria/{}/
@@ -26818,6 +26828,7 @@
 卡斯韋爾 卡斯韦尔 [Ka3 si1 wei2 er3] /Carswell/Caswell/{}/
 卡松 卡松 [Ka3 song1] /Cassone/{}/
 卡松戈 卡松戈 [Ka3 song1 ge1] /Kasongo/{}/
+卡松古 卡松古 [Ka3 song1 gu3] /Kasungu/{}/
 卡蘇姆肯特 卡苏姆肯特 [Ka3 su1 mu3 ken3 te4] /Kasumkent/{}/
 卡索 卡索 [Ka3 suo3] /Calso/Caso/{}/
 卡索內斯 卡索内斯 [Ka3 suo3 nei4 si1] /Cazones/{}/
@@ -28654,6 +28665,7 @@
 克勒 克勒 [Ke4 le4] /Kohler/{}/
 克勒茨瓦爾德 克勒茨瓦尔德 [Ke4 le4 ci2 wa3 er3 de2] /Creutzwald/{}/
 克勒格爾 克勒格尔 [Ke4 le4 ge2 er3] /Kroeger/{}/
+克勒克納 克勒克纳 [Ke4 le4 ke4 na4] /Klöckner/{}/
 克勒拉 克勒拉 [Ke4 le4 la1] /Kerala/{}/
 克勒曼 克勒曼 [Ke4 le4 man4] /Keleman/{}/
 克勒納 克勒纳 [Ke4 le4 na4] /Kroener/{}/
@@ -30300,6 +30312,7 @@
 拉沙耶 拉沙耶 [La1 sha1 ye1] /Lashaye/{}/
 拉山德 拉山德 [La1 shan1 de2] /Lysander/{}/
 拉舍德 拉舍德 [La1 she4 de2] /Rashad/{}/
+拉舍夫斯基 拉舍夫斯基 [La1 she4 fu1 si1 ji1] /Rashevskyi/{}/
 拉什布魯克 拉什布鲁克 [La1 shi2 bu4 lu3 ke4] /Lashbrook/{}/
 拉什達 拉什达 [La1 shi2 da2] /Rashida/{}/
 拉什福德 拉什福德 [La1 shi2 fu2 de2] /Rushford/{}/
@@ -31494,6 +31507,7 @@
 勒登 勒登 [Lei1 deng1] /Ludden/{}/
 勒迪 勒迪 [Lei1 di2] /Loedi/{}/
 勒迪克 勒迪克 [Lei1 di2 ke4] /Leduc/{}/
+勒加爾 勒加尔 [Lei1 jia1 er3] /Le Gall/Gall, Le/{}/
 勒克萊爾 勒克莱尔 [Lei1 ke4 lai2 er3] /Leclear/{}/
 勒拉 勒拉 [Lei1 la1] /Lela/{}/
 勒拉赫 勒拉赫 [Lei1 la1 he4] /Lörrach/{}/
@@ -32595,6 +32609,7 @@
 利特溫 利特温 [Li4 te4 wen1] /Litwin/{}/
 利提瑪 利提玛 [Li4 ti2 ma3] /Rithmah/{}/
 利通區 利通区 [Li4 tong1_Qu1] /Litong District/District, Litong/{}/
+利托夫科 利托夫科 [Li4 tuo1 fu1 ke1] /Litovko/{}/
 麗娃 丽娃 [Li4 wa2] /Ritva/River (name)/{}/
 利瓦格 利瓦格 [Li4 wa3 ge2] /Liwag/{}/
 利瓦尼 利瓦尼 [Li4 wa3 ni2] /Līvāni/{}/
@@ -33986,6 +34001,7 @@
 盧切斯 卢切斯 [Lu2 qie4 si1] /Lucchese/{}/
 盧切塔 卢切塔 [Lu2 qie4 ta3] /Luchetta/{}/
 盧切西 卢切西 [Lu2 qie4 xi1] /Lucchesi/{}/
+盧琴扎 卢琴扎 [Lu2 qin2 zha1] /Luchenza/{}/
 盧日基 卢日基 [Lu2 ri4 ji1] /Luzhki/{}/
 盧日尼采河 卢日尼采河 [Lu2 ri4 ni2 cai3 he2] /Lužnice (river)/{}/
 盧薩卡 卢萨卡 [Lu2 sa4 ka3] /Lusaka/{}/
@@ -35851,6 +35867,7 @@
 瑪迦人 玛迦人 [Ma3 jia1 ren2] /Maacathite/{}/
 馬加什 马加什 [Ma3 jia1 shi2] /Mátyás/{}/
 瑪迦斯 玛迦斯 [Ma3 jia1 si1] /Makaz/{}/
+馬加瓦 马加瓦 [Ma3 jia1 wa3] /Magawa/{}/
 馬家莊鄉 马家庄乡 [Ma3 jia1 zhuang1_Xiang1] /Majiazhuang Township/Township, Majiazhuang/{}/
 馬賈拉蒂 马贾拉蒂 [Ma3 jia3 la1 di4] /Majalahti/{}/
 馬甲鎮 马甲镇 [Ma3 jia3 zhen4] /Majia (town)/{}/
@@ -36335,6 +36352,7 @@
 馬尼爾 马尼尔 [Ma3 ni2 er3] /Manire/{}/
 馬尼卡 马尼卡 [Ma3 ni2 ka3] /Manica/{}/
 馬尼利 马尼利 [Ma3 ni2 li4] /Manili/{}/
+馬尼薩萊斯 马尼萨莱斯 [Ma3 ni2 sa4 lai2 si1] /Manizales/{}/
 馬尼斯 马尼斯 [Ma3 ni2 si1] /Manis/{}/
 馬尼托巴省 马尼托巴省 [Ma3 ni2 tuo1 ba1 sheng3] /Manitoba (place)/{}/
 馬尼希基 马尼希基 [Ma3 ni2 xi1 ji1] /Manihiki/{}/
@@ -37403,6 +37421,7 @@
 曼弗雷德 曼弗雷德 [Man4 fu2 lei2 de2] /Manfred/{}/
 曼弗雷迪 曼弗雷迪 [Man4 fu2 lei2 di2] /Manfredi/{}/
 曼戈馬 曼戈马 [Man4 ge1 ma3] /Mangoma/{}/
+曼戈切 曼戈切 [Man4 ge1 qie4] /Mangochi/{}/
 曼戈切縣 曼戈切县 [Man4 ge1 qie4 xian4] /Mangochi District (in Malawi)/District, Mangochi (in Malawi)/{}/
 曼格 曼格 [Man4 ge2] /Manger (name)/{}/
 曼格利西 曼格利西 [Man4 ge2 li4 xi1] /Manglisi/{}/
@@ -38225,6 +38244,7 @@
 蒙特羅 蒙特罗 [Meng2 te4 luo2] /Montero/{}/
 蒙特洛 蒙特洛 [Meng2 te4 luo4] /Montelo/{}/
 蒙特內哥羅 蒙特内哥罗 [Meng2 te4 nei4 ge1 luo2] /Montenegro (alternate translation)/{}/
+蒙特內格羅 蒙特内格罗 [Meng2 te4 nei4 ge2 luo2] /Montenegro/{}/
 蒙特普拉塔 蒙特普拉塔 [Meng2 te4 pu3 la1 ta3] /Monte Plata/Plata, Monte/{}/
 蒙特塞拉特 蒙特塞拉特 [Meng2 te4 sai1 la1 te4] /Montserrat/{}/
 蒙特維多 蒙特维多 [Meng2 te4 wei2 duo1] /Montevideo (alternate translation)/{}/
@@ -38488,6 +38508,7 @@
 米高 米高 [Mi3 gao1] /Michael (modern name, alternate translation)/{}/
 米高揚 米高扬 [Mi3 gao1 yang2] /Mikoyan/{}/
 米哥拿 米哥拿 [Mi3 ge1 na2] /Meconah/{}/
+米戈維 米戈维 [Mi3 ge1 wei2] /Migowi/Migovi/{}/
 米格爾 米格尔 [Mi3 ge2 er3] /Miguel/{}/
 米格德爾 米格德尔 [Mi3 ge2 de2 er3] /Migdal/{}/
 米格利娜 米格利娜 [Mi3 ge2 li4 na4] /Miguelina/{}/
@@ -39678,6 +39699,7 @@
 姆本格 姆本格 [Mu3 ben3 ge2] /Mbengue/{}/
 姆比尼 姆比尼 [Mu3 bi3 ni2] /Mbini/{}/
 姆比亞 姆比亚 [Mu3 bi3 ya4] /Mbyá/{}/
+姆波內拉 姆波内拉 [Mu3 bo1 nei4 la1] /Mponela/{}/
 姆博格尼 姆博格尼 [Mu3 bo2 ge2 ni2] /Mbongeni/{}/
 姆博齊 姆博齐 [Mu3 bo2 qi2] /Mbozi/{}/
 姆布吉馬伊 姆布吉马伊 [Mu3 bu4 ji2 ma3 yi1] /Mbuji-Mayi/{}/
@@ -39706,10 +39728,12 @@
 姆南加古瓦 姆南加古瓦 [Mu3 nan2 jia1 gu3 wa3] /Mnangagwa/{}/
 母牛橋 母牛桥 [Mu3 niu2 qiao2] /Cowbridge/{}/
 姆皮卡 姆皮卡 [Mu3 pi2 ka3] /Mpika/{}/
+姆普隆古 姆普隆古 [Mu3 pu3 long2 gu3] /Mpulungu/{}/
 姆普穆扎 姆普穆扎 [Mu3 pu3 mu4 zha1] /Mpumuza/{}/
 姆齊列 姆齐列 [Mu3 qi2 lie4] /Mtsire/{}/
 姆松杜茲 姆松杜兹 [Mu3 song1 du4 zi1] /Msunduzi/{}/
 姆瓦納瓦薩 姆瓦纳瓦萨 [Mu3 wa3 na4 wa3 sa4] /Mwanawasa/{}/
+姆瓦瓦 姆瓦瓦 [Mu3 wa3 wa3] /Mwawa/Mława/{}/
 姆萬扎 姆万扎 [Mu3 wan4 zha1] /Mwanza/{}/
 姆旺戈 姆旺戈 [Mu3 wang4 ge1] /Mwango/{}/
 姆維尼倫加 姆维尼伦加 [Mu3 wei2 ni2 lun2 jia1] /Mwinilunga/{}/
@@ -40280,6 +40304,7 @@
 納扎羅夫 纳扎罗夫 [Na4 zha1 luo2 fu1] /Nazaroff/{}/
 納扎羅沃 纳扎罗沃 [Na4 zha1 luo2 wo4] /Nazarovskiy/{}/
 納扎姆 纳扎姆 [Na4 zha1 mu3] /Nazam/{}/
+納札羅夫 纳札罗夫 [Na4 zha2 luo2 fu1] /Nazarov/{}/
 納直鄉 纳直乡 [Na4 zhi2_Xiang1] /Nazhi Township/Township, Nazhi/{}/
 納茲利亞卡 纳兹利亚卡 [Na4 zi1 li4 ya4 ka3] /Nazlıaka/{}/
 納祖爾 纳祖尔 [Na4 zu3 er3] /Nador/{}/
@@ -43537,6 +43562,7 @@
 奇布查文 奇布查文 [Qi2 bu4 cha2 wen2] /Chibcha (written language)/{}/
 奇布查語 奇布查语 [Qi2 bu4 cha2 yu3] /Chibcha (language)/{}/
 齊布利夫 齐布利夫 [Qi2 bu4 li4 fu1] /Tsybuliv/{}/
+奇布耶 奇布耶 [Qi2 bu4 ye1] /Chibuye/{}/
 蘄春縣 蕲春县 [Qi2 chun1_Xian4] /Qichun (county, in Hubei)/{}/
 綦村鎮 綦村镇 [Qi2 cun1 zhen4] /Qicun (town)/{}/
 奇德克 奇德克 [Qi2 de2 ke4] /Chideock/{}/
@@ -44178,6 +44204,7 @@
 切爾西花卉展 切尔西花卉展 [Qie4 er3 xi1_Hua1 hui4_Zhan3] /Chelsea Flower Show/Flower Show, Chelsea/{}/
 切爾西面包 切尔西面包 [Qie4 er3 xi1_mian4 bao1] /Chelsea bun/{}/
 切博克薩雷 切博克萨雷 [Qie4 bo2 ke4 sa4 lei2] /Cheboksary/{}/
+切布拉克 切布拉克 [Qie4 bu4 la1 ke4] /Chebrak/{}/
 切達乾酪 切达干酪 [Qie4 da2_gan1 lao4] /Cheddar cheese/cheese, Cheddar/{}/
 切迪亞 切迪亚 [Qie4 di2 ya4] /Ceddia/{}/
 切夫斯 切夫斯 [Qie4 fu1 si1] /Cheves/{}/
@@ -45307,6 +45334,7 @@
 薩菲亞 萨菲亚 [Sa4 fei1 ya4] /Safia/{}/
 薩分 萨分 [Sa4 fen1] /Zephon/{}/
 薩芬娜 萨芬娜 [Sa4 fen1 na4] /Savina/{}/
+薩夫金娜 萨夫金娜 [Sa4 fu1 jin1 na4] /Savkina/{}/
 薩夫拉 萨夫拉 [Sa4 fu1 la1] /Zafra/{}/
 薩夫蘭 萨夫兰 [Sa4 fu1 lan2] /Safran/{}/
 薩夫萬 萨夫万 [Sa4 fu1 wan4] /Safwan/{}/
@@ -45526,6 +45554,7 @@
 薩默頓 萨默顿 [Sa4 mo4 dun4] /Somerton/{}/
 薩莫格盧 萨莫格卢 [Sa4 mo4 ge2 lu2] /Zaimoğlu/{}/
 薩莫傑德 萨莫杰德 [Sa4 mo4 jie2 de2] /Samoded/{}/
+薩莫科夫 萨莫科夫 [Sa4 mo4 ke1 fu1] /Samokov/{}/
 薩莫庫佳耶夫 萨莫库佳耶夫 [Sa4 mo4 ku4 jia1 ye1 fu1] /Samokutyayev/{}/
 薩莫拉 萨莫拉 [Sa4 mo4 la1] /Zamora/{}/
 薩默蘭 萨默兰 [Sa4 mo4 lan2] /Summerland/{}/
@@ -46421,6 +46450,7 @@
 瑟蒙德 瑟蒙德 [Se4 meng3 de2] /Thurmond/{}/
 塞米伊 塞米伊 [Se4 mi3 yi1] /Semey/{}/
 塞莫 塞莫 [Se4 mo4] /Semo/{}/
+塞姆汀 塞姆汀 [Se4 mu3 ting1] /Semtex/{}/
 塞納基 塞纳基 [Se4 na4 ji1] /Senaki/{}/
 塞南 塞南 [Se4 nan2] /Senan/{}/
 塞內斯 塞内斯 [Se4 nei4 si1] /Senese/{}/
@@ -46627,6 +46657,7 @@
 沙琅鎮 沙琅镇 [Sha1 lang2 zhen4] /Shalang (town)/{}/
 莎朗 莎朗 [Sha1 lang3] /Sharon (modern)/{}/
 沙朗通 沙朗通 [Sha1 lang3 tong1] /Charenton/{}/
+沙勒羅瓦 沙勒罗瓦 [Sha1 le4 luo2 wa3] /Charleroi/{}/
 沙勒邁恩 沙勒迈恩 [Sha1 le4 mai4 en1] /Charlemagne/{}/
 沙雷波沃 沙雷波沃 [Sha1 lei2 bo1 wo4] /Sharypovo/{}/
 沙塄河鄉 沙塄河乡 [Sha1 leng2 he2_Xiang1] /Shalenghe Township/Township, Shalenghe/{}/
@@ -48182,6 +48213,7 @@
 舒馬利 舒马利 [Shu1 ma3 li4] /Shomali/{}/
 舒曼 舒曼 [Shu1 man4] /Schumann/{}/
 舒曼諧振 舒曼谐振 [Shu1 man4_xie2 zhen4] /Schumann resonances/resonances, Schumann/{}/
+舒門鎮 舒门镇 [Shu1 men2 zhen4] /Shumen (town in Bulgaria)/{}/
 舒默 舒默 [Shu1 mo4] /Schumer/{}/
 舒姆 舒姆 [Shu1 mu3] /Schumm/{}/
 書尼 书尼 [Shu1 ni2] /Shuni/{}/
@@ -49128,6 +49160,7 @@
 斯泰納爾 斯泰纳尔 [Si1 tai4 na4 er3] /Steinar/{}/
 斯泰納姆 斯泰纳姆 [Si1 tai4 na4 mu3] /Steinem/{}/
 斯泰尼茨 斯泰尼茨 [Si1 tai4 ni2 ci2] /Steinitz/{}/
+斯泰帕紐克 斯泰帕纽克 [Si1 tai4 pa4 niu3 ke4] /Stepaniuk/{}/
 斯泰斯 斯泰斯 [Si1 tai4 si1] /Stace/{}/
 斯泰特納 斯泰特纳 [Si1 tai4 te4 na4] /Stettner/{}/
 斯泰西 斯泰西 [Si1 tai4 xi1] /Stacy/{}/
@@ -49923,6 +49956,7 @@
 蘇姍娜 苏姗娜 [Su1 shan1 na4] /Susanna/{}/
 蘇珊娜 苏珊娜 [Su1 shan1 na4] /Susana/Susanna/{}/
 蘇珊妮 苏珊妮 [Su1 shan1 ni1] /Suzanne/{}/
+蘇什科 苏什科 [Su1 shi2 ke1] /Sushko/{}/
 蘇世民 苏世民 [Su1 shi4 min2] /Schwarzman/{}/
 蘇斯 苏斯 [Su1 si1] /Seuss/{}/
 蘇斯基 苏斯基 [Su1 si1 ji1] /Suskie/{}/
@@ -53922,6 +53956,7 @@
 維廉 维廉 [Wei2 lian2] /Viliame/{}/
 維連 维连 [Wei2 lian2] /Vilen/{}/
 維廖內 维廖内 [Wei2 liao4 nei4] /Viglione/{}/
+韋列夫 韦列夫 [Wei2 lie4 fu1] /Velev/{}/
 韋林頓 韦林顿 [Wei2 lin2 dun4] /Wellington/{}/
 維琳娜 维琳娜 [Wei2 lin2 na4] /Velina/{}/
 韋林斯 韦林斯 [Wei2 lin2 si1] /Wellings/{}/
@@ -56410,6 +56445,7 @@
 希斯蒂 希斯蒂 [Xi1 si1 di4] /Heasty/{}/
 希斯基 希斯基 [Xi1 si1 ji1] /Hiskey/{}/
 希斯金 希斯金 [Xi1 si1 jin1] /Shishkin/{}/
+希斯金娜 希斯金娜 [Xi1 si1 jin1 na4] /Shishkina/{}/
 西斯科 西斯科 [Xi1 si1 ke1] /Siscoe/{}/
 希斯科克 希斯科克 [Xi1 si1 ke1 ke4] /Hiscock/{}/
 希斯科克斯 希斯科克斯 [Xi1 si1 ke1 ke4 si1] /Hiscox/{}/
@@ -57840,6 +57876,7 @@
 新塘鎮 新塘镇 [Xin1 tang2 zhen4] /Xintang (town)/{}/
 新棠鎮 新棠镇 [Xin1 tang2 zhen4] /Xintang (town)/{}/
 辛提 辛提 [Xin1 ti2] /Sinti/{}/
+辛提人 辛提人 [Xin1 ti2 ren2] /Sinti (people)/{}/
 新田縣 新田县 [Xin1 tian2_Xian4] /Xintian (county, in Hunan)/{}/
 新田鄉 新田乡 [Xin1 tian2_Xiang1] /Xintian Township/Township, Xintian/{}/
 新田鎮 新田镇 [Xin1 tian2 zhen4] /Xintian (town)/{}/
@@ -60013,6 +60050,7 @@
 伊肯伯里 伊肯伯里 [Yi1 ken3 bo2 li3] /Ikenberry/{}/
 伊拉 伊拉 [Yi1 la1] /Ira/{}/
 伊拉爾 伊拉尔 [Yi1 la1 er3] /Ilharre/{}/
+伊拉達 伊拉达 [Yi1 la1 da2] /Irada/{}/
 伊拉湖鄉 伊拉湖乡 [Yi1 la1 hu2_Xiang1] /Yilahu Township/Township, Yilahu/{}/
 伊拉克利 伊拉克利 [Yi1 la1 ke4 li4] /Irakli/{}/
 伊拉克利翁 伊拉克利翁 [Yi1 la1 ke4 li4 weng1] /Iráklion/{}/
@@ -60043,6 +60081,7 @@
 伊萊尼亞 伊莱尼亚 [Yi1 lai2 ni2 ya4] /Ilenia/{}/
 伊萊沙 伊莱沙 [Yi1 lai2 sha1] /Ilesha/{}/
 伊萊莎 伊莱莎 [Yi1 lai2 sha1] /Eliza/{}/
+伊萊休 伊莱休 [Yi1 lai2 xiu1] /Elihú/{}/
 伊萊修 伊莱修 [Yi1 lai2 xiu1] /Elihu/{}/
 伊萊亞森 伊莱亚森 [Yi1 lai2 ya4 sen1] /Eliason/Eliassen/{}/
 伊萊亞斯 伊莱亚斯 [Yi1 lai2 ya4 si1] /Elias/{}/
@@ -60216,6 +60255,7 @@
 伊尼戈 伊尼戈 [Yi1 ni2 ge1] /Inigo/{}/
 伊尼亞齊奧 伊尼亚齐奥 [Yi1 ni2 ya4 qi2 ao4] /Ignazio/{}/
 伊尼揚巴內 伊尼扬巴内 [Yi1 ni2 yang2 ba1 nei4] /Inhambane/{}/
+伊涅莎 伊涅莎 [Yi1 nie4 sha1] /Inessa/{}/
 伊寧 伊宁 [Yi1 ning2] /Yining (in Xinjiang)/{}/
 伊寧市 伊宁市 [Yi1 ning2_Shi4] /Yining (in Xinjiang)/{}/
 伊寧人 伊宁人 [Yi1 ning2 ren2] /person of Yining (in Xinjiang)/Yining, person of (in Xinjiang)/{}/
@@ -60836,6 +60876,7 @@
 因喬紹佩 因乔绍佩 [Yin1 qiao2 shao4 pei4] /Inchauspé/{}/
 因薩 因萨 [Yin1 sa4] /Inza/{}/
 因斯 因斯 [Yin1 si1] /Ince/{}/
+因斯貝爾格 因斯贝尔格 [Yin1 si1 bei4 er3 ge2] /Insberg/{}/
 因斯布魯克 因斯布鲁克 [Yin1 si1 bu4 lu3 ke4] /Innsbruck/{}/
 因塔 因塔 [Yin1 ta3] /Inta/{}/
 因特網 因特网 [Yin1 te4 wang3] /Internet/{}/
@@ -62405,6 +62446,7 @@
 扎拉里 扎拉里 [Zha1 la1 li3] /Zalari/{}/
 查拉圖斯特拉 查拉图斯特拉 [Zha1 la1 tu2 si1 te4 la1] /Zarathustra (Nietzsche character)/{}/
 扎萊夫斯基 扎莱夫斯基 [Zha1 lai2 fu1 si1 ji1] /Zalewski/{}/
+扎萊瓦 扎莱瓦 [Zha1 lai2 wa3] /Zalewa/{}/
 扎賚諾爾區 扎赉诺尔区 [Zha1 lai4 nuo4 er3_Qu1] /Zhalainuo'er District/District, Zhalainuo'er/{}/
 扎賚特旗 扎赉特旗 [Zha1 lai4 te4_Qi2] /Jalaid (banner, in Inner Mongolia)/{}/
 扎蘭屯 扎兰屯 [Zha1 lan2 tun2] /Zhalantun (in Inner Mongolia)/{}/
@@ -64066,6 +64108,7 @@
 艾滋病 艾滋病 [ai4 zi1 bing4] /AIDS/{}/
 鞍狀關節 鞍状关节 [an1_zhuang4_guan1 jie2] /saddle joint (of thumb)/joint, saddle (of thumb)/{}/
 安安樂樂 安安乐乐 [an1 an1-le4 le4] /pleasantness (of time period; peace and happiness)/{}/
+安危檢查 安危检查 [an1-wei1_jian3 cha2] /welfare check (by police)/check, welfare (by police)/{}/
 安保系統 安保系统 [an1 bao3_xi4 tong3] /security system/system, security/{}/
 鞍袋 鞍袋 [an1 dai4] /saddlebag/{}/
 安定太平 安定太平 [an1 ding4-tai4 ping2] /sitting still and having no disturbance/still and having no disturbance, sitting/{}/
@@ -64083,6 +64126,7 @@
 安全窗戶貼膜 安全窗户贴膜 [an1 quan2_chuang1 hu5_tie1 mo2] /security window film/window film, security/{}/
 安全措施 安全措施 [an1 quan2_cuo4 shi1] /safety precautions/precautions, safety/{}/
 安全防範系統 安全防范系统 [an1 quan2_fang2 fan4_xi4 tong3] /security systems/systems, security/{}/
+安全訪查 安全访查 [an1 quan2_fang3 cha2] /welfare check (by police)/check, welfare (by police)/{}/
 安全風險 安全风险 [an1 quan2_feng1 xian3] /security risk/safety hazard/risk, security/hazard, safety/{}/
 安全管理 安全管理 [an1 quan2_guan3 li3] /safety management/{}/
 安全機製 安全机制 [an1 quan2_ji1 zhi4] /safety mechanism/mechanism, safety/{}/
@@ -64904,6 +64948,7 @@
 標籤 标籤 [biao1 qian1] /label (variant)/{}/
 標簽化 标签化 [biao1 qian1 hua4] /stereotypical/{}/
 標簽頁 标签页 [biao1 qian1 ye4] /tab (in browser etc)/{}/
+標示出 标示出 [biao1 shi4 chu1] /show out (on map etc)/{}/
 標示牌 标示牌 [biao1 shi4 pai2] /sign (giving directions in building)/{}/
 標題為 标题为 [biao1 ti2_wei2] /entitled (of book section etc)/{}/
 標題黨 标题党 [biao1 ti2 dang3] /clickbait headline/headline, clickbait/<netspeak>/{}/
@@ -65021,6 +65066,7 @@
 撥款法案 拨款法案 [bo1 kuan3_fa3 an4] /funding bill (US)/bill, funding (US)/{}/
 玻璃天花板 玻璃天花板 [bo1 li5_tian1 hua1 ban3] /glass ceiling (fig.)/ceiling, glass (fig.)/{}/
 玻璃天花板效應 玻璃天花板效应 [bo1 li5_tian1 hua1 ban3_xiao4 ying4] /glass ceiling effect/ceiling effect, glass/{}/
+玻璃蛙 玻璃蛙 [bo1 li5_wa1] /glass frog/Hyalinobatrachium/frog, glass/{}/
 波利斯 波利斯 [bo1 li4 si1] /polis (Greek for city)/{}/
 玻璃海 玻璃海 [bo1 li5 hai3] /glassy sea/{}/
 波倫塔 波伦塔 [bo1 lun2 ta3] /polenta (boiled cornmeal)/{}/
@@ -65854,6 +65900,7 @@
 成長型股票 成长型股票 [cheng2 zhang3 xing2_gu3 piao4] /growth stock (in company expected to grow)/stock, growth (in company expected to grow)/{}/
 成長型投資 成长型投资 [cheng2 zhang3 xing2_tou2 zi1] /growth investing (in companies expected to grow)/investing, growth (in companies expected to grow)/{}/
 成長型投資者 成长型投资者 [cheng2 zhang3 xing2_tou2 zi1 zhe3] /growth investor (in companies expected to grow)/investor, growth (in companies expected to grow)/{}/
+橙汁 橙汁 [cheng2 zhi1] /orange juice/juice, orange/{}/
 誠摯地邀請 诚挚地邀请 [cheng2 zhi4_de5_yao1 qing3] /warmly invite/cordially invite/invite, warmly/{}/
 橙子皮 橙子皮 [cheng2 zi5_pi2] /orange peel/peel, orange/{}/
 秤標 秤标 [cheng4 biao1] /indicator (on a balance; lit. balance mark)/{}/
@@ -66072,6 +66119,7 @@
 出血的問題 出血的问题 [chu1 xue4_de5_wen4 ti2] /bleeding problems/problems, bleeding/{}/
 出遊熱 出游热 [chu1 you2 re4] /travel rush (in May)/rush, travel (in May)/<PRC>/{}/
 出於好意 出于好意 [chu1 yu2_hao3 yi4] /meant well/mean well/well-meaning/well, meant/{}/
+出于無關原因 出于无关原因 [chu1 yu2_wu2 guan1_yuan2 yin1] /for unrelated reasons/unrelated reasons, for/{}/
 出渣器 出渣器 [chu1 zha1 qi4] /slag remover/remover, slag/{}/
 出租出去 出租出去 [chu1 zu1_chu1 qu5] /rent out (a house etc)/{}/
 除臭噴霧劑 除臭喷雾剂 [chu2 chou4_pen1 wu4 ji4] /deodorant spray/spray, deodorant/{}/
@@ -67594,6 +67642,7 @@
 斷航 断航 [duan4 hang2] /stop flights (to a country etc)/flights, stop (to a country etc)/{}/
 斷腳 断脚 [duan4 jiao3] /fractured foot/foot, fractured/{}/
 斷聯 断联 [duan4 lian2] /disconnect (cable etc)/{}/
+段落數字 段落数字 [duan4 luo4_shu4 zi4] /paragraph number/number, paragraph/{}/
 斷石鋸 断石锯 [duan4 shi2 ju4] /stone-saw (tool for sawing stones)/{}/
 斷網 断网 [duan4 wang3] /disconnect a network subscriber/network subscriber, disconnect a/{}/
 斷牙 断牙 [duan4 ya2] /broken tooth/tooth, broken/{}/
@@ -67734,6 +67783,7 @@
 俄梅珥 俄梅珥 [e2 mei2 er3] /omer (dry measure, possibly 2.2 liters)/{}/
 峨參 峨参 [e2 shen1] /cow parsley/Anthriscus sylvestris/parsley, cow/sylvestris, Anthriscus/{}/
 額外的培訓 额外的培训 [e2 wai4_de5_pei2 xun4] /additional training/training, additional/{}/
+額外教育 额外教育 [e2 wai4_jiao4 yu4] /additional education/education, additional/{}/
 額外學習需求 额外学习需求 [e2 wai4_xue2 xi2_xu1 qiu2] /additional learning needs/learning needs, additional/{}/
 額葉 额叶 [e2 ye4] /frontal lobe (of brain)/lobe, frontal (of brain)/{}/
 噁草酮 噁草酮 [e3 cao3 tong2] /oxadiazon/{}/
@@ -68080,6 +68130,7 @@
 泛型 泛型 [fan4 xing2] /generic/<comp.>/{}/
 泛型編程 泛型编程 [fan4 xing2 bian1 cheng2] /generic programming/programming, generic/<comp.>/{}/
 泛音符號 泛音符号 [fan4 yin1_fu2 hao4] /harmonic symbol/symbol, harmonic/<mus.>/{}/
+犯罪活動 犯罪活动 [fan4 zui4_huo2 dong4] /crime/criminal activity/{}/
 犯罪事實 犯罪事实 [fan4 zui4_shi4 shi2] /corpus delicti/facts concerning a crime/delicti, corpus/concerning a crime, facts/{}/
 犯罪嫌疑人 犯罪嫌疑人 [fan4 zui4_xian2 yi2 ren2] /crime suspect/suspect, crime/{}/
 犯罪證據 犯罪证据 [fan4 zui4_zheng4 ju4] /incriminating evidence/evidence, incriminating/{}/
@@ -70468,6 +70519,7 @@
 黃水枝 黄水枝 [huang2 shui3 zhi1] /tiarella/foamflower/{}/
 黃桃 黄桃 [huang2 tao2] /honey peach/peach, honey/{}/
 黃桃乾 黄桃干 [huang2 tao2 gan1] /dried honey peach/honey peach, dried/{}/
+黃體期 黄体期 [huang2 ti3_qi1] /luteal phase/phase, luteal/{}/
 黃體素 黄体素 [huang2 ti3 su4] /progesterone/{}/
 黃線 黄线 [huang2 xian4] /yellow line (on platform etc)/line, yellow (on platform etc)/{}/
 黃葉 黄叶 [huang2 ye4] /yellow leaves/{}/
@@ -70832,6 +70884,7 @@
 急救服務 急救服务 [ji2 jiu4_fu2 wu4] /medical assistance/first-aid service/assistance, medical/service, first-aid/{}/
 急救車 急救车 [ji2 jiu4 che1] /ambulance/{}/
 急救室 急救室 [ji2 jiu4 shi4] /first-aid room/emergency treatment room/room, first-aid/treatment room, emergency/{}/
+急救員 急救员 [ji2 jiu4 yuan2] /first aider/{}/
 極具 极具 [ji2 ju4] /have a lot of/{}/
 極客 极客 [ji2 ke4] /geek/<loan>/{}/
 疾控 疾控 [ji2 kong4] /disease control/control, disease/{}/
@@ -71458,6 +71511,7 @@
 交易者 交易者 [jiao1 yi4 zhe3] /trader/{}/
 交由 交由 [jiao1 you2] /send by (messengers etc)/{}/
 澆油 浇油 [jiao1 you2] /pour oil/{}/
+交友圈 交友圈 [jiao1 you3 quan1] /circle of friends (of a person)/friends, circle of (of a person)/{}/
 膠原蛋白 胶原蛋白 [jiao1 yuan2_dan4 bai2] /collagen/{}/
 焦躁不安 焦躁不安 [jiao1 zao4-bu4 an1] /restless/{}/
 交賬 交账 [jiao1 zhang4] /accounting, reckoning (variant form)/reckoning, accounting (variant form)/{}/
@@ -75154,6 +75208,7 @@
 啟動屏幕 启动屏幕 [qi3 dong4_ping2 mu4] /startup screen/splash screen/screen, startup/{}/
 啟動效應 启动效应 [qi3 dong4_xiao4 ying4] /priming effect (psychological)/effect, priming (psychological)/<PRC>/{}/
 啟露 启露 [qi3 lu4] /revealing/{}/
+起碼有個底 起码有个底 [qi3 ma3_you3_ge5_di3] /at least have a backup plan/least have a backup plan, at/{}/
 啟蒙主義 启蒙主义 [qi3 meng2 zhu3 yi4] /enlightenment (philosophy etc)/{}/
 起司蛋糕 起司蛋糕 [qi3 si1_dan4 gao1] /cheesecake/{}/
 乞討者 乞讨者 [qi3 tao3 zhe3] /beggar/{}/
@@ -75318,6 +75373,7 @@
 強軍 强军 [qiang2 jun1] /strong military forces/military forces, strong/{}/
 強烈的反對 强烈的反对 [qiang2 lie4_de5_fan3 dui4] /strongly oppose/strong opposition/oppose, strongly/opposition, strong/{}/
 強流 强流 [qiang2 liu2] /high current/strong current/current, high/{}/
+牆面天使 墙面天使 [qiang2 mian4_tian1 shi3] /wall angels (exercise)/{}/
 牆內 墙内 [qiang2 nei4] /inside the wall/(netspeak) in China/wall, inside the/China, in/{}/
 強迫勞動 强迫劳动 [qiang2 po4_lao2 dong4] /forced labour/labour, forced/{}/
 強強 强强 [qiang2 qiang2] /strongly/{}/
@@ -76227,6 +76283,7 @@
 殺盡 杀尽 [sha1 jin4] /strike down/kill all of (a group etc)/down, strike (a group etc)/{}/
 沙拉吧 沙拉吧 [sha1 la1_ba1] /salad bar/{}/
 沙拉醬 沙拉酱 [sha1 la1 jiang4] /mayonnaise/salad cream/{}/
+沙拉碗 沙拉碗 [sha1 la1 wan3] /salad bowl/bowl, salad/{}/
 紗麗 纱丽 [sha1 li4] /sari/{}/
 莎麗 莎丽 [sha1 li4] /sari/{}/
 沙利度胺 沙利度胺 [sha1 li4 du4 an4] /thalidomide/{}/
@@ -77135,6 +77192,7 @@
 適不適合 适不适合 [shi4_bu5_shi4 he2] /right (for) or not/fits or not/not, right or/{}/
 市法院 市法院 [shi4_fa3 yuan4] /City Court/{}/
 是福還是禍 是福还是祸 [shi4_fu2_hai2 shi5_huo4] /is it a blessing or a curse/blessing or a curse, is it a/{}/
+是好是壞 是好是坏 [shi4_hao3_shi4_huai4] /(whether) for good or bad/good or bad, for/{}/
 是話都信 是话都信 [shi4_hua4_dou1_xin4] /believe anything that's said/anything that's said, believe/{}/
 市級 市级 [shi4_ji2] /city-level/{}/
 視鏈接 视链接 [shi4_lian4 jie1] /video link/link, video/{}/
@@ -78960,6 +79018,7 @@
 外牆和窗戶 外墙和窗户 [wai4 qiang2_he2_chuang1 hu5] /external walls and windows/walls and windows, external/{}/
 外牆組 外墙组 [wai4 qiang2 zu3] /exteriors team (in construction industry)/team, exteriors (in construction industry)/{}/
 外審 外审 [wai4 shen3] /external examiner/examiner, external/{}/
+外送 外送 [wai4 song4] /takeaway delivery (Uber Eats etc)/delivery, takeaway (Uber Eats etc)/{}/
 外酥里嫩 外酥里嫩 [wai4 su1 li3 nen4] /crisp and tender/tender, crisp and/{}/
 外太空生物 外太空生物 [wai4 tai4 kong1_sheng1 wu4] /extraterrestrials/ET/{}/
 外網 外网 [wai4 wang3] /foreign Internet/non-China Internet/Internet, foreign/<PRC>/{}/
@@ -79274,6 +79333,7 @@
 未包括 未包括 [wei4_bao1 kuo4] /not including/excluding (sthg)/including, not (sthg)/{}/
 未被充分代表 未被充分代表 [wei4_bei4_chong1 fen4_dai4 biao3] /under-represented/{}/
 未出世 未出世 [wei4_chu1 shi4] /unborn (child etc)/{}/
+為大家著想 为大家着想 [wei4_da4 jia1_zhuo2 xiang3] /consider everyone/everyone, consider/{}/
 為兒女著想 为儿女着想 [wei4_er2 nu:3_zhuo2 xiang3] /for the children/for your own good (to children)/children, for the (to children)/good, for your own (to children)/{}/
 未開封 未开封 [wei4_kai1 feng1] /unopened/seal unbroken (on product)/{}/
 為盲人引路 为盲人引路 [wei4_mang2 ren2_yin3 lu4] /guide a blind person/blind person, guide a/{}/
@@ -79292,6 +79352,7 @@
 喂饱 喂饱 [wei4 bao3] /feed full (as in an animal feeding its young etc)/full, feed (as in an animal feeding its young etc)/{}/
 餵飽 餵饱 [wei4 bao3] /feed full (as in an animal feeding its young etc) (variant)/full, feed (as in an animal feeding its young etc) (variant)/{}/
 未必不好 未必不好 [wei4 bi4_bu4_hao3] /not always wrong/not necessarily wrong/always wrong, not/necessarily wrong, not/{}/
+衛兵隊 卫兵队 [wei4 bing1 dui4] /guards/{}/
 喂哺 喂哺 [wei4 bu3] /feed (a baby)/{}/
 喂槽 喂槽 [wei4 cao2] /feeder (for birds etc, old translation?)/{}/
 胃腸神經官能症 胃肠神经官能症 [wei4 chang2_shen2 jing1_guan1 neng2 zheng4] /gastrointestinal dysfunction/dysfunction, gastrointestinal/{}/
@@ -80413,6 +80474,7 @@
 心懷二意的人 心怀二意的人 [xin1 huai2 er4 yi4_de5_ren2] /halfhearted ones/ones, halfhearted/{}/
 心懷他人 心怀他人 [xin1 huai2 ta1 ren2] /caring about others/{}/
 心間 心间 [xin1 jian1] /(figurative) heart/deep in mind/{}/
+新建成 新建成 [xin1 jian4 cheng2] /newly-constructed (building)/{}/
 心結 心结 [xin1 jie2] /anxiety/mental knot/{}/
 新解 新解 [xin1 jie3] /new analysis/analysis, new/{}/
 新酒 新酒 [xin1 jiu3] /new wine/wine, new/{}/
@@ -80894,6 +80956,7 @@
 學習方式 学习方式 [xue2 xi2_fang1 shi4] /way of learning/learning style/learning, way of/style, learning/{}/
 學習氛圍 学习氛围 [xue2 xi2_fen1 wei2] /study environment/environment, study/{}/
 學習工具 学习工具 [xue2 xi2_gong1 ju4] /learning tools/tools, learning/{}/
+學習計劃 学习计划 [xue2 xi2_ji4 hua4] /study plan/{}/
 學習記錄 学习记录 [xue2 xi2_ji4 lu4] /study notes/learning diary/notes, study/diary, learning/{}/
 學習進度 学习进度 [xue2 xi2_jin4 du4] /progress (on study course)/{}/
 學習平台 学习平台 [xue2 xi2_ping2 tai2] /study platform (online)/platform, study (online)/{}/
@@ -81330,6 +81393,7 @@
 一折 一折 [yi1_zhe2] /90% discount (10% price)/discount, 90% (10% price)/{}/
 依值類型 依值类型 [yi1_zhi2_lei4 xing2] /dependent type(s)/type(s), dependent/<comp.>/{}/
 一週三次 一週三次 [yi1_zhou1_san1_ci4] /three times a week/{}/
+一周五天 一周五天 [yi1_zhou1_wu3_tian1] /five days a week/days a week, five/{}/
 一周一次 一周一次 [yi1_zhou1_yi1_ci4] /weekly/once a week/{}/
 醫患 医患 [yi1-huan4] /doctor-patient/{}/
 一兩 一两 [yi1-liang3] /one or two/{}/

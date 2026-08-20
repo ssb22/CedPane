@@ -216,6 +216,7 @@ Rimowa is a trademark of Rimowa GmbH.
 Rolls-Royce is a trademark of Rolls-Royce Plc.
 Sainsbury's is a trademark of J Sainsbury PLC.
 Segway is a trademark of Segway Inc.
+Semtex is a trademark of Explosia.
 Sibelius is a registered trademark of Avid Technology, Inc. or its subsidiaries.
 Siemens is a trademark of Siemens Aktiengesellschaft.
 SimSun is a trademark of Zhongyi Electronic Co., Beijing, which is licensed to Microsoft.
@@ -231,6 +232,7 @@ Think different is a trademark of Apple Computer, Inc.
 TomTom is a trademark of TomTom International BV.
 Toshiba is a trademark of Tokyo Shibaura Denki Kabushiki Kaisha, also called Kabushiki Kaisha Toshiba.
 Twitter and Tweet are trademarks of X Inc (previously Twitter Inc).
+Uber Eats is a registered trademark of Uber Technologies, Inc.
 Uber is a trademark of Uber Technologies, Inc.
 UltraCane is a trademark owned by Sound Foresight Ltd.
 Unilever is a trademark either owned or used under license by Unilever PLC/Unilever NV and affiliates.
