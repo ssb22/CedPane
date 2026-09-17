@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2026-08-20
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2026-09-17
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -17455,6 +17455,7 @@
 戈夫 戈夫 [Ge1 fu1] /Goff/Goffe/Gove/{}/
 戈夫曼 戈夫曼 [Ge1 fu1 man4] /Goffman/Gofman/{}/
 戈夫尼 戈夫尼 [Ge1 fu1 ni2] /Goffney/{}/
+戈夫斯敦 戈夫斯敦 [Ge1 fu1 si1 dun1] /Goffstown/{}/
 戈弗雷 戈弗雷 [Ge1 fu2 lei2] /Godfrey/{}/
 戈弗雷多 戈弗雷多 [Ge1 fu2 lei2 duo1] /Goffredo/{}/
 戈福思 戈福思 [Ge1 fu2 si1] /Goforth (name)/{}/
@@ -20398,8 +20399,8 @@
 含族人 含族人 [Han2 zu2 ren2] /Hamites/{}/
 漢典 汉典 [Han4_Dian3] /zdic (website)/{}/
 漢語言 汉语言 [Han4_yu3 yan2] /Chinese language (as school subject etc)/language, Chinese (as school subject etc)/{}/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4-Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2026-08-20/{}/
-漢英公领 汉英公领 [Han4-Ying1_Gong1-Ling3] /CedPane v2026-08-20/{}/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4-Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2026-09-17/{}/
+漢英公领 汉英公领 [Han4-Ying1_Gong1-Ling3] /CedPane v2026-09-17/{}/
 漢英詞典 汉英词典 [Han4-Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/{}/
 漢班托塔 汉班托塔 [Han4 ban1 tuo1 ta3] /Hambantota/{}/
 漢堡市 汉堡市 [Han4 bao3_Shi4] /city of Hamburg/Hamburg, city of/{}/
@@ -29219,6 +29220,7 @@
 克斯特 克斯特 [Ke4 si1 te4] /Kerst/{}/
 克斯滕 克斯滕 [Ke4 si1 teng2] /Kersten/{}/
 克絲汀 克丝汀 [Ke4 si1 ting1] /Kirsten/{}/
+克絲婷 克丝婷 [Ke4 si1 ting2] /Keirsten/{}/
 克斯庭 克斯庭 [Ke4 si1 ting2] /Kersting/{}/
 克斯廷 克斯廷 [Ke4 si1 ting2] /Kerstin/{}/
 克斯威爾 克斯威尔 [Ke4 si1 wei1 er3] /Kerswill/{}/
@@ -29624,6 +29626,7 @@
 庫茲馬 库兹马 [Ku4 zi1 ma3] /Kuzma/{}/
 庫茲曼 库兹曼 [Ku4 zi1 man4] /Kurzman/{}/
 庫茲米卡斯 库兹米卡斯 [Ku4 zi1 mi3 ka3 si1] /Kuzmickas/{}/
+庫茲明斯基 库兹明斯基 [Ku4 zi1 ming2 si1 ji1] /Kuzminskiy/{}/
 庫茲涅茨克 库兹涅茨克 [Ku4 zi1 nie4 ci2 ke4] /Kuznetskiy/{}/
 庫茲涅佐夫 库兹涅佐夫 [Ku4 zi1 nie4 zuo3 fu1] /Kuznetsov/{}/
 庫茲涅佐沃 库兹涅佐沃 [Ku4 zi1 nie4 zuo3 wo4] /Kuznetsovo/{}/
@@ -30990,6 +30993,7 @@
 藍迪喬 蓝迪乔 [Lan2 di2 qiao2] /Landicho/{}/
 蘭迪斯 兰迪斯 [Lan2 di2 si1] /Landis/{}/
 蘭店鄉 兰店乡 [Lan2 dian4_Xiang1] /Landian Township/Township, Landian/{}/
+蘭頓 兰顿 [Lan2 dun4] /Langton/{}/
 蘭多 兰多 [Lan2 duo1] /Randoux/{}/
 蘭多爾 兰多尔 [Lan2 duo1 er3] /Randol/{}/
 蘭多爾特 兰多尔特 [Lan2 duo1 er3 te4] /Landolt/{}/
@@ -34403,6 +34407,7 @@
 路易斯維 路易斯维 [Lu4 yi4 si1 wei2] /Louisville/{}/
 路易斯維市 路易斯维市 [Lu4 yi4 si1 wei2_Shi4] /Louisville (city)/{}/
 路易斯維爾 路易斯维尔 [Lu4 yi4 si1 wei2 er3] /Lewisville/Louiseville/Louisville/{}/
+路易維爾 路易维尔 [Lu4 yi4 wei2 er3] /Louisville (alternate translation)/{}/
 鹿原鎮 鹿原镇 [Lu4 yuan2 zhen4] /Luyuan (town)/{}/
 鹿苑鎮 鹿苑镇 [Lu4 yuan4 zhen4] /Luyuan (town)/{}/
 鹿寨縣 鹿寨县 [Lu4 zhai4_Xian4] /Luzhai County/County, Luzhai/{}/
@@ -57682,6 +57687,7 @@
 新關鎮 新关镇 [Xin1 guan1 zhen4] /Xinguan (town)/{}/
 辛哈 辛哈 [Xin1 ha1] /Sinha/{}/
 新海鎮 新海镇 [Xin1 hai3 zhen4] /Xinhai (town)/{}/
+新罕布夏 新罕布夏 [Xin1 han3 bu4 xia4] /New Hampshire (alternate translation)/Hampshire, New (alternate translation)/{}/
 新杭鎮 新杭镇 [Xin1 hang2 zhen4] /Xinhang (town)/{}/
 新和縣 新和县 [Xin1 he2_Xian4] /Xinhe (county, in Xinjiang)/{}/
 新河縣 新河县 [Xin1 he2_Xian4] /Xinhe (county, in Hebei)/{}/
@@ -64304,6 +64310,7 @@
 白蟻窩 白蚁窝 [bai2 yi3 wo1] /termite hill/hill, termite/{}/
 白疹 白疹 [bai2 zhen3] /white eruption (skin rash)/eruption, white (skin rash)/{}/
 白粥 白粥 [bai2 zhou1] /plain congee/congee, plain/{}/
+白左 白左 [bai2 zuo3] /naive liberal (derogatory Internet slang)/liberal, naive (derogatory Internet slang)/{}/
 擺出來 摆出来 [bai3_chu1 lai5] /put out to show (someone)/show, put out to (someone)/{}/
 百次不容 百次不容 [bai3_ci4_bu4_rong2] /will never be tolerated/never be tolerated, will/{}/
 百次不用 百次不用 [bai3_ci4_bu4_yong4] /will never be appointed (to responsible position)/never be appointed, will (to responsible position)/{}/
@@ -69658,6 +69665,7 @@
 帰國 帰国 [gui1 guo2] /return to one's country (Japanese version)/one's country, return to (Japanese version)/{}/
 歸化基督教 归化基督教 [gui1 hua4_Ji1 du1 jiao4] /Christianize (a pagan celebration etc)/{}/
 規劃申請 规划申请 [gui1 hua4_shen1 qing3] /planning application/application, planning/{}/
+規劃時間 规划时间 [gui1 hua4_shi2 jian1] /manage your time/do time management/time, manage your/management, do time/{}/
 規劃圖 规划图 [gui1 hua4 tu2] /plan (of building|site|etc)/{}/
 歸回 归回 [gui1 hui2] /return (e.g. to dust)/{}/
 歸結證明 归结证明 [gui1 jie2_zheng4 ming2] /resolution proof/proof, resolution/{}/
@@ -70718,6 +70726,7 @@
 獲批 获批 [huo4 pi1] /get approval/approval, get/{}/
 鑊氣 镬气 [huo4 qi4] /wok flavour/<Cantonese>/{}/
 獲取到 获取到 [huo4 qu3 dao4] /get/return/<comp.>/{}/
+獲釋出獄 获释出狱 [huo4 shi4_chu1 yu4] /release from prison/prison, release from/{}/
 貨梯 货梯 [huo4 ti1] /cargo lift/freight elevator/lift, cargo/elevator, freight/{}/
 貨物搬運 货物搬运 [huo4 wu4_ban1 yun4] /freight handling/handling, freight/{}/
 獲選為 获选为 [huo4 xuan3_wei2] /chosen as (by panel etc)/{}/
@@ -70738,6 +70747,7 @@
 基本原理 基本原理 [ji1 ben3_yuan2 li3] /first principles/principles, first/{}/
 基本款 基本款 [ji1 ben3 kuan3] /basic style (of clothing)/style, basic (of clothing)/{}/
 擊鈸 击钹 [ji1 bo2] /play cymbals/cymbals, play/{}/
+機艙行李 机舱行李 [ji1 cang1_xing2 li3] /cabin luggage (carry-on)/luggage, cabin (carry-on)/{}/
 積藏 积藏 [ji1 cang2] /treasure up (wealth etc)/{}/
 積成 积成 [ji1 cheng2] /pile|heap up/{}/
 基礎模型 基础模型 [ji1 chu3_mo2 xing2] /base model/foundation model (LLM)/model, base (LLM)/{}/
@@ -71645,6 +71655,7 @@
 接受過 接受过 [jie1 shou4 guo5] /received/{}/
 接聽電話 接听电话 [jie1 ting1_dian4 hua4] /answer the phone/phone, answer the/{}/
 街頭派對 街头派对 [jie1 tou2_pai4 dui4] /street party/party, street/{}/
+街圖 街图 [jie1 tu2] /street map/{}/
 接線盒 接线盒 [jie1 xian4 he2] /junction box/{}/
 接著來 接着来 [jie1 zhe5_lai2] /follow along with me/jump back in to conversation/along with me, follow/back in to conversation, jump/{}/
 接著說 接着说 [jie1 zhe5_shuo1] /adds/goes on to say/continues by saying/saying, continues by/{}/
@@ -76830,6 +76841,7 @@
 生命的起點 生命的起点 [sheng1 ming4_de5_qi3 dian3] /life's starting point/starting point, life's/{}/
 生命的起源 生命的起源 [sheng1 ming4_de5_qi3 yuan2] /the origin of life/origin of life, the/{}/
 生命健康 生命健康 [sheng1 ming4_jian4 kang1] /life and health/health, life and/{}/
+生命教練 生命教练 [sheng1 ming4_jiao4 lian4] /life coach/{}/
 生命苦短 生命苦短 [sheng1 ming4_ku3_duan3] /life is short (advertising slogan)/{}/
 生命倫理學 生命伦理学 [sheng1 ming4_lun2 li3 xue2] /bioethics/{}/
 生命樹 生命树 [sheng1 ming4_shu4] /tree of life/life, tree of/{}/
@@ -77653,6 +77665,7 @@
 數字人文 数字人文 [shu4 zi4_ren2 wen2] /digital humanities/humanities, digital/{}/
 數字社會 数字社会 [shu4 zi4_she4 hui4] /digital society/society, digital/{}/
 數字時代 数字时代 [shu4 zi4_shi2 dai4] /digital age/{}/
+數字素養 数字素养 [shu4 zi4_su4 yang3] /digital literacy/literacy, digital/{}/
 數字信息無障礙系統 数字信息无障碍系统 [shu4 zi4_xin4 xi1_wu2_zhang4 ai4_xi4 tong3] /digital accessible information system/DAISY/accessible information system, digital/{}/
 數字音頻工作站 数字音频工作站 [shu4 zi4_yin1 pin2_gong1 zuo4 zhan4] /digital audio workstation/audio workstation, digital/workstation, digital audio/{}/
 數字營銷 数字营销 [shu4 zi4_ying2 xiao1] /digital marketing/marketing, digital/{}/
@@ -78054,6 +78067,7 @@
 蒜蔥 蒜葱 [suan4 cong1] /shallot/{}/
 算法偏差 算法偏差 [suan4 fa3_pian1 cha1] /algorithmic bias/bias, algorithmic/{}/
 算法推理 算法推理 [suan4 fa3_tui1 li3] /algorithmic reasoning/reasoning, algorithmic/{}/
+算法追繳 算法追缴 [suan4 fa3_zhui1 jiao3] /algorithmic disgorgement/disgorgement, algorithmic/{}/
 算法作曲 算法作曲 [suan4 fa3_zuo4 qu3] /algorithmic composition/automatic composition/composition, algorithmic/{}/
 算力 算力 [suan4 li4] /computing power/power, computing/{}/
 蒜片 蒜片 [suan4 pian4] /garlic chip/chip, garlic/{}/
@@ -80842,6 +80856,7 @@
 序章 序章 [xu4 zhang1] /prologue chapter in book/{}/
 宣傳人員 宣传人员 [xuan1 chuan2_ren2 yuan2] /publicity agents/promoters/agents, publicity/{}/
 宣傳視頻 宣传视频 [xuan1 chuan2_shi4 pin2] /promotional video/video, promotional/{}/
+宣傳冊 宣传册 [xuan1 chuan2 ce4] /advertising brochure/brochure, advertising/{}/
 宣傳片 宣传片 [xuan1 chuan2 pian4] /publicity film/propaganda film/film, publicity/{}/
 宣道 宣道 [xuan1 dao4] /preach (church etc)/{}/
 喧嘩擾攘 喧哗扰攘 [xuan1 hua2-rao3 rang3] /tumult/{}/
@@ -81257,6 +81272,7 @@
 養蝦 养虾 [yang3_xia1] /shrimp farming/farming, shrimp/{}/
 氧循環 氧循环 [yang3_xun2 huan2] /oxygen cycle/cycle, oxygen/{}/
 養耕共生 养耕共生 [yang3-geng1_gong4 sheng1] /aquaponics/{}/
+養車 养车 [yang3 che1] /running a car (cost etc)/car, running a (cost etc)/{}/
 養蜂家 养蜂家 [yang3 feng1 jia1] /apiarist/{}/
 癢感 痒感 [yang3 gan3] /itchy sensation/sensation, itchy/{}/
 氧合 氧合 [yang3 he2] /oxygenation/<med.>/{}/

@@ -122591,7 +122591,7 @@ definition desktop environment
 pinyin Hàn-Yīng Cídiǎn Gōngyǒu Lǐngyù Zhuānmíng Děng Fùkān
 characters 汉英词典公有领域专名等副刊[漢-詞---領-專----]
 serial-number CedPane24674
-definition CedPane: this is version 2026-08-20
+definition CedPane: this is version 2026-09-17
 remark heading 1only
 *** 
 pinyin càidān gōngchéng
@@ -372237,7 +372237,7 @@ definition Jørgen
 pinyin Hàn-Yīng Gōng-Lǐng
 characters 汉英公领[漢---]
 serial-number CedPane74496
-definition CedPane v2026-08-20
+definition CedPane v2026-09-17
 remark heading 1only
 *** 
 pinyin Ài'ěrsībólǐ
@@ -423480,3 +423480,85 @@ pinyin Zhāláiwǎ
 characters 扎莱瓦[-萊-]
 serial-number CedPane84734
 definition Zalewa
+*** 
+pinyin báizuǒ
+characters 白左
+serial-number CedPane84735
+definition naive liberal (derogatory Internet slang)
+*** 
+pinyin Gēfūsīdūn
+characters 戈夫斯敦
+serial-number CedPane84736
+definition Goffstown
+*** 
+pinyin guīhuà shíjiān
+characters 规划时间[規劃時間]
+serial-number CedPane84737
+definition manage your time; do time management
+*** 
+pinyin huòshì chūyù
+characters 获释出狱[獲釋-獄]
+serial-number CedPane84738
+definition release from prison
+*** 
+pinyin jīcāng xínglǐ
+characters 机舱行李[機艙--]
+serial-number CedPane84739
+definition cabin luggage (carry-on)
+*** 
+pinyin jiētú
+characters 街图[-圖]
+serial-number CedPane84740
+definition street map
+*** 
+pinyin Kèsītíng
+characters 克丝婷[-絲-]
+serial-number CedPane84741
+definition Keirsten
+*** 
+pinyin Kùzīmíngsījī
+characters 库兹明斯基[庫茲---]
+serial-number CedPane84742
+definition Kuzminskiy
+*** 
+pinyin Lándùn
+characters 兰顿[蘭頓]
+serial-number CedPane84743
+definition Langton
+*** 
+pinyin Lùyìwéi'ěr
+characters 路易维尔[--維爾]
+serial-number CedPane84744
+definition Louisville (alternate translation)
+*** 
+pinyin shēngmìng jiàoliàn
+characters 生命教练[---練]
+serial-number CedPane84745
+definition life coach
+remark heading 1only
+*** 
+pinyin shùzì sùyǎng
+characters 数字素养[數--養]
+serial-number CedPane84746
+definition digital literacy
+*** 
+pinyin suànfǎ zhuījiǎo
+characters 算法追缴[---繳]
+serial-number CedPane84747
+definition algorithmic disgorgement
+*** 
+pinyin Xīnhǎnbùxià
+characters 新罕布夏
+serial-number CedPane84748
+definition New Hampshire (alternate translation)
+*** 
+pinyin xuānchuáncè
+characters 宣传册[-傳冊]
+serial-number CedPane84749
+definition advertising brochure
+*** 
+pinyin yǎngchē
+characters 养车[養車]
+serial-number CedPane84750
+definition running a car (cost etc)
+remark heading car
