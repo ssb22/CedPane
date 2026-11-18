@@ -1,4 +1,4 @@
-# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2026-10-14
+# CPN - CedPane: Chinese-English Dictionary Public-domain Additions for Names Etc 2026-11-18
 # CEDICT-format file for ChinaScribe
 # 
 # (note: might not be compatible with other CEDICT-reading programs
@@ -1165,6 +1165,7 @@
 阿瑪阿 阿玛阿 [A1 ma3 a1] /Amarha/{}/
 阿馬爾 阿马尔 [A1 ma3 er3] /Amar/Ammar/{}/
 阿馬爾菲 阿马尔菲 [A1 ma3 er3 fei1] /Amalfi/{}/
+阿馬爾菲海岸 阿马尔菲海岸 [A1 ma3 er3 fei1_hai3 an4] /Amalfi coast/coast, Amalfi/{}/
 阿馬爾里克 阿马尔里克 [A1 ma3 er3 li3 ke4] /Amalric/{}/
 阿瑪爾納 阿玛尔纳 [A1 ma3 er3 na4] /Amarna/{}/
 阿瑪貝爾 阿玛贝尔 [A1 ma3 bei4 er3] /Amabel/Amabelle/Amable/{}/
@@ -1180,6 +1181,8 @@
 阿馬杜 阿马杜 [A1 ma3 du4] /Amadou/{}/
 阿馬多 阿马多 [A1 ma3 duo1] /Amado/{}/
 阿馬多爾 阿马多尔 [A1 ma3 duo1 er3] /Amador/{}/
+阿瑪菲 阿玛菲 [A1 ma3 fei1] /Amalfi/{}/
+阿瑪菲海岸 阿玛菲海岸 [A1 ma3 fei1_hai3 an4] /Amalfi coast/coast, Amalfi/{}/
 阿馬科斯特 阿马科斯特 [A1 ma3 ke1 si1 te4] /Armacost/{}/
 阿瑪拉 阿玛拉 [A1 ma3 la1] /Amara/{}/
 阿馬拉 阿马拉 [A1 ma3 la1] /Amara/Amaral/{}/
@@ -1639,6 +1642,7 @@
 阿斯旺 阿斯旺 [A1 si1 wang4] /Aswân/{}/
 阿斯溫 阿斯温 [A1 si1 wen1] /Aschwin/{}/
 阿蘇阿 阿苏阿 [A1 su1 a1] /Azua/{}/
+阿蘇埃羅 阿苏埃罗 [A1 su1 ai1 luo2] /Azuero/{}/
 阿孫塔 阿孙塔 [A1 sun1 ta3] /Assunta/{}/
 阿索爾 阿索尔 [A1 suo3 er3] /Athol/{}/
 阿索格 阿索格 [A1 suo3 ge2] /Arthog/{}/
@@ -4176,6 +4180,7 @@
 奧金克洛斯 奥金克洛斯 [Ao4 jin1 ke4 luo4 si1] /Auchincloss/{}/
 奧金斯基 奥金斯基 [Ao4 jin1 si1 ji1] /Oginski/Ogiński/{}/
 奧金佐夫 奥金佐夫 [Ao4 jin1 zuo3 fu1] /Odintsov/{}/
+奧金佐沃 奥金佐沃 [Ao4 jin1 zuo3 wo4] /Odintsovo/{}/
 奧卡 奥卡 [Ao4 ka3] /Oka/{}/
 奧卡迪扎 奥卡迪扎 [Ao4 ka3 di2 zha1] /Alcadizaar (character in a tabletop war game)/{}/
 奧卡羅爾 奥卡罗尔 [Ao4 ka3 luo2 er3] /Ocarroll/{}/
@@ -6078,6 +6083,7 @@
 寶山鎮 宝山镇 [Bao3 shan1 zhen4] /Baoshan (town)/{}/
 保時捷 保时捷 [Bao3 shi2 jie2] /Porsche (car)/{}/
 保壽鎮 保寿镇 [Bao3 shou4 zhen4] /Baoshou (town)/{}/
+保索夫 保索夫 [Bao3 suo3 fu1] /Paysov/{}/
 寶塔區 宝塔区 [Bao3 ta3_Qu1] /Baota District/District, Baota/{}/
 寶塔鄉 宝塔乡 [Bao3 ta3_Xiang1] /Baota Township/Township, Baota/{}/
 寶塔鎮 宝塔镇 [Bao3 ta3 zhen4] /Baota (town)/{}/
@@ -8181,6 +8187,7 @@
 伯克霍夫 伯克霍夫 [Bo2 ke4 huo4 fu1] /Birkhoff/{}/
 伯克蘭 伯克兰 [Bo2 ke4 lan2] /Birkeland/{}/
 伯克利 伯克利 [Bo2 ke4 li4] /Berkeley/{}/
+伯克莉 伯克莉 [Bo2 ke4 li4] /Berkley/{}/
 伯克林 伯克林 [Bo2 ke4 lin2] /Burklin/{}/
 博克曼 博克曼 [Bo2 ke4 man4] /Borkman/{}/
 伯克姆 伯克姆 [Bo2 ke4 mu3] /Burkham/{}/
@@ -12067,6 +12074,7 @@
 德洛倫索 德洛伦索 [De2 luo4 lun2 suo3] /Delorenzo/{}/
 德洛姆 德洛姆 [De2 luo4 mu3] /Delorme/{}/
 德洛尼 德洛尼 [De2 luo4 ni2] /Deloney/Delony/{}/
+德洛斯 德洛斯 [De2 luo4 si1] /de los/{}/
 德洛索 德洛索 [De2 luo4 suo3] /Dellosso/{}/
 德瑪 德玛 [De2 ma3] /Dema/{}/
 德馬 德马 [De2 ma3] /Dema/Demar/{}/
@@ -15348,6 +15356,7 @@
 費爾斯特德 费尔斯特德 [Fei4 er3 si1 te4 de2] /Felstead/{}/
 費爾特 费尔特 [Fei4 er3 te4] /Feldt/{}/
 費爾廷 费尔廷 [Fei4 er3 ting2] /Feltin/{}/
+費爾韋瑟 费尔韦瑟 [Fei4 er3 wei2 se4] /Fairweather (surname)/{}/
 費爾維尤 费尔维尤 [Fei4 er3 wei2 you2] /Fairview/{}/
 費爾澤 费尔泽 [Fei4 er3 ze2] /Felzer/{}/
 費歐娜 费欧娜 [Fei4 ou1 na4] /Fiona/{}/
@@ -17947,6 +17956,7 @@
 格雷弗斯 格雷弗斯 [Ge2 lei2 fu2 si1] /Griffiths/{}/
 格雷戈 格雷戈 [Ge2 lei2 ge1] /Greg/{}/
 格雷戈爾 格雷戈尔 [Ge2 lei2 ge1 er3] /Gregor/{}/
+格雷哥里 格雷哥里 [Ge2 lei2 ge1 li3] /Gregory/{}/
 格雷戈里 格雷戈里 [Ge2 lei2 ge1 li3] /Gregory/{}/
 格雷戈里奧 格雷戈里奥 [Ge2 lei2 ge1 li3 ao4] /Gregorio/{}/
 格雷戈瑞 格雷戈瑞 [Ge2 lei2 ge1 rui4] /Gregory/{}/
@@ -20410,8 +20420,8 @@
 含族人 含族人 [Han2 zu2 ren2] /Hamites/{}/
 漢典 汉典 [Han4_Dian3] /zdic (website)/{}/
 漢語言 汉语言 [Han4_yu3 yan2] /Chinese language (as school subject etc)/language, Chinese (as school subject etc)/{}/
-漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4-Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2026-10-14/{}/
-漢英公领 汉英公领 [Han4-Ying1_Gong1-Ling3] /CedPane v2026-10-14/{}/
+漢英詞典公有領域專名等副刊 汉英词典公有领域专名等副刊 [Han4-Ying1_Ci2 dian3_Gong1 you3_Ling3 yu4_Zhuan1 ming2_Deng3_Fu4 kan1] /CedPane: this is version 2026-11-18/{}/
+漢英公领 汉英公领 [Han4-Ying1_Gong1-Ling3] /CedPane v2026-11-18/{}/
 漢英詞典 汉英词典 [Han4-Ying1_ci2 dian3] /Chinese-English dictionary/dictionary, Chinese-English/{}/
 漢班托塔 汉班托塔 [Han4 ban1 tuo1 ta3] /Hambantota/{}/
 漢堡市 汉堡市 [Han4 bao3_Shi4] /city of Hamburg/Hamburg, city of/{}/
@@ -26108,6 +26118,7 @@
 卡蒂 卡蒂 [Ka3 di4] /Katty/{}/
 卡蒂奧 卡蒂奥 [Ka3 di4 ao4] /Catío/{}/
 卡蒂爾 卡蒂尔 [Ka3 di4 er3] /Cuttill/{}/
+卡蒂歐 卡蒂欧 [Ka3 di4 ou1] /Catío/{}/
 卡地夫 卡地夫 [Ka3 di4 fu1] /Cardiff/{}/
 卡蒂娜 卡蒂娜 [Ka3 di4 na4] /Katina/{}/
 卡蒂納 卡蒂纳 [Ka3 di4 na4] /Catina/{}/
@@ -28193,6 +28204,7 @@
 科恰班巴 科恰班巴 [Ke1 qia4 ban1 ba1] /Cochabamba/{}/
 柯橋區 柯桥区 [Ke1 qiao2_Qu1] /Keqiao District/District, Keqiao/{}/
 科切爾 科切尔 [Ke1 qie4 er3] /Kocher/{}/
+科切娃 科切娃 [Ke1 qie4 wa2] /Kocheva/{}/
 科欽 科钦 [Ke1 qin1] /Cochin/{}/
 科熱夫尼科娃 科热夫尼科娃 [Ke1 re4 fu1 ni2 ke1 wa2] /Kozhevnikova/{}/
 科熱米亞金 科热米亚金 [Ke1 re4 mi3 ya4 jin1] /Kozhemiakin/{}/
@@ -29594,6 +29606,7 @@
 庫恰 库恰 [Ku4 qia4] /Kucha/{}/
 庫喬亞 库乔亚 [Ku4 qiao2 ya4] /Kuçovë/{}/
 庫切 库切 [Ku4 qie4] /Cuche/{}/
+庫欽 库钦 [Ku4 qin1] /Kuchin/{}/
 庫琴科 库琴科 [Ku4 qin2 ke1] /Kutsenko/{}/
 庫區鄉 库区乡 [Ku4 qu1_Xiang1] /Kuqu Township/Township, Kuqu/{}/
 庫薩 库萨 [Ku4 sa4] /Cusa/{}/
@@ -30430,8 +30443,10 @@
 拉韋德 拉韦德 [La1 wei2 de2] /Ravid/{}/
 拉維多利亞 拉维多利亚 [La1 wei2 duo1 li4 ya4] /La Victoria/Victoria, La/{}/
 拉韋基亞 拉韦基亚 [La1 wei2 ji1 ya4] /Lavecchia/{}/
+拉維拉 拉维拉 [La1 wei2 la1] /La Villa/Villa, La/{}/
 拉韋拉 拉韦拉 [La1 wei2 la1] /Ravera/{}/
 拉韋利 拉韦利 [La1 wei2 li4] /Ravelli/{}/
+拉維洛 拉维洛 [La1 wei2 luo4] /Ravello/{}/
 拉維娜 拉维娜 [La1 wei2 na4] /Lavina/{}/
 拉維納 拉维纳 [La1 wei2 na4] /Lavena/Lavina/Lavinah/{}/
 拉維尼婭 拉维尼娅 [La1 wei2 ni2 ya4] /Lavinia/{}/
@@ -31742,6 +31757,7 @@
 雷塞 雷塞 [Lei2 se4] /Reece/{}/
 雷森迪 雷森迪 [Lei2 sen1 di2] /Resende/{}/
 雷沙 雷沙 [Lei2 sha1] /Reixa/{}/
+雷莎爾 雷莎尔 [Lei2 sha1 er3] /Rachel (modern)/{}/
 雷山縣 雷山县 [Lei2 shan1_Xian4] /Leishan (county, in Guizhou)/{}/
 雷舍爾 雷舍尔 [Lei2 she4 er3] /Leisure (name)/{}/
 雷施 雷施 [Lei2 shi1] /Resch/{}/
@@ -34274,6 +34290,7 @@
 魯特 鲁特 [Lu3 te4] /Rut/Rute/{}/
 魯特凱 鲁特凯 [Lu3 te4 kai3] /Rudtke/{}/
 魯滕伯格 鲁滕伯格 [Lu3 teng2 bo2 ge2] /Ruttenberg/{}/
+魯托羅語 鲁托罗语 [Lu3 tuo1 luo2 yu3] /Rutooro (language)/{}/
 魯瓦 鲁瓦 [Lu3 wa3] /Roi/Ruthi/Ruwa/{}/
 魯瓦馬庫巴 鲁瓦马库巴 [Lu3 wa3 ma3 ku4 ba1] /Rwamakuba/{}/
 魯瓦森 鲁瓦森 [Lu3 wa3 sen1] /Roisin/{}/
@@ -34537,6 +34554,7 @@
 倫瓦爾 伦瓦尔 [Lun2 wa3 er3] /Renvall/{}/
 倫威克 伦威克 [Lun2 wei1 ke4] /Renwick/{}/
 倫沃德 伦沃德 [Lun2 wo4 de2] /Renweard/{}/
+倫約羅 伦约罗 [Lun2 yue1 luo2] /Runyoro/{}/
 倫掌鄉 伦掌乡 [Lun2 zhang3_Xiang1] /Lunzhang Township/Township, Lunzhang/{}/
 倫茲 伦兹 [Lun2 zi1] /Lenz/Renz/{}/
 倫祖利 伦祖利 [Lun2 zu3 li4] /Renzulli/{}/
@@ -35295,6 +35313,7 @@
 洛斯阿拉莫斯 洛斯阿拉莫斯 [Luo4 si1 a1 la1 mo4 si1] /Los Alamos/Alamos, Los/{}/
 洛斯阿拉莫斯國家實驗室 洛斯阿拉莫斯国家实验室 [Luo4 si1 a1 la1 mo4 si1_Guo2 jia1_Shi2 yan4 shi4] /Los Alamos National Laboratory/Alamos National Laboratory, Los/{}/
 洛斯昂戈埃勒 洛斯昂戈埃勒 [Luo4 si1 ang2 ge1 ai1 le4] /Loos-en-Gohelle/{}/
+洛斯波索斯 洛斯波索斯 [Luo4 si1 bo1 suo3 si1] /Los Pozos/Pozos, Los/{}/
 洛斯卡 洛斯卡 [Luo4 si1 ka3] /Loska/{}/
 洛思羅普 洛思罗普 [Luo4 si1 luo2 pu3] /Lothrop/{}/
 洛斯托夫特 洛斯托夫特 [Luo4 si1 tuo1 fu1 te4] /Lowestoft/{}/
@@ -38263,6 +38282,7 @@
 蒙特勒 蒙特勒 [Meng2 te4 le4] /Montreux/{}/
 蒙特勒伊 蒙特勒伊 [Meng2 te4 le4 yi1] /Montreuil/{}/
 蒙特雷 蒙特雷 [Meng2 te4 lei2] /Monterrey/{}/
+蒙特里亞 蒙特里亚 [Meng2 te4 li3 ya4] /Montería/{}/
 蒙特利爾 蒙特利尔 [Meng2 te4 li4 er3] /Montreal/{}/
 蒙特利爾大學 蒙特利尔大学 [Meng2 te4 li4 er3_Da4 xue2] /University of Montreal/Montreal, University of/{}/
 蒙特婁 蒙特娄 [Meng2 te4 lou2] /Montreal (alternate translation)/{}/
@@ -43203,6 +43223,7 @@
 普萊斯 普莱斯 [Pu3 lai2 si1] /Place (surname)/{}/
 普萊斯特德 普莱斯特德 [Pu3 lai2 si1 te4 de2] /Plaisted/{}/
 普萊西爾 普莱西尔 [Pu3 lai2 xi1 er3] /Plaisir/{}/
+普萊亞諾 普莱亚诺 [Pu3 lai2 ya4 nuo4] /Praiano/{}/
 普賴爾 普赖尔 [Pu3 lai4 er3] /Pryor/{}/
 普賴默斯 普赖默斯 [Pu3 lai4 mo4 si1] /Primus/{}/
 普賴瑞 普赖瑞 [Pu3 lai4 rui4] /Prairie/{}/
@@ -45489,6 +45510,7 @@
 薩萊納 萨莱纳 [Sa4 lai2 na4] /Salina/{}/
 薩萊納克魯斯 萨莱纳克鲁斯 [Sa4 lai2 na4_Ke4 lu3 si1] /Salina Cruz/Cruz, Salina/{}/
 薩萊納斯 萨莱纳斯 [Sa4 lai2 na4 si1] /Salinas/{}/
+薩萊諾 萨莱诺 [Sa4 lai2 nuo4] /Salerno/{}/
 薩藍 萨蓝 [Sa4 lan2] /Saran/{}/
 薩蘭達 萨兰达 [Sa4 lan2 da2] /Sarandë/{}/
 薩蘭加尼 萨兰加尼 [Sa4 lan2 jia1 ni2] /Sarangani/{}/
@@ -46456,6 +46478,7 @@
 瑟勒河 瑟勒河 [Se4 le4_He2] /Seulles (river)/{}/
 瑟勒比 瑟勒比 [Se4 le4 bi3] /Çelebi/Celebi/{}/
 瑟雷爾 瑟雷尔 [Se4 lei2 er3] /Serrell/{}/
+瑟雷赫 瑟雷赫 [Se4 lei2 he4] /Syrykh/{}/
 塞雷娜 塞雷娜 [Se4 lei2 na4] /Serena/{}/
 塞雷諾 塞雷诺 [Se4 lei2 nuo4] /Sereno/{}/
 色雷斯 色雷斯 [Se4 lei2 si1] /Thrace/{}/
@@ -49931,6 +49954,7 @@
 蘇利特 苏利特 [Su1 li4 te4] /Sulit/{}/
 蘇利文 苏利文 [Su1 li4 wen2] /Sullivan/{}/
 蘇利亞 苏利亚 [Su1 li4 ya4] /Zulia/{}/
+蘇連多 苏连多 [Su1 lian2 duo1] /Sorrento/{}/
 蘇列 苏列 [Su1 lie4] /Zuriel/{}/
 蘇林 苏林 [Su1 lin2] /Soren/{}/
 蘇林德 苏林德 [Su1 lin2 de2] /Surinder/{}/
@@ -54168,6 +54192,8 @@
 維斯瓦河 维斯瓦河 [Wei2 si1 wa3 he2] /Vistula River/River, Vistula/{}/
 維斯瓦納坦 维斯瓦纳坦 [Wei2 si1 wa3 na4 tan3] /Viswanathan/{}/
 維蘇威 维苏威 [Wei2 su1 wei1] /Vesuvius/{}/
+維蘇威環線火車 维苏威环线火车 [Wei2 su1 wei1_Huan2 xian4_Huo3 che1] /Circumvesuviana (train)/{}/
+維蘇威環線鐵路 维苏威环线铁路 [Wei2 su1 wei1_Huan2 xian4_Tie3 lu4] /Circumvesuviana (railway)/{}/
 維蘇耶雷 维苏耶雷 [Wei2 su1 ye1 lei2] /Verschuere/Verschueren/{}/
 韋素爾 韦素尔 [Wei2 su4 er3] /Wiesel (older translation)/{}/
 維索 维索 [Wei2 suo3] /Visso/{}/
@@ -64170,6 +64196,7 @@
 安全漏洞 安全漏洞 [an1 quan2_lou4 dong4] /security flaw/flaw, security/{}/
 安全模式 安全模式 [an1 quan2_mo2 shi4] /safe mode (Windows XP)/mode, safe (Windows XP)/{}/
 安全評估人員 安全评估人员 [an1 quan2_ping2 gu1_ren2 yuan2] /safety engineer/engineer, safety/{}/
+安全清除程序 安全清除程序 [an1 quan2_qing1 chu2_cheng2 xu4] /secure wipe program/wipe program, secure/{}/
 安全水域 安全水域 [an1 quan2_shui3 yu4] /safe water (area)/water, safe (area)/{}/
 安全問題 安全问题 [an1 quan2_wen4 ti2] /security question/<comp.>/{}/
 安全要求 安全要求 [an1 quan2_yao1 qiu2] /safety requirements/requirements, safety/{}/
@@ -64631,6 +64658,7 @@
 北樓 北楼 [bei3 lou2] /north tower (of the World Trade Centre)/tower, north (of the World Trade Centre)/{}/
 北門樓 北门楼 [bei3 men2 lou2] /north gate/gate, north/{}/
 被霸凌者 被霸凌者 [bei4_ba4 ling2_zhe3] /victim of bullying/bullied person/bullying, victim of/person, bullied/{}/
+被查到 被查到 [bei4_cha2 dao4] /be found out/be inspected/found out, be/inspected, be/{}/
 被斥為 被斥为 [bei4_chi4_wei2] /rejected as/{}/
 被傳染 被传染 [bei4_chuan2 ran3] /get infected/infected, get/{}/
 被吹捧過度 被吹捧过度 [bei4_chui1 peng3_guo4 du4] /overhyped/{}/
@@ -65231,6 +65259,7 @@
 不認同 不认同 [bu4_ren4 tong2] /disagree with/disapprove/with, disagree/{}/
 不認為是 不认为是 [bu4_ren4 wei2_shi4] /not thinking it's/thinking it's, not/{}/
 不容錯過 不容错过 [bu4_rong2_cuo4 guo4] /must-see/unmissable (of movie etc)/{}/
+不容易 不容易 [bu4_rong2 yi4] /not easy/easy, not/{}/
 不設試身 不设试身 [bu4_she4_shi4 shen1] /no fitning facilities/no trying on (of clothes in shop)/fitning facilities, no (of clothes in shop)/trying on, no (of clothes in shop)/<HK>/{}/
 不適當 不适当 [bu4_shi4 dang4] /improper/out of place/inappropriate/place, out of/{}/
 不是指 不是指 [bu4_shi4 zhi3] /not meaning (sthg)/meaning, not (sthg)/{}/
@@ -65564,6 +65593,7 @@
 差異化定價 差异化定价 [cha1 yi4 hua4_ding4 jia4] /differential pricing/pricing, differential/{}/
 茶餐廳 茶餐厅 [cha2_can1 ting1] /HK teahouse/cha chaan teng/teahouse, HK/chaan teng, cha/{}/
 查詞典 查词典 [cha2_ci2 dian3] /consult a dictionary/look up a word in a dictionary/dictionary, consult a/word in a dictionary, look up a/{}/
+查看看 查看看 [cha2_kan4 kan5] /have a look/check out (sthg)/look, have a (sthg)/{}/
 茶類 茶类 [cha2_lei4] /types of tea/tea, types of/{}/
 查一查 查一查 [cha2_yi5_cha2] /consult|lookup/compare|check/{}/
 查一下 查一下 [cha2_yi1 xia4] /check it/look into/{}/
@@ -66833,6 +66863,7 @@
 帶著 带着 [dai4 zhe5] /taking (with)/together with/together with, taking/{}/
 戴著 戴着 [dai4 zhe5] /wearing (of headgear etc)/{}/
 戴著玫瑰色眼鏡 戴着玫瑰色眼镜 [dai4 zhe5_mei2 gui5 se4_yan3 jing4] /through rose-tinted glasses (do something)/(while) wearning rose-coloured glasses (do something)/rose-tinted glasses, through/rose-coloured glasses, wearning/{}/
+單筆轉帳 单笔转帐 [dan1_bi3_zhuan3 zhang4] /one-off transfer (of funds)/standalone electronic funds transfer/transaction/transfer, one-off/electronic funds transfer, standalone/{}/
 單柄鍋 单柄锅 [dan1 bing3 guo1] /one-handled cooking pot/cooking pot, one-handled/{}/
 單獨點開 单独点开 [dan1 du2_dian3 kai1] /individually click to open/individually tap to open (tedious GUI operation)/click to open, individually (tedious GUI operation)/open, individually tap to (tedious GUI operation)/{}/
 單氟磷酸鈉 单氟磷酸钠 [dan1 fu2 lin2 suan1 na4] /sodium monofluorophosphate/monofluorophosphate, sodium/{}/
@@ -66904,6 +66935,7 @@
 當地華人社團 当地华人社团 [dang1 di4_Hua2 ren2_she4 tuan2] /Chinese organizations (of local Chinese people)/organizations, Chinese (of local Chinese people)/{}/
 當地稱 当地称 [dang1 di4_cheng1] /locally known as/known as, locally/{}/
 當地的 当地的 [dang1 di4_de5] /local/{}/
+當地法律 当地法律 [dang1 di4_fa3 lu:4] /local laws/laws, local/{}/
 當地機構 当地机构 [dang1 di4_ji1 gou4] /local institution/institution, local/{}/
 當地居民 当地居民 [dang1 di4_ju1 min2] /local residents/residents, local/{}/
 當地需求和情況 当地需求和情况 [dang1 di4_xu1 qiu2_he2_qing2 kuang4] /local needs and circumstances/needs and circumstances, local/{}/
@@ -66947,6 +66979,7 @@
 到天上去 到天上去 [dao4_tian1 shang5_qu4] /go to heaven/heaven, go to/{}/
 到外面吃飯 到外面吃饭 [dao4_wai4 mian5_chi1 fan4] /going out to eat/eating out/eat, going out to/{}/
 到需要傳道員的地區服務 到需要传道员的地区服务 [dao4_xu1 yao4_chuan2 dao4 yuan2_de5_di4 qu1_fu2 wu4] /move where preachers are needed/where preachers are needed, move/{}/
+盜版軟件 盗版软件 [dao4 ban3_ruan3 jian4] /pirated software (illegal and dangerous)/software, pirated (illegal and dangerous)/{}/
 到步 到步 [dao4 bu4] /arrive safely/safely, arrive/<Cantonese>/{}/
 道德崩潰 道德崩溃 [dao4 de2_beng1 kui4] /moral breakdown/breakdown, moral/{}/
 道德標準 道德标准 [dao4 de2_biao1 zhun3] /moral values/moral standards/moral convictions/values, moral/standards, moral/convictions, moral/{}/
@@ -67017,6 +67050,7 @@
 得等 得等 [dei3_deng3] /have to wait/wait, have to/{}/
 得面對 得面对 [dei3_mian4 dui4] /have to face/{}/
 得走了 得走了 [dei3_zou3_le5] /need to go/{}/
+登船牌 登船牌 [deng1 chuan2 pai2] /boarding pass for boat/pass for boat, boarding/{}/
 登革熱 登革热 [deng1 ge2 re4] /dengue/{}/
 登革熱病 登革热病 [deng1 ge2 re4 bing4] /dengue fever/fever, dengue/{}/
 燈光昏暗的地方 灯光昏暗的地方 [deng1 guang1_hun1 an4_de5_di4 fang5] /low-light environment/environment, low-light/{}/
@@ -67194,6 +67228,7 @@
 地下墓窟 地下墓窟 [di4 xia4_mu4 ku1] /catacomb/{}/
 地下人行通道 地下人行通道 [di4 xia4_ren2 xing2_tong1 dao4] /underpass/subway (pedestrian)/{}/
 地獄永火 地狱永火 [di4 yu4_yong3 huo3] /hellfire (doctrine)/{}/
+地獄級 地狱级 [di4 yu4 ji2] /hellish/{}/
 地緣政治 地缘政治 [di4 yuan2_zheng4 zhi4] /geopolitics/geopolitical/{}/
 締約人 缔约人 [di4 yue1 ren2] /participants in a covenant/covenant, participants in a/{}/
 睇真啲 睇真啲 [di4 zhen1 di4] /inside story/looking at what it's really like (in Cantonese TV-programme titles)/story, inside (in Cantonese TV-programme titles)/what it's really like, looking at (in Cantonese TV-programme titles)/{}/
@@ -67357,6 +67392,7 @@
 殿役 殿役 [dian4 yi4] /Nethinim/{}/
 電影導演 电影导演 [dian4 ying3_dao3 yan3] /film director/director, film/{}/
 電影特效 电影特效 [dian4 ying3_te4 xiao4] /movie special effects/special effects, movie/{}/
+電影展映 电影展映 [dian4 ying3_zhan3 ying4] /film screening/screening, film/{}/
 電泳 电泳 [dian4 yong3] /electrophoresis/electrophoretic/{}/
 電涌 电涌 [dian4 yong3] /power surge/surge, power/{}/
 電郵地址 电邮地址 [dian4 you2_di4 zhi3] /email address/address, email/{}/
@@ -67400,6 +67436,7 @@
 電子郵件超載 电子邮件超载 [dian4 zi3_you2 jian4_chao1 zai4] /email overload/inbox overload/overload, email/{}/
 電子郵件地址 电子邮件地址 [dian4 zi3_you2 jian4_di4 zhi3] /email address/address, email/{}/
 電子郵件服務供應商 电子邮件服务供应商 [dian4 zi3_you2 jian4_fu2 wu4_gong1 ying4 shang1] /email service provider/service provider, email/{}/
+電子郵箱 电子邮箱 [dian4 zi3_you2 xiang1] /email address/address, email/{}/
 電子鎮流器 电子镇流器 [dian4 zi3_zhen4 liu2 qi4] /electronic ballast/ballast, electronic/{}/
 電子版 电子版 [dian4 zi3 ban3] /electronic edition (of a publication)/edition, electronic (of a publication)/{}/
 電子版出版物 电子版出版物 [dian4 zi3 ban3_chu1 ban3 wu4] /digital publications/publications, digital/{}/
@@ -67442,6 +67479,7 @@
 吊唁簿 吊唁簿 [diao4 yan4 bu4] /condolence book/book, condolence/{}/
 調用 调用 [diao4 yong4] /call (a function)/<comp.>/{}/
 釣魚網站 钓鱼网站 [diao4 yu2_wang3 zhan4] /phishing website/website, phishing/{}/
+釣魚信息 钓鱼信息 [diao4 yu2_xin4 xi1] /phishing message/message, phishing/{}/
 釣魚郵件 钓鱼邮件 [diao4 yu2_you2 jian4] /phishing email/email, phishing/{}/
 釣魚翁 钓鱼翁 [diao4 yu2 weng1] /old fisherman/High Junk Peak (HK)/fisherman, old (HK)/Junk Peak, High (HK)/{}/
 疊衣服 叠衣服 [die2_yi1 fu5] /folding the clothes/clothes, folding the/{}/
@@ -67582,6 +67620,7 @@
 抖音 抖音 [dou3 yin1] /vibrato/{}/
 逗死 逗死 [dou4_si3] /tease (me) to death/death, tease to/<netspeak>/{}/
 逗死我了 逗死我了 [dou4_si3_wo3_le5] /tease me to death/death, tease me to/<netspeak>/{}/
+豆板醬 豆板酱 [dou4 ban3 jiang4] /fermented chili bean paste/chili bean paste, fermented/{}/
 逗比 逗比 [dou4 bi3] /dopey/<netspeak>/{}/
 豆乾 豆干 [dou4 gan1] /(semi-) dry tofu/tofu, dry/{}/
 豆漿機 豆浆机 [dou4 jiang1 ji1] /soybean milk maker/milk maker, soybean/{}/
@@ -67847,6 +67886,7 @@
 惡性黑素瘤 恶性黑素瘤 [e4 xing4_hei1 su4 liu2] /malignant melanoma/melanoma, malignant/{}/
 惡意服從 恶意服从 [e4 yi4_fu2 cong2] /malicious compliance/compliance, malicious/{}/
 惡意攻擊 恶意攻击 [e4 yi4_gong1 ji1] /malicious attack/attack, malicious/{}/
+惡意軟件 恶意软件 [e4 yi4_ruan3 jian4] /malware/{}/
 惡者 恶者 [e4 zhe3] /evil one/{}/
 惡咒 恶咒 [e4 zhou4] /spell (in sorcery; lit. evil oath)/{}/
 恩恩 恩恩 [en1 en1] /yes (reluctant?) (use on MSN etc)/{}/
@@ -67943,6 +67983,7 @@
 發布者 发布者 [fa1 bu4 zhe3] /promoter|publisher/{}/
 發財捷徑 发财捷径 [fa1 cai2_jie2 jing4] /get-rich-quick schemes (lit. shortcuts)/{}/
 發財夢 发财梦 [fa1 cai2 meng4] /dream of getting rich/getting rich, dream of/{}/
+發車起點 发车起点 [fa1 che1_qi3 dian3] /departure point (of vehicle)/point, departure (of vehicle)/{}/
 發船 发船 [fa1 chuan2] /launch a boat/boat, launch a/{}/
 發錯 发错 [fa1 cuo4] /sent mistakenly (to wrong number etc)/mistakenly, sent (to wrong number etc)/{}/
 發電機原理 发电机原理 [fa1 dian4 ji1_yuan2 li3] /dynamo theory/theory, dynamo/{}/
@@ -68112,6 +68153,7 @@
 反光貼紙 反光贴纸 [fan3 guang1_tie1 zhi3] /reflective sticker/sticker, reflective/{}/
 返回艙 返回舱 [fan3 hui2 cang1] /reentry capsule/capsule, reentry/{}/
 返回值 返回值 [fan3 hui2 zhi2] /return value (of function)/value, return (of function)/<comp.>/{}/
+返家 返家 [fan3 jia1] /return home/home, return/{}/
 反抗議 反抗议 [fan3 kang4 yi4] /counter-protest/{}/
 反抗議者 反抗议者 [fan3 kang4 yi4 zhe3] /counter-protestor/{}/
 反口罩者 反口罩者 [fan3 kou3 zhao4 zhe3] /anti-masker (covid19 conspiracy theorist)/{}/
@@ -68897,7 +68939,9 @@
 趕往 赶往 [gan3 wang3] /dash toward/toward, dash/{}/
 感謝卡 感谢卡 [gan3 xie4 ka3] /note of gratitude/thankyou card/gratitude, note of/card, thankyou/{}/
 感性上 感性上 [gan3 xing4_shang5] /emotionally/in emotional aspects/emotional aspects, in/{}/
+感應信用卡 感应信用卡 [gan3 ying4_xin4 yong4 ka3] /contactless credit card/credit card, contactless/{}/
 感應區 感应区 [gan3 ying4 qu1] /sensor area (for contactless card)/area, sensor (for contactless card)/{}/
+感應式 感应式 [gan3 ying4 shi4] /contactless (type, of card etc)/{}/
 感召力 感召力 [gan3 zhao4 li4] /charisma/ability to inspire/{}/
 感知到 感知到 [gan3 zhi1_dao4] /perceive/{}/
 感知交互 感知交互 [gan3 zhi1_jiao1 hu4] /perceptual interaction/interaction, perceptual/{}/
@@ -68939,6 +68983,7 @@
 高對比 高对比 [gao1_dui4 bi3] /high contrast/contrast, high/{}/
 高對比度 高对比度 [gao1_dui4 bi3 du4] /high contrast/contrast, high/{}/
 高對比度模式 高对比度模式 [gao1_dui4 bi3 du4_mo2 shi4] /high contrast mode/contrast mode, high/{}/
+高風險 高风险 [gao1_feng1 xian3] /high risk/risk, high/{}/
 高喚醒 高唤醒 [gao1_huan4 xing3] /hyperarousal (PTSD etc)/{}/
 高精度 高精度 [gao1_jing1 du4] /high-precision/{}/
 高能耗 高能耗 [gao1_neng2 hao4] /high energy consumption/energy consumption, high/{}/
@@ -68992,6 +69037,7 @@
 高清 高清 [gao1 qing1] /high definition/{}/
 高三 高三 [gao1 san1] /high-school third grade (China, =year12)/third grade, high-school (China, =year12)/{}/
 高帥富 高帅富 [gao1 shuai4 fu4] /tall rich and handsome/rich and handsome, tall/{}/
+高速渡輪 高速渡轮 [gao1 su4_du4 lun2] /high-speed ferry (catamaran etc)/ferry, high-speed (catamaran etc)/{}/
 高速火車 高速火车 [gao1 su4_huo3 che1] /high-speed train/train, high-speed/{}/
 高速列車 高速列车 [gao1 su4_lie4 che1] /high-speed trains/trains, high-speed/{}/
 高速運行的火車 高速运行的火车 [gao1 su4_yun4 xing2_de5_huo3 che1] /high-speed train/train, high-speed/{}/
@@ -70517,6 +70563,7 @@
 換工作 换工作 [huan4_gong1 zuo4] /change jobs/jobs, change/{}/
 換臉 换脸 [huan4_lian3] /face-changing (image processing software etc)/{}/
 換頁 换页 [huan4_ye4] /page break/new page/break, page/{}/
+換綁 换绑 [huan4 bang3] /rebind/change binding (of mobile number etc to account)/{}/
 患病的 患病的 [huan4 bing4_de5] /sick (person)/{}/
 患病去世 患病去世 [huan4 bing4_qu4 shi4] /sickness and death (of an individual)/death, sickness and (of an individual)/{}/
 換燈 换灯 [huan4 deng1] /change lights (of traffic lights etc)/lights, change (of traffic lights etc)/{}/
@@ -70568,6 +70615,7 @@
 灰常 灰常 [hui1 chang2] /extremely/<netspeak>/{}/
 灰堆 灰堆 [hui1 dui1] /ash heap(s)/heap(s), ash/{}/
 灰飛煙滅 灰飞烟灭 [hui1 fei1-yan1 mie4] /come to one's end in smoke/one's end in smoke, come to/{}/
+恢復成 恢复成 [hui1 fu4_cheng2] /reset to/{}/
 恢復正常 恢复正常 [hui1 fu4_zheng4 chang2] /go back to normal/back to normal, go/{}/
 恢復正常生活 恢复正常生活 [hui1 fu4_zheng4 chang2_sheng1 huo2] /return to normal life (after pandemic etc)/normal life, return to (after pandemic etc)/{}/
 恢復期血漿 恢复期血浆 [hui1 fu4 qi1_xue4 jiang1] /convalescent plasma (blood component with antibodies etc)/plasma, convalescent (blood component with antibodies etc)/{}/
@@ -70683,6 +70731,7 @@
 婚姻問題 婚姻问题 [hun1 yin1_wen4 ti2] /marital problems/problems, marital/{}/
 魂器 魂器 [hun2 qi4] /horcrux (in Rowling fiction)/{}/
 混在一起 混在一起 [hun4_zai4_yi1 qi3] /mix up/muddle up/{}/
+混搭 混搭 [hun4 da1] /mix and match/match, mix and/{}/
 混合電動汽車 混合电动汽车 [hun4 he2_dian4 dong4_qi4 che1] /hybrid electric vehicles/HEVs/electric vehicles, hybrid/{}/
 混合思維模式 混合思维模式 [hun4 he2_si1 wei2_mo2 shi4] /mixed thinking model (LLM switchable between direct response and chain-of-thought)/thinking model, mixed (LLM switchable between direct response and chain-of-thought)/{}/
 混合語言 混合语言 [hun4 he2_yu3 yan2] /pidgin (language)/{}/
@@ -70718,6 +70767,7 @@
 活躍參數量 活跃参数量 [huo2 yue4_can1 shu4_liang4] /active parameter count/parameter count, active/{}/
 活著 活着 [huo2 zhe5] /moving (living, e.g. moving animal)/{}/
 活字印刷機 活字印刷机 [huo2 zi4_yin4 shua1 ji1] /printing press using movable type/press using movable type, printing/{}/
+活字印刷術 活字印刷术 [huo2 zi4_yin4 shua1 shu4] /movable-type printing/printing, movable-type/{}/
 火把頭 火把头 [huo3 ba3 tou5] /(fire) torch head (?)/head, torch (?)/{}/
 伙伴關係 伙伴关系 [huo3 ban4_guan1 xi5] /partnership (of business relationship etc)/{}/
 夥伴 夥伴 [huo3 ban4] /partner (variant)/{}/
@@ -71102,6 +71152,7 @@
 加個微信 加个微信 [jia1_ge5_Wei1 xin4] /add each other on WeChat/each other on WeChat, add/WeChat, add each other on/{}/
 加好友 加好友 [jia1_hao3 you3] /add friend (on social media)/friend, add (on social media)/{}/
 家裡的事 家里的事 [jia1_li5_de5_shi4] /family matters/matters, family/{}/
+家里的事情 家里的事情 [jia1_li5_de5_shi4 qing2] /family matters/matters, family/{}/
 加他 加他 [jia1_ta1] /add him (on QQ etc)/{}/
 加我微信 加我微信 [jia1_wo3_Wei1 xin4] /add me on WeChat/WeChat, add me on/{}/
 家暴 家暴 [jia1 bao4] /domestic abuse/domestic violence/abuse, domestic/violence, domestic/{}/
@@ -72081,6 +72132,7 @@
 浄化器 浄化器 [jing4 hua4 qi4] /purifier/{}/
 競技會 竞技会 [jing4 ji4 hui4] /games/athletic contests (first-century etc)/{}/
 靜靜坐著 静静坐着 [jing4 jing4_zuo4 zhe5] /sit in silence/silence, sit in/{}/
+淨空 浄空 [jing4 kong1] /clear/empty (of transport etc)/{}/
 鏡冷刀 镜冷刀 [jing4 leng3 dao1] /cold knife hysteroscopy/knife hysteroscopy, cold/{}/
 靜脈血栓栓塞 静脉血栓栓塞 [jing4 mai4_xue4 shuan1_shuan1 se4] /venous thromboembolism/VTE/thromboembolism, venous/{}/
 靜默模式 静默模式 [jing4 mo4_mo2 shi4] /silent mode/mode, silent/{}/
@@ -72231,6 +72283,7 @@
 炬燵 炬燵 [ju4 da2] /kotatsu/Japanese leg warming device/{}/
 佢哋 佢哋 [ju4 di4] /they (Cantonese)/{}/
 句法模式 句法模式 [ju4 fa3_mo2 shi4] /syntactic pattern/pattern, syntactic/{}/
+距骨 距骨 [ju4 gu3] /talus bone/bone, talus/{}/
 聚合酶 聚合酶 [ju4 he2 mei2] /polymerase/{}/
 聚合酶連鎖反應 聚合酶连锁反应 [ju4 he2 mei2_lian2 suo3_fan3 ying4] /polymerase chain reaction/PCR/chain reaction, polymerase/{}/
 鉅惠 钜惠 [ju4 hui4] /very favourable (advertising phrase)/favourable, very (advertising phrase)/{}/
@@ -73815,6 +73868,7 @@
 邁出一大步 迈出一大步 [mai4 chu1_yi1_da4_bu4] /take a big step (fig.|lit.)/step, take a big (fig.|lit.)/{}/
 賣到 卖到 [mai4 dao4] /sell into (a place)/{}/
 麥稈 麦秆 [mai4 gan3] /straw/{}/
+賣家 卖家 [mai4 jia1] /seller/{}/
 麥莖 麦茎 [mai4 jing1] /wheat stalk/stalk, wheat/{}/
 賣來 卖来 [mai4 lai5] /sold (to come) here/here, sold/{}/
 麥蘆卡 麦芦卡 [mai4 lu2 ka3] /manuka (flower)/{}/
@@ -74075,7 +74129,7 @@
 密環菌 密环菌 [mi4 huan2 jun4] /Armillaria ostoyae/honey fungus/ostoyae, Armillaria/fungus, honey/{}/
 密集陣 密集阵 [mi4 ji2 zhen4] /phalanx (weaponry)/{}/
 密碼不匹配 密码不匹配 [mi4 ma3_bu4_pi3 pei4] /passwords do not match/match, passwords do not/{}/
-密碼管理 密码管理 [mi4 ma3_guan3 li3] /password management/management, password/{}/
+密碼管理 密码管理 [mi4 ma3_guan3 li3] /password management/password manager/management, password/manager, password/{}/
 密碼噴灑 密码喷洒 [mi4 ma3_pen1 sa3] /password spraying (well-known passwords across many accounts)/spraying, password (well-known passwords across many accounts)/<comp.>/{}/
 嘧霉胺 嘧霉胺 [mi4 mei2 an4] /pyrimethanil/{}/
 秘密干預策略 秘密干预策略 [mi4 mi4_gan1 yu4_ce4 lu:e4] /covert interference strategy (by a state etc)/interference strategy, covert (by a state etc)/{}/
@@ -74683,6 +74737,7 @@
 寧靜的環境 宁静的环境 [ning2 jing4_de5_huan2 jing4] /quiet atmosphere/atmosphere, quiet/{}/
 寧科維奇 宁科维奇 [ning2 ke1 wei2 qi2] /Ninković/{}/
 凝露 凝露 [ning2 lu4] /dew (cosmetics)/{}/
+檸檬酒 柠檬酒 [ning2 meng2 jiu3] /limoncello/{}/
 檸檬塔 柠檬塔 [ning2 meng2 ta3] /lemon tart/tart, lemon/{}/
 檸檬撻 柠檬挞 [ning2 meng2 ta4] /lemon tart/tart, lemon/{}/
 檸檬汁 柠檬汁 [ning2 meng2 zhi1] /lemon juice/juice, lemon/{}/
@@ -75054,6 +75109,7 @@
 漂髮 漂发 [piao3 fa4] /bleach the hair/{}/
 票代 票代 [piao4 dai4] /airline ticket agency/ticket agency, airline/{}/
 票圈 票圈 [piao4 quan1] /(circle of) friends (abbreviated)/{}/
+票務 票务 [piao4 wu4] /ticketing (service)/{}/
 撇下一切 撇下一切 [pie1 xia5_yi1 qie4] /abandon everything/everything, abandon/{}/
 拼拼圖 拼拼图 [pin1_pin1 tu2] /put together a jigsaw puzzle/together a jigsaw puzzle, put/{}/
 拼車 拼车 [pin1 che1] /carpool/{}/
@@ -75592,6 +75648,7 @@
 情報部門 情报部门 [qing2 bao4_bu4 men2] /intelligence agency/intelligence department/agency, intelligence/department, intelligence/{}/
 情報機構 情报机构 [qing2 bao4_ji1 gou4] /intelligence agency/agency, intelligence/{}/
 情報界 情报界 [qing2 bao4 jie4] /intelligence community (US etc)/{}/
+情感比較脆弱的人 情感比较脆弱的人 [qing2 gan3_bi3 jiao4_cui4 ruo4_de5_ren2] /emotionally vulnerable people (targeted by criminals etc)/vulnerable people, emotionally (targeted by criminals etc)/{}/
 情感共鳴 情感共鸣 [qing2 gan3_gong4 ming2] /emotional resonance/resonance, emotional/{}/
 情感共情 情感共情 [qing2 gan3_gong4 qing2] /affective empathy/empathy, affective/{}/
 情感計算 情感计算 [qing2 gan3_ji4 suan4] /affective computing/computing, affective/{}/
@@ -75962,6 +76019,7 @@
 人力資源部 人力资源部 [ren2 li4_zi1 yuan2_bu4] /human resources/HR (department in company etc)/resources, human (department in company etc)/{}/
 人鏈 人链 [ren2 lian4] /human chain/chain, human/{}/
 人流量 人流量 [ren2 liu2 liang4] /pedestrian traffic/traffic, pedestrian/{}/
+人龍 人龙 [ren2 long2] /long queue/queue, long/{}/
 人脈 人脉 [ren2 mai4] /connections (to people you know)/networking (among people)/{}/
 人脈資源 人脉资源 [ren2 mai4_zi1 yuan2] /connections (people someone knows)/{}/
 人脈圈 人脉圈 [ren2 mai4 quan1] /network (of people, for business etc)/{}/
@@ -76366,6 +76424,7 @@
 曬網場 晒网场 [shai4 wang3 chang3] /drying yard for dragnets/yard for dragnets, drying/{}/
 山獅 山狮 [shan1_shi1] /mountain lion/lion, mountain/{}/
 山外山 山外山 [shan1_wai4_shan1] /there's always something better/always something better, there's/{}/
+山壁 山壁 [shan1 bi4] /mountainside (steep)/{}/
 刪除掉 删除掉 [shan1 chu2 diao4] /delete/{}/
 山地民族 山地民族 [shan1 di4_min2 zu2] /hill tribe/tribe, hill/{}/
 煽點 煽点 [shan1 dian3] /to fan a fire (starting it?)/fire, to fan a (starting it?)/{}/
@@ -76619,6 +76678,7 @@
 設計學 设计学 [she4 ji4 xue2] /design (as a subject)/{}/
 社交達人 社交达人 [she4 jiao1_da2 ren2] /social butterfly/people person/butterfly, social/person, people/{}/
 社交定位 社交定位 [she4 jiao1_ding4 wei4] /social orientation (in student community etc)/orientation, social (in student community etc)/{}/
+社交工程攻擊 社交工程攻击 [she4 jiao1_gong1 cheng2_gong1 ji1] /social engineering attack/engineering attack, social/{}/
 社交溝通 社交沟通 [she4 jiao1_gou1 tong1] /social communication/communication, social/{}/
 社交規則 社交规则 [she4 jiao1_gui1 ze2] /social rules/rules, social/{}/
 社交環境 社交环境 [she4 jiao1_huan2 jing4] /social environment (of students etc)/environment, social (of students etc)/{}/
@@ -77552,6 +77612,7 @@
 售賣臺 售卖台 [shou4 mai4 tai2] /sale stands/stands, sale/{}/
 售賣亭 售卖亭 [shou4 mai4 ting2] /selling booth/booth, selling/{}/
 受虐 受虐 [shou4 nu:e4] /mistreated/{}/
+售票機 售票机 [shou4 piao4 ji1] /ticket machine/machine, ticket/{}/
 授權范圍 授权范围 [shou4 quan2_fan4 wei2] /scope of authorisation/authorisation, scope of/{}/
 授權合約 授权合约 [shou4 quan2_he2 yue1] /license agreement/agreement, license/{}/
 受傷者 受伤者 [shou4 shang1 zhe3] /injuries/injured people/{}/
@@ -77672,9 +77733,10 @@
 束起 束起 [shu4 qi5] /bundle up (and come?)/{}/
 豎起耳朵 竖起耳朵 [shu4 qi3_er3 duo5] /ears prick up (?)/prick up, ears (?)/{}/
 數千 数千 [shu4 qian1] /thousands/{}/
+數千億 数千亿 [shu4 qian1 yi4] /millions and billions/billions, millions and/{}/
 豎琴聲 竖琴声 [shu4 qin2 sheng1] /sound of harp/harp, sound of/{}/
 束上 束上 [shu4 shang5] /tie over (to fix clothing etc)/over, tie (to fix clothing etc)/{}/
-數十年 数十年 [shu4 shi2 nian2] /decades (of experience etc)/{}/
+數十年 数十年 [shu4 shi2_nian2] /decades (of experience etc)/{}/
 術士長 术士长 [shu4 shi4 zhang3] /Rabmag/{}/
 樹薯 树薯 [shu4 shu3] /manioc/{}/
 樹突 树突 [shu4 tu1] /dendrites (neural tree connections)/{}/
@@ -78179,7 +78241,7 @@
 所屬單位 所属单位 [suo3 shu3_dan1 wei4] /affiliation/department (of person)/{}/
 所屬機構 所属机构 [suo3 shu3_ji1 gou4] /affiliation/organisation one belongs to/{}/
 所思所想 所思所想 [suo3 si1 suo3 xiang3] /thoughts and feelings/feelings, thoughts and/{}/
-鎖死 锁死 [suo3 si3] /lock in/deadlock/{}/
+鎖死 锁死 [suo3 si3] /lock in/deadlock/lock up/{}/
 所言所行 所言所行 [suo3 yan2-suo3 xing2] /tongue and dealings/words and actions/dealings, tongue and/actions, words and/{}/
 索引條目 索引条目 [suo3 yin3_tiao2 mu4] /index entry/entry, index/{}/
 它本身重量 它本身重量 [ta1_ben3 shen1_zhong4 liang4] /its own weight/weight, its own/{}/
@@ -78685,6 +78747,7 @@
 通識 通识 [tong1 shi2] /general knowledge/knowledge, general/{}/
 通俗報刊 通俗报刊 [tong1 su2_bao4 kan1] /tabloid publications/popular press/publications, tabloid/press, popular/{}/
 通完 通完 [tong1 wan2] /gone through/finished communicating on (phone)/through, gone (phone)/communicating on, finished (phone)/{}/
+通行密鑰 通行密钥 [tong1 xing2_mi4 yao4] /passkey/{}/
 通訊工程師 通讯工程师 [tong1 xun4_gong1 cheng2 shi1] /communications engineer/engineer, communications/{}/
 通訊科技 通讯科技 [tong1 xun4_ke1 ji4] /communications technology/technology, communications/{}/
 通訊者 通讯者 [tong1 xun4 zhe3] /communicating party/respondent/party, communicating/{}/
@@ -78817,6 +78880,7 @@
 投票中心 投票中心 [tou2 piao4_zhong1 xin1] /voting centre/polling station/centre, voting/station, polling/{}/
 投票率 投票率 [tou2 piao4 lu:4] /voter turnout (rate)/turnout, voter (rate)/{}/
 投票票 投票票 [tou2 piao4 piao5] /cast vote (informal, student clubs etc)/vote, cast (informal, student clubs etc)/{}/
+頭生的牲畜 头生的牲畜 [tou2 sheng1_de5_sheng1 chu4] /firstborn of beast/beast, firstborn of/{}/
 頭生子 头生子 [tou2 sheng1 zi3] /firstborn (of creation)/{}/
 投石帶 投石带 [tou2 shi2 dai4] /sling (for throwing stones)/{}/
 投石手 投石手 [tou2 shi2 shou3] /slinger (person who slings stones etc)/{}/
@@ -79052,6 +79116,7 @@
 外國專家 外国专家 [wai4 guo2_zhuan1 jia1] /foreign expert/expert, foreign/<PRC>/{}/
 外航 外航 [wai4 hang2] /foreign airline/airline, foreign/{}/
 外核 外核 [wai4 he2] /outer core (of earth etc)/core, outer (of earth etc)/{}/
+外踝 外踝 [wai4 huai2] /outer ankle (bone)/lateral malleolus/ankle lateral malleolus, outer/{}/
 外踝骨 外踝骨 [wai4 huai2 gu3] /outer ankle bone/lateral malleolus/ankle bone, outer/malleolus, lateral/{}/
 外籍編輯 外籍编辑 [wai4 ji2_bian1 ji2] /international editor (foreigner working for Chinese media)/editor, international (foreigner working for Chinese media)/{}/
 外籍精英 外籍精英 [wai4 ji2_jing1 ying1] /foreign elite/elite, foreign/{}/
@@ -79059,6 +79124,7 @@
 外交人員 外交人员 [wai4 jiao1_ren2 yuan2] /diplomat(s)/{}/
 外交政策 外交政策 [wai4 jiao1_zheng4 ce4] /foreign policy/policy, foreign/{}/
 外教平台 外教平台 [wai4 jiao4_ping2 tai2] /foreign-teacher platform (for online English learning etc)/{}/
+外接設備 外接设备 [wai4 jie1_she4 bei4] /external device/peripheral/device, external/{}/
 外科口罩 外科口罩 [wai4 ke1_kou3 zhao4] /surgical mask/mask, surgical/{}/
 外科手術 外科手术 [wai4 ke1_shou3 shu4] /surgery/operations/{}/
 外科植入物 外科植入物 [wai4 ke1_zhi2 ru4 wu4] /surgical implant/implant, surgical/{}/
@@ -79208,11 +79274,14 @@
 網絡曝光 网络曝光 [wang3 luo4_bao4 guang1] /expose (video) online/online, expose/{}/
 網絡暴力 网络暴力 [wang3 luo4_bao4 li4] /cyberbullying/{}/
 網絡犯罪 网络犯罪 [wang3 luo4_fan4 zui4] /Internet or network crime/cybercrime/network crime, Internet or/{}/
+網絡犯罪分子 网络犯罪分子 [wang3 luo4_fan4 zui4_fen4 zi3] /cybercriminals/{}/
 網絡服務供應商 网络服务供应商 [wang3 luo4_fu2 wu4_gong1 ying4 shang1] /Internet service provider/service provider, Internet/{}/
 網絡服務商 网络服务商 [wang3 luo4_fu2 wu4_shang1] /Internet service provider/service provider, Internet/{}/
 網絡服務器 网络服务器 [wang3 luo4_fu2 wu4 qi4] /Web server/server, Web/{}/
+網絡跟蹤 网络跟踪 [wang3 luo4_gen1 zong1] /cyberstalking/{}/
 網絡工程 网络工程 [wang3 luo4_gong1 cheng2] /network engineering/engineering, network/{}/
 網絡攻擊 网络攻击 [wang3 luo4_gong1 ji1] /cyberattack/{}/
+網絡購物詐騙 网络购物诈骗 [wang3 luo4_gou4 wu4_zha4 pian4] /online shopping fraud/shopping fraud, online/{}/
 網絡恐怖主義 网络恐怖主义 [wang3 luo4_kong3 bu4 zhu3 yi4] /cyberterrorism/{}/
 網絡口碑營銷 网络口碑营销 [wang3 luo4_kou3 bei1_ying2 xiao1] /electronic word-of-mouth (marketing)/eWoM/Internet word-of-mouth/word-of-mouth eWoM, electronic/{}/
 網絡連接 网络连接 [wang3 luo4_lian2 jie1] /network connection/connection, network/{}/
@@ -79230,6 +79299,7 @@
 網絡謠言 网络谣言 [wang3 luo4_yao2 yan2] /Internet rumours/rumours, Internet/{}/
 網絡營銷 网络营销 [wang3 luo4_ying2 xiao1] /Internet marketing/E-marketing/marketing, Internet/{}/
 網絡語言 网络语言 [wang3 luo4_yu3 yan2] /netspeak/{}/
+網絡詐騙 网络诈骗 [wang3 luo4_zha4 pian4] /online fraud/fraud, online/{}/
 網絡戰 网络战 [wang3 luo4_zhan4] /cyber warfare/warfare, cyber/{}/
 網絡轉播 网络转播 [wang3 luo4_zhuan3 bo1] /Internet broadcast/stream/broadcast, Internet/{}/
 網絡資源 网络资源 [wang3 luo4_zi1 yuan2] /online resources/resources, online/{}/
@@ -80002,6 +80072,7 @@
 下一篇文章 下一篇文章 [xia4_yi1_pian1_wen2 zhang1] /the next article/next article, the/{}/
 下周末 下周末 [xia4_zhou1 mo4] /next weekend/weekend, next/{}/
 下巴輕輕 下巴轻轻 [xia4 ba5_qing1 qing1] /casually promise/promise, casually/<Cantonese>/{}/
+下班車潮 下班车潮 [xia4 ban1_che1_chao2] /evening rush hour/after-work traffic/rush hour, evening/traffic, after-work/{}/
 下半生 下半生 [xia4 ban4 sheng1] /second half of one's lifetime/half of one's lifetime, second/{}/
 下背 下背 [xia4 bei4] /lower back/back, lower/<phys.>/{}/
 下邊框 下边框 [xia4 bian1 kuang4] /bottom border (of image etc)/border, bottom (of image etc)/{}/
@@ -80128,6 +80199,7 @@
 腺熱 腺热 [xian4 re4] /glandular fever/fever, glandular/{}/
 現任總統 现任总统 [xian4 ren4_zong3 tong3] /sitting president/president, sitting/{}/
 現如今 现如今 [xian4 ru2 jin1] /nowadays/{}/
+線上購物平台 线上购物平台 [xian4 shang4_gou4 wu4_ping2 tai2] /online shopping platform/online marketplace/shopping platform, online/marketplace, online/{}/
 線上會議 线上会议 [xian4 shang4_hui4 yi4] /online meeting/meeting, online/{}/
 線上活動 线上活动 [xian4 shang4_huo2 dong4] /online event/online activity (quiz etc)/event, online (quiz etc)/activity, online (quiz etc)/{}/
 線上課程 线上课程 [xian4 shang4_ke4 cheng2] /online course/online lessons/course, online/lessons, online/{}/
@@ -80193,6 +80265,8 @@
 香壇 香坛 [xiang1 tan2] /altar of incense/incense, altar of/{}/
 香桃木 香桃木 [xiang1 tao2 mu4] /myrtle/{}/
 相通性 相通性 [xiang1 tong1 xing4] /linked/related/{}/
+香味機 香味机 [xiang1 wei4 ji1] /aroma diffuser (less common name)/diffuser, aroma (less common name)/{}/
+香薰機 香薰机 [xiang1 xun1 ji1] /aroma diffuser (electric)/diffuser, aroma (electric)/{}/
 相咬相吞 相咬相吞 [xiang1 yao3-xiang1 tun1] /biting and devouring one another/devouring one another, biting and/{}/
 相應數據 相应数据 [xiang1 ying4_shu4 ju4] /corresponding data/data, corresponding/{}/
 香炸 香炸 [xiang1 zha2] /deep fried/fried, deep/{}/
@@ -80877,6 +80951,7 @@
 虛擬私人網絡 虚拟私人网络 [xu1 ni3_si1 ren2_wang3 luo4] /virtual private network/VPN/private network, virtual/{}/
 虛擬現實 虚拟现实 [xu1 ni3_xian4 shi2] /virtual reality/VR/reality, virtual/{}/
 虛擬形象 虚拟形象 [xu1 ni3_xing2 xiang4] /avatar/<comp.>/{}/
+虛擬專用網絡 虚拟专用网络 [xu1 ni3_zhuan1 yong4_wang3 luo4] /virtual private network/VPN/private network, virtual/{}/
 虛擬圖 虚拟图 [xu1 ni3 tu2] /stylized depiction/depiction, stylized/{}/
 虛偽的人 虚伪的人 [xu1 wei3_de5_ren2] /hypocrite/{}/
 需要花時間 需要花时间 [xu1 yao4_hua1_shi2 jian1] /takes time (lit. need to spend time)/{}/
@@ -80922,6 +80997,7 @@
 旋渦狀 旋涡状 [xuan2 wo1 zhuang4] /whorled/{}/
 懸崖效應 悬崖效应 [xuan2 ya2_xiao4 ying4] /cliff effect (sudden loss of signal)/effect, cliff (sudden loss of signal)/{}/
 旋轉嵌入 旋转嵌入 [xuan2 zhuan3_qian4 ru4] /rotary position embedding/RoPE/position embedding, rotary/{}/
+旋轉運動 旋转运动 [xuan2 zhuan3_yun4 dong4] /rotation exercise (in rehabilitation etc)/exercise, rotation (in rehabilitation etc)/{}/
 選邊站 选边站 [xuan3 bian1 zhan4] /take sides/sides, take/{}/
 選錯 选错 [xuan3 cuo4] /choose mistakenly/choose wrongly/mistakenly, choose/wrongly, choose/{}/
 選單 选单 [xuan3 dan1] /menu (on computer)/{}/
@@ -81172,6 +81248,7 @@
 亞原子粒子 亚原子粒子 [ya4 yuan2 zi3_li4 zi3] /subatomic particle/particle, subatomic/{}/
 腌菜醬 腌菜酱 [yan1 cai4 jiang4] /pickle (Branston etc)/{}/
 煙草公司 烟草公司 [yan1 cao3_gong1 si1] /tobacco company|ies/company|ies, tobacco/{}/
+菸草店 菸草店 [yan1 cao3 dian4] /Tabacchi/tobacco shop/{}/
 淹到 淹到 [yan1 dao4] /flood to/{}/
 胭紅色 胭红色 [yan1 hong2 se4] /scarlet/{}/
 咽喉癌 咽喉癌 [yan1 hou2 ai2] /throat cancer/cancer, throat/{}/
@@ -81428,6 +81505,7 @@
 一對夫婦 一对夫妇 [yi1_dui4_fu1 fu4] /a (married) couple/couple, a/{}/
 一兒一女 一儿一女 [yi1_er2_yi1_nu:3] /a son and a daughter/daughter, a son and a/{}/
 一分力 一分力 [yi1_fen1_li4] /bit of individual effort (to contribute to a project)/individual effort, bit of (to contribute to a project)/{}/
+一份正當的工作 一份正当的工作 [yi1_fen4_zheng4 dang4_de5_gong1 zuo4] /an honest living (not crime etc)/honest living, an (not crime etc)/{}/
 一封信 一封信 [yi1_feng1_xin4] /a letter/letter, a/{}/
 一個半小時 一个半小时 [yi1_ge5_ban4_xiao3 shi2] /an hour and a half/hour and a half, an/{}/
 一個人生活 一个人生活 [yi1_ge5_ren2_sheng1 huo2] /live by oneself/live alone/oneself, live by/alone, live/{}/
@@ -82215,6 +82293,7 @@
 語境下 语境下 [yu3 jing4_xia4] /in context of (the aforementioned)/context of, in (the aforementioned)/{}/
 語料處理 语料处理 [yu3 liao4_chu3 li3] /corpus processing/processing, corpus/{}/
 語料訓練 语料训练 [yu3 liao4_xun4 lian4] /corpus training/training, corpus/{}/
+語料庫語言學家 语料库语言学家 [yu3 liao4 ku4_yu3 yan2 xue2 jia1] /corpus linguist/linguist, corpus/{}/
 羽毛筆 羽毛笔 [yu3 mao2 bi3] /feather pen/{}/
 語培 语培 [yu3 pei2] /language training/training, language/{}/
 與時俱進 与时俱进 [yu3 shi2 ju4 jin4] /moving forward/move with the times/forward, moving/times, move with the/{}/
@@ -82643,6 +82722,7 @@
 早九晚五 早九晚五 [zao3 jiu3-wan3 wu3] /work 9am-5pm/9am-5pm, work/{}/
 早老性痴呆病 早老性痴呆病 [zao3 lao3 xing4_chi1 dai1 bing4] /Alzheimer's disease/disease, Alzheimer's/{}/
 棗蓮 枣莲 [zao3 lian2] /lotus tree/tree, lotus/{}/
+早起者 早起者 [zao3 qi3 zhe3] /early riser/riser, early/{}/
 早睡早起身體好 早睡早起身体好 [zao3 shui4 zao3 qi3_shen1 ti3_hao3] /early to bed and to to rise is good for the body/rise is good for the body, early to bed and to to/{}/
 棗椰樹 枣椰树 [zao3 ye1 shu4] /date palm/palm, date/{}/
 造反噬 造反噬 [zao4_fan3 shi4] /make it bite back (of cornered animal)/bite back, make it (of cornered animal)/{}/
@@ -82694,6 +82774,7 @@
 柵欄區 栅栏区 [zha4 lan5_qu1] /pen (for animals)/{}/
 蚱蜢擒縱輪 蚱蜢擒纵轮 [zha4 meng3_qin2 zong4 lun2] /grasshopper escapement/escapement, grasshopper/{}/
 詐騙電話 诈骗电话 [zha4 pian4_dian4 hua4] /phone scam/scam, phone/{}/
+詐騙分子 诈骗分子 [zha4 pian4_fen4 zi3] /scammers/{}/
 詐騙郵件 诈骗邮件 [zha4 pian4_you2 jian4] /scam message/scam (e)mail/message, scam/{}/
 詐騙罪 诈骗罪 [zha4 pian4 zui4] /fraud (crime)/{}/
 榨汁器 榨汁器 [zha4 zhi1 qi4] /juicer/{}/
@@ -82855,6 +82936,7 @@
 折臂 折臂 [zhe2 bi4] /folding arm/boom/arm, folding/{}/
 折臂升降機 折臂升降机 [zhe2 bi4_sheng1 jiang4 ji1] /boom lift/lift, boom/{}/
 摺疊 摺叠 [zhe2 die2] /fold double (of tent cloths etc)/double, fold (of tent cloths etc)/{}/
+折疊的疑問 折叠的疑问 [zhe2 die2_de5_yi2 wen4] /the folding problem/folding problem, the/{}/
 折疊毛巾 折叠毛巾 [zhe2 die2_mao2 jin1] /folded towel/fold towels/towel, folded/towels, fold/{}/
 折疊手機 折叠手机 [zhe2 die2_shou3 ji1] /foldable phone/phone, foldable/{}/
 折疊杖 折叠杖 [zhe2 die2 zhang4] /folding cane/cane, folding/{}/
@@ -83091,6 +83173,7 @@
 支出法案 支出法案 [zhi1 chu1_fa3 an4] /funding bill (US)/bill, funding (US)/{}/
 脂蛋白 脂蛋白 [zhi1 dan4 bai2] /lipoprotein/{}/
 脂肪酶 脂肪酶 [zhi1 fang2 mei2] /lipase/{}/
+支付方式 支付方式 [zhi1 fu4_fang1 shi4] /payment method/method, payment/{}/
 支付令 支付令 [zhi1 fu4_ling4] /payment order (to bank etc)/order, payment (to bank etc)/{}/
 支付不起 支付不起 [zhi1 fu4 bu5 qi3] /can't pay/{}/
 知恵 知恵 [zhi1 hui4] /paññā (prajna)/<Budd.>/{}/
@@ -83303,6 +83386,7 @@
 智能指針 智能指针 [zhi4 neng2_zhi3 zhen1] /smart pointer/<comp.|C++>/{}/
 智能化 智能化 [zhi4 neng2 hua4] /AI-enabled/adding AI to product etc/{}/
 至善之道 至善之道 [zhi4 shan4_zhi1_dao4] /surpassing way/{}/
+至少有 至少有 [zhi4 shao3 you3] /at least/least, at/{}/
 置身於 置身于 [zhi4 shen1_yu2] /be in (personally)/{}/
 至聖者 至圣者 [zhi4 sheng4 zhe3] /Most Holy One/Holy One, Most/{}/
 致死率 致死率 [zhi4 si3 lu:4] /case fatality rate/fatality rate, case/{}/
@@ -83526,6 +83610,7 @@
 主機設定 主机设定 [zhu3 ji1_she4 ding4] /console settings/settings, console/<comp.|gaming>/{}/
 主教團 主教团 [zhu3 jiao4 tuan2] /Bishops' Conference/Conference, Bishops'/{}/
 主教長 主教长 [zhu3 jiao4 zhang3] /Primate (Catholic title)/{}/
+主教座堂 主教座堂 [zhu3 jiao4 zuo4 tang2] /cathedral (with bishop)/{}/
 主流教會 主流教会 [zhu3 liu2_jiao4 hui4] /established church (lit. mainstream church)/church, established (lit. mainstream church)/{}/
 主流媒體 主流媒体 [zhu3 liu2_mei2 ti3] /mainstream media/media, mainstream/{}/
 主流思想 主流思想 [zhu3 liu2_si1 xiang3] /mainstream thought/thought, mainstream/{}/
